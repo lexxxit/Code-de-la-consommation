@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2001-01-17
+Version Consolidée au 2001-02-02
 
 # Partie législative
 
@@ -20645,6 +20645,46 @@ variation du prix y soit explicitement décrit.
 
 
 ### Titre III : Traitement des situations de surendettement
+
+#### Chapitre Ier : Commission de surendettement des particuliers
+
+##### Section 2 : Procédure devant la commission de surendettement des particuliers
+
+##### Sous-section 5 : Mesures de traitement du surendettement
+
+##### Paragraphe 3 : Mesures recommandées par la commission
+
+###### Article R331-21
+
+Dans un délai de quinze jours après avoir rendu son avis, la commission transmet au juge de l'exécution, les mesures qu'elle
+recommande afin qu'il leur soit conféré force exécutoire.
+
+La lettre comporte en annexe les recommandations de la commission, les courriers mentionnés aux articles R. 331-18, R. 331-19
+et R. 331-19-1, ainsi que la déclaration prévue au premier alinéa de l'article R. 331-19.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Créé par**:
+
+	  - Décret n°2004-180 2004-02-24 art. 1 III, XIX, XX JORF 25 février 2004
+	  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1304 du 29 octobre 2010 - art. 3
+
+	**Cite**:
+
+	  - Code de la consommation
+
+	**Anciens textes**:
+
+	  - Code de la consommation R332-1
+
 
 #### Chapitre Ier : De la procédure devant la commission de surendettement des particuliers
 
