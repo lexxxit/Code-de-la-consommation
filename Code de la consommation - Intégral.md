@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2004-08-07
+Version Consolidée au 2004-08-11
 
 # Partie législative
 
@@ -6171,23 +6171,24 @@ exécuté.
 
 ###### Article L141-1
 
-I. - Sont constatées et poursuivies dans les conditions fixées par les articles L450-1 à L450-4, L450-7, L450-8, L470-1 et
-L470-5 du code de commerce, reproduits au paragraphe IV ci-après, les infractions aux dispositions prévues au présent code
+I. - Sont constatées et poursuivies dans les conditions fixées par les articles L450-1, L450-2, L450-3 et L450-4, L450-7,
+L450-8 du code de commerce, reproduits au paragraphe IV ci-après, les infractions aux dispositions prévues au présent code
 par :
 
 1° Les articles L. 121-70, L. 121-71, L. 121-72, L. 122-6 et L. 122-7 ;
 
 2° Les articles L. 132-1 à L. 132-5, L. 133-1 et L. 134-1.
 
-II. - Dans les conditions fixées par les articles L450-1 à L450-4, L450-8, L470-1 et L470-5 du code précité, reproduits au
-paragraphe IV ci-après, les personnes habilitées en vertu de l'article L450-1 de ce code peuvent procéder aux enquêtes
-nécessaires à l'application des dispositions prévues par les articles L. 113-3, L 121-35 et L. 122-1 du présent code.
+II. - Dans les conditions fixées par les articles L450-1 à L450-4, L450-8, L470-1 et L470-5 du code de commerce, reproduits
+au paragraphe IV ci-après, les personnes habilitées en vertu de l'article L450-1 de ce code peuvent procéder aux enquêtes
+nécessaires à l'application des dispositions prévues par les articles L. 113-3, L. 121-35 et L. 122-1 du présent code, et par
+l'article L. 3351-8 du code de la santé publique.
 
 III. - Les dispositions des articles L470-1 et L470-5 du code précité, reproduits au paragraphe IV ci-après, sont applicables
 aux dispositions prévues par les articles L. 113-3, L. 121-35 et L. 122-1 du présent code.
 
 IV. - Les règles relatives à l'application des dispositions des paragraphes I à III ci-dessus sont fixées par les articles
-L450-1 à à L450-4, L450-8, L470-1 et L470-5 du code précité, reproduits ci-après :
+L450-1 à à L450-4, L450-7, L450-8, L470-1 et L470-5 du code précité, reproduits ci-après :
 
 "Art. L450-1 : Des fonctionnaires habilités à cet effet par le ministre chargé de l'économie peuvent procéder aux enquêtes
 nécessaires à l'application des dispositions du présent livre.
@@ -6342,10 +6343,11 @@ peut, devant les juridictions civiles ou pénales, déposer des conclusions et l
 	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 48 (M)
 	  - Loi n°2000-516 2000-06-15
 	  - Ordonnance 2000-912 2000-09-18
-	  - Code de commerce L450-1 à L450-4, L450-7, L450-8, L470-1, L470-5, L450-1
+	  - Code de commerce L450-1 à L450-4, L450-7, L450-8, L470-1, L470-5, L450-1, L463-2
 	  - Code de commerce. - art. L450-1 (M)
 	  - Code de commerce. - art. L450-7 (V)
 	  - Code de commerce. - art. L450-8 (M)
+	  - Code de commerce. - art. L463-2 (M)
 	  - Code de commerce. - art. L470-1 (V)
 	  - Code de commerce. - art. L470-5 (V)
 	  - Code de la consommation - art. L113-3 (M)
@@ -6358,7 +6360,7 @@ peut, devant les juridictions civiles ou pénales, déposer des conclusions et l
 	  - Code de la consommation - art. L122-7 (M)
 	  - Code de la consommation - art. L133-1 (V)
 	  - Code de la consommation - art. L134-1 (V)
-	  - Code de la consommation L121-70, L121-71, L121-72, L122-6, L122-7, L132-1 à L132-5, L133-1, L134-1, L113-3, L121-35, L122-1, L450-1, L463-2, 48
+	  - Code de la consommation L121-70, L121-71, L121-72, L122-6, L122-7, L132-1 à L132-5, L133-1, L134-1, L113-3, L121-35, L122-1, L450-1
 	  - CODE DE PROCEDURE PENALE - art. 56 (M)
 
 	**Anciens textes**:
@@ -6371,7 +6373,7 @@ peut, devant les juridictions civiles ou pénales, déposer des conclusions et l
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18 art. 4 I JORF 21 septembre 2000
+	  - Loi n°2004-806 du 9 août 2004 - art. 41 () JORF 11 août 2004
 
 
 ## Livre II : Conformité et sécurité des produits et des services
@@ -6993,15 +6995,15 @@ l'exercice de laquelle l'infraction a été commise.
 Il sera statué par des décrets en Conseil d'Etat sur les mesures à prendre pour assurer l'exécution des chapitres II à VI du
 présent titre, notamment en ce qui concerne :
 
-1° La fabrication et l'importation des marchandises autres que celles visées aux articles 258, 259 et 262 du code rural ainsi
-que la vente, la mise en vente, l'exposition, la détention et la distribution à titre gratuit de toutes marchandises visées
-par les chapitres II à VI ;
+1° La fabrication et l'importation des marchandises autres que celles visées aux articles L. 231-1, L. 231-2 et L. 231-5 du
+code rural ainsi que la vente, la mise en vente, l'exposition, la détention et la distribution à titre gratuit de toutes
+marchandises visées par les chapitres II à VI ;
 
 2° Les modes de présentation ou les inscriptions de toute nature sur les marchandises elles-mêmes, les emballages, les
 factures, les documents commerciaux ou documents de promotion, en ce qui concerne notamment : le mode de production, la
-nature, les qualités substantielles, la composition, la teneur en principes utiles, l'espèce, l'origine, l'identité, la
-quantité, l'aptitude à l'emploi, les modes d'emploi ainsi que les marques spéciales facultatives ou obligatoires apposées sur
-les marchandises françaises exportées à l'étranger ;
+nature, les qualités substantielles, la composition y compris, pour les denrées alimentaires, la  composition nutritionnelle,
+la teneur en principes utiles, l'espèce, l'origine, l'identité, la quantité, l'aptitude à l'emploi, les modes d'emploi ainsi
+que les marques spéciales facultatives ou obligatoires apposées sur les marchandises françaises exportées à l'étranger ;
 
 3° La définition, la composition et la dénomination des marchandises de toute nature, les traitements licites dont elles
 peuvent être l'objet, les caractéristiques qui les rendent impropres à la consommation ;
@@ -7009,11 +7011,12 @@ peuvent être l'objet, les caractéristiques qui les rendent impropres à la con
 4° La définition et les conditions d'emploi des termes et expressions publicitaires, dans le but d'éviter une confusion ;
 
 5° L'hygiène des établissements où sont préparées, conservées et mises en vente les denrées destinées à l'alimentation
-humaine ou animale autres que celles visées aux articles 258, 259 et 262 du code rural et les conditions d'hygiène et de
-santé des personnes travaillant dans ces locaux ;
+humaine ou animale autres que celles visées aux articles L. 231-1, L. 231-2 et L. 231-5 du code rural et les conditions
+d'hygiène et de santé des personnes travaillant dans ces locaux ;
 
 6° Les conditions dans lesquelles sont déterminées les caractéristiques microbiologiques et hygiéniques des marchandises
-destinées à l'alimentation humaine ou animale autres que celles visées aux articles 258, 259 et 262 du code rural ;
+destinées à l'alimentation humaine ou animale autres que celles visées aux articles L. 231-1, L. 231-2 et L. 231-5 du code
+rural ;
 
 7° Les conditions matérielles dans lesquelles les indications, visées au dernier alinéa de l'article L. 213-4, devront être
 portées à la connaissance des acheteurs sur les étiquettes, annonces, réclames, papiers de commerce.
@@ -7023,11 +7026,6 @@ lorsqu'ils portent sur des produits entrant dans son champ de compétence ou qu'
 prévenir des risques sanitaires ou nutritionnels. Ces avis sont rendus publics.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 258, 259, 262
-	  - Code de la consommation - art. L213-4 (M)
 
 	**Anciens textes**:
 
@@ -7312,7 +7310,12 @@ prévenir des risques sanitaires ou nutritionnels. Ces avis sont rendus publics.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 57 () JORF 16 mai 2001
+	  - Loi n°2004-806 du 9 août 2004 - art. 31 () JORF 11 août 2004
+
+	**Cite**:
+
+	  - Code de la consommation - art. L213-4 (M)
+	  - Code rural L231-1, L231-2, L231-5
 
 
 ###### Article L214-1-1
