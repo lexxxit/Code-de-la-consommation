@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2000-06-16
+Version Consolidée au 2000-07-28
 
 # Partie législative
 
@@ -14724,18 +14724,18 @@ légumes.
 
 ###### Article R112-5
 
-On entend par lot de fabrication un ensemble d'unités de vente d'une denrée alimentaire qui a été produite, fabriquée ou
-conditionnée dans des circonstances pratiquement identiques.
+On entend par lot un ensemble d'unités de vente d'une denrée alimentaire qui a été produite, fabriquée ou conditionnée dans
+des circonstances pratiquement identiques.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°84-1147 1984-12-07 art. 18-2 al. 2
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2000-705 du 20 juillet 2000 - art. 4 () JORF 28 juillet 2000
 
 	**Cité par**:
 
@@ -14848,7 +14848,7 @@ de conservation ;
 6° Le nom ou la raison sociale et l'adresse du fabricant ou du conditionneur ou d'un vendeur établi à l'intérieur du
 territoire de la Communauté européenne ;
 
-7° L'indication du lot de fabrication ;
+7° L'indication du lot ;
 
 8° Le lieu d'origine ou de provenance chaque fois que l'omission de cette mention est de nature à créer une confusion dans
 l'esprit de l'acheteur sur l'origine ou la provenance réelle de la denrée alimentaire ;
@@ -14865,9 +14865,13 @@ l'esprit de l'acheteur sur l'origine ou la provenance réelle de la denrée alim
 	  - Code de la santé publique - art. R1321-88 (V)
 	  - Code de la santé publique - art. R1322-44-10 (V)
 
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
 	**Modifié par**:
 
-	  - Décret n°98-879 1998-09-29 art. 2 JORF 2 octobre 1998
+	  - Décret n°2000-705 du 20 juillet 2000 - art. 4 () JORF 28 juillet 2000
 
 	**Cite**:
 
@@ -14948,18 +14952,22 @@ l'article R. 112-9..
 Lorsque les denrées alimentaires préemballées sont commercialisées à un stade antérieur à la vente au consommateur final ou
 lorsqu'elles sont destinées à être livrées aux restaurants, hôpitaux, cantines et autres collectivités similaires, ci-après
 dénommés "collectivités", pour y être préparées, transformées, fractionnées ou débitées, les mentions prévues à l'article R.
-112-9, à l'exception de l'indication du lot de fabrication, et celles prévues à l'article R. 112-9-1 peuvent ne figurer que
-sur les fiches, bons de livraison ou documents commerciaux lorsque ceux-ci accompagnent les denrées alimentaires auxquelles
-ils se rapportent ou lorsqu'ils ont été envoyés avant la livraison ou en même temps qu'elle. Ces documents doivent être
-détenus sur les lieux d'utilisation ou de stockage des denrées alimentaires auxquelles ils se réfèrent. Dans ce cas, les
-mentions prévues aux 1°, 5° et 6° de l'article R. 112-9 sont portées en outre sur l'emballage extérieur dans lequel lesdites
-denrées sont présentées lors de la commercialisation.
+112-9, à l'exception de l'indication du lot, et celles prévues à l'article R. 112-9-1 peuvent ne figurer que sur les fiches,
+bons de livraison ou documents commerciaux lorsque ceux-ci accompagnent les denrées alimentaires auxquelles ils se rapportent
+ou lorsqu'ils ont été envoyés avant la livraison ou en même temps qu'elle. Ces documents doivent être détenus sur les lieux
+d'utilisation ou de stockage des denrées alimentaires auxquelles ils se réfèrent. Dans ce cas, les mentions prévues aux 1°,
+5° et 6° de l'article R. 112-9 sont portées en outre sur l'emballage extérieur dans lequel lesdites denrées sont présentées
+lors de la commercialisation.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
 	**Modifié par**:
 
-	  - Décret n°98-879 du 29 septembre 1998 - art. 5 () JORF 2 octobre 1998
+	  - Décret n°2000-705 du 20 juillet 2000 - art. 4 () JORF 28 juillet 2000
 
 	**Cité par**:
 
@@ -15171,13 +15179,32 @@ une représentation graphique ;
 distinguer des produits avec lesquels elle pourrait être confondue en raison de sa dénomination ou de son aspect.
 
 La mention prévue à l'alinéa précédent figure soit dans la dénomination de vente de la denrée alimentaire, soit à proximité
-immédiate de cette dénonciation, soit dans la liste des ingrédients.
+immédiate de cette dénomination, soit dans la liste des ingrédients.
 
 La quantité mentionnée, exprimée en pourcentage, correspond à la quantité du ou des ingrédients au moment de leur mise en
 oeuvre. Des arrêtés du ministre chargé de la consommation, du ministre chargé de l'agriculture et des autres ministres
 intéressés peuvent prévoir des dérogations à ce principe pour certaines denrées alimentaires.
 
+Lorsqu'une denrée alimentaire a subi une perte d'humidité à la suite d'un traitement thermique ou autre, cette quantité
+correspond au rapport exprimé en pourcentage entre la quantité du ou des ingrédients mis en oeuvre et celle du produit fini.
+
+Toutefois, lorsque la quantité d'un ingrédient ou la quantité totale de tous les ingrédients exprimée dans l'étiquetage
+dépasse 100 % de la quantité totale du produit fini après perte d'humidité, le pourcentage est remplacé par l'indication du
+poids du ou des ingrédients utilisés pour la préparation de 100 grammes de produit fini.
+
+La quantité des ingrédients volatils est indiquée en fonction de leur importance pondérale dans le produit fini.
+
+La quantité des ingrédients utilisés sous une forme concentrée ou déshydratée et reconstitués pendant la fabrication peut
+être indiquée en fonction de leur importance pondérale avant la concentration ou la déshydratation.
+
+Lorsqu'il s'agit d'aliments concentrés ou déshydratés auxquels il faut ajouter de l'eau, la quantité des ingrédients peut
+s'exprimer en fonction de leur importance pondérale dans le produit reconstitué.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
 	**Liens**:
 
@@ -15186,7 +15213,7 @@ intéressés peuvent prévoir des dérogations à ce principe pour certaines den
 
 	**Modifié par**:
 
-	  - Décret n°98-879 du 29 septembre 1998 - art. 9 () JORF 2 octobre 1998 en vigueur le 14 février 2000
+	  - Décret n°2000-705 du 20 juillet 2000 - art. 1 () JORF 28 juillet 2000
 
 
 ###### Article R112-17-1
@@ -15213,19 +15240,29 @@ catégorie d'ingrédients sans en prévoir l'indication sur l'étiquetage ;
 3° Dans le cas de mélanges de fruits ou de légumes ou d'épices ou de plantes aromatiques, dont aucun ne prédomine en poids de
 manière significative.
 
+4° Dans les cas où la mention "édulcorant(s)" ou "avec sucre(s) et édulcorant(s)" accompagne la dénomination de vente d'une
+denrée alimentaire, conformément aux dispositions de l'article R. 112-9-1 (3° et 4°) ;
+
+5° Aux mentions relatives à l'adjonction de vitamines et minéraux dans les cas où ces substances font l'objet d'un étiquetage
+nutritionnel.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°98-879 1998-09-29 art. 21 (dispositions transitoires - modalités d'application)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-879 du 29 septembre 1998 - art. 10 () JORF 2 octobre 1998 en vigueur le 14 février 2000
+	  - Décret n°2000-705 du 20 juillet 2000 - art. 2 () JORF 28 juillet 2000
 
 	**Cite**:
 
-	  - Code de la consommation R112-20
+	  - Code de la consommation R112-20, R112-9-1
 
 
 ###### Article R112-18
@@ -15480,36 +15517,46 @@ pour la désignation des vins spéciaux en ce qui concerne l'indication du titre
 ###### Article R112-27
 
 Avant leur mise sur le marché, les denrées alimentaires, qu'elles soient préemballées ou non préemballées, doivent être
-accompagnées d'une indication permettant d'identifier le lot de fabrication auquel elles appartiennent.
+accompagnées d'une indication permettant d'identifier le lot auquel elles appartiennent.
 
-L'indication du lot de fabrication est déterminée et apposée, sous sa responsabilité, par le producteur, le fabricant ou le
-conditionneur de la denrée alimentaire ou par le premier vendeur établi à l'intérieur du territoire de la Communauté
-européenne.
+L'indication du lot est déterminée et apposée, sous sa responsabilité, par le producteur, le fabricant ou le conditionneur de
+la denrée alimentaire ou par le premier vendeur établi à l'intérieur du territoire de la Communauté européenne.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
 	**Modifié par**:
 
-	  - Décret n°98-879 du 29 septembre 1998 - art. 14 () JORF 2 octobre 1998
+	  - Décret n°2000-705 du 20 juillet 2000 - art. 4 () JORF 28 juillet 2000
 
 	**Cité par**:
 
 	  - Arrêté du 11 avril 2008 - art. 20 (V)
 
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
+
 
 ###### Article R112-28
 
-L'indication du lot de fabrication des denrées alimentaires préemballées figure sur le préemballage ou sur une étiquette liée
-à celui-ci.
+L'indication du lot des denrées alimentaires préemballées figure sur le préemballage ou sur une étiquette liée à celui-ci.
 
-L'indication du lot de fabrication des denrées alimentaires non préemballées figure sur l'emballage ou le récipient contenant
-la denrée alimentaire ou, à défaut, sur les documents commerciaux s'y référant.
+L'indication du lot des denrées alimentaires non préemballées figure sur l'emballage ou le récipient contenant la denrée
+alimentaire ou, à défaut, sur les documents commerciaux s'y référant.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
 	**Modifié par**:
 
-	  - Décret n°98-879 du 29 septembre 1998 - art. 15 () JORF 2 octobre 1998
+	  - Décret n°2000-705 du 20 juillet 2000 - art. 4 () JORF 28 juillet 2000
 
 	**Cité par**:
 
@@ -15518,7 +15565,7 @@ la denrée alimentaire ou, à défaut, sur les documents commerciaux s'y référ
 
 ###### Article R112-29
 
-Sont dispensées de l'indication du lot de fabrication les denrées alimentaires suivantes :
+Sont dispensées de l'indication du lot les denrées alimentaires suivantes :
 
 1° Les produits agricoles qui, au départ de l'exploitation, sont :
 
@@ -15542,21 +15589,33 @@ emballages de groupage.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
 	**Modifié par**:
 
-	  - Décret n°98-879 du 29 septembre 1998 - art. 16 () JORF 2 octobre 1998
+	  - Décret n°2000-705 du 20 juillet 2000 - art. 4 () JORF 28 juillet 2000
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 
 ###### Article R112-30
 
 Des arrêtés du ministre chargé de la consommation, du ministre chargé de l'agriculture et, le cas échéant, des autres
-ministres intéressés fixent les modalités pratiques d'indication du lot de fabrication.
+ministres intéressés fixent les modalités pratiques d'indication du lot.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
 	**Modifié par**:
 
-	  - Décret n°98-879 du 29 septembre 1998 - art. 17 () JORF 2 octobre 1998
+	  - Décret n°2000-705 du 20 juillet 2000 - art. 4 () JORF 28 juillet 2000
 
 
 ###### Article R112-31
@@ -15590,27 +15649,34 @@ mentions prévues aux 3° et 4° de l'article R. 112-9-1.
 A l'exception des articles R. 112-27, R. 112-28 et R. 112-30, le présent chapitre n'est pas applicable à l'étiquetage et à la
 présentation des produits soumis aux dispositions du règlement n° 2392-89 du Conseil des communautés européennes du 24
 juillet 1989 établissant des règles générales pour la désignation et la présentation des moûts de raisin ainsi qu'à ceux qui
-sont soumis aux dispositions du règlement n° 3309-85 du Conseil des communautés européennes du 10 novembre 1985 modifié
-établissant les règles générales pour la désignation et la présentation des vins mousseux et des vins mousseux gazéifiés.
+sont soumis aux dispositions du règlement n° 2333-92 du Conseil du 13 juillet 1992 modifié établissant les règles générales
+pour la désignation et la présentation des vins mousseux et des vins mousseux gazéifiés.
 
-A l'exception des dispositions de l'article R. 112-7, le présent chapitre n'est pas non plus applicable aux produits visés
-par les règlements n° 1035-72 du Conseil des communautés européennes du 18 mai 1972 modifié portant organisation commune des
-marchés dans le secteur des fruits et légumes et n° 2772-75 du Conseil des communautés européennes du 29 octobre 1975 modifié
-concernant certaines normes de commercialisation applicables aux oeufs.
+A l'exception des dispositions de l'article R. 112-7, le présent chapitre n'est pas non plus applicable à l'étiquetage et à
+la présentation des produits soumis aux dispositions du règlement n° 1907/90 du 26 juin 1990 modifié concernant certaines
+normes de commercialisation applicables aux oeufs.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
 	**Modifié par**:
 
-	  - Décret n°98-879 du 29 septembre 1998 - art. 19 () JORF 2 octobre 1998
+	  - Décret n°2000-705 du 20 juillet 2000 - art. 3 () JORF 28 juillet 2000
+
+	**Abrogé par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 25 () JORF 6 août 2005 en vigueur le 25 novembre 2005
 
 	**Cite**:
 
 	  - Code de la consommation R112-27, R112-28, R112-30, R112-7
 	  - Règlement CEE 1035-72 1972-05-18 Conseil
+	  - Règlement CEE 2333-92 1992-07-13 Conseil
 	  - Règlement CEE 2392-89 1989-07-24 Conseil
 	  - Règlement CEE 2772-75 1975-10-29 Conseil
-	  - Règlement CEE 3309-85 1985-11-10 Conseil
 
 
 ###### Article R112-33
