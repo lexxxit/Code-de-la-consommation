@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1993-07-27 00:00:01 +0200
+Version Consolidée au 1994-01-04
 
 # Partie législative
 
@@ -860,9 +860,10 @@ commune, ou, le cas échéant, d'une partie de la même commune.
 
 Quiconque aura soit apposé, soit fait apparaître, par addition, retranchement ou par une altération quelconque, sur des
 produits, naturels ou fabriqués, mis en vente ou destinés à être mis en vente, des appellations d'origine qu'il savait
-inexactes sera puni d'un emprisonnement de trois mois au moins, d'un an au plus, et d'une amende de 360 F à 20 000 F, ou
-l'une de ces deux peines seulement.    Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux qu'il
-désignera et son insertion intégrale ou par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
+inexactes sera puni des peines prévues à l'article L. 213-1.
+
+Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux qu'il désignera et son insertion intégrale ou
+par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 
 Quiconque aura vendu, mis en vente ou en circulation des produits naturels ou fabriqués portant une appellation d'origine
 qu'il savait inexacte sera puni des mêmes peines.
@@ -893,13 +894,13 @@ qu'il savait inexacte sera puni des mêmes peines.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°1919-05-06 art. 8
+	  - Code de la consommation - art. L213-1 (M)
 
 
 ###### Article L115-17
@@ -1054,7 +1055,9 @@ chacune de ces appellations d'origine contrôlées.
 Il donne son avis sur les dispositions nationales relatives à l'étiquetage et à la présentation de chacun des produits
 relevant de sa compétence. Il peut être consulté sur toute autre question relative aux appellations d'origine.
 
-Il contribue à la promotion et à la défense de ces appellations d'origine en France et à l'étranger.
+Il contribue, en France et à l'étranger, à la promotion et à la défense des appellations d'origine mentionnées dans la
+présente section, ainsi qu'à la défense des appellations d'origine protégées et des indications géographiques protégées
+mentionnées à la section III du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -1065,7 +1068,6 @@ Il contribue à la promotion et à la défense de ces appellations d'origine en 
 	**Anciens textes**:
 
 	  - Loi n°1919-05-06 du 6 mai 1919 - art. 7-8 (Ab)
-	  - Loi n°1919-05-06 art. 7-8
 
 	**Cité par**:
 
@@ -1087,9 +1089,9 @@ Il contribue à la promotion et à la défense de ces appellations d'origine en 
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°94-2 du 3 janvier 1994 - art. 2 () JORF 4 janvier 1994
 
 	**Liens**:
 
@@ -1116,13 +1118,12 @@ Il contribue à la promotion et à la défense de ces appellations d'origine en 
 ###### Article L115-21
 
 Les denrées alimentaires et les produits agricoles non alimentaires et non transformés peuvent bénéficier d'un label agricole
-homologué ou d'une certification de conformité à des spécifications de type normatif.
+ou faire l'objet d'une certification de conformité aux règles définies dans un cahier des charges.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°60-808 du 5 août 1960 - art. 28-1 (M)
 	  - Loi n°60-808 du 5 août 1960 - art. 28-1 (Ab)
 
 	**Cité par**:
@@ -1134,9 +1135,9 @@ homologué ou d'une certification de conformité à des spécifications de type 
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
 
 	**Nouveaux textes**:
 
@@ -1145,19 +1146,18 @@ homologué ou d'une certification de conformité à des spécifications de type 
 
 ###### Article L115-22
 
-Les labels agricoles sont des marques collectives attestant qu'une denrée alimentaire ou qu'un produit agricole non
-alimentaire et non transformé possède un ensemble distinct de qualités et caractéristiques spécifiques préalablement fixées
-et établissant un niveau de qualité.
+Les labels agricoles attestent qu'une denrée alimentaire ou qu'un produit agricole non alimentaire et non transformé possède
+un ensemble distinct de qualités et caractéristiques spécifiques préalablement fixées dans un cahier des charges et
+établissant un niveau de qualité supérieure.
 
-Ce produit doit se distinguer des produits similaires de l'espèce habituellement commercialisée par ses conditions
-particulières de production, de fabrication et, le cas échéant, par son origine.
+L'origine géographique ne peut figurer parmi les caractéristiques spécifiques que si elle est enregistrée comme indication
+géographique protégée, sous réserve des dispositions du deuxième alinéa de l'article L. 115-23-1.
 
-Les labels agricoles sont délivrés par une personne morale de droit public ou de droit privé qui n'est ni producteur, ni
-fabricant, ni importateur, ni vendeur de produits de même nature.
+Ce produit doit se distinguer des produits similaires de l'espèce habituellement commercialisés, notamment par ses conditions
+particulières de production ou de fabrication et, le cas échéant, par son origine géographique.
 
-Les labels agricoles ne peuvent être utilisés que s'ils ont fait l'objet d'une homologation par arrêté ministériel.
-
-Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application du présent article.
+Seuls des producteurs ou des transformateurs organisés en groupement, quelle qu'en soit la forme juridique, sont habilités à
+demander la délivrance d'un label.
 
 **Liens relatifs à cet article**
 
@@ -1169,15 +1169,19 @@ Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'a
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
 
 	**Cité par**:
 
 	  - Décret n°96-193 du 12 mars 1996 - art. 18 (Ab)
 	  - Décret n°96-193 du 12 mars 1996 - art. 8 (M)
 	  - Code rural - art. L671-5 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L115-23-1 (M)
 
 	**Nouveaux textes**:
 
@@ -1186,16 +1190,11 @@ Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'a
 
 ###### Article L115-23
 
-La certification atteste qu'une denrée alimentaire ou qu'un produit agricole non alimentaire et non transformé est conforme à
-des caractéristiques spécifiques ou à des règles préalablement fixées portant, selon le cas, sur la fabrication, la
-transformation ou le conditionnement.
-
-La certification est délivrée par des organismes agréés et indépendants du producteur, du fabricant, du vendeur et de
-l'importateur.
-
-Un décret en Conseil d'Etat précise les conditions dans lesquelles les organismes certificateurs sont agréés et selon
-lesquelles l'impartialité de ces organismes et l'efficacité de leur contrôle sont assurées. Il précise également la nature et
-le mode d'élaboration des documents de référence dont la certification atteste le respect.
+La certification de conformité atteste qu'une denrée alimentaire ou qu'un produit agricole non alimentaire et non transformé
+est conforme à des caractéristiques spécifiques ou à des règles préalablement fixées dans un cahier des charges portant,
+selon le cas, sur la production, la transformation ou le conditionnement et, le cas échéant, l'origine géographique de la
+denrée ou du produit lorsque cette origine est enregistrée comme indication géographique protégée, sous réserve des
+dispositions du deuxième alinéa de l'article L. 115-23-1.
 
 **Liens relatifs à cet article**
 
@@ -1214,13 +1213,163 @@ le mode d'élaboration des documents de référence dont la certification attest
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
+
+	**Cite**:
+
+	  - Code de la consommation - art. L115-23-1 (M)
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L643-3 (V)
+
+
+###### Article L115-23-1
+
+Le label ou la certification de conformité ne peut pas comporter de mention géographique si cette dernière n'est pas
+enregistrée comme indication géographique protégée.
+
+Toutefois, si l'autorité administrative a demandé l'enregistrement de cette mention géographique comme indication
+géographique protégée, le label ou la certification de conformité peut comporter cette mention, y compris dans les
+caractéristiques spécifiques, jusqu'à la date de la décision relative à son enregistrement.
+
+L'interdiction mentionnée au premier alinéa ne s'applique pas lorsque la dénomination qui intègre cette mention est générique
+ou désigne un produit bénéficiant d'une attestation de spécificité.
+
+Les produits agricoles et les denrées alimentaires bénéficiant, avant la publication de la loi n° 94-2 du 3 janvier 1994
+relative à la reconnaissance de qualité des produits agricoles et alimentaires, d'un label agricole ou d'une certification de
+conformité peuvent continuer de porter une mention d'origine géographique sans bénéficier d'une indication géographique
+protégée pendant une période de huit ans à compter de la date de publication de la loi précitée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 28-1-2 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Cite**:
+
+	  - Loi n°94-2 1994-01-03
+
+	**Créé par**:
+
+	  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L115-22 (M)
+	  - Code de la consommation - art. L115-23 (M)
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L643-4 (M)
+
+
+###### Article L115-23-2
+
+Les labels agricoles et les certificats de conformité sont délivrés par des organismes certificateurs agréés par l'autorité
+administrative.
+
+Les organismes certificateurs doivent offrir des garanties d'impartialité et d'indépendance et n'être, notamment, ni
+producteur, ni fabricant, ni importateur, ni vendeur de produits de même nature et justifier de leur compétence et de
+l'efficacité de leur contrôle.
+
+L'agrément ne peut être accordé que sur vérification de ces conditions et de la capacité de l'organisme à assurer les
+contrôles de la qualité des produits dotés de labels ou de certificats de conformité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 28-1-2 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°83-507 du 17 juin 1983 - art. 12-1 (Ab)
+	  - Décret n°95-723 du 9 mai 1995 - art. 2 (Ab)
+	  - Décret n°96-193 du 12 mars 1996 - art. 1 (Ab)
+	  - Décret n°96-193 du 12 mars 1996 - art. 3 (M)
+	  - Décret n°96-193 du 12 mars 1996 - art. 8 (M)
+	  - Décret n°96-193 du 12 mars 1996 - art. 9 (M)
+	  - Code de la consommation - art. L115-26-2 (M)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L643-5 (M)
+
+
+###### Article L115-23-3
+
+Les labels agricoles ne peuvent être utilisés que s'ils ont fait l'objet d'une homologation par arrêté interministériel.
+
+Il en est de même des certifications de conformité qui attestent l'origine géographique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 28-1-2 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°83-507 du 17 juin 1983 - art. 12-1 (Ab)
+	  - Décret n°96-193 du 12 mars 1996 - art. 3 (M)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L643-6 (V)
+
+
+###### Article L115-23-4
+
+Des décrets en Conseil d'Etat précisent, en tant que de besoin, les modalités d'application des articles L. 115-22 à L.
+115-23-3, et notamment les conditions que doivent remplir les cahiers des charges, leurs modalités d'examen et, s'il y a
+lieu, d'homologation, les caractéristiques des organismes certificateurs, leurs modalités de fonctionnement et les conditions
+de leur agrément.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 28-1-2 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
+
+	**Cite**:
+
+	  - Code de la consommation L115-22 à L115-23-3
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L643-7 (Ab)
 
 
 ###### Article L115-24
@@ -1333,6 +1482,451 @@ d'une appellation d'origine, les vins délimités de qualité supérieure et les
 	**Cité par**:
 
 	  - Code rural - art. L671-6 (V)
+
+
+##### Section 3 : Appellations d'origine protégées, indications géographiques protégées et attestations de spécificité.
+
+###### Article L115-26-1
+
+Constitue une appellation d'origine protégée ou une indication géographique protégée la dénomination inscrite au registre des
+appellations d'origine protégées et des indications géographiques protégées tenu par la Commission des communautés
+européennes.
+
+Constitue une attestation de spécificité le nom du produit qui figure au registre des attestations de spécificité tenu par la
+Commission des communautés européennes.
+
+Seules les appellations d'origine mentionnées dans la section I du présent chapitre peuvent demander leur enregistrement
+comme appellations d'origine protégées.
+
+La demande d'enregistrement d'une indication géographique ou d'une attestation de spécificité ne peut s'effectuer que dans le
+cadre des dispositions de la section II du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 28-3 (M)
+
+	**Cité par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 33 (M)
+	  - Décret n°95-723 du 9 mai 1995 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°94-2 du 3 janvier 1994 - art. 4 () JORF 4 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L642-1 (M)
+
+
+###### Article L115-26-2
+
+Les organismes certificateurs agréés mentionnés à l'article L. 115-23-2 assurent le contrôle du respect des cahiers des
+charges des indications géographiques protégées et des attestations de spécificité.
+
+Toutefois, un décret en Conseil d'Etat définit, en tant que de besoin, des modalités particulières de contrôle pour les
+producteurs agricoles et les artisans qui commercialisent leur production en petite quantité directement sur le marché local.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 28-3 (M)
+
+	**Cité par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 34 (M)
+	  - Décret n°95-723 du 9 mai 1995 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°94-2 du 3 janvier 1994 - art. 4 () JORF 4 janvier 1994
+
+	**Cite**:
+
+	  - Code de la consommation - art. L115-23-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L642-2 (M)
+
+
+###### Article L115-26-3
+
+Les dispositions de l'article L. 115-16 s'appliquent aux appellations d'origine protégées, aux indications géographiques
+protégées et aux attestations de spécificité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 28-3 (M)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°94-2 du 3 janvier 1994 - art. 4 () JORF 4 janvier 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de la consommation - art. L115-16 (M)
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L642-3 (M)
+
+
+###### Article L115-26-4
+
+L'utilisation d'indication d'origine ou de provenance ne doit pas être susceptible d'induire le consommateur en erreur sur
+les caractéristiques du produit, de détourner ou d'affaiblir la notoriété d'une dénomination enregistrée comme indication
+géographique protégée ou comme attestation de spécificité.
+
+Un décret en Conseil d'Etat pris en application de l'article L. 214-1 fixe en tant que de besoin les conditions d'application
+du précédent alinéa.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°60-808 du 5 août 1960 - art. 28-3 (M)
+
+	**Cité par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 35 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°94-2 du 3 janvier 1994 - art. 4 () JORF 4 janvier 1994
+
+	**Cite**:
+
+	  - Code de la consommation - art. L214-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L642-4 (M)
+
+
+##### Section 4 : Certification des services et des produits autres qu'alimentaires.
+
+###### Article L115-27
+
+Constitue un certificat de qualification, quelle que soit la dénomination qui lui est donnée, toute inscription, tout signe
+distinctif, tout document ou titre joint tendant à attester, à des fins commerciales, qu'un point industriel, un produit
+agricole non alimentaire transformé ou un bien d'équipement commercialisé en France présente certaines caractéristiques
+spécifiques ayant fait l'objet d'un contrôle par un organisme distinct du fabricant, de l'importateur ou du vendeur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°78-23 1978-01-10 art. 22 al. 1
+
+	**Cité par**:
+
+	  - Décret n°86-583 du 14 mars 1986 - art. 3 (V)
+	  - Décret n°95-354 du 30 mars 1995 - art. 2 (Ab)
+	  - Arrêté du 7 décembre 2001 - art. 3 (Ab)
+	  - Arrêté du 7 décembre 2001 - art. 5 (Ab)
+	  - Arrêté du 7 décembre 2001 - art. 7 (Ab)
+	  - Arrêté du 21 novembre 2002 - art. 7 (V)
+	  - Arrêté du 22 mars 2004 - art. 18 (V)
+	  - Arrêté du 19 novembre 2004 - art. 14 (V)
+	  - Arrêté du 19 novembre 2004 - art. 17 (V)
+	  - Arrêté du 19 novembre 2004 - art. 7 (V)
+	  - Arrêté du 29 septembre 2009 - art. 4 (V)
+	  - Arrêté du 29 avril 2010 - art. 2 (Ab)
+	  - Arrêté du 9 décembre 2013 (V)
+	  - Décret n°2016-856 du 28 juin 2016 - art. 1
+	  - Code de l'action sociale et des familles - art. D312-206 (V)
+	  - Code de l'action sociale et des familles - art. D347-3 (Ab)
+	  - Code de la consommation - art. L115-29 (VT)
+	  - Code de la consommation - art. L115-30 (VT)
+	  - Code de la consommation - art. L115-32 (VT)
+	  - Code de la consommation - art. R115-2 (VT)
+	  - Code de la construction et de l'habitation. - art. L111-10-2 (V)
+	  - Code de la construction et de l'habitation. - art. L111-9-1 (V)
+	  - Code de la construction et de l'habitation. - art. R111-20-4 (V)
+	  - Code de la construction et de l'habitation. - art. R111-21 (V)
+	  - Code de la construction et de l'habitation. - art. R131-28-4 (V)
+	  - Code du travail - art. R7232-9 (V)
+	  - Code forestier - art. L13 (V)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+	**Modifié par**:
+
+	  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+
+
+###### Article L115-28
+
+Tout certificat de qualification ne peut être délivré que par un organisme certificateur agréé par l'autorité administrative
+et selon un règlement technique approuvé par elle. Il doit faire apparaître dans son mode de présentation les
+caractéristiques du produit.
+
+L'organisme certificateur ne doit pas être fabricant, importateur ou vendeur d'un produit industriel, d'un produit agricole
+non alimentaire transformé ou d'un bien d'équipement.
+
+L'organisme certificateur dépose comme marque collective, conformément à la législation des marques de fabrique, de commerce
+ou de service, le signe distinctif qui, le cas échéant, accompagne ou matérialise le certificat de qualification.
+
+Un décret en Conseil d'Etat précisera les conditions de délivrance, d'utilisation ou de retrait des certificats de
+qualification.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°78-23 1978-01-10 art. 22 al. 2 à 5
+
+	**Cité par**:
+
+	  - Décret n°86-583 du 14 mars 1986 - art. 3 (V)
+	  - Décret n°95-354 du 30 mars 1995 - art. 1 (Ab)
+	  - Décret n°95-354 du 30 mars 1995 - art. 11 (Ab)
+	  - Décret n°95-354 du 30 mars 1995 - art. 2 (Ab)
+	  - Décret n°2002-535 du 18 avril 2002 - art. 11 (V)
+	  - Décret n°2010-112 du 2 février 2010 - art. 10 (V)
+	  - Arrêté du 29 avril 2010 - art. 1 (Ab)
+	  - Arrêté du 20 avril 2011 - art. 1 (V)
+	  - Décret n°2012-147 du 30 janvier 2012 (V)
+	  - Décret n°2015-350 du 27 mars 2015 - art. 16 (V)
+	  - Décret n°2016-10 du 8 janvier 2016 - art. 2 (V)
+	  - Décret n°2017-705 du 2 mai 2017 - art. 4 (V)
+	  - Code de l'action sociale et des familles - art. D312-206 (V)
+	  - Code de l'action sociale et des familles - art. L312-8 (V)
+	  - Code de la consommation - art. L115-29 (M)
+	  - Code de la consommation - art. L115-30 (V)
+	  - Code de la consommation - art. L115-32 (M)
+	  - Code de la consommation - art. R115-1 (VT)
+	  - Code de la consommation - art. R115-11 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+	**Modifié par**:
+
+	  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+
+
+###### Article L115-29
+
+Ne sont pas soumis aux dispositions des articles L. 115-27 et L. 115-28 :
+
+1° Les médicaments à usage humain ou vétérinaire faisant l'objet des dispositions du livre V du code de la santé publique ;
+
+2° Les poinçons, estampilles, visas, certificats d'homologation ou marques collectives délivrés par l'autorité publique ou
+par des organismes désignés à cet effet et soumis à un contrôle technique ou administratif de l'autorité publique en vertu de
+dispositions législatives ou réglementaires ;
+
+3° Les "labels" ou marques prévus par l'article L. 413-1 du code du travail et par le décret n° 62-235 du 1er mars 1962
+relatif au Répertoire des métiers et aux titres d'artisan et de maître artisan pour autant que ces marques ne tendent qu'à
+attester l'origine d'un produit ; néanmoins, les dispositions des articles L. 115-27 et L. 115-28 s'appliquent à ces "labels"
+dans la mesure où ils tendent à certifier, même indirectement, la qualification d'un produit.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-235 1962-03-01
+	  - Code de la consommation - art. L115-27 (M)
+	  - Code de la consommation - art. L115-28 (M)
+	  - Code du travail - art. L413-1 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°78-23 du 10 janvier 1978 - art. 23 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+	**Modifié par**:
+
+	  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+
+
+###### Article L115-30
+
+Sera puni des peines prévues à l'article L. 213-1 quiconque aura :
+
+1° Délivré, utilisé ou tenté d'utiliser un certificat de qualification en contravention avec les articles L. 115-27 et L.
+115-28 ;
+
+2° Fait croire ou tenté de faire croire faussement, notamment par l'utilisation d'un mode de présentation prêtant à
+confusion, qu'un produit industriel, un produit agricole non alimentaire transformé ou un bien d'équipement bénéficie d'un
+certificat de qualification ;
+
+3° Fait croire ou tenté de faire croire à tort qu'un produit industriel, un produit agricole non alimentaire transformé ou un
+bien d'équipement ayant un certificat de qualification est garanti par l'Etat ou un organisme public.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°70-9 du 2 janvier 1970 - art. 9 (V)
+	  - Code de commerce - art. L123-11-3 (V)
+	  - Code de commerce. - art. L128-1 (Ab)
+	  - Code de la consommation - art. L213-5 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°78-23 du 10 janvier 1978 - art. 24 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+	**Modifié par**:
+
+	  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+
+	**Cite**:
+
+	  - Code de la consommation - art. L115-27 (M)
+	  - Code de la consommation - art. L115-28 (M)
+	  - Code de la consommation - art. L213-1 (M)
+
+
+###### Article L115-31
+
+Sont qualifiés pour procéder à la recherche et à la constatation des infractions aux dispositions de la présente section et
+des textes pris pour son application :
+
+- les officiers et agents de police judiciaire ;
+
+- les agents de la sous-direction de la métrologie au ministère chargé de l'industrie ainsi que ceux des directions
+régionales de l'industrie, de la recherche et de l'environnement ;
+
+- les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, de la direction
+générale des douanes et des droits indirects ;
+
+- les inspecteurs de la pharmacie et les médecins-inspecteurs de la santé du ministère chargé de la santé ;
+
+- les inspecteurs du travail ;
+
+- les agents mentionnés à l'article L. 514-13 du code de l'environnement.
+
+Ces agents disposent des pouvoirs prévus par les chapitres II à VI du titre Ier du livre II du présent code et leurs textes
+d'application sur les lieux énumérés à l'article L. 213-4 (alinéa premier).
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°78-23 du 10 janvier 1978 - art. 25 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+	**Modifié par**:
+
+	  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+
+	**Cite**:
+
+	  - Code de la consommation - art. L213-4 (M)
+	  - Code de l'environnement - art. L514-13 (V)
+
+
+###### Article L115-32
+
+Les dispositions de la présente section sont applicables aux prestations de services.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°78-23 du 10 janvier 1978 - art. 26 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+	**Modifié par**:
+
+	  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R111-20-4 (V)
+	  - Code de la construction et de l'habitation. - art. R111-21 (V)
+
+
+###### Article L115-33
+
+Les propriétaires de marques de commerce, de fabrique ou de service peuvent s'opposer à ce que des textes publicitaires
+concernant nommément leur marque soient diffusés lorsque l'utilisation de cette marque vise à tromper le consommateur ou
+qu'elle est faite de mauvaise foi.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°78-23 du 10 janvier 1978 - art. 30 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+	**Modifié par**:
+
+	  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
 
 
 ### Titre II : Pratiques commerciales
