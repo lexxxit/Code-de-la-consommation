@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1993-07-27
+Version Consolidée au 1993-07-27 00:00:01 +0200
 
 # Partie législative
 
@@ -9390,27 +9390,32 @@ déterminé par décret.
 
 	**Anciens textes**:
 
-	  - Loi n°79-596 du 13 juillet 1979 - art. 13 (M)
 	  - Loi n°79-596 du 13 juillet 1979 - art. 13 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Cité par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 7 (V)
+	  - Code de la consommation - art. L312-23 (VT)
 	  - Code de la consommation - art. L313-14-1 (VT)
 	  - Code de la consommation - art. R312-3 (MMN)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L313-50 (V)
+	  - Code de la consommation - art. L313-51 (VD)
+
 	**Cite**:
 
-	  - Code civil - art. 1152 (M)
-	  - Code civil - art. 1231 (M)
+	  - Code civil - art. 1152
+	  - Code civil - art. 1231
 
 
 ##### Sous-section 3 : Dispositions communes
@@ -9690,24 +9695,25 @@ de recouvrement.
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
-	  - Code de la consommation - art. L312-35 (V)
+	  - Code de la consommation - art. L312-35 (VT)
 	  - Code de la consommation - art. R312-4 (Ab)
 
-	**Liens**:
+	**Nouveaux textes**:
 
-	  - SPEC_APPLI: Code de la consommation L312-35 *sanctions pénales*
+	  - Code de la consommation - art. L313-60 (VT)
+	  - Code de la consommation - art. L313-61 (V)
 
 	**Cite**:
 
-	  - Code civil - art. 1152 (M)
+	  - Code civil - art. 1152
 
 
 ###### Article L312-30
