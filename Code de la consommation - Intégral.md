@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2002-06-12
+Version Consolidée au 2002-07-01
 
 # Partie législative
 
@@ -20456,8 +20456,11 @@ capital du bien à effectuer jusqu'à la date prévue du transfert de propriét�
 
 ###### Article R313-1
 
-Le taux effectif global d'un prêt est un taux annuel, proportionnel au taux de période, à terme échu et exprimé pour cent
-unités monétaires. Le taux de période et la durée de la période doivent être expressément communiqués à l'emprunteur.
+Sauf pour les opérations de crédit mentionnées au 3° de l'article L. 311-3 et à l'article L. 312-2 du présent code pour
+lesquelles le taux effectif global est un taux annuel, proportionnel au taux de période, à terme échu et exprimé pour cent
+unités monétaires, le taux effectif global d'un prêt est un taux annuel, à terme échu, exprimé pour cent unités monétaires et
+calculé selon la méthode d'équivalence définie par la formule figurant en annexe au présent code. Le taux de période et la
+durée de la période doivent être expressément communiqués à l'emprunteur.
 
 Le taux de période est calculé actuariellement, à partir d'une période unitaire correspondant à la périodicité des versements
 effectués par l'emprunteur. Il assure, selon la méthode des intérêts composés, l'égalité entre, d'une part, les sommes
@@ -20467,19 +20470,20 @@ ces éléments étant, le cas échéant, estimés.
 Lorsque la périodicité des versements est irrégulière, la période unitaire est celle qui correspond au plus petit intervalle
 séparant deux versements. Le plus petit intervalle de calcul ne peut cependant être inférieur à un mois.
 
-Lorsque les versements sont effectués avec une fréquence autre que annuelle, le taux effectif global est obtenu en
-multipliant le taux de période par le rapport entre la durée de l'année civile et celle de la période unitaire. Le rapport
-est calculé, le cas échéant, avec une précision d'au moins une décimale.
+Pour les opérations mentionnées au 3° de l'article L. 311-3 et à l'article L. 312-2, lorsque les versements sont effectués
+avec une fréquence autre que annuelle, le taux effectif global est obtenu en multipliant le taux de période par le rapport
+entre la durée de l'année civile et celle de la période unitaire. Le rapport est calculé, le cas échéant, avec une précision
+d'au moins une décimale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°85-944 du 4 septembre 1985 - art. 1 (Ab)
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2002-927 du 10 juin 2002 - art. 1 () JORF 11 juin 2002 en vigueur le 1er juillet 2002
 
 	**Cité par**:
 
@@ -20491,6 +20495,11 @@ est calculé, le cas échéant, avec une précision d'au moins une décimale.
 	  - Code de la consommation - art. R313-5-2 (MMN)
 	  - Code de la consommation - art. R315-1 (Ab)
 	  - Code monétaire et financier - art. R313-1 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L311-3 (M)
+	  - Code de la consommation - art. L312-2 (V)
 
 	**Liens**:
 
@@ -21584,6 +21593,65 @@ variation du prix y soit explicitement décrit.
 	**Créé par**:
 
 	  - Loi n°95-96 du 1 février 1995 - art. 1 () JORF 2 février 1995
+
+
+##### ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION
+
+###### Article Annexe à l'article R313-1
+
+Equation de base traduisant l'équivalence des prêts, d'une part, et des remboursements et charges, d'autre part.
+
+(Formule non reproduite, voir Journal officiel du 11 juin 2002 p. 10357).
+
+Signification des lettres et symboles :
+
+K est le numéro d'ordre d'un prêt ;
+
+K' est le numéro d'ordre d'un remboursement ou d'un paiement de charges ;
+
+AK est le montant du prêt n° K ;
+
+A'K' est le montant du remboursement ou du paiement de charges n° K' ;
+
+(somme)  est le signe indiquant une somme ;
+
+m est le numéro d'ordre du dernier prêt ;
+
+m' est le numéro d'ordre du dernier remboursement ou du dernier paiement de charges ;
+
+tK est l'intervalle, exprimé en années et fractions d'années, entre la date du prêt n° 1 et celle des prêts ultérieurs n° 2 à
+m ;
+
+tK' est l'intervalle, exprimé en années et fractions d'années, entre la date du prêt n° 1 et celles des remboursements ou
+paiements de charges n° 1 à m' ;
+
+i est le taux effectif global qui peut être calculé (soit par l'algèbre, soit par approximations successives, soit par un
+programme d'ordinateur) lorsque les autres termes de l'équation sont connus, par le contrat ou autrement.
+
+Remarques
+
+a) Les sommes versées de part et d'autre à différents moments ne sont pas nécessairement égales et ne sont pas nécessairement
+versées à des intervalles égaux.
+
+b) La date initiale est celle du premier prêt.
+
+c) L'écart entre les dates utilisées pour le calcul est exprimé en années ou en fractions d'années. Une année compte 365
+jours, ou, pour les années bissextiles, 366 jours, 52 semaines ou 12 mois normalisés. Un mois normalisé compte 30,416 66
+jours (c'est-à-dire 365/12), que l'année soit bissextile ou non.
+
+d) Le résultat du calcul est exprimé avec une exactitude d'au moins une décimale. Lorsque le chiffre est arrondi à une
+décimale particulière, la règle suivante est d'application : si le chiffre de la décimale suivant cette décimale particulière
+est supérieur ou égal à 5, le chiffre de cette décimale particulière sera augmenté de 1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2002-927 2002-06-10 annexe JORF 11 juin 2002 en vigueur le 1er juillet 2002
 
 
 ### Titre III : Traitement des situations de surendettement
