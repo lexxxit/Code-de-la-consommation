@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1999-02-02
+Version Consolidée au 1999-06-23
 
 # Partie législative
 
@@ -15417,9 +15417,15 @@ l'ordonnance n° 45-1483 du 30 juin 1945 et maintenus en vigueur à titre transi
 décembre 1986 ci-dessus mentionnée, figurant en annexe au présent code.
 
 Les mêmes peines sont applicables en cas d'infraction aux arrêtés prévus à l'article L. 113-3 fixant les modalités
-d'information du consommateur sur les prix et conditions particulières de vente.
+d'information du consommateur sur les prix et conditions particulières de vente ainsi qu'aux arrêtés ayant le même objet pris
+en application de l'ordonnance n° 45-1483 du 30 juin 1945.
 
 En cas de récidive, les peines d'amende prévues pour la récidive des contraventions de la cinquième classe sont applicables.
+
+**Nota:**
+
+L'article 1er de l'ordonnance 86-1243 du 1er décembre 1986 a été abrogé par l'ordonnance 2000-912 du 18 septembre 2000 et
+repris dans le code du commerce à l'article L. 410-2.
 
 **Liens relatifs à cet article**
 
@@ -15430,13 +15436,13 @@ En cas de récidive, les peines d'amende prévues pour la récidive des contrave
 	  - Code de la consommation - art. L113-1 (V)
 	  - Code de la consommation - art. L113-3 (M)
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°86-1309 du 29 décembre 1986 - art. 33 (M)
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°99-513 du 16 juin 1999 - art. 1 () JORF 23 juin 1999
 
 	**Cité par**:
 
@@ -16087,128 +16093,6 @@ références d'ordre comptable.
 	  - Code de la consommation R121-4, R121-5
 
 
-##### Section 4 : Ventes directes.
-
-###### Article R121-7
-
-Les règles relatives aux ventes directes aux consommateurs sont fixées par les articles 1er à 7 du décret n° 74-429 du 15 mai
-1974 reproduits ci-après :
-
-"Art. 1er :
-
-"Sont considérées comme ventes directes aux consommateurs, au sens de l'article 39 de la loi susvisée du 27 décembre 1973,
-les ventes de détail de ses produits effectuées par toute entreprise industrielle, à l'exception :
-
-"1° Des ventes dans les magasins de l'entreprise quand ceux-ci sont spécialement aménagés à cet effet et ouverts au public
-selon les usages locaux ;
-
-"2° Des ventes par correspondance et des ventes à domicile quand elles constituent une activité permanente de l'entreprise ;
-
-"3° Des ventes exclusivement réservées aux membres du personnel de l'entreprise ;
-
-"4° Des ventes effectuées pour le compte de l'entreprise par des commerçants ou agents commerciaux immatriculés soit au
-registre du commerce, soit au registre spécial des agents commerciaux ;
-
-"5° Des ventes effectuées par les entreprises immatriculées au répertoire des métiers.
-
-"Lorsqu'elle exerce une ou plusieurs activités visées au 1° et au 2° ci-dessus, l'entreprise doit satisfaire aux obligations
-juridiques, sociales et fiscales incombant à ceux qui exercent le commerce de détail.
-
-"Art. 2 :
-
-"Les ventes directes aux consommateurs sont soumises, qu'elles soient ou non effectuées dans les locaux de l'entreprise et
-qu'elles soient ou non accompagnées de publicité, à une autorisation préalable du maire de la commune dans laquelle elles
-doivent avoir lieu.
-
-"L'autorisation ne peut être accordée que si les ventes sont effectuées à titre exceptionnel en vue de permettre l'écoulement
-accéléré des stocks de marchandises produites par l'entreprise.
-
-"La durée pour laquelle l'autorisation est accordée ne peut excéder un mois.
-
-"La décision doit être notifiée au demandeur dans un délai de vingt jours à partir de la date d'envoi du dossier justificatif
-avec demande d'avis de réception ; faute de quoi, sous réserve des dispositions de l'article 4 ci-dessous, l'autorisation est
-réputée accordée.
-
-"Les décisions rejetant une demande d'autorisation ou accordant une autorisation assortie de conditions doivent être
-motivées.
-
-"Art. 3 :
-
-A l'appui de la demande d'autorisation, l'entreprise est tenue :
-
-"1° De produire un extrait établissant qu'elle est immatriculée au registre du commerce depuis un an au moins et un extrait
-de son inscription au registre des patentes ;
-
-"2° De justifier du motif pour lequel elle désire procéder à une vente directe aux consommateurs ;
-
-"3° De produire un inventaire des produits à vendre en indiquant leur valeur globale et le délai indispensable à leur
-écoulement ;
-
-"4° De justifier de sa qualité de producteur des marchandises à mettre en vente ;
-
-"5° D'indiquer l'emplacement de la vente et sa durée ;
-
-"6° De faire connaître, le cas échéant, la publicité qu'elle se propose d'effectuer en vue de la vente.
-
-"Art. 4 :
-
-"Le préfet peut déterminer, en tant que de besoin, par branche d'activité et pour tout ou partie du département, les mois
-pendant lesquels les maires peuvent autoriser des ventes directes aux consommateurs.
-
-"Art. 5 :
-
-"Une même entreprise ne peut bénéficier pour le même établissement d'une nouvelle autorisation avant qu'un délai d'un an ne
-se soit écoulé depuis le début de la vente précédemment autorisée.
-
-"Toutefois ce délai est ramené à six mois en ce qui concerne les autorisations d'écoulement des produits à caractère
-saisonnier.
-
-"Art. 6 :
-
-"Sont passibles d'une amende de 3 000 F à 6 000 F, pouvant être portée en cas de récidive à 12 000 F, la vente, la mise en
-vente, l'exposition et la détention en vue de la vente de produits, à l'occasion d'une vente directe aux consommateurs,
-lorsque :
-
-"1° Ces opérations sont effectuées sans que l'autorisation prévue au premier alinéa de l'article 2 ci-dessus ait été
-préalablement obtenue ou sans que les conditions auxquelles l'octroi de l'autorisation aura été soumis aient été respectées ;
-
-"2° Les produits ou certains des produits vendus, mis en vente, exposés ou détenus en vue de la vente n'ont pas été fabriqués
-par le bénéficiaire de l'autorisation ;
-
-"3° Le délai imparti pour la réalisation de la vente a été dépassé.
-
-"Art. 7 :
-
-"Dans les cas prévus à l'article 6 ci-dessus, la saisie des produits mis en vente, exposés ou détenus en vue de la vente et
-celle des véhicules, instruments, ustensiles et accessoires utilisés pour la vente, la mise en vente, l'exposition et la
-détention en vue de la vente pourra être effectuée par les agents habilités à relever les infractions, et leur confiscation
-pourra être prononcée par le tribunal".
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 39 (Ab)
-	  - Décret n°74-429 1974-05-15 art. 1 à 7
-
-	**Anciens textes**:
-
-	  - Décret n°74-429 1974-05-15 art. 1, art. 2, art. 3, art. 4, art. 5 art. 6, art. 7
-	  - Décret n°74-429 du 15 mai 1974 - art. 1 (Ab)
-	  - Décret n°74-429 du 15 mai 1974 - art. 2 (Ab)
-	  - Décret n°74-429 du 15 mai 1974 - art. 3 (Ab)
-	  - Décret n°74-429 du 15 mai 1974 - art. 4 (Ab)
-	  - Décret n°74-429 du 15 mai 1974 - art. 7 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°99-513 du 16 juin 1999 - art. 2 () JORF 23 juin 1999
-
-
 ##### Section 5 : Ventes ou prestations avec primes
 
 ###### Article R121-8
@@ -16367,7 +16251,7 @@ Les lots mis en jeu figurant dans l'inventaire prévus par l'article L. 121-37 s
 Sont punis des peines d'amende prévues pour les contraventions de la 5e classe :
 
 1° Les ventes ou offres de vente, les prestations de services ou offres de telles prestations faites avec primes aux
-consommateurs ou acheteurs, prohibées par l'article L. 121-31 ;
+consommateurs ou acheteurs, prohibées par l'article L. 121-35 ;
 
 2° Les refus ou subordinations à conditions, de ventes ou de prestations de services, interdits par l'article L. 122-1 ;
 
@@ -16379,19 +16263,19 @@ En cas de récidive, les peines d'amende prévues pour la récidive des contrave
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°86-1309 du 29 décembre 1986 - art. 33 (M)
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°99-513 du 16 juin 1999 - art. 3 () JORF 23 juin 1999
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-31 (V)
+	  - Code de la consommation - art. L121-35 (M)
 	  - Code de la consommation - art. L122-1 (M)
-	  - Code de la consommation L121-31, L122-1, R121-8, R121-10
+	  - Code de la consommation L121-35, L122-1, R121-8, R121-10
 
 
 #### Chapitre II : Pratiques commerciales illicites
@@ -17156,8 +17040,8 @@ indiquant la nature et la quantité des marchandises prélevées ainsi que la va
 
 ###### Article R*215-12
 
-Un récépissé remis au propriétaire ou au détenteur de l'objet dans les conditions prévues à l'article R. 215-9 mentionne la
-valeur de la quantité du produit rendue inutilisable.
+Dans le cas des produits altérables mentionnés à l'article L.  215-15, un récépissé remis au propriétaire ou au détenteur de
+l'objet dans les conditions prévues à l'article R. 215-9 mentionne la valeur de la quantité du produit rendue inutilisable.
 
 Le produit placé sous scellés est déposé par l'agent dans un lieu propre à en assurer autant que possible la conservation. Il
 peut être laissé à la garde de son propriétaire ou de son détenteur.
@@ -17174,6 +17058,14 @@ Copie en est adressée au préfet.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Modifié par**:
+
+	  - Décret n°99-513 du 16 juin 1999 - art. 4 () JORF 23 juin 1999
+
 	**Cite**:
 
 	  - Code de la consommation - art. L215-15 (M)
@@ -17186,12 +17078,7 @@ Copie en est adressée au préfet.
 
 	**Anciens textes**:
 
-	  - Décret n°1919-01-22 art. 17
 	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 17 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
 ###### Article R*215-15
@@ -17517,25 +17404,25 @@ laboratoire, où des mesures sont prises conformément aux arrêtés prévus à 
 
 ###### Article R215-13
 
-Dans les cas définis à l'article L. 215-15, l'objet ou la marchandise est mis en totalité sous scellés. Le procès-verbal et
-l'objet ou la marchandise sont envoyés au procureur de la République. L'objet ou la marchandise peut toutefois être laissé en
-dépôt à son propriétaire ou à son détenteur. Il est procédé aux formalités prescrites par les trois derniers alinéas de
-l'article R. 215-12.
+Dans les cas prévus à l'article L. 215-15 où l'objet ou la marchandise ne peut faire l'objet d'un prélèvement en trois
+échantillons, l'objet ou la marchandise est mis en totalité sous scellés. Le procès-verbal et l'objet ou la marchandise sont
+envoyés au procureur de la République. L'objet ou la marchandise peut toutefois être laissé en dépôt à son propriétaire ou à
+son détenteur. Il est procédé aux formalités prescrites par les trois derniers alinéas de l'article R. 215-12.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Modifié par**:
+
+	  - Décret n°99-513 du 16 juin 1999 - art. 4 () JORF 23 juin 1999
 
 	**Cite**:
 
 	  - Code de la consommation - art. L215-15 (M)
 	  - Code de la consommation - art. R*215-12 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1919-01-22 art. 17 bis
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
 ###### Article R215-14
@@ -19000,24 +18887,30 @@ l'origine, le taux moyen prévu lors de l'octroi du prêt.
 ###### Article R312-3
 
 En cas de défaillance de l'emprunteur et lorsque le remboursement immédiat du capital n'est pas demandé, la majoration de
-taux prévue à l'article L. 312-22 ne peut excéder trois points d'intérêt.
+taux prévue à l'article L. 312-22 ne peut excéder trois points d'intérêt. 
+
+Pour les avances prévues aux articles R. 317-1 et suivants du code de la construction et de l'habitation, il est appliqué un
+intérêt qui ne peut excéder le plus élevé des taux d'intérêts maximaux des prêts conventionnés garantis par l'Etat en
+application de l'article R. 312-3-1 du code de la construction et de l'habitation applicable au moment de l'offre d'avance. 
 
 L'indemnité prévue en cas de résolution du contrat de prêt ne peut dépasser 7 % des sommes dues au titre du capital restant
 dû ainsi que des intérêts échus et non versés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°80-473 du 28 juin 1980 - art. 3 (M)
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°99-513 du 16 juin 1999 - art. 5 () JORF 23 juin 1999
 
 	**Cite**:
 
 	  - Code de la consommation - art. L312-22 (V)
+	  - Code de la construction et de l'habitation. - art. R312-3-1 (V)
+	  - Code de la construction et de l'habitation. - art. R317-1 (V)
 
 	**Cité par**:
 
