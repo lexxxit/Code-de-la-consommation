@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2001-12-29
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -2613,7 +2613,7 @@ infractions.
 
 Pour l'application de l'article L. 121-6, le tribunal peut demander tant aux parties qu'à l'annonceur la communication de
 tous documents utiles. En cas de refus, il peut ordonner la saisie de ces documents ou toute mesure d'instruction appropriée.
-Il peut en outre prononcer une astreinte pouvant atteindre 30 000 F par jour de retard à compter de la date qu'il a retenue
+Il peut en outre prononcer une astreinte pouvant atteindre 4500 euros par jour de retard à compter de la date qu'il a retenue
 pour la production de ces documents.
 
 Les pénalités prévues au premier alinéa de l'article L. 121-6 sont également applicables en cas de refus de communication des
@@ -2625,16 +2625,15 @@ délai imparti des annonces rectificatives.
 
 	**Anciens textes**:
 
-	  - Loi n°73-1193 1973-12-27 art. 44 II al. 11 et 12
 	  - Loi n°73-1193 du 27 décembre 1973 - art. 44 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -2875,7 +2874,8 @@ les départements de la Moselle, du Bas-Rhin et du Haut-Rhin ;
 du code du travail.
 
 Tout annonceur qui effectue ou fait effectuer une publicité interdite en vertu des alinéas précédents est puni d'une amende
-de 250 000 F. Le maximum de l'amende peut être porté à 50 p. 100 du montant des dépenses consacrées à la publicité illégale.
+de 37500 euros. Le maximum de l'amende peut être porté à 50 p. 100 du montant des dépenses consacrées à la publicité
+illégale.
 
 Le tribunal peut ordonner la cessation de la publicité interdite aux frais des personnes reconnues coupables des infractions
 définies aux alinéas qui précèdent.
@@ -2909,7 +2909,7 @@ définies aux alinéas qui précèdent.
 
 	**Modifié par**:
 
-	  - Loi n°96-603 du 5 juillet 1996 - art. 33 (V) JORF 6 juillet 1996
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ##### Section 2 : Ventes de biens et fournitures de prestations de services à distance
@@ -3863,7 +3863,7 @@ des dispositions prévues aux articles L. 121-16 et L. 121-19.
 ###### Article L121-28
 
 Toute infraction aux dispositions des articles L. 121-23, L. 121-24, L. 121-25 et L. 121-26 sera punie d'une peine
-d'emprisonnement d'un an et d'une amende de 25 000 F ou de l'une de ces deux peines seulement.
+d'emprisonnement d'un an et d'une amende de 3750 euros ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -3889,20 +3889,13 @@ d'emprisonnement d'un an et d'une amende de 25 000 F ou de l'une de ces deux pei
 
 	  - Loi n°72-1137 du 22 décembre 1972 - art. 5 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la consommation - art. L121-23 (V)
-	  - Code de la consommation - art. L121-24 (V)
-	  - Code de la consommation - art. L121-25 (V)
-	  - Code de la consommation - art. L121-26 (M)
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L121-29
@@ -4328,8 +4321,8 @@ les articles L. 450-1 premier et troisième alinéas, L. 450-2, L. 450-3 et L. 4
 
 ###### Article L121-41
 
-Seront punis d'une amende de 250 000 F les organisateurs des opérations définies au premier alinéa de l'article L. 121-36 qui
-n'auront pas respecté les conditions exigées par la présente section. Le tribunal peut ordonner la publication de sa
+Seront punis d'une amende de 37 500 euros les organisateurs des opérations définies au premier alinéa de l'article L. 121-36
+qui n'auront pas respecté les conditions exigées par la présente section. Le tribunal peut ordonner la publication de sa
 décision, aux frais du condamné, par tous moyens appropriés. En cas d'infraction particulièrement grave, il peut en ordonner
 l'envoi à toutes les personnes sollicitées par lesdites opérations. Lorsqu'il en ordonne l'affichage, il y est procédé dans
 les conditions et sous les peines prévues par l'article 131-35 du code pénal.
@@ -4340,14 +4333,13 @@ les conditions et sous les peines prévues par l'article 131-35 du code pénal.
 
 	  - Loi n°89-421 du 23 juin 1989 - art. 5 (MMN)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 331 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -4818,11 +4810,11 @@ texte des offres proposées ainsi que l'adresse du lieu où il peut être retir�
 
 ###### Article L121-70
 
-Est puni de 100 000 F d'amende le fait :
+Est puni de 15 000 euros d'amende le fait : 
 
 1° Pour tout professionnel, de soumettre à un consommateur une offre tendant à la conclusion de tout contrat ou groupe de
 contrats visé à l'article L. 121-60 sans que cette offre soit établie par écrit, contienne les mentions énumérées à l'article
-L. 121-61 et reproduise en caractères très apparents les dispositions des articles L. 121-63 à L. 121-68 ;
+L. 121-61 et reproduise en caractères très apparents les dispositions des articles L. 121-63 à L. 121-68 ; 
 
 2° Pour tout annonceur, de diffuser ou de faire diffuser pour son compte une publicité non conforme aux dispositions de
 l'article L. 121-69.
@@ -4833,16 +4825,16 @@ l'article L. 121-69.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-60 (V)
-	  - Code de la consommation - art. L121-61 (V)
-	  - Code de la consommation - art. L121-69 (V)
-	  - Code de la consommation L121-60, L121-61, L121-63 à L121-68, L121-69
+	  - Code de la consommation - art. L121-60 (VT)
+	  - Code de la consommation - art. L121-61 (VT)
+	  - Code de la consommation - art. L121-63 (VT)
+	  - Code de la consommation - art. L121-69 (VT)
 
 	**Cité par**:
 
@@ -4852,7 +4844,7 @@ l'article L. 121-69.
 
 ###### Article L121-71
 
-Est puni de 200 000 F d'amende le fait, pour tout professionnel, d'exiger ou de recevoir du consommateur, directement ou
+Est puni de 30 000 euros d'amende le fait, pour tout professionnel, d'exiger ou de recevoir du consommateur, directement ou
 indirectement, tout versement ou engagement de versement, à quelque titre et sous quelque forme que ce soit, avant
 l'expiration du délai de rétractation prévu à l'article L. 121-64.
 
@@ -4862,13 +4854,13 @@ l'expiration du délai de rétractation prévu à l'article L. 121-64.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-64 (V)
+	  - Code de la consommation - art. L121-64 (VT)
 
 	**Cité par**:
 
@@ -5299,7 +5291,7 @@ limitée à une période d'un an après l'achat.
 ###### Article L122-7
 
 Sans préjudice de l'application, le cas échéant, des peines prévues aux articles 313-1, 313-7 et 313-8 du code pénal, toute
-infraction à la présente section sera punie d'une amende de 30 000 F et d'un emprisonnement d'un an.
+infraction à la présente section sera punie d'une amende de 4 500 euros et d'un emprisonnement d'un an.
 
 Le délinquant pourra être, en outre, condamné à rembourser à ceux de ses clients qui n'auront pu être satisfaits les sommes
 versées par eux, sans qu'il puisse avoir recours contre ceux qui ont obtenu la marchandise.
@@ -5310,14 +5302,13 @@ versées par eux, sans qu'il puisse avoir recours contre ceux qui ont obtenu la 
 
 	  - Loi n°53-1090 du 5 novembre 1953 - art. 2 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 335 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -5326,8 +5317,6 @@ versées par eux, sans qu'il puisse avoir recours contre ceux qui ont obtenu la 
 	**Cite**:
 
 	  - Code pénal - art. 313-1 (M)
-	  - Code pénal - art. 313-7 (MMN)
-	  - Code pénal - art. 313-8 (M)
 
 
 ##### Section 4 : Abus de faiblesse
@@ -5336,7 +5325,7 @@ versées par eux, sans qu'il puisse avoir recours contre ceux qui ont obtenu la 
 
 Quiconque aura abusé de la faiblesse ou de l'ignorance d'une personne pour lui faire souscrire, par le moyen de visites à
 domicile, des engagements au comptant ou à crédit sous quelque forme que ce soit sera puni d'un emprisonnement de cinq ans et
-d'une amende de 60 000 F ou de l'une de ces deux peines seulement, lorsque les circonstances montrent que cette personne
+d'une amende de 9 000 euros ou de l'une de ces deux peines seulement, lorsque les circonstances montrent que cette personne
 n'était pas en mesure d'apprécier la portée des engagements qu'elle prenait ou de déceler les ruses ou artifices déployés
 pour la convaincre à y souscrire, ou font apparaître qu'elle a été soumise à une contrainte.
 
@@ -5346,13 +5335,13 @@ pour la convaincre à y souscrire, ou font apparaître qu'elle a été soumise �
 
 	  - Loi n°72-1137 du 22 décembre 1972 - art. 7 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -6234,9 +6223,9 @@ contrôles effectués.
 
 ###### Article L213-1
 
-Sera puni d'un emprisonnement de deux ans au plus et d'une amende de 250 000 F au plus ou de l'une de ces deux peines
+Sera puni d'un emprisonnement de deux ans au plus et d'une amende de 37 500 euros au plus ou de l'une de ces deux peines
 seulement quiconque, qu'il soit ou non partie au contrat, aura trompé ou tenté de tromper le contractant, par quelque moyen
-en procédé que ce soit, même par l'intermédiaire d'un tiers :
+ou procédé que ce soit, même par l'intermédiaire d'un tiers :
 
 1° Soit sur la nature, l'espèce, l'origine, les qualités substantielles, la composition ou la teneur en principes utiles de
 toutes marchandises ;
@@ -6334,10 +6323,6 @@ d'emploi ou les précautions à prendre.
 	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 35 (Ab)
 	  - Loi du 31 décembre 1922 - art. 9 (V)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
@@ -6346,6 +6331,10 @@ d'emploi ou les précautions à prendre.
 
 	  - TXT_SOURCE: Arrêté du 7 juin 2000
 	  - TXT_SOURCE: Arrêté du 7 juin 2000 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L213-2
@@ -6417,7 +6406,7 @@ produits agricoles ou naturels et ceux qui auront provoqué à leur emploi par l
 affiches, annonces ou instructions quelconques.
 
 Si la substance falsifiée ou corrompue ou si la substance médicamenteuse falsifiée est nuisible à la santé de l'homme ou de
-l'animal, l'emprisonnement sera de quatre ans et l'amende de 500 000 F.
+l'animal, l'emprisonnement sera de quatre ans et l'amende de 75 000 euros.
 
 Ces peines seront applicables même au cas où la falsification nuisible serait connue de l'acheteur ou du consommateur.
 
@@ -6444,13 +6433,13 @@ Les dispositions du présent article ne sont pas applicables aux fruits frais et
 	  - Code du vin - art. 323 (Ab)
 	  - Décret du 19 août 1921 - art. 8 (VD)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -6459,7 +6448,7 @@ Les dispositions du présent article ne sont pas applicables aux fruits frais et
 
 ###### Article L213-4
 
-Seront punis d'une amende de 30 000 F et d'un emprisonnement de trois mois au plus ou de l'une de ces deux peines seulement
+Seront punis d'une amende de 4500 euros et d'un emprisonnement de trois mois au plus ou de l'une de ces deux peines seulement
 ceux qui, sans motifs légitimes, seront trouvés détenteurs dans tous les lieux de fabrication, de production, de
 conditionnement, de stockage, de dépôt ou de vente, dans les véhicules utilisés pour le transport des marchandises, ainsi que
 dans les lieux où sont hébergés ou abattus les animaux dont la viande ou les produits sont destinés à l'alimentation humaine
@@ -6476,7 +6465,7 @@ savaient être falsifiés, corrompus ou toxiques ;
 ou des animaux, des boissons ou des produits agricoles ou naturels.
 
 Si la substance alimentaire falsifiée ou corrompue ou si la substance médicamenteuse falsifiée est nuisible à la santé de
-l'homme ou de l'animal, l'emprisonnement sera de deux ans et l'amende de 250 000 F.
+l'homme ou de l'animal, l'emprisonnement sera de deux ans et l'amende de 37500 euros.
 
 Les dispositions du présent article ne sont pas applicables aux fruits frais et légumes frais, fermentés ou corrompus.
 
@@ -6512,13 +6501,13 @@ la proportion de ceux de ces éléments dont l'emploi n'est admis par les lois e
 	  - Code général des collectivités territoriales - art. L2224-29 (V)
 	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 35 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -8207,10 +8196,10 @@ Au cas de suppression, de dissimulation ou de lacération totale ou partielle de
 condamnation, il sera procédé de nouveau à l'exécution intégrale des dispositions du jugement relatives à l'affichage.
 
 Lorsque la suppression, la dissimulation ou la lacération totale ou partielle aura été opérée volontairement par le condamné,
-à son instigation ou par ses ordres, elle entraînera contre celui-ci l'application d'une peine d'amende de 25 000 F.
+à son instigation ou par ses ordres, elle entraînera contre celui-ci l'application d'une peine d'amende de 3 750 euros.
 
 La récidive de suppression, de dissimulation ou de lacération volontaire d'affiches par le condamné, à son instigation ou par
-ses ordres, sera punie d'un emprisonnement d'un mois et d'une amende de 50 000 F.
+ses ordres, sera punie d'un emprisonnement d'un mois et d'une amende de 7 500 euros.
 
 Lorsque l'affichage aura été ordonné à la porte des magasins du condamné, l'exécution du jugement ne pourra être entravée par
 la vente du fonds de commerce réalisée postérieurement à la première décision qui a ordonné l'affichage.
@@ -8226,21 +8215,31 @@ la vente du fonds de commerce réalisée postérieurement à la première décis
 	  - Loi n°1939-04-21 du 21 avril 1939 - art. 6 (V)
 	  - Code de la consommation - art. L215-5 (M)
 	  - Code de la consommation - art. L216-8 (VT)
-	  - Code de la consommation - art. L217-10 (V)
+	  - Code de la consommation - art. L217-10 (VT)
 	  - Code de la consommation - art. L217-4 (VT)
 	  - Code de la santé publique - art. L617-23 (Ab)
 	  - Code forestier - art. L555-3 (VT)
 	  - Code général des impôts, CGI. - art. 1776 (V)
 	  - Code général des impôts, CGI. - art. 1789 (V)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2010-177 du 23 février 2010 - art. 20
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L451-7 (V)
+	  - Code de la consommation - art. L454-7 (V)
+	  - Code de la consommation - art. L531-5 (V)
 
 
 ###### Article L216-4
@@ -11231,7 +11230,7 @@ dispositions de l'article L. 311-7.
 
 ###### Article L311-35
 
-Sera puni d'une amende de 200 000 F :
+Sera puni d'une amende de 30 000 euros :
 
 1° Le prêteur ou le vendeur qui, en infraction aux dispositions de l'article L. 311-17 et de l'article L. 311-27, réclame ou
 reçoit de l'emprunteur ou de l'acheteur un paiement sous quelque forme que ce soit ;
@@ -11256,13 +11255,17 @@ payable à crédit du bien acheté ou de la prestation de services fournie.
 
 	  - Loi n°78-22 du 10 janvier 1978 - art. 25 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 2
 
 	**Cite**:
 
@@ -11275,6 +11278,10 @@ payable à crédit du bien acheté ou de la prestation de services fournie.
 
 	  - Code de la consommation - art. L311-36 (M)
 	  - Code de la consommation - art. R311-9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L311-50 (VD)
 
 
 ###### Article L311-36
@@ -12732,7 +12739,7 @@ Les dispositions de l'article L. 313-12 sont applicables aux contrats soumis aux
 ###### Article L312-32
 
 L'annonceur pour le compte de qui est diffusée une publicité non conforme aux dispositions des articles L. 312-4 à L. 312-6
-ou de l'article L. 312-25 sera puni d'une amende de 200 000 F. 
+ou de l'article L. 312-25 sera puni d'une amende de 30 000 euros.
 
 Les dispositions des articles L. 121-2 à L. 121-7 sont applicables aux infractions relatives à la publicité relevées dans le
 cadre du présent chapitre.
@@ -12743,28 +12750,37 @@ cadre du présent chapitre.
 
 	  - Loi n°79-596 du 13 juillet 1979 - art. 30 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
 	**Cite**:
 
-	  - Code de la consommation - art. L312-25 (V)
-	  - Code de la consommation L312-25, L121-2 à L121-7
+	  - Code de la consommation
+	  - Code de la consommation - art. L312-25 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L341-21 (V)
+	  - Code de la consommation - art. L341-22 (M)
 
 
 ###### Article L312-33
 
 Le prêteur ou le bailleur qui ne respecte pas l'une des obligations prévues aux articles L. 312-7 et L. 312-8, à l'article L.
-312-14, deuxième alinéa, ou à l'article L. 312-26 sera puni d'une amende de 25 000 F.
+312-14, deuxième alinéa, ou à l'article L. 312-26 sera puni d'une amende de 3 750 euros.
 
 Le prêteur qui fait souscrire par l'emprunteur ou les cautions déclarées, ou reçoit de leur part l'acceptation de l'offre
 sans que celle-ci comporte de date ou dans le cas où elle comporte une date fausse de nature à faire croire qu'elle a été
-donnée après expiration du délai de dix jours prescrit à l'article L. 312-10, sera puni d'une amende de 200 000 F.
+donnée après expiration du délai de dix jours prescrit à l'article L. 312-10, sera puni d'une amende de 30 000 euros.
 
 La même peine sera applicable au bailleur qui fait souscrire par le preneur ou qui reçoit de sa part l'acceptation de l'offre
 sans que celle-ci comporte de date ou dans le cas où elle comporte une date fausse de nature à faire croire qu'elle a été
@@ -12779,14 +12795,13 @@ totalité ou dans la proportion fixée par le juge.
 
 	  - Loi n°79-596 du 13 juillet 1979 - art. 31 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -12807,7 +12822,7 @@ totalité ou dans la proportion fixée par le juge.
 Le prêteur ou le bailleur qui, en infraction aux dispositions de l'article L. 312-11 ou de l'article L. 312-28, accepte de
 recevoir de l'emprunteur ou du preneur, ou pour le compte d'un de ces derniers, un versement ou un dépôt, un chèque ou un
 effet de commerce souscrit, endossé ou avalisé à son profit, ou utilise une autorisation de prélèvement sur compte bancaire
-ou postal, sera puni d'une amende de 200 000 F.
+ou postal, sera puni d'une amende de 30 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -12815,13 +12830,13 @@ ou postal, sera puni d'une amende de 200 000 F.
 
 	  - Loi n°79-596 du 13 juillet 1979 - art. 32 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -12832,7 +12847,7 @@ ou postal, sera puni d'une amende de 200 000 F.
 
 Le prêteur, en infraction aux dispositions du premier alinéa de l'article L. 312-14, ou le vendeur, en infraction aux
 dispositions de l'article L. 312-16, ou le bailleur, en infraction aux dispositions du dernier alinéa de l'article L. 312-30,
-qui ne restitue pas les sommes visées à ces articles, sera puni d'une amende de 200 000 F.
+qui ne restitue pas les sommes visées à ces articles, sera puni d'une amende de 30 000 euros.
 
 La même peine sera applicable à celui qui réclame à l'emprunteur ou au preneur ou retient sur son compte des sommes
 supérieures à celles qu'il est autorisé à réclamer ou à retenir en application des dispositions de l'article L. 312-23 ou des
@@ -12844,13 +12859,13 @@ deux derniers alinéas de l'article L. 312-29.
 
 	  - Loi n°79-596 du 13 juillet 1979 - art. 33 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -12977,7 +12992,7 @@ Un décret en Conseil d'Etat déterminera les conditions d'application du prése
 Le taux effectif global déterminé comme il est dit à l'article L. 313-1 doit être mentionné dans tout écrit constatant un
 contrat de prêt régi par la présente section.
 
-Toute infraction aux dispositions du présent article sera punie d'une amende de 30 000 F.
+Toute infraction aux dispositions du présent article sera punie d'une amende de 4 500 euros.
 
 **Liens relatifs à cet article**
 
@@ -12992,13 +13007,13 @@ Toute infraction aux dispositions du présent article sera punie d'une amende de
 	  - Loi n°66-1010 du 28 décembre 1966 - art. 16 (M)
 	  - Loi n°66-1010 du 28 décembre 1966 - art. 4 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
@@ -13049,7 +13064,7 @@ jour où elles auront été payées.
 Quiconque consent à autrui un prêt usuraire ou apporte sciemment à quelque titre et de quelque manière que ce soit,
 directement ou indirectement, son concours à l'obtention ou à l'octroi d'un prêt usuraire ou d'un prêt qui deviendrait
 usuraire au sens de l'article L. 313-3 du fait de son concours est puni d'un emprisonnement de deux ans et d'une amende de
-300 000 F ou de l'une de ces deux peines seulement.
+45000 euros ou de l'une de ces deux peines seulement.
 
 En outre, le tribunal peut ordonner :
 
@@ -13083,14 +13098,13 @@ la dernière perception, soit d'intérêt, soit de capital.
 	  - Code des assurances - art. L322-2 (M)
 	  - Code monétaire et financier - art. L353-1 (M)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 331 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -13524,7 +13538,7 @@ duquel ou desquels l'intermédiaire exerce son activité.
 ###### Article L322-1
 
 Tout intermédiaire qui aura perçu une somme d'argent à l'occasion de l'une des opérations mentionnées à l'article L. 321-1
-sera puni d'un emprisonnement d'un an et d'une amende de 200 000 F ou de l'une de ces deux peines seulement.
+sera puni d'un emprisonnement d'un an et d'une amende de 30 000 euros ou de l'une de ces deux peines seulement.
 
 Le tribunal pourra en outre ordonner, aux frais du condamné, la publication intégrale ou par extraits du jugement dans les
 journaux qu'il fixe, sans que le coût de cette publication puisse excéder le montant de l'amende encourue.
@@ -13541,7 +13555,7 @@ journaux qu'il fixe, sans que le coût de cette publication puisse excéder le m
 
 	**Modifié par**:
 
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 16 (V) JORF 12 décembre 2001
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -16847,22 +16861,26 @@ repris dans le code du commerce à l'article L. 410-2.
 ###### Article R114-1
 
 Les contrats conclus entre professionnels et consommateurs ayant pour objet la vente d'un bien meuble ou la fourniture d'une
-prestation de services dont le prix convenu est supérieur à 3 000 F sont soumis aux dispositions de l'article L. 114-1
+prestation de services dont le prix convenu est supérieur à 500 euros sont soumis aux dispositions de l'article L. 114-1
 lorsque la livraison du bien ou la fourniture de la prestation n'est pas immédiate.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°92-1156 1992-10-13 art. 1
+	  - Décret n°97-298 du 27 mars 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1061 du 17 septembre 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de la consommation - art. L114-1 (V)
+	  - Code de la consommation - art. L114-1
 
 
 #### Chapitre V : Valorisation des produits et des services
@@ -17490,25 +17508,29 @@ références d'ordre comptable.
 
 La valeur maximale des échantillons, objets et services visés au deuxième alinéa de l'article L. 121-35 est déterminée en
 fonction du prix de vente net, toutes taxes comprises, des produits, des biens ou des services faisant l'objet de la vente
-dans les conditions suivantes : 7 % du prix net défini ci-dessus si celui-ci est inférieur ou égal à 500 F ; 30 F plus 1 % du
-prix net défini ci-dessus si celui-ci est supérieur à 500 F.
+dans les conditions suivantes : 7 % du prix net défini ci-dessus si celui-ci est inférieur ou égal à 80 euros ; 5 euros plus
+1 % du prix net défini ci-dessus si celui-ci est supérieur à 80 euros.
 
-Cette valeur ne doit en aucun cas dépasser 350 F et s'entend, toutes taxes comprises, départ production pour des objets
+Cette valeur ne doit en aucun cas dépasser 60 euros et s'entend, toutes taxes comprises, départ production pour des objets
 produits en France, et franco et dédouanés à la frontière française pour les objets importés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°86-1309 du 29 décembre 1986 - art. 23 (Ab)
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1061 du 17 septembre 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-35 (M)
+	  - Code de la consommation - art. L121-35
 
 
 ###### Article R121-9
@@ -19863,7 +19885,7 @@ du service concerné.
 
 ###### Article D311-1
 
-Le montant visé au 2° de l'article L. 311-3 est fixé à 140 000 F.
+Le montant visé au 2° de l'article L. 311-3 est fixé à 21500 euros.
 
 **Liens relatifs à cet article**
 
@@ -19871,9 +19893,13 @@ Le montant visé au 2° de l'article L. 311-3 est fixé à 140 000 F.
 
 	  - Décret n°88-293 du 25 mars 1988 - art. 1 (Ab)
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Modifié par**:
+
+	  - Décret n°2001-96 2001-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -19886,7 +19912,7 @@ Le montant visé au 2° de l'article L. 311-3 est fixé à 140 000 F.
 
 ###### Article D311-2
 
-Le montant visé au c du 4° de l'article L. 311-3 est fixé à 140 000 F.
+Le montant visé au c du 4° de l'article L. 311-3 est fixé à 21500 euros.
 
 **Liens relatifs à cet article**
 
@@ -19894,9 +19920,13 @@ Le montant visé au c du 4° de l'article L. 311-3 est fixé à 140 000 F.
 
 	  - Décret n°88-293 du 25 mars 1988 - art. 2 (Ab)
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Modifié par**:
+
+	  - Décret n°2001-96 2001-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -19976,18 +20006,18 @@ celle d'une année civile.
 
 Un avis publié au Journal officiel de la République française indique, pour chaque semestre civil, le taux annuel à retenir
 ainsi que, pour des durées comprises entre trois et vingt-quatre mois, la valeur actuelle des remboursements mensuels
-correspondant à 100 F de crédit selon que le vendeur ou le prestataire de services prend en charge tout ou partie des frais
-de crédit.
+correspondant à 10 euros de crédit selon que le vendeur ou le prestataire de services prend en charge tout ou partie des
+frais de crédit.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°84-709 du 24 juillet 1984 - art. 39 (Ab)
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 
 ##### Section 4 : Le contrat de crédit
@@ -20288,21 +20318,29 @@ de la peine d'amende prévue pour les contraventions de la troisième classe.
 ###### Article R312-1
 
 Le montant des frais d'études, prévus à l'article L. 312-14, que le prêteur peut demander à l'emprunteur lorsque le contrat
-en vue duquel le prêt a été demandé n'est pas conclu, est limité à 0,75 % du montant du prêt, sans pouvoir excéder 1 000 F.
+en vue duquel le prêt a été demandé n'est pas conclu, est limité à 0,75 % du montant du prêt, sans pouvoir excéder 150 euros.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°80-473 du 28 juin 1980 - art. 1 (M)
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-609 du 30 avril 2012 - art. 1
 
 	**Cite**:
 
 	  - Code de la consommation - art. L312-14 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R312-1-1 (VD)
 
 
 ##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur
