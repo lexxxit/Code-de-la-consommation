@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2000-01-04
+Version Consolidée au 2000-02-14
 
 # Partie législative
 
@@ -15053,6 +15053,44 @@ reconstitué, concentré, fumé.
 	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 
+###### Article R112-14-1
+
+Lorsque la denrée alimentaire a été produite dans un autre Etat de la Communauté européenne, la dénomination de vente sous
+laquelle elle est légalement fabriquée et commercialisée dans cet Etat est également admise.
+
+Le cas échéant, cette dénomination de vente est accompagnée d'autres informations descriptives qui doivent figurer à
+proximité de celle-ci, lorsque l'application des autres dispositions du présent chapitre, notamment celles prévues à
+l'article R. 112-9, n'est pas de nature à permettre au consommateur de connaître la nature réelle de la denrée et de la
+distinguer des denrées avec lesquelles il pourrait la confondre.
+
+Nonobstant les dispositions du premier alinéa du présent article, cette dénomination de vente n'est pas admise lorsque la
+denrée qu'elle désigne s'écarte tellement, du point de vue de sa composition ou de sa fabrication, de la denrée connue sous
+cette dénomination sur le territoire national que les dispositions de l'alinéa précédent ne suffisent pas à assurer une
+information correcte du consommateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-879 1998-09-29 art. 21 (dispositions transitoires - modalités d'application)
+
+	**Créé par**:
+
+	  - Décret n°98-879 du 29 septembre 1998 - art. 7 () JORF 2 octobre 1998 en vigueur le 14 février 2000
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code de la consommation
+
+
 ###### Article R112-15
 
 La liste des ingrédients est constituée par l'énumération de tous les ingrédients de la denrée alimentaire dans l'ordre
@@ -15119,21 +15157,75 @@ ou en mélange, les ingrédients utilisés sous forme concentrée ou déshydrat�
 
 ###### Article R112-17
 
-Lorsque la dénomination de vente d'une denrée alimentaire ou son étiquetage fait référence à la présence ou à la faible
-teneur d'un ou plusieurs ingrédients qui sont essentiels pour les caractéristiques de cette denrée, leur quantité, minimale
-ou maximale selon le cas, doit être indiquée, sauf s'ils ont été utilisés exclusivement à faible dose comme aromatisants.
-Cette quantité est exprimée en pourcentage ou en valeur absolue, dans les cas fixés par arrêtés du ministre chargé de la
-consommation, du ministre de l'agriculture et des autres ministres intéressés.
+Sans préjudice des dispositions relatives à l'étiquetage nutritionnel des denrées alimentaires, l'étiquetage d'une denrée
+alimentaire doit comporter l'indication de la quantité d'un ingrédient ou d'une catégorie d'ingrédients qui a été utilisé
+dans sa fabrication ou sa préparation dans les cas suivants :
+
+1° L'ingrédient ou la catégorie d'ingrédients dont il s'agit figure dans la dénomination de vente ou est généralement associé
+à la dénomination de vente par le consommateur ;
+
+2° L'ingrédient ou la catégorie d'ingrédients dont il s'agit est mis en relief dans l'étiquetage par des mots, des images ou
+une représentation graphique ;
+
+3° L'ingrédient ou la catégorie d'ingrédients dont il s'agit est essentiel pour caractériser la denrée alimentaire et la
+distinguer des produits avec lesquels elle pourrait être confondue en raison de sa dénomination ou de son aspect.
+
+La mention prévue à l'alinéa précédent figure soit dans la dénomination de vente de la denrée alimentaire, soit à proximité
+immédiate de cette dénonciation, soit dans la liste des ingrédients.
+
+La quantité mentionnée, exprimée en pourcentage, correspond à la quantité du ou des ingrédients au moment de leur mise en
+oeuvre. Des arrêtés du ministre chargé de la consommation, du ministre chargé de l'agriculture et des autres ministres
+intéressés peuvent prévoir des dérogations à ce principe pour certaines denrées alimentaires.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Décret n°84-1147 du 7 décembre 1984 - art. 12 (Ab)
+	  - SPEC_APPLI: Décret n°98-879 1998-09-29 art. 21 (dispositions transitoires - modalités d'application)
+	  - SPEC_APPLI: Code de la consommation R112-17-1 (champ d'application)
+
+	**Modifié par**:
+
+	  - Décret n°98-879 du 29 septembre 1998 - art. 9 () JORF 2 octobre 1998 en vigueur le 14 février 2000
+
+
+###### Article R112-17-1
+
+Les dispositions de l'article précédent ne sont pas applicables :
+
+1° A un ingrédient ou à une catégorie d'ingrédients :
+
+a) Dont le poids net égoutté est indiqué conformément à l'article R. 112-20 ;
+
+b) Dont la quantité doit déjà figurer sur l'étiquetage en application de règlements de la Communauté européenne ou de
+dispositions réglementaires résultant de la transposition de directives de la Communauté européenne ;
+
+c) Qui est utilisé à faible dose aux fins de l'aromatisation ;
+
+d) Qui, tout en figurant dans la dénomination de vente, n'est pas susceptible de déterminer le choix du consommateur dès lors
+que la variation de quantité n'est pas essentielle pour caractériser la denrée alimentaire ou de nature à la distinguer
+d'autres produits similaires ;
+
+2° Lorsque des dispositions spécifiques, contenues dans des règlements de la Communauté européenne ou résultant de la
+transposition de directives de la Communauté européenne, déterminent de manière précise la quantité de l'ingrédient ou de la
+catégorie d'ingrédients sans en prévoir l'indication sur l'étiquetage ;
+
+3° Dans le cas de mélanges de fruits ou de légumes ou d'épices ou de plantes aromatiques, dont aucun ne prédomine en poids de
+manière significative.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°98-879 1998-09-29 art. 21 (dispositions transitoires - modalités d'application)
 
 	**Créé par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°98-879 du 29 septembre 1998 - art. 10 () JORF 2 octobre 1998 en vigueur le 14 février 2000
+
+	**Cite**:
+
+	  - Code de la consommation R112-20
 
 
 ###### Article R112-18
