@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2001-07-11
+Version Consolidée au 2001-08-25
 
 # Partie législative
 
@@ -2643,30 +2643,33 @@ délai imparti des annonces rectificatives.
 
 ###### Article L121-8
 
-La publicité qui met en comparaison des biens ou services en utilisant soit la citation ou la représentation de la marque de
-fabrique, de commerce ou de service d'autrui, soit la citation ou la représentation de la raison sociale ou de la
-dénomination sociale, du nom commercial ou de l'enseigne d'autrui n'est autorisée que si elle est loyale, véridique et
-qu'elle n'est pas de nature à induire en erreur le consommateur. Elle doit être limitée à une comparaison objective qui ne
-peut porter que sur des caractéristiques essentielles, significatives, pertinentes et vérifiables de biens ou services de
-même nature et disponibles sur le marché. Lorsque la comparaison porte sur les prix, elle doit concerner des produits
-identiques vendus dans les mêmes conditions et indiquer la durée pendant laquelle sont maintenus les prix mentionnés comme
-siens par l'annonceur. La publicité comparative ne peut pas s'appuyer sur des opinions ou des appréciations individuelles ou
-collectives.
+Toute publicité qui met en comparaison des biens ou services en identifiant, implicitement ou explicitement, un concurrent ou
+des biens ou services offerts par un concurrent n'est licite que si :
+
+1° Elle n'est pas trompeuse ou de nature à induire en erreur ;
+
+2° Elle porte sur des biens ou services répondant aux mêmes besoins ou ayant le même objectif ;
+
+3° Elle compare objectivement une ou plusieurs caractéristiques essentielles, pertinentes, vérifiables et représentatives de
+ces biens ou services, dont le prix peut faire partie.
+
+Toute publicité comparative faisant référence à une offre spéciale doit mentionner clairement les dates de disponibilité des
+biens ou services offerts, le cas échéant la limitation de l'offre à concurrence des stocks disponibles et les conditions
+spécifiques applicables.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-60 1992-01-18 art. 10 I al. 1
 	  - Loi n°92-60 du 18 janvier 1992 - art. 10 (P)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 1 () JORF 25 août 2001
 
 	**Cité par**:
 
@@ -2678,24 +2681,34 @@ collectives.
 
 ###### Article L121-9
 
-Aucune comparaison ne peut avoir pour objet principal de tirer avantage de la notoriété attachée à une marque. Aucune
-comparaison ne peut présenter des produits ou des services comme l'imitation ou la réplique de produits ou services revêtus
-d'une marque préalablement déposée.
+La publicité comparative ne peut :
+
+1° Tirer indûment profit de la notoriété attachée à une marque de fabrique, de commerce ou de service, à un nom commercial, à
+d'autres signes distinctifs d'un concurrent ou à l'appellation d'origine ainsi qu'à l'indication géographique protégée d'un
+produit concurrent ;
+
+2° Entraîner le discrédit ou le dénigrement des marques, noms commerciaux, autres signes distinctifs, biens, services,
+activité ou situation d'un concurrent ;
+
+3° Engendrer de confusion entre l'annonceur et un concurrent ou entre les marques, noms commerciaux, autres signes
+distinctifs, biens ou services de l'annonceur et ceux d'un concurrent ;
+
+4° Présenter des biens ou des services comme une imitation ou une reproduction d'un bien ou d'un service bénéficiant d'une
+marque ou d'un nom commercial protégé.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-60 1992-01-18 art. 10 I al. 2
 	  - Loi n°92-60 du 18 janvier 1992 - art. 10 (P)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 2 () JORF 25 août 2001
 
 	**Cité par**:
 
@@ -2706,23 +2719,22 @@ d'une marque préalablement déposée.
 
 ###### Article L121-10
 
-Pour les produits qui bénéficient d'une appellation d'origine contrôlée, la comparaison n'est autorisée que si elle porte sur
-des produits bénéficiant chacun de la même appellation.
+Pour les produits bénéficiant d'une appellation d'origine ou d'une indication géographique protégée, la comparaison n'est
+autorisée qu'entre des produits bénéficiant chacun de la même appellation ou de la même indication.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-60 1992-01-18 art. 10 I al. 3
 	  - Loi n°92-60 du 18 janvier 1992 - art. 10 (P)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 3 () JORF 25 août 2001
 
 
 ###### Article L121-11
@@ -2754,30 +2766,27 @@ lieux ouverts au public.
 
 ###### Article L121-12
 
-L'annonceur pour le compte duquel la publicité définie aux articles L. 121-8 et L. 121-9 est diffusée doit être en mesure de
-prouver l'exactitude de ses allégations, indications ou présentations. Avant toute diffusion, il communique l'annonce
-comparative aux professionnels visés, dans un délai au moins égal à celui exigé, selon le type de support retenu, pour
-l'annulation d'un ordre de publicité.
+Sans préjudice des dispositions de l'article L. 121-2, l'annonceur pour le compte duquel la publicité comparative est
+diffusée doit être en mesure de prouver dans un bref délai l'exactitude matérielle des énonciations, indications et
+présentations contenues dans la publicité.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-60 1992-01-18 art. 10 I al. 5
 	  - Loi n°92-60 du 18 janvier 1992 - art. 10 (P)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 4 () JORF 25 août 2001
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-8 (M)
-	  - Code de la consommation - art. L121-9 (M)
+	  - Code de la consommation - art. L121-2 (M)
 
 
 ###### Article L121-13
@@ -2899,16 +2908,13 @@ définies aux alinéas qui précèdent.
 	  - Loi n°96-603 du 5 juillet 1996 - art. 33 (V) JORF 6 juillet 1996
 
 
-##### Section 2 : Ventes à distance.
+##### Section 2 : Ventes de biens et fournitures de prestations de services à distance
 
 ###### Article L121-16
 
-Pour toutes les opérations de vente à distance, l'acheteur d'un produit dispose d'un délai de sept jours francs à compter de
-la livraison de sa commande pour faire retour de ce produit au vendeur pour échange ou remboursement, sans pénalités à
-l'exception des frais de retour.
-
-Si ce délai expire normalement un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier jour
-ouvrable suivant.
+Les dispositions de la présente section s'appliquent à toute vente d'un bien ou toute fourniture d'une prestation de service
+conclue, sans la présence physique simultanée des parties, entre un consommateur et un professionnel qui, pour la conclusion
+de ce contrat, utilisent exclusivement une ou plusieurs techniques de communication à distance.
 
 **Liens relatifs à cet article**
 
@@ -2923,42 +2929,43 @@ ouvrable suivant.
 	**Anciens textes**:
 
 	  - Loi n°88-21 du 6 janvier 1988 - art. 1 (Ab)
-	  - Loi n°89-421 1989-06-23 art. 10 II
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 7 () JORF 25 août 2001
 
 
 ###### Article L121-17
 
-Les règles relatives à la responsabilité du dirigeant de droit ou de fait d'un service de radiodiffusion sonore ou de
-télévision sont définies par le II de l'article 3 de la loi n° 88-21 du 6 janvier 1988 relative aux opérations de
-télépromotion avec offre de vente dites de "téléachat" reproduit ci-après :
+Ne sont pas soumis aux dispositions de la présente section les contrats :
 
-"II. - Le dirigeant de droit ou de fait d'un service de radiodiffusion sonore ou de télévision défini à l'article 2 de la
-présente loi qui aura programmé et fait diffuser ou distribuer une émission en violation des règles fixées en vertu du même
-article sera puni d'une amende de 500 000 F [*sanctions pénales*].
+1° Portant sur des services financiers ;
 
-Dans le cas de récidive, l'auteur de l'infraction pourra être puni d'une amende de 1 000 000 F".
+2° Conclus par le moyen de distributeurs automatiques ou pour des prestations fournies dans des locaux commerciaux
+automatisés ;
+
+3° Conclus avec les opérateurs de télécommunications pour l'utilisation des cabines téléphoniques publiques ;
+
+4° Conclus pour la construction et la vente des biens immobiliers ou portant sur d'autres droits relatifs à des biens
+immobiliers, à l'exception de la location ;
+
+5° Conclus lors d'une vente aux enchères publiques.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°88-21 du 6 janvier 1988 - art. 3 (M)
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 8 () JORF 25 août 2001
 
 	**Cité par**:
 
@@ -2982,30 +2989,58 @@ Dans le cas de récidive, l'auteur de l'infraction pourra être puni d'une amend
 
 	**Nouveaux textes**:
 
-	  - Code de la consommation - art. L121-20-8 (M)
 	  - Code de la consommation - art. L121-20-8 (VT)
 
 
 ###### Article L121-18
 
-Dans toute offre de vente d'un bien ou de fourniture d'une prestation de services qui est faite à distance à un consommateur,
-le professionnel est tenu d'indiquer le nom de son entreprise, ses coordonnées téléphoniques ainsi que l'adresse de son siège
-et, si elle est différente, celle de l'établissement responsable de l'offre.
+Sans préjudice des informations prévues par les articles L. 111-1 et L. 113-3 ainsi que de celles prévues pour l'application
+de l'article L. 214-1, l'offre de contrat doit comporter les informations suivantes :
+
+1° Le nom du vendeur du produit ou du prestataire de service, son numéro de téléphone, son adresse ou, s'il s'agit d'une
+personne morale, son siège social et, si elle est différente, l'adresse de l'établissement responsable de l'offre ;
+
+2° Le cas échéant, les frais de livraison ;
+
+3° Les modalités de paiement, de livraison ou d'exécution ;
+
+4° L'existence d'un droit de rétractation, sauf dans les cas où les dispositions de la présente section excluent l'exercice
+de ce droit ;
+
+5° La durée de la validité de l'offre et du prix de celle-ci ;
+
+6° Le coût de l'utilisation de la technique de communication à distance utilisée lorsqu'il n'est pas calculé par référence au
+tarif de base ;
+
+7° Le cas échéant, la durée minimale du contrat proposé, lorsqu'il porte sur la fourniture continue ou périodique d'un bien
+ou d'un service.
+
+Ces informations, dont le caractère commercial doit apparaître sans équivoque, sont communiquées au consommateur de manière
+claire et compréhensible, par tout moyen adapté à la technique de communication à distance utilisée.
+
+En cas de démarchage par téléphone ou par toute autre technique assimilable, le professionnel doit indiquer explicitement au
+début de la conversation son identité et le caractère commercial de l'appel.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-60 1992-01-18 art. 5 al. 1
 	  - Loi n°92-60 du 18 janvier 1992 - art. 5 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 9 () JORF 25 août 2001
+
+	**Cite**:
+
+	  - Code de la consommation - art. L111-1 (V)
+	  - Code de la consommation - art. L113-3 (M)
+	  - Code de la consommation - art. L214-1 (M)
 
 	**Cité par**:
 
@@ -3019,34 +3054,53 @@ et, si elle est différente, celle de l'établissement responsable de l'offre.
 	  - Code de la consommation - art. R*121-1 (M)
 	  - Code des postes et des communications électroni... - art. D98-12 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la consommation - art. L121-20-10 (M)
+	  - SPEC_APPLI: Code de la consommation - art. L121-20-4 (M)
+
 
 ###### Article L121-19
 
-Les infractions aux dispositions de l'article L. 121-18, ainsi que le refus du vendeur de changer ou de rembourser un produit
-retourné par l'acheteur dans les conditions visées à l'article L. 121-16, sont constatées et poursuivies conformément aux
-dispositions du titre VI de l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence.
+I. - Le consommateur doit recevoir, par écrit ou sur un autre support durable à sa disposition, en temps utile et au plus
+tard au moment de la livraison :
+
+1° Confirmation des informations mentionnées aux 1° à 4° de l'article L. 121-18 et de celles qui figurent en outre aux
+articles L. 111-1 et L. 113-3 ainsi que de celles prévues pour l'application de l'article L. 214-1, à moins que le
+professionnel n'ait satisfait à cette obligation avant la conclusion du contrat ;
+
+2° Une information sur les conditions et les modalités d'exercice du droit de rétractation ;
+
+3° L'adresse de l'établissement du fournisseur où le consommateur peut présenter ses réclamations ;
+
+4° Les informations relatives au service après vente et aux garanties commerciales ;
+
+5° Les conditions de résiliation du contrat lorsque celui-ci est d'une durée indéterminée ou supérieure à un an.
+
+II. - Les dispositions du présent article ne sont pas applicables aux services fournis en une seule fois au moyen d'une
+technique de communication à distance et facturés par l'opérateur de cette technique à l'exception du 3°.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Ordonnance 86-1243 1986-12-01
-	  - Code de la consommation - art. L121-16 (M)
-	  - Code de la consommation - art. L121-18 (M)
-
 	**Anciens textes**:
 
-	  - Loi n°88-21 1988-01-06 art. 3 I
-	  - Loi n°92-60 1992-01-18 art. 5 al. 2
 	  - Loi n°92-60 du 18 janvier 1992 - art. 5 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 10 () JORF 25 août 2001
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+
+	**Cite**:
+
+	  - Code de la consommation - art. L111-1 (V)
+	  - Code de la consommation - art. L113-3 (M)
+	  - Code de la consommation - art. L121-18 (M)
+	  - Code de la consommation - art. L214-1 (M)
 
 	**Cité par**:
 
@@ -3056,32 +3110,27 @@ dispositions du titre VI de l'ordonnance n° 86-1243 du 1er décembre 1986 relat
 	  - Code de la consommation - art. L121-27 (M)
 	  - Code de la consommation - art. R121-1-1 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la consommation L121-20-4 *champ d'application* et L121-20-10 *sanctions*
+
 
 ###### Article L121-20
 
-Les règles relatives à la fixation des règles de programmation des émissions sont définies par l'article 2 de la loi n° 88-21
-du 6 janvier 1988 précitée reproduit ci-après :
+Le consommateur dispose d'un délai de sept jours francs pour exercer son droit de rétractation sans avoir à justifier de
+motifs ni à payer de pénalités, à l'exception, le cas échéant, des frais de retour.
 
-"Art. 2 : Le Conseil supérieur de l'audiovisuel fixe les règles de programmation des émissions consacrées en tout ou partie à
-la présentation ou à la promotion d'objets, de produits ou de services offerts directement à la vente par des services de
-radiodiffusion sonore et de télévision autorisés en vertu de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de
-communication".
+Le délai mentionné à l'alinéa précédent court à compter de la réception pour les biens ou de l'acceptation de l'offre pour
+les prestations de services.
 
-**Nota:**
+Lorsque les informations prévues à l'article L. 121-19 n'ont pas été fournies, le délai d'exercice du droit de rétractation
+est porté à trois mois. Toutefois, lorsque la fourniture de ces informations intervient dans les trois mois à compter de la
+réception des biens ou de l'acceptation de l'offre, elle fait courir le délai de sept jours mentionné au premier alinéa.
 
-Nota : L'article 2 de la loi n° 88-21 du 6 janvier 1988 ci-dessus reproduit a été abrogé par la loi n° 2000-719 du 1er août
-2000.
+Lorsque le délai de sept jours expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier jour
+ouvrable suivant.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°86-1067 1986-09-30
-	  - Loi n°88-21 du 6 janvier 1988 - art. 2 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°88-21 du 6 janvier 1988 - art. 2 (Ab)
 
 	**Cité par**:
 
@@ -3096,14 +3145,416 @@ Nota : L'article 2 de la loi n° 88-21 du 6 janvier 1988 ci-dessus reproduit a �
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 11 () JORF 25 août 2001
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-19 (M)
 
 	**Nouveaux textes**:
 
-	  - Code de la consommation - art. L121-20-9 (M)
 	  - Code de la consommation - art. L121-20-9 (VT)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la consommation L121-20-4 *champ d'application*
+
+
+###### Article L121-20-1
+
+Lorsque le droit de rétractation est exercé, le professionnel est tenu de rembourser sans délai le consommateur et au plus
+tard dans les trente jours suivant la date à laquelle ce droit a été exercé. Au-delà, la somme due est, de plein droit,
+productive d'intérêts au taux légal en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 12 () JORF 25 août 2001
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-20-10 (M)
+	  - Code de la consommation - art. L121-20-17 (MMN)
+	  - Code de la consommation - art. L121-20-3 (VT)
+	  - Code de la consommation - art. L121-20-4 (M)
+	  - Code de la consommation - art. R121-1-2 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la consommation - art. L121-20-4 (M)
+
+
+###### Article L121-20-2
+
+Le droit de rétractation ne peut être exercé, sauf si les parties en sont convenues autrement, pour les contrats :
+
+1° De fourniture de services dont l'exécution a commencé, avec l'accord du consommateur, avant la fin du délai de sept jours
+francs ;
+
+2° De fourniture de biens ou de services dont le prix est fonction de fluctuations des taux du marché financier ;
+
+3° De fourniture de biens confectionnés selon les spécifications du consommateur ou nettement personnalisés ou qui, du fait
+de leur nature, ne peuvent être réexpédiés ou sont susceptibles de se détériorer ou de se périmer rapidement ;
+
+4° De fourniture d'enregistrements audio ou vidéo ou de logiciels informatiques lorsqu'ils ont été descellés par le
+consommateur ;
+
+5° De fourniture de journaux, de périodiques ou de magazines ;
+
+6° De service de paris ou de loteries autorisés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 12 () JORF 25 août 2001
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+
+
+###### Article L121-20-3
+
+Sauf si les parties en sont convenues autrement, le fournisseur doit exécuter la commande dans le délai de trente jours à
+compter du jour suivant celui où le consommateur a transmis sa commande au fournisseur du produit ou de service.
+
+En cas de défaut d'exécution du contrat par un fournisseur résultant de l'indisponibilité du bien ou du service commandé, le
+consommateur doit être informé de cette indisponibilité et doit, le cas échéant, pouvoir être remboursé sans délai et au plus
+tard dans les trente jours du paiement des sommes qu'il a versées. Au-delà de ce terme, ces sommes sont productives
+d'intérêts au taux légal.
+
+Toutefois, si la possibilité en a été prévue préalablement à la conclusion du contrat ou dans le contrat, le fournisseur peut
+fournir un bien ou un service d'une qualité et d'un prix équivalents. Le consommateur est informé de cette possibilité de
+manière claire et compréhensible. Les frais de retour consécutifs à l'exercice du droit de rétractation sont, dans ce cas, à
+la charge du fournisseur et le consommateur doit en être informé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 12 () JORF 25 août 2001
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L122-11-1 (V)
+	  - Code de la consommation - art. L122-3 (V)
+	  - Code du tourisme. - art. L211-1 (V)
+
+
+###### Article L121-20-4
+
+Les dispositions des articles L. 121-18, L. 121-19, L. 121-20 et L. 121-20-1 ne sont pas applicables aux contrats ayant pour
+objet :
+
+1° La fourniture de biens de consommation courante réalisée au lieu d'habitation ou de travail du consommateur par des
+distributeurs faisant des tournées fréquentes et régulières ;
+
+2° La prestation de services d'hébergement, de transport, de restauration, de loisirs qui doivent être fournis à une date ou
+selon une périodicité déterminée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 12 () JORF 25 août 2001
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la consommation - art. L121-18 (M)
+	  - SPEC_APPLI: Code de la consommation - art. L121-20-1 (M)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-18 (M)
+	  - Code de la consommation - art. L121-19 (M)
+	  - Code de la consommation - art. L121-20 (T)
+	  - Code de la consommation - art. L121-20-1 (M)
+
+
+###### Article L121-20-5
+
+Est interdite la prospection directe par un professionnel, au moyen d'automates d'appel ou de télécopieurs, d'un consommateur
+qui n'a pas exprimé son consentement à recevoir de tels appels.
+
+Lorsqu'elles permettent une communication individuelle, les techniques de communication à distance, autres que celles
+mentionnées à l'alinéa précédent, ne peuvent être utilisées que si le consommateur n'a pas manifesté son opposition.
+
+Les conditions dans lesquelles le consommateur exprime son consentement à recevoir les appels mentionnés au premier alinéa,
+les informations que le professionnel doit fournir au consommateur sur la possibilité qui lui est offerte de manifester son
+opposition ainsi que les conditions dans lesquelles sont tenus les registres d'opposition sont fixées par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 12 () JORF 25 août 2001
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-20-10 (M)
+	  - Code de la consommation - art. L121-20-14 (VT)
+	  - Code de la consommation - art. L121-20-17 (MMN)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la consommation L121-20-10 *sanctions*
+
+
+###### Article L121-20-6
+
+Lorsque les parties ont choisi la loi d'un Etat non membre de la Communauté européenne pour régir le contrat, le juge devant
+lequel est invoquée cette loi est tenu d'en écarter l'application au profit des dispositions plus protectrices de la loi de
+la résidence habituelle du consommateur assurant la transposition de la directive 97/7/CE du Parlement européen et du Conseil
+du 20 mai 1997 concernant la protection des consommateurs en matière de contrats à distance, lorsque cette résidence est
+située dans un Etat membre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Directive CEE 97/7 1997-05-20 Conseil
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 12 () JORF 25 août 2001
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-20-15 (V)
+	  - Code de la consommation - art. L121-20-15 (VT)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L121-20-8 (M)
+
+
+###### Article L121-20-7
+
+Les dispositions de la présente section sont d'ordre public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 12 () JORF 25 août 2001
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-20-16 (V)
+	  - Code de la consommation - art. L121-20-16 (VT)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L121-20-9 (M)
+
+
+###### Article L121-20-8
+
+Les règles relatives à la responsabilité du dirigeant de droit ou de fait d'un service de radiodiffusion sonore ou de
+télévision sont définies par le II de l'article 3 de la loi n° 88-21 du 6 janvier 1988 relative aux opérations de
+télépromotion avec offre de vente dites de "téléachat" reproduit ci-après :
+
+L'article 3 II de la loi n° 88-21 du 6 janvier 1988 a été abrogé par l'article 25 de la loi n° 2000-719 du 1er août 2000
+publiée au JORF du 2 août 2000. Il a été repris dans le code de la consommation à l'article L. 121-17.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°88-21 du 6 janvier 1988 - art. 3 (M)
+	  - Loi n°2000-719 du 1 août 2000 - art. 25 (V)
+	  - Code de la consommation - art. L121-17 (M)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 6 () JORF 25 août 2001
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L121-17 (M)
+	  - Code de la consommation - art. L121-17 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-20-6 (M)
+	  - Code de la consommation - art. L121-20-6 (VT)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L123-1 (VD)
+	  - Code de la consommation - art. R121-2-1 (T)
+	  - Code des assurances - art. L112-2-1 (VD)
+	  - Code monétaire et financier - art. R519-23 (VD)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. L221-18 (V)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L932-15-1 (V)
+	  - PILOTE_SUIVEUR: Code des assurances - art. L112-2-1 (VD)
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
+
+
+###### Article L121-20-9
+
+Les règles relatives à la fixation des règles de programmation des émissions sont définies par l'article 2 de la loi n° 88-21
+du 6 janvier 1988 précitée reproduit ci-après :
+
+**Nota:**
+
+NOTA : L'article 2 de la loi n° 88-21 du 6 janvier 1988 a été abrogé par la loi n° 2000-719 du 1er août 2000.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°88-21 du 6 janvier 1988 - art. 2 (Ab)
+	  - Loi n°2000-719 2000-08-01
+
+	**Anciens textes**:
+
+	  - Loi n°88-21 du 6 janvier 1988 - art. 2 (Ab)
+	  - Code de la consommation - art. L121-20 (T)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 6 () JORF 25 août 2001
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-20-7 (M)
+	  - Code de la consommation - art. L121-20-7 (VT)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. L221-18 (V)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L932-15-1 (V)
+	  - PILOTE_SUIVEUR: Code des assurances - art. L112-2-1 (VD)
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L112-2-1 (VD)
+
+
+###### Article L121-20-10
+
+Les infractions aux dispositions des articles L. 121-18, L. 121-19 et L. 121-20-5, ainsi que le refus du vendeur de
+rembourser un produit retourné par l'acheteur dans les conditions fixées à l'article L. 121-20-1, sont constatées et
+poursuivies dans les conditions fixées par les premier et troisième alinéas de l'article L. 450-1 et les articles L. 450-2,
+L. 450-3, L. 450-4, L. 450-7, L. 450-8, L. 470-1 et L. 470-5 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 13 () JORF 25 août 2001
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L450-1 (M)
+	  - Code de commerce. - art. L450-2 (V)
+	  - Code de commerce. - art. L450-3 (M)
+	  - Code de commerce. - art. L450-4 (M)
+	  - Code de commerce. - art. L450-7 (V)
+	  - Code de commerce. - art. L450-8 (M)
+	  - Code de commerce. - art. L470-1 (V)
+	  - Code de commerce. - art. L470-5 (V)
+	  - Code de la consommation - art. L121-18 (M)
+	  - Code de la consommation - art. L121-19 (M)
+	  - Code de la consommation - art. L121-20-1 (M)
+	  - Code de la consommation - art. L121-20-5 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la consommation - art. L121-18 (M)
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-20-11 (VT)
+	  - Code de la consommation - art. L121-20-13 (VT)
+	  - Code de la consommation - art. L121-20-9 (VT)
+	  - Code de la consommation - art. R121-2-1 (T)
+	  - Code de la consommation - art. R121-2-3 (T)
+	  - Code de la mutualité - art. L221-18 (V)
+	  - Code monétaire et financier - art. L343-1 (VD)
+	  - Code monétaire et financier - art. L343-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-20-17 (MMN)
 
 
 ##### Section 3 : Démarchage
@@ -4712,25 +5163,27 @@ conditions fixées par les articles L. 450-1 premier et troisième alinéas, L. 
 
 ###### Article L122-3
 
-Tout professionnel vendeur de bien ou prestataire de services qui aura indûment perçu d'un consommateur un paiement sans
-engagement exprès et préalable de ce dernier est tenu de restituer les sommes ainsi prélevées qui sont productives d'intérêts
-au taux légal calculés à compter de la date du paiement indu et d'intérêts au taux légal majoré de moitié à compter de la
-demande de remboursement faite par le consommateur.
+La fourniture de biens ou de services sans commande préalable du consommateur est interdite lorsqu'elle fait l'objet d'une
+demande de paiement. Aucune obligation ne peut être mise à la charge du consommateur qui reçoit un bien ou une prestation de
+service en violation de cette interdiction.
+
+Le professionnel doit restituer les sommes qu'il aurait indûment perçues sans engagement exprès et préalable du consommateur.
+Ces sommes sont productives d'intérêts au taux légal calculé à compter de la date du paiement indu et d'intérêts au taux
+légal majoré de moitié à compter de la demande de remboursement faite par le consommateur.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-60 1992-01-18 art. 7 al. 1
 	  - Loi n°92-60 du 18 janvier 1992 - art. 7 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 14 () JORF 25 août 2001
 
 	**Cité par**:
 
@@ -5121,100 +5574,13 @@ autre contrat lorsque la conclusion ou l'exécution de ces deux contrats dépend
 Les clauses abusives sont réputées non écrites.
 
 L'appréciation du caractère abusif des clauses au sens du premier alinéa ne porte ni sur la définition de l'objet principal
-du contrat ni sur l'adéquation du prix ou de la rémunération au bien vendu ou au service offert.
+du contrat ni sur l'adéquation du prix ou de la rémunération au bien vendu ou au service offert pour autant que les clauses
+soient rédigées de façon claire et compréhensible.
 
 Le contrat restera applicable dans toutes ses dispositions autres que celles jugées abusives s'il peut subsister sans
 lesdites clauses.
 
 Les dispositions du présent article sont d'ordre public.
-
-Annexe : clauses visées au troisième alinéa de l'article L. 132-1.
-
-1. Clauses ayant pour objet ou pour effet :
-
-a) D'exclure ou de limiter la responsabilité légale du professionnel en cas de mort d'un consommateur ou de dommages
-corporels causés à celui-ci, résultant d'un acte ou d'une omission de ce professionnel ;
-
-b) D'exclure ou de limiter de façon inappropriée les droits légaux du consommateur vis-à-vis du professionnel ou d'une autre
-partie en cas de non-exécution totale ou partielle ou d'exécution défectueuse par le professionnel d'une quelconque des
-obligations contractuelles, y compris la possibilité de compenser une dette envers le professionnel avec une créance qu'il
-aurait contre lui ;
-
-c) De prévoir un engagement ferme du consommateur, alors que l'exécution des prestations du professionnel est assujettie à
-une condition dont la réalisation dépend de sa seule volonté ;
-
-d) De permettre au professionnel de retenir des sommes versées par le consommateur lorsque celui-ci renonce à conclure ou à
-exécuter le contrat, sans prévoir le droit, pour le consommateur, de percevoir une indemnité d'un montant équivalent de la
-part du professionnel lorsque c'est celui-ci qui renonce ;
-
-e) D'imposer au consommateur qui n'exécute pas ses obligations une indemnité d'un montant disproportionnellement élevé ;
-
-f) D'autoriser le professionnel à résilier le contrat de façon discrétionnaire si la même faculté n'est pas reconnue au
-consommateur, ainsi que de permettre au professionnel de retenir les sommes versées au titre de prestations non encore
-réalisées par lui, lorsque c'est le professionnel lui-même qui résilie le contrat ;
-
-g) D'autoriser le professionnel à mettre fin sans un préavis raisonnable à un contrat à durée indéterminée, sauf en cas de
-motif grave ;
-
-h) De proroger automatiquement un contrat à durée déterminée en l'absence d'expression contraire du consommateur, alors
-qu'une date excessivement éloignée de la fin du contrat a été fixée comme date limite pour exprimer cette volonté de non-
-prorogation de la part du consommateur ;
-
-i) De constater de manière irréfragable l'adhésion du consommateur à des clauses dont il n'a pas eu, effectivement,
-l'occasion de prendre connaissance avant la conclusion du contrat ;
-
-j) D'autoriser le professionnel à modifier unilatéralement les termes du contrat sans raison valable et spécifiée dans le
-contrat ;
-
-k) D'autoriser les professionnels à modifier unilatéralement sans raison valable des caractéristiques du produit à livrer ou
-du service à fournir ;
-
-l) De prévoir que le prix des biens est déterminé au moment de la livraison, ou d'accorder au vendeur de biens ou au
-fournisseur de services le droit d'augmenter leurs prix sans que, dans les deux cas, le consommateur n'ait de droit
-correspondant lui permettant de rompre le contrat au cas où le prix final est trop élevé par rapport au prix convenu lors de
-la conclusion du contrat ;
-
-m) D'accorder au professionnel le droit de déterminer si la chose livrée ou le service fourni est conforme aux stipulations
-du contrat ou de lui conférer le droit exclusif d'interpréter une quelconque clause du contrat ;
-
-n) De restreindre l'obligation du professionnel de respecter les engagements pris par ses mandataires ou de soumettre ses
-engagements au respect d'une formalité particulière ;
-
-o) D'obliger le consommateur à exécuter ses obligations lors même que le professionnel n'exécuterait pas les siennes ;
-
-p) De prévoir la possibilité de cession du contrat de la part du professionnel, lorsqu'elle est susceptible d'engendrer une
-diminution des garanties pour le consommateur sans l'accord de celui-ci ;
-
-q) De supprimer ou d'entraver l'exercice d'actions en justice ou des voies de recours par le consommateur, notamment en
-obligeant le consommateur à saisir exclusivement une juridiction d'arbitrage non couverte par des dispositions légales, en
-limitant indûment les moyens de preuves à la disposition du consommateur ou en imposant à celui-ci une charge de preuve qui,
-en vertu du droit applicable, devrait revenir normalement à une autre partie au contrat.
-
-2. Portée des points g, j et l :
-
-a) Le point g ne fait pas obstacle à des clauses par lesquelles le fournisseur de services financiers se réserve le droit de
-mettre fin au contrat à durée indéterminée unilatéralement, et ce, sans préavis en cas de raison valable, pourvu que soit
-mise à la charge du professionnel l'obligation d'en informer la ou les autres parties contractantes immédiatement ;
-
-b) Le point j ne fait pas obstacle à des clauses selon lesquelles le fournisseur de services financiers se réserve le droit
-de modifier le taux d'intérêt dû par le consommateur ou dû à celui-ci, ou le montant de toutes autres charges afférentes à
-des services financiers, sans aucun préavis en cas de raison valable, pourvu que soit mise à la charge du professionnel
-l'obligation d'en informer la ou les autres parties contractantes dans les meilleurs délais et que celles-ci soient libres de
-réaliser immédiatement le contrat.
-
-Le point j ne fait pas non plus obstacle à des clauses selon lesquelles le professionnel se réserve le droit de modifier
-unilatéralement les conditions d'un contrat de durée indéterminée pourvu que soit mis à sa charge le devoir d'en informer le
-consommateur avec un préavis raisonnable et que celui-ci soit libre de résilier le contrat ;
-
-c) Les points g, j et l ne sont pas applicables aux :
-
-- transactions concernant les valeurs mobilières, instruments financiers et autres produits ou services dont le prix est lié
-aux fluctuations d'un cours ou d'un indice boursier ou d'un taux de marché financier que le professionnel ne contrôle pas ;
-
-- contrats d'achat ou de vente de devises, de chèques de voyage ou de mandats-poste internationaux libellés en devises ;
-
-d) Le point l ne fait pas obstacle aux clauses d'indexation de prix pour autant qu'elles soient licites et que le mode de
-variation du prix y soit explicitement décrit.
 
 **Liens relatifs à cet article**
 
@@ -5228,8 +5594,7 @@ variation du prix y soit explicitement décrit.
 
 	**Modifié par**:
 
-	  - Loi n°95-96 1995-02-01 art. 1, annexe JORF 2 février 1995
-	  - Loi n°95-96 du 1 février 1995 - art. 1 () JORF 2 février 1995
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 16 () JORF 25 août 2001
 
 	**Cité par**:
 
@@ -5240,12 +5605,6 @@ variation du prix y soit explicitement décrit.
 	  - Code de la consommation - art. R132-2 (Ab)
 	  - Code de la consommation - art. R132-6 (VT)
 	  - Code de la consommation - art. R534-4 (Ab)
-
-	**Cite**:
-
-	  - Code civil - art. 1163 (V)
-	  - Code civil - art. 1164 (V)
-	  - Code civil 1156 à 1161, 1163, 1164
 
 
 ##### Section 2 : La commission des clauses abusives.
@@ -8429,6 +8788,218 @@ Les dispositions de l'article L. 216-4 sont applicables aux infractions visées 
 	  - Code pénal 433-6 à 433-10
 
 
+#### Chapitre VIII : Prévention en matière d'alimentation humaine et animale
+
+##### Section 1 : Dispositions générales.
+
+###### Article L218-1
+
+Le présent chapitre s'applique aux denrées destinées à l'alimentation humaine ou animale, ainsi qu'aux matières premières,
+ingrédients, auxiliaires technologiques et autres produits mis en oeuvre pour la préparation et la production des denrées,
+aux matériaux et objets destinés à entrer en contact avec les denrées, aux produits de nettoyage et d'entretien et aux
+pesticides.
+
+Les contrôles opérés au titre du présent chapitre par les agents mentionnés à l'article L. 215-1 ont pour but de prévenir les
+risques pour la santé publique, d'assurer la loyauté des transactions commerciales ou de protéger les intérêts des
+consommateurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 17 () JORF 25 août 2001
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-1 (M)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L218-1-1 (VT)
+	  - Code de la consommation - art. L218-1-2 (VT)
+	  - Code de la consommation - art. R218-1 (Ab)
+	  - Code rural et de la pêche maritime - art. L230-5 (V)
+
+
+###### Article L218-2
+
+Les agents mentionnés à l'article L. 215-1 peuvent pénétrer dans les lieux énumérés au premier alinéa de l'article L. 213-4,
+en présence de l'occupant des lieux ou de son représentant, y prélever des échantillons et recueillir auprès du professionnel
+concerné, qui est tenu de les fournir, tous les éléments d'information permettant de déterminer les caractéristiques des
+produits.
+
+Ils peuvent pénétrer dans ces lieux entre 8 heures et 20 heures et, en dehors de ces heures, lorsque sont en cours à
+l'intérieur des activités de production, de fabrication, de transformation, de conditionnement, de transport ou de
+commercialisation.
+
+Lorsque ces lieux sont à usage mixte, la visite de la partie des locaux affectés à l'habitation ne peut être faite qu'entre 8
+heures et 20 heures et sur autorisation du président du tribunal de grande instance ou du magistrat qu'il délègue à cet
+effet, qui vérifie que la demande d'autorisation qui lui est soumise comporte tous les éléments d'information de nature à
+justifier la visite. Le juge peut se rendre sur les lieux pendant la visite dont il peut, à tout moment, décider la
+suppression ou l'arrêt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 17 () JORF 25 août 2001
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-1 (M)
+	  - Code de la consommation L215-1, L213-4 al. 1
+
+
+###### Article L218-3
+
+Lorsque du fait d'un manquement à la réglementation prise pour l'application de l'article L. 214-1 du présent code ou d'un
+règlement de la Communauté européenne contenant des dispositions entrant dans le champ d'application des chapitres II à VI,
+un établissement présente ou est susceptible de présenter une menace pour la santé publique, les agents mentionnés à
+l'article L. 215-1 peuvent ordonner la réalisation de travaux, d'opérations de nettoyage, d'action de formation du personnel
+et d'autres mesures correctives, ainsi que le renforcement des auto-contrôles. En cas de nécessité, l'autorité administrative
+peut prononcer, sur proposition de ces agents, la fermeture de tout ou partie de l'établissement ou l'arrêt de plusieurs de
+ses activités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 17 () JORF 25 août 2001
+
+	**Cite**:
+
+	  - Code de la consommation - art. L214-1 (M)
+	  - Code de la consommation - art. L215-1 (M)
+
+
+###### Article L218-4
+
+S'il est établi qu'après son départ de l'établissement d'origine un lot de produits présente ou est susceptible de présenter,
+compte tenu de ses conditions communes de production ou de commercialisation, un danger pour la santé publique, l'autorité
+administrative, sur proposition d'un des agents mentionnés à l'article L. 215-1, en ordonne la consignation ou le rappel en
+un ou plusieurs lieux pour en permettre le contrôle.
+
+Toute personne ayant acquis ou cédé un ou plusieurs éléments du lot et ayant connaissance de la décision de consignation ou
+de rappel est tenue d'en informer celui qui a fourni la marchandise et ceux à qui elle l'a cédée.
+
+Les frais résultant de la décision de consignation ou de rappel, notamment les frais de transport, de stockage, d'analyse et
+de destruction, sont à la charge de l'opérateur concerné sans préjudice de la mise en cause de la responsabilité du
+fournisseur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 17 () JORF 25 août 2001
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-1 (M)
+
+
+###### Article L218-5
+
+Lorsqu'à l'occasion des contrôles pratiqués dans l'exercice de leurs missions, les agents mentionnés à l'article L. 215-1
+constatent qu'un lot n'est pas conforme à la réglementation en vigueur, ces agents peuvent en ordonner la mise en conformité,
+notamment la décontamination ou tout autre traitement dans un délai qu'ils fixent. Si la mise en conformité n'est pas
+possible, l'autorité administrative, sur proposition de ces agents, peut ordonner l'utilisation à d'autres fins, la
+réexpédition vers le pays d'origine ou la destruction des marchandises dans un délai qu'il fixe.
+
+Ces opérations sont constatées par procès-verbal.
+
+Préalablement à l'exécution de ces mesures, l'intéressé est mis à même de présenter ses observations. Ces mesures sont à la
+charge du responsable de la mise sur le marché ou du distributeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 17 () JORF 25 août 2001
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-1 (M)
+
+
+##### Section 2 : Etablissements traitant des produits par ionisation
+
+###### Article L218-6
+
+Les établissements traitant par ionisation des denrées destinées à l'alimentation humaine ou animale, à l'exception de celles
+déterminées par décret en Conseil d'Etat, font l'objet d'un agrément par l'autorité administrative.
+
+Ils doivent satisfaire à des conditions définies par arrêtés des ministres chargés de la consommation, de l'agriculture et de
+l'industrie. Ces arrêtés déterminent également les modalités d'attribution, de suspension et de retrait de l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 17 () JORF 25 août 2001
+
+	**Cité par**:
+
+	  - Arrêté du 8 janvier 2002 - art. 1 (V)
+	  - Code de la consommation - art. L218-7 (V)
+
+
+##### Section 3 : Dispositions pénales.
+
+###### Article L218-7
+
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait de procéder au traitement par ionisation des denrées
+sans être titulaire de l'agrément prévu à l'article L. 218-6. Pour ces mêmes faits, les personnes morales peuvent être
+déclarées responsables pénalement dans les conditions prévues à l'article 121-2 du code pénal et encourent une peine d'amende
+selon les modalités prévues à l'article 131-38 du même code.
+
+Est puni d'une peine de deux ans d'emprisonnement et de 15 000 euros d'amende le fait de ne pas exécuter les mesures
+ordonnées en application des dispositions du présent chapitre.
+
+Les infractions faisant l'objet des sanctions prévues au présent article sont constatées par les agents mentionnés à
+l'article L. 215-1 dans les conditions prévues au chapitre V du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 17 () JORF 25 août 2001
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-1 (M)
+	  - Code de la consommation - art. L218-6 (M)
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+
+
 ### Titre II : Sécurité
 
 #### Chapitre Ier : Prévention
@@ -10314,6 +10885,28 @@ Le contrat n'est pas résolu si, avant l'expiration du délai de sept jours pré
 	**Liens**:
 
 	  - SPEC_APPLI: Code de la consommation L312-35 *sanctions pénales*
+
+
+###### Article L311-25-1
+
+Lorsque le paiement du prix du bien ou du service est totalement ou en partie financé par un crédit consenti par le
+fournisseur ou par un tiers sur la base d'un accord conclu entre ce tiers et le fournisseur, l'exercice par le consommateur
+de son droit de rétractation emporte résiliation de plein droit du contrat de crédit destiné à en assurer le financement,
+sans frais ni indemnité, à l'exception éventuelle des frais engagés pour l'ouverture du dossier de crédit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 15 () JORF 25 août 2001
+
+	**Cité par**:
+
+	  - Décret n°2011-457 du 26 avril 2011 - art. 1 (V)
 
 
 ###### Article L311-26
@@ -14630,13 +15223,18 @@ celle qui fonde les poursuites.
 	  - Code de la consommation - art. L621-5 (V)
 
 
-##### Section 2 : Action en suppression de clauses abusives.
+##### Section 2 : Action en cessation d'agissements illicites
 
 ###### Article L421-6
 
-Les associations mentionnées à l'article L. 421-1 peuvent demander à la juridiction civile d'ordonner, le cas échéant sous
-astreinte, la suppression de clauses abusives dans les modèles de conventions habituellement proposés par les professionnels
-aux consommateurs et dans ceux destinés aux consommateurs et proposés par les organisations professionnelles à leurs membres.
+Les associations mentionnées à l'article L. 421-1 et les organismes justifiant de leur inscription sur la liste publiée au
+Journal officiel des Communautés européennes en application de l'article 4 de la directive 98/27/CE du Parlement européen et
+du Conseil relative aux actions en cessation en matière de protection des consommateurs peuvent agir devant la juridiction
+civile pour faire cesser ou interdire tout agissement illicite au regard des dispositions transposant les directives
+mentionnées à l'article 1er de la directive précitée.
+
+Le juge peut à ce titre ordonner, le cas échéant sous astreinte, la suppression d'une clause illicite ou abusive dans tout
+contrat ou type de contrat proposé ou destiné au consommateur.
 
 **Liens relatifs à cet article**
 
@@ -14650,7 +15248,8 @@ aux consommateurs et dans ceux destinés aux consommateurs et proposés par les 
 
 	**Modifié par**:
 
-	  - Loi n°95-96 du 1 février 1995 - art. 4 () JORF 2 février 1995
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 19 () JORF 25 août 2001
+	  - Ordonnance n°2001-741 du 23 août 2001 - art. 20 () JORF 25 août 2001
 
 	**Cité par**:
 
