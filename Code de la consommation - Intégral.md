@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1998-01-24
+Version Consolidée au 1998-05-26
 
 # Partie législative
 
@@ -3592,6 +3592,93 @@ mères, à l'interdiction faite au second alinéa de l'article L. 121-52.
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L122-16 (V)
+
+
+##### Section 10 : Appellation de boulanger et enseigne de boulangerie
+
+###### Article L121-80
+
+Ne peuvent utiliser l'appellation de "boulanger" et l'enseigne commerciale de "boulangerie" ou une dénomination susceptible
+de porter à confusion, sur le lieu de vente du pain au consommateur final ou dans des publicités à l'exclusion des documents
+commerciaux à usage strictement professionnel, les professionnels qui n'assurent pas eux-mêmes, à partir de matières
+premières choisies, le pétrissage de la pâte, sa fermentation et sa mise en forme ainsi que la cuisson du pain sur le lieu de
+vente au consommateur final ; les produits ne peuvent à aucun stade de la production ou de la vente être surgelés ou
+congelés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Loi n°98-405 du 25 mai 1998 - art. 1 () JORF 26 mai 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-81 (VT)
+	  - Code de la consommation - art. L121-82 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L122-17 (V)
+
+
+###### Article L121-81
+
+Cette dénomination peut également être utilisée lorsque le pain est vendu de façon itinérante par le professionnel, ou sous
+sa responsabilité, qui remplit les conditions précisées à l'article L. 121-80.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Loi n°98-405 du 25 mai 1998 - art. 1 () JORF 26 mai 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-80
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L122-18 (V)
+
+
+###### Article L121-82
+
+La recherche et la constatation des infractions aux dispositions des articles L. 121-80 et L. 121-81 sont exercées dans les
+conditions prévues à l'article L. 121-2 et punies des peines prévues à l'article L. 213-1 et, le cas échéant, au second
+alinéa de l'article L. 121-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-405 du 25 mai 1998 - art. 1 () JORF 26 mai 1998
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-2 (V)
+	  - Code de la consommation - art. L121-6 (V)
+	  - Code de la consommation - art. L121-80 (V)
+	  - Code de la consommation - art. L213-1 (V)
 
 
 #### Chapitre II : Pratiques commerciales illicites
