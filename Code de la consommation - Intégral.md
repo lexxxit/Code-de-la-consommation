@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-02-24
+Version Consolidée au 2005-03-18
 
 # Partie législative
 
@@ -26333,18 +26333,21 @@ de la consommation).
 ###### Article D511-3
 
 Les pouvoirs publics consultent, en tant que de besoin, le Conseil national de la consommation sur les grandes orientations
-de leur politique qui concernent les consommateurs et les usagers.
+de leur politique qui concernent les consommateurs et les usagers et en particulier à l'occasion des discussions
+communautaires ayant une incidence sur le droit français de la consommation. Les conditions d'étude de ces dossiers sont
+définies dans l'arrêté portant règlement intérieur du Conseil national de la consommation.
 
 Le Conseil national de la consommation comporte des collèges ayant voix délibérative qui émettent, ensemble ou séparément, de
 leur propre initiative ou à la demande du ministre chargé de la consommation, des avis sur les questions intéressant la
-consommation de biens et de services publics ou privés.
+consommation de biens et de services publics ou privés, sur les projets ou propositions de lois et règlements susceptibles
+d'avoir une incidence sur la consommation ainsi que sur les conditions d'application de ces textes, y compris sur les textes
+pris en application de l'article L. 410-2 du code de commerce et de l'article L. 113-3 du présent code.
 
-Les pouvoirs publics peuvent saisir pour avis le Conseil national de la consommation des projets ou propositions de lois et
-de règlements susceptibles d'avoir une incidence sur la consommation ainsi que sur les conditions d'application de ces
-textes.
+**Nota:**
 
-Pour l'application des articles L. 410-2 du code de commerce et L. 113-3 du présent code, le Conseil national de la
-consommation est consulté en sa formation plénière.
+Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+de la consommation).
 
 **Liens relatifs à cet article**
 
@@ -26353,9 +26356,13 @@ consommation est consulté en sa formation plénière.
 	  - Décret n°83-642 du 12 juillet 1983 - art. 3 (M)
 	  - Décret n°83-642 du 12 juillet 1983 - art. 3 (Ab)
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Modifié par**:
+
+	  - Décret n°2005-249 du 14 mars 2005 - art. 1 () JORF 18 mars 2005
 
 	**Cite**:
 
@@ -26514,8 +26521,14 @@ de la consommation).
 
 ###### Article D511-8
 
-Le directeur de l'Institut national de la consommation participe de droit aux travaux du Conseil national de la consommation.
-Il peut se faire représenter.
+Participent de plein droit aux travaux du Conseil national de la consommation les représentants des organismes dont la liste
+est fixée par arrêté du ministre chargé de la consommation.
+
+**Nota:**
+
+Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+de la consommation).
 
 **Liens relatifs à cet article**
 
@@ -26523,9 +26536,13 @@ Il peut se faire représenter.
 
 	  - Décret n°83-642 du 12 juillet 1983 - art. 8 (Ab)
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Modifié par**:
+
+	  - Décret n°2005-249 du 14 mars 2005 - art. 2 () JORF 18 mars 2005
 
 	**Cité par**:
 
@@ -26534,9 +26551,15 @@ Il peut se faire représenter.
 
 ###### Article D511-9
 
-Le président du Conseil national de la consommation peut, de sa propre initiative ou à la demande de la majorité des membres
-d'un collège ou à la demande du bureau, tel qu'il est défini à l'article D. 511-11, inviter aux réunions du conseil toute
-personnalité dont la présence sera jugée utile à la bonne marche de ses travaux.
+Le président du Conseil national de la consommation peut, de sa propre initiative ou sur initiative du bureau, tel qu'il est
+défini à l'article D. 511-11, inviter à ses réunions toute personnalité et désigner tout expert dont la présence sera jugée
+utile à la bonne marche des travaux. Ces experts n'ont pas de voix délibérative.
+
+**Nota:**
+
+Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+de la consommation).
 
 **Liens relatifs à cet article**
 
@@ -26544,13 +26567,25 @@ personnalité dont la présence sera jugée utile à la bonne marche de ses trav
 
 	  - Décret n°83-642 du 12 juillet 1983 - art. 9 (Ab)
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Modifié par**:
+
+	  - Décret n°2005-249 du 14 mars 2005 - art. 3 () JORF 18 mars 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation - art. D511-11 (M)
+	  - Code de la consommation - art. D511-11
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. D821-9 (V)
 
 
 ###### Article D511-10
@@ -26586,12 +26621,19 @@ de la consommation).
 
 ###### Article D511-11
 
-Il est constitué un bureau du Conseil national de la consommation. Ce bureau est composé de membres délégués par chacun des
+Il est constitué un bureau du Conseil national de la consommation ; ce bureau est composé de membres délégués par chacun des
 collèges des consommateurs et usagers et des professionnels.
 
 Les réunions du bureau sont présidées par le ministre chargé de la consommation ou son représentant.
 
-Un arrêté du ministre chargé de la consommation fixe les conditions de constitution du bureau.
+Un arrêté du ministre chargé de la consommation fixe les attributions du bureau, ses conditions de constitution et de
+fonctionnement.
+
+**Nota:**
+
+Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+de la consommation).
 
 **Liens relatifs à cet article**
 
@@ -26599,14 +26641,18 @@ Un arrêté du ministre chargé de la consommation fixe les conditions de consti
 
 	  - Décret n°83-642 du 12 juillet 1983 - art. 11 (Ab)
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 3 janvier 2002
 	  - TXT_SOURCE: Arrêté du 3 janvier 2002 - art. 1 ()
+
+	**Modifié par**:
+
+	  - Décret n°2005-249 du 14 mars 2005 - art. 4 () JORF 18 mars 2005
 
 	**Cité par**:
 
@@ -26617,18 +26663,26 @@ Un arrêté du ministre chargé de la consommation fixe les conditions de consti
 
 ###### Article D511-12
 
-Le Conseil national de la consommation en formation plénière est convoqué par le ministre chargé de la consommation, de sa
-propre initiative ou à la demande de la majorité d'un des deux collèges ou de la majorité du bureau. Il tient au moins quatre
-séances plénières par an.
+Le Conseil national de la consommation dans sa formation plénière est convoqué par le ministre chargé de la consommation, de
+sa propre initiative ou à la demande de la majorité des membres titulaires d'un des deux collèges ou de la majorité des
+membres titulaires du bureau. Il tient au moins une séance plénière par an.
 
 La réunion d'un seul collège se fait sur convocation du ministre chargé de la consommation, de sa propre initiative ou à la
-demande de la majorité des membres du collège concerné.
+demande des deux tiers des membres titulaires de l'un ou l'autre des collèges.
 
-Pour l'application de l'article L. 113-3, la convocation du conseil est adressée deux semaines au moins avant la date de la
-séance.
+La consultation du Conseil national de la consommation ou d'un seul collège peut être effectuée :
 
-Dans le cas prévu à l'article L. 410-2 du code de commerce, cette consultation est effectuée selon une procédure d'urgence,
-sans condition de délai ni de quorum.
+- soit sur convocation du ministre adressée deux semaines au moins avant la date de la séance ;
+
+- soit selon une procédure d'urgence, sans condition de délai ou de quorum ;
+
+- soit par voie écrite.
+
+**Nota:**
+
+Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+de la consommation).
 
 **Liens relatifs à cet article**
 
@@ -26637,14 +26691,13 @@ sans condition de délai ni de quorum.
 	  - Décret n°83-642 du 12 juillet 1983 - art. 12 (M)
 	  - Décret n°83-642 du 12 juillet 1983 - art. 12 (Ab)
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L410-2 (V)
-	  - Code de la consommation - art. L113-3 (M)
+	  - Décret n°2005-249 du 14 mars 2005 - art. 5 () JORF 18 mars 2005
 
 	**Cité par**:
 
@@ -26688,9 +26741,14 @@ de la consommation).
 
 ###### Article D511-14
 
-En séance plénière, chaque collège vote séparément.
+En séance plénière, chaque collège vote séparément et par un vote global sur les travaux du Conseil national de la
+consommation réalisés au cours de l'année et validés par le bureau.
 
-Les modalités du vote sont précisées dans le règlement intérieur prévu par l'article D. 511-16.
+**Nota:**
+
+Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+de la consommation).
 
 **Liens relatifs à cet article**
 
@@ -26698,13 +26756,13 @@ Les modalités du vote sont précisées dans le règlement intérieur prévu par
 
 	  - Décret n°83-642 du 12 juillet 1983 - art. 14 (Ab)
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la consommation - art. D511-16 (V)
+	  - Décret n°2005-249 du 14 mars 2005 - art. 6 () JORF 18 mars 2005
 
 
 ###### Article D511-15
@@ -26781,7 +26839,15 @@ de la consommation).
 ###### Article D511-17
 
 Les désignations des représentants des associations de consommateurs effectuées sur proposition ou avis du Conseil national
-de la consommation sont faites sur proposition ou avis du collège de consommateurs du Conseil national de la consommation.
+de la consommation seront faites sur proposition ou avis du collège de consommateurs et usagers du Conseil national de la
+consommation. Les modalités pratiques de ces consultations sont précisées dans l'arrêté portant règlement intérieur du
+Conseil national de la consommation.
+
+**Nota:**
+
+Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+de la consommation).
 
 **Liens relatifs à cet article**
 
@@ -26789,9 +26855,13 @@ de la consommation sont faites sur proposition ou avis du collège de consommate
 
 	  - Décret n°83-642 du 12 juillet 1983 - art. 17 (Ab)
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Modifié par**:
+
+	  - Décret n°2005-249 du 14 mars 2005 - art. 7 () JORF 18 mars 2005
 
 
 #### Chapitre II : Les comités départementaux de la consommation.
