@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1999-06-29 00:00:01 +0200
+Version Consolidée au 1999-07-10
 
 # Partie législative
 
@@ -107,6 +107,57 @@ qui soumettent certaines activités à des règles particulières en ce qui conc
 	  - Décret n°2014-1482 du 9 décembre 2014 (V)
 	  - Code de la consommation - art. R111-3 (Ab)
 	  - Code de la consommation - art. R111-4 (Ab)
+
+
+#### Chapitre II : Modes de présentation et inscriptions
+
+###### Article L112-1
+
+L'étiquetage d'un produit bénéficiant d'une appellation d'origine contrôlée fromagère doit obligatoirement comporter les nom
+et adresse du fabricant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°99-574 du 9 juillet 1999 - art. 82 () JORF 10 juillet 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-44 (V)
+
+
+###### Article L112-2
+
+Un signe d'identification visuelle officiel, dénommé logo "appellation d'origine contrôlée", au sens du 2 de l'article 6 ter
+de la convention de Paris du 20 mars 1883 pour la protection de la propriété industrielle, doit être utilisé dans toute
+présentation des produits agricoles et des denrées alimentaires bénéficiant d'une appellation d'origine contrôlée, à
+l'exception des vins.
+
+Un décret en Conseil d'Etat fixe, après consultation de l'Institut national des appellations d'origine, le modèle du logo
+officiel et ses modalités d'utilisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°99-574 du 9 juillet 1999 - art. 83 () JORF 10 juillet 1999
+
+	**Cité par**:
+
+	  - Code rural - art. L641-1-1 (MMN)
 
 
 #### Chapitre III : Prix et conditions de vente
@@ -543,14 +594,14 @@ l'article L. 641-4 du code rural, ci-après reproduit :
 considérées comme répondant aux conditions de l'article L. 641-3. Toute modification ultérieure des textes définissant ces
 appellations doit intervenir conformément à la procédure prévue au même article.
 
-Avant le 1er juillet 2000, les produits dont l'appellation d'origine a été définie par voie judiciaire avant le 1er juillet
+"Avant le 1er juillet 2000, les produits dont l'appellation d'origine a été définie par voie judiciaire avant le 1er juillet
 1990, ou a été acquise en application des articles 14 et 15 de la loi du 6 mai 1919 relative à la protection des appellations
 d'origine dans leur rédaction antérieure à la loi n° 90-558 du 2 juillet 1990 relative aux appellations d'origine contrôlées
 des produits agricoles ou alimentaires, bruts ou transformés, et pour lesquels une demande de reconnaissance en appellation
 d'origine contrôlée a été déposée auprès de l'Institut national des appellations d'origine avant le 31 décembre 1996, se
-verront attribuer cette reconnaissance, par décret, s'ils satisfont aux conditions fixées à l'article L. 641-3. A compter du
+verront attribuer cette reconnaissance, par décret, s'ils satisfont aux conditions fixées à l'article L. 641-2. A compter du
 1er juillet 2000, ou en cas de refus de reconnaissance de l'appellation d'origine contrôlée, ces appellations seront
-caduques.".
+caduques".
 
 **Liens relatifs à cet article**
 
@@ -560,7 +611,7 @@ caduques.".
 
 	**Cite**:
 
-	  - Code rural L641-4, L641-3
+	  - Code rural L641-4, L641-2
 	  - Loi n°1919-05-06 art. 14, art. 15
 	  - Loi n°90-558 1990-07-02
 
@@ -574,7 +625,7 @@ caduques.".
 
 	**Modifié par**:
 
-	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
+	  - Loi n°99-574 du 9 juillet 1999 - art. 79 () JORF 10 juillet 1999
 
 
 ##### Sous-section 3 : Procédure judiciaire de protection
@@ -865,6 +916,9 @@ Quiconque aura soit apposé, soit fait apparaître, par addition, retranchement 
 produits, naturels ou fabriqués, mis en vente ou destinés à être mis en vente, des appellations d'origine qu'il savait
 inexactes sera puni des peines prévues à l'article L. 213-1.
 
+Sera puni des mêmes peines quiconque aura utilisé un mode de présentation faisant croire ou de nature à faire croire qu'un
+produit bénéficie d'une appellation contrôlée.
+
 Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux qu'il désignera et son insertion intégrale ou
 par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 
@@ -899,7 +953,7 @@ qu'il savait inexacte sera puni des mêmes peines.
 
 	**Modifié par**:
 
-	  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
+	  - Loi n°99-574 du 9 juillet 1999 - art. 85 () JORF 10 juillet 1999
 
 	**Cite**:
 
@@ -953,6 +1007,8 @@ d'utilisation des mentions interdites en vertu des articles L. 115-3 et L. 115-9
 Les peines prévues à l'article L. 115-16 sont également applicables en cas d'utilisation de toute mention interdite en vertu
 du quatrième alinéa de l'article L. 641-2 du code rural.
 
+Les dispositions de l'article L. 115-25 sont applicables à la section 1 du présent chapitre.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -971,12 +1027,13 @@ du quatrième alinéa de l'article L. 641-2 du code rural.
 
 	**Modifié par**:
 
-	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
+	  - Loi n°99-574 du 9 juillet 1999 - art. 85 () JORF 10 juillet 1999
 
 	**Cite**:
 
 	  - Code de la consommation - art. L115-16 (M)
 	  - Code de la consommation - art. L115-17 (V)
+	  - Code de la consommation - art. L115-25 (M)
 	  - Code de la consommation - art. L115-3 (V)
 	  - Code de la consommation - art. L115-9 (V)
 	  - Code rural L641-2
@@ -1574,17 +1631,22 @@ des Communautés européennes.
 Constitue une attestation de spécificité le nom du produit qui figure au registre des attestations de spécificité tenu par la
 Commission des Communautés européennes.
 
-Seules les appellations d'origine mentionnées aux articles L. 641-1 à L. 641-6 peuvent faire l'objet d'une demande en vue de
+Seules les appellations d'origine ne concernant pas les vins et eaux-de-vie peuvent faire l'objet d'une demande en vue de
 leur enregistrement comme appellations d'origine protégées.
 
 Seuls les produits ayant obtenu un label ou une certification de conformité peuvent bénéficier d'une indication géographique
 protégée. La demande d'enregistrement d'une indication géographique protégée s'effectue dans le cadre des dispositions du
 chapitre III du présent titre et suivant la procédure fixée par l'article L. 641-6.
 
-La demande d'enregistrement d'une indication géographique ou d'une attestation de spécificité ne peut s'effectuer que dans le
-cadre des dispositions du chapitre III du présent titre".
+La demande d'enregistrement d'une attestation de spécificité ne peut s'effectuer que dans le cadre des dispositions du
+chapitre III du présent titre".
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L642-1
+	  - Code de la consommation L641-6
 
 	**Cité par**:
 
@@ -1597,15 +1659,12 @@ cadre des dispositions du chapitre III du présent titre".
 
 	**Modifié par**:
 
-	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
+	  - Loi n°99-574 du 9 juillet 1999 - art. 80 () JORF 10 juillet 1999
+	  - Loi n°99-574 du 9 juillet 1999 - art. 86 (Ab) JORF 10 juillet 1999
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L642-1 (M)
-
-	**Cite**:
-
-	  - Code rural L641-1 à L641-6, L642-1
 
 
 ###### Article L115-26-2
@@ -6238,11 +6297,46 @@ prévenir des risques sanitaires ou nutritionnels. Ces avis sont rendus publics.
 	  - Loi n°98-535 du 1 juillet 1998 - art. 11 () JORF 2 juillet 1998 en vigueur au plus tard le 31 décembre 1998
 
 
+###### Article L214-1-1
+
+Un décret en Conseil d'Etat fixe la liste des produits ou denrées pour lesquels la traçabilité doit être assurée. Il précise
+les obligations des producteurs et des distributeurs qui sont tenus d'établir et de mettre à jour des procédures
+d'informations enregistrées et d'identification des produits ou des lots de produits. Ces procédures permettent de connaître
+l'origine de ces produits et de ces lots, ainsi que les conditions de leur production et de leur distribution.
+
+L'autorité administrative précise, pour chaque produit ou denrée, les étapes de production et de commercialisation pour
+lesquelles la traçabilité doit être assurée, ainsi que des moyens à mettre en oeuvre en fonction de la taille des
+entreprises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°99-574 du 9 juillet 1999 - art. 100 () JORF 10 juillet 1999
+
+	**Cité par**:
+
+	  - Décret n°2004-1058 du 5 octobre 2004 - art. 2 (Ab)
+	  - Code de la consommation - art. L214-2 (M)
+	  - Code rural - art. L232-1 (V)
+	  - Code rural - art. L232-1-1 (Ab)
+	  - Code rural - art. L932-1 (T)
+	  - Code rural ancien - art. 258-2 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 20 () JORF 6 octobre 2006
+
+
 ###### Article L214-2
 
-Les infractions aux décrets en Conseil d'Etat, pris en vertu des articles L. 214-1, L. 215-1, dernier alinéa, et L. 215-4 qui
-ne se confondront avec aucun délit de fraude ou de falsification prévu par les articles L. 213-1 à L. 213-4 et L. 214-1 (7°),
-seront punies comme contraventions de 3e classe.
+Les infractions aux décrets en Conseil d'Etat, pris en vertu des articles L. 214-1, L. 214-1-1, L. 215-1, dernier alinéa, et
+L. 215-4 qui ne se confondront avec aucun délit de fraude ou de falsification prévu par les articles L. 213-1 à L. 213-4 et
+L. 214-1 (7°), seront punies comme contraventions de 3e classe.
 
 Sera puni des mêmes peines quiconque aura mis en vente ou vendu, sans attendre les résultats d'un contrôle officiel en cours,
 des marchandises quelconques qui seront reconnues définitivement fraudées ou falsifiées à l'issue de l'enquête judiciaire
@@ -6296,7 +6390,6 @@ falsification.
 	**Anciens textes**:
 
 	  - Loi n°1905-08-01 du 1 août 1905 - art. 13 (Ab)
-	  - Loi n°1905-08-01 art. 13 al. 1 et al. 3
 
 	**Liens**:
 
@@ -6326,15 +6419,16 @@ falsification.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°99-574 du 9 juillet 1999 - art. 100 () JORF 10 juillet 1999
 
 	**Cite**:
 
 	  - Code de la consommation - art. L214-1 (M)
+	  - Code de la consommation - art. L214-1-1 (Ab)
 	  - Code de la consommation - art. L215-1 (M)
-	  - Code de la consommation L214-1, L215-1, L213-1 à L213-4
+	  - Code de la consommation L214-1, L214-1-1, L215-1, L213-1 à L213-4
 
 
 ###### Article L214-3
@@ -6401,7 +6495,9 @@ générale des douanes et de la direction générale des impôts ;
 2° Les officiers de police judiciaire, dans les conditions fixées par l'article 16 du code de procédure pénale, et les agents
 de police judiciaire désignés à l'article 20 dudit code ;
 
-3° Les vétérinaires inspecteurs, les préposés sanitaires, les agents techniques sanitaires ;
+3° Les vétérinaires inspecteurs, les ingénieurs des travaux agricoles, les techniciens spécialisés des services du ministère
+chargé de l'agriculture, les préposés sanitaires, les agents techniques sanitaires, les ingénieurs et techniciens chargés de
+la protection des végétaux;
 
 4° Les médecins inspecteurs de santé publique et les pharmaciens inspecteurs de santé publique ;
 
@@ -6559,7 +6655,7 @@ administrations publiques et des entreprises de transports.
 
 	**Modifié par**:
 
-	  - Loi n°98-535 du 1 juillet 1998 - art. 26 () JORF 2 juillet 1998
+	  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
 
 	**Anciens textes**:
 
@@ -6567,10 +6663,10 @@ administrations publiques et des entreprises de transports.
 
 	**Cite**:
 
-	  - Décret-loi 1938-06-14 art. 3
-	  - Loi n°1912-02-27 art. 65
 	  - CODE DE PROCEDURE PENALE - art. 16 (M)
 	  - CODE DE PROCEDURE PENALE - art. 20 (M)
+	  - Décret-loi 1938-06-14 art. 3
+	  - Loi n°1912-02-27 art. 65
 
 
 ###### Article L215-2
