@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1994-06-04
 
 # Partie législative
 
@@ -1633,16 +1633,15 @@ du précédent alinéa.
 
 ###### Article L115-27
 
-Constitue un certificat de qualification, quelle que soit la dénomination qui lui est donnée, toute inscription, tout signe
-distinctif, tout document ou titre joint tendant à attester, à des fins commerciales, qu'un point industriel, un produit
-agricole non alimentaire transformé ou un bien d'équipement commercialisé en France présente certaines caractéristiques
-spécifiques ayant fait l'objet d'un contrôle par un organisme distinct du fabricant, de l'importateur ou du vendeur.
+Constitue une certification de produit ou de service soumise aux dispositions de la présente section l'activité par laquelle
+un organisme, distinct du fabricant, de l'importateur, du vendeur ou du prestataire, atteste, à la demande de celui-ci
+effectuée à des fins commerciales, qu'un produit ou un service est conforme à des caractéristiques décrites dans un
+référentiel et faisant l'objet de contrôles.
+
+Le référentiel est un document technique définissant les caractéristiques que doit présenter un produit ou un service et les
+modalités du contrôle de la conformité du produit ou du service à ces caractéristiques.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°78-23 1978-01-10 art. 22 al. 1
 
 	**Cité par**:
 
@@ -1678,35 +1677,33 @@ spécifiques ayant fait l'objet d'un contrôle par un organisme distinct du fabr
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
 	**Modifié par**:
 
-	  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+	  - Loi n°94-442 du 3 juin 1994 - art. 1 () JORF 4 juin 1994
 
 
 ###### Article L115-28
 
-Tout certificat de qualification ne peut être délivré que par un organisme certificateur agréé par l'autorité administrative
-et selon un règlement technique approuvé par elle. Il doit faire apparaître dans son mode de présentation les
-caractéristiques du produit.
+Peuvent seuls procéder à la certification de produits ou de services les organismes qui ont déposé auprès de l'autorité
+administrative une déclaration relative à leur activité et contenant notamment toutes informations nécessaires en ce qui
+concerne les mesures destinées à garantir leur impartialité et leur compétence.
 
-L'organisme certificateur ne doit pas être fabricant, importateur ou vendeur d'un produit industriel, d'un produit agricole
-non alimentaire transformé ou d'un bien d'équipement.
+Les organismes qui bénéficient d'une accréditation par une instance reconnue à cet effet par les pouvoirs publics sont
+dispensés de fournir ces dernières informations.
 
-L'organisme certificateur dépose comme marque collective, conformément à la législation des marques de fabrique, de commerce
-ou de service, le signe distinctif qui, le cas échéant, accompagne ou matérialise le certificat de qualification.
+Toute référence à la certification dans la publicité, l'étiquetage ou la présentation de tout produit ou service, ainsi que
+sur les documents commerciaux qui s'y rapportent, doit être accompagnée d'informations claires sur la nature et l'étendue des
+caractéristiques certifiées.
 
-Un décret en Conseil d'Etat précisera les conditions de délivrance, d'utilisation ou de retrait des certificats de
-qualification.
+L'existence des référentiels fait l'objet d'une mention au Journal officiel de la République française. Leur consultation
+s'effectue soit gratuitement sur place auprès de l'organisme certificateur, soit par la délivrance de copies aux frais du
+demandeur.
+
+Les organismes certificateurs déposent comme marques collectives de certification, conformément à la législation sur les
+marques de fabrique, de commerce et de service, le signe distinctif qui, le cas échéant, accompagne ou matérialise la
+certification.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°78-23 1978-01-10 art. 22 al. 2 à 5
 
 	**Cité par**:
 
@@ -1734,38 +1731,30 @@ qualification.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
 	**Modifié par**:
 
-	  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+	  - Loi n°94-442 du 3 juin 1994 - art. 2 () JORF 4 juin 1994
 
 
 ###### Article L115-29
 
-Ne sont pas soumis aux dispositions des articles L. 115-27 et L. 115-28 :
+Les dispositions des articles L. 115-27 et L. 115-28 ne sont pas applicables :
 
-1° Les médicaments à usage humain ou vétérinaire faisant l'objet des dispositions du livre V du code de la santé publique ;
+1° A la certification des denrées alimentaires et des produits agricoles non alimentaires et non transformés mentionnés à
+l'article L. 115-21 ;
 
-2° Les poinçons, estampilles, visas, certificats d'homologation ou marques collectives délivrés par l'autorité publique ou
-par des organismes désignés à cet effet et soumis à un contrôle technique ou administratif de l'autorité publique en vertu de
-dispositions législatives ou réglementaires ;
+2° Aux autorisations de mise sur le marché des médicaments à usage humain ou vétérinaire faisant l'objet des dispositions du
+livre V du code de la santé publique ;
 
-3° Les "labels" ou marques prévus par l'article L. 413-1 du code du travail et par le décret n° 62-235 du 1er mars 1962
-relatif au Répertoire des métiers et aux titres d'artisan et de maître artisan pour autant que ces marques ne tendent qu'à
-attester l'origine d'un produit ; néanmoins, les dispositions des articles L. 115-27 et L. 115-28 s'appliquent à ces "labels"
-dans la mesure où ils tendent à certifier, même indirectement, la qualification d'un produit.
+3° A la délivrance des poinçons, estampilles, visas, certificats d'homologation, marques collectives ou attestations de
+conformité aux dispositions communautaires par l'autorité publique ou par des organismes désignés à cet effet et soumis à un
+contrôle technique ou administratif de l'autorité publique en vertu de dispositions législatives ou réglementaires ;
+
+4° A la délivrance de labels ou marques prévus par l'article L. 413-1 du code du travail ainsi que des marques d'artisan et
+de maître artisan pour autant que ces marques ne tendent qu'à attester l'origine d'un produit ou d'un service et la mise en
+oeuvre des règles de l'art et usages quand ils leur sont spécifiques.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°62-235 1962-03-01
-	  - Code de la consommation - art. L115-27 (M)
-	  - Code de la consommation - art. L115-28 (M)
-	  - Code du travail - art. L413-1 (M)
 
 	**Anciens textes**:
 
@@ -1775,28 +1764,38 @@ dans la mesure où ils tendent à certifier, même indirectement, la qualificati
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
 	**Modifié par**:
 
-	  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+	  - Loi n°94-442 du 3 juin 1994 - art. 3 () JORF 4 juin 1994
+
+	**Cite**:
+
+	  - Code de la consommation - art. L115-21 (M)
+	  - Code de la consommation - art. L115-27 (M)
+	  - Code de la consommation - art. L115-28 (M)
+	  - Code du travail - art. L413-1 (M)
 
 
 ###### Article L115-30
 
-Sera puni des peines prévues à l'article L. 213-1 quiconque aura :
+Est puni des peines prévues à l'article L. 213-1 :
 
-1° Délivré, utilisé ou tenté d'utiliser un certificat de qualification en contravention avec les articles L. 115-27 et L.
-115-28 ;
+1° Le fait, dans la publicité, l'étiquetage ou la présentation de tout produit ou service, ainsi que dans les documents
+commerciaux de toute nature qui s'y rapportent, de faire référence à une certification qui n'a pas été effectuée dans les
+conditions définies aux articles L. 115-27 et L. 115-28 ;
 
-2° Fait croire ou tenté de faire croire faussement, notamment par l'utilisation d'un mode de présentation prêtant à
-confusion, qu'un produit industriel, un produit agricole non alimentaire transformé ou un bien d'équipement bénéficie d'un
-certificat de qualification ;
+2° Le fait de délivrer, en violation des dispositions prévues aux articles L. 115-27 et L. 115-28, un titre, un certificat ou
+tout autre document attestant qu'un produit ou un service présente certaines caractéristiques ayant fait l'objet d'une
+certification ;
 
-3° Fait croire ou tenté de faire croire à tort qu'un produit industriel, un produit agricole non alimentaire transformé ou un
-bien d'équipement ayant un certificat de qualification est garanti par l'Etat ou un organisme public.
+3° Le fait d'utiliser tout moyen de nature à faire croire faussement qu'un organisme satisfait aux conditions définies aux
+articles L. 115-27 et L. 115-28 ;
+
+4° Le fait d'utiliser tout moyen de nature à faire croire faussement au consommateur ou à l'utilisateur qu'un produit ou un
+service a fait l'objet d'une certification ;
+
+5° Le fait de présenter à tort comme garanti par l'Etat ou par un organisme public tout produit ou service ayant fait l'objet
+d'une certification.
 
 **Liens relatifs à cet article**
 
@@ -1815,13 +1814,9 @@ bien d'équipement ayant un certificat de qualification est garanti par l'Etat o
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
 	**Modifié par**:
 
-	  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+	  - Loi n°94-442 du 3 juin 1994 - art. 4 () JORF 4 juin 1994
 
 	**Cite**:
 
@@ -1878,7 +1873,18 @@ d'application sur les lieux énumérés à l'article L. 213-4 (alinéa premier).
 
 ###### Article L115-32
 
-Les dispositions de la présente section sont applicables aux prestations de services.
+Les modalités d'application des articles L. 115-27 et L. 115-28 sont fixées par décret en Conseil d'Etat, notamment :
+
+1° Les modalités de déclaration d'activité des organismes certificateurs et le contenu de leur déclaration ;
+
+2° Les conditions de reconnaissance de l'instance d'accréditation ;
+
+3° Le contenu des référentiels et les conditions de leur établissement et de leur validation ;
+
+4° Les modalités de la concertation entre les partenaires intéressés préalablement à l'établissement ou à la validation des
+référentiels ;
+
+5° Les modalités d'information du consommateur sur la certification.
 
 **Liens relatifs à cet article**
 
@@ -1890,13 +1896,14 @@ Les dispositions de la présente section sont applicables aux prestations de ser
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
 	**Modifié par**:
 
-	  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+	  - Loi n°94-442 du 3 juin 1994 - art. 5 () JORF 4 juin 1994
+
+	**Cite**:
+
+	  - Code de la consommation - art. L115-27 (M)
+	  - Code de la consommation - art. L115-28 (M)
 
 	**Cité par**:
 
@@ -3143,29 +3150,41 @@ Des décrets en Conseil d'Etat pourront régler, en tant que de besoin, les moda
 
 Il est interdit de se rendre au domicile d'une personne physique, à sa résidence ou à son lieu de travail pour proposer la
 vente, la location ou la location-vente de documents ou matériels quelconques tendant à répondre aux mêmes besoins que des
-prestations de services pour lesquelles le démarchage est prohibé en raison de son objet par un texte particulier.
+prestations de services pour lesquelles le démarchage est prohibé en raison de son objet par un texte particulier. 
 
 Toute infraction aux dispositions de l'alinéa précédent entraîne, outre la nullité de la convention, l'application des
-sanctions prévues à l'article L. 121-28.
+sanctions prévues à l'article L. 121-28. 
+
+Ne sont pas visés par les dispositions des alinéas précédents les supports matériels de connaissance des langues étrangères
+ou régionales destinés à leur libre apprentissage, sans assistance ou suivi pédagogique, dont la présentation ne fait pas
+référence à un niveau scolaire, à une activité d'enseignement, à la réussite scolaire, à une formation, à l'obtention d'un
+diplôme ou d'une situation professionnelle. Dans ce cas, le délai de réflexion de sept jours est prolongé d'un délai
+supplémentaire expirant quinze jours après la réception du produit par le client pour faire retour de ce produit pour
+remboursement. En cas d'exercice de ce droit de retour, le matériel est restitué au vendeur sans frais ou indemnités autres
+que les frais de réexpédition. Le contrat prévu à l'article L. 121-23 doit reproduire en outre le texte du présent alinéa
+concernant la faculté de résiliation de la commande. 
+
+Les résultats des tests d'aptitude à l'emploi des méthodes de langues effectués par le vendeur ou le fabricant sous le
+contrôle d'un tiers indépendant doivent être communiqués au consommateur avant la conclusion du contrat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°72-1137 1972-12-22 art. 8-2
 	  - Loi n°72-1137 du 22 décembre 1972 - art. 8 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°94-442 du 3 juin 1994 - art. 6 () JORF 4 juin 1994
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-28 (M)
+	  - Code de la consommation - art. L121-23 (V)
+	  - Code de la consommation - art. L121-28 (V)
 
 
 ##### Section 4 : Ventes directes
@@ -3436,6 +3455,140 @@ les conditions et sous les peines prévues par l'article 131-35 du code pénal.
 
 	  - Code de la consommation - art. L121-36 (V)
 	  - Code pénal - art. 131-35 (M)
+
+
+##### Section 8 : Publicité et pratiques commerciales concernant les préparations pour nourrissons
+
+###### Article L121-50
+
+Constituent, au sens de la présente section, des préparations pour nourrissons les denrées alimentaires destinées à
+l'alimentation des enfants jusqu'à l'âge de quatre mois accomplis et présentées comme répondant à elles seules à l'ensemble
+des besoins nutritionnels de ceux-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°94-442 du 3 juin 1994 - art. 7 () JORF 4 juin 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L122-12 (V)
+
+
+###### Article L121-51
+
+La publicité en faveur des préparations pour nourrissons n'est autorisée que dans la presse écrite destinée aux professions
+de santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°94-442 du 3 juin 1994 - art. 7 () JORF 4 juin 1994
+
+	**Cité par**:
+
+	  - Arrêté du 11 avril 2008 - art. 19 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L122-13 (V)
+
+
+###### Article L121-52
+
+Il est interdit, dans le commerce de détail, de distribuer à titre gratuit des échantillons de préparations pour nourrissons
+ainsi que de se livrer à toute autre pratique promotionnelle en faveur de la vente directe de ces préparations.
+
+Il est également interdit aux fabricants et aux distributeurs de fournir au public à titre gratuit des préparations pour
+nourrissons, des échantillons de ces produits ou tout autre cadeau promotionnel, que ce soit directement ou indirectement par
+l'intermédiaire des services de santé ou de leurs agents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Loi n°94-442 du 3 juin 1994 - art. 7 () JORF 4 juin 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-53 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L122-14 (V)
+	  - Code de la consommation - art. L122-15 (V)
+
+
+###### Article L121-53
+
+Un décret en Conseil d'Etat fixe : 
+
+1° Les conditions de la distribution gratuite de la documentation concernant les préparations pour nourrissons et du matériel
+de présentation de celles-ci ; 
+
+2° Les conditions dans lesquelles il peut être exceptionnellement dérogé, dans l'intérêt de la santé des nourrissons ou des
+mères, à l'interdiction faite au second alinéa de l'article L. 121-52.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Loi n°94-442 du 3 juin 1994 - art. 7 () JORF 4 juin 1994
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°98-688 du 30 juillet 1998
+	  - TXT_SOURCE: Décret n°98-688 du 30 juillet 1998 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°98-688 du 30 juillet 1998 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°98-688 du 30 juillet 1998 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°98-688 du 30 juillet 1998 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°98-688 du 30 juillet 1998 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 11 avril 2008 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-52 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L122-16 (V)
 
 
 #### Chapitre II : Pratiques commerciales illicites
