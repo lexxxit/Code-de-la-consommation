@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1997-11-19
+Version Consolidée au 1998-01-24
 
 # Partie législative
 
@@ -11943,14 +11943,19 @@ titres de créance et du montant des sommes réclamées.
 ###### Article L331-5
 
 La commission peut saisir le juge de l'exécution aux fins de suspension des procédures d'exécution diligentées contre le
-débiteur et portant sur les dettes autres qu'alimentaires.
+débiteur et portant sur les dettes autres qu'alimentaires. Toutefois, postérieurement à la publication d'un commandement aux
+fins de saisie immobilière, le juge de la saisie immobilière est seul compétent pour prononcer la suspension de cette
+procédure.
 
 Si la situation du débiteur l'exige, le juge prononce la suspension provisoire des procédures d'exécution. Celle-ci n'est
-acquise que pour la durée de la procédure devant la commission sans pouvoir excéder un an.
+acquise que pour la durée de la procédure devant la commission sans pouvoir excéder un an. Lorsque le débiteur fait usage de
+la faculté que lui ouvre l'article L. 331-7, la durée de la suspension provisoire est prolongée, jusqu'à ce que le juge ait
+conféré force exécutoire aux mesures recommandées, en application de l'article L. 332-1, ou, s'il a été saisi en application
+de l'article L. 332-2, jusqu'à ce qu'il ait statué.
 
-Lorsque la commission recommande les mesures prévues à l'article L. 331-7, la durée de la suspension provisoire est prolongée
-jusqu'à ce que le juge leur ait conféré force exécutoire, en application de l'article L. 332-1, ou, s'il a été saisi en
-application de l'article L. 332-2, jusqu'à ce qu'il ait statué.
+Lorsqu'en cas de saisie immobilière la date d'adjudication a été fixée, la commission peut, pour causes graves et dûment
+justifiées, saisir le juge aux fins de remise de l'adjudication, dans les conditions et selon la procédure prévues par
+l'article 703 du code de procédure civile (ancien).
 
 Sauf autorisation du juge, la décision qui prononce la suspension provisoire des procédures d'exécution interdit au débiteur
 de faire tout acte qui aggraverait son insolvabilité, de payer, en tout ou partie, une créance autre qu'alimentaire née
@@ -11968,15 +11973,6 @@ sûreté.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-
-	**Modifié par**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
-	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
-
 	**Cité par**:
 
 	  - Décret n°95-660 du 9 mai 1995 - art. 16 (Ab)
@@ -11988,11 +11984,16 @@ sûreté.
 	  - Code de la consommation - art. R331-14 (Ab)
 	  - Code de la consommation - art. R331-18 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°98-46 du 23 janvier 1998 - art. 5 () JORF 24 janvier 1998
+
 	**Cite**:
 
 	  - Code de la consommation - art. L331-7 (M)
 	  - Code de la consommation - art. L332-1 (M)
 	  - Code de la consommation - art. L332-2 (M)
+	  - Code de procédure civile - art. 703 (Ab)
 
 
 ###### Article L331-6
@@ -12079,8 +12080,9 @@ des prêts immobiliers restant due aux établissements de crédit après la vent
 assorti d'un rééchelonnement calculé comme il est dit ci-dessus, soit compatible avec les ressources et les charges du
 débiteur. La même disposition est applicable en cas de vente amiable dont le principe, destiné à éviter une saisie
 immobilière, et les modalités ont été arrêtés d'un commun accord entre le débiteur et l'établissement de crédit. En toute
-hypothèse, le bénéfice des présentes dispositions ne peut être invoqué plus d'un an après la vente, à moins que dans ce délai
-la commission prévue à l'article L. 331-1 n'ait été saisie.
+hypothèse, le bénéfice des présentes dispositions ne peut être invoqué plus de deux mois après sommation faite d'avoir à
+payer le montant de la fraction des prêts immobiliers restant due, à moins que, dans ce délai, la commission n'ait été
+saisie. A peine de nullité, la sommation de payer reproduit les termes du présent alinéa.
 
 La commission peut recommander que ces mesures soient subordonnées à l'accomplissement par le débiteur d'actes propres à
 faciliter ou à garantir le paiement de la dette. Elle peut également recommander qu'elles soient subordonnées à l'abstention
@@ -12099,15 +12101,6 @@ La demande du débiteur formée en application du premier alinéa interrompt la 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-
-	**Modifié par**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
-	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
 
 	**Cité par**:
 
@@ -12164,9 +12157,9 @@ La demande du débiteur formée en application du premier alinéa interrompt la 
 	  - Code de la consommation - art. R334-8 (Ab)
 	  - Code de la consommation - art. R334-9 (Ab)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la consommation - art. L331-1 (M)
+	  - Loi n°98-46 du 23 janvier 1998 - art. 6 () JORF 24 janvier 1998
 
 
 ###### Article L331-8
