@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2003-02-20
+Version Consolidée au 2003-03-19
 
 # Partie législative
 
@@ -8525,8 +8525,8 @@ exposé en vente ou mis en circulation les objets marqués de noms supposés ou 
 
 Sera punie des peines prévues par l'article L. 213-1 toute personne qui aura frauduleusement supprimé, masqué, altéré ou
 modifié de façon quelconque les noms, signatures, monogrammes, lettres, chiffres, numéros de série, emblèmes, signes de toute
-nature apposés sur les marchandises et servant à les identifier. Seront punis des mêmes peines les complices de l'auteur
-principal.
+nature apposés ou intégrés sur ou dans les marchandises et servant à les identifier de manière physique ou électronique.
+Seront punis des mêmes peines les complices de l'auteur principal.
 
 **Liens relatifs à cet article**
 
@@ -8539,17 +8539,27 @@ principal.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2003-239 du 18 mars 2003 - art. 71 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 71
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L213-1 (M)
+	  - Code de la consommation - art. L213-1
 
 	**Cité par**:
 
-	  - Code de la consommation - art. L217-5 (Ab)
+	  - Code de la consommation - art. L217-5 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L413-6 (M)
+	  - Code de la consommation - art. L451-11 (V)
 
 
 ###### Article L217-3
