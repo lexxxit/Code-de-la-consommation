@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2004-11-05
+Version Consolidée au 2005-01-01
 
 # Partie législative
 
@@ -16550,7 +16550,12 @@ si le prévenu ne comparaît pas en personne. Le juge peut ordonner l'exécution
 A l'audience de renvoi, qui doit intervenir au plus tard dans le délai d'un an à compter de la décision d'ajournement, la
 juridiction statue sur la peine et liquide l'astreinte s'il y a lieu. Elle peut, le cas échéant, supprimer cette dernière ou
 en réduire le montant. L'astreinte est recouvrée par le comptable du Trésor comme une amende pénale. Elle ne peut donner lieu
-à contrainte par corps.
+à contrainte judiciaire.
+
+**Nota:**
+
+Loi 2004-204 2004-03-09 art. 207 II : Les articles 159 à 193 et 198 entreront en vigueur, sous réserve des dispositions des
+III et IV du présent article, le 1er janvier 2005.
 
 **Liens relatifs à cet article**
 
@@ -16563,9 +16568,9 @@ en réduire le montant. L'astreinte est recouvrée par le comptable du Trésor c
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article L421-5
@@ -19442,8 +19447,8 @@ Les litiges civils nés de l'application du présent code peuvent faire l'objet 
 commerçant peut être demandée au tribunal d'instance lorsque la valeur de la prestation dont l'exécution est réclamée
 n'excède pas le taux de compétence de cette juridiction.
 
-Le juge de proximité est compétent dans les limites définies au code de l'organisation judiciaire et dans les conditions de
-l'article 847-4 du présent code".
+"Le juge de proximité est compétent dans les limites définies au code de l'organisation judiciaire et dans les conditions de
+l'article 847-5 du présent code".
 
 "Art. 1425-2 :
 
@@ -19461,6 +19466,8 @@ mentionnées à l'article 828.
 dénomination et leur siège social ;
 
 "2° L'indication précise de la nature de l'obligation dont l'exécution est poursuivie ainsi que le fondement de celle-ci ;
+
+"3° Eventuellement, les dommages et intérêts qui seront réclamés en cas d'inéxecution de faire.
 
 "Elle est accompagnée des documents justificatifs.
 
@@ -19480,12 +19487,12 @@ demandeur n'ait fait connaître que l'injonction a été exécutée.
 
 "Le greffe notifie l'ordonnance aux parties, par lettre recommandée avec demande d'avis de réception. Il adresse le même jour
 copie de cette notification par lettre simple. La lettre de notification mentionne les dispositions des articles 1425-7 et
-1425-8.
+1425-8".
 
 "Art. 1425-6 :
 
 "L'ordonnance portant injonction de faire et la requête sont conservées à titre de minute au greffe qui garde provisoirement
-les documents produits à l'appui de la requête.
+les documents produits à l'appui de la requête".
 
 "Art. 1425-7 :
 
@@ -19508,7 +19515,7 @@ après avoir tenté de concilier les parties.
 défenses au fond.
 
 "En cas de décision d'incompétence, l'affaire est renvoyée devant la juridiction compétente selon les règles prévues à
-l'article 97.
+l'article 97".
 
 "Art. 1425-9 :
 
@@ -19517,13 +19524,19 @@ droit commun. La requête et les documents produits sont restitués au requéran
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 24
+	  - Décret n°2004-836 du 20 août 2004 - art. 50 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-836 du 20 août 2004 - art. 51 () JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 97, 828, 1425-1 à 1425-9
+	  - Code de la consommation 97
+	  - Nouveau code de procédure civile 1425-1 à 1425-9
 
 
 ## Livre II : Qualité des produits et des services
@@ -23895,7 +23908,7 @@ Le greffe en informe la commission et l'invite, le cas échéant, à lui transme
 
 ###### Article R332-1-2
 
-I. - Le juge de l'exécution statue, selon le cas, par jugement ou par ordonnance.
+I. - Le juge de l'exécution statue par jugement ou, en vertu d'une disposition spéciale, par ordonnance.
 
 II. - Dans les cas où il statue par jugement, le juge convoque les parties intéressées ou les invite à produire leurs
 observations, par lettre recommandée avec demande d'avis de réception. La procédure suivie est celle prévue aux articles 11 à
@@ -23908,19 +23921,19 @@ par toute partie intéressée qui n'a pas été mise en mesure de s'opposer à l
 
 Copie de l'ordonnance est jointe à la demande de rétractation.
 
-IV. - L'appel et le pourvoi en cassation sont formés, instruits et jugés selon les règles de la procédure sans représentation
-obligatoire prévues aux articles 931 à 949 et 983 à 995 du nouveau code de procédure civile.
+IV. - L'appel est formé, instruit et jugé selon les règles de la procédure sans représentation obligatoire prévue aux
+articles 931 à 949 du nouveau code de procédure civile.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Décret n°92-755 1992-07-31 art. 11 à 14
-	  - Nouveau code de procédure civile 931 à 949, 983 à 995
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-180 du 24 février 2004 - art. 2 () JORF 25 février 2004
+	  - Décret n°2004-836 du 20 août 2004 - art. 38 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-836 du 20 août 2004 - art. 54 () JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article R332-1-3
