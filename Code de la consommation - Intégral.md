@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1998-10-02
+Version Consolidée au 1998-12-31
 
 # Partie législative
 
@@ -5940,6 +5940,10 @@ destinées à l'alimentation humaine ou animale autres que celles visées aux ar
 7° Les conditions matérielles dans lesquelles les indications, visées au dernier alinéa de l'article L. 213-4, devront être
 portées à la connaissance des acheteurs sur les étiquettes, annonces, réclames, papiers de commerce.
 
+Les décrets prévus au présent article sont pris après avis de l'Agence française de sécurité sanitaire des aliments
+lorsqu'ils portent sur des produits entrant dans son champ de compétence ou qu'ils comportent des dispositions visant à
+prévenir des risques sanitaires ou nutritionnels. Ces avis sont rendus publics.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -5950,7 +5954,6 @@ portées à la connaissance des acheteurs sur les étiquettes, annonces, réclam
 	**Anciens textes**:
 
 	  - Loi n°1905-08-01 du 1 août 1905 - art. 4 (Ab)
-	  - Loi n°1905-08-01 art. 11 1° et 2° et art. 4 al. 10
 
 	**Cité par**:
 
@@ -6149,7 +6152,7 @@ portées à la connaissance des acheteurs sur les étiquettes, annonces, réclam
 	  - TXT_SOURCE: Décret n°97-74 du 28 janvier 1997 - art. 8 (Ab)
 	  - TXT_SOURCE: Décret n°97-74 du 28 janvier 1997 - art. 9 (Ab)
 	  - TXT_SOURCE: Décret n°97-74 du 28 janvier 1997 - art. Annexe (Ab)
-	  - SPEC_APPLI: Décret n°97-963 1997-10-14 art. 1 *mesures d'exécution*
+	  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 29 al. 2 (mesures d'entrée en vigueur concernant les dispositions relatives à l'Agence française de sécurité sanitaire des produits de santé)
 	  - TXT_SOURCE: Arrêté du 2 juillet 1998
 	  - TXT_SOURCE: Arrêté du 2 juillet 1998 - art. 1 ()
 	  - TXT_SOURCE: Arrêté du 2 juillet 1998 - art. 2 ()
@@ -6230,9 +6233,9 @@ portées à la connaissance des acheteurs sur les étiquettes, annonces, réclam
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°98-535 du 1 juillet 1998 - art. 11 () JORF 2 juillet 1998 en vigueur au plus tard le 31 décembre 1998
 
 
 ###### Article L214-2
@@ -8326,6 +8329,41 @@ ainsi la sécurité à laquelle on peut légitimement s'attendre dans le respect
 	**Cite**:
 
 	  - Code de la consommation - art. L221-2 (VT)
+
+
+###### Article L221-10
+
+Les décrets établis en application de l'article L. 221-3 sont pris après avis de l'Agence française de sécurité sanitaire des
+produits de santé ou de l'Agence française de sécurité sanitaire des aliments lorsqu'ils concernent des produits entrant dans
+leur champ de compétence. Ces avis sont rendus publics.
+
+Les arrêtés établis en application de l'article L. 221-5 sont pris selon les mêmes modalités, sauf en cas d'urgence dûment
+motivée où ils sont notifiés sans délai à l'agence compétente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 29 al. 2 (mesures d'entrée en vigueur pour les dispositions concernant l'Agence française de sécurité sanitaire des produits de santé)
+
+	**Créé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 11 () JORF 2 juillet 1998 en vigueur au plus tard le 31 décembre 1998
+
+	**Cite**:
+
+	  - Code de la consommation - art. L221-3 (M)
+	  - Code de la consommation - art. L221-5 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R1323-15 (Ab)
+	  - Code de la santé publique - art. R794-16 (Ab)
+	  - Code rural et de la pêche maritime - art. R261-1 (Ab)
 
 
 #### Chapitre II : Habilitations et pouvoirs des agents.
