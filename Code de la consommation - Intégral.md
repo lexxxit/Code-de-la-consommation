@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2000-02-14
+Version Consolidée au 2000-06-16
 
 # Partie législative
 
@@ -2200,10 +2200,10 @@ réquisition du ministère public, soit d'office. La mesure ainsi prise est exé
 Mainlevée peut en être donnée par la juridiction qui l'a ordonnée ou qui est saisie du dossier. La mesure cesse d'avoir effet
 en cas de décision de non-lieu ou de relaxe.
 
-Les décisions statuant sur les demandes de mainlevée peuvent faire l'objet d'un recours devant la chambre d'accusation ou
+Les décisions statuant sur les demandes de mainlevée peuvent faire l'objet d'un recours devant la chambre de l'instruction ou
 devant la cour d'appel selon qu'elles ont été prononcées par un juge d'instruction ou par le tribunal saisi des poursuites.
 
-La chambre d'accusation ou la cour d'appel statue dans un délai de dix jours à compter de la réception des pièces.
+La chambre de l'instruction ou la cour d'appel statue dans un délai de dix jours à compter de la réception des pièces.
 
 **Liens relatifs à cet article**
 
@@ -2224,9 +2224,9 @@ La chambre d'accusation ou la cour d'appel statue dans un délai de dix jours à
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000
 
 
 ###### Article L121-4
@@ -7587,14 +7587,14 @@ des poursuites.
 La mesure est exécutoire nonobstant appel. Mainlevée peut en être donnée par la juridiction qui l'a ordonnée ou qui est
 saisie du dossier. La mesure cesse d'avoir effet en cas de décision de non-lieu ou de relaxe.
 
-Les décisions statuant sur les demandes de mainlevée peuvent faire l'objet d'un recours devant la chambre d'accusation ou
+Les décisions statuant sur les demandes de mainlevée peuvent faire l'objet d'un recours devant la chambre de l'instruction ou
 devant la cour d'appel selon qu'elles ont été prononcées par un juge d'instruction ou par le tribunal saisi des poursuites.
 
-La chambre d'accusation ou la cour d'appel statue dans un délai d'un mois à compter de la date de la décision frappée
+La chambre de l'instruction ou la cour d'appel statue dans un délai d'un mois à compter de la date de la décision frappée
 d'appel.
 
-Si la chambre d'accusation ou la cour d'appel n'a pas statué dans ce délai, et au plus tard dans le délai de quarante jours
-du prononcé de la décision, les mesures ordonnées cesseront de plein droit.
+Si la chambre de l'instruction ou la cour d'appel n'a pas statué dans ce délai, et au plus tard dans le délai de quarante
+jours du prononcé de la décision, les mesures ordonnées cesseront de plein droit.
 
 **Liens relatifs à cet article**
 
@@ -7607,9 +7607,9 @@ du prononcé de la décision, les mesures ordonnées cesseront de plein droit.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000
 
 
 ###### Article L216-8
