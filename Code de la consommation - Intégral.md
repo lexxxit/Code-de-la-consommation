@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2004-08-11
+Version Consolidée au 2004-08-21
 
 # Partie législative
 
@@ -15792,6 +15792,334 @@ décembre 1994.
 
 	  - Code de la consommation - art. L331-5 (V)
 	  - Code de la consommation - art. L333-7 (Ab)
+
+
+#### Chapitre IV : Dispositions relatives à l'outre-mer
+
+##### Section 1 : Dispositions applicables à Mayotte
+
+###### Article L334-1
+
+Il est institué une commission de surendettement des particuliers à Mayotte. Cette commission comprend le représentant de
+l'Etat à Mayotte, président, et le trésorier-payeur général de Mayotte, vice-président. Chacune de ces personnes peut se
+faire représenter, par un seul et même délégué, dans des conditions fixées par décret. La commission comprend également le
+représentant local de la Banque de France, qui en assure le secrétariat, un représentant des services fiscaux désigné par le
+président du conseil général, ainsi que deux personnalités choisies par le représentant de l'Etat à Mayotte, la première sur
+proposition de l'Association française des établissements de crédit et des entreprises d'investissement et la seconde sur
+proposition des associations familiales ou de consommateurs ou, à défaut, désignée en raison de sa compétence en matière de
+consommation ou d'action familiale.
+
+Un suppléant de chacune de ces personnalités est désigné dans les mêmes conditions.
+
+Une personne justifiant d'un diplôme et d'une expérience dans le domaine juridique et une personne justifiant d'une
+expérience dans le domaine de l'économie sociale et familiale sont associées à l'instruction du dossier et assistent aux
+réunions de la commission de surendettement avec voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-824 du 19 août 2004 - art. 1 () JORF 21 août 2004
+
+	**Cité par**:
+
+	  - Décret n°2015-1384 du 30 octobre 2015 - art. 16 (V)
+	  - Décret n°2016-393 du 31 mars 2016 - art. 4 (V)
+	  - Code de la consommation - art. R336-1 (V)
+	  - Code des procédures civiles d'exécution - art. R612-7 (Ab)
+
+
+###### Article L334-2
+
+Les articles L. 330-1 et L. 331-2 à L. 333-6, à l'exclusion de l'avant-dernière phrase des articles L. 331-7 et L. 331-7-1,
+sont applicables à Mayotte, sous les réserves suivantes :
+
+a) A l'article L. 331-2, la référence au revenu minimum d'insertion est remplacée par la référence à un montant fixé par le
+préfet ;
+
+b) A l'article L. 333-6, les mots : "Dans les départements d'outre-mer" sont remplacés par les mots : "A Mayotte".
+
+Pour l'application de ces dispositions :
+
+a) Les références aux dispositions législatives du code du travail et au code de procédure civile sont remplacées par les
+références aux dispositions applicables localement ayant le même objet ;
+
+b) Les mots : "juge de l'exécution" sont remplacés par les mots : "président du tribunal de première instance ou les juges
+délégués par lui".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-824 du 19 août 2004 - art. 1 () JORF 21 août 2004
+
+
+###### Article L334-3
+
+Un décret en Conseil d'Etat fixe les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-824 du 19 août 2004 - art. 1 () JORF 21 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
+##### Section 2 : Dispositions applicables à la Nouvelle-Calédonie
+
+###### Article L334-4
+
+Il est institué une commission de surendettement des particuliers en Nouvelle-Calédonie. Cette commission comprend le haut-
+commissaire de la République, président, et le trésorier-payeur général de la Nouvelle-Calédonie, vice-président. Ces
+personnes peuvent se faire représenter, par un seul et même délégué, dans des conditions fixées par décret. La commission
+comprend également un représentant de l'Institut d'émission d'outre-mer, qui en assure le secrétariat, un représentant des
+services fiscaux désigné par le président du Gouvernement de Nouvelle-Calédonie ainsi que deux personnalités choisies par le
+haut-commissaire, la première sur proposition de l'Association française des établissements de crédit et des entreprises
+d'investissement et la seconde sur proposition des associations familiales ou de consommateurs ou, à défaut, désignée en
+raison de sa compétence en matière de consommation ou d'action familiale.
+
+Un suppléant de ces personnalités est désigné dans les mêmes conditions.
+
+Une personne justifiant d'un diplôme et d'une expérience dans le domaine juridique et une personne justifiant d'une
+expérience dans le domaine de l'économie sociale et familiale sont associées à l'instruction du dossier et assistent aux
+réunions de la commission de surendettement avec voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-824 du 19 août 2004 - art. 1 () JORF 21 août 2004
+
+
+###### Article L334-5
+
+Les articles L. 330-1 et L. 331-2 à L. 333-5, à l'exclusion de l'avant-dernière phrase des articles L. 331-7 et L. 331-7-1 et
+de la dernière phrase de l'article L. 332-9, sont applicables en Nouvelle-Calédonie, sous les réserves suivantes :
+
+a) A l'article L. 331-2, la référence au revenu minimum d'insertion est remplacée par la référence à un montant fixé par le
+représentant de l'Etat ;
+
+b) Les huitième et neuvième alinéas de l'article L. 331-3 sont remplacés par les dispositions suivantes :
+
+Nonobstant toute disposition contraire, la commission peut obtenir communication, auprès des administrations publiques et des
+établissements de crédit ainsi que des services chargés de centraliser les risques bancaires et les incidents de paiement, de
+tout renseignement de nature à lui donner une exacte information sur la situation du débiteur, l'évolution possible de celle-
+ci et les procédures de conciliation amiables en cours. Elle peut obtenir communication de ces mêmes renseignements auprès
+des organismes de sécurité et de prévoyance sociale, sous réserve de leur accord.
+
+Les collectivités territoriales et les organismes de sécurité sociale peuvent procéder, à sa demande, à des enquêtes
+sociales ;
+
+c) Les délais prévus au sixième alinéa de l'article L. 331-3, aux articles L. 331-4 et L. 332-2 sont fixés par les autorités
+locales compétentes ;
+
+d) Au dernier alinéa de l'article L. 332-6, les mots : "figurant sur une liste établie dans des conditions fixées par décret
+en Conseil d'Etat" sont supprimés.
+
+Pour l'application de ces dispositions :
+
+a) Les références aux dispositions législatives du code du travail et du code de procédure civile sont remplacées par les
+références aux dispositions applicables localement ayant le même objet ;
+
+b) Les mots : "juge de l'exécution" sont remplacés partout où ils figurent par les mots : "président du tribunal de première
+instance ou les juges délégués par lui".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-824 du 19 août 2004 - art. 1 () JORF 21 août 2004
+
+	**Cite**:
+
+	  - Code de la consommation - art. L330-1 (V)
+	  - Code de la consommation - art. L331-2 (M)
+	  - Code de la consommation - art. L331-3 (M)
+	  - Code de la consommation - art. L331-4 (M)
+	  - Code de la consommation - art. L331-7 (M)
+	  - Code de la consommation - art. L331-7-1 (M)
+	  - Code de la consommation - art. L332-2 (M)
+	  - Code de la consommation - art. L332-6 (Ab)
+	  - Code de la consommation - art. L332-9 (M)
+	  - Code de la consommation L330-1, L331-2 à L333-5, L332-9, L331-2, L331-3, L331-4, L332-2, L332-6, L331-7, L331-7-1
+
+
+###### Article L334-6
+
+Un décret en Conseil d'Etat fixe les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-824 du 19 août 2004 - art. 1 () JORF 21 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
+##### Section 3 : Dispositions applicables à la Polynésie française
+
+###### Article L334-7
+
+I. - En Polynésie française, les établissements de crédit, les services et institutions mentionnés à l'article L. 518-1 du
+code monétaire et financier déclarent à la Banque de France les incidents de paiement liés aux crédits accordés aux personnes
+physiques pour des besoins non professionnels. Ces déclarations alimentent le fichier national des incidents de remboursement
+des crédits aux particuliers prévu à l'article L. 333-4.
+
+La Banque de France est seule habilitée à centraliser ces incidents de paiement.
+
+Les organismes professionnels ou organes centraux représentant les établissements mentionnés au premier alinéa du présent
+article sont seuls autorisés à tenir des fichiers recensant des incidents de paiement.
+
+La Banque de France est déliée du secret professionnel pour la diffusion aux établissements de crédit et aux services et
+institutions mentionnés à l'article L. 518-1 du code monétaire et financier des informations contenues dans le fichier des
+incidents de paiement.
+
+II. - Il est interdit à la Banque de France, aux établissements de crédit et aux services et institutions mentionnés à
+l'article L. 518-1 du code monétaire et financier de remettre à quiconque copie, sous quelque forme que ce soit, des
+informations contenues dans le fichier mentionné au premier alinéa du I du présent article, même à l'intéressé lorsqu'il
+exerce son droit d'accès conformément à l'article 35 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+fichiers et aux libertés, sous peine des sanctions prévues aux articles 43 et 44 de cette même loi.
+
+III. - Les dispositions de l'article L. 333-5 sont applicables en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 35 (M)
+	  - Loi n°78-17 du 6 janvier 1978 - art. 43 (M)
+	  - Loi n°78-17 du 6 janvier 1978 - art. 44 (Ab)
+	  - Code de la consommation - art. L333-4 (M)
+	  - Code de la consommation - art. L333-5 (M)
+	  - Code monétaire et financier - art. L518-1 (M)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-824 du 19 août 2004 - art. 1 () JORF 21 août 2004
+
+	**Cité par**:
+
+	  - Arrêté du 26 octobre 2010 - art. 17 (V)
+
+
+##### Section 4 : Dispositions applicables aux îles Wallis et Futuna
+
+###### Article L334-8
+
+Il est institué une commission de surendettement des particuliers dans les îles Wallis et Futuna. Cette commission comprend
+l'administrateur supérieur des îles Wallis et Futuna, président, et le payeur des îles Wallis et Futuna, vice-président.
+Chacune de ces personnes peut se faire représenter, par un seul et même délégué, dans des conditions fixées par décret. Cette
+commission comprend également le représentant de l'Institut d'émission d'outre-mer, qui en assure le secrétariat, un
+représentant des services fiscaux désigné par le président de l'assemblée territoriale des îles Wallis et Futuna, ainsi que
+deux personnalités choisies par l'administrateur supérieur, la première sur proposition de l'Association française des
+établissements de crédit et des entreprises d'investissement et la seconde sur proposition des associations familiales ou de
+consommateurs ou, à défaut, désignée en raison de sa compétence en matière de consommation ou d'action familiale.
+
+Un suppléant de ces personnalités est désigné dans les mêmes conditions. Une personne justifiant d'un diplôme et d'une
+expérience dans le domaine juridique et une personne justifiant d'une expérience dans le domaine de l'économie sociale et
+familiale sont associées à l'instruction du dossier et assistent aux réunions de la commission de surendettement avec voix
+consultative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-824 du 19 août 2004 - art. 1 () JORF 21 août 2004
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R336-4 (Ab)
+
+
+###### Article L334-9
+
+Les articles L. 330-1 et L. 331-2 à L. 333-5, à l'exclusion de l'avant-dernière phrase des articles L. 331-7 et L. 331-7-1,
+sont applicables aux îles Wallis et Futuna, sous réserve de remplacer à l'article L. 331-2 la référence au revenu minimum
+d'insertion par la référence à un montant fixé par l'administrateur supérieur.
+
+Pour l'application de ces dispositions :
+
+a) Les références aux dispositions législatives du code du travail, et au code de procédure civile sont remplacées par les
+références aux dispositions applicables localement ayant le même objet ;
+
+b) Les mots : juge de l'exécution sont remplacés partout où ils figurent par les mots : président du tribunal de première
+instance ou les juges délégués par lui.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-824 du 19 août 2004 - art. 1 () JORF 21 août 2004
+
+	**Cite**:
+
+	  - Code de la consommation - art. L330-1 (V)
+	  - Code de la consommation - art. L331-2 (M)
+	  - Code de la consommation - art. L331-7 (M)
+	  - Code de la consommation - art. L331-7-1 (M)
+	  - Code de la consommation L330-1, L331-2 à L333-5, L331-7, L331-7-1, L331-2
+
+
+###### Article L334-10
+
+Un décret en Conseil d'Etat fixe les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-824 du 19 août 2004 - art. 1 () JORF 21 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
 ### Titre IV : Cautionnement
