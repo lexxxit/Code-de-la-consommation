@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2001-02-02
+Version Consolidée au 2001-04-08
 
 # Partie législative
 
@@ -23168,324 +23168,233 @@ de la personnalité morale et de l'autonomie financière. Il est placé sous la 
 
 ###### Article R531-2
 
-L'Institut national de la consommation a pour objet :
+L'Institut national de la consommation a pour objet de :
 
-1° En tant que centre d'essais :
+a) Fournir un appui technique aux organisations de consommateurs ;
 
-a) De recueillir les demandes d'essai ou d'examen en laboratoire émanant soit des pouvoirs publics, soit des organisations de
-consommateurs et d'usagers, soit de l'autorité des essais comparatifs prévue à l'article R. 532-1 ;
+b) Regrouper, produire, analyser et diffuser des informations, études, enquêtes et essais ;
 
-b) De faire procéder par les laboratoires publics ou privés aux essais ou aux examens décidés par le conseil
-d'administration ;
-
-c) D'en transmettre pour information aux professionnels intéressés les résultats qui les concernent ;
-
-d) D'en interpréter les résultats et de porter cette interprétation à la connaissance des consommateurs et des usagers et de
-leurs organisations.
-
-2° En tant que centre d'information et de documentation :
-
-a) De diffuser les résultats de ses travaux, notamment par l'intermédiaire des organisations de consommateurs et d'usagers ;
-
-b) D'informer les consommateurs sur les problèmes de consommation, en liaison avec les organisations de consommateurs et
-d'usagers, le Conseil national de la consommation et les pouvoirs publics, par tous moyens d'expression appropriés ;
-
-c) D'aider les consommateurs et leurs organisations par la mise en place d'une documentation selon les techniques
-appropriées.
-
-3° En tant qu'organisme d'études et de formation :
-
-a) A la demande des organisations de consommateurs ou en liaison avec elles, de contribuer à la formation des consommateurs ;
-
-b) D'assister les organisations de consommateurs, par la constitution de dossiers, dans les instances auxquelles elles sont
-appelées à participer ;
-
-c) De réaliser des études techniques, juridiques et économiques relatives à la consommation.
+c) Mettre en oeuvre des actions de formation et d'éducation sur les questions de consommation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°90-381 1990-05-04 art. 2
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Cite**:
-
-	  - Code de la consommation R532-1
+	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
 
 
 ###### Article R531-3
 
-L'Institut national de la consommation est administré par un conseil d'administration composé des membres titulaires
-suivants, ayant voix délibérative :
+Pour l'accomplissement des missions mentionnées à l'article R. 531-2, l'Institut national de la consommation :
 
-1° Dix représentants des consommateurs et usagers désignés par le ministre chargé de la consommation sur proposition du
-collège des consommateurs du Conseil national de la consommation ;
+1. A l'égard des organisations de consommateurs :
 
-2° Cinq personnalités, particulièrement compétentes en matière de consommation, en raison de leur qualité ou de leur
-activité, désignées par le ministre chargé de la consommation ;
+a) Effectue et fournit des prestations d'appui technique aux organisations de consommateurs, telles que la réalisation
+d'études juridiques, économiques et techniques, de dossiers pédagogiques et documentaires, de dossiers de synthèse et
+d'analyse préparatoires aux travaux du Conseil national de la consommation, d'actions de formation, d'essais comparatifs,
+d'émissions télévisées, de publications spécialisées. Il assure un accès aux bases de données de l'établissement.
 
-3° Trois représentants élus par les personnels de l'Institut national de la consommation dans les conditions prévues par les
-articles 14 et suivants de la loi n° 83-675 du 26 juillet 1983 modifiée relative à la démocratisation du secteur public.
+Le cahier des charges annuel des prestations de l'appui technique aux organisations de consommateurs est élaboré par une
+commission créée à cet effet et qui veille à son exécution. Cette commission est composée d'un représentant de chacune des
+organisations de consommateurs agréées au plan national, ainsi que du directeur de l'établissement. Le commissaire du
+Gouvernement et le contrôleur d'Etat assistent de droit à ses travaux ;
 
-Des membres suppléants sont désignés, en nombre égal, dans les mêmes conditions que les titulaires. Les membres suppléants
-peuvent assister aux séances du conseil d'administration. Ils n'ont voix délibérative qu'en cas d'absence ou d'empêchement
-des titulaires qu'ils représentent.
+b) Fournit aux organisations de consommateurs des prestations dont la nature et le contenu sont définis par des conventions
+négociées entre l'établissement et une ou plusieurs organisations de consommateurs ;
 
-Les membres titulaires et suppléants sont nommés pour trois ans par arrêté du ministre chargé de la consommation.
+c) Recueille des informations sur les questions impliquant la défense des intérêts des consommateurs, en vue notamment de
+constituer des banques de données.
 
-Lorsqu'un membre titulaire ou suppléant cesse ses fonctions, un successeur est nommé pour la durée de la période restant à
-courir, sauf si cette durée est inférieure à six mois.
+2. A l'égard du public :
 
-Des représentants des ministres intéressés participent aux séances du conseil d'administration à la demande soit du président
-du conseil d'administration, soit du commissaire du Gouvernement, soit à leur demande. Ils peuvent y être entendus. A cet
-effet, les ministres intéressés ont communication des ordres du jour et des décisions du conseil d'administration.
+a) Diffuse par tout moyen approprié des informations sur les questions touchant à la consommation, les produits et les
+services susceptibles d'être utilisés par les consommateurs ;
+
+b) Réalise tout produit, étude, essai comparatif ou service lié à ses missions.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-381-1990-05-04 art. 3
-
-	**Cite**:
-
-	  - Loi n°83-675 1983-07-26 art. 14
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
 
 	**Cité par**:
 
 	  - Arrêté du 22 avril 2015 - art. 2 (V)
 	  - Code de la consommation - art. R531-8 (VD)
 
+	**Cite**:
+
+	  - Code de la consommation R531-2
+
 
 ###### Article R531-4
 
-Le conseil d'administration élit en son sein, pour une durée de trois ans, un président et un vice-président, ce dernier
-remplaçant de droit le président absent ou empêché. En cas de cessation de leurs fonctions en cours de mandat, un successeur
-est élu pour la période restant à courir.
+L'Institut national de la consommation est administré par un conseil d'administration composé de seize membres ayant voix
+délibérative :
+
+1° Sept représentants des consommateurs et usagers désignés par le ministre chargé de la consommation ;
+
+2° Deux représentants de l'Etat, désignés l'un par le ministre chargé de l'économie, l'autre par le ministre chargé de la
+consommation ;
+
+3° Deux représentants élus par le personnel de l'Institut national de la consommation, dans les conditions prévues par la loi
+n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public ;
+
+4° Cinq personnalités qualifiées désignées par le ministre chargé de la consommation en raison de leur compétence.
+
+Les membres sont nommés par arrêté du ministre chargé de la consommation pour un mandat de trois ans, renouvelable une fois.
+
+En cas de vacance survenant, pour quelque cause que ce soit, plus de six mois avant l'expiration du mandat, un autre membre
+est désigné par le ministre chargé de la consommation pour la durée du mandat restant à courir. Cette durée s'impute sur le
+décompte de deux mandats autorisés par l'alinéa précédent, si elle est égale ou supérieure à dix-huit mois.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°90-381 1980-05-04 art. 4
+	  - Loi n°83-675 1983-07-26
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Modifié par**:
+
+	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
 
 
 ###### Article R531-5
 
-Les membres du conseil d'administration bénéficient du remboursement des frais de déplacement ou de séjour supportés par eux
-à l'occasion des réunions statutaires du conseil dans les conditions applicables aux fonctionnaires appartenant au groupe I,
-telles que prévues par le décret n° 90-437 du 28 mai 1990.
+Le conseil d'administration élit en son sein, pour la durée du mandat de ses membres, un président et un vice-président, ce
+dernier remplaçant de droit le président absent ou empêché. En cas de cessation des fonctions du président ou du vice-
+président en cours de mandat, un successeur est élu dans les mêmes conditions pour la durée du mandat restant à courir.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°90-381 1990-05-04 art. 5
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Modifié par**:
+
+	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-5 (V)
+
+
+###### Article R531-6
+
+Les fonctions de membre du conseil d'administration sont gratuites. Elles ouvrent droit aux indemnités de déplacement et de
+séjour prévues par le décret n° 90-437 du 28 mai 1990 fixant les conditions et les modalités de règlement des frais
+occasionnés par les déplacements des personnels civils sur le territoire métropolitain de la France lorsqu'ils sont à la
+charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de certains organismes
+subventionnés.
+
+**Nota:**
+
+Décret 2006-781 2006-07-03 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires, des
+décrets des 12 mars 1986,12 avril 1989,28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celle du présent
+décret à compter du 1er novembre 2006.
+
+**Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°90-437 1990-05-28
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
+	**Modifié par**:
 
-###### Article R531-6
-
-Le conseil d'administration ne peut valablement délibérer que si la moitié au moins de ses membres ayant voix délibérative
-sont présents. Si son suppléant n'est pas en mesure de le remplacer, un titulaire peut se faire représenter par un autre
-membre du conseil d'administration.
-
-Les votes portant sur des personnes ont lieu au scrutin secret. Les décisions sont prises à la majorité des membres
-présents : en cas de partage égal, la voix du président de la séance est prépondérante. Le président de la séance peut faire
-appel au concours d'experts pour l'examen d'une question figurant à l'ordre du jour.
-
-Le directeur de l'institut, le contrôleur d'Etat et l'agent comptable assistent avec voix consultative aux séances du conseil
-d'administration. Le directeur peut se faire accompagner par tout collaborateur ou personne qualifiée de son choix. En cas
-d'absence, il est représenté.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-381 1990-05-04 art. 6
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
 
 
 ###### Article R531-7
 
-Le conseil d'administration se réunit au moins six fois par an et toutes les fois qu'il est convoqué par le président,
-agissant soit à son initiative, soit à la demande de la majorité des membres ou du commissaire du Gouvernement. Le président
-arrête l'ordre du jour. Il doit y faire figurer les questions dont l'inscription est demandée par la majorité des membres du
-conseil d'administration. Il prépare avec le directeur les délibérations du conseil d'administration et est chargé de la
-bonne exécution de ses décisions.
+Le conseil d'administration se réunit au moins trois fois par an, sur convocation de son président, ou à la demande de la
+majorité de ses membres ou du commissaire du Gouvernement.
 
-Le conseil d'administration délibère obligatoirement sur les questions suivantes :
+Le président arrête l'ordre du jour. Il y fait figurer notamment les questions dont l'inscription est demandée par la
+majorité des membres du conseil d'administration, par le directeur ou le commissaire du Gouvernement.
 
-1° La politique générale de l'établissement, tant sur le plan national que sur le plan international ;
+En cas d'indisponibilité occasionnelle, un membre du conseil d'administration peut se faire représenter par un autre membre.
+Toutefois, chaque membre ne peut représenter qu'un autre membre au plus. Le conseil d'administration ne peut valablement
+délibérer que si la majorité de ses membres est présente ou représentée. Si le quorum n'est pas atteint à l'occasion d'une
+première réunion, le conseil pourra valablement délibérer sans exigence du quorum à la suite d'une seconde convocation qui
+doit intervenir dans un délai maximum de quinze jours.
 
-2° Le rapport annuel d'activité ;
+Les délibérations sont adoptées à la majorité des membres présents ou représentés. En cas de partage des voix, la voix du
+président est prépondérante.
 
-3° L'état annuel des prévisions de recettes et de dépenses et les états rectificatifs en cours d'année ;
+Le conseil d'administration peut entendre des experts pour l'examen d'une question figurant à l'ordre du jour.
 
-4° Le compte financier et l'affectation des résultats de l'exercice ;
-
-5° Les emprunts ;
-
-6° Les prises, extensions ou cessions de participations financières de l'établissement ;
-
-7° La création ou la cession de sociétés filiales ;
-
-8° L'acceptation ou le refus des dons et legs ;
-
-9° Les conditions générales de recrutement, d'emploi et de rémunération des personnels ;
-
-10° Les conditions générales de fixation des prix de vente des produits et des prestations de l'établissement ;
-
-11° Les programmes annuels ou pluriannuels d'action présentés par le directeur ;
-
-12° Le programme des essais comparatifs.
-
-Le conseil d'administration établit son règlement. Il est consulté sur l'organisation et le règlement intérieur de
-l'institut.
-
-Parmi les états rectificatifs, sont seuls soumis au conseil d'administration ceux qui comportent soit une augmentation du
-montant global des dépenses, soit des virements de crédits entre la section des opérations en capital et la section de
-fonctionnement ou entre les chapitres de matériel et les chapitres de personnel. Les autres états rectificatifs sont pris par
-le directeur, en accord avec le contrôleur d'Etat. Il en rend compte au conseil d'administration à sa plus proche séance.
+Le directeur de l'Institut national de la consommation, le commissaire du Gouvernement, le contrôleur d'Etat et l'agent
+comptable assistent avec voix consultative aux séances du conseil d'administration. Le directeur peut se faire assister par
+tout collaborateur de son choix. Il peut se faire représenter en cas d'empêchement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-381 1990-05-04 art. 7
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
 
 
 ###### Article R531-8
 
-Le commissaire du Gouvernement auprès de l'Institut national de la consommation et son suppléant sont nommés par le ministre
-chargé de la consommation. Le commissaire du Gouvernement assiste avec voix consultative aux séances du conseil
-d'administration.
+Le conseil d'administration délibère sur :
 
-Il peut se faire accompagner par tout collaborateur ou personne qualifiée de son choix. En cas d'absence, il est représenté
-par son suppléant.
+1° Les orientations générales de l'établissement ;
 
-Les délibérations du conseil d'administration sont exécutoires, sauf si le commissaire du Gouvernement demande la suspension
-de cette exécution dans les dix jours qui suivent la réunion du conseil d'administration. Dans ce cas, le commissaire du
-Gouvernement en réfère au ministre chargé de la consommation qui se prononce dans un délai de quinze jours après la demande
-de suspension. A défaut d'une décision de rejet expresse et motivée de la part du ministre dans ce délai, la délibération est
-exécutoire.
+2° Le contrat d'objectifs pluriannuel que l'établissement conclut avec l'Etat ;
 
-Toutefois, les délibérations portant sur les points 4° à 7° du deuxième alinéa de l'article R. 531-7 ne sont exécutoires que
-si elles ont été approuvées par arrêté conjoint du ministre chargé du budget et du ministre chargé de la consommation.
+3° Les programmes annuels ou pluriannuels d'action ;
 
-Les délibérations portant sur les points 3° et 8° à 10° de l'article R. 531-7, deuxième alinéa, sont exécutoires, sauf
-opposition du ministre chargé de la consommation ou du ministre chargé du budget, un mois après la réception du relevé de
-décision par le commissaire du Gouvernement et le ministre chargé du budget.
+4° Le règlement intérieur de la commission mentionnée au 1 de l'article R. 531-3, ainsi que sur le cahier des charges annuel
+des prestations de l'appui technique aux organisations de consommateurs élaboré par cette commission et présenté par le
+directeur ;
 
-**Liens relatifs à cet article**
+5° L'état annuel des prévisions de recettes et de dépenses, ainsi que sur les états rectificatifs qui comportent soit une
+augmentation du montant global des dépenses, soit des virements de crédits entre la section des opérations en capital et la
+section de fonctionnement ou entre les chapitres de matériel et les chapitres de personnel. Les autres états rectificatifs
+sont pris par le directeur après avis conforme du contrôleur d'Etat. Il en rend compte au conseil d'administration à sa plus
+proche séance ;
 
-	**Anciens textes**:
+6° Les conditions générales de fixation des prix de vente des produits et des prestations de l'établissement ;
 
-	  - Décret n°90-381 1990-05-04 art. 8
+7° Le rapport annuel d'activité présenté par le directeur ;
 
-	**Créé par**:
+8° Le compte financier et l'affectation des résultats de l'exercice ;
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+9° Les emprunts ;
 
-	**Cite**:
+10° Les prises, extensions ou cessions de participations financières de l'établissement ;
 
-	  - Code de la consommation R531-7
+11° La création ou la cession de sociétés filiales ;
 
+12° L'acceptation ou le refus de dons et legs ;
 
-###### Article R531-9
+13° Les conditions générales de recrutement, d'emploi et de rémunération des personnels ;
 
-Le directeur de l'Institut national de la consommation est nommé sur proposition du président du conseil d'administration par
-décret pris sur le rapport du ministre chargé de la consommation. Son mandat prend fin au plus tard à la date d'installation
-du conseil d'administration suivant celui en fonction à la date de sa nomination.
+14° L'exercice des actions en justice.
 
-Le directeur :
-
-1° Exécute les décisions du conseil d'administration ;
-
-2° Assure la direction des services de l'Institut national de la consommation ;
-
-3° Recrute et gère le personnel ;
-
-4° Représente l'institut en justice et dans tous les actes de la vie civile ; toutefois, il ne peut agir ou intervenir dans
-un litige qu'avec l'autorisation du conseil d'administration ;
-
-5° Est ordonnateur des recettes et des dépenses.
+Le conseil d'administration élabore son règlement intérieur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°90-381 1990-05-04 art. 9
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-
-#### Chapitre II : Organes consultatifs.
-
-###### Article R*532-2
-
-L'autorité des essais comparatifs est composée de quinze membres ainsi répartis :
-
-1° Six administrateurs représentants des consommateurs, désignés en son sein par le conseil d'administration de l'Institut
-national de la consommation ;
-
-2° Six représentants des professionnels, dont deux représentants des entreprises de distribution, désignés par le ministre
-chargé de la consommation ;
-
-3° Deux experts désignés par le ministre chargé de la consommation parmi les personnalités qualifiées mentionnées au 2° de
-l'article R. 531-3 ;
-
-4° Un administrateur représentant du personnel désigné en son sein par le conseil d'administration de l'Institut national de
-la consommation.
-
-L'autorité des essais comparatifs élit son président en son sein. Le président informe le conseil d'administration de
-l'institut des travaux de l'autorité des essais comparatifs et lui soumet ses propositions.
-
-Le mandat des membres de l'autorité des essais comparatifs est d'une durée de trois ans. Dans les délibérations, en cas de
-partage égal, le président de l'autorité a voix prépondérante.
-
-Le commissaire du Gouvernement auprès de l'Institut national de la consommation est représenté aux travaux de l'autorité des
-essais comparatifs ; le directeur de l'établissement ou son représentant y assiste, ainsi que le président du conseil
-d'administration s'il n'est pas membre de l'autorité des essais comparatifs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-381 1990-05-04 art. 11
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
 
@@ -23494,57 +23403,115 @@ d'administration s'il n'est pas membre de l'autorité des essais comparatifs.
 	  - Code de la consommation R531-3
 
 
-###### Article R*532-3
+###### Article R531-9
 
-Le conseil d'administration peut créer des comités techniques consultatifs qu'il réglemente.
+Le commissaire du Gouvernement auprès de l'Institut national de la consommation est le directeur général de la concurrence,
+de la consommation et de la répression des fraudes.
+
+Pour les séances du conseil d'administration, il peut se faire accompagner par tout collaborateur ou personne qualifiée de
+son choix. Il peut s'y faire représenter.
+
+Les délibérations du conseil d'administration sont exécutoires, sauf si le commissaire du Gouvernement demande la suspension
+de cette exécution dans les dix jours qui suivent la délibération. Dans ce cas, le commissaire du Gouvernement soumet cette
+délibération au ministre chargé de la consommation, qui se prononce dans un délai d'un mois après la demande de suspension. A
+défaut d'une décision de rejet expresse et motivée de la part du ministre dans ce délai, la délibération est exécutoire.
+
+Toutefois, les délibérations relatives aux emprunts, aux prises, extensions et cessions de participations et aux créations ou
+cessions de filiales ne sont exécutoires qu'après approbation par arrêté conjoint du ministre chargé du budget, du ministre
+chargé de la consommation et, le cas échéant, du ministre chargé de l'économie.
+
+Les délibérations relatives au compte financier et à l'affectation des résultats, aux états prévisionnels de recettes et
+dépenses, à l'acceptation ou au refus des dons et legs, aux conditions générales de recrutement, d'emploi et de rémunération
+des personnels et à la politique commerciale sont exécutoires, sauf opposition du ministre chargé de la consommation ou du
+ministre chargé du budget, quinze jours après la réception du relevé de décision par le commissaire du Gouvernement et le
+ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°90-381 1990-05-04 art. 12
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
 
 
-###### Article R532-1
+###### Article R531-10
 
-Dans le cadre de la mission d'essais comparatifs de l'Institut national de la consommation et sous l'autorité du conseil
-d'administration, il est instauré une autorité des essais comparatifs (ADEC). Cette autorité définit, sur proposition du
-directeur de l'institut, le programme des essais comparatifs de l'Institut national de la consommation arrêté par le conseil
-d'administration pour une durée d'au moins deux ans.
+Le directeur de l'Institut national de la consommation est nommé par décret pris sur le rapport du Premier ministre et du
+ministre chargé de la consommation. Il assure la direction et la gestion de l'établissement.
 
-L'autorité des essais comparatifs est saisie de l'interprétation, de la présentation et de la diffusion des résultats des
-essais menés par l'Institut national de la consommation.
+Le directeur :
 
-Elle élabore et actualise les règles de déontologie et de méthodologie auxquelles doivent obéir les essais réalisés par
-l'institut.
+1° Prépare et exécute les décisions du conseil d'administration ;
+
+2° Est responsable de l'organisation de l'établissement ainsi que de son fonctionnement ;
+
+3° Prépare les programmes d'activités de l'établissement et en assure l'exécution ;
+
+4° Recrute et gère le personnel ;
+
+5° Représente l'Institut national de la consommation en justice et dans tous les actes de la vie civile. Pour agir en
+justice, il doit disposer de l'autorisation du conseil d'administration ou, à défaut, en cas d'urgence, de celle du président
+du conseil d'administration. Il en rend compte au conseil d'administration ;
+
+6° Est ordonnateur des recettes et des dépenses.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°90-381 1990-05-04 art. 10
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
 	**Créé par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
+
+
+#### Chapitre II : Organes consultatifs.
+
+###### Article R532-1
+
+Le conseil d'administration peut créer auprès de lui des comités consultatifs. Le directeur est membre de droit de ces
+comités. Le commissaire du Gouvernement et le contrôleur d'Etat assistent de droit à leurs travaux.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
 
 
 #### Chapitre III : Dispositions financières et comptables.
 
-###### Article R*533-5
+###### Article R533-1
 
-L'Institut national de la consommation est soumis au contrôle économique et financier de l'Etat prévu par les décrets n°
-53-707 du 9 août 1953 et n° 55-733 du 26 mai 1955. Le contrôle de la gestion financière de l'institut est assuré, dans les
-conditions fixées par un arrêté du ministre chargé de l'économie et des finances, par un contrôleur d'Etat, sous l'autorité
-du même ministre.
+L'agent comptable de l'établissement est nommé par arrêté conjoint du ministre chargé du budget et du ministre chargé de la
+consommation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Modifié par**:
+
+	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 26
+
+
+###### Article R533-2
+
+L'Institut national de la consommation est soumis au contrôle économique et financier de l'Etat prévu par le décret n° 53-707
+du 9 août 1953 relatif au contrôle de l'Etat dans les entreprises publiques nationales et certains organismes ayant un objet
+d'ordre économique et social et par le décret n° 55-733 du 26 mai 1955 relatif au contrôle économique et financier de l'Etat.
+Un contrôleur d'Etat, placé sous l'autorité du ministre chargé de l'économie et des finances, assure le contrôle de
+l'établissement, selon les modalités fixées par un arrêté de ce ministre.
 
 **Liens relatifs à cet article**
 
@@ -23553,36 +23520,36 @@ du même ministre.
 	  - Décret n°53-707 1953-08-09
 	  - Décret n°55-733 1955-05-26
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-381 1990-05-04 art. 17
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
 
 
-###### Article R533-1
+###### Article R533-3
 
-Les ressources de l'institut comprennent notamment les subventions, le produit de la vente de ses publications, les
-redevances pour service rendu et les dons et legs.
+Le directeur de l'Institut national de la consommation peut créer des régies de recettes et de dépenses dans les conditions
+prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°90-381 1990-05-04 art. 13
+	  - Décret n°92-681 1992-07-20
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Modifié par**:
+
+	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
 
 
-###### Article R533-2
+###### Article R533-4
 
 L'Institut national de la consommation est soumis au régime financier et comptable applicable aux établissements publics à
-caractère industriel et commercial dotés d'un agent comptable défini par le décret du 29 décembre 1962. Il tient une
-comptabilité analytique.
+caractère industriel et commercial dotés d'un agent comptable défini par le décret n° 62-1587 du 29 décembre 1962 portant
+règlement général sur la comptabilité publique. Il tient une comptabilité analytique.
 
 **Liens relatifs à cet article**
 
@@ -23590,50 +23557,47 @@ comptabilité analytique.
 
 	  - Décret n°62-1587 1962-12-29
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°90-381 1990-05-04 art. 11
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-
-###### Article R533-3
-
-L'agent comptable de l'établissement est nommé par arrêté conjoint du ministre chargé du budget et du ministre chargé de la
-consommation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1990-05-04 art. 15
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
 
 
-###### Article R533-4
+###### Article R533-5
 
-Le directeur de l'institut peut créer des régies de recettes et de dépenses dans les conditions prévues par le décret n°
-64-486 du 28 mai 1964, relatif aux régies de recettes et aux régies d'avances des organismes publics, et ses textes
-d'application.
+Les ressources de l'établissement comprennent :
+
+1° Le produit de ses opérations commerciales, notamment la vente de ses publications ;
+
+2° Les ressources provenant de ses activités de formation ;
+
+3° Les subventions ou participations qui lui sont allouées par l'Etat, les collectivités locales ou toute autre personne
+publique ou privée ;
+
+4° Les dons et legs, libéralités et fonds de concours de toute nature ;
+
+5° De façon générale, toute ressource que l'établissement tire de son activité ou dont il pourrait légalement disposer.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Décret n°64-486 1964-05-28
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-381 1990-05-04 art. 16
+	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-16 (V)
 
 
 ### Titre IV : Le conseil national de l'alimentation.
