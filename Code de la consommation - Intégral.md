@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-06-12
 
 # Partie législative
 
@@ -10247,26 +10247,28 @@ l'échéance, les conditions de reconduction du contrat. Elle fixe également le
 échelonné, sauf volonté contraire du débiteur, des sommes restant dues dans le cas où le débiteur demande à ne plus
 bénéficier de son ouverture de crédit.
 
+La mention "carte de crédit" est spécifiée sur la carte.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°78-22 1978-01-10 art. 5 al. 2
 	  - Loi n°78-22 du 10 janvier 1978 - art. 5 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 14 II (date d'effet - champ d'application)
 	  - TXT_SOURCE: Décret n°2004-202 du 4 mars 2004
 	  - TXT_SOURCE: Décret n°2004-202 du 4 mars 2004 - art. 1 (V)
-	  - SPEC_APPLI: Code de la consommation L312-34 *sanctions pénales*
+	  - SPEC_APPLI: Code de la consommation L312-34 (sanctions pénales)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 14 (V)
 
 	**Cité par**:
 
