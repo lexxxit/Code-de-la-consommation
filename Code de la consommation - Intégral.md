@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-02-18
+Version Consolidée au 2005-02-24
 
 # Partie législative
 
@@ -768,15 +768,15 @@ du code de la consommation ne leur sont pas applicables.
 
 "Dans les conditions prévues ci-après, ces produits peuvent bénéficier d'une appellation d'origine contrôlée s'ils répondent
 aux dispositions de l'article L. 115-1 du code de la consommation, possèdent une notoriété dûment établie et font l'objet de
-procédures d'agrément.
+procédures d'agrément lesquelles comportent un contrôle des conditions de production et un contrôle des produits.
 
 "L'appellation d'origine contrôlée ne peut jamais être considérée comme présentant un caractère générique et tomber dans le
 domaine public.
 
 "Le nom qui constitue l'appellation d'origine ou toute autre mention l'évoquant ne peuvent être employés pour aucun produit
-similaire, sans préjudice des dispositions législatives ou réglementaires en vigueur au 6 juillet 1990, ni pour aucun autre
-produit ou service lorsque cette utilisation est susceptible de détourner ou d'affaiblir la notoriété de l'appellation
-d'origine.
+similaire, sans préjudice des dispositions législatives ou réglementaires en vigueur au 6 juillet 1990. Ils ne peuvent être
+employés pour aucun établissement et aucun autre produit ou service, lorsque cette utilisation est susceptible de détourner
+ou d'affaiblir la notoriété de l'appellation d'origine.
 
 "Les appellations d'origine vins délimités de qualité supérieure mentionnées à l'article L. 641-24 et celles qui sont en
 vigueur, le 1er juillet 1990, dans les départements d'outre-mer conservent leur statut.
@@ -788,19 +788,20 @@ d'agrément de chacune de ces appellations d'origine contrôlées".
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural L641-2
-	  - Code de la consommation - art. L115-1 (V)
-	  - Code de la consommation L115-2 à L115-4, L115-8 à L115-15, L115-1, L641-25
-
-	**Modifié par**:
-
-	  - Loi n°2001-602 2001-07-07 art. 2 JORF 11 juillet 2001
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 44 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 76 () JORF 24 février 2005
+
+	**Cite**:
+
+	  - Code de la consommation - art. L115-1 (V)
+	  - Code de la consommation L115-2 à L115-4, L115-8 à L115-15, L115-1, L641-25
+	  - Code rural L641-2
 
 	**Cité par**:
 
@@ -1416,17 +1417,24 @@ avis de la Commission nationale des labels et des certifications de produits agr
 homologuée par arrêté conjoint du ministre de l'agriculture et du ministre chargé de la consommation, comprend la
 délimitation de l'aire géographique de production et la détermination des conditions de production de chacun de ces produits.
 
-"Le contrôle des conditions de production des produits bénéficiant d'une appellation d'origine est placé sous la
-responsabilité de l'Institut national des appellations d'origine. Le contrôle des conditions de production d'un produit
-bénéficiant d'une indication géographique protégée est placé sous la responsabilité de l'Institut national des appellations
-d'origine, qui peut en déléguer l'exercice à l'organisme certificateur agréé conformément à l'article L. 643-5 pour la
-délivrance du label ou de la certification de conformité sur lequel repose l'indication géographique protégée. Le non-respect
-de la délimitation de l'aire géographique ou d'une des conditions de production entraîne l'interdiction de l'utilisation,
-sous quelque forme ou dans quelque but que ce soit, du nom de l'appellation d'origine ou de l'indication géographique
-protégée, nonobstant l'application des peines prévues par l'article L. 115-16 du code de la consommation.
+"L'agrément des produits bénéficiant d'une appellation d'origine est placé sous la responsabilité de l'Institut national des
+appellations d'origine. Il peut en déléguer par convention tout ou partie de l'organisation à l'organisme agréé visé à
+l'article L. 641-10.
 
-"Le décret visé à l'article L. 641-3 peut comporter, pour toute personne intervenant dans les conditions de production de
-l'appellation concernée, l'obligation de tenir un ou plusieurs registres propres à permettre le contrôle de ces conditions.
+"Le contrôle du respect du cahier des charges des produits bénéficiant d'une indication géographique protégée est placé sous
+la responsabilité de l'Institut national des appellations d'origine, qui peut en déléguer par convention l'exercice à
+l'organisme certificateur agréé conformément à l'article L. 643-5 pour la délivrance du label ou de la certification de
+conformité sur lequel repose l'indication géographique protégée.
+
+"Le non-respect de la délimitation de l'aire géographique, d'une des conditions de production ou de la procédure d'agrément
+ou de contrôle entraîne l'interdiction de l'utilisation, sous quelque forme que ce soit, du nom de l'appellation d'origine ou
+de l'indication géographique protégée, nonobstant l'application des peines prévues par l'article L. 115-16 du code de la
+consommation.
+
+"Le décret de l'appellation d'origine contrôlée ou le cahier des charges de l'indication géographique protégée peut
+comporter, pour toute personne intervenant dans les conditions de production, l'obligation de tenir un ou plusieurs registres
+ou d'effectuer toutes déclarations, propres à permettre la réalisation de l'agrément ou du contrôle du respect du cahier des
+charges.
 
 "L'Institut national des appellations d'origine donne son avis sur les dispositions nationales relatives à l'étiquetage et à
 la présentation de chacun des produits relevant de sa compétence. Il peut être consulté sur toute question relative aux
@@ -1496,7 +1504,7 @@ d'origine ou d'une indication géographique protégée".
 
 	**Modifié par**:
 
-	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
+	  - Loi n°2005-157 du 23 février 2005 - art. 44 () JORF 24 février 2005
 
 	**Nouveaux textes**:
 
