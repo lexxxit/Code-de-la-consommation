@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2001-06-16
+Version Consolidée au 2001-07-11
 
 # Partie législative
 
@@ -722,44 +722,50 @@ professionnels directement intéressés. Un décret en Conseil d'Etat fixe les m
 La procédure d'attribution d'une appellation d'origine contrôlée est définie à l'article L. 641-2 du code rural, ci-après
 reproduit :
 
-"Art. L. 641-2. - Les produits agricoles ou alimentaires, bruts ou transformés, peuvent se voir reconnaître exclusivement une
-appellation d'origine contrôlée. Les dispositions des articles L. 115-2 à L. 115-4 et L. 115-8 à L. 115-15 du code de la
-consommation ne leur sont pas applicables.
+"Art. L. 641-2. - Les produits agricoles, forestiers ou alimentaires, bruts ou transformés, peuvent se voir reconnaître
+exclusivement une appellation d'origine contrôlée. Les dispositions des articles L. 115-2 à L. 115-4 et L. 115-8 à L. 115-15
+du code de la consommation ne leur sont pas applicables.
 
-Dans les conditions prévues ci-après, ces produits peuvent bénéficier d'une appellation d'origine contrôlée s'ils répondent
+"Dans les conditions prévues ci-après, ces produits peuvent bénéficier d'une appellation d'origine contrôlée s'ils répondent
 aux dispositions de l'article L. 115-1 du code de la consommation, possèdent une notoriété dûment établie et font l'objet de
 procédures d'agrément.
 
-L'appellation d'origine contrôlée ne peut jamais être considérée comme présentant un caractère générique et tomber dans le
+"L'appellation d'origine contrôlée ne peut jamais être considérée comme présentant un caractère générique et tomber dans le
 domaine public.
 
-Le nom géographique qui constitue l'appellation d'origine ou toute autre mention l'évoquant ne peuvent être employés pour
-aucun produit similaire, sans préjudice des dispositions législatives ou réglementaires en vigueur au 6 juillet 1990, ni pour
-aucun autre produit ou service lorsque cette utilisation est susceptible de détourner ou d'affaiblir la notoriété de
-l'appellation d'origine.
+"Le nom qui constitue l'appellation d'origine ou toute autre mention l'évoquant ne peuvent être employés pour aucun produit
+similaire, sans préjudice des dispositions législatives ou réglementaires en vigueur au 6 juillet 1990, ni pour aucun autre
+produit ou service lorsque cette utilisation est susceptible de détourner ou d'affaiblir la notoriété de l'appellation
+d'origine.
 
-Les appellations d'origine vins délimités de qualité supérieure mentionnées à l'article L. 641-24 et celles qui sont en
-vigueur, le 1er juillet 1990, dans les départements d'outre-mer conservent leur statut.".
+"Les appellations d'origine vins délimités de qualité supérieure mentionnées à l'article L. 641-24 et celles qui sont en
+vigueur, le 1er juillet 1990, dans les départements d'outre-mer conservent leur statut.
+
+"Après avis des syndicats de défense  intéressés et, le cas échéant, de l'organisme de défense et de gestion visé à l'article
+L. 641-25, l'Institut national des appellations d'origine propose la reconnaissance des appellations d'origine contrôlées,
+laquelle comporte la délimitation de l'aire géographique de production et la détermination des conditions de production et
+d'agrément de chacune de ces appellations d'origine contrôlées".
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L641-2
+	  - Code de la consommation - art. L115-1 (V)
+	  - Code de la consommation L115-2 à L115-4, L115-8 à L115-15, L115-1, L641-25
+
+	**Modifié par**:
+
+	  - Loi n°2001-602 2001-07-07 art. 2 JORF 11 juillet 2001
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Modifié par**:
-
-	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
-
 	**Cité par**:
 
 	  - Code de la consommation - art. L115-18 (M)
 	  - Code de la consommation - art. L115-7 (M)
-
-	**Cite**:
-
-	  - Code de la consommation L115-2 à L115-4, L115-8 à L115-15, 115-1
-	  - Code rural L641-2
 
 	**Nouveaux textes**:
 
@@ -768,32 +774,42 @@ vigueur, le 1er juillet 1990, dans les départements d'outre-mer conservent leur
 
 ###### Article L115-6
 
-Chaque appellation d'origine contrôlée est définie par décret sur proposition de l'Institut national des appellations
-d'origine, sans préjudice pour les vins et eaux-de-vie, cidres, poirés, apéritifs à base de cidres, de poirés ou de vins des
-dispositions de l'article 21 du décret du 30 juillet 1935 relatif à la défense du marché des vins et au régime économique de
-l'alcool, modifié par la loi n° 84-1008 du 16 novembre 1984 relative aux appellations d'origine dans le secteur viticole.
+La procédure de définition d'une appellation d'origine contrôlée est fixée à l'article L. 641-3 du code rural, ci-après
+reproduit :
 
-Le décret délimite l'aire géographique de production et détermine les conditions de production et d'agrément du produit.
+"Art. L. 641-3 - Chaque appellation d'origine contrôlée est définie par décret sur proposition de l'Institut national des
+appellations d'origine.
+
+"Le décret délimite l'aire géographique de production et détermine les conditions de production et d'agrément du produit.
+
+L'aire géographique de production est la surface comprenant les communes ou parties de communes propres à produire
+l'appellation d'origine.
+
+"Le décret est pris en Conseil d'Etat lorsque les propositions de l'Institut national des appellations d'origine comportent
+l'extension d'une aire de production ayant fait l'objet d'une délimitation par une loi spéciale ou en application des
+dispositions prévues aux articles L. 115-8 à L. 115-15 du code de la consommation, ou comportent une révision des conditions
+de production déterminées par une loi spéciale ou en application des articles L. 115-8 à L. 115-15 du code de la
+consommation.
+
+"Quiconque a vendu, mis en vente ou en circulation des produits agricoles, forestiers ou alimentaires, bruts ou transformés,
+en violation des dispositions du présent chapitre et des règlements pris pour leur application est puni des peines prévues à
+l'article L. 115-16 du code de la consommation".
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°1935-07-30 art. 21
-	  - Loi n°84-1008 1984-11-16
+	  - Code rural L641-3
+	  - Code de la consommation - art. L115-16 (M)
+	  - Code de la consommation L115-8 à L115-15, L115-16
 
 	**Anciens textes**:
 
 	  - Loi n°1919-05-06 du 6 mai 1919 - art. 7-5 (Ab)
-	  - Loi n°1919-05-06 art. 7-5
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 	**Cité par**:
 
@@ -823,6 +839,11 @@ Le décret délimite l'aire géographique de production et détermine les condit
 	  - TXT_SOURCE: Décret du 7 août 1996 - art. 8 (Ab)
 	  - TXT_SOURCE: Décret du 7 août 1996 - art. 9 (Ab)
 	  - TXT_SOURCE: Décret n°1996-08-07 du 7 août 1996
+
+	**Modifié par**:
+
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
+	  - Loi n°2001-602 du 9 juillet 2001 - art. 2 () JORF 11 juillet 2001
 
 	**Nouveaux textes**:
 
@@ -1293,33 +1314,32 @@ code rural, ci-après reproduit :
 "Art. L. 641-5 - L'Institut national des appellations d'origine est un établissement public administratif, jouissant de la
 personnalité civile. Il comprend :
 
-1° Un comité national compétent pour les vins, eaux-de-vie, cidres, poirés, apéritifs à base de cidres, de poirés ou de
-vins ;
+"1° Un comité national des vins, eaux-de-vie, cidres, poirés et apéritifs à base de vins, cidres et poirés ;
 
-2° Un comité national des produits laitiers ;
+"2° Un comité national des produits laitiers ;
 
-3° Un comité national des produits autres que ceux couverts par les instances mentionnées ci-dessus.
+"3° Un comité national des produits autres que ceux couverts par les instances mentionnées ci-dessus ;
 
-4° Un comité national pour les indications géographiques protégées.
+"4° Un comité national pour les indications géographiques protégées.
 
-Ces comités sont composés de représentants professionnels, de représentants des administrations et de personnes qualifiées
+"Ces comités sont composés de représentants professionnels, de représentants des administrations et de personnes qualifiées
 assurant notamment la représentation des consommateurs.
 
-Chacun de ces comités se prononce pour les produits de sa compétence sur les questions mentionnées aux articles L. 641-2, L.
+"Chacun de ces comités se prononce pour les produits de sa compétence sur les questions mentionnées aux articles L. 641-2, L.
 641-3 et L. 641-6.
 
-Les membres de ces comités sont réunis en séance plénière pour la présentation du budget et de la politique générale de
+"Les membres de ces comités sont réunis en séance plénière pour la présentation du budget et de la politique générale de
 l'institut.
 
-Un conseil permanent composé de membres appartenant aux mêmes catégories que celles prévues pour les comités nationaux et
+"Un conseil permanent composé de membres appartenant aux mêmes catégories que celles prévues pour les comités nationaux et
 choisis parmi ces comités établit le budget de l'institut et détermine la politique générale relative aux appellations
 d'origine contrôlées.
 
-Les présidents des comités nationaux et du conseil permanent sont nommés par arrêté conjoint du ministre chargé de l'économie
-et du ministre de l'agriculture. Le président du conseil permanent est nommé pour deux ans. Il est choisi successivement dans
-chacun des comités nationaux.
+"Les présidents des comités nationaux et du conseil permanent sont nommés par arrêté conjoint du ministre chargé de
+l'économie et du ministre de l'agriculture ou des forêts. Le président du conseil permanent est nommé pour deux ans. Il est
+choisi successivement dans chacun des comités nationaux.
 
-Les règles d'organisation et de fonctionnement de l'Institut national des appellations d'origine sont fixées par décrets en
+"Les règles d'organisation et de fonctionnement de l'Institut national des appellations d'origine sont fixées par décrets en
 Conseil d'Etat".
 
 **Liens relatifs à cet article**
@@ -1338,7 +1358,7 @@ Conseil d'Etat".
 
 	**Modifié par**:
 
-	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
+	  - Loi n°2001-602 du 9 juillet 2001 - art. 2 () JORF 11 juillet 2001
 
 	**Nouveaux textes**:
 
