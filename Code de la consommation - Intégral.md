@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1995-08-01
+Version Consolidée au 1996-04-13
 
 # Partie législative
 
@@ -540,38 +540,39 @@ Les appellations d'origine définies par voie législative ou réglementaire ava
 répondant aux conditions de l'article L. 115-6. Toute modification ultérieure des textes définissant ces appellations doit
 intervenir conformément à la procédure prévue au même article.
 
-Avant le 1er juillet 1995, les produits dont l'appellation d'origine a été définie par voie judiciaire avant le 1er juillet
-1990 ou a été acquise en application des articles 14 et 15 de la loi du 6 mai 1919 relative à la protection des appellations
+Avant le 1er juillet 2000, les produits dont l'appellation d'origine a été définie par voie judiciaire avant le 1er juillet
+1990, ou a été acquise en application des articles 14 et 15 de la loi du 6 mai 1919 relative à la protection des appellations
 d'origine dans leur rédaction antérieure à la loi n° 90-558 du 2 juillet 1990 relative aux appellations d'origine contrôlées
-des produits agricoles ou alimentaires, bruts ou transformés, s'ils satisfont aux conditions fixées à l'article L. 115-5, se
-verront attribuer, par décret, une appellation d'origine contrôlée selon la procédure prévue à l'article L. 115-6. A défaut,
-ces appellations seront caduques.
+des produits agricoles ou alimentaires, bruts ou transformés, et pour lesquels une demande de reconnaissance en appellation
+d'origine contrôlée a été déposée auprès de l'Institut national des appellations d'origine avant le 31 décembre 1996, se
+verront attribuer cette reconnaissance, par décret, s'ils satisfont aux conditions fixées à l'article L. 115-5. A compter du
+1er juillet 2000, ou en cas de refus de reconnaissance de l'appellation d'origine contrôlée, ces appellations seront
+caduques.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de la consommation - art. L115-5 (M)
-	  - Code de la consommation - art. L115-6 (M)
 	  - Loi n°1919-05-06 art. 14, art. 15
 	  - Loi n°90-558 1990-07-02
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L641-4 (M)
+	  - Code de la consommation - art. L115-5 (M)
+	  - Code de la consommation - art. L115-6 (M)
 
 	**Anciens textes**:
 
-	  - Loi n°1919-05-06 art. 7-6
 	  - Loi n°1919-05-06 du 6 mai 1919 - art. 7-6 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°96-314 du 12 avril 1996 - art. 61 () JORF 13 avril 1996
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L641-4 (M)
 
 
 ##### Sous-section 3 : Procédure judiciaire de protection
@@ -5089,7 +5090,7 @@ date à laquelle cette condamnation sera devenue définitive, commis un nouveau 
 II à VII du présent titre ou des textes énumérés ci-après :
 
 - les articles L. 141, L. 142 et L. 144, les chapitres Ier et IV du titre Ier, les chapitres II et III du titre II et les
-chapitres Ier et VIII du titre III du livre V du code de la santé publique ;
+chapitres Ier et VIII du titre III du livre V du code de la santé publique (1) ;
 
 - les articles L. 231-6 et L. 231-7 du chapitre Ier du titre III et l'article L. 263-2 du chapitre III du titre VI du livre
 II du code du travail ;
@@ -5105,7 +5106,7 @@ titre II du livre Ier, l'article L. 115-30 du présent code ;
 
 - loi du 6 avril 1897 concernant la fabrication, la circulation et la vente des vins artificiels ;
 
-- loi du 4 août 1903 réglementant le commerce des produits cupriques et anticryptogamiques ;
+- les articles L. 253-12 et L. 253-13 du code rural ;
 
 - loi du 11 juillet 1906 relative à la protection des conserves de sardines, de légumes et de prunes contre la fraude
 étrangère, dont les dispositions ont été rendues applicables à toutes les conserves étrangères de poissons entrant en France
@@ -5134,24 +5135,24 @@ du cuir et des produits ouvrés du cuir ;
 
 - loi du 3 février 1940 tendant à réglementer le commerce des produits destinés à l'alimentation des animaux ;
 
-- loi n° 525 du 2 novembre 1943 modifiée relative à l'organisation du contrôle des produits antiparasitaires à usage
-agricole ;
+- les articles L. 253-1 à L. 253-11 et les articles L. 253-14 à L. 253-17 du code rural ;
 
 - loi n° 60-808 du 5 août 1960 d'orientation agricole ;
 
-- loi n° 64-1360 du 31 décembre 1964 modifiée sur les marques de fabrique, de commerce ou de service ;
-
-- loi n° 69-10 du 3 janvier 1969 relative à l'institution du paiement du lait en fonction de sa composition et de sa
-qualité ;
+- les articles L. 711-1 et suivants du code de la propriété intellectuelle ;
 
 - loi n° 71-383 du 22 mai 1971 relative à l'amélioration des essences forestières ;
 
 - loi n° 73-1097 du 12 décembre 1973 sur les appellations d'origine en matière viticole ;
 
-- loi n° 79-595 du 13 juillet 1979 relative à l'organisation du contrôle des matières fertilisantes et des supports de
-culture ;
+- les articles L. 255-1 à L. 255-11 du code rural ;
 
-- loi n° 80-502 du 4 juillet 1980 d'orientation agricole (paragraphes III et IV de l'article 14).
+- les articles L. 645-1 et L. 671-7 du code rural ;
+
+**Nota:**
+
+(1) : Dispositions abrogées par l'ordonnance n° 2000-548 du 15 juin 2000 et codifiées dans la nouvelle partie législative du
+code de la santé publique.
 
 **Liens relatifs à cet article**
 
@@ -5166,13 +5167,14 @@ culture ;
 
 	**Cite**:
 
+	  - Code de la propriété intellectuelle - art. L711-1 (V)
 	  - Code de la consommation - art. L115-30 (M)
-	  - Code de la consommation L141, L142, L144, L115-30, 14
+	  - Code de la consommation L141, L142, L144, L115-30, L253-1 à L253-11
+	  - Code rural L253-12, L253-13, L253-14 à L253-17, L255-1 à L255-11, L645-1, L671-7
 	  - Loi n°1889-08-14
 	  - Loi n°1891-07-11
 	  - Loi n°1894-07-24
 	  - Loi n°1897-04-06
-	  - Loi n°1903-08-04
 	  - Loi n°1906-07-11
 	  - Loi n°1913-06-28
 	  - Loi n°1929-08-04
@@ -5185,27 +5187,22 @@ culture ;
 	  - Loi n°1936-06-25
 	  - Loi n°1939-04-21
 	  - Loi n°1940-02-03
-	  - Loi n°43-525 1943-11-02
 	  - Loi n°60-808 1960-08-05
-	  - Loi n°64-1360 1964-12-31
-	  - Loi n°69-10 1969-01-03
 	  - Loi n°71-383 1971-05-22
 	  - Loi n°73-1097 1973-12-12
-	  - Loi n°79-595 1979-07-13
-	  - Loi n°80-502 1980-07-04
+	  - Ordonnance 2000-548 2000-06-15
 
 	**Anciens textes**:
 
-	  - Loi n°1905-08-01 art. 5
 	  - Loi n°1905-08-01 du 1 août 1905 - art. 5 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°96-314 du 12 avril 1996 - art. 60 () JORF 13 avril 1996
 
 
 #### Chapitre IV : Mesures d'application
@@ -9872,9 +9869,14 @@ L'offre définie à l'article précédent :
 1° Mentionne l'identité des parties, et éventuellement des cautions déclarées ;
 
 2° Précise la nature, l'objet, les modalités du prêt, notamment celles qui sont relatives aux dates et conditions de mise à
-disposition des fonds ainsi qu'à l'échéancier des amortissements ;    3° Indique, outre le montant du crédit susceptible
-d'être consenti, et, le cas échéant, celui de ses fractions périodiquement disponibles, son coût total, son taux défini
-conformément à l'article L. 313-1 ainsi que, s'il y a lieu, les modalités de l'indexation ;
+disposition des fonds ;
+
+2° bis. Comprend un échéancier des amortissements détaillant pour chaque échéance la répartition du remboursement entre le
+capital et les intérêts. Toutefois, cette disposition ne concerne pas les offres de prêts à taux variable ;
+
+3° Indique, outre le montant du crédit susceptible d'être consenti, et, le cas échéant, celui de ses fractions périodiquement
+disponibles, son coût total, son taux défini conformément à l'article L. 313-1 ainsi que, s'il y a lieu, les modalités de
+l'indexation ;
 
 4° Enonce, en donnant une évaluation de leur coût, les stipulations, les assurances et les sûretés réelles ou personnelles
 exigées, qui conditionnent la conclusion du prêt ;
@@ -9893,16 +9895,15 @@ l'emprunteur avec l'offre préalable une notice présentant les conditions et mo
 
 	**Anciens textes**:
 
-	  - Loi n°79-596 1979-07-13 art. 5 al. 2 à 10
 	  - Loi n°79-596 du 13 juillet 1979 - art. 5 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°96-314 du 12 avril 1996 - art. 87 (V) JORF 13 avril 1996
 
 	**Cité par**:
 
@@ -9919,6 +9920,10 @@ l'emprunteur avec l'offre préalable une notice présentant les conditions et mo
 
 	  - Code de la consommation - art. L312-10 (V)
 	  - Code de la consommation - art. L313-1 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la consommation L312-33 *sanctions pénales*
 
 
 ###### Article L312-9
@@ -12847,55 +12852,6 @@ décembre 1994.
 
 	  - Code de la consommation - art. L331-5 (V)
 	  - Code de la consommation - art. L333-7 (Ab)
-
-
-### Titre III : Réglement des situations de surendettement
-
-#### Chapitre II : Redressement judiciaire civil.
-
-###### Article L332-4
-
-Le juge charge la commission instituée à l'article L. 331-1 de conduire une mission de conciliation dans les conditions
-définies par le chapitre Ier du présent titre sauf si la commission préalablement saisie n'est pas parvenue à concilier les
-parties, si les chances de succès de cette mission sont irrémédiablement compromises ou si la situation du débiteur exige la
-mise en oeuvre immédiate de mesures de redressement judiciaire civil.
-
-La commission rend compte au juge de sa mission.
-
-**Nota:**
-
-NOTA - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 11 al. 6 et 7
-	  - Loi n°89-1010 du 31 décembre 1989 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 (champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie)
-
-	**Abrogé par**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 31 () JORF 9 février 1995 en vigueur le 1er août 1995
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L331-3 (M)
-	  - Code de la consommation - art. R332-10 (Ab)
-	  - Code de la consommation - art. R334-18 (Ab)
-	  - Code monétaire et financier - art. R131-21-1 (V)
 
 
 ## Livre IV : Les associations de consommateurs
