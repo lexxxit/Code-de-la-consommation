@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1998-07-09
+Version Consolidée au 1998-07-31
 
 # Partie législative
 
@@ -8178,6 +8178,10 @@ tous les lieux énumérés à l'article L. 213-4, des produits susceptibles de p
 des personnes. Les produits consignés sont laissés à la garde de leur détenteur après inventaire. Il peut, dans les mêmes
 conditions, suspendre la prestation d'un service.
 
+Pour les produits entrant dans le champ de compétence de l' Agence française de sécurité sanitaire des aliments, les
+résultats des investigations et les propositions mentionnées au premier alinéa sont transmis, dans les mêmes conditions, au
+directeur général de l'agence.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -8188,9 +8192,13 @@ conditions, suspendre la prestation d'un service.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°98-535 1998-07-01 art. 11 3° JORF 2 juillet 1998 en vigueur au plus tard le 31 juillet 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 29 al. 2 (mesures d'entrée en vigueur pour les dispositions concernant l'Agence française de sécurité sanitaire des produits de santé)
 
 	**Cite**:
 
@@ -8924,7 +8932,7 @@ Toute publicité faite, reçue ou perçue en France qui, quel que soit son suppo
 visées à l'article L. 311-2, doit :
 
 1° Préciser l'identité du prêteur, la nature, l'objet et la durée de l'opération proposée ainsi que le coût total et, s'il y
-a lieu, le taux effectif global du crédit et les perceptions forfaitaires ;
+a lieu, le taux effectif global mensuel et annuel du crédit et les perception forfaitaires ;
 
 2° Préciser le montant, en francs, des remboursements par échéance ou, en cas d'impossibilité, le moyen de le déterminer. Ce
 montant inclut le coût de l'assurance lorsque celle-ci est obligatoire pour obtenir le financement et, le cas échéant, le
@@ -8936,16 +8944,15 @@ coût des perceptions forfaitaires ;
 
 	**Anciens textes**:
 
-	  - Loi n°78-22 1978-01-10 art. 4 al. 1
 	  - Loi n°78-22 du 10 janvier 1978 - art. 4 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°98-657 du 29 juillet 1998 - art. 84 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -12270,20 +12277,22 @@ Est nulle de plein droit toute convention par laquelle un intermédiaire se char
 
 2° Soit de rechercher pour le compte d'un débiteur l'obtention de délais de paiement ou d'une remise de dette.
 
+3° Soit d'intervenir, pour le compte du débiteur, sous quelque forme que ce soit, pour les besoins de la procédure de
+surendettement.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-1097 du 11 octobre 1985 - art. 4 (Ab)
-	  - Loi n°85-1097 1985-11-15 art. 4
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°98-657 du 29 juillet 1998 - art. 85 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -12426,9 +12435,13 @@ date, les dossiers en cours devront être intégralement remis aux débiteurs pa
 Il est institué, dans chaque département, au moins une commission de surendettement des particuliers.
 
 Elle comprend le représentant de l'Etat dans le département, président, le trésorier-payeur général, vice-président, le
-représentant local de la Banque de France, qui en assure le secrétariat, ainsi que deux personnalités choisies par le
-représentant de l'Etat dans le département, l'une sur proposition de l'Association française des établissements de crédit et
-l'autre sur proposition des associations familiales ou de consommateurs.
+directeur des services fiscaux. Chacune de ces personnes peut se faire représenter, par un seul et même délégué, dans des
+conditions fixées par décret. La commission comprend également le représentant local de la Banque de France, qui en assure le
+secrétariat, ainsi que deux personnalités choisies par le représentant de l'Etat dans le département, la première sur
+proposition de l'Association française des établissements de crédit et des entreprises d'investissement, la seconde sur
+proposition des associations familiales ou de consommateurs.
+
+Un suppléant de chacune de ces personnalités est désigné dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
@@ -12442,8 +12455,7 @@ l'autre sur proposition des associations familiales ou de consommateurs.
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
-	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°98-657 du 29 juillet 1998 - art. 86 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -12492,6 +12504,13 @@ La commission a pour mission de traiter, dans les conditions prévues par le pr�
 des personnes physiques, caractérisée par l'impossibilité manifeste pour le débiteur de bonne foi de faire face à l'ensemble
 de ses dettes non professionnelles exigibles et à échoir.
 
+Le montant des remboursements résultant de l'application des articles L. 331-6 ou L. 331-7 est fixé, dans des conditions
+précisées par décret, par référence à la quotité saisissable du salaire telle qu'elle résulte de l'article L. 145-2 du code
+du travail, de manière à ce qu'une partie des ressources nécessaire aux dépenses courantes du ménage lui soit réservée par
+priorité. Cette part de ressources, qui ne peut être inférieure à un montant égal au revenu minimum d'insertion dont
+disposerait le ménage, est mentionnée dans le plan conventionnel de redressement prévu à l'article L. 331-6 ou dans les
+recommandations prévues aux articles L. 331-7 et L. 331-7-1..
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -12528,8 +12547,14 @@ de ses dettes non professionnelles exigibles et à échoir.
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
-	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°98-657 du 29 juillet 1998 - art. 87 () JORF 31 juillet 1998
+
+	**Cite**:
+
+	  - Code de la consommation - art. L331-6 (M)
+	  - Code de la consommation - art. L331-7 (M)
+	  - Code de la consommation - art. L331-7-1 (M)
+	  - Code du travail - art. L145-2 (M)
 
 
 ###### Article L331-3
@@ -12540,11 +12565,20 @@ La commission vérifie que le demandeur se trouve dans la situation définie à 
 compétent pour connaître des recours dirigés contre les décisions rendues par elle à ce titre.
 
 La commission dresse l'état d'endettement du débiteur. Celui-ci est tenu de lui déclarer les éléments actifs et passifs de
-son patrimoine.
+son patrimoine. Lorsque la commission constate que le remboursement d'une ou plusieurs dettes du débiteur principal est
+garanti par un cautionnement, elle informe la caution de l'ouverture de la procédure. La caution peut faire connaître par
+écrit à la commission ses observations.
 
-Elle peut entendre toutes les personnes dont l'audition lui paraît utile.
+Le débiteur est entendu à sa demande par la commission. Celle-ci peut également entendre toute personne dont l'audition lui
+paraît utile, sous réserve que celle-ci intervienne à titre gratuit.
 
 La commission peut faire publier un appel aux créanciers.
+
+Après avoir été informés par la commission de l'état du passif déclaré par le débiteur, les créanciers disposent d'un délai
+de trente jours pour fournir, en cas de désaccord sur cet état, les justifications de leurs créances en principal, intérêts
+et accessoires. A défaut, la créance est prise en compte par la commission au vu des seuls éléments fournis par le débiteur.
+
+Les créanciers doivent alors indiquer si les créances en cause ont donné lieu à une caution et si celle-ci a été actionnée. 
 
 Nonobstant toute disposition contraire, elle peut obtenir communication, auprès des administrations publiques, des
 établissements de crédit, des organismes de sécurité et de prévoyance sociale ainsi que des serviçes chargés de centraliser
@@ -12591,12 +12625,12 @@ Les collectivités territoriales et les organismes de sécurité sociale procèd
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 (champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie)
+	  - SPEC_APPLI: Loi n°98-657 1998-07-29 art. 99 (modalités d'application)
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
-	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°98-657 du 29 juillet 1998 - art. 89 () JORF 31 juillet 1998
 
 	**Cite**:
 
@@ -12605,8 +12639,14 @@ Les collectivités territoriales et les organismes de sécurité sociale procèd
 
 ###### Article L331-4
 
-La commission peut saisir, en cas de difficulté, le juge de l'exécution d'une demande de vérification de la validité des
-titres de créance et du montant des sommes réclamées.
+La commission informe le débiteur de l'état du passif qu'elle a dressé. Le débiteur qui conteste cet état dispose d'un délai
+de vingt jours pour demander à la commission la saisine du juge de l'exécution, aux fins de vérification de la validité des
+titres de créance et du montant des sommes réclamées, en indiquant les créances contestées et les motifs qui justifient sa
+demande. La commission est tenue de faire droit à cette demande. Passé le délai de vingt jours, le débiteur ne peut plus
+formuler une telle demande. La commission informe le débiteur de ce délai.
+
+Même en l'absence de demande du débiteur, la commission peut, en cas de difficultés, saisir le juge de l'exécution aux mêmes
+fins.
 
 **Liens relatifs à cet article**
 
@@ -12616,12 +12656,8 @@ titres de créance et du montant des sommes réclamées.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-
-	**Modifié par**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
-	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 (champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie)
+	  - SPEC_APPLI: Loi n°98-657 1998-07-29 art. 99 (modalités d'application)
 
 	**Cité par**:
 
@@ -12636,29 +12672,41 @@ titres de créance et du montant des sommes réclamées.
 	  - Code de la consommation - art. R332-2 (Ab)
 	  - Code de la consommation - art. R332-3 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 90 () JORF 31 juillet 1998
+
 
 ###### Article L331-5
 
 La commission peut saisir le juge de l'exécution aux fins de suspension des procédures d'exécution diligentées contre le
 débiteur et portant sur les dettes autres qu'alimentaires. Toutefois, postérieurement à la publication d'un commandement aux
 fins de saisie immobilière, le juge de la saisie immobilière est seul compétent pour prononcer la suspension de cette
-procédure.
+procédure. En cas d'urgence, la saisine du juge peut intervenir à l'initiative du président de la commission, du délégué de
+ce dernier, du représentant local de la Banque de France ou du débiteur. La commission est ensuite informée de cette saisine.
 
-Si la situation du débiteur l'exige, le juge prononce la suspension provisoire des procédures d'exécution. Celle-ci n'est
-acquise que pour la durée de la procédure devant la commission sans pouvoir excéder un an. Lorsque le débiteur fait usage de
-la faculté que lui ouvre l'article L. 331-7, la durée de la suspension provisoire est prolongée, jusqu'à ce que le juge ait
+Si la situation du débiteur l'exige, le juge prononce la suspension provisoire des procédures d'exécution. Celle-ci est
+acquise, sans pouvoir excéder un an, jusqu'à l'approbation du plan conventionnel de redressement prévu à l'article L. 331-6
+ou, en cas d'échec de la conciliation, jusqu'à l'expiration du délai fixé par le décret en Conseil d'Etat prévu à l'article
+L. 333-8 dont dispose le débiteur pour demander à la commission de formuler des recommandations en application des articles
+L. 331-7 et L. 331-7-1 (1er alinéa). En cas de demande formulée dans ce délai, elle est acquise jusqu'à ce que le juge ait
 conféré force exécutoire aux mesures recommandées, en application de l'article L. 332-1, ou, s'il a été saisi en application
 de l'article L. 332-2, jusqu'à ce qu'il ait statué.
 
 Lorsqu'en cas de saisie immobilière la date d'adjudication a été fixée, la commission peut, pour causes graves et dûment
-justifiées, saisir le juge aux fins de remise de l'adjudication, dans les conditions et selon la procédure prévues par
-l'article 703 du code de procédure civile (ancien).
+justifiées, saisir le juge aux fins de remise de l'adjudication, dans les conditions prévues par l'article 703 du code de
+procédure civile (ancien).
 
 Sauf autorisation du juge, la décision qui prononce la suspension provisoire des procédures d'exécution interdit au débiteur
 de faire tout acte qui aggraverait son insolvabilité, de payer, en tout ou partie, une créance autre qu'alimentaire née
 antérieurement à cette décision, de désintéresser les cautions qui acquitteraient des créances nées antérieurement, de faire
 un acte de disposition étranger à la gestion normale du patrimoine ; elle interdit aussi la prise de toute garantie ou
 sûreté.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -12683,13 +12731,16 @@ sûreté.
 
 	**Modifié par**:
 
-	  - Loi n°98-46 du 23 janvier 1998 - art. 5 () JORF 24 janvier 1998
+	  - Loi n°98-657 du 29 juillet 1998 - art. 91 () JORF 31 juillet 1998
 
 	**Cite**:
 
+	  - Code de la consommation - art. L331-6 (M)
 	  - Code de la consommation - art. L331-7 (M)
+	  - Code de la consommation - art. L331-7-1 (M)
 	  - Code de la consommation - art. L332-1 (M)
 	  - Code de la consommation - art. L332-2 (M)
+	  - Code de la consommation - art. L333-8 (V)
 	  - Code de procédure civile - art. 703 (Ab)
 
 
@@ -12761,25 +12812,28 @@ Le plan prévoit les modalités de son exécution.
 En cas d'échec de sa mission de conciliation, la commission peut, à la demande du débiteur et après avoir mis les parties en
 mesure de fournir leurs observations, recommander tout ou partie des mesures suivantes :
 
-1° Reporter ou rééchelonner le paiement des dettes autres que fiscales, parafiscales ou envers les organismes de sécurité
-sociale, sans que le délai de report ou de rééchelonnement puisse excéder cinq ans ou la moitié de la durée de remboursement
-restant à courir des emprunts en cours ; en cas de déchéance du terme, le délai de report ou de rééchelonnement peut
-atteindre la moitié de la durée qui restait à courir avant la déchéance ;
+1° Rééchelonner, y compris, le cas échéant, en différant le paiement d'une partie des dettes, le paiement des dettes autres
+que fiscales, parafiscales ou envers les organismes de sécurité sociale, sans que le délai de report ou de rééchelonnement
+puisse excéder huit ans ou la moitié de la durée de remboursement restant à courir des emprunts en cours ; en cas de
+déchéance du terme, le délai de report ou de rééchelonnement peut atteindre la moitié de la durée qui restait à courir avant
+la déchéance ;
 
 2° Imputer les paiements, d'abord sur le capital ;
 
 3° Prescrire que les sommes correspondant aux échéances reportées ou rééchelonnées porteront intérêt à un taux réduit qui
-peut être inférieur au taux d'intérêt légal sur décision spéciale et motivée et si la situation du débiteur l'exige ;
+peut être inférieur au taux d'intérêt légal sur proposition spéciale et motivé et si la situation du débiteur l'exige. Quelle
+que soit la durée du plan de redressement, le taux ne peut être supérieur au taux légal.
 
 4° En cas de vente forcé du logement principal du débiteur, grevé d'une inscription bénéficiant à un établissement de crédit
-ayant fourni les sommes nécessaires à son acquisition, réduire, par décision spéciale et motivée, le montant de la fraction
-des prêts immobiliers restant due aux établissements de crédit après la vente, dans des proportions telles que son paiement,
-assorti d'un rééchelonnement calculé comme il est dit ci-dessus, soit compatible avec les ressources et les charges du
-débiteur. La même disposition est applicable en cas de vente amiable dont le principe, destiné à éviter une saisie
-immobilière, et les modalités ont été arrêtés d'un commun accord entre le débiteur et l'établissement de crédit. En toute
-hypothèse, le bénéfice des présentes dispositions ne peut être invoqué plus de deux mois après sommation faite d'avoir à
-payer le montant de la fraction des prêts immobiliers restant due, à moins que, dans ce délai, la commission n'ait été
-saisie. A peine de nullité, la sommation de payer reproduit les termes du présent alinéa.
+ayant fourni les sommes nécessaires à son acquisition, réduire, par proposition spéciale et motivée, le montant de la
+fraction des prêts immobiliers restant due aux établissements de crédit après la vente, après imputation du prix de vente sur
+le capital restant dû, dans des proportions telles que son paiement, assorti d'un rééchelonnement calculé comme il est dit
+ci-dessus, soit compatible avec les ressources et les charges du débiteur. La même disposition est applicable en cas de vente
+amiable dont le principe, destiné à éviter une saisie immobilière, et les modalités ont été arrêtés d'un commun accord entre
+le débiteur et l'établissement de crédit. En toute hypothèse, le bénéfice des présentes dispositions ne peut être invoqué
+plus de deux mois après sommation faite d'avoir à payer le montant de la fraction des prêts immobiliers restant due, à moins
+que, dans ce délai, la commission n'ait été saisie. A peine de nullité, la sommation de payer reproduit les termes du présent
+alinéa.
 
 La commission peut recommander que ces mesures soient subordonnées à l'accomplissement par le débiteur d'actes propres à
 faciliter ou à garantir le paiement de la dette. Elle peut également recommander qu'elles soient subordonnées à l'abstention
@@ -12856,14 +12910,89 @@ La demande du débiteur formée en application du premier alinéa interrompt la 
 
 	**Modifié par**:
 
-	  - Loi n°98-46 du 23 janvier 1998 - art. 6 () JORF 24 janvier 1998
+	  - Loi n°98-657 du 29 juillet 1998 - art. 92 () JORF 31 juillet 1998
+
+
+###### Article L331-7-1
+
+Lorsque la commission constate l'insolvabilité du débiteur caractérisée par l'absence de ressources ou de biens saisissables
+de nature à permettre d'apurer tout ou partie de ses dettes et rendant inapplicables les mesures prévues à l'article L.
+331-7, elle peut recommander la suspension de l'exigibilité des créances autres qu'alimentaires ou fiscales pour une durée
+qui ne peut excéder trois ans. Sauf proposition contraire de la commission, la suspension de la créance entraîne la
+suspension du paiement des intérêts dus à ce titre. Durant cette période, seules les sommes dues au titre du capital peuvent
+être de plein droit productives d'intérêts dont le taux n'excède pas le taux légal.
+
+Les dettes fiscales peuvent faire l'objet de remises totales ou partielles dans les conditions visées à l'article L. 247 du
+livre des procédures fiscales.
+
+A l'issue de la période visée au premier alinéa, la commission réexamine la situation du débiteur. Si cette situation le
+permet, elle recommande tout ou partie des mesures prévues à l'article L. 331-7. Si le débiteur demeure insolvable, elle
+recommande, par une proposition spéciale et motivée, l'effacement total ou partiel des créances autres qu'alimentaires ou
+fiscales. Les dettes fiscales peuvent faire l'objet de remises totales ou partielles dans les conditions visées à l'article
+L. 247 du livre des procédures fiscales. Aucun nouvel effacement ne peut intervenir, dans une période de huit ans, pour des
+dettes similaires à celles qui ont donné lieu à un effacement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI Livre des procédures fiscales L247
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 93 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L311-52 (VT)
+	  - Code de la consommation - art. L331-2 (V)
+	  - Code de la consommation - art. L331-3 (VD)
+	  - Code de la consommation - art. L331-3-1 (VD)
+	  - Code de la consommation - art. L331-3-2 (VT)
+	  - Code de la consommation - art. L331-5 (V)
+	  - Code de la consommation - art. L331-6 (VT)
+	  - Code de la consommation - art. L331-7 (VT)
+	  - Code de la consommation - art. L331-8 (V)
+	  - Code de la consommation - art. L331-9 (VT)
+	  - Code de la consommation - art. L332-1 (VT)
+	  - Code de la consommation - art. L332-2 (VT)
+	  - Code de la consommation - art. L332-3 (V)
+	  - Code de la consommation - art. L333-1-2 (VT)
+	  - Code de la consommation - art. L333-2 (VT)
+	  - Code de la consommation - art. L333-4 (M)
+	  - Code de la consommation - art. L333-7 (VT)
+	  - Code de la consommation - art. L334-5 (V)
+	  - Code de la consommation - art. L334-9 (VT)
+	  - Code de la consommation - art. R*331-10-2 (T)
+	  - Code de la consommation - art. R*331-15-1 (V)
+	  - Code de la consommation - art. R*332-2 (V)
+	  - Code de la consommation - art. R*332-3 (V)
+	  - Code de la consommation - art. R331-11 (Ab)
+	  - Code de la consommation - art. R331-18 (Ab)
+	  - Code de la consommation - art. R331-19-1 (Ab)
+	  - Code de la consommation - art. R331-20 (Ab)
+	  - Code de la consommation - art. R332-8-1 (Ab)
+	  - Code de la consommation - art. R334-1 (Ab)
+	  - Code de la consommation - art. R334-10 (Ab)
+	  - Code de la consommation - art. R334-11 (Ab)
+	  - Code de la consommation - art. R334-12 (Ab)
+	  - Code de la consommation - art. R334-13 (Ab)
+	  - Code de la consommation - art. R334-14 (Ab)
+	  - Code de la consommation - art. R334-39 (Ab)
+	  - Code de la consommation - art. R334-4 (Ab)
+	  - Code de la consommation - art. R334-7 (Ab)
+	  - Code de la consommation - art. R334-8 (Ab)
 
 
 ###### Article L331-8
 
-Les mesures recommandées en application de l'article L. 331-7 et rendues exécutoires par l'application de l'article L. 332-1
-ou de l'article L. 332-2 ne sont pas opposables aux créanciers dont l'existence n'aurait pas été signalée par le débiteur et
-qui n'en auraient pas été avisés par la commission.
+Les mesures recommandées en application de l'article L. 331-7 ou de l'article L. 331-7-1 et rendues exécutoires par
+l'application de l'article L. 332-1 ou de l'article L. 332-2 ne sont pas opposables aux créanciers dont l'existence n'aurait
+pas été signalée par le débiteur et qui n'en auraient pas été avisés par la commission.
 
 **Liens relatifs à cet article**
 
@@ -12881,21 +13010,21 @@ qui n'en auraient pas été avisés par la commission.
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
-	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°98-657 du 29 juillet 1998 - art. 93 () JORF 31 juillet 1998
 
 	**Cite**:
 
 	  - Code de la consommation - art. L331-7 (M)
+	  - Code de la consommation - art. L331-7-1 (M)
 	  - Code de la consommation - art. L332-1 (M)
 	  - Code de la consommation - art. L332-2 (M)
 
 
 ###### Article L331-9
 
-Les créanciers auxquels les mesures recommandées en application de l'article L. 331-7 et rendues exécutoires par application
-de l'article L. 332-1 ou de l'article L. 332-2 sont opposables ne peuvent exercer des procédures d'exécution à l'encontre des
-biens du débiteur pendant la durée d'exécution de ces mesures.
+Les créanciers auxquels les mesures recommandées en application de l'article L. 331-7 ou du premier alinéa de l'article L.
+331-7-1 et rendues exécutoires par application de l'article L. 332-1 ou de l'article L. 332-2 sont opposables ne peuvent
+exercer des procédures d'exécution à l'encontre des biens du débiteur pendant la durée d'exécution de ces mesures.
 
 **Liens relatifs à cet article**
 
@@ -12913,14 +13042,14 @@ biens du débiteur pendant la durée d'exécution de ces mesures.
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
-	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°98-657 du 29 juillet 1998 - art. 93 () JORF 31 juillet 1998
 
 	**Cite**:
 
 	  - Code de la consommation - art. L331-7 (M)
 	  - Code de la consommation - art. L332-1 (M)
 	  - Code de la consommation - art. L332-2 (M)
+	  - Code de la consommation L331-7, L332-1, L332-2, L331-7-1 al. 1
 
 
 ###### Article L331-10
@@ -12994,7 +13123,9 @@ cadre de la procédure instituée par le présent chapitre, à peine des sanctio
 ###### Article L332-1
 
 S'il n'a pas été saisi de la contestation prévue à l'article L. 332-2, le juge de l'exécution confère force exécutoire aux
-mesures recommandées par la commission en application de l'article L. 331-7, après en avoir vérifié la régularité.
+mesures recommandées par la commission en application de l'article L. 331-7 et du premier alinéa de l'article L. 331-7-1
+après en avoir vérifié la régularité, et aux mesures recommandées par la commission en application du troisième alinéa de
+l'article L. 331-7-1 après en avoir vérifié la régularité et le bien-fondé.
 
 **Liens relatifs à cet article**
 
@@ -13012,8 +13143,7 @@ mesures recommandées par la commission en application de l'article L. 331-7, ap
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
-	  - Loi n°95-125 du 8 février 1995 - art. 31 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°98-657 du 29 juillet 1998 - art. 93 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -13028,14 +13158,14 @@ mesures recommandées par la commission en application de l'article L. 331-7, ap
 
 	**Cite**:
 
-	  - Code de la consommation - art. L331-7 (M)
 	  - Code de la consommation - art. L332-2 (M)
+	  - Code de la consommation L332-2, L331-7 et L331-7-1
 
 
 ###### Article L332-2
 
 Une partie peut contester devant le juge de l'exécution les mesures recommandées par la commission en application de
-l'article L. 331-7, dans les quinze jours de la notification qui lui en est faite.
+l'article L. 331-7 ou de l'article L. 331-7-1, dans les quinze jours de la notification qui lui en est faite.
 
 Avant de statuer, le juge peut, à la demande d'une partie, ordonner par provision l'exécution d'une ou plusieurs des mesures
 visées au premier alinéa.
@@ -13065,11 +13195,6 @@ la situation du débiteur et l'évolution possible de celle-ci.
 
 	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
 	  - PILOTE_SUIVEUR: Livre des procédures fiscales - art. L145 D (V)
-
-	**Modifié par**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
-	  - Loi n°95-125 du 8 février 1995 - art. 31 () JORF 9 février 1995 en vigueur le 1er août 1995
 
 	**Cité par**:
 
@@ -13105,14 +13230,21 @@ la situation du débiteur et l'évolution possible de celle-ci.
 	  - Code de procédure pénale - art. R93 (V)
 	  - Livre des procédures fiscales - art. L145 D (M)
 
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 93 () JORF 31 juillet 1998
+
 	**Cite**:
 
 	  - Code de la consommation - art. L331-2 (M)
+	  - Code de la consommation - art. L331-7-1 (M)
 
 
 ###### Article L332-3
 
-Le juge qui statue sur la contestation prévue à l'article L. 332-2 dispose des pouvoirs mentionnés à l'article L. 331-7.
+Le juge saisi de la contestation prévue à l'article L. 332-2 prend tout ou partie des mesures définies à l'article L. 331-7
+ou à l'article L. 331-7-1. Dans tous les cas, la part des ressources nécessaires aux dépenses courantes du ménage est
+déterminée comme il est dit au deuxième alinéa de l'article L. 331-2. Elle est mentionnée dans la décision.
 
 **Liens relatifs à cet article**
 
@@ -13128,11 +13260,6 @@ Le juge qui statue sur la contestation prévue à l'article L. 332-2 dispose des
 
 	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
 
-	**Modifié par**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
-	  - Loi n°95-125 du 8 février 1995 - art. 31 () JORF 9 février 1995 en vigueur le 1er août 1995
-
 	**Cité par**:
 
 	  - Décret n°95-660 du 9 mai 1995 - art. 31 (Ab)
@@ -13140,10 +13267,52 @@ Le juge qui statue sur la contestation prévue à l'article L. 332-2 dispose des
 	  - Code de la consommation - art. R334-6 (Ab)
 	  - Livre des procédures fiscales - art. L247 (M)
 
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 95 () JORF 31 juillet 1998
+
 	**Cite**:
 
+	  - Code de la consommation - art. L331-2 (M)
 	  - Code de la consommation - art. L331-7 (M)
+	  - Code de la consommation - art. L331-7-1 (M)
 	  - Code de la consommation - art. L332-2 (M)
+
+
+#### Chapitre II : Redressement judiciaire civil.
+
+###### Article L332-4
+
+L'effacement d'une créance en application de l'article L. 332-1 ou de l'article L. 332-2 vaut régularisation de l'incident de
+paiement au sens de l'article 65-3 du décret du 30 octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes
+de paiement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1935-10-30 art. 65-3
+	  - Code de la consommation - art. L332-1 (M)
+	  - Code de la consommation - art. L332-2 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°89-1010 du 31 décembre 1989 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 96 () JORF 31 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L331-3 (M)
+	  - Code de la consommation - art. R332-10 (Ab)
+	  - Code de la consommation - art. R334-18 (Ab)
+	  - Code monétaire et financier - art. R131-21-1 (V)
 
 
 #### Chapitre III : Dispositions communes
@@ -13193,7 +13362,7 @@ de ses biens ;
 3° Toute personne qui, sans l'accord de ses créanciers, de la commission ou du juge, aura aggravé son endettement en
 souscrivant de nouveaux emprunts ou aura procédé à des actes de disposition de son patrimoine pendant le déroulement de la
 procédure de traitement de la situation de surendettement, ou pendant l'exécution du plan ou des mesures de l'article L.
-331-7.
+331-7 ou de l'article L. 331-7-1.
 
 **Liens relatifs à cet article**
 
@@ -13211,8 +13380,7 @@ procédure de traitement de la situation de surendettement, ou pendant l'exécut
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
-	  - Loi n°95-125 du 8 février 1995 - art. 32 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°98-657 du 29 juillet 1998 - art. 93 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -13224,6 +13392,7 @@ procédure de traitement de la situation de surendettement, ou pendant l'exécut
 	**Cite**:
 
 	  - Code de la consommation - art. L331-7 (M)
+	  - Code de la consommation - art. L331-7-1 (M)
 
 
 ###### Article L333-3
@@ -13310,9 +13479,20 @@ Les établissements de crédit visés par la loi n° 84-46 du 24 janvier 1984 re
 établissements de crédit ainsi que les services financiers de La Poste sont tenus de déclarer à la Banque de France les
 incidents visés à l'alinéa précédent.
 
-Le fichier visé au premier alinéa recense également les mesures conventionnelles ou judiciaires mentionnées au titre III du
-présent livre. Elles sont communiquées à la Banque de France soit par la commission instituée à l'article L. 331-1 soit par
-le greffe du tribunal d'instance.
+Lorsque la commission instituée à l'article L. 331-1 a vérifié que le débiteur qui l'a saisie se trouve dans la situation
+visée à l'article L. 331-2, elle en informe la Banque de France aux fins d'inscription au fichier institué au premier alinéa
+du présent article. La même obligation pèse sur le greffe du juge de l'exécution lorsque, sur recours de l'intéressé en
+application du deuxième alinéa de l'article L. 331-3, la situation visée à l'article L. 331-2 est reconnue par ce juge.
+
+Le fichier recense les mesures du plan conventionnel de redressement mentionnées à l'article L. 331-6. Ces mesures sont
+communiquées à la Banque de France par la commission. L'inscription est conservée pendant toute la durée de l'exécution du
+plan conventionnel, sans pouvoir excéder huit ans.
+
+Le fichier recense également les mesures prises en vertu des articles L. 331-7 et L. 331-7-1 qui sont communiquées à la
+Banque de France par le greffe du juge de l'exécution. S'agissant des mesures définies à l'article L. 331-7 et au premier
+alinéa de l'article L. 331-7-1, l'inscription est conservée pendant toute la durée d'exécution de ces mesures, sans pouvoir
+excéder huit ans. S'agissant des mesures définies au troisième alinéa de l'article L. 331-7-1, la durée d'inscription est
+fixée à huit ans.
 
 La Banque de France est seule habilitée à centraliser les informations visées à l'alinéa précédent.
 
@@ -13341,20 +13521,24 @@ prévues aux articles 43 et 44 de la même loi.
 	  - Loi n°78-17 du 6 janvier 1978 - art. 44 (Ab)
 	  - Loi n°84-46 1984-01-24
 	  - Code de la consommation - art. L331-1 (M)
+	  - Code de la consommation - art. L331-2 (M)
+	  - Code de la consommation - art. L331-3 (M)
+	  - Code de la consommation - art. L331-6 (M)
+	  - Code de la consommation - art. L331-7 (M)
+	  - Code de la consommation - art. L331-7-1 (M)
 
 	**Anciens textes**:
 
 	  - Loi n°83-660 du 21 juillet 1983 - art. 23 (Ab)
-	  - Loi n°89-1010 1989-12-31 art. 23 al. 1 à 7
 	  - Loi n°89-1010 du 31 décembre 1989 - art. 23 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°98-657 du 29 juillet 1998 - art. 97 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -13442,28 +13626,27 @@ les modalités de collecte, d'enregistrement, de conservation et de consultation
 ###### Article L333-6
 
 Dans les départements d'outre-mer, l'institut d'émission des départements d'outre-mer exerce, en liaison avec la Banque de
-France, les attributions dévolues à celle-ci par le présent article.
+France, les attributions dévolues à celle-ci par le présent chapitre.
 
 **Nota:**
 
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
+Article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du 16
+décembre 1994.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°83-660 du 21 juillet 1983 - art. 23 (Ab)
-	  - Loi n°89-1010 1989-12-31 art. 23 al. 9
 	  - Loi n°89-1010 du 31 décembre 1989 - art. 23 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°98-657 du 29 juillet 1998 - art. 97 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -13547,6 +13730,36 @@ décembre 1994.
 
 	  - Code de la consommation - art. L331-5 (V)
 	  - Code de la consommation - art. L333-7 (Ab)
+
+
+### Titre IV : Cautionnement
+
+###### Article L341-1
+
+Sans préjudice des dispositions particulières, toute personne physique qui s'est portée caution est informée par le créancier
+professionnel de la défaillance du débiteur principal dès le premier incident de paiement non régularisé dans le mois de
+l'exigibilité de ce paiement. Si le créancier ne se conforme pas à cette obligation, la caution ne saurait être tenue au
+paiement des pénalités ou intérêts de retards échus entre la date de ce premier incident et celle à laquelle elle en a été
+informée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 102 () JORF 31 juillet 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L333-1 (V)
+	  - Code de la consommation - art. L343-5 (V)
 
 
 ## Livre IV : Les associations de consommateurs
