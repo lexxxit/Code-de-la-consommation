@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2000-07-28
+Version Consolidée au 2000-09-21
 
 # Partie législative
 
@@ -161,6 +161,101 @@ officiel et ses modalités d'utilisation.
 
 
 #### Chapitre III : Prix et conditions de vente
+
+###### Article L113-1
+
+Les règles relatives à la détermination des prix sont fixées par les dispositions de l'article L. 410-2 du code de commerce
+reproduites ci-après : 
+
+" Article L. 410-2-Sauf dans les cas où la loi en dispose autrement, les prix des biens, produits et services relevant
+antérieurement au 1er janvier 1987 de l'ordonnance n° 45-1483 du 30 juin 1945 sont librement déterminés par le jeu de la
+concurrence. 
+
+Toutefois, dans les secteurs ou les zones où la concurrence par les prix est limitée en raison soit de situations de monopole
+ou de difficultés durables d'approvisionnement, soit de dispositions législatives ou réglementaires, un décret en Conseil
+d'Etat peut réglementer les prix après consultation du Conseil de la concurrence. 
+
+Les dispositions des deux premiers alinéas ne font pas obstacle à ce que le Gouvernement arrête, par décret en Conseil
+d'Etat, contre des hausses ou des baisses excessives de prix, des mesures temporaires motivées par une situation de crise,
+des circonstances exceptionnelles, une calamité publique ou une situation manifestement anormale du marché dans un secteur
+déterminé. Le décret est pris après consultation du Conseil national de la consommation. Il précise sa durée de validité qui
+ne peut excéder six mois. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-1483 du 30 juin 1945 (Ab)
+
+	**Anciens textes**:
+
+	  - Ordonnance 86-1243 1986-12-01 art. 1
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 1 (M)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18 4 JORF 21 septembre 2000
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de commerce. - art. L410-2 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R113-1 (Ab)
+
+
+###### Article L113-2
+
+Les règles relatives au champ d'application du Livre IV du code de commerce sont fixées par l'article L. 410-1  de ce code,
+reproduit ci-après : 
+
+"Article L. 410-1-Les règles définies au présent livre s'appliquent à toutes les activités de production, de distribution et
+de services, y compris celles qui sont le fait de personnes publiques, notamment dans le cadre de conventions de délégation
+de service public."
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 86-1243 1986-12-01 art. 53
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 53 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de commerce - art. L410-1
+
+	**Cité par**:
+
+	  - Code de commerce - art. L441-1 (V)
+	  - Code de la consommation - art. L113-3 (VT)
+	  - Code de la consommation - art. L121-35 (VT)
+	  - Code de la consommation - art. L122-1 (VT)
+
 
 ###### Article L113-3
 
@@ -3569,15 +3664,9 @@ premier alinéa de l'article L. 121-37.
 ###### Article L121-40
 
 Les infractions aux dispositions de la présente section peuvent être constatées et poursuivies dans les conditions fixées par
-les articles 45, premier et troisième alinéas, 46, 47 et 52 de l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la
-liberté des prix et de la concurrence.
+les articles L. 450-1 premier et troisième alinéas, L. 450-2, L. 450-3 et L. 450-8 du code de commerce.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 86-1243 1986-12-01
-	  - Code de la consommation 45
 
 	**Anciens textes**:
 
@@ -3587,9 +3676,20 @@ liberté des prix et de la concurrence.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 4 () JORF 2 septembre 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L450-1 (M)
+	  - Code de commerce. - art. L450-2 (V)
+	  - Code de commerce. - art. L450-3 (M)
+	  - Code de commerce. - art. L450-8 (M)
 
 
 ###### Article L121-41
@@ -5237,90 +5337,119 @@ exécuté.
 
 ###### Article L141-1
 
-I. - Sont constatées et poursuivies dans les conditions fixées par les articles 45, premier et troisième alinéa, 46, 47 et 52
-de l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence, reproduits au paragraphe
-IV ci-après, les infractions aux dispositions prévues au présent code par :
+I. - Sont constatées et poursuivies dans les conditions fixées par les articles L450-1 à L450-4, L450-7, L450-8, L470-1 et
+L470-5 du code de commerce, reproduits au paragraphe IV ci-après, les infractions aux dispositions prévues au présent code
+par :
 
 1° Les articles L. 121-70, L. 121-71, L. 121-72, L. 122-6 et L. 122-7 ;
 
-2° Les articles L. 132-1 à L. 132-5, L. 133-1 et 134-1.
+2° Les articles L. 132-1 à L. 132-5, L. 133-1 et L. 134-1.
 
-II. - Dans les conditions fixées par les articles 45 à 48, 51, 52, 54 et 56 de l'ordonnance précitée, reproduits au
-paragraphe IV ci-après, les personnes habilitées en vertu de l'article 45 de cette ordonnance peuvent procéder aux enquêtes
+II. - Dans les conditions fixées par les articles L450-1 à L450-4, L450-8, L470-1 et L470-5 du code précité, reproduits au
+paragraphe IV ci-après, les personnes habilitées en vertu de l'article L450-1 de ce code peuvent procéder aux enquêtes
 nécessaires à l'application des dispositions prévues par les articles L. 113-3, L 121-35 et L. 122-1 du présent code.
 
-III. - Les dispositions des articles 54 et 56 de l'ordonnance précitée, reproduits au paragraphe IV ci-après, sont
-applicables aux dispositions prévues par les articles L. 113-3, L. 121-35 et L. 122-1 du présent code.
+III. - Les dispositions des articles L470-1 et L470-5 du code précité, reproduits au paragraphe IV ci-après, sont applicables
+aux dispositions prévues par les articles L. 113-3, L. 121-35 et L. 122-1 du présent code.
 
-IV. - Les règles relatives à l'application des dispositions des paragraphes I à III ci-dessus sont fixées par les articles 45
-à 48, 51, 52, 54 et 56 de l'ordonnance n° 86-1243 du 1er décembre 1986 précitée, reproduits ci-après :
+IV. - Les règles relatives à l'application des dispositions des paragraphes I à III ci-dessus sont fixées par les articles
+L450-1 à à L450-4, L450-8, L470-1 et L470-5 du code précité, reproduits ci-après :
 
-"Art. 45 : Des fonctionnaires habilités à cet effet par le ministre chargé de l'économie peuvent procéder aux enquêtes
-nécessaires à l'application de la présente ordonnance.
+"Art. L450-1 : Des fonctionnaires habilités à cet effet par le ministre chargé de l'économie peuvent procéder aux enquêtes
+nécessaires à l'application des dispositions du présent livre.
 
-"Les rapporteurs du Conseil de la concurrence disposent des mêmes pouvoirs pour les affaires dont le conseil est saisi.
+Les rapporteurs du Conseil de la concurrence disposent des mêmes pouvoirs pour les affaires dont le conseil est saisi.
 
-"Des fonctionnaires de catégorie A du ministère chargé de l'économie spécialement habilités à cet effet par le garde des
+Des fonctionnaires de catégorie A du ministère chargé de l'économie, spécialement habilités à cet effet par le garde des
 sceaux, ministre de la justice, sur la proposition du ministre chargé de l'économie, peuvent recevoir des juges d'instruction
 des commissions rogatoires.
 
-"Art. 46 : Les enquêtes donnent lieu à l'établissement de procès-verbaux et, le cas échéant, de rapports.
+Les fonctionnaires habilités mentionnés au présent article peuvent exercer les pouvoirs d'enquête qu'ils tiennent du présent
+article et des articles suivants sur l'ensemble du territoire national."
 
-"Les procès-verbaux sont transmis à l'autorité compétente. Un double en est laissé aux parties intéressées. Ils font foi
-jusqu'à preuve contraire.
+"Art. L450-2 : Les enquêtes donnent lieu à l'établissement de procès-verbaux et, le cas échéant, de rapports.
 
-"Art. 47 : Les enquêteurs peuvent accéder à tous locaux, terrains ou moyens de transports à usage professionnel, demander la
-communication des livres, factures et tous autres documents professionnels et en prendre copie, recueillir sur convocation ou
-sur place les renseignements et justifications.
+Les procès-verbaux sont transmis à l'autorité compétente. Un double en est laissé aux parties intéressées. Ils font foi
+jusqu'à preuve contraire."
 
-"Ils peuvent demander à l'autorité dont ils dépendent de désigner un expert pour procéder à toute expertise contradictoire
-nécessaire.
+"Art. L450-3 : Les enquêteurs peuvent accéder à tous locaux, terrains ou moyens de transport à usage professionnel, demander
+la communication des livres, factures et tous autres documents professionnels et en obtenir ou prendre copie par tous moyens
+et sur tous supports, recueillir sur convocation ou sur place les renseignements et justifications.
 
-"Art. 48 : Les enquêteurs ne peuvent procéder aux visites en tous lieux ainsi qu'à la saisie de documents que dans le cadre
-d'enquêtes demandées par le ministre chargé de l'économie ou le Conseil de la concurrence et sur autorisation judiciaire
-donnée par ordonnance du président du tribunal de grande instance dans le ressort duquel sont situés les lieux à visiter ou
-d'un juge délégué par lui. Lorsque ces lieux sont situés dans le ressort de plusieurs juridictions et qu'une action
-simultanée doit être menée dans chacun d'eux, une ordonnance unique peut être délivrée par l'un des présidents compétents.
+Ils peuvent demander à l'autorité dont ils dépendent de désigner un expert pour procéder à toute expertise contradictoire
+nécessaire."
 
-"Le juge doit vérifier que la demande d'autorisation qui lui est soumise est fondée ; cette demande doit comporter tous les
-éléments d'information de nature à justifier la visite.
+"Art. L450-4 : Les enquêteurs ne peuvent procéder aux visites en tous lieux ainsi qu'à la saisie de documents et de tout
+support d'information, que dans le cadre d'enquêtes demandées par le ministre chargé de l'économie ou le rapporteur général
+du Conseil de la concurrence sur proposition du rapporteur et sur autorisation judiciaire donnée par ordonnance du président
+(1) du tribunal de grande instance dans le ressort duquel sont situés les lieux à visiter, ou d'un juge délégué par lui.
+Lorsque ces lieux sont situés dans le ressort de plusieurs juridictions et qu'une action simultanée doit être menée dans
+chacun d'eux, une ordonnance unique peut être délivrée par l'un des présidents (1) compétents.
 
-"La visite et la saisie s'effectuent sous l'autorité et le contrôle du juge qui les a autorisées. Il désigne un ou plusieurs
+Le juge doit vérifier que la demande d'autorisation qui lui est soumise est fondée ; cette demande doit comporter tous les
+éléments d'information en possession du demandeur de nature à justifier la visite. Lorsque la visite vise à permettre la
+constatation d'infractions aux dispositions du livre IV du présent code en train de se commettre, la demande d'autorisation
+peut ne comporter que les indices permettant de présumer, en l'espèce, l'existence des pratiques dont la preuve est
+recherchée. 
+
+La visite et la saisie s'effectuent sous l'autorité et le contrôle du juge qui les a autorisées. Il désigne un ou plusieurs
 officiers de police judiciaire chargés d'assister à ces opérations et de le tenir informé de leur déroulement. Lorsqu'elles
 ont lieu en dehors du ressort de son tribunal de grande instance, il délivre une commission rogatoire pour exercer ce
-contrôle au président du tribunal de grande instance dans le ressort duquel s'effectue la visite.
+contrôle au président (1) du tribunal de grande instance dans le ressort duquel s'effectue la visite.
 
-"Le juge peut se rendre dans les locaux pendant l'intervention. A tout moment, il peut décider la suspension ou l'arrêt de la
+Le juge peut se rendre dans les locaux pendant l'intervention. A tout moment, il peut décider la suspension ou l'arrêt de la
 visite.
 
-"L'ordonnance mentionnée au premier alinéa du présent article n'est susceptible que d'un pourvoi en cassation selon les
-règles prévues par le code de procédure pénale. Ce pourvoi n'est pas suspensif.
+L'ordonnance est notifiée verbalement et sur place au moment de la visite à l'occupant des lieux ou à son représentant qui en
+reçoit copie intégrale contre récépissé ou émargement au procès-verbal. En l'absence de l'occupant des lieux ou de son
+représentant, l'ordonnance est notifiée après la visite, par lettre recommandée avec avis de réception. La notification est
+réputée faite à la date de réception figurant sur l'avis. 
 
-"La visite, qui ne peut commencer avant 6 heures ou après 21 heures, est effectuée en présence de l'occupant des lieux ou de
-son représentant.
+L'ordonnance mentionnée au premier alinéa du présent article n'est susceptible que d'un pourvoi en cassation selon les règles
+prévues par le code de procédure pénale. Ce pourvoi n'est pas suspensif.
 
-"Les enquêteurs, l'occupant des lieux ou son représentant ainsi que l'officier de police judiciaire peuvent seuls prendre
+La visite, qui ne peut commencer avant six heures ou après vingt et une heures, est effectuée en présence de l'occupant des
+lieux ou de son représentant. En cas d'impossibilité, l'officier de police judiciaire requiert deux témoins choisis en dehors
+des personnes relevant de son autorité, de celle de l'administration de la direction générale de la concurrence, de la
+consommation et de la répression des fraudes ou de celle du Conseil de la concurrence. 
+
+Les enquêteurs, l'occupant des lieux ou son représentant ainsi que l'officier de police judiciaire peuvent seuls prendre
 connaissance des pièces et documents avant leur saisie.
 
-"Les inventaires et mises sous scellés sont réalisés conformément à l'article 56 du code de procédure pénale.
+Les inventaires et mises sous scellés sont réalisés conformément à l'article 56 du code de procédure pénale.
 
-"Les originaux du procès-verbal et de l'inventaire sont transmis au juge qui a ordonné la visite.
+Les originaux du procès-verbal et de l'inventaire sont transmis au juge qui a ordonné la visite.
 
-"Les pièces et documents qui ne sont plus utiles à la manifestation de la vérité sont restitués à l'occupant des lieux.
+Les pièces et documents saisis sont restitués à l'occupant des lieux, dans un délai de six mois à compter de la date à
+laquelle la décision du Conseil de la concurrence est devenue définitive. L'occupant des lieux est mis en demeure, par lettre
+recommandée avec avis de réception, de venir les rechercher, dans un délai de deux mois. A l'expiration de ce délai et à
+défaut de diligences de sa part, les pièces et documents lui sont restitués, à ses frais.  
 
-"Art. 51 : Les enquêteurs peuvent, sans se voir opposer le secret professionnel, accéder à tout document ou élément
-d'information détenu par les services et établissements de l'Etat et des autres collectivités publiques.
+Le déroulement des opérations de visite ou saisie peut faire l'objet d'un recours auprès du juge les ayant autorisées dans un
+délai de deux mois qui court, pour les personnes occupant les lieux où ces opérations se sont déroulées, à compter de la
+notification de l'ordonnance les ayant autorisées et, pour les autres personnes mises en cause ultérieurement au moyen de
+pièces saisies au cours de ces opérations, à compter de la date à laquelle elles ont eu connaissance de l'existence de ces
+opérations et au plus tard à compter de la notification de griefs prévue à l'article L. 463-2. Le juge se prononce sur ce
+recours par voie d'une ordonnance, qui n'est susceptible que d'un pourvoi en cassation selon les règles prévues au code de la
+procédure pénale. Ce pourvoi n'est pas suspensif.
 
-"Art. 52 : Sera puni d'un emprisonnement de six mois et d'une amende de 50 000 F, ou de l'une de ces deux peines seulement,
-quiconque se sera opposé, de quelque façon que ce soit, à l'exercice des fonctions dont les agents désignés à l'article 45 et
-les rapporteurs du Conseil de la concurrence sont chargés en application de la présente ordonnance.
+(1) L'article 49 X 1° et 2° de la loi n° 2000-516 du 15 juin 2000, entrant en vigueur le 16 juin 2002, a modifié l'article 48
+de l'ordonnance n° 86-1243 du 1er décembre 1986, en substituant au mot "président", les mots "juge des libertés et de la
+détention".
 
-"Art. 54 : La juridiction peut condamner solidairement les personnes morales au paiement des amendes prononcées contre leurs
-dirigeants en vertu des dispositions de la présente ordonnance et des textes pris pour son application.
+"Art. L450-7 : Les enquêteurs peuvent, sans se voir opposer le secret professionnel, accéder à tout document ou élément
+d'information détenu par les services et établissements de l'Etat et des autres collectivités publiques."
 
-"Art. 56 : Pour l'application de la présente ordonnance, le ministre chargé de l'économie ou son représentant peut, devant
-les juridictions civiles ou pénales, déposer des conclusions et les développer oralement à l'audience. Il peut également
-produire les procès-verbaux et les rapports d'enquête".
+"Art. L450-8 : Est puni d'un emprisonnement de six mois et d'une amende de 7500 euros le fait pour quiconque de s'opposer, de
+quelque façon que ce soit, à l'exercice des fonctions dont les agents désignés à l'article L. 450-1 et les rapporteurs du
+Conseil de la concurrence sont chargés en application du présent livre."
+
+"Art. L470-1 : La juridiction peut condamner solidairement les personnes morales au paiement des amendes prononcées contre
+leurs dirigeants en vertu des dispositions du présent livre et des textes pris pour son application."
+
+"Art. L470-5 : Pour l'application des dispositions du présent livre, le ministre chargé de l'économie ou son représentant
+peut, devant les juridictions civiles ou pénales, déposer des conclusions et les développer oralement à l'audience. Il peut
+également produire les procès-verbaux et les rapports d'enquête."
 
 **Liens relatifs à cet article**
 
@@ -5376,18 +5505,26 @@ produire les procès-verbaux et les rapports d'enquête".
 
 	**Cite**:
 
-	  - Ordonnance 86-1243 1986-12-01 art. 45 à 48, art. 51, art. 52, art. 54, art. 56, art. 45
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 51 (Ab)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 52 (M)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 54 (Ab)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 56 (Ab)
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 48 (M)
+	  - Loi n°2000-516 2000-06-15
+	  - Ordonnance 2000-912 2000-09-18
+	  - Code de commerce L450-1 à L450-4, L450-7, L450-8, L470-1, L470-5, L450-1
+	  - Code de commerce. - art. L450-1 (M)
+	  - Code de commerce. - art. L450-7 (V)
+	  - Code de commerce. - art. L450-8 (M)
+	  - Code de commerce. - art. L470-1 (V)
+	  - Code de commerce. - art. L470-5 (V)
 	  - Code de la consommation - art. L113-3 (M)
 	  - Code de la consommation - art. L121-35 (M)
+	  - Code de la consommation - art. L121-70 (M)
+	  - Code de la consommation - art. L121-71 (M)
+	  - Code de la consommation - art. L121-72 (V)
 	  - Code de la consommation - art. L122-1 (M)
 	  - Code de la consommation - art. L122-6 (M)
 	  - Code de la consommation - art. L122-7 (M)
 	  - Code de la consommation - art. L133-1 (V)
-	  - Code de la consommation 45, L122-6, L122-7, L132-1 à L132-5, L133-1, 134-1, L113-3, L121-35, L122-1
+	  - Code de la consommation - art. L134-1 (V)
+	  - Code de la consommation L121-70, L121-71, L121-72, L122-6, L122-7, L132-1 à L132-5, L133-1, L134-1, L113-3, L121-35, L122-1, L450-1, L463-2, 48
 	  - CODE DE PROCEDURE PENALE - art. 56 (M)
 
 	**Anciens textes**:
@@ -5400,7 +5537,7 @@ produire les procès-verbaux et les rapports d'enquête".
 
 	**Modifié par**:
 
-	  - Loi n°98-566 du 8 juillet 1998 - art. 2 () JORF 9 juillet 1998
+	  - Ordonnance 2000-912 2000-09-18 art. 4 I JORF 21 septembre 2000
 
 
 ## Livre II : Conformité et sécurité des produits et des services
