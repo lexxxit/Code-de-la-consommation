@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1994-06-04
+Version Consolidée au 1995-02-02
 
 # Partie législative
 
@@ -2714,22 +2714,16 @@ de réaliser les opérations définies à l'alinéa précédent.
 
 ###### Article L121-22
 
-Ne sont pas soumises aux dispositions de articles L. 121-23 à L. 121-29 les activités pour lesquelles le démarchage fait
-l'objet d'une réglementation par un texte législatif particulier.
+Ne sont pas soumises aux dispositions des articles L. 121-23 à L. 121-29 les activités pour lesquelles le démarchage fait
+l'objet d'une réglementation par un texte législatif particulier. 
 
-Ne sont pas soumis aux dispositions des articles L. 121-23 à L. 121-28 :
+Ne sont pas soumis aux dispositions des articles L. 121-23 à L. 121-28 : 
 
 1° Les ventes à domicile de denrées ou de produits de consommation courante faites par des professionnels ou leurs préposés
-au cours de tournées fréquentes ou périodiques dans l'agglomération où est installé leur établissement ou dans son voisinage,
-ainsi que par les personnes titulaires de l'un des titres de circulation prévus par la loi n° 69-3 du 3 janvier 1969 relative
-à l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni résidence
-fixe ;
+au cours de tournées fréquentes ou périodiques dans l'agglomération où est installé leur établissement ou dans son
+voisinage ; 
 
-2° La vente des produits provenant exclusivement de la fabrication ou de la production personnelle du démarcheur ou de sa
-famille ainsi que les prestations de services liées à une telle vente et effectuées immédiatement par eux-mêmes ;
-
-3° Le service après-vente constitué par la fourniture d'articles, pièces détachées ou accessoires, se rapportant à
-l'utilisation du matériel principal ;
+2° et 3° (paragraphes abrogés). 
 
 4° Les ventes, locations ou locations-ventes de biens ou les prestations de services lorsqu'elles ont un rapport direct avec
 les activités exercées dans le cadre d'une exploitation agricole, industrielle, commerciale ou artisanale ou de toute autre
@@ -2737,28 +2731,26 @@ profession.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°69-3 1969-01-03
-	  - Code de la consommation L121-23 à L121-29
-
 	**Anciens textes**:
 
-	  - Loi n°72-1137 1972-12-22 art. 8-1
 	  - Loi n°72-1137 du 22 décembre 1972 - art. 8 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°95-96 du 1 février 1995 - art. 7 () JORF 2 février 1995
 
 	**Cité par**:
 
 	  - Loi n°96-603 du 5 juillet 1996 - art. 27 (Ab)
 	  - Code de commerce - art. L310-2 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-23 (V)
 
 
 ###### Article L121-23
@@ -2901,20 +2893,32 @@ Avant l'expiration du délai de réflexion prévu à l'article L. 121-25, nul ne
 indirectement, à quelque titre ni sous quelque forme que ce soit une contrepartie quelconque ni aucun engagement ni effectuer
 des prestations de services de quelque nature que ce soit.
 
+Toutefois, la souscription à domicile d'abonnement à une publication quotidienne et assimilée, au sens de l'article 39 bis du
+code général des impôts, n'est pas soumise aux dispositions de l'alinéa précédent dès lors que le consommateur dispose d'un
+droit de résiliation permanent, sans frais ni indemnité, assorti du remboursement, dans un délai de quinze jours, des sommes
+versées au prorata de la durée de l'abonnement restant à courir.
+
+En outre, les engagements ou ordres de paiement ne doivent pas être exécutés avant l'expiration du délai prévu à l'article L.
+121-25 et doivent être retournés au consommateur dans les quinze jours qui suivent sa rétractation.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 bis
+	  - Code de la consommation - art. L121-25 (V)
 
 	**Anciens textes**:
 
-	  - Loi n°72-1137 du 22 décembre 1972 - art. 4 (M)
 	  - Loi n°72-1137 du 22 décembre 1972 - art. 4 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°95-96 du 1 février 1995 - art. 8 () JORF 2 février 1995
 
 	**Cité par**:
 
@@ -2926,10 +2930,6 @@ des prestations de services de quelque nature que ce soit.
 	  - Code de la sécurité sociale. - art. L932-15-1 (M)
 	  - Code des assurances - art. L112-2-1 (VD)
 	  - Code monétaire et financier - art. L343-1 (VD)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-25 (V)
 
 
 ###### Article L121-27
@@ -3756,20 +3756,30 @@ la collecte d'adhésions ou inscriptions ;
 2° Le fait de proposer à une personne de collecter des adhésions ou de s'inscrire sur une liste en lui faisant espérer des
 gains financiers résultant d'une progression géométrique du nombre des personnes recrutées ou inscrites.
 
+Dans le cas de réseaux de vente constitués par recrutement en chaîne d'adhérents ou d'affiliés, il est interdit d'obtenir
+d'un adhérent ou affilié du réseau le versement d'une somme correspondant à un droit d'entrée ou à l'acquisition de matériels
+ou de services à vocation pédagogique, de formation, de démonstration ou de vente ou tout autre matériel ou service analogue,
+lorsque ce versement conduit à un paiement ou à l'attribution d'un avantage bénéficiant à un ou plusieurs adhérents ou
+affiliés du réseau.
+
+En outre, il est interdit, dans ces mêmes réseaux, d'obtenir d'un adhérent ou affilié l'acquisition d'un stock de
+marchandises destinées à la revente, sans garantie de reprise du stock aux conditions de l'achat, déduction faite
+éventuellement d'une somme n'excédant pas 10 p. 100 du prix correspondant. Cette garantie de reprise peut toutefois être
+limitée à une période d'un an après l'achat.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°53-1090 du 5 novembre 1953 - art. 1 (M)
 	  - Loi n°53-1090 du 5 novembre 1953 - art. 1 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°95-96 du 1 février 1995 - art. 13 () JORF 2 février 1995
 
 	**Cité par**:
 
@@ -4043,34 +4053,138 @@ Il ne peut être dérogé par des conventions particulières aux dispositions du
 
 ###### Article L132-1
 
-Dans les contrats conclus entre professionnels et non-professionnels ou consommateurs, peuvent être interdites, limitées ou
-réglementées, par des décrets en Conseil d'Etat pris après avis de la commission instituée par l'article L. 132-2, en
-distinguant éventuellement selon la nature des biens et des services concernés, les clauses relatives au caractère déterminé
-ou déterminable du prix ainsi qu'à son versement, à la consistance de la chose ou à sa livraison, à la charge des risques, à
-l'étendue des responsabilités et garanties, aux conditions d'exécution, de résiliation, résolution ou reconduction des
-conventions lorsque de telles clauses apparaissent imposées aux non-professionnels ou consommateurs par un abus de la
-puissance économique de l'autre partie et confèrent à cette dernière un avantage excessif.
+Dans les contrats conclus entre professionnels et non-professionnels ou consommateurs, sont abusives les clauses qui ont pour
+objet ou pour effet de créer, au détriment du non-professionnel ou du consommateur, un déséquilibre significatif entre les
+droits et obligations des parties au contrat.
 
-De telles clauses abusives, stipulées en contradiction avec les dispositions qui précèdent, sont réputées non écrites.
+Des décrets en Conseil d'Etat, pris après avis de la commission instituée à l'article L. 132-2, peuvent déterminer des types
+de clauses qui doivent être regardées comme abusives au sens du premier alinéa.
 
-Ces dispositions sont applicables aux contrats quels que soient leur forme ou leur support. Il en est ainsi notamment des
-bons de commande, factures, bons de garantie, bordereaux ou bons de livraison, billets, tickets contenant des stipulations ou
-des références à des conditions générales préétablies.
+Une annexe au présent code comprend une liste indicative et non exhaustive de clauses qui peuvent être regardées comme
+abusives si elles satisfont aux conditions posées au premier alinéa. En cas de litige concernant un contrat comportant une
+telle clause, le demandeur n'est pas dispensé d'apporter la preuve du caractère abusif de cette clause.
+
+Ces dispositions sont applicables quels que soient la forme ou le support du contrat. Il en est ainsi notamment des bons de
+commande, factures, bons de garantie, bordereaux ou bons de livraison, billets ou tickets, contenant des stipulations
+négociées librement ou non ou des références à des conditions générales préétablies.
+
+Sans préjudice des règles d'interprétation prévues aux articles 1156 à 1161, 1163 et 1164 du code civil, le caractère abusif
+d'une clause s'apprécie en se référant, au moment de la conclusion du contrat, à toutes les circonstances qui entourent sa
+conclusion, de même qu'à toutes les autres clauses du contrat. Il s'apprécie également au regard de celles contenues dans un
+autre contrat lorsque la conclusion ou l'exécution de ces deux contrats dépendent juridiquement l'une de l'autre.
+
+Les clauses abusives sont réputées non écrites.
+
+L'appréciation du caractère abusif des clauses au sens du premier alinéa ne porte ni sur la définition de l'objet principal
+du contrat ni sur l'adéquation du prix ou de la rémunération au bien vendu ou au service offert.
+
+Le contrat restera applicable dans toutes ses dispositions autres que celles jugées abusives s'il peut subsister sans
+lesdites clauses.
+
+Les dispositions du présent article sont d'ordre public.
+
+Annexe : clauses visées au troisième alinéa de l'article L. 132-1.
+
+1. Clauses ayant pour objet ou pour effet :
+
+a) D'exclure ou de limiter la responsabilité légale du professionnel en cas de mort d'un consommateur ou de dommages
+corporels causés à celui-ci, résultant d'un acte ou d'une omission de ce professionnel ;
+
+b) D'exclure ou de limiter de façon inappropriée les droits légaux du consommateur vis-à-vis du professionnel ou d'une autre
+partie en cas de non-exécution totale ou partielle ou d'exécution défectueuse par le professionnel d'une quelconque des
+obligations contractuelles, y compris la possibilité de compenser une dette envers le professionnel avec une créance qu'il
+aurait contre lui ;
+
+c) De prévoir un engagement ferme du consommateur, alors que l'exécution des prestations du professionnel est assujettie à
+une condition dont la réalisation dépend de sa seule volonté ;
+
+d) De permettre au professionnel de retenir des sommes versées par le consommateur lorsque celui-ci renonce à conclure ou à
+exécuter le contrat, sans prévoir le droit, pour le consommateur, de percevoir une indemnité d'un montant équivalent de la
+part du professionnel lorsque c'est celui-ci qui renonce ;
+
+e) D'imposer au consommateur qui n'exécute pas ses obligations une indemnité d'un montant disproportionnellement élevé ;
+
+f) D'autoriser le professionnel à résilier le contrat de façon discrétionnaire si la même faculté n'est pas reconnue au
+consommateur, ainsi que de permettre au professionnel de retenir les sommes versées au titre de prestations non encore
+réalisées par lui, lorsque c'est le professionnel lui-même qui résilie le contrat ;
+
+g) D'autoriser le professionnel à mettre fin sans un préavis raisonnable à un contrat à durée indéterminée, sauf en cas de
+motif grave ;
+
+h) De proroger automatiquement un contrat à durée déterminée en l'absence d'expression contraire du consommateur, alors
+qu'une date excessivement éloignée de la fin du contrat a été fixée comme date limite pour exprimer cette volonté de non-
+prorogation de la part du consommateur ;
+
+i) De constater de manière irréfragable l'adhésion du consommateur à des clauses dont il n'a pas eu, effectivement,
+l'occasion de prendre connaissance avant la conclusion du contrat ;
+
+j) D'autoriser le professionnel à modifier unilatéralement les termes du contrat sans raison valable et spécifiée dans le
+contrat ;
+
+k) D'autoriser les professionnels à modifier unilatéralement sans raison valable des caractéristiques du produit à livrer ou
+du service à fournir ;
+
+l) De prévoir que le prix des biens est déterminé au moment de la livraison, ou d'accorder au vendeur de biens ou au
+fournisseur de services le droit d'augmenter leurs prix sans que, dans les deux cas, le consommateur n'ait de droit
+correspondant lui permettant de rompre le contrat au cas où le prix final est trop élevé par rapport au prix convenu lors de
+la conclusion du contrat ;
+
+m) D'accorder au professionnel le droit de déterminer si la chose livrée ou le service fourni est conforme aux stipulations
+du contrat ou de lui conférer le droit exclusif d'interpréter une quelconque clause du contrat ;
+
+n) De restreindre l'obligation du professionnel de respecter les engagements pris par ses mandataires ou de soumettre ses
+engagements au respect d'une formalité particulière ;
+
+o) D'obliger le consommateur à exécuter ses obligations lors même que le professionnel n'exécuterait pas les siennes ;
+
+p) De prévoir la possibilité de cession du contrat de la part du professionnel, lorsqu'elle est susceptible d'engendrer une
+diminution des garanties pour le consommateur sans l'accord de celui-ci ;
+
+q) De supprimer ou d'entraver l'exercice d'actions en justice ou des voies de recours par le consommateur, notamment en
+obligeant le consommateur à saisir exclusivement une juridiction d'arbitrage non couverte par des dispositions légales, en
+limitant indûment les moyens de preuves à la disposition du consommateur ou en imposant à celui-ci une charge de preuve qui,
+en vertu du droit applicable, devrait revenir normalement à une autre partie au contrat.
+
+2. Portée des points g, j et l :
+
+a) Le point g ne fait pas obstacle à des clauses par lesquelles le fournisseur de services financiers se réserve le droit de
+mettre fin au contrat à durée indéterminée unilatéralement, et ce, sans préavis en cas de raison valable, pourvu que soit
+mise à la charge du professionnel l'obligation d'en informer la ou les autres parties contractantes immédiatement ;
+
+b) Le point j ne fait pas obstacle à des clauses selon lesquelles le fournisseur de services financiers se réserve le droit
+de modifier le taux d'intérêt dû par le consommateur ou dû à celui-ci, ou le montant de toutes autres charges afférentes à
+des services financiers, sans aucun préavis en cas de raison valable, pourvu que soit mise à la charge du professionnel
+l'obligation d'en informer la ou les autres parties contractantes dans les meilleurs délais et que celles-ci soient libres de
+réaliser immédiatement le contrat.
+
+Le point j ne fait pas non plus obstacle à des clauses selon lesquelles le professionnel se réserve le droit de modifier
+unilatéralement les conditions d'un contrat de durée indéterminée pourvu que soit mis à sa charge le devoir d'en informer le
+consommateur avec un préavis raisonnable et que celui-ci soit libre de résilier le contrat ;
+
+c) Les points g, j et l ne sont pas applicables aux :
+
+- transactions concernant les valeurs mobilières, instruments financiers et autres produits ou services dont le prix est lié
+aux fluctuations d'un cours ou d'un indice boursier ou d'un taux de marché financier que le professionnel ne contrôle pas ;
+
+- contrats d'achat ou de vente de devises, de chèques de voyage ou de mandats-poste internationaux libellés en devises ;
+
+d) Le point l ne fait pas obstacle aux clauses d'indexation de prix pour autant qu'elles soient licites et que le mode de
+variation du prix y soit explicitement décrit.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°78-23 1978-01-10 art. 35 al. 1 à al. 3
 	  - Loi n°78-23 du 10 janvier 1978 - art. 35 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°95-96 1995-02-01 art. 1, annexe JORF 2 février 1995
+	  - Loi n°95-96 du 1 février 1995 - art. 1 () JORF 2 février 1995
 
 	**Cité par**:
 
@@ -4081,6 +4195,12 @@ des références à des conditions générales préétablies.
 	  - Code de la consommation - art. R132-2 (Ab)
 	  - Code de la consommation - art. R132-6 (VT)
 	  - Code de la consommation - art. R534-4 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 1163 (V)
+	  - Code civil - art. 1164 (V)
+	  - Code civil 1156 à 1161, 1163, 1164
 
 
 ##### Section 2 : La commission des clauses abusives.
@@ -4207,6 +4327,80 @@ réglementaires qui lui paraissent souhaitables. Ce rapport est rendu public.
 	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
 
 
+#### Chapitre III : Interprétation et forme des contrats
+
+###### Article L133-1
+
+En vue d'assurer l'information du contractant non professionnel ou consommateur, les décrets prévus à l'article L. 132-1
+peuvent réglementer la présentation des écrits constatant les contrats visés au même article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°78-23 1978-01-10 art. 35 al. 5
+	  - Loi n°78-23 du 10 janvier 1978 - art. 35 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L132-1 (VT)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L141-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L211-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°95-96 1994-02-01 art. 2 JORF 2 février 1995
+
+
+###### Article L133-2
+
+Les clauses des contrats proposés par les professionnels aux consommateurs ou aux non-professionnels doivent être présentées
+et rédigées de façon claire et compréhensible. 
+
+Elles s'interprètent en cas de doute dans le sens le plus favorable au consommateur ou au non-professionnel. Le présent
+alinéa n'est toutefois pas applicable aux procédures engagées sur le fondement de l'article L. 421-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Loi n°95-96 du 1 février 1995 - art. 3 () JORF 2 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L211-1 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L421-6
+
+
 #### Chapitre IV : Remise des contrats
 
 ###### Article L134-1
@@ -4240,6 +4434,31 @@ un exemplaire des conventions qu'ils proposent habituellement.
 	**Cité par**:
 
 	  - Code de la consommation - art. L141-1 (M)
+
+
+#### Chapitre V : Du conflit des lois relatives aux clauses abusives
+
+###### Article L135-1
+
+Nonobstant toute stipulation contraire, les dispositions de l'article L. 132-1 sont applicables lorsque la loi qui régit le
+contrat est celle d'un Etat n'appartenant pas à l'Union européenne, que le consommateur ou le non-professionnel a son
+domicile sur le territoire de l'un des Etats membres de l'Union européenne et que le contrat y est proposé, conclu ou
+exécuté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°95-96 du 1 février 1995 - art. 5 () JORF 2 février 1995
+	  - Loi n°95-96 du 1 février 1995 - art. 6 () JORF 2 février 1995
+
+	**Cite**:
+
+	  - Code de la consommation - art. L132-1 (V)
 
 
 ### Titre IV : Pouvoirs des agents et actions juridictionnelles
@@ -6263,6 +6482,85 @@ n'empêche pas l'examen de s'accomplir, avec les effets qui s'attachent à la pr
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 157 (M)
+
+
+##### Section 5 : Marquage communautaire de conformité.
+
+###### Article L215-18
+
+I. - Lors des contrôles effectués dans les limites de leur compétence et dans les lieux où ils exercent les contrôles que
+leur confie la loi, les agents mentionnés à l'article L. 215-1 ci-dessus et à l'article L. 40 du code des postes et
+télécommunications peuvent consigner et exiger la mise en conformité :
+
+1° Des marchandises soumises à une obligation communautaire de marquage C.E. et dépourvues de ce marquage ;
+
+2° Des marchandises qui, bien que portant le marquage C.E., sont cependant manifestement non conformes à la réglementation du
+marquage qui leur est applicable.
+
+Le procureur de la République est informé sans délai par les agents de contrôle de la mesure de consignation.
+
+Ces opérations sont constatées par procès-verbal mentionnant les marchandises objet de la mesure de consignation. Ces procès-
+verbaux sont transmis au procureur de la République dans les vingt-quatre heures. Une copie est remise à l'intéressé dans les
+mêmes délais.
+
+Les marchandises consignées sont laissées à la garde de leur détenteur. La commercialisation des marchandises malgré la
+mesure de consignation sera punie des peines prévues aux articles 314-5 et 314-6 du code pénal.
+
+Cette mesure est également applicable lorsque les documents justificatifs exigés par les textes relatifs au marquage C.E. ne
+peuvent pas être présentés aux agents à l'issue d'un délai de quinze jours après qu'ils en ont formulé la demande.
+
+II. - La mesure de consignation est levée de plein droit :
+
+a) Soit en cas de présentation aux agents des documents justificatifs exigés par les textes relatifs au marquage C.E. propres
+à justifier de la conformité annoncée ;
+
+b) Soit en cas de mise en conformité des marchandises au regard des textes relatifs au marquage C.E. ;
+
+c) Soit à défaut de saisine, par l'administration, par le responsable de la mise sur le marché ou par le propriétaire des
+marchandises consignées, dans les sept jours ouvrables de la date du procès-verbal de consignation, du président du tribunal
+de grande instance dans le ressort duquel sont situés les lieux de détention des marchandises consignées.
+
+III. - Le président du tribunal, ou le magistrat du siège qu'il délègue à cet effet, statuant en la forme des référés, peut
+soit prononcer la mainlevée de la mesure de consignation, soit en cantonner les effets, soit ordonner la consignation jusqu'à
+mise en conformité dans le délai qu'il fixe, soit, si les marchandises ne peuvent être mises en conformité, en interdire la
+mise sur le marché.
+
+En cas de difficultés particulières liées à la mise en conformité de la marchandise, le président du tribunal de grande
+instance, ou le magistrat du siège délégué à cet effet, peut renouveler la mesure par ordonnance motivée.
+
+Si la mise en conformité des marchandises n'est pas réalisée dans le délai fixé, le président du tribunal de grande instance,
+ou le magistrat du siège délégué à cet effet, peut en interdire la mise sur le marché.
+
+La commercialisation des marchandises malgré la mesure de consignation ou d'interdiction de mise sur le marché sera punie des
+peines prévues aux articles 314-5 et 314-6 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°89-662 du 12 septembre 1989 - art. 7 (VT)
+	  - Décret n°91-330 du 27 mars 1991 - art. 6 (Ab)
+	  - Décret n°95-1081 du 3 octobre 1995 - art. 10 (VT)
+	  - Décret n°98-257 du 31 mars 1998 - art. 7 (Ab)
+	  - Décret n°2000-810 du 24 août 2000 - art. 10 (Ab)
+	  - Décret n°2000-810 du 24 août 2000 - art. 11 (Ab)
+	  - Décret n°2001-1131 du 28 novembre 2001 - art. 6 (Ab)
+	  - Code de l'environnement - art. R226-11 (M)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°95-96 du 1 février 1995 - art. 11 () JORF 2 février 1995
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-1 (M)
+	  - Code des postes et télécommunications L40
+	  - Code pénal - art. 314-5 (M)
+	  - Code pénal - art. 314-6 (M)
 
 
 #### Chapitre VI : Dispositions communes
@@ -13006,7 +13304,7 @@ celle qui fonde les poursuites.
 
 Les associations mentionnées à l'article L. 421-1 peuvent demander à la juridiction civile d'ordonner, le cas échéant sous
 astreinte, la suppression de clauses abusives dans les modèles de conventions habituellement proposés par les professionnels
-aux consommateurs.
+aux consommateurs et dans ceux destinés aux consommateurs et proposés par les organisations professionnelles à leurs membres.
 
 **Liens relatifs à cet article**
 
@@ -13018,9 +13316,9 @@ aux consommateurs.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°95-96 du 1 février 1995 - art. 4 () JORF 2 février 1995
 
 	**Cité par**:
 
@@ -13350,5 +13648,116 @@ des organisations de consommateurs, du personnel de l'établissement ainsi que d
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L823-2 (V)
+
+
+# Partie réglementaire
+
+## Livre III : Endettement
+
+### Titre Ier : Crédit
+
+#### Chapitre III : Dispositions communes
+
+##### Annexes
+
+##### Annexe : clauses visées au troisième alinéa de l'article L. 132-1
+
+###### Article Annexe à l'article L132-1
+
+1. Clauses ayant pour objet ou pour effet :
+
+a) D'exclure ou de limiter la responsabilité légale du professionnel en cas de mort d'un consommateur ou de dommages
+corporels causés à celui-ci, résultant d'un acte ou d'une omission de ce professionnel ;
+
+b) D'exclure ou de limiter de façon inappropriée les droits légaux du consommateur vis-à-vis du professionnel ou d'une autre
+partie en cas de non-exécution totale ou partielle ou d'exécution défectueuse par le professionnel d'une quelconque des
+obligations contractuelles, y compris la possibilité de compenser une dette envers le professionnel avec une créance qu'il
+aurait contre lui ;
+
+c) De prévoir un engagement ferme du consommateur, alors que l'exécution des prestations du professionnel est assujettie à
+une condition dont la réalisation dépend de sa seule volonté ;
+
+d) De permettre au professionnel de retenir des sommes versées par le consommateur lorsque celui-ci renonce à conclure ou à
+exécuter le contrat, sans prévoir le droit, pour le consommateur, de percevoir une indemnité d'un montant équivalent de la
+part du professionnel lorsque c'est celui-ci qui renonce ;
+
+e) D'imposer au consommateur qui n'exécute pas ses obligations une indemnité d'un montant disproportionnellement élevé ;
+
+f) D'autoriser le professionnel à résilier le contrat de façon discrétionnaire si la même faculté n'est pas reconnue au
+consommateur, ainsi que de permettre au professionnel de retenir les sommes versées au titre de prestations non encore
+réalisées par lui, lorsque c'est le professionnel lui-même qui résilie le contrat ;
+
+g) D'autoriser le professionnel à mettre fin sans un préavis raisonnable à un contrat à durée indéterminée, sauf en cas de
+motif grave ;
+
+h) De proroger automatiquement un contrat à durée déterminée en l'absence d'expression contraire du consommateur, alors
+qu'une date excessivement éloignée de la fin du contrat a été fixée comme date limite pour exprimer cette volonté de non-
+prorogation de la part du consommateur ;
+
+i) De constater de manière irréfragable l'adhésion du consommateur à des clauses dont il n'a pas eu, effectivement,
+l'occasion de prendre connaissance avant la conclusion du contrat ;
+
+j) D'autoriser le professionnel à modifier unilatéralement les termes du contrat sans raison valable et spécifiée dans le
+contrat ;
+
+k) D'autoriser les professionnels à modifier unilatéralement sans raison valable des caractéristiques du produit à livrer ou
+du service à fournir ;
+
+l) De prévoir que le prix des biens est déterminé au moment de la livraison, ou d'accorder au vendeur de biens ou au
+fournisseur de services le droit d'augmenter leurs prix sans que, dans les deux cas, le consommateur n'ait de droit
+correspondant lui permettant de rompre le contrat au cas où le prix final est trop élevé par rapport au prix convenu lors de
+la conclusion du contrat ;
+
+m) D'accorder au professionnel le droit de déterminer si la chose livrée ou le service fourni est conforme aux stipulations
+du contrat ou de lui conférer le droit exclusif d'interpréter une quelconque clause du contrat ;
+
+n) De restreindre l'obligation du professionnel de respecter les engagements pris par ses mandataires ou de soumettre ses
+engagements au respect d'une formalité particulière ;
+
+o) D'obliger le consommateur à exécuter ses obligations lors même que le professionnel n'exécuterait pas les siennes ;
+
+p) De prévoir la possibilité de cession du contrat de la part du professionnel, lorsqu'elle est susceptible d'engendrer une
+diminution des garanties pour le consommateur sans l'accord de celui-ci ;
+
+q) De supprimer ou d'entraver l'exercice d'actions en justice ou des voies de recours par le consommateur, notamment en
+obligeant le consommateur à saisir exclusivement une juridiction d'arbitrage non couverte par des dispositions légales, en
+limitant indûment les moyens de preuves à la disposition du consommateur ou en imposant à celui-ci une charge de preuve qui,
+en vertu du droit applicable, devrait revenir normalement à une autre partie au contrat.
+
+2. Portée des points g, j et l :
+
+a) Le point g ne fait pas obstacle à des clauses par lesquelles le fournisseur de services financiers se réserve le droit de
+mettre fin au contrat à durée indéterminée unilatéralement, et ce, sans préavis en cas de raison valable, pourvu que soit
+mise à la charge du professionnel l'obligation d'en informer la ou les autres parties contractantes immédiatement ;
+
+b) Le point j ne fait pas obstacle à des clauses selon lesquelles le fournisseur de services financiers se réserve le droit
+de modifier le taux d'intérêt dû par le consommateur ou dû à celui-ci, ou le montant de toutes autres charges afférentes à
+des services financiers, sans aucun préavis en cas de raison valable, pourvu que soit mise à la charge du professionnel
+l'obligation d'en informer la ou les autres parties contractantes dans les meilleurs délais et que celles-ci soient libres de
+réaliser immédiatement le contrat.
+
+Le point j ne fait pas non plus obstacle à des clauses selon lesquelles le professionnel se réserve le droit de modifier
+unilatéralement les conditions d'un contrat de durée indéterminée pourvu que soit mis à sa charge le devoir d'en informer le
+consommateur avec un préavis raisonnable et que celui-ci soit libre de résilier le contrat ;
+
+c) Les points g, j et l ne sont pas applicables aux :
+
+- transactions concernant les valeurs mobilières, instruments financiers et autres produits ou services dont le prix est lié
+aux fluctuations d'un cours ou d'un indice boursier ou d'un taux de marché financier que le professionnel ne contrôle pas ;
+
+- contrats d'achat ou de vente de devises, de chèques de voyage ou de mandats-poste internationaux libellés en devises ;
+
+d) Le point l ne fait pas obstacle aux clauses d'indexation de prix pour autant qu'elles soient licites et que le mode de
+variation du prix y soit explicitement décrit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°95-96 du 1 février 1995 - art. 1 () JORF 2 février 1995
 
 
