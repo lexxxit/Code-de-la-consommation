@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2004-07-10
+Version Consolidée au 2004-08-07
 
 # Partie législative
 
@@ -15571,7 +15571,7 @@ financiers susvisés, des informations nominatives contenues dans le fichier.
 
 Il est interdit à la Banque de France, aux établissements de crédit et aux services financiers de La Poste de remettre à
 quiconque copie, sous quelque forme que ce soit, des informations contenues dans le fichier, même à l'intéressé lorsqu'il
-exerce son droit d'accès conformément à l'article 35 de la loi n° 78-17 du 6 janvier 1978 précitée, sous peine des sanctions
+exerce son droit d'accès conformément à l'article 39 de la loi n° 78-17 du 6 janvier 1978 précitée, sous peine des sanctions
 prévues aux articles 43 et 44 de la même loi.
 
 **Nota:**
@@ -15583,7 +15583,7 @@ Nota - article relevant de l'ordre public économique de protection sociale par 
 
 	**Cite**:
 
-	  - Loi n°78-17 du 6 janvier 1978 - art. 35 (M)
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39 (M)
 	  - Loi n°78-17 du 6 janvier 1978 - art. 43 (M)
 	  - Loi n°78-17 du 6 janvier 1978 - art. 44 (Ab)
 	  - Loi n°84-46 1984-01-24
@@ -15606,8 +15606,7 @@ Nota - article relevant de l'ordre public économique de protection sociale par 
 
 	**Modifié par**:
 
-	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
-	  - Loi n°2003-710 du 1 août 2003 - art. 36 () JORF 2 août 2003
+	  - Loi n°2004-801 du 6 août 2004 - art. 18 () JORF 7 août 2004
 
 	**Cité par**:
 
