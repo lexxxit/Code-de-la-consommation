@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1998-07-02
+Version Consolidée au 1998-07-09
 
 # Partie législative
 
@@ -424,11 +424,16 @@ professionnels directement intéressés. Un décret en Conseil d'Etat fixe les m
 
 ###### Article L115-5
 
-Les produits agricoles ou alimentaires, bruts ou transformés, peuvent se voir reconnaître exclusivement une appellation
-d'origine contrôlée. Les dispositions des articles L. 115-2 à L. 115-4 et L. 115-8 à L. 115-15 ne leur sont pas applicables.
+La procédure d'attribution d'une appellation d'origine contrôlée est définie à l'article L. 641-2 du code rural, ci-après
+reproduit :
+
+"Art. L. 641-2. - Les produits agricoles ou alimentaires, bruts ou transformés, peuvent se voir reconnaître exclusivement une
+appellation d'origine contrôlée. Les dispositions des articles L. 115-2 à L. 115-4 et L. 115-8 à L. 115-15 du code de la
+consommation ne leur sont pas applicables.
 
 Dans les conditions prévues ci-après, ces produits peuvent bénéficier d'une appellation d'origine contrôlée s'ils répondent
-aux dispositions de l'article 115-1, possèdent une notoriété dûment établie et font l'objet de procédures d'agrément.
+aux dispositions de l'article L. 115-1 du code de la consommation, possèdent une notoriété dûment établie et font l'objet de
+procédures d'agrément.
 
 L'appellation d'origine contrôlée ne peut jamais être considérée comme présentant un caractère générique et tomber dans le
 domaine public.
@@ -438,37 +443,32 @@ aucun produit similaire, sans préjudice des dispositions législatives ou régl
 aucun autre produit ou service lorsque cette utilisation est susceptible de détourner ou d'affaiblir la notoriété de
 l'appellation d'origine.
 
-Les appellations d'origine relevant de la loi n° 49-1603 du 18 décembre 1949 relative à la reconnaissance officielle, dans le
-statut viticole, des vins délimités de qualité supérieure et celles qui sont en vigueur, au 1er juillet 1990, dans les
-départements d'outre-mer, conservent leur statut.
+Les appellations d'origine vins délimités de qualité supérieure mentionnées à l'article L. 641-24 et celles qui sont en
+vigueur, le 1er juillet 1990, dans les départements d'outre-mer conservent leur statut.".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°49-1603 1949-12-18
-	  - Code de la consommation L115-2 à L115-4, L115-8 à L115-15, 115-1
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L115-18 (M)
 	  - Code de la consommation - art. L115-7 (M)
 
+	**Cite**:
+
+	  - Code de la consommation L115-2 à L115-4, L115-8 à L115-15, 115-1
+	  - Code rural L641-2
+
 	**Nouveaux textes**:
 
 	  - Code rural - art. L641-2 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1919-05-06 art. 7-4
 
 
 ###### Article L115-6
@@ -536,27 +536,33 @@ Le décret délimite l'aire géographique de production et détermine les condit
 
 ###### Article L115-7
 
-Les appellations d'origine définies par voie législative ou réglementaire avant le 1er juillet 1990 sont considérées comme
-répondant aux conditions de l'article L. 115-6. Toute modification ultérieure des textes définissant ces appellations doit
-intervenir conformément à la procédure prévue au même article.
+Les dispositions transitoires relatives aux appellations d'origine en matière agricole et agro-alimentaire sont définies à
+l'article L. 641-4 du code rural, ci-après reproduit :
+
+"Art. L. 641-4. - Les appellations d'origine définies par voie législative ou réglementaire avant le 1er juillet 1990 sont
+considérées comme répondant aux conditions de l'article L. 641-3. Toute modification ultérieure des textes définissant ces
+appellations doit intervenir conformément à la procédure prévue au même article.
 
 Avant le 1er juillet 2000, les produits dont l'appellation d'origine a été définie par voie judiciaire avant le 1er juillet
 1990, ou a été acquise en application des articles 14 et 15 de la loi du 6 mai 1919 relative à la protection des appellations
 d'origine dans leur rédaction antérieure à la loi n° 90-558 du 2 juillet 1990 relative aux appellations d'origine contrôlées
 des produits agricoles ou alimentaires, bruts ou transformés, et pour lesquels une demande de reconnaissance en appellation
 d'origine contrôlée a été déposée auprès de l'Institut national des appellations d'origine avant le 31 décembre 1996, se
-verront attribuer cette reconnaissance, par décret, s'ils satisfont aux conditions fixées à l'article L. 115-5. A compter du
+verront attribuer cette reconnaissance, par décret, s'ils satisfont aux conditions fixées à l'article L. 641-3. A compter du
 1er juillet 2000, ou en cas de refus de reconnaissance de l'appellation d'origine contrôlée, ces appellations seront
-caduques.
+caduques.".
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code rural - art. L641-4 (M)
+
 	**Cite**:
 
+	  - Code rural L641-4, L641-3
 	  - Loi n°1919-05-06 art. 14, art. 15
 	  - Loi n°90-558 1990-07-02
-	  - Code de la consommation - art. L115-5 (M)
-	  - Code de la consommation - art. L115-6 (M)
 
 	**Anciens textes**:
 
@@ -568,11 +574,7 @@ caduques.
 
 	**Modifié par**:
 
-	  - Loi n°96-314 du 12 avril 1996 - art. 61 () JORF 13 avril 1996
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L641-4 (M)
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
 
 
 ##### Sous-section 3 : Procédure judiciaire de protection
@@ -949,13 +951,12 @@ Les peines prévues à l'article L. 115-16 ainsi que les dispositions de l'artic
 d'utilisation des mentions interdites en vertu des articles L. 115-3 et L. 115-9.
 
 Les peines prévues à l'article L. 115-16 sont également applicables en cas d'utilisation de toute mention interdite en vertu
-du quatrième alinéa de l'article L. 115-5.
+du quatrième alinéa de l'article L. 641-2 du code rural.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1919-05-06 art. 9-1
 	  - Loi n°1919-05-06 du 6 mai 1919 - art. 9-1 (Ab)
 
 	**Cité par**:
@@ -968,37 +969,43 @@ du quatrième alinéa de l'article L. 115-5.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
 
 	**Cite**:
 
 	  - Code de la consommation - art. L115-16 (M)
 	  - Code de la consommation - art. L115-17 (V)
 	  - Code de la consommation - art. L115-3 (V)
-	  - Code de la consommation - art. L115-5 (M)
 	  - Code de la consommation - art. L115-9 (V)
+	  - Code rural L641-2
 
 
 ##### Sous-section 5 : L'institut national des appellations d'origine.
 
 ###### Article L115-19
 
-L'Institut national des appellations d'origine des vins et eaux-de-vie prend le nom d'Institut national des appellations
-d'origine. L'Institut national des appellations d'origine comprend :
+L'organisation et le fonctionnement de l'Institut national des appellations d'origine sont définis à l'article L. 641-5 du
+code rural, ci-après reproduit :
 
-1° Le comité national compétent pour les vins, eaux-de-vie, cidres, poirés, apéritifs à base de cidres, de poirés ou de
+"Art. L. 641-5 - L'Institut national des appellations d'origine est un établissement public administratif, jouissant de la
+personnalité civile. Il comprend :
+
+1° Un comité national compétent pour les vins, eaux-de-vie, cidres, poirés, apéritifs à base de cidres, de poirés ou de
 vins ;
 
 2° Un comité national des produits laitiers ;
 
 3° Un comité national des produits autres que ceux couverts par les instances mentionnées ci-dessus.
 
-Ces comités sont composés de représentants professionnels, de représentants des administrations et de personnalités
-qualifiées permettant notamment la représentation des consommateurs.
+4° Un comité national pour les indications géographiques protégées.
 
-Chacun de ces comités se prononce pour les produits de sa compétence sur les questions mentionnées à l'article L. 115-20.
+Ces comités sont composés de représentants professionnels, de représentants des administrations et de personnes qualifiées
+assurant notamment la représentation des consommateurs.
+
+Chacun de ces comités se prononce pour les produits de sa compétence sur les questions mentionnées aux articles L. 641-2, L.
+641-3 et L. 641-6.
 
 Les membres de ces comités sont réunis en séance plénière pour la présentation du budget et de la politique générale de
 l'institut.
@@ -1008,35 +1015,29 @@ choisis parmi ces comités établit le budget de l'institut et détermine la pol
 d'origine contrôlées.
 
 Les présidents des comités nationaux et du conseil permanent sont nommés par arrêté conjoint du ministre chargé de l'économie
-et des finances et du ministre chargé de l'agriculture. Le président du conseil permanent est nommé pour deux ans. Il est
-choisi successivement dans chacun des comités nationaux.
+et du ministre de l'agriculture. Le président du conseil permanent est nommé pour deux ans. Il est choisi successivement dans
+chacun des comités nationaux.
 
-Les règles d'organisation et de fonctionnement de l'Institut national des appellations d'origine demeurent fixées dans les
-conditions prévues par l'article 20, alinéa 2, du décret du 30 juillet 1935 relatif à la défense du marché des vins et au
-régime économique de l'alcool, modifié par la loi n° 84-1008 du 16 novembre 1984 relative aux appellations d'origine dans le
-secteur viticole, et par ses textes d'application. Toutefois, les décrets prévus à cet alinéa 2 sont des décrets en Conseil
-d'Etat.
+Les règles d'organisation et de fonctionnement de l'Institut national des appellations d'origine sont fixées par décrets en
+Conseil d'Etat".
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L641-2, L641-3, L641-5, L641-6
 
 	**Anciens textes**:
 
 	  - Loi n°1919-05-06 du 6 mai 1919 - art. 7-7 (Ab)
-	  - Loi n°1919-05-06 art. 7-7
-
-	**Cite**:
-
-	  - Loi n°84-1008 1984-11-16
-	  - Code de la consommation - art. L115-20 (M)
-	  - Décret n°1935-07-30 art. 20
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
 
 	**Nouveaux textes**:
 
@@ -1045,26 +1046,53 @@ d'Etat.
 
 ###### Article L115-20
 
-Les compétences de l'Institut national des appellations d'origine, exercées conformément aux dispositions du décret du 30
-juillet 1935 précité et de ses textes d'application, sont étendues à l'ensemble des produits agricoles ou alimentaires, bruts
-ou transformés.
+Les compétences de l'Institut national des appellations d'origine sont définies à l'article L. 641-6 du code rural, ci-après
+reproduit :
 
-Après avis des syndicats de défense intéressés, l'Institut national des appellations d'origine propose la reconnaissance des
-appellations d'origine contrôlées, laquelle comporte la délimitation des aires géographiques de production et d'agrément de
-chacune de ces appellations d'origine contrôlées.
+"Art. L. 641-6 - L'Institut national des appellations d'origine propose, sur la base du cahier des charges visé aux articles
+L. 643-1 et L. 643-3, la reconnaissance des produits susceptibles de bénéficier d'une indication géographique protégée après
+avis de la Commission nationale des labels et des certifications de produits agricoles et alimentaires. Cette proposition,
+homologuée par arrêté conjoint du ministre de l'agriculture et du ministre chargé de la consommation, comprend la
+délimitation de l'aire géographique de production et la détermination des conditions de production de chacun de ces produits.
 
-Il donne son avis sur les dispositions nationales relatives à l'étiquetage et à la présentation de chacun des produits
-relevant de sa compétence. Il peut être consulté sur toute autre question relative aux appellations d'origine.
+"Le contrôle des conditions de production des produits bénéficiant d'une appellation d'origine est placé sous la
+responsabilité de l'Institut national des appellations d'origine. Le contrôle des conditions de production d'un produit
+bénéficiant d'une indication géographique protégée est placé sous la responsabilité de l'Institut national des appellations
+d'origine, qui peut en déléguer l'exercice à l'organisme certificateur agréé conformément à l'article L. 643-5 pour la
+délivrance du label ou de la certification de conformité sur lequel repose l'indication géographique protégée. Le non-respect
+de la délimitation de l'aire géographique ou d'une des conditions de production entraîne l'interdiction de l'utilisation,
+sous quelque forme ou dans quelque but que ce soit, du nom de l'appellation d'origine ou de l'indication géographique
+protégée, nonobstant l'application des peines prévues par l'article L. 115-16 du code de la consommation.
 
-Il contribue, en France et à l'étranger, à la promotion et à la défense des appellations d'origine mentionnées dans la
-présente section, ainsi qu'à la défense des appellations d'origine protégées et des indications géographiques protégées
-mentionnées à la section III du présent chapitre.
+"Le décret visé à l'article L. 641-3 peut comporter, pour toute personne intervenant dans les conditions de production de
+l'appellation concernée, l'obligation de tenir un ou plusieurs registres propres à permettre le contrôle de ces conditions.
+
+"L'Institut national des appellations d'origine donne son avis sur les dispositions nationales relatives à l'étiquetage et à
+la présentation de chacun des produits relevant de sa compétence. Il peut être consulté sur toute question relative aux
+appellations d'origine ou aux indications géographiques protégées.
+
+"Il contribue, en France et à l'étranger, à la promotion des appellations d'origine mentionnées au présent chapitre ainsi
+qu'à la défense des appellations d'origine protégées et des indications géographiques protégées.
+
+"Il peut, en France et à l'étranger, dans les mêmes conditions que les syndicats professionnels, constitués conformément aux
+dispositions du chapitre Ier du titre Ier du livre IV du code du travail, contribuer à la défense des appellations d'origine
+mentionnées dans le présent chapitre, ainsi que des appellations d'origine protégées, collaborer à cet effet avec les
+syndicats formés pour la défense de ces appellations et ester en justice pour cette défense.
+
+"Les agents de l'Institut national des appellations d'origine peuvent, à la demande de l'institut, être agréés et
+commissionnés conformément au 8° de l'article L. 215-1 du code de la consommation et avec des pouvoirs qui ne peuvent excéder
+ceux prévus à l'article L. 215-2 de ce même code en vue de contribuer à l'application des lois et règlements relatifs aux
+conditions de production des produits agricoles ou alimentaires, bruts ou transformés, bénéficiant d'une appellation
+d'origine ou d'une indication géographique protégée".
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°1935-07-30
+	  - Code rural L641-6, L643-1, L643-3
+	  - Code de la consommation - art. L115-16 (M)
+	  - Code de la consommation - art. L215-1 (M)
+	  - Code de la consommation - art. L215-2 (M)
 
 	**Anciens textes**:
 
@@ -1090,10 +1118,6 @@ mentionnées à la section III du présent chapitre.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Modifié par**:
-
-	  - Loi n°94-2 du 3 janvier 1994 - art. 2 () JORF 4 janvier 1994
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret du 7 août 1996 - art. 1 (Ab)
@@ -1109,6 +1133,10 @@ mentionnées à la section III du présent chapitre.
 	  - TXT_SOURCE: Décret du 7 août 1996 - art. 9 (Ab)
 	  - TXT_SOURCE: Décret n°1996-08-07 du 7 août 1996
 
+	**Modifié par**:
+
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
+
 	**Nouveaux textes**:
 
 	  - Code rural - art. L641-6 (M)
@@ -1118,10 +1146,17 @@ mentionnées à la section III du présent chapitre.
 
 ###### Article L115-21
 
-Les denrées alimentaires et les produits agricoles non alimentaires et non transformés peuvent bénéficier d'un label agricole
-ou faire l'objet d'une certification de conformité aux règles définies dans un cahier des charges.
+Les produits susceptibles de bénéficier d'un label agricole ou d'une certification de conformité sont définis à l'article L.
+643-1 du code rural, ci-après reproduit :
+
+"Art. L. 643-1. - Les denrées alimentaires et les produits agricoles non alimentaires et non transformés peuvent bénéficier
+d'un label agricole ou faire l'objet d'une certification de conformité aux règles définies dans un cahier des charges".
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L643-1
 
 	**Anciens textes**:
 
@@ -1138,7 +1173,7 @@ ou faire l'objet d'une certification de conformité aux règles définies dans u
 
 	**Modifié par**:
 
-	  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
 
 	**Nouveaux textes**:
 
@@ -1147,20 +1182,26 @@ ou faire l'objet d'une certification de conformité aux règles définies dans u
 
 ###### Article L115-22
 
-Les labels agricoles attestent qu'une denrée alimentaire ou qu'un produit agricole non alimentaire et non transformé possède
-un ensemble distinct de qualités et caractéristiques spécifiques préalablement fixées dans un cahier des charges et
-établissant un niveau de qualité supérieure.
+L'objet des labels agricoles est défini à l'article L. 643-2 du code rural, ci-après reproduit :
 
-L'origine géographique ne peut figurer parmi les caractéristiques spécifiques que si elle est enregistrée comme indication
-géographique protégée, sous réserve des dispositions du deuxième alinéa de l'article L. 115-23-1.
+"Art. L. 643-2. - Les labels agricoles attestent qu'une denrée alimentaire ou qu'un produit agricole non alimentaire et non
+transformé possède un ensemble distinct de qualités et caractéristiques spécifiques préalablement fixées dans un cahier des
+charges et établissant un niveau de qualité supérieure.
 
-Ce produit doit se distinguer des produits similaires de l'espèce habituellement commercialisés, notamment par ses conditions
-particulières de production ou de fabrication et, le cas échéant, par son origine géographique.
+"L'origine géographique ne peut figurer parmi les caractéristiques spécifiques que si elle est enregistrée comme indication
+géographique protégée, sous réserve des dispositions du deuxième alinéa de l'article L. 643-4.
 
-Seuls des producteurs ou des transformateurs organisés en groupement, quelle qu'en soit la forme juridique, sont habilités à
-demander la délivrance d'un label.
+"Ce produit doit se distinguer des produits similaires de l'espèce habituellement commercialisés, notamment par ses
+conditions particulières de production ou de fabrication et, le cas échéant, par son origine géographique.
+
+"Seuls des producteurs ou des transformateurs organisés en groupement, quelle qu'en soit la forme juridique, sont habilités à
+demander la délivrance d'un label".
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L643-2
 
 	**Anciens textes**:
 
@@ -1170,19 +1211,15 @@ demander la délivrance d'un label.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Modifié par**:
-
-	  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
-
 	**Cité par**:
 
 	  - Décret n°96-193 du 12 mars 1996 - art. 18 (Ab)
 	  - Décret n°96-193 du 12 mars 1996 - art. 8 (M)
 	  - Code rural - art. L671-5 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la consommation - art. L115-23-1 (M)
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
 
 	**Nouveaux textes**:
 
@@ -1191,13 +1228,19 @@ demander la délivrance d'un label.
 
 ###### Article L115-23
 
-La certification de conformité atteste qu'une denrée alimentaire ou qu'un produit agricole non alimentaire et non transformé
-est conforme à des caractéristiques spécifiques ou à des règles préalablement fixées dans un cahier des charges portant,
-selon le cas, sur la production, la transformation ou le conditionnement et, le cas échéant, l'origine géographique de la
-denrée ou du produit lorsque cette origine est enregistrée comme indication géographique protégée, sous réserve des
-dispositions du deuxième alinéa de l'article L. 115-23-1.
+L'objet de la certification de conformité est défini à l'article L. 643-3 du code rural, ci-après reproduit :
+
+"Art. L. 643-3. - La certification de conformité atteste qu'une denrée alimentaire ou qu'un produit agricole non alimentaire
+et non transformé est conforme à des caractéristiques spécifiques ou à des règles préalablement fixées dans un cahier des
+charges portant, selon le cas, sur la production, la transformation ou le conditionnement et, le cas échéant, l'origine
+géographique de la denrée ou du produit lorsque cette origine est enregistrée comme indication géographique protégée, sous
+réserve des dispositions du deuxième alinéa de l'article L. 643-4".
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L643-3
 
 	**Anciens textes**:
 
@@ -1216,11 +1259,7 @@ dispositions du deuxième alinéa de l'article L. 115-23-1.
 
 	**Modifié par**:
 
-	  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
-
-	**Cite**:
-
-	  - Code de la consommation - art. L115-23-1 (M)
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
 
 	**Nouveaux textes**:
 
@@ -1229,38 +1268,41 @@ dispositions du deuxième alinéa de l'article L. 115-23-1.
 
 ###### Article L115-23-1
 
-Le label ou la certification de conformité ne peut pas comporter de mention géographique si cette dernière n'est pas
-enregistrée comme indication géographique protégée.
+Le principe d'interdiction de faire figurer dans un label ou une certification de conformité une mention géographique non
+enregistrée comme indication géographique protégée est inscrit à l'article L. 643-4 du code rural, ci-après reproduit :
 
-Toutefois, si l'autorité administrative a demandé l'enregistrement de cette mention géographique comme indication
+"Art. L. 643-4 - Le label ou la certification de conformité ne peut pas comporter de mention géographique si cette dernière
+n'est pas enregistrée comme indication géographique protégée.
+
+"Toutefois, si l'autorité administrative a demandé l'enregistrement de cette mention géographique comme indication
 géographique protégée, le label ou la certification de conformité peut comporter cette mention, y compris dans les
 caractéristiques spécifiques, jusqu'à la date de la décision relative à son enregistrement.
 
-L'interdiction mentionnée au premier alinéa ne s'applique pas lorsque la dénomination qui intègre cette mention est générique
-ou désigne un produit bénéficiant d'une attestation de spécificité.
+"L'interdiction mentionnée au premier alinéa ne s'applique pas lorsque la dénomination qui intègre cette mention est
+générique ou désigne un produit bénéficiant d'une attestation de spécificité.
 
-Les produits agricoles et les denrées alimentaires bénéficiant, avant la publication de la loi n° 94-2 du 3 janvier 1994
-relative à la reconnaissance de qualité des produits agricoles et alimentaires, d'un label agricole ou d'une certification de
-conformité peuvent continuer de porter une mention d'origine géographique sans bénéficier d'une indication géographique
-protégée pendant une période de huit ans à compter de la date de publication de la loi précitée.
+"Les produits agricoles et les denrées alimentaires bénéficiant, avant le 4 janvier 1994, d'un label agricole ou d'une
+certification de conformité peuvent continuer de porter une mention d'origine géographique sans bénéficier d'une indication
+géographique protégée pendant une période de huit ans à compter de la date précitée.
+
+"Par dérogation aux dispositions du premier alinéa, pour les produtis de la pêche maritime, un label agricole ou une
+certification de conformité peut comporter une mention géographique qui n'est pas enregistrée comme indication géographique
+protégée ou reconnue comme appellation d'origine contrôlée. Les obligations d'information des consommateurs prévues à
+l'article L. 642-4 sont applicables."
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°60-808 du 5 août 1960 - art. 28-1-2 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°94-2 1994-01-03
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
+	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -1271,24 +1313,37 @@ protégée pendant une période de huit ans à compter de la date de publication
 
 	  - Code rural - art. L643-4 (M)
 
+	**Cite**:
+
+	  - Code rural L643-4
+
 
 ###### Article L115-23-2
 
-Les labels agricoles et les certificats de conformité sont délivrés par des organismes certificateurs agréés par l'autorité
-administrative.
+La procédure de délivrance des labels agricoles et des certificats de conformité est définie à l'article L. 643-5 du code
+rural, ci-après reproduit :
 
-Les organismes certificateurs doivent offrir des garanties d'impartialité et d'indépendance et n'être, notamment, ni
-producteur, ni fabricant, ni importateur, ni vendeur de produits de même nature et justifier de leur compétence et de
+"Art. L. 643-5 - Les labels agricoles et les certificats de conformité sont délivrés par des organismes certificateurs agréés
+par l'autorité administrative. Seuls peuvent être agréés les organismes accrédités par une instance reconnue à cet effet par
+l'autorité administrative.
+
+"Les organismes certificateurs doivent offrir des garanties d'impartialité et d'indépendance et n'être, notamment, ni
+producteurs, ni fabricants, ni importateurs, ni vendeurs de produits de même nature et justifier de leur compétence et de
 l'efficacité de leur contrôle.
 
-L'agrément ne peut être accordé que sur vérification de ces conditions et de la capacité de l'organisme à assurer les
+"L'agrément ne peut être accordé que sur vérification de ces conditions et de la capacité de l'organisme à assurer les
 contrôles de la qualité des produits dotés de labels ou de certificats de conformité.
+
+"Un décret en Conseil d'Etat définit les modalités particulières de contrôle de la reconnaissance de qualité applicables aux
+producteurs agricoles et aux artisans qui commercialisent leurs produits en petite quantité directement sur le marché local
+de leur zone de production, y compris lorsque ces produits sont cédés à une entreprise du commerce de détail indépendant de
+l'alimentation implantée sur ce marché local".
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°60-808 du 5 août 1960 - art. 28-1-2 (Ab)
+	  - Code rural L643-5
 
 	**Cité par**:
 
@@ -1304,9 +1359,13 @@ contrôles de la qualité des produits dotés de labels ou de certificats de con
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Nouveaux textes**:
 
@@ -1315,15 +1374,19 @@ contrôles de la qualité des produits dotés de labels ou de certificats de con
 
 ###### Article L115-23-3
 
-Les labels agricoles ne peuvent être utilisés que s'ils ont fait l'objet d'une homologation par arrêté interministériel.
+L'objet de l'homologation interministérielle des labels agricoles et des certifications de conformité est défini à l'article
+L. 643-6 du code rural, ci-après reproduit :
 
-Il en est de même des certifications de conformité qui attestent l'origine géographique.
+"Art. L. 643-6. - Les labels agricoles ne peuvent être utilisés que s'ils ont fait l'objet d'une homologation par arrêté
+interministériel.
+
+Il en est de même des certifications de conformité qui attestent l'origine géographique".
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°60-808 du 5 août 1960 - art. 28-1-2 (Ab)
+	  - Code rural L643-6
 
 	**Cité par**:
 
@@ -1334,9 +1397,13 @@ Il en est de même des certifications de conformité qui attestent l'origine gé
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Nouveaux textes**:
 
@@ -1345,32 +1412,35 @@ Il en est de même des certifications de conformité qui attestent l'origine gé
 
 ###### Article L115-23-4
 
-Des décrets en Conseil d'Etat précisent, en tant que de besoin, les modalités d'application des articles L. 115-22 à L.
-115-23-3, et notamment les conditions que doivent remplir les cahiers des charges, leurs modalités d'examen et, s'il y a
-lieu, d'homologation, les caractéristiques des organismes certificateurs, leurs modalités de fonctionnement et les conditions
-de leur agrément.
+Les modalités d'application des dispositions relatives aux labels agricoles et aux certifications de conformité sont
+renvoyées à des décrets en Conseil d'Etat comme le dispose l'article L. 643-7 du code rural, ci-après reproduit :
+
+"Art. L. 643-7. - Des décrets en Conseil d'Etat précisent, en tant que de besoin, les modalités d'application des articles L.
+643-2 à L. 643-6, et notamment les conditions que doivent remplir les cahiers des charges, leurs modalités d'examen et, s'il
+y a lieu, d'homologation, les caractéristiques des organismes certificateurs, leurs modalités de fonctionnement et les
+conditions de leur agrément".
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Loi n°60-808 du 5 août 1960 - art. 28-1-2 (Ab)
+	  - Code rural - art. L643-7 (Ab)
+
+	**Cite**:
+
+	  - Code rural L643-7
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de la consommation L115-22 à L115-23-3
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L643-7 (Ab)
+	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article L115-24
@@ -1381,7 +1451,7 @@ Sera puni des peines prévues à l'article L. 213-1 quiconque aura :
 
 2° Délivré, utilisé ou tenté d'utiliser un label agricole n'ayant pas fait l'objet d'une homologation ;
 
-3° Assuré une certification sans satisfaire aux conditions prévues à l'article L. 115-23 ;
+3° Assuré une certification sans satisfaire aux conditions prévues aux articles L. 643-3 à L. 643-7 du code rural ;
 
 4° Utilisé un mode de présentation faisant croire ou de nature à faire croire qu'un produit bénéficie d'un label agricole ou
 d'une certification ;
@@ -1393,7 +1463,6 @@ public.
 
 	**Anciens textes**:
 
-	  - Loi n°60-808 1960-08-05 art. 28-2 al. 1 à al. 6
 	  - Loi n°60-808 du 5 août 1960 - art. 28-2 (Ab)
 
 	**Cité par**:
@@ -1409,36 +1478,40 @@ public.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
 
 	**Cite**:
 
-	  - Code de la consommation - art. L115-23 (M)
 	  - Code de la consommation - art. L213-1 (M)
+	  - Code rural L643-3 à L643-7
 
 
 ###### Article L115-25
 
 Les dispositions des chapitres II à VI du titre Ier du livre II du présent code concernant la recherche et la constatation
-des infractions sont applicables aux prescriptions des articles L. 115-22 à L. 115-24 et des textes pris pour leur
-application.
+des infractions sont applicables aux prescriptions des articles L. 643-2 à L. 643-7 du code rural et L. 115-24 du présent
+code et des textes pris pour leur application.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code rural L643-2 à L643-7
+	  - Code de la consommation L115-22 à L115-24
+
 	**Anciens textes**:
 
-	  - Loi n°60-808 1960-08-05 art. 28-2 al. 7
 	  - Loi n°60-808 du 5 août 1960 - art. 28-2 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
 
 	**Cité par**:
 
@@ -1447,30 +1520,32 @@ application.
 	  - Code rural - art. L642-3 (M)
 	  - Code rural - art. L671-6 (M)
 
-	**Cite**:
+	**Liens**:
 
-	  - Code de la consommation L115-22 à L115-24
+	  - SPEC_APPLI: Code de la consommation L115-18 (modalités d'application)
 
 
 ###### Article L115-26
 
-Les labels agricoles et les certificats définis à l'article L. 115-23 ne peuvent être utilisés pour les produits bénéficiant
-d'une appellation d'origine, les vins délimités de qualité supérieure et les vins de pays.
+Les interdictions d'utilisation des labels agricoles et des certificats de conformité pour les produits bénéficiant d'une
+appellation d'origine ou pour certains vins sont définies à l'article L. 643-8 du code rural, ci-après reproduit :
+
+"Art. L. 643-8. - Les labels agricoles et les certificats de conformité ne peuvent être utilisés pour les produits
+bénéficiant d'une appellation d'origine, les vins délimités de qualité supérieure et les vins de pays".
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°60-808 du 5 août 1960 - art. 28-3 (M)
 	  - Loi n°60-808 du 5 août 1960 - art. 28-3 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
 
 	**Cite**:
 
@@ -1489,24 +1564,27 @@ d'une appellation d'origine, les vins délimités de qualité supérieure et les
 
 ###### Article L115-26-1
 
-Constitue une appellation d'origine protégée ou une indication géographique protégée la dénomination inscrite au registre des
-appellations d'origine protégées et des indications géographiques protégées tenu par la Commission des communautés
-européennes.
+L'appellation d'origine protégée ou indication géographique protégée et l'attestation de spécificité sont définies à
+l'article L. 642-1 du code rural, ci-après reproduit :
+
+"Art. L. 642-1. - Constitue une appellation d'origine protégée ou une indication géographique protégée la dénomination
+inscrite au registre des appellations d'origine protégées et des indications géographiques protégées tenu par la Commission
+des Communautés européennes.
 
 Constitue une attestation de spécificité le nom du produit qui figure au registre des attestations de spécificité tenu par la
-Commission des communautés européennes.
+Commission des Communautés européennes.
 
-Seules les appellations d'origine mentionnées dans la section I du présent chapitre peuvent demander leur enregistrement
-comme appellations d'origine protégées.
+Seules les appellations d'origine mentionnées aux articles L. 641-1 à L. 641-6 peuvent faire l'objet d'une demande en vue de
+leur enregistrement comme appellations d'origine protégées.
+
+Seuls les produits ayant obtenu un label ou une certification de conformité peuvent bénéficier d'une indication géographique
+protégée. La demande d'enregistrement d'une indication géographique protégée s'effectue dans le cadre des dispositions du
+chapitre III du présent titre et suivant la procédure fixée par l'article L. 641-6.
 
 La demande d'enregistrement d'une indication géographique ou d'une attestation de spécificité ne peut s'effectuer que dans le
-cadre des dispositions de la section II du présent chapitre.
+cadre des dispositions du chapitre III du présent titre".
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°60-808 du 5 août 1960 - art. 28-3 (M)
 
 	**Cité par**:
 
@@ -1517,28 +1595,38 @@ cadre des dispositions de la section II du présent chapitre.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-2 du 3 janvier 1994 - art. 4 () JORF 4 janvier 1994
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L642-1 (M)
 
+	**Cite**:
+
+	  - Code rural L641-1 à L641-6, L642-1
+
 
 ###### Article L115-26-2
 
-Les organismes certificateurs agréés mentionnés à l'article L. 115-23-2 assurent le contrôle du respect des cahiers des
-charges des indications géographiques protégées et des attestations de spécificité.
+Les modalités de contrôle du respect des cahiers des charges des indications géographiques protégées et des attestations de
+spécificité sont définies à l'article L. 642-2 du code rural, ci-après reproduit :
 
-Toutefois, un décret en Conseil d'Etat définit, en tant que de besoin, des modalités particulières de contrôle pour les
-producteurs agricoles et les artisans qui commercialisent leur production en petite quantité directement sur le marché local.
+"Art. L. 642-2. - Les organismes certificateurs agréés mentionnés à l'article L. 643-5 assurent le contrôle du respect des
+cahiers des charges des attestations de spécificité et, lorsque l'Institut national des appellations d'origine leur en a
+délégué la charge, des indications géographiques protégées.
+
+"Toutefois, un décret en Conseil d'Etat définit, en tant que de besoin, des modalités particulières de contrôle pour les
+producteurs agricoles et les artisans qui commercialisent leur production en petite quantité directement sur le marché local,
+y compris lorsque les produits sont cédés à une entreprise du commerce de détail indépendant de l'alimentation implantée sur
+ce marché local".
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°60-808 du 5 août 1960 - art. 28-3 (M)
+	  - Code rural L642-2, L643-5
 
 	**Cité par**:
 
@@ -1549,13 +1637,9 @@ producteurs agricoles et les artisans qui commercialisent leur production en pet
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-2 du 3 janvier 1994 - art. 4 () JORF 4 janvier 1994
-
-	**Cite**:
-
-	  - Code de la consommation - art. L115-23-2 (M)
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
 
 	**Nouveaux textes**:
 
@@ -1596,18 +1680,31 @@ protégées et aux attestations de spécificité.
 
 ###### Article L115-26-4
 
-L'utilisation d'indication d'origine ou de provenance ne doit pas être susceptible d'induire le consommateur en erreur sur
-les caractéristiques du produit, de détourner ou d'affaiblir la notoriété d'une dénomination enregistrée comme indication
-géographique protégée ou comme attestation de spécificité.
+Les conditions d'utilisation d'une indication d'origine ou de provenance sont définies à l'article L. 642-4 du code rural,
+ci-après reproduit :
 
-Un décret en Conseil d'Etat pris en application de l'article L. 214-1 fixe en tant que de besoin les conditions d'application
-du précédent alinéa.
+"Art. L. 642-4. - L'utilisation d'indication d'origine ou de provenance ne doit pas être susceptible d'induire le
+consommateur en erreur sur les caractéristiques du produit, de détourner ou d'affaiblir la notoriété d'une dénomination
+reconnue comme appellation d'origine contrôlée ou enregistrée comme indication géographique protégée ou comme attestation de
+spécificité, ou, de façon plus générale, de porter atteinte, notamment par l'utilisation abusive d'une mention géographique
+dans une dénomination de vente, au caractère spécifique de la protection réservée aux appellations d'origine contrôlées, aux
+indications géographiques protégées et aux attestations de spécificité.
+
+"Pour les produits ne bénéficiant pas d'une appellation d'origine contrôlée ou d'une indication géographique protégée,
+l'utilisation d'une indication d'origine ou de provenance doit s'accompagner d'une information sur la nature de l'opération
+liée à cette indication, dans tous les cas où cela est nécessaire à la bonne information du consommateur.
+
+"Toutefois, cette disposition ne s'applique pas aux vins, aux vins aromatisés, aux boissons aromatisées à base de vin, aux
+cocktails aromatisés de produits vitivinicoles ainsi qu'aux spiritueux.
+
+"Tout opérateur utilisant une indication d'origine ou de provenance pour une denrée alimentaire ou un produit agricole non
+alimentaire et non transformé doit disposer des éléments justifiant cette utilisation et être en mesure de les présenter à
+toute réquisition des agents visés à l'article L. 215-1 du code de la consommation.
+
+"Un décret en Conseil d'Etat, pris en application de l'article L. 214-1 du code de la consommation, définit les conditions
+d'application du présent article".
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°60-808 du 5 août 1960 - art. 28-3 (M)
 
 	**Cité par**:
 
@@ -1617,13 +1714,18 @@ du précédent alinéa.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-2 du 3 janvier 1994 - art. 4 () JORF 4 janvier 1994
+	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
-	  - Code de la consommation - art. L214-1 (M)
+	  - Code de la consommation - art. L215-1 (M)
+	  - Code rural L642-4
 
 	**Nouveaux textes**:
 
@@ -3594,6 +3696,525 @@ mères, à l'interdiction faite au second alinéa de l'article L. 121-52.
 	  - Code de la consommation - art. L122-16 (V)
 
 
+##### Section 9 : Contrat de jouissance d'immeuble à temps partagé.
+
+###### Article L121-60
+
+Est soumis aux dispositions de la présente section tout contrat ou groupe de contrats, conclu à titre onéreux, par lequel un
+professionnel confère à un consommateur, directement ou indirectement, la jouissance d'un ou plusieurs biens immobiliers à
+usage d'habitation, par périodes déterminées ou déterminables, pour au moins trois années ou pour une durée indéterminée.
+
+Est soumis aux dispositions de la présente section le contrat de souscription ou de cession de parts ou actions de sociétés
+d'attribution d'immeubles en jouissance à temps partagé régi par la loi n° 86-18 du 6 janvier 1986 relative aux sociétés
+d'attribution d'immeubles en jouissance à temps partagé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°70-9 du 2 janvier 1970 - art. 1 (V)
+	  - Loi n°70-9 du 2 janvier 1970 - art. 2 (V)
+	  - Décret n°2015-1090 du 28 août 2015 - art. (VD)
+	  - Code de la consommation - art. L121-16-1 (VT)
+	  - Code de la consommation - art. L121-20-12 (T)
+	  - Code de la consommation - art. L121-29 (VT)
+	  - Code de la consommation - art. L121-61 (VT)
+	  - Code de la consommation - art. L121-65 (VT)
+	  - Code de la consommation - art. L121-69 (VT)
+	  - Code de la consommation - art. L121-70 (VT)
+	  - Code de la consommation - art. L121-75 (VT)
+	  - Code du tourisme. - art. L211-21 (V)
+	  - Code du tourisme. - art. L211-23 (VD)
+	  - Code du tourisme. - art. L211-24 (V)
+	  - Code du tourisme. - art. L212-4 (Ab)
+	  - Code du tourisme. - art. R211-42 (V)
+
+	**Cite**:
+
+	  - Loi n°86-18 du 6 janvier 1986 (V)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+
+
+###### Article L121-61
+
+L'offre de contracter est établie par écrit et indique :
+
+1° L'identité et le domicile du professionnel ou, s'il s'agit d'une personne morale, sa dénomination, sa forme juridique et
+son siège ; s'il y a lieu, ceux du propriétaire des locaux et de l'intermédiaire, ainsi que le lien juridique existant entre
+eux ;
+
+2° La désignation et le descriptif précis du ou des locaux et de leur environnement ou les éléments permettant de les
+déterminer et, si l'immeuble est en construction, les indications essentielles relatives aux délais d'exécution des travaux,
+au raccordement aux divers réseaux, aux garanties d'achèvement ou de remboursement en cas de non-achèvement et au permis de
+construire ;
+
+3° Les indications essentielles relatives à l'administration de l'immeuble ;
+
+4° L'objet du contrat, la nature juridique du droit au titre duquel le consommateur jouira des locaux, la durée de ce droit,
+sa date de prise d'effet et les principales conditions légales de son exercice avec l'indication éventuelle de celles qui
+restent à remplir ;
+
+5° La date limite et les conditions de réalisation de l'acte définitif si l'offre tend à la formation d'un avant-contrat ;
+
+6° La durée et la fréquence de la période unitaire de jouissance ;
+
+7° Les dates d'occupation ou, le cas échéant, leurs modalités de fixation ainsi que les modalités de détermination des locaux
+occupés ;
+
+8° Les installations et équipements communs mis à la disposition du consommateur et les services fournis, à titre accessoire,
+ainsi que leur prestataire, les conditions d'accès à ces équipements et installations et une estimation du coût de cet accès
+pour le consommateur ;
+
+9° Le prix initial, les frais ainsi que le montant détaillé de toutes les sommes dues périodiquement ou leurs éléments de
+détermination ; le taux d'évolution annuel desdites sommes au cours de la période triennale précédant l'offre ou, si cette
+information n'est pas disponible, une mention avertissant du risque d'augmentation ; le montant ou les éléments de
+détermination des impôts, taxes et redevances obligatoires, à la date de l'offre ;
+
+10° Le mode de paiement du prix et, le cas échéant, le recours à un crédit quelle qu'en soit la forme ;
+
+11° L'affiliation ou la non-affiliation du professionnel à une bourse d'échanges et la possibilité offerte au consommateur
+d'y adhérer, ainsi que les conditions, en particulier financières, et effets essentiels de cette affiliation et de cette
+adhésion ;
+
+12° La mention du caractère limitatif de l'énumération des frais, charges ou obligations de nature contractuelle.
+
+L'offre est signée par le professionnel. Elle indique sa date et son lieu d'émission.
+
+Les mentions devant figurer dans l'offre sont précisées par un arrêté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-70 (VT)
+	  - Code de la consommation - art. L121-75 (VT)
+	  - Code de la consommation - art. L121-76 (VT)
+	  - Code de la consommation - art. L121-79-1 (VT)
+	  - Code de la consommation - art. L121-79-2 (VD)
+
+
+###### Article L121-62
+
+L'offre reproduit en caractères très apparents les dispositions des articles L. 121-63 à L. 121-68.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-63 (VT)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-79-2 (VD)
+
+
+###### Article L121-63
+
+L'offre, complétée par la mention de l'identité et du domicile du consommateur, est remise ou envoyée à ce dernier en deux
+exemplaires, dont l'un, qui lui est réservé, comporte un coupon détachable destiné à faciliter l'exercice de la faculté de
+rétractation prévue à l'article L. 121-64. Ce coupon rappelle la mention de l'identité et du domicile ou du siège du
+professionnel.
+
+L'offre est maintenue pendant un délai de sept jours au moins à compter de sa réception par le consommateur. La preuve de la
+date de réception incombe au professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-62 (VT)
+	  - Code de la consommation - art. L121-64 (VT)
+	  - Code de la consommation - art. L121-65 (VT)
+	  - Code de la consommation - art. L121-67 (VT)
+	  - Code de la consommation - art. L121-68 (VT)
+	  - Code de la consommation - art. L121-70 (VT)
+	  - Code de la consommation - art. L121-76 (VT)
+	  - Code de la consommation - art. L121-79-2 (VT)
+
+
+###### Article L121-64
+
+L'acceptation de l'offre résulte de sa signature par le consommateur, précédée de la mention manuscrite de la date et du
+lieu, suivie de son envoi au professionnel par lettre recommandée avec demande d'avis de réception ou, à défaut, par tout
+autre moyen présentant des garanties équivalentes pour la détermination de la date d'envoi.
+
+Dans les mêmes formes, le consommateur peut se rétracter dans un délai de dix jours à compter de l'envoi au professionnel de
+l'offre acceptée, sans indemnité ni frais, à l'exception éventuelle des frais tarifés nécessairement engagés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-63 (VT)
+	  - Code de la consommation - art. L121-66 (VT)
+	  - Code de la consommation - art. L121-67 (VT)
+	  - Code de la consommation - art. L121-71 (VT)
+
+
+###### Article L121-65
+
+Les délais prévus par les articles L. 121-63 et L. 121-64 qui expireraient un samedi, un dimanche ou un jour férié ou chômé
+sont prorogés jusqu'au premier jour ouvrable suivant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+
+	**Cité par**:
+
+	  - Arrêté du 15 juin 2010 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-63 (VT)
+
+
+###### Article L121-66
+
+Avant l'expiration du délai de rétractation prévu à l'article L. 121-64, nul ne peut exiger ou recevoir du consommateur,
+directement ou indirectement, aucun versement ou engagement de versement à quelque titre ou sous quelque forme que ce soit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Cité par**:
+
+	  - Décret n°94-490 du 15 juin 1994 - art. 32-1 (Ab)
+	  - Code du tourisme. - art. R211-49 (V)
+	  - Code du tourisme. - art. R212-11 (T)
+
+	**Créé par**:
+
+	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-64 (VT)
+
+
+###### Article L121-67
+
+Lorsqu'il est financé par un crédit porté à la connaissance du professionnel, le contrat est formé sous la condition
+suspensive de l'obtention de ce crédit.
+
+L'exercice par le consommateur de la faculté de rétractation prévue à l'article L. 121-64 emporte résiliation de plein droit
+du contrat de crédit affecté au financement du contrat de jouissance d'immeuble à temps partagé, sans frais ni indemnité, à
+l'exception éventuelle des frais tarifés nécessairement engagés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-64 (VT)
+
+
+###### Article L121-68
+
+Lorsque le consommateur réside en France ou lorsque le bien ou l'un des biens est situé sur le territoire français, l'offre
+est rédigée en langue française.
+
+L'offre est en outre rédigée, au choix du consommateur, dans la langue ou l'une des langues de l'Etat membre dans lequel il
+réside ou dont il est ressortissant, parmi les langues officielles de la Communauté européenne.
+
+Lorsqu'en application des alinéas qui précèdent l'offre est rédigée en deux langues le consommateur signe, à son choix, l'une
+ou l'autre version.
+
+Lorsque le bien ou l'un des biens est situé dans un autre Etat membre de la Communauté européenne que la France et que le
+contrat n'est pas rédigé dans la langue de cet Etat en application du présent article, une traduction conforme dans cette
+langue est remise au consommateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-70 (VT)
+	  - Code de la consommation - art. L121-76 (VT)
+
+
+###### Article L121-69
+
+Toute publicité relative à tout contrat ou groupe de contrats visé à l'article L. 121-60 indique la possibilité d'obtenir le
+texte des offres proposées ainsi que l'adresse du lieu où il peut être retiré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-60 (VT)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-70 (VT)
+	  - Code de la consommation - art. L121-72 (VT)
+	  - Code de la consommation - art. L121-73 (VT)
+	  - Code de la consommation - art. L121-75 (VT)
+	  - Code de la consommation - art. L121-79-3 (VD)
+
+
+###### Article L121-70
+
+Est puni de 100 000 F d'amende le fait :
+
+1° Pour tout professionnel, de soumettre à un consommateur une offre tendant à la conclusion de tout contrat ou groupe de
+contrats visé à l'article L. 121-60 sans que cette offre soit établie par écrit, contienne les mentions énumérées à l'article
+L. 121-61 et reproduise en caractères très apparents les dispositions des articles L. 121-63 à L. 121-68 ;
+
+2° Pour tout annonceur, de diffuser ou de faire diffuser pour son compte une publicité non conforme aux dispositions de
+l'article L. 121-69.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-60 (V)
+	  - Code de la consommation - art. L121-61 (V)
+	  - Code de la consommation - art. L121-69 (V)
+	  - Code de la consommation L121-60, L121-61, L121-63 à L121-68, L121-69
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-72 (VT)
+	  - Code de la consommation - art. L141-1 (M)
+
+
+###### Article L121-71
+
+Est puni de 200 000 F d'amende le fait, pour tout professionnel, d'exiger ou de recevoir du consommateur, directement ou
+indirectement, tout versement ou engagement de versement, à quelque titre et sous quelque forme que ce soit, avant
+l'expiration du délai de rétractation prévu à l'article L. 121-64.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-64 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-72 (V)
+	  - Code de la consommation - art. L141-1 (M)
+
+
+###### Article L121-72
+
+Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code
+pénal, des infractions définies aux articles L. 121-70 et L. 121-71. Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-70 (M)
+	  - Code de la consommation - art. L121-71 (M)
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L141-1 (M)
+
+
+###### Article L121-73
+
+Est réputée non écrite toute clause qui attribue compétence à une juridiction d'un Etat non partie à la convention de
+Bruxelles du 27 septembre 1968 et à la convention de Lugano du 16 septembre 1988 concernant la compétence judiciaire et
+l'exécution des décisions en matière civile et commerciale, lorsque le consommateur a son domicile ou sa résidence habituelle
+en France ou lorsque le bien ou l'un des biens est situé sur le territoire d'un Etat partie à ces conventions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Convention 1968-09-27, signée à Bruxelles
+	  - Convention 1988-09-16, signée à Lugano
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+
+
+###### Article L121-74
+
+Lorsque le bien ou l'un des biens est situé sur le territoire d'un Etat membre de la Communauté européenne, et lorsque la loi
+qui régit le contrat ne comporte pas des règles conformes à la directive 94/47/CE du Parlement européen et du Conseil, du 26
+octobre 1994, concernant la protection des acquéreurs pour certains aspects des contrats portant sur l'acquisition d'un droit
+d'utilisation à temps partiel de biens immobiliers, il sera fait impérativement application des dispositions mises en
+vigueur, pour respecter ladite directive, par l'Etat sur le territoire duquel est situé ce bien, ou, à défaut, des
+dispositions de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Directive CEE 94-97 1994-10-26 Conseil
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+
+
+###### Article L121-75
+
+Lorsque le bien ou l'un des biens n'est pas situé sur le territoire d'un Etat membre de la Communauté européenne, le
+consommateur qui a sa résidence habituelle dans un Etat membre de la Communauté européenne ne peut être privé, quelle que
+soit la loi applicable, de la protection que lui assurent les dispositions impératives prises par cet Etat en application de
+la directive 94/47/CE du Parlement européen et du Conseil, du 26 octobre 1994, précitée :
+
+- si le contrat a été conclu dans l'Etat du lieu de résidence habituelle du consommateur ;
+
+- si le contrat a été précédé dans cet Etat d'une offre spécialement faite ou d'une publicité et des actes accomplis par le
+consommateur nécessaires à la conclusion dudit contrat ;
+
+- si le contrat a été conclu dans un Etat où le consommateur s'est rendu à la suite d'une proposition de voyage ou de séjour
+faite, directement ou indirectement, par le professionnel pour l'inciter à contracter.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Directive CEE 94-97 1994-10-26 Conseil
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+
+
+###### Article L121-76
+
+Les dispositions de la présente section sont d'ordre public. Le non-respect des dispositions prévues aux articles L. 121-61,
+L. 121-62, au premier alinéa de l'article L. 121-63 et aux articles L. 121-64 et L. 121-68 est sanctionné par la nullité du
+contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-61 (VT)
+	  - Code de la consommation - art. L121-63 (VT)
+	  - Code de la consommation - art. L121-68 (VT)
+
+
 ##### Section 10 : Appellation de boulanger et enseigne de boulangerie
 
 ###### Article L121-80
@@ -4561,7 +5182,7 @@ I. - Sont constatées et poursuivies dans les conditions fixées par les article
 de l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence, reproduits au paragraphe
 IV ci-après, les infractions aux dispositions prévues au présent code par :
 
-1° Les articles L. 122-6 et L. 122-7 ;
+1° Les articles L. 121-70, L. 121-71, L. 121-72, L. 122-6 et L. 122-7 ;
 
 2° Les articles L. 132-1 à L. 132-5, L. 133-1 et 134-1.
 
@@ -4712,22 +5333,15 @@ produire les procès-verbaux et les rapports d'enquête".
 
 	**Anciens textes**:
 
-	  - Ordonnance 86-1243 1986-12-01 art. 45, art. 46, art. 47, art. 48, art. 51, art. 52, art. 54, art. 56
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 46 (Ab)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 47 (Ab)
 	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 48 (M)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 51 (Ab)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 52 (M)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 54 (Ab)
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 56 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°98-566 du 8 juillet 1998 - art. 2 () JORF 9 juillet 1998
 
 
 ## Livre II : Conformité et sécurité des produits et des services
