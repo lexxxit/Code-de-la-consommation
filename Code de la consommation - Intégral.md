@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2001-08-25
+Version Consolidée au 2001-12-12
 
 # Partie législative
 
@@ -415,20 +415,18 @@ l'économie, après consultation du Conseil national de la consommation.
 
 Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2.
 
+Les règles relatives à l'obligation de renseignements par les établissements de crédit et les organismes mentionnés à
+l'article L. 518-1 du code monétaire et financier sont fixées par les I et II de l'article L. 312-1-1 du même code.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 86-1243 1986-12-01 art. 28
 	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 28 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 	**Liens**:
 
@@ -457,6 +455,10 @@ Cette disposition s'applique à toutes les activités visées au dernier alinéa
 	  - TXT_SOURCE: Arrêté du 3 janvier 2002
 	  - TXT_SOURCE: Arrêté du 3 janvier 2002 - art. 1 ()
 	  - PILOTE_SUIVEUR: Code de commerce - art. L441-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 13 (V)
 
 	**Cité par**:
 
@@ -500,6 +502,8 @@ Cette disposition s'applique à toutes les activités visées au dernier alinéa
 	**Cite**:
 
 	  - Code de la consommation - art. L113-2 (V)
+	  - Code monétaire et financier - art. L312-1-1 (M)
+	  - Code monétaire et financier - art. L518-1 (M)
 
 
 #### Chapitre IV : Information sur les délais de livraison
@@ -4116,12 +4120,15 @@ consommation à l'article L. 121-34.
 ###### Article L121-35
 
 Est interdite toute vente ou offre de vente de produits ou de biens ou toute prestation ou offre de prestation de services
-faites aux consommateurs et donnant droit, à titre gratuit, immédiatement ou à terme, à une prime consistant en produits,
-biens ou services sauf s'ils sont identiques à ceux qui font l'objet de la vente ou de la prestation.
+faite aux consommateurs et donnant droit, à titre gratuit, immédiatement ou à terme, à une prime consistant en produits,
+biens ou services sauf s'ils sont identiques à ceux qui font l'objet de la vente ou de la prestation. 
 
-Cette disposition ne s'applique pas aux menus objets ou services de faible valeur ni aux échantillons.
+Cette disposition ne s'applique pas aux menus objets ou services de faible valeur ni aux échantillons. 
 
-Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2.
+Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2. 
+
+Pour les établissements de crédit et les organismes mentionnés à l'article L. 518-1 du code monétaire et financier, les
+règles relatives aux ventes avec primes sont fixées par le 2 du I de l'article L. 312-1-2 du même code.
 
 **Liens relatifs à cet article**
 
@@ -4133,9 +4140,9 @@ Cette disposition s'applique à toutes les activités visées au dernier alinéa
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 13 (V)
 
 	**Cité par**:
 
@@ -4157,6 +4164,7 @@ Cette disposition s'applique à toutes les activités visées au dernier alinéa
 	**Cite**:
 
 	  - Code de la consommation - art. L113-2 (V)
+	  - Code monétaire et financier - art. L518-1 (V)
 
 
 ##### Section 6 : Loteries publicitaires
@@ -5099,6 +5107,9 @@ service ainsi que de subordonner la prestation d'un service à celle d'un autre 
 
 Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2.
 
+Pour les établissements de crédit et les organismes mentionnés à l'article L. 518-1 du code monétaire et financier, les
+règles relatives aux ventes subordonnées sont fixées par le 1 du I de l'article L. 312-1-2 du même code.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -5109,9 +5120,9 @@ Cette disposition s'applique à toutes les activités visées au dernier alinéa
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 13 (V)
 
 	**Cité par**:
 
@@ -5129,6 +5140,7 @@ Cette disposition s'applique à toutes les activités visées au dernier alinéa
 	**Cite**:
 
 	  - Code de la consommation - art. L113-2 (V)
+	  - Code monétaire et financier - art. L518-1 (M)
 
 
 ##### Section 2 : Ventes sans commande préalable.
@@ -5193,8 +5205,8 @@ légal majoré de moitié à compter de la demande de remboursement faite par le
 ###### Article L122-4
 
 Les dispositions de l'article L. 122-3 ne font pas obstacle à la perception d'intérêts, de commissions ou de frais au titre
-de facilités de caisse ou de découverts bancaires prévus par les conditions générales de banque portées à la connaissance de
-la clientèle et précisant le montant ou le mode de calcul de ces rémunérations.
+de facilités de caisse ou de découverts bancaires prévus par la convention de compte instituée à l'article L. 312-1-1 du code
+monétaire et financier qui précise le montant ou le mode de calcul de ces rémunérations.
 
 Il en est de même dans le cas où une modification des conditions initiales du contrat résulte de la mise en oeuvre d'une
 clause de révision dont les modalités ont été expressément définies et ont recueilli l'accord des parties au moment de la
@@ -5204,20 +5216,20 @@ signature du contrat.
 
 	**Anciens textes**:
 
-	  - Loi n°92-60 1992-01-18 art. 7 al. 2 et al. 3
 	  - Loi n°92-60 du 18 janvier 1992 - art. 7 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 13 (V)
 
 	**Cite**:
 
 	  - Code de la consommation - art. L122-3 (M)
+	  - Code monétaire et financier - art. L312-1-1 (M)
 
 
 ###### Article L122-5
@@ -11336,9 +11348,9 @@ délai.
 
 ###### Article L311-37
 
-Le tribunal d'instance connaît des litiges nés de l'application du présent chapitre. Les actions engagées devant lui doivent
-être formées dans les deux ans de l'événement qui leur a donné naissance à peine de forclusion, y compris lorsqu'elles sont
-nées de contrats conclus antérieurement au 1er juillet 1989.
+Le tribunal d'instance connaît des litiges nés de l'application du présent chapitre. Les actions en paiement engagées devant
+lui à l'occasion de la défaillance de l'emprunteur doivent être formées dans les deux ans de l'événement qui leur a donné
+naissance à peine de forclusion.
 
 Lorsque les modalités de règlement des échéances impayées ont fait l'objet d'un réaménagement ou d'un rééchelonnement, le
 point de départ du délai de forclusion est le premier incident non régularisé intervenu après le premier aménagement ou
@@ -11357,11 +11369,13 @@ rééchelonnement conclu entre les intéressés ou après adoption du plan conve
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 (champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie)
+	  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 16 II 3° (date de mise en application)
+	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 2
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 27 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 16 (V)
 
 	**Cité par**:
 
@@ -11369,10 +11383,9 @@ rééchelonnement conclu entre les intéressés ou après adoption du plan conve
 	  - Code de la consommation - art. L311-10 (VD)
 	  - Code de la consommation - art. L311-50 (VT)
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code de la consommation - art. L331-6 (M)
-	  - Code de la consommation - art. L331-7 (M)
+	  - Code de la consommation - art. L311-52 (VD)
 
 
 #### Chapitre II : Crédit immobilier
@@ -13423,9 +13436,11 @@ Les dispositions des chapitres Ier et II et des sections 2 à 8 du chapitre III 
 	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-### Titre II : Activité d'intermédiaire pour le règlement des dettes
+### Titre II : Activité d'intermédiaire
 
-#### Chapitre Ier : Nullité des conventions.
+#### Chapitre Ier : Protection des débiteurs et des emprunteurs
+
+##### Section 1 : Nullité des conventions
 
 ###### Article L321-1
 
@@ -13446,25 +13461,65 @@ surendettement.
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 85 () JORF 31 juillet 1998
+	  - Loi n°2001-1168 2001-12-11 art. 16 I 1°, 2° JORF 12 décembre 2001
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 16 (V) JORF 12 décembre 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L322-1 (V)
-	  - Code de la consommation - art. L322-2 (M)
+	  - Code de la consommation - art. L322-2 (VT)
 	  - Code de la consommation - art. L322-3 (T)
 	  - Code de la consommation - art. L322-5 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L322-1 (V)
+	  - Code de la consommation - art. L342-1 (V)
 
 	**Liens**:
 
 	  - SPEC_APPLI: Code de la consommation L322-1 *sanctions pénales*
 
 
-#### Chapitre II : Dispositions diverses.
+##### Section 2 : Publicité
+
+###### Article L321-2
+
+Toute publicité diffusée par ou pour le compte d'une personne physique ou morale qui apporte son concours, à quelque titre
+que ce soit et de quelque manière que ce soit, directement ou indirectement, à l'obtention d'un ou plusieurs prêts d'argent
+par un particulier, doit comporter, de manière apparente, la mention suivante :
+
+"Aucun versement, de quelque nature que ce soit, ne peut être exigé d'un particulier, avant l'obtention d'un ou plusieurs
+prêts d'argent."
+
+Cette publicité doit indiquer le nom et l'adresse de l'établissement de crédit ou des établissements de crédit pour le compte
+duquel ou desquels l'intermédiaire exerce son activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2001-1168 2001-12-11 art. 16 I 1°, 2° JORF 12 décembre 2001
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 16 (V) JORF 12 décembre 2001
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L322-3 (VD)
+
+
+#### Chapitre II : Dispositions diverses
 
 ###### Article L322-1
 
@@ -13480,13 +13535,13 @@ journaux qu'il fixe, sans que le coût de cette publication puisse excéder le m
 
 	  - Loi n°85-1097 du 11 octobre 1985 - art. 5 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 16 (V) JORF 12 décembre 2001
 
 	**Cite**:
 
@@ -13501,21 +13556,20 @@ journaux qu'il fixe, sans que le coût de cette publication puisse excéder le m
 
 ###### Article L322-2
 
-Les dispositions du présent titre ne sont pas applicables :
+Les dispositions du présent titre ne sont pas applicables : 
 
-1° Aux membres des professions juridiques et judiciaires réglementées ;
+1° Aux membres des professions juridiques et judiciaires réglementées ; 
 
 2° Aux personnes physiques ou morales qui se livrent aux opérations visées à l'article L. 321-1 dans le cadre de leur mission
-de conciliation instituée par la noi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement amiable des
-difficultés des entreprises ;
+de conciliation instituée par la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement amiable des
+difficultés des entreprises ; 
 
-3° Aux personnes physiques et morales désignées en application des articles 141 et 143 de la loi n° 85-08 du 25 janvier 1985
-relative au redressement et à la liquidation judiciaires des entreprises qui se livrent aux opérations visées à l'article L.
-321-1 ;
+3° Aux personnes physiques et morales désignées en application des articles L. 621-137 et L. 621-139 du code de commerce qui
+se livrent aux opérations visées à l'article L. 321-1 ; 
 
 4° Aux personnes physiques mentionnées au deuxième alinéa de l'article 2 de la loi n° 85-99 du 25 janvier 1985 relative aux
 administrateurs judiciaires, mandataires-liquidateurs et experts en diagnostic d'entreprise, dans le cadre de la mission qui
-leur est confiée par une décision de justice.
+leur est confiée par une décision de justice. 
 
 Elles ne font pas obstacle aux dispositions législatives et réglementaires qui prévoient la représentation en justice.
 
@@ -13523,22 +13577,32 @@ Elles ne font pas obstacle aux dispositions législatives et réglementaires qui
 
 	**Cite**:
 
-	  - Loi n°85-08 1985-01-25 art. 141, art. 143
-	  - Loi n°85-99 du 25 janvier 1985 - art. 2 (Ab)
-	  - Code de la consommation - art. L321-1 (M)
+	  - Loi n°85-99 1985-01-25 art. 2
+	  - Loi n°84-148 du 1 mars 1984
+	  - Loi n°85-99 du 25 janvier 1985
+	  - Code de commerce - art. L621-137
+	  - Code de la consommation - art. L321-1 (VT)
 
 	**Anciens textes**:
 
-	  - Loi n°85-1097 1985-11-15 art. 6
 	  - Loi n°85-1097 du 11 octobre 1985 - art. 6 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 16 (V) JORF 12 décembre 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L321-1 (M)
+	  - Code de la consommation - art. L321-2 (V)
 
 	**Cité par**:
 
@@ -13548,8 +13612,8 @@ Elles ne font pas obstacle aux dispositions législatives et réglementaires qui
 
 ###### Article L322-3
 
-Les dispositions des articles L. 321-1, L. 322-1 et L. 322-2 s'appliquent aux contrats en cours le 1er janvier 1986 ; à cette
-date, les dossiers en cours devront être intégralement remis aux débiteurs par les intermédiaires qui en avaient la charge.
+Est puni d'une amende de 3 750 euros le fait, pour un annonceur, de diffuser ou faire diffuser pour son compte une publicité
+non conforme aux dispositions de l'article L. 321-2.
 
 **Liens relatifs à cet article**
 
@@ -13561,27 +13625,70 @@ date, les dossiers en cours devront être intégralement remis aux débiteurs pa
 
 	  - Loi n°93-949 1993-07-26
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 16 (V)
-
-	**Créé par**:
-
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 16 (V)
+	  - Loi n°2001-1168 2001-12-11 art. 16 I 1°, 4° JORF 12 décembre 2001
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 16 (V) JORF 12 décembre 2001
 
 	**Cite**:
 
-	  - Code de la consommation - art. L321-1 (M)
-	  - Code de la consommation - art. L322-1 (M)
-	  - Code de la consommation - art. L322-2 (M)
+	  - Code de la consommation - art. L321-2 (V)
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L322-4 (Ab)
 
-	**Nouveaux textes**:
 
-	  - Code de la consommation - art. L322-5 (V)
+###### Article L322-4
+
+Les infractions prévues aux articles L. 322-1 et L. 322-3 sont recherchées et constatées dans les conditions fixées par
+l'article L. 141-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2001-1168 2001-12-11 art. 16 I 1°, 4° JORF 12 décembre 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 4 () JORF 2 septembre 2005
+
+	**Cite**:
+
+	  - Code de la consommation - art. L141-1 (M)
+	  - Code de la consommation - art. L322-1 (M)
+	  - Code de la consommation - art. L322-3 (T)
+
+
+###### Article L322-5
+
+Les dispositions des articles L. 321-1, L. 322-1 et L. 322-2 s'appliquent aux contrats en cours le 1er janvier 1986 ; à cette
+date, les dossiers en cours devront être intégralement remis aux débiteurs par les intermédiaires qui en avaient la charge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Abrogé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 17
+
+	**Cite**:
+
+	  - Code de la consommation - art. L321-1
+	  - Code de la consommation - art. L322-1
+	  - Code de la consommation - art. L322-2
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L322-3 (T)
 
 
 ### Titre III : Traitement des situations de surendettement
