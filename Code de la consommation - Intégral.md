@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2001-01-05
+Version Consolidée au 2001-01-17
 
 # Partie législative
 
@@ -7457,7 +7457,7 @@ n'empêche pas l'examen de s'accomplir, avec les effets qui s'attachent à la pr
 	  - CODE DE PROCEDURE PENALE - art. 157 (M)
 
 
-##### Section 5 : Marquage communautaire de conformité.
+##### Section 5 : Dispositions relatives à la conformité et au marquage communautaires.
 
 ###### Article L215-18
 
@@ -7468,7 +7468,11 @@ télécommunications peuvent consigner et exiger la mise en conformité :
 1° Des marchandises soumises à une obligation communautaire de marquage C.E. et dépourvues de ce marquage ;
 
 2° Des marchandises qui, bien que portant le marquage C.E., sont cependant manifestement non conformes à la réglementation du
-marquage qui leur est applicable.
+marquage qui leur est applicable ;
+
+3° Des marchandises qui, bien que munies d'une déclaration C.E. de conformité ou d'aptitude à l'emploi présumant de leur
+conformité ou d'aptitude à l'emploi présumant de leur conformité aux exigences essentiellement en vertu de la réglementation
+les concernant, sont cependant non conformes à celles-ci.
 
 Le procureur de la République est informé sans délai par les agents de contrôle de la mesure de consignation.
 
@@ -7477,7 +7481,7 @@ verbaux sont transmis au procureur de la République dans les vingt-quatre heure
 mêmes délais.
 
 Les marchandises consignées sont laissées à la garde de leur détenteur. La commercialisation des marchandises malgré la
-mesure de consignation sera punie des peines prévues aux articles 314-5 et 314-6 du code pénal.
+mesure de consignation sera punie des peines prévues aux articles 314-5 et 314-6 du code pénal [*sanctions*].
 
 Cette mesure est également applicable lorsque les documents justificatifs exigés par les textes relatifs au marquage C.E. ne
 peuvent pas être présentés aux agents à l'issue d'un délai de quinze jours après qu'ils en ont formulé la demande.
@@ -7524,9 +7528,13 @@ peines prévues aux articles 314-5 et 314-6 du code pénal.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°95-96 du 1 février 1995 - art. 11 () JORF 2 février 1995
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 26 () JORF 17 janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
 
 	**Cite**:
 
@@ -7534,6 +7542,23 @@ peines prévues aux articles 314-5 et 314-6 du code pénal.
 	  - Code des postes et télécommunications L40
 	  - Code pénal - art. 314-5 (M)
 	  - Code pénal - art. 314-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L512-51 (V)
+	  - Code de la consommation - art. L512-53 (V)
+	  - Code de la consommation - art. L512-54 (V)
+	  - Code de la consommation - art. L512-55 (V)
+	  - Code de la consommation - art. L512-56 (V)
+	  - Code de la consommation - art. L512-57 (V)
+	  - Code de la consommation - art. L512-58 (V)
+	  - Code de la consommation - art. L512-59 (V)
+	  - Code de la consommation - art. L512-60 (V)
+	  - Code de la consommation - art. L512-61 (V)
+	  - Code de la consommation - art. L512-62 (V)
+	  - Code de la consommation - art. L512-63 (V)
+	  - Code de la consommation - art. L512-64 (V)
+	  - Code de la consommation - art. L512-65 (V)
 
 
 #### Chapitre VI : Dispositions communes
