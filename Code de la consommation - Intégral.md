@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2001-05-16
+Version Consolidée au 2001-06-13
 
 # Partie législative
 
@@ -6250,6 +6250,46 @@ code de la santé publique.
 	**Modifié par**:
 
 	  - Loi n°96-314 du 12 avril 1996 - art. 60 () JORF 13 avril 1996
+
+
+###### Article L213-6
+
+Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code
+pénal des infractions définies aux articles L. 213-1 à L. 213-4.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal; 
+
+2° Les peines mentionnées aux 2° à 9° de l'article 131-39 du code pénal.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-504 2001-06-12 art. 24 (modalités d'application aux DOM - TOM)
+
+	**Créé par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 3 () JORF 13 juin 2001
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-6 (V)
+
+	**Cite**:
+
+	  - Code de la consommation L213-1 à L213-4
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
 
 
 #### Chapitre IV : Mesures d'application
