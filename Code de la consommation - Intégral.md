@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2002-08-02
+Version Consolidée au 2003-02-20
 
 # Partie législative
 
@@ -17319,45 +17319,89 @@ l'article R. 115-10.
 
 ###### Article R121-1
 
-Pour toutes les opérations de vente à distance, le refus du vendeur de changer ou de rembourser un produit retourné par
-l'acheteur dans les conditions visées à l'article L. 121-16 est puni des peines d'amende prévues pour les contraventions de
-cinquième classe.
-
-En cas de récidive, les peines d'amende prévues pour la récidive des contraventions de la cinquième classe sont applicables.
+Est punie de la peine d'amende prévue pour les contraventions de la cinquième classe la violation des dispositions de
+l'article L. 121-18.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°88-539 du 5 mai 1988 - art. 1 (Ab)
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2003-137 du 18 février 2003 - art. 1 () JORF 20 février 2003
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-16 (M)
+	  - Code de la consommation - art. L121-18 (M)
+
+
+###### Article R121-1-1
+
+Est punie de la peine d'amende prévue pour les contraventions de la cinquième classe la violation des dispositions de
+l'article L. 121-19.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2003-137 du 18 février 2003 - art. 1 () JORF 20 février 2003
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-19 (M)
+
+
+###### Article R121-1-2
+
+Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le refus du vendeur de rembourser, dans
+les conditions fixées à l'article L. 121-20-1, le produit retourné par l'acheteur, lorsque celui-ci dispose d'un droit de
+rétractation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2003-137 du 18 février 2003 - art. 1 () JORF 20 février 2003
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20-1 (M)
 
 
 ###### Article R121-2
 
-Sera puni des peines d'amende prévues pour les contraventions de la cinquième classe le professionnel qui, dans toute offre
-de vente d'un bien ou de fourniture d'une prestation de services faite à distance à un consommateur, omettra d'indiquer le
-nom de son entreprise, son numéro de téléphone, l'adresse de son siège et, si elle est différente, l'adresse de
-l'établissement responsable de l'offre.
+I. - En cas de récidive des infractions prévues aux articles R. 121-1, R. 121-1-1 et R. 121-1-2, la peine d'amende prévue
+pour la récidive des contraventions de la cinquième classe est applicable.
 
-En cas de récidive, les peines d'amende prévues pour la récidive des contraventions de la cinquième classe sont applicables.
+II. - Les personnes morales peuvent être déclarées responsables des infractions définies par les articles R. 121-1, R.
+121-1-1 et R. 121-1-2 dans les conditions prévues à l'article 121-2 du code pénal ; elles encourent la peine d'amende selon
+les modalités prévues à l'article 131-41 du même code.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°92-1289 1992-12-09 art. 1
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2003-137 du 18 février 2003 - art. 1 () JORF 20 février 2003
+
+	**Cite**:
+
+	  - Code de la consommation R121-1, R121-1-1, R121-1-2
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-41 (V)
 
 
 ##### Section 3 : Démarchage
