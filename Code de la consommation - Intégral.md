@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2000-09-22
+Version Consolidée au 2001-01-05
 
 # Partie législative
 
@@ -158,6 +158,41 @@ officiel et ses modalités d'utilisation.
 	**Cité par**:
 
 	  - Code rural - art. L641-1-1 (MMN)
+
+
+###### Article L112-3
+
+Les conditions d'utilisation des mentions relatives au mode d'élevage des volailles sont déterminées par l'article L. 640-4
+du code rural, ci-après reproduit :
+
+Art. L. 640-4 "Pour les volailles ne bénéficiant pas d'un signe d'identification au sens de l'article L. 640-2, la référence
+aux modes d'élevage concernant l'alimentation ne peut être utilisée, dans le respect de la réglementation communautaire en
+vigueur, que dans des conditions fixées par décret portant notamment sur les modalités de contrôle régulier.
+
+"La référence au mode d'élevage "élevé à l'intérieur, système extensif" et "sortant à l'extérieur", ainsi qu'à l'âge
+d'abattage, ne peut être utilisée que sur les volailles ayant donné lieu à la délivrance par l'autorité administrative d'un
+signe d'identification que sont la certification de conformité, le label, l'appellation d'origine contrôlée ou la
+certification du mode de production biologique.
+
+"Les mentions "fermier - élevé en plein air" ou "fermier - élevé en liberté" ne peuvent être utilisées que sur les volailles
+bénéficiant d'un label, d'une appellation d'origine contrôlée ou d'une certification du mode de production biologique.
+
+"Toutefois, ces dispositions ne s'appliquent pas aux productions à petite échelle destinées à la vente directe ou locale
+visées à l'article 3, paragraphe 5, de la directive 71/118/CEE".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L640-2, L640-4
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2001-6 du 4 janvier 2001 - art. 18 () JORF 5 janvier 2001
 
 
 #### Chapitre III : Prix et conditions de vente
@@ -1643,15 +1678,10 @@ public.
 ###### Article L115-25
 
 Les dispositions des chapitres II à VI du titre Ier du livre II du présent code concernant la recherche et la constatation
-des infractions sont applicables aux prescriptions des articles L. 643-2 à L. 643-7 du code rural et L. 115-24 du présent
-code et des textes pris pour leur application.
+des infractions sont applicables aux prescriptions du titre IV du livre VI du code rural et L. 115-24 du présent code et des
+textes pris pour leur application.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L643-2 à L643-7
-	  - Code de la consommation L115-22 à L115-24
 
 	**Anciens textes**:
 
@@ -1663,7 +1693,7 @@ code et des textes pris pour leur application.
 
 	**Modifié par**:
 
-	  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
+	  - Loi n°2001-6 du 4 janvier 2001 - art. 18 () JORF 5 janvier 2001
 
 	**Cité par**:
 
@@ -1671,6 +1701,10 @@ code et des textes pris pour leur application.
 	  - Code de la consommation - art. L115-18 (M)
 	  - Code rural - art. L642-3 (M)
 	  - Code rural - art. L671-6 (M)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L115-24 (M)
 
 	**Liens**:
 
