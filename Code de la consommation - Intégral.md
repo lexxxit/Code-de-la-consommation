@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1999-06-29
+Version Consolidée au 1999-06-29 00:00:01 +0200
 
 # Partie législative
 
@@ -11185,20 +11185,26 @@ l'emprunteur ou de son conjoint, par le décès ou par la cessation forcée de l
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Cite**:
 
-	  - Loi n°99-532 1999-06-25
-	  - Code civil - art. 1152 (M)
+	  - Loi n°99-532 du 25 juin 1999
+	  - Code civil - art. 1152
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°99-532 du 25 juin 1999 - art. 97 () JORF 29 juin 1999
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
+	  - Code de la consommation - art. L312-23 (VT)
 	  - Code de la consommation - art. R312-2 (MMN)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L313-47 (VT)
+	  - Code de la consommation - art. L313-48 (V)
 
 
 ##### Sous-section 2 : Défaillance de l'emprunteur
