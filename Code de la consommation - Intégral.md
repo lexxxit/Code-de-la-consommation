@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2000-01-01
+Version Consolidée au 2000-01-04
 
 # Partie législative
 
@@ -17657,23 +17657,24 @@ l'agent verbalisateur.
 
 ###### Article R215-18
 
-Des arrêtés du ministre chargé de l'économie et des finances déterminent la compétence et le ressort des laboratoires d'Etat
-admis à procéder à l'analyse des échantillons. S'il s'agit d'un laboratoire d'Etat relevant de l'autorité d'un autre
-ministre, l'arrêté est pris conjointement par le ministre chargé de l'économie et des finances et le ministre compétent.
-
-Des laboratoires dépendant des collectivités territoriales, des établissements et organismes publics et, le cas échéant,
-d'organismes contrôlés par l'Etat peuvent être admis à procéder aux analyses, lorsqu'ils sont reconnus en état d'assurer ce
-service et lorsqu'ils ont été agréés par le ministre chargé de l'économie et des finances.
+La compétence de chaque laboratoire d'Etat admis à procéder à l'analyse ou aux essais des échantillons est fixée par un
+arrêté du ministre chargé de l'économie et des finances. Lorsque le laboratoire d'Etat relève de l'autorité d'un autre
+ministre, l'arrêté est pris conjointement par ce ministre et le ministre chargé de l'économie et des finances.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°97-1194 1997-12-19 art. 1 *décisions administratives individuelles*
+	  - SPEC_APPLI: Décret n°99-1233 1999-12-31 art. 4 *modalités d'application - dispositions transitoires*
+
+	**Modifié par**:
+
+	  - Décret n°99-1233 du 31 décembre 1999 - art. 1 () JORF 4 janvier 2000
 
 	**Cité par**:
 
@@ -17686,9 +17687,69 @@ service et lorsqu'ils ont été agréés par le ministre chargé de l'économie 
 	  - Code de la consommation - art. R218-5 (Ab)
 	  - Code de la santé publique - art. L1413-5 (V)
 
-	**Anciens textes**:
 
-	  - Décret n°1919-01-22 art. 19
+###### Article R215-18-1
+
+Des laboratoires autres que ceux prévus à l'article R. 215-18 peuvent être admis à procéder aux analyses ou aux essais, sous
+réserve d'être agréés. Le ministre chargé de l'économie et des finances fixe par arrêté les conditions d'agrément des
+laboratoires qui apportent la preuve de leur aptitude à effectuer les analyses ou essais conformément aux normes en vigueur
+et qui présentent des garanties de confidentialité, d'impartialité et d'indépendance envers toute entreprise ou groupe
+d'entreprises exerçant une activité de production, d'importation ou de commercialisation de produits ou de biens dans le
+domaine analytique pour lequel l'agrément est sollicité. Il accorde l'agrément par arrêté.
+
+Les laboratoires agréés sont soumis, à tout moment, au contrôle du respect des conditions de l'agrément, sur pièces et sur
+place, par la direction générale de la concurrence, de la consommation et de la répression des fraudes.
+
+Lorsque le laboratoire ne remplit plus une ou plusieurs des conditions exigées pour l'agrément, il doit en informer le
+directeur général de la concurrence, de la consommation et de la répression des fraudes sans délai. En cas de non-respect des
+conditions exigées pour l'agrément, le ministre chargé de l'économie et des finances peut suspendre ou retirer l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°99-1233 du 31 décembre 1999 - art. 2 () JORF 4 janvier 2000
+
+	**Cité par**:
+
+	  - Arrêté du 18 novembre 2009 (Ab)
+	  - Arrêté du 2 septembre 2013 (Ab)
+	  - Code de la consommation - art. R215-18-3 (Ab)
+	  - Code de la santé publique - art. L1413-5 (V)
+
+
+###### Article R215-18-2
+
+Lorsque les laboratoires mentionnés aux articles R. 215-18 et R. 215-18-1 ne peuvent effectuer, en raison de leur caractère
+de spécialisation exceptionnel ou de l'extrême urgence, les analyses ou essais, le laboratoire d'Etat dont relève normalement
+le produit en cause recourt, sous son contrôle, à un laboratoire en mesure d'assurer les prestations requises, ou se fait
+assister d'un expert de son choix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Créé par**:
+
+	  - Décret n°99-1233 du 31 décembre 1999 - art. 2 () JORF 4 janvier 2000
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R215-18
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-33 (V)
 
 
 ###### Article R215-19
@@ -17730,21 +17791,25 @@ Les analyses sont à la fois d'ordre qualitatif et quantitatif.
 
 ###### Article R215-20
 
-Le laboratoire dresse, dès l'achèvement de ses travaux, un rapport où sont consignés les résultats de l'examen et des
-analyses auxquels cet échantillon a donné lieu.
+Le laboratoire d'Etat, mentionné à l'article R. 215-18, dresse, dès l'achèvement de ses travaux, ou dès la réception des
+résultats des analyses ou essais confiés aux laboratoires admis à procéder à l'expertise en vertu des articles R. 215-18-1 et
+R. 215-18-2, un rapport où sont consignés et interprétés les résultats de l'examen et des analyses auxquels cet échantillon a
+donné lieu.
 
-Ce rapport est adressé au préfet du département d'où provient cet échantillon. Dans le ressort de la préfecture de police, le
-rapport est adressé au préfet de police.
+Lorsqu'il est fait appel à un laboratoire relevant des articles R. 215-18-1 ou R. 215-18-2, ses rapports d'analyses ou essais
+sont joints au rapport du laboratoire d'Etat.
+
+Le rapport du laboratoire d'Etat est adressé au préfet du département d'où provient cet échantillon.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°1919-01-22 art. 21
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°99-1233 du 31 décembre 1999 - art. 3 () JORF 4 janvier 2000
 
 
 ###### Article R215-21
