@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1994-01-04
+Version Consolidée au 1994-02-11
 
 # Partie législative
 
@@ -5504,33 +5504,32 @@ administrations publiques et des entreprises de transports.
 
 Dans les lieux énumérés au premier alinéa de l'article L. 213-4 et sur la voie publique, les autorités qualifiées pour
 rechercher et constater les infractions aux chapitres II à VI le sont également pour les infractions aux dispositions
-réglementaires prises en application des articles 258, 259 et 262 du code rural fixant les normes sanitaires et qualitatives
-des denrées animales et d'origine animale mises en vente.
+réglementaires prises en application des articles 258, 259, 262, 275-1, 275-2 et 275-4 du code rural fixant les normes
+sanitaires et qualitatives des denrées animales et d'origine animale mises en vente.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 258, 259, 262, 275-1, 275-2, 275-4
+	  - Code de la consommation - art. L213-4 (M)
 
 	**Anciens textes**:
 
 	  - Loi n°1905-08-01 du 1 août 1905 - art. 12-1 (Ab)
-	  - Loi n°1905-08-01 art. 12-1
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°94-114 du 10 février 1994 - art. 11 () JORF 11 février 1994
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L115-20 (MMN)
 	  - Code rural et de la pêche maritime - art. L205-1 (V)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L213-4 (M)
-	  - Code rural 258, 259, 262
 
 
 ##### Section 2 : Recherche et constatation
