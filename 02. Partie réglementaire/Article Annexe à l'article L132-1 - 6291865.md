@@ -56,9 +56,10 @@ p) De prévoir la possibilité de cession du contrat de la part du professionnel
 diminution des garanties pour le consommateur sans l'accord de celui-ci ;
 
 q) De supprimer ou d'entraver l'exercice d'actions en justice ou des voies de recours par le consommateur, notamment en
-obligeant le consommateur à saisir exclusivement une juridiction d'arbitrage non couverte par des dispositions légales, en
-limitant indûment les moyens de preuves à la disposition du consommateur ou en imposant à celui-ci une charge de preuve qui,
-en vertu du droit applicable, devrait revenir normalement à une autre partie au contrat.
+obligeant le consommateur à saisir exclusivement une juridiction d'arbitrage non couverte par des dispositions légales ou à
+passer exclusivement par un mode alternatif de règlement des litiges, en limitant indûment les moyens de preuves à la
+disposition du consommateur ou en imposant à celui-ci une charge de preuve qui, en vertu du droit applicable, devrait revenir
+normalement à une autre partie au contrat.
 
 2. Portée des points g, j et l :
 
@@ -86,12 +87,17 @@ aux fluctuations d'un cours ou d'un indice boursier ou d'un taux de marché fina
 d) Le point l ne fait pas obstacle aux clauses d'indexation de prix pour autant qu'elles soient licites et que le mode de
 variation du prix y soit explicitement décrit.
 
+**Nota:**
+
+Loi 2005-67 du 28 janvier 2005 art. 7 II : Les présentes dispositions s'appliquent aux contrats en cours et à leur
+reconduction à la date de promulgation de la présente loi.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°95-96 du 1 février 1995 - art. 1 () JORF 2 février 1995
+	  - Loi n°2005-67 du 28 janvier 2005 - art. 6 () JORF 1er février 2005
