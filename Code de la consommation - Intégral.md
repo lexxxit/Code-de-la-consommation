@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2003-08-02
+Version Consolidée au 2003-08-05
 
 # Partie législative
 
@@ -13050,16 +13050,20 @@ Le tribunal d'instance connaît des actions nées de l'application des articles 
 
 ###### Article L313-3
 
-Constitue un prêt usuraire [*définition*] tout prêt conventionnel consenti à un taux effectif global qui excède, au moment où
-il est consenti, de plus du tiers, le taux effectif moyen pratiqué au cours du trimestre précédent par les établissements de
-crédit pour des opérations de même nature comportant des risques analogues, telles que définies par l'autorité administrative
-après avis du Comité consultatif du secteur financier.
+Constitue un prêt usuraire tout prêt conventionnel consenti à un taux effectif global qui excède, au moment où il est
+consenti, de plus du tiers, le taux effectif moyen pratiqué au cours du trimestre précédent par les établissements de crédit
+pour des opérations de même nature comportant des risques analogues, telles que définies par l'autorité administrative après
+avis du Comité consultatif du secteur financier.
 
 Les crédits accordés à l'occasion de ventes à tempérament sont, pour l'application de la présente section, assimilés à des
 prêts conventionnels et considérés comme usuraires dans les mêmes conditions que les prêts d'argent ayant le même objet.
 
 Les conditions de calcul et de publicité des taux effectifs moyens visés au premier alinéa sont fixées par la voie
 réglementaire.
+
+Les dispositions du présent article et celles des articles L. 313-4 à L. 313-6 ne sont pas applicables aux prêts accordés à
+une personne morale se livrant à une activité industrielle, commerciale, artisanale, agricole ou professionnelle non
+commerciale.
 
 **Liens relatifs à cet article**
 
@@ -13072,13 +13076,9 @@ réglementaire.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 aôut 2003
+	  - Loi n°2003-721 du 1 août 2003 - art. 32 () JORF 5 août 2003
 
 	**Cité par**:
 
@@ -13094,6 +13094,10 @@ réglementaire.
 	  - Code monétaire et financier - art. L313-5 (M)
 	  - Code monétaire et financier - art. L511-6 (V)
 	  - Code monétaire et financier - art. L548-6 (VD)
+
+	**Cite**:
+
+	  - Code de la consommation L313-4 à L313-6
 
 	**Liens**:
 
@@ -14021,15 +14025,24 @@ réunions de la commission de surendettement avec voix consultative.
 ###### Article L331-2
 
 La commission a pour mission de traiter, dans les conditions prévues par le présent chapitre, la situation de surendettement
-des personnes physiques, caractérisée par l'impossibilité manifeste pour le débiteur de bonne foi de faire face à l'ensemble
-de ses dettes non professionnelles exigibles et à échoir.
+des personnes physiques définie au premier alinéa de l'article L. 330-1, 
+  _ainsi qu'à l'engagement qu'il a donné de cautionner ou d'acquitter solidairement la dette d'un entrepreneur individuel ou
+d'une société dès lors qu'il n'a pas été, en droit ou en fait, dirigeant de celle-ci. (1)_
 
 Le montant des remboursements résultant de l'application des articles L. 331-6 ou L. 331-7 est fixé, dans des conditions
 précisées par décret, par référence à la quotité saisissable du salaire telle qu'elle résulte de l'article L. 145-2 du code
 du travail, de manière à ce qu'une partie des ressources nécessaire aux dépenses courantes du ménage lui soit réservée par
 priorité. Cette part de ressources, qui ne peut être inférieure à un montant égal au revenu minimum d'insertion dont
-disposerait le ménage, est mentionnée dans le plan conventionnel de redressement prévu à l'article L. 331-6 ou dans les
-recommandations prévues aux articles L. 331-7 et L. 331-7-1..
+disposerait le ménage, est fixée par la commission après avis de la personne justifiant d'une expérience dans le domaine de
+l'économie sociale et familiale visée au dernier alinéa de l'article L. 331-1, et mentionnée dans le plan conventionnel de
+redressement prévu à l'article L. 331-6 ou dans les recommandations prévues aux articles L. 331-7 et L. 331-7-1.
+
+**Nota:**
+
+(1)Ce complément au premier alinéa a été porté par l'article 11 I de la loi n° 2003-721 du 1er août 2003.
+
+Cependant, l'article 35 I de la loi n° 2003-710 du 1er août 2003 a préalablement repris cette définition au premier alinéa de
+l'article L330-1 du code de la consommation en y intègrant déjà ces mots.
 
 **Liens relatifs à cet article**
 
@@ -14061,16 +14074,15 @@ recommandations prévues aux articles L. 331-7 et L. 331-7-1..
 
 	  - Loi n°93-949 1993-07-26
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 87 () JORF 31 juillet 1998
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+	  - Loi n°2003-721 du 1 août 2003 - art. 11 () JORF 5 août 2003
 
 	**Cite**:
 
+	  - Code de la consommation - art. L330-1 (V)
+	  - Code de la consommation - art. L331-1 (M)
 	  - Code de la consommation - art. L331-6 (M)
 	  - Code de la consommation - art. L331-7 (M)
 	  - Code de la consommation - art. L331-7-1 (M)
@@ -15611,6 +15623,32 @@ informée.
 
 	  - Code de la consommation - art. L333-1 (V)
 	  - Code de la consommation - art. L343-5 (V)
+
+
+###### Article L341-4
+
+Un créancier professionnel ne peut se prévaloir d'un contrat de cautionnement conclu par une personne physique dont
+l'engagement était, lors de sa conclusion, manifestement disproportionné à ses biens et revenus, à moins que le patrimoine de
+cette caution, au moment où celle-ci est appelée, ne lui permette de faire face à son obligation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 11 () JORF 5 août 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L332-1 (V)
+	  - Code de la consommation - art. L343-4 (V)
 
 
 ## Livre IV : Les associations de consommateurs
