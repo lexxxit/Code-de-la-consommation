@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2003-03-19
+Version Consolidée au 2003-08-02
 
 # Partie législative
 
@@ -10046,17 +10046,35 @@ présent article du champ d'application de l'article L. 311-5.
 
 ###### Article L311-4
 
-Toute publicité faite, reçue ou perçue en France qui, quel que soit son support, porte sur l'une des opérations de crédit
-visées à l'article L. 311-2, doit :
+Toute publicité faite, reçue ou perçue en France qui, quel que soit son support, porte sur l'une des opérations de crédit à
+la consommation visées à l'article L. 311-2, est loyale et informative. A ce titre, elle doit :
 
 1° Préciser l'identité du prêteur, la nature, l'objet et la durée de l'opération proposée ainsi que le coût total et, s'il y
-a lieu, le taux effectif global mensuel et annuel du crédit et les perception forfaitaires ;
+a lieu, le taux effectif global annuel du crédit, à l'exclusion de tout autre taux, ainsi que les perceptions forfaitaires ;
 
-2° Préciser le montant, en francs, des remboursements par échéance ou, en cas d'impossibilité, le moyen de le déterminer. Ce
+2° Préciser le montant, en euros, des remboursements par échéance ou, en cas d'impossibilité, le moyen de le déterminer. Ce
 montant inclut le coût de l'assurance lorsque celle-ci est obligatoire pour obtenir le financement et, le cas échéant, le
 coût des perceptions forfaitaires ;
 
 3° Indiquer, pour les opérations à durée déterminée, le nombre d'échéances.
+
+Dans toute publicité écrite, quel que soit le support utilisé, les informations relatives à la nature de l'opération, à sa
+durée, au taux effectif global, s'il y a lieu, et, s'il s'agit d'un taux promotionnel, à la période durant laquelle ce taux
+s'applique, au caractère "fixe ou révisable" du taux effectif global et au montant des remboursements par échéance doivent
+figurer dans une taille de caractères au moins aussi importante que celle utilisée pour indiquer toute autre information
+relative aux caractéristiques du financement et s'inscrire dans le corps principal du texte publicitaire.
+
+Il est interdit, dans toute publicité, quel que soit le support utilisé, d'indiquer qu'un prêt peut être octroyé sans élément
+d'information permettant d'apprécier la situation financière de l'emprunteur, ou de suggérer que le prêt entraîne une
+augmentation de ressources ou accorde une réserve automatique d'argent immédiatement disponible, sans contrepartie financière
+identifiable.
+
+L'offre préalable de crédit doit être distincte de tout support ou document publicitaire. (1)
+
+**Nota:**
+
+(1) : Loi n° 2003-706 art. 87 II : Ces dispositions sont applicables aux publicités faites, reçues ou perçues en France ainsi
+qu'aux contrats de crédits consentis ou renouvelés six mois après la promulgation de la loi n° 2003-706 du 1er août 2003.
 
 **Liens relatifs à cet article**
 
@@ -10068,9 +10086,14 @@ coût des perceptions forfaitaires ;
 
 	  - Loi n°93-949 1993-07-26
 
+	**Cite**:
+
+	  - Loi n°2003-706 2003-08-01
+	  - Code de la consommation L311-2, 87
+
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 84 () JORF 31 juillet 1998
+	  - Loi n°2003-706 du 1 août 2003 - art. 87 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -10081,10 +10104,6 @@ coût des perceptions forfaitaires ;
 	  - Code de la consommation - art. L311-34 (VT)
 	  - Code de la consommation - art. L311-42 (VT)
 	  - Code de la consommation - art. L311-49 (VT)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la consommation L312-34 *sanctions pénales*
 
 
 ##### Section 3 : Crédit gratuit.
@@ -10257,9 +10276,32 @@ l'échéance, les conditions de reconduction du contrat. Elle fixe également le
 échelonné, sauf volonté contraire du débiteur, des sommes restant dues dans le cas où le débiteur demande à ne plus
 bénéficier de son ouverture de crédit.
 
-La mention "carte de crédit" est spécifiée sur la carte.
+L'emprunteur doit pouvoir s'opposer aux modifications proposées, lors de la reconduction du contrat, jusqu'au moins vingt
+jours avant la date où celles-ci deviennent effectives, en utilisant un bordereau-réponse annexé aux informations écrites
+communiquées par le prêteur. Un décret précisera les caractéristiques de ce bordereau ainsi que les mentions devant y
+figurer.
+
+En cas de refus des nouvelles conditions de taux ou de remboursement proposées lors de la reconduction du contrat,
+l'emprunteur est tenu de rembourser aux conditions précédant les modifications proposées le montant de la réserve d'argent
+déjà utilisé, sans pouvoir, toutefois, procéder à une nouvelle utilisation de l'ouverture de crédit. (1)
+
+La mention "carte de crédit" est spécifiée en caractères lisibles au recto de la carte. (2)
+
+**Nota:**
+
+Nota (1) : Loi n° 2003-706 Article 87 II (1er alinéa) : Ces dispositions sont applicables aux publicités faites, reçues ou
+perçues en France ainsi qu'aux contrats de crédits consentis ou renouvelés six mois après la promulgation de la loi n°
+2003-706 du 1er août 2003.
+
+Nota (2) : Loi n° 2003-706 Article 87 II (2ème alinéa) : Ces dispositions sont applicables aux cartes de crédit émises un an
+après la promulgation de la loi n° 2003-706 du 1er août 2003.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la consommation annexe, 87
+	  - Loi n°2003-706 2003-08-01
 
 	**Anciens textes**:
 
@@ -10269,16 +10311,15 @@ La mention "carte de crédit" est spécifiée sur la carte.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 14 II (date d'effet - champ d'application)
-	  - TXT_SOURCE: Décret n°2004-202 du 4 mars 2004
-	  - TXT_SOURCE: Décret n°2004-202 du 4 mars 2004 - art. 1 (V)
-	  - SPEC_APPLI: Code de la consommation L312-34 (sanctions pénales)
-
 	**Modifié par**:
 
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 14 (V)
+	  - Loi n°2003-706 2003-08-01 art. 87 I 2°, 3° JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 87 (V) JORF 2 août 2003
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2004-202 du 4 mars 2004
+	  - TXT_SOURCE: Décret n°2004-202 du 4 mars 2004 - art. 1 (V)
 
 	**Cité par**:
 
@@ -10294,6 +10335,53 @@ La mention "carte de crédit" est spécifiée sur la carte.
 	  - Code de la consommation - art. L311-9-1 (VT)
 	  - Code de la consommation - art. L313-14 (VT)
 	  - Code de la consommation - art. L333-5 (VT)
+
+
+###### Article L311-9-1
+
+S'agissant de l'opération de crédit visée à l'article L. 311-9, le prêteur est tenu d'adresser à l'emprunteur, mensuellement
+et dans un délai raisonnable avant la date de paiement, un état actualisé de l'exécution du contrat de crédit, faisant
+clairement référence à l'état précédent et précisant :
+
+- la date d'arrêté du relevé et la date du paiement ;
+
+- la fraction du capital disponible ;
+
+- le montant de l'échéance, dont la part correspondant aux intérêts ;
+
+- le taux de la période et le taux effectif global ;
+
+- le cas échéant, le coût de l'assurance ;
+
+- la totalité des sommes exigibles ;
+
+- le montant des remboursements déjà effectués depuis le dernier renouvellement, en faisant ressortir la part respective
+versée au titre du capital emprunté et celle versée au titre des intérêts et frais divers liés à l'opération de crédit ;
+
+- le fait qu'à tout moment l'emprunteur peut payer comptant tout ou partie du montant restant dû, sans se limiter au montant
+de la seule dernière échéance.(1)
+
+**Nota:**
+
+Nota (1) : Loi n° 2003-706 Article 87 II (1er alinéa) : Ces dispositions sont applicables aux publicités faites, reçues ou
+perçues en France ainsi qu'aux contrats de crédits consentis ou renouvelés six mois après la promulgation de la loi n°
+2003-706 du 1er août 2003.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Cite**:
+
+	  - Loi n°2003-706 2003-08-01
+	  - Code de la consommation - art. L311-9 (M)
+	  - Code de la consommation L311-9, 87
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 87 (V) JORF 2 août 2003
 
 
 ###### Article L311-10
@@ -10383,7 +10471,16 @@ moyen de les déterminer.
 
 Lorsque l'offre préalable est assortie d'une proposition d'assurance, une notice doit être remise à l'emprunteur, qui
 comporte les extraits des conditions générales de l'assurance le concernant, notamment les nom et adresse de l'assureur, la
-durée, les risques couverts et ceux qui sont exclus.
+durée, les risques couverts et ceux qui sont exclus. Si l'assurance est obligatoire pour obtenir le financement, l'offre
+préalable rappelle que l'emprunteur peut souscrire une assurance équivalente auprès de l'assureur de son choix. Si
+l'assurance est facultative, l'offre préalable rappelle les modalités suivant lesquelles l'emprunteur peut ne pas y adhérer.
+(1)
+
+**Nota:**
+
+(1) : Loi n° 2003-706 Article 87 II : Ces dispositions sont applicables aux publicités faites, reçues ou perçues en France
+ainsi qu'aux contrats de crédits consentis ou renouvelés six mois après la promulgation de la loi n° 2003-706 du 1er août
+2003.
 
 **Liens relatifs à cet article**
 
@@ -10404,13 +10501,22 @@ durée, les risques couverts et ceux qui sont exclus.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2003-706 2003-08-01
+	  - Code de la consommation 87
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 87 (V) JORF 2 août 2003
 
 	**Liens**:
 
-	  - SPEC_APPLI: Code de la consommation L312-34 *sanctions pénales*
+	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L311-19 (VD)
 
 
 ###### Article L311-13
@@ -11559,15 +11665,21 @@ lorsqu'elles ne sont pas associées à un crédit d'anticipation.
 ###### Article L312-4
 
 Toute publicité faite, reçue ou perçue en France, qui, quel que soit son support, porte sur l'un des prêts mentionnés à
-l'article L. 312-2, doit :
+l'article L. 312-2, doit : 
 
-1° Préciser l'identité du prêteur, la nature et l'objet du prêt ;
+1° Préciser l'identité du prêteur, la nature et l'objet du prêt ; 
 
 2° Préciser, si elle comporte un ou plusieurs éléments chiffrés, la durée de l'opération proposée ainsi que le coût total et
-le taux effectif global du crédit.
+le taux effectif global annuel du crédit, à l'exclusion de tout autre taux. (1) 
 
 Toutes les mentions obligatoires doivent être présentées de manière parfaitement lisible et compréhensible par le
 consommateur.
+
+**Nota:**
+
+(1) : Loi n° 2003-706 Article 87 II (1er alinéa) : Ces dispositions sont applicables aux publicités faites, reçues ou perçues
+en France ainsi qu'aux contrats de crédits consentis ou renouvelés six mois après la promulgation de la loi n° 2003-706 du
+1er août 2003.
 
 **Liens relatifs à cet article**
 
@@ -11582,19 +11694,23 @@ consommateur.
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2003-706 du 1 août 2003 - art. 87 (V) JORF 2 août 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L312-2 (V)
+	  - Code de la consommation - art. L312-2
 
-	**Liens**:
+	**Nouveaux textes**:
 
-	  - SPEC_APPLI: Code de la consommation L312-32 *sanctions pénales*
+	  - Code de la consommation - art. L313-3 (VT)
 
 
 ###### Article L312-5
@@ -12926,6 +13042,68 @@ Le tribunal d'instance connaît des actions nées de l'application des articles 
 	  - Code de la consommation - art. R313-33 (V)
 
 
+#### Chapitre III : Dispositions communes aux chapitres Ier et II
+
+##### Section 1 : Le taux d'intérêt
+
+##### Sous-section 2 : Le taux d'usure
+
+###### Article L313-3
+
+Constitue un prêt usuraire [*définition*] tout prêt conventionnel consenti à un taux effectif global qui excède, au moment où
+il est consenti, de plus du tiers, le taux effectif moyen pratiqué au cours du trimestre précédent par les établissements de
+crédit pour des opérations de même nature comportant des risques analogues, telles que définies par l'autorité administrative
+après avis du Comité consultatif du secteur financier.
+
+Les crédits accordés à l'occasion de ventes à tempérament sont, pour l'application de la présente section, assimilés à des
+prêts conventionnels et considérés comme usuraires dans les mêmes conditions que les prêts d'argent ayant le même objet.
+
+Les conditions de calcul et de publicité des taux effectifs moyens visés au premier alinéa sont fixées par la voie
+réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°66-1010 du 28 décembre 1966 - art. 1 (M)
+	  - Loi n°66-1010 du 28 décembre 1966 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 aôut 2003
+
+	**Cité par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 7 (V)
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 3 (V)
+	  - Arrêté du 24 août 2006 - art. 1 (VD)
+	  - Arrêté du 22 mars 2011 (V)
+	  - Code de la consommation - art. D313-6 (Ab)
+	  - Code de la consommation - art. L313-5 (V)
+	  - Code de la consommation - art. L313-6 (Ab)
+	  - Code monétaire et financier - art. D313-2 (V)
+	  - Code monétaire et financier - art. D548-1 (V)
+	  - Code monétaire et financier - art. L313-5 (M)
+	  - Code monétaire et financier - art. L511-6 (V)
+	  - Code monétaire et financier - art. L548-6 (VD)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L313-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L313-5 (VT)
+
+
 #### Chapitre III : Dispositions communes
 
 ##### Section 1 : Le taux d'intérêt
@@ -13719,6 +13897,57 @@ date, les dossiers en cours devront être intégralement remis aux débiteurs pa
 
 ### Titre III : Traitement des situations de surendettement
 
+###### Article L330-1
+
+La situation de surendettement des personnes physiques est caractérisée par l'impossibilité manifeste pour le débiteur de
+bonne foi de faire face à l'ensemble de ses dettes non professionnelles exigibles et à échoir ainsi qu'à l'engagement qu'il a
+donné de cautionner ou d'acquitter solidairement la dette d'un entrepreneur individuel ou d'une société dès lors qu'il n'a
+pas été, en droit ou en fait, dirigeant de celle-ci.
+
+Lorsque les ressources ou l'actif réalisable du débiteur le permettent, des mesures de traitement peuvent être prescrites
+devant la commission de surendettement des particuliers dans les conditions prévues aux articles L. 331-6, L. 331-7 et L.
+331-7-1.
+
+Lorsque le débiteur se trouve dans une situation irrémédiablement compromise caractérisée par l'impossibilité manifeste de
+mettre en oeuvre des mesures de traitement visées au deuxième alinéa, il peut solliciter l'ouverture d'une procédure de
+rétablissement personnel dans les conditions prévues au présent titre.
+
+Le juge de l'exécution connaît de la procédure de traitement des situations de surendettement devant la commission de
+surendettement des particuliers et de la procédure de rétablissement personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Arrêté du 31 octobre 2013 - art. (V)
+	  - Code de la consommation - art. L331-2 (VT)
+	  - Code de la consommation - art. L331-3 (VT)
+	  - Code de la consommation - art. L331-3-1 (VT)
+	  - Code de la consommation - art. L331-6 (VT)
+	  - Code de la consommation - art. L331-7-2 (V)
+	  - Code de la consommation - art. L331-7-3 (VT)
+	  - Code de la consommation - art. L332-5-1 (VT)
+	  - Code de la consommation - art. L332-5-2 (VD)
+	  - Code de la consommation - art. L334-2 (VD)
+	  - Code de la consommation - art. L334-5 (VT)
+	  - Code de la consommation - art. L334-9 (VT)
+	  - Code de la consommation - art. R333-1 (Ab)
+	  - Code de la consommation - art. R334-27-2 (Ab)
+	  - Code de la consommation - art. R334-29 (Ab)
+	  - Code de la construction et de l'habitation. - art. L353-15-2 (V)
+	  - Code de la construction et de l'habitation. - art. L442-6-5 (V)
+	  - Code de la mutualité - art. L223-22 (V)
+	  - Code des assurances - art. L132-23 (V)
+
+
 #### Chapitre Ier : De la procédure devant la commission de surendettement des particuliers
 
 ###### Article L331-1
@@ -13732,7 +13961,11 @@ secrétariat, ainsi que deux personnalités choisies par le représentant de l'E
 proposition de l'Association française des établissements de crédit et des entreprises d'investissement, la seconde sur
 proposition des associations familiales ou de consommateurs.
 
-Un suppléant de chacune de ces personnalités est désigné dans les mêmes conditions.
+Un suppléant de chacune de ces personnalités est désigné dans les mêmes conditions. 
+
+Une personne justifiant d'une expérience dans le domaine de l'économie sociale et familiale ainsi qu'une personne justifiant
+d'un diplôme et d'une expérience dans le domaine juridique sont associées à l'instruction du dossier et assistent aux
+réunions de la commission de surendettement avec voix consultative.
 
 **Liens relatifs à cet article**
 
@@ -13740,13 +13973,9 @@ Un suppléant de chacune de ces personnalités est désigné dans les mêmes con
 
 	  - Loi n°93-949 1993-07-26
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 86 () JORF 31 juillet 1998
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -13850,33 +14079,47 @@ recommandations prévues aux articles L. 331-7 et L. 331-7-1..
 
 ###### Article L331-3
 
-La procédure est engagée devant la commission à la demande du débiteur.
+La procédure est engagée devant la commission à la demande du débiteur. Celle-ci dispose d'un délai de six mois à compter du
+dépôt du dossier pour procéder à son instruction et décider de son orientation.
 
-La commission vérifie que le demandeur se trouve dans la situation définie à l'article L. 331-2. Le juge de l'exécution est
-compétent pour connaître des recours dirigés contre les décisions rendues par elle à ce titre.
+La commission vérifie que le demandeur se trouve dans la situation définie à l'article L. 331-2. En cas de rejet d'un avis de
+prélèvement postérieur à la notification de la décision de recevabilité, les créanciers ne peuvent percevoir des frais ou
+commissions y afférents.
 
 La commission dresse l'état d'endettement du débiteur. Celui-ci est tenu de lui déclarer les éléments actifs et passifs de
 son patrimoine. Lorsque la commission constate que le remboursement d'une ou plusieurs dettes du débiteur principal est
 garanti par un cautionnement, elle informe la caution de l'ouverture de la procédure. La caution peut faire connaître par
 écrit à la commission ses observations.
 
-Le débiteur est entendu à sa demande par la commission. Celle-ci peut également entendre toute personne dont l'audition lui
-paraît utile, sous réserve que celle-ci intervienne à titre gratuit.
+Le débiteur, informé de cette faculté par la notification de la décision de recevabilité, est entendu à sa demande par la
+commission. Celle-ci peut également entendre toute personne dont l'audition lui paraît utile, sous réserve que celle-ci
+intervienne à titre gratuit.
 
 La commission peut faire publier un appel aux créanciers.
 
 Après avoir été informés par la commission de l'état du passif déclaré par le débiteur, les créanciers disposent d'un délai
 de trente jours pour fournir, en cas de désaccord sur cet état, les justifications de leurs créances en principal, intérêts
 et accessoires. A défaut, la créance est prise en compte par la commission au vu des seuls éléments fournis par le débiteur.
+L'information des établissements de crédit et des comptables du Trésor peut être effectuée par télécopie ou par courrier
+électronique dans des conditions fixées par décret.
 
 Les créanciers doivent alors indiquer si les créances en cause ont donné lieu à une caution et si celle-ci a été actionnée. 
 
-Nonobstant toute disposition contraire, elle peut obtenir communication, auprès des administrations publiques, des
-établissements de crédit, des organismes de sécurité et de prévoyance sociale ainsi que des serviçes chargés de centraliser
+Nonobstant toute disposition contraire, la commission peut obtenir communication, auprès des administrations publiques, des
+établissements de crédit, des organismes de sécurité et de prévoyance sociale ainsi que des services chargés de centraliser
 les risques bancaires et les incidents de paiement, de tout renseignement de nature à lui donner une exacte information sur
 la situation du débiteur, l'évolution possible de celle-ci et les procédures de conciliation amiables en cours.
 
 Les collectivités territoriales et les organismes de sécurité sociale procèdent, à sa demande, à des enquêtes sociales.
+
+Si l'instruction de la demande fait apparaître que le débiteur est dans la situation irrémédiablement compromise définie au
+troisième alinéa de l'article L. 330-1, la commission, après avoir convoqué le débiteur et obtenu son accord, saisit le juge
+de l'exécution aux fins d'ouverture d'une procédure de rétablissement personnel. L'absence de réponse du débiteur aux
+convocations vaut refus de cette saisine. En cas de refus du débiteur, la commission reprend sa mission dans les termes des
+articles L. 331-6, L. 331-7 et L. 331-7-1.
+
+Le juge de l'exécution est compétent pour connaître des recours dirigés contre les décisions rendues par la commission en
+matière de recevabilité et d'orientation du dossier.
 
 **Liens relatifs à cet article**
 
@@ -13914,18 +14157,17 @@ Les collectivités territoriales et les organismes de sécurité sociale procèd
 
 	  - Loi n°93-949 1993-07-26
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 (champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie)
-	  - SPEC_APPLI: Loi n°98-657 1998-07-29 art. 99 (modalités d'application)
-
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 89 () JORF 31 juillet 1998
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
 
 	**Cite**:
 
+	  - Code de la consommation - art. L330-1 (V)
 	  - Code de la consommation - art. L331-2 (M)
+	  - Code de la consommation - art. L331-6 (M)
+	  - Code de la consommation - art. L331-7 (M)
+	  - Code de la consommation - art. L331-7-1 (M)
 
 
 ###### Article L331-4
@@ -14047,7 +14289,10 @@ Le plan peut subordonner ces mesures à l'accomplissement par le débiteur d'act
 paiement de la dette. Il peut également les subordonner à l'abstention par le débiteur d'actes qui aggraveraient son
 insolvabilité.
 
-Le plan prévoit les modalités de son exécution.
+Le plan prévoit les modalités de son exécution. Sa durée totale, y compris lorsqu'il fait l'objet d'une révision ou d'un
+renouvellement, ne peut excéder dix années. Les mesures du plan peuvent excéder ces délais lorsqu'elles concernent le
+remboursement de prêts contractés pour l'achat d'un bien immobilier constituant la résidence principale et dont le plan
+permet d'éviter la cession par le débiteur.
 
 **Liens relatifs à cet article**
 
@@ -14055,14 +14300,9 @@ Le plan prévoit les modalités de son exécution.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
-	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -14103,19 +14343,18 @@ Le plan prévoit les modalités de son exécution.
 En cas d'échec de sa mission de conciliation, la commission peut, à la demande du débiteur et après avoir mis les parties en
 mesure de fournir leurs observations, recommander tout ou partie des mesures suivantes :
 
-1° Rééchelonner, y compris, le cas échéant, en différant le paiement d'une partie des dettes, le paiement des dettes autres
-que fiscales, parafiscales ou envers les organismes de sécurité sociale, sans que le délai de report ou de rééchelonnement
-puisse excéder huit ans ou la moitié de la durée de remboursement restant à courir des emprunts en cours ; en cas de
-déchéance du terme, le délai de report ou de rééchelonnement peut atteindre la moitié de la durée qui restait à courir avant
-la déchéance ;
+1° Rééchelonner le paiement des dettes de toute nature, y compris, le cas échéant, en différant le paiement d'une partie
+d'entre elles, sans que le délai de report ou de rééchelonnement puisse excéder dix ans ou la moitié de la durée de
+remboursement restant à courir des emprunts en cours ; en cas de déchéance du terme, le délai de report ou de rééchelonnement
+peut atteindre la moitié de la durée qui restait à courir avant la déchéance ;
 
 2° Imputer les paiements, d'abord sur le capital ;
 
 3° Prescrire que les sommes correspondant aux échéances reportées ou rééchelonnées porteront intérêt à un taux réduit qui
-peut être inférieur au taux d'intérêt légal sur proposition spéciale et motivé et si la situation du débiteur l'exige. Quelle
-que soit la durée du plan de redressement, le taux ne peut être supérieur au taux légal.
+peut être inférieur au taux d'intérêt légal sur proposition spéciale et motivée et si la situation du débiteur l'exige.
+Quelle que soit la durée du plan de redressement, le taux ne peut être supérieur au taux légal.
 
-4° En cas de vente forcé du logement principal du débiteur, grevé d'une inscription bénéficiant à un établissement de crédit
+4° En cas de vente forcée du logement principal du débiteur, grevé d'une inscription bénéficiant à un établissement de crédit
 ayant fourni les sommes nécessaires à son acquisition, réduire, par proposition spéciale et motivée, le montant de la
 fraction des prêts immobiliers restant due aux établissements de crédit après la vente, après imputation du prix de vente sur
 le capital restant dû, dans des proportions telles que son paiement, assorti d'un rééchelonnement calculé comme il est dit
@@ -14134,7 +14373,10 @@ Pour l'application du présent article, la commission prend en compte la connais
 lors de la conclusion des différents contrats, de la situation d'endettement du débiteur. Elle peut également vérifier que le
 contrat a été consenti avec le sérieux qu'imposent les usages professionnels.
 
-Les dispositions du présent article ne s'appliquent pas aux dettes d'aliments.
+La durée totale des recommandations ne peut excéder dix années. Elles peuvent cependant excéder ce délai lorsqu'elles
+concernent le remboursement de prêts contractés lors d'achat d'un bien immobilier constituant la résidence principale et dont
+les recommandations de la commission permettent d'éviter la cession. Les dettes fiscales font l'objet d'un rééchelonnement
+dans les mêmes conditions que les autres dettes.
 
 La demande du débiteur formée en application du premier alinéa interrompt la prescription et les délais pour agir.
 
@@ -14201,41 +14443,34 @@ La demande du débiteur formée en application du premier alinéa interrompt la 
 
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 92 () JORF 31 juillet 1998
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
 
 
 ###### Article L331-7-1
 
-Lorsque la commission constate l'insolvabilité du débiteur caractérisée par l'absence de ressources ou de biens saisissables
-de nature à permettre d'apurer tout ou partie de ses dettes et rendant inapplicables les mesures prévues à l'article L.
-331-7, elle peut recommander la suspension de l'exigibilité des créances autres qu'alimentaires ou fiscales pour une durée
-qui ne peut excéder trois ans. Sauf proposition contraire de la commission, la suspension de la créance entraîne la
-suspension du paiement des intérêts dus à ce titre. Durant cette période, seules les sommes dues au titre du capital peuvent
-être de plein droit productives d'intérêts dont le taux n'excède pas le taux légal.
-
-Les dettes fiscales peuvent faire l'objet de remises totales ou partielles dans les conditions visées à l'article L. 247 du
-livre des procédures fiscales.
+Lorsque la commission constate, sans retenir son caractère irrémédiable, l'insolvabilité du débiteur caractérisée par
+l'absence de ressources ou de biens saisissables de nature à permettre d'apurer tout ou partie de ses dettes et rendant
+inapplicables les mesures prévues à l'article L. 331-7, elle peut recommander la suspension de l'exigibilité des créances
+autres qu'alimentaires pour une durée qui ne peut excéder deux ans. Sauf proposition contraire de la commission, la
+suspension de la créance entraîne la suspension du paiement des intérêts dus à ce titre. Durant cette période, seules les
+sommes dues au titre du capital peuvent être de plein droit productives d'intérêts dont le taux n'excède pas le taux légal.
 
 A l'issue de la période visée au premier alinéa, la commission réexamine la situation du débiteur. Si cette situation le
 permet, elle recommande tout ou partie des mesures prévues à l'article L. 331-7. Si le débiteur demeure insolvable, elle
-recommande, par une proposition spéciale et motivée, l'effacement total ou partiel des créances autres qu'alimentaires ou
-fiscales. Les dettes fiscales peuvent faire l'objet de remises totales ou partielles dans les conditions visées à l'article
-L. 247 du livre des procédures fiscales. Aucun nouvel effacement ne peut intervenir, dans une période de huit ans, pour des
-dettes similaires à celles qui ont donné lieu à un effacement.
+recommande, par une proposition spéciale et motivée, l'effacement partiel des créances. Celles dont le prix a été payé au
+lieu et place du débiteur par la caution ou le coobligé ne peuvent faire l'objet d'un effacement. Les dettes fiscales font
+l'objet de remises totales ou partielles dans les mêmes conditions que les autres dettes. Aucun nouvel effacement ne peut
+intervenir, dans une période de huit ans, pour des dettes similaires à celles qui ont donné lieu à un effacement.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales L247
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 93 () JORF 31 juillet 1998
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -14277,6 +14512,38 @@ dettes similaires à celles qui ont donné lieu à un effacement.
 	  - Code de la consommation - art. R334-4 (Ab)
 	  - Code de la consommation - art. R334-7 (Ab)
 	  - Code de la consommation - art. R334-8 (Ab)
+
+
+###### Article L331-7-2
+
+Si, en cours d'exécution d'un plan conventionnel ou de recommandations, il apparaît que la situation du débiteur devient
+irrémédiablement compromise dans les conditions prévues au troisième alinéa de l'article L. 330-1, le débiteur peut saisir la
+commission afin de bénéficier d'une procédure de rétablissement personnel. Après avoir constaté la bonne foi du débiteur, la
+commission saisit le juge de l'exécution aux fins d'ouverture de la procédure. Le plan ou les recommandations dont
+l'exécution a été interrompue sont caducs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code de la consommation - art. L330-1 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L332-1 (VT)
+	  - Code de la consommation - art. L332-2 (VD)
+	  - Code de la consommation - art. R331-10-2 (Ab)
+	  - Code de la consommation - art. R334-10 (Ab)
+	  - Code de la consommation - art. R334-11 (Ab)
+	  - Code de la consommation - art. R334-13 (Ab)
 
 
 ###### Article L331-8
@@ -14409,7 +14676,9 @@ cadre de la procédure instituée par le présent chapitre, à peine des sanctio
 	  - Code pénal - art. 226-13 (M)
 
 
-#### Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement.
+#### Chapitre II : Des compétences du juge de l'exécution en matière de traitement des situations de surendettement
+
+##### Section 1 : Du contrôle par le juge des mesures recommandées par la commission de surendettement
 
 ###### Article L332-1
 
@@ -14428,13 +14697,9 @@ l'article L. 331-7-1 après en avoir vérifié la régularité et le bien-fondé
 
 	  - Loi n°93-949 1993-07-26
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 93 () JORF 31 juillet 1998
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -14482,11 +14747,6 @@ la situation du débiteur et l'évolution possible de celle-ci.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-	  - PILOTE_SUIVEUR: Livre des procédures fiscales - art. L145 D (V)
-
 	**Cité par**:
 
 	  - Décret n°95-660 du 9 mai 1995 - art. 22 (Ab)
@@ -14523,12 +14783,16 @@ la situation du débiteur et l'évolution possible de celle-ci.
 
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 93 () JORF 31 juillet 1998
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
 
 	**Cite**:
 
 	  - Code de la consommation - art. L331-2 (M)
 	  - Code de la consommation - art. L331-7-1 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Livre des procédures fiscales - art. L145 D (V)
 
 
 ###### Article L332-3
@@ -14547,10 +14811,6 @@ déterminée comme il est dit au deuxième alinéa de l'article L. 331-2. Elle e
 
 	  - Loi n°93-949 1993-07-26
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-
 	**Cité par**:
 
 	  - Décret n°95-660 du 9 mai 1995 - art. 31 (Ab)
@@ -14560,7 +14820,7 @@ déterminée comme il est dit au deuxième alinéa de l'article L. 331-2. Elle e
 
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 95 () JORF 31 juillet 1998
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
 
 	**Cite**:
 
@@ -14570,21 +14830,12 @@ déterminée comme il est dit au deuxième alinéa de l'article L. 331-2. Elle e
 	  - Code de la consommation - art. L332-2 (M)
 
 
-#### Chapitre II : Redressement judiciaire civil.
-
 ###### Article L332-4
 
 L'effacement d'une créance en application de l'article L. 332-1 ou de l'article L. 332-2 vaut régularisation de l'incident de
-paiement au sens de l'article 65-3 du décret du 30 octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes
-de paiement.
+paiement au sens de l'article L. 131-73 du code monétaire et financier.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1935-10-30 art. 65-3
-	  - Code de la consommation - art. L332-1 (M)
-	  - Code de la consommation - art. L332-2 (M)
 
 	**Anciens textes**:
 
@@ -14594,9 +14845,13 @@ de paiement.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 96 () JORF 31 juillet 1998
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
@@ -14605,18 +14860,334 @@ de paiement.
 	  - Code de la consommation - art. R334-18 (Ab)
 	  - Code monétaire et financier - art. R131-21-1 (V)
 
+	**Cite**:
+
+	  - Code de la consommation - art. L332-1 (VT)
+	  - Code de la consommation - art. L332-2 (VT)
+	  - Code monétaire et financier - art. L131-73
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L733-18 (V)
+
+
+##### Section 2 : De la procédure de rétablissement personnel
+
+###### Article L332-5
+
+A l'occasion des recours exercés devant le juge de l'exécution pour contester les décisions de la commission en matière
+d'orientation du dossier ou en application des articles L. 331-4 et L. 332-2, celui-ci peut, avec l'accord du débiteur,
+décider l'ouverture d'une procédure de rétablissement personnel.
+
+Si, au terme d'un délai de neuf mois à compter du dépôt du dossier, la commission n'a pas décidé de son orientation, le
+débiteur peut saisir le juge aux fins d'ouverture d'une procédure de rétablissement personnel. Au cours des trois mois
+suivant la date d'expiration du délai visé au premier alinéa de l'article L. 331-3, le taux d'intérêt applicable à tous les
+emprunts en cours contractés par le débiteur est le taux d'intérêt légal, sauf décision contraire de la commission
+intervenant au cours de cette période ou décision contraire du juge intervenant à son issue.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°89-1010 du 31 décembre 1989 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Arrêté du 26 octobre 2010 - art. 10 (M)
+	  - Arrêté du 26 octobre 2010 - art. 17 (V)
+	  - Arrêté du 24 décembre 2010 (V)
+	  - Code de la consommation - art. L331-3-1 (VD)
+	  - Code de la consommation - art. L331-3-2 (VT)
+	  - Code de la consommation - art. L331-7-3 (VT)
+	  - Code de la consommation - art. L332-11 (VT)
+	  - Code de la consommation - art. L332-5-1 (VT)
+	  - Code de la consommation - art. L332-5-2 (VT)
+	  - Code de la consommation - art. L332-6 (Ab)
+	  - Code de la consommation - art. L332-7 (Ab)
+	  - Code de la consommation - art. L333-1-2 (VD)
+	  - Code de la consommation - art. L333-4 (MMN)
+	  - Code de la consommation - art. L333-7 (V)
+	  - Code de la consommation - art. R331-10-3 (Ab)
+	  - Code de la consommation - art. R331-11 (Ab)
+	  - Code de la consommation - art. R331-7-3 (Ab)
+	  - Code de la consommation - art. R332-11 (Ab)
+	  - Code de la consommation - art. R333-1 (Ab)
+	  - Code de la consommation - art. R334-22 (Ab)
+	  - Code général des impôts, CGI. - art. 1756 (VT)
+	  - Livre des procédures fiscales - art. L247 A (M)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L331-3 (M)
+	  - Code de la consommation - art. L331-4 (M)
+	  - Code de la consommation - art. L332-2 (M)
+
+
+###### Article L332-6
+
+Le juge de l'exécution, dans le délai d'un mois, convoque le débiteur et les créanciers connus à une audience d'ouverture de
+la procédure de rétablissement personnel. Il peut inviter un travailleur social à assister à cette audience. Le juge, après
+avoir entendu le débiteur s'il se présente et apprécié le caractère irrémédiablement compromis de sa situation ainsi que sa
+bonne foi, rend un jugement prononçant l'ouverture de la procédure.
+
+Le jugement entraîne la suspension des procédures d'exécution diligentées contre le débiteur et portant sur les dettes autres
+qu'alimentaires. En cas de publication d'un commandement aux fins de saisie immobilière antérieurement à l'ouverture de la
+procédure, le juge de la saisie immobilière est seul compétent pour prononcer la suspension de la procédure. La suspension
+est acquise jusqu'au jugement de clôture.
+
+Le juge de l'exécution peut désigner un mandataire figurant sur une liste établie dans des conditions fixées par décret en
+Conseil d'Etat, faire procéder à une enquête sociale et ordonner un suivi social du débiteur.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Arrêté du 29 mars 2004 - art. 1 (V)
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 22 (VT)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1740 octies (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1756 (VD)
+	  - Code de la consommation - art. L332-7 (Ab)
+	  - Code de la consommation - art. L333-2-1 (VD)
+	  - Code de la consommation - art. L334-5 (VT)
+	  - Code de la consommation - art. R332-13 (Ab)
+	  - Code de la consommation - art. R334-32 (Ab)
+	  - Code de la consommation - art. R334-33 (Ab)
+	  - Livre des procédures fiscales - art. L247 A (V)
+
+
+###### Article L332-7
+
+Le mandataire ou, à défaut, le juge procède aux mesures de publicité destinées à recenser les créanciers qui produisent leurs
+créances dans des conditions prévues par décret en Conseil d'Etat ; les créances qui n'ont pas été produites dans un délai
+fixé par ce décret sont éteintes, sauf à ce que soit prononcé par le juge un relevé de forclusion. Le mandataire dresse un
+bilan de la situation économique et sociale du débiteur, vérifie les créances et évalue les éléments d'actif et de passif. A
+compter du jugement prononçant l'ouverture de la procédure, le débiteur ne peut aliéner ses biens sans l'accord du mandataire
+ou, à défaut de mandataire désigné, du juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L742-10 (V)
+	  - Code de la consommation - art. L742-11 (V)
+	  - Code de la consommation - art. L742-12 (V)
+	  - Code de la consommation - art. L742-8 (V)
+	  - Code de la consommation - art. L742-9 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R334-35 (Ab)
+
+
+###### Article L332-8
+
+Le juge statue sur les éventuelles contestations de créances et prononce la liquidation judiciaire du patrimoine personnel du
+débiteur, dont sont exclus les biens meublants nécessaires à la vie courante et les biens non professionnels indispensables à
+l'exercice de son activité professionnelle. Il se prononce, le cas échéant, au vu du rapport rendu par le mandataire dans un
+délai de quatre mois à compter de sa désignation.
+
+Le juge désigne un liquidateur qui peut être le mandataire. Le jugement qui prononce la liquidation emporte de plein droit
+dessaisissement du débiteur de la disposition de ses biens. Ses droits et actions sur son patrimoine personnel sont exercés
+pendant toute la durée de la liquidation par le liquidateur.
+
+Le liquidateur dispose d'un délai de douze mois pour vendre les biens du débiteur à l'amiable ou, à défaut, organiser une
+vente forcée dans les conditions relatives aux procédures civiles d'exécution.
+
+En cas de vente forcée, lorsqu'une procédure de saisie immobilière engagée avant le jugement d'ouverture a été suspendue par
+l'effet de ce dernier, les actes effectués par le créancier saisissant sont réputés accomplis pour le compte du liquidateur
+qui procède à la vente des immeubles. La saisie immobilière peut reprendre son cours au stade où le jugement d'ouverture
+l'avait suspendue.
+
+Le liquidateur procède à la répartition du produit des actifs et désintéresse les créanciers suivant le rang des sûretés
+assortissant leurs créances.
+
+Le liquidateur rend compte de sa mission au juge dans des conditions fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R331-10-1 (Ab)
+	  - Code de la consommation - art. R332-19 (Ab)
+	  - Code de la consommation - art. R332-25 (Ab)
+	  - Code de la consommation - art. R332-35 (Ab)
+	  - Code de la consommation - art. R334-28 (Ab)
+	  - Code de la consommation - art. R334-46 (Ab)
+	  - Code de la consommation - art. R334-47 (Ab)
+	  - Code de la consommation - art. R336-3 (Ab)
+
+
+###### Article L332-9
+
+Lorsque l'actif réalisé est suffisant pour désintéresser les créanciers, le juge prononce la clôture de la procédure. Lorsque
+l'actif réalisé est insuffisant pour désintéresser les créanciers ou lorsque le débiteur ne possède rien d'autre que des
+biens meublants nécessaires à la vie courante et des biens non professionnels indispensables à l'exercice de son activité
+professionnelle, le juge prononce la clôture pour insuffisance d'actif.
+
+La clôture entraîne l'effacement de toutes les dettes non professionnelles du débiteur, à l'exception de celles dont le prix
+a été payé au lieu et place du débiteur par la caution ou le coobligé.
+
+Le juge peut ordonner des mesures de suivi social du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L332-11 (VT)
+	  - Code de la consommation - art. L332-6-1 (VT)
+	  - Code de la consommation - art. L333-1-2 (VD)
+	  - Code de la consommation - art. L333-4 (VT)
+	  - Code de la consommation - art. L334-5 (VT)
+
+
+###### Article L332-10
+
+A titre exceptionnel, s'il estime que la liquidation judiciaire peut être évitée, le juge établit, le cas échéant sur
+proposition du mandataire, un plan comportant les mesures visées à l'article L. 331-7.
+
+Le jugement qui arrête le plan le rend opposable à tous. La durée du plan est fixée par le juge. Elle ne peut excéder dix
+ans. En cas d'inexécution du plan, le juge en prononce la résolution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Arrêté du 29 mars 2004 - art. 1 (V)
+	  - Arrêté du 29 mars 2004 - art. 3 (V)
+	  - Code de la consommation - art. R332-20 (Ab)
+	  - Code de la consommation - art. R332-21 (Ab)
+	  - Code de la consommation - art. R334-40 (Ab)
+	  - Code de la consommation - art. R334-74 (Ab)
+	  - Code de la consommation - art. R334-75 (Ab)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L331-7 (M)
+
+
+###### Article L332-11
+
+Les personnes ayant bénéficié de la procédure de rétablissement personnel font l'objet, à ce titre, d'une inscription au
+fichier prévu à l'article L. 333-4, pour une période de huit ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code de la consommation - art. L333-4 (M)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R334-76 (Ab)
+	  - Code monétaire et financier - art. R131-21-1 (V)
+
+
+###### Article L332-12
+
+A tout moment de la procédure, le juge peut, s'il estime que la situation du débiteur n'est pas irrémédiablement compromise,
+renvoyer le dossier à la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L743-2 (M)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R332-22 (Ab)
+	  - Code de la consommation - art. R334-77 (Ab)
+
 
 #### Chapitre III : Dispositions communes
 
 ###### Article L333-1
 
-Les créances des organismes de prévoyance ou de sécurité sociale peuvent faire l'objet de remises dans des conditions prévues
-par décret en Conseil d'Etat.
+Sauf accord du créancier, sont exclues de toute remise, de tout rééchelonnement ou effacement :
 
-**Nota:**
+1° Les dettes alimentaires ;
 
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
+2° Les réparations pécuniaires allouées aux victimes dans le cadre d'une condamnation pénale.
+
+Les amendes prononcées dans le cadre d'une condamnation pénale sont exclues de toute remise, de tout rééchelonnement ou
+effacement.
 
 **Liens relatifs à cet article**
 
@@ -14629,9 +15200,9 @@ par décret en Conseil d'Etat.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -14644,16 +15215,14 @@ par décret en Conseil d'Etat.
 
 Est déchue du bénéfice des dispositions du présent titre :
 
-1° Toute personne qui aura sciemment fait de fausses déclarations ou remis des documents inexacts en vue d'obtenir le
-bénéfice de la procédure de traitement de la situation de surendettement ;
+1° Toute personne qui aura sciemment fait de fausses déclarations ou remis des documents inexacts ;
 
-2° Toute personne qui, dans le même but, aura détourné ou dissimulé, ou tenté de détourner ou de dissimuler, tout ou partie
-de ses biens ;
+2° Toute personne qui aura détourné ou dissimulé, ou tenté de détourner ou de dissimuler, tout ou partie de ses biens ;
 
 3° Toute personne qui, sans l'accord de ses créanciers, de la commission ou du juge, aura aggravé son endettement en
 souscrivant de nouveaux emprunts ou aura procédé à des actes de disposition de son patrimoine pendant le déroulement de la
-procédure de traitement de la situation de surendettement, ou pendant l'exécution du plan ou des mesures de l'article L.
-331-7 ou de l'article L. 331-7-1.
+procédure de traitement de la situation de surendettement ou de rétablissement personnel ou pendant l'exécution du plan ou
+des mesures de l'article L. 331-7 ou de l'article L. 331-7-1.
 
 **Liens relatifs à cet article**
 
@@ -14665,13 +15234,9 @@ procédure de traitement de la situation de surendettement, ou pendant l'exécut
 
 	  - Loi n°93-949 1993-07-26
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 93 () JORF 31 juillet 1998
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -14770,20 +15335,22 @@ Les établissements de crédit visés par la loi n° 84-46 du 24 janvier 1984 re
 établissements de crédit ainsi que les services financiers de La Poste sont tenus de déclarer à la Banque de France les
 incidents visés à l'alinéa précédent.
 
-Lorsque la commission instituée à l'article L. 331-1 a vérifié que le débiteur qui l'a saisie se trouve dans la situation
-visée à l'article L. 331-2, elle en informe la Banque de France aux fins d'inscription au fichier institué au premier alinéa
-du présent article. La même obligation pèse sur le greffe du juge de l'exécution lorsque, sur recours de l'intéressé en
-application du deuxième alinéa de l'article L. 331-3, la situation visée à l'article L. 331-2 est reconnue par ce juge.
+Dès que la commission instituée à l'article L. 331-1 est saisie par un débiteur en application du premier alinéa de l'article
+L. 331-3, elle en informe la Banque de France aux fins d'inscription au fichier institué au premier alinéa du présent
+article. La même obligation pèse sur le greffe du juge de l'exécution lorsque, sur recours de l'intéressé en application du
+deuxième alinéa de l'article L. 331-3, la situation visée à l'article L. 331-2 est reconnue par ce juge ou lorsque le
+débiteur a bénéficié de l'effacement des dettes résultant de la procédure de rétablissement personnel en application de
+l'article L. 332-9.
 
 Le fichier recense les mesures du plan conventionnel de redressement mentionnées à l'article L. 331-6. Ces mesures sont
 communiquées à la Banque de France par la commission. L'inscription est conservée pendant toute la durée de l'exécution du
-plan conventionnel, sans pouvoir excéder huit ans.
+plan conventionnel, sans pouvoir excéder dix ans.
 
 Le fichier recense également les mesures prises en vertu des articles L. 331-7 et L. 331-7-1 qui sont communiquées à la
 Banque de France par le greffe du juge de l'exécution. S'agissant des mesures définies à l'article L. 331-7 et au premier
 alinéa de l'article L. 331-7-1, l'inscription est conservée pendant toute la durée d'exécution de ces mesures, sans pouvoir
-excéder huit ans. S'agissant des mesures définies au troisième alinéa de l'article L. 331-7-1, la durée d'inscription est
-fixée à huit ans.
+excéder dix ans. S'agissant des mesures définies au troisième alinéa de l'article L. 331-7-1, la durée d'inscription est
+fixée à dix ans.
 
 La Banque de France est seule habilitée à centraliser les informations visées à l'alinéa précédent.
 
@@ -14800,8 +15367,8 @@ prévues aux articles 43 et 44 de la même loi.
 
 **Nota:**
 
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
+Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
+16 décembre 1994.
 
 **Liens relatifs à cet article**
 
@@ -14817,6 +15384,7 @@ prévues aux articles 43 et 44 de la même loi.
 	  - Code de la consommation - art. L331-6 (M)
 	  - Code de la consommation - art. L331-7 (M)
 	  - Code de la consommation - art. L331-7-1 (M)
+	  - Code de la consommation - art. L332-9 (M)
 
 	**Anciens textes**:
 
@@ -14829,7 +15397,8 @@ prévues aux articles 43 et 44 de la même loi.
 
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 97 () JORF 31 juillet 1998
+	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+	  - Loi n°2003-710 du 1 août 2003 - art. 36 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -14866,14 +15435,9 @@ prévues aux articles 43 et 44 de la même loi.
 
 ###### Article L333-5
 
-Un règlement du comité de la réglementation bancaire, pris après avis de la Commission nationale de l'informatique et des
-libertés et du comité consultatif institué par l'article 59 de la loi n° 84-46 du 24 janvier 1984 précitée, fixe notamment
-les modalités de collecte, d'enregistrement, de conservation et de consultation de ces informations.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
+Un arrêté du ministre, pris après avis de la Commission nationale de l'informatique et des libertés et du comité consultatif
+du secteur financier, fixe notamment les modalités de collecte, d'enregistrement, de conservation et de consultation de ces
+informations.
 
 **Liens relatifs à cet article**
 
@@ -14883,17 +15447,13 @@ les modalités de collecte, d'enregistrement, de conservation et de consultation
 	  - Loi n°89-1010 1989-12-31 art. 23 al. 8
 	  - Loi n°89-1010 du 31 décembre 1989 - art. 23 (Ab)
 
-	**Cite**:
-
-	  - Loi n°84-46 du 24 janvier 1984 - art. 59 (M)
-
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
