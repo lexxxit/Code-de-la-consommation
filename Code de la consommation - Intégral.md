@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1995-02-02
+Version Consolidée au 1995-08-01
 
 # Partie législative
 
@@ -9517,29 +9517,37 @@ nées de contrats conclus antérieurement au 1er juillet 1989.
 
 Lorsque les modalités de règlement des échéances impayées ont fait l'objet d'un réaménagement ou d'un rééchelonnement, le
 point de départ du délai de forclusion est le premier incident non régularisé intervenu après le premier aménagement ou
-rééchelonnement conclu entre les intéressés ou après adoption d'un plan de règlement ou après décision du juge survenue en
-application du titre III du présent livre.
+rééchelonnement conclu entre les intéressés ou après adoption du plan conventionnel de redressement prévu à l'article L.
+331-6 ou après décision du juge de l'exécution sur les mesures mentionnées à l'article L. 331-7.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°78-22 du 10 janvier 1978 - art. 27 (M)
 	  - Loi n°78-22 du 10 janvier 1978 - art. 27 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 27 () JORF 9 février 1995 en vigueur le 1er août 1995
 
 	**Cité par**:
 
 	  - Code de la consommation - art. D311-4-3 (Ab)
 	  - Code de la consommation - art. L311-10 (VD)
 	  - Code de la consommation - art. L311-50 (VT)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L331-6 (M)
+	  - Code de la consommation - art. L331-7 (M)
 
 
 #### Chapitre II : Crédit immobilier
@@ -11704,6 +11712,740 @@ date, les dossiers en cours devront être intégralement remis aux débiteurs pa
 
 ### Titre III : Traitement des situations de surendettement
 
+#### Chapitre Ier : De la procédure devant la commission de surendettement des particuliers
+
+###### Article L331-1
+
+Il est institué, dans chaque département, au moins une commission de surendettement des particuliers.
+
+Elle comprend le représentant de l'Etat dans le département, président, le trésorier-payeur général, vice-président, le
+représentant local de la Banque de France, qui en assure le secrétariat, ainsi que deux personnalités choisies par le
+représentant de l'Etat dans le département, l'une sur proposition de l'Association française des établissements de crédit et
+l'autre sur proposition des associations familiales ou de consommateurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+
+	**Cité par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 15 (Ab)
+	  - Décret n°2007-1688 du 29 novembre 2007 - art. 9 (V)
+	  - Décret n°2008-187 du 26 février 2008 - art. 2 (Ab)
+	  - Décret n°2015-1384 du 30 octobre 2015 - art. 16 (V)
+	  - Décret n°2015-1384 du 30 octobre 2015 - art. 2 (V)
+	  - Décret n°2015-1384 du 30 octobre 2015 - art. 4 (V)
+	  - Décret n°2016-393 du 31 mars 2016 - art. 2 (V)
+	  - Décret n°2016-393 du 31 mars 2016 - art. 4 (V)
+	  - Code de l'action sociale et des familles - art. Annexe 1-1 (V)
+	  - Code de la consommation - art. L331-2 (VT)
+	  - Code de la consommation - art. L331-3 (M)
+	  - Code de la consommation - art. L331-7 (M)
+	  - Code de la consommation - art. L332-6 (Ab)
+	  - Code de la consommation - art. L333-4 (VT)
+	  - Code de la consommation - art. L334-9 (V)
+	  - Code de la consommation - art. R331-3 (Ab)
+	  - Code de la consommation - art. R331-4 (Ab)
+	  - Code de la consommation - art. R331-5 (Ab)
+	  - Code de la consommation - art. R331-6-1 (Ab)
+	  - Code de la consommation - art. R333-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*351-30 (VD)
+	  - Code de la construction et de l'habitation. - art. R351-31-1 (VD)
+	  - Code de la sécurité sociale. - art. D542-19 (V)
+	  - Code de la sécurité sociale. - art. D542-22-5 (VD)
+	  - Code de la sécurité sociale. - art. D755-30 (M)
+	  - Code de la sécurité sociale. - art. R831-16 (V)
+	  - Code de la sécurité sociale. - art. R831-21-5 (VD)
+	  - Code de procédure civile - art. 673 (Ab)
+	  - Code des postes et des communications électroni... - art. L35-1 (V)
+	  - Code des procédures civiles d'exécution - art. R321-3 (VD)
+	  - Code des procédures civiles d'exécution - art. R612-7 (Ab)
+	  - Livre des procédures fiscales - art. L139 A (M)
+	  - Livre des procédures fiscales - art. L247 (M)
+	  - Livre des procédures fiscales - art. L247 A (M)
+	  - Livre des procédures fiscales - art. R*247 A-1 (M)
+	  - Livre des procédures fiscales - art. R*247-10 A (T)
+	  - Livre des procédures fiscales - art. R*247-18 (M)
+
+
+###### Article L331-2
+
+La commission a pour mission de traiter, dans les conditions prévues par le présent chapitre, la situation de surendettement
+des personnes physiques, caractérisée par l'impossibilité manifeste pour le débiteur de bonne foi de faire face à l'ensemble
+de ses dettes non professionnelles exigibles et à échoir.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°87-544 du 17 juillet 1987 - art. 22 (MMN)
+	  - Loi n°98-657 du 29 juillet 1998 - art. 98 (V)
+	  - Code civil - art. 2024 (T)
+	  - Code civil - art. 2301 (V)
+	  - Code de la consommation - art. L331-12 (Ab)
+	  - Code de la consommation - art. L331-3 (V)
+	  - Code de la consommation - art. L332-1 (M)
+	  - Code de la consommation - art. L332-2 (V)
+	  - Code de la consommation - art. L332-3 (VT)
+	  - Code de la consommation - art. L332-5-1 (VT)
+	  - Code de la consommation - art. L332-5-2 (VT)
+	  - Code de la consommation - art. L333-4 (VT)
+	  - Code de la consommation - art. L334-2 (VD)
+	  - Code de la consommation - art. L334-5 (VT)
+	  - Code de la consommation - art. L334-9 (VT)
+	  - Code de la consommation - art. R331-15-1 (Ab)
+	  - Code de la consommation - art. R334-1 (Ab)
+	  - Code du travail - art. R3324-22 (V)
+	  - Code du travail - art. R3334-4 (VD)
+	  - Code du travail - art. R442-17 (M)
+	  - Code du travail - art. R443-12 (M)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+
+
+###### Article L331-3
+
+La procédure est engagée devant la commission à la demande du débiteur.
+
+La commission vérifie que le demandeur se trouve dans la situation définie à l'article L. 331-2. Le juge de l'exécution est
+compétent pour connaître des recours dirigés contre les décisions rendues par elle à ce titre.
+
+La commission dresse l'état d'endettement du débiteur. Celui-ci est tenu de lui déclarer les éléments actifs et passifs de
+son patrimoine.
+
+Elle peut entendre toutes les personnes dont l'audition lui paraît utile.
+
+La commission peut faire publier un appel aux créanciers.
+
+Nonobstant toute disposition contraire, elle peut obtenir communication, auprès des administrations publiques, des
+établissements de crédit, des organismes de sécurité et de prévoyance sociale ainsi que des serviçes chargés de centraliser
+les risques bancaires et les incidents de paiement, de tout renseignement de nature à lui donner une exacte information sur
+la situation du débiteur, l'évolution possible de celle-ci et les procédures de conciliation amiables en cours.
+
+Les collectivités territoriales et les organismes de sécurité sociale procèdent, à sa demande, à des enquêtes sociales.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°89-462 du 6 juillet 1989 - art. 24-2 (V)
+	  - Décret n°95-660 du 9 mai 1995 - art. 11 (Ab)
+	  - Loi n°98-657 du 29 juillet 1998 - art. 99 (V)
+	  - Décret n°2003-1308 du 26 décembre 2003 - art. 5 (V)
+	  - Arrêté du 28 octobre 2008 - art. 4 (V)
+	  - Arrêté du 28 octobre 2008 (V)
+	  - Ordonnance n°2013-792 du 30 août 2013 - art. 18 (V)
+	  - Décret n°2015-1384 du 30 octobre 2015 - art. 10 (V)
+	  - Code de la consommation - art. L331-5 (VT)
+	  - Code de la consommation - art. L332-5 (VD)
+	  - Code de la consommation - art. L333-2-1 (VD)
+	  - Code de la consommation - art. L333-4 (VT)
+	  - Code de la consommation - art. L334-5 (VT)
+	  - Code de la consommation - art. L334-9 (VT)
+	  - Code de la consommation - art. R*331-9 (V)
+	  - Code de la consommation - art. R331-10 (Ab)
+	  - Code de la consommation - art. R331-10-1 (Ab)
+	  - Code de la consommation - art. R331-7-1 (Ab)
+	  - Code de la consommation - art. R331-7-3 (Ab)
+	  - Code de la consommation - art. R331-8-1 (Ab)
+	  - Code de la consommation - art. R331-8-2 (Ab)
+	  - Code de la consommation - art. R332-1 (Ab)
+	  - Code de la consommation - art. R332-2 (Ab)
+	  - Code de la consommation - art. R333-2 (Ab)
+	  - Code de la consommation - art. R334-28 (Ab)
+	  - Code de procédure civile - art. 703 (Ab)
+	  - Livre des procédures fiscales - art. L139 A (M)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+
+	**Cite**:
+
+	  - Code de la consommation - art. L331-2 (M)
+
+
+###### Article L331-4
+
+La commission peut saisir, en cas de difficulté, le juge de l'exécution d'une demande de vérification de la validité des
+titres de créance et du montant des sommes réclamées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+
+	**Cité par**:
+
+	  - Décret n°95-660 du 9 mai 1995 - art. 13 (Ab)
+	  - Loi n°98-657 du 29 juillet 1998 - art. 99 (V)
+	  - Code de la consommation - art. L330-1 (VT)
+	  - Code de la consommation - art. L332-5 (VD)
+	  - Code de la consommation - art. L334-5 (VD)
+	  - Code de la consommation - art. R*331-10 (V)
+	  - Code de la consommation - art. R*331-10-1 (T)
+	  - Code de la consommation - art. R*331-11 (V)
+	  - Code de la consommation - art. R332-2 (Ab)
+	  - Code de la consommation - art. R332-3 (Ab)
+
+
+###### Article L331-5
+
+La commission peut saisir le juge de l'exécution aux fins de suspension des procédures d'exécution diligentées contre le
+débiteur et portant sur les dettes autres qu'alimentaires.
+
+Si la situation du débiteur l'exige, le juge prononce la suspension provisoire des procédures d'exécution. Celle-ci n'est
+acquise que pour la durée de la procédure devant la commission sans pouvoir excéder un an.
+
+Lorsque la commission recommande les mesures prévues à l'article L. 331-7, la durée de la suspension provisoire est prolongée
+jusqu'à ce que le juge leur ait conféré force exécutoire, en application de l'article L. 332-1, ou, s'il a été saisi en
+application de l'article L. 332-2, jusqu'à ce qu'il ait statué.
+
+Sauf autorisation du juge, la décision qui prononce la suspension provisoire des procédures d'exécution interdit au débiteur
+de faire tout acte qui aggraverait son insolvabilité, de payer, en tout ou partie, une créance autre qu'alimentaire née
+antérieurement à cette décision, de désintéresser les cautions qui acquitteraient des créances nées antérieurement, de faire
+un acte de disposition étranger à la gestion normale du patrimoine ; elle interdit aussi la prise de toute garantie ou
+sûreté.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°89-1010 du 31 décembre 1989 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+
+	**Cité par**:
+
+	  - Décret n°95-660 du 9 mai 1995 - art. 16 (Ab)
+	  - Décret n°95-660 du 9 mai 1995 - art. 20 (Ab)
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 22 (VT)
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 61 (Ab)
+	  - Code de la consommation - art. R331-11-1 (Ab)
+	  - Code de la consommation - art. R331-11-2 (Ab)
+	  - Code de la consommation - art. R331-14 (Ab)
+	  - Code de la consommation - art. R331-18 (Ab)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L331-7 (M)
+	  - Code de la consommation - art. L332-1 (M)
+	  - Code de la consommation - art. L332-2 (M)
+
+
+###### Article L331-6
+
+La commission a pour mission de concilier les parties en vue de l'élaboration d'un plan conventionnel de redressement
+approuvé par le débiteur et ses principaux créanciers.
+
+Le plan peut comporter des mesures de report ou de rééchelonnement des paiements des dettes, de remise des dettes, de
+réduction ou de suppression du taux d'intérêt, de consolidation, de création ou de substitution de garantie.
+
+Le plan peut subordonner ces mesures à l'accomplissement par le débiteur d'actes propres à faciliter ou à garantir le
+paiement de la dette. Il peut également les subordonner à l'abstention par le débiteur d'actes qui aggraveraient son
+insolvabilité.
+
+Le plan prévoit les modalités de son exécution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+
+	**Cité par**:
+
+	  - Décret n°2008-1554 du 31 décembre 2008 (V)
+	  - Arrêté du 26 octobre 2010 - art. 10 (M)
+	  - Arrêté du 26 octobre 2010 - art. 11 (M)
+	  - Arrêté du 26 octobre 2010 - art. 17 (V)
+	  - Arrêté du 26 octobre 2010 - art. 7 (M)
+	  - Code de l'action sociale et des familles - art. R471-5-3 (V)
+	  - Code de la consommation - art. Annexe Modèle type n°1 (V)
+	  - Code de la consommation - art. Annexe Modèle type n°2 (V)
+	  - Code de la consommation - art. Annexe Modèle type n°3 (V)
+	  - Code de la consommation - art. Annexe Modèle type n°4 (V)
+	  - Code de la consommation - art. Annexe Modèle type n°5 (V)
+	  - Code de la consommation - art. Annexe Modèle type n°6 (V)
+	  - Code de la consommation - art. L311-3 (VT)
+	  - Code de la consommation - art. L311-37 (VT)
+	  - Code de la consommation - art. L311-52 (VT)
+	  - Code de la consommation - art. L330-1 (VT)
+	  - Code de la consommation - art. L331-2 (VT)
+	  - Code de la consommation - art. L331-3 (VT)
+	  - Code de la consommation - art. L331-3-1 (VD)
+	  - Code de la consommation - art. L331-3-2 (VT)
+	  - Code de la consommation - art. L331-5 (V)
+	  - Code de la consommation - art. L333-4 (VT)
+	  - Code de la consommation - art. L333-7 (VT)
+	  - Code de la consommation - art. R*331-10-2 (T)
+	  - Code de la consommation - art. R331-11 (Ab)
+	  - Code de la consommation - art. R331-15-1 (Ab)
+	  - Code de la consommation - art. R332-5 (Ab)
+	  - Code de la consommation - art. R334-5-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L353-15-2 (V)
+	  - Code de la construction et de l'habitation. - art. L442-6-5 (V)
+
+
+###### Article L331-7
+
+En cas d'échec de sa mission de conciliation, la commission peut, à la demande du débiteur et après avoir mis les parties en
+mesure de fournir leurs observations, recommander tout ou partie des mesures suivantes :
+
+1° Reporter ou rééchelonner le paiement des dettes autres que fiscales, parafiscales ou envers les organismes de sécurité
+sociale, sans que le délai de report ou de rééchelonnement puisse excéder cinq ans ou la moitié de la durée de remboursement
+restant à courir des emprunts en cours ; en cas de déchéance du terme, le délai de report ou de rééchelonnement peut
+atteindre la moitié de la durée qui restait à courir avant la déchéance ;
+
+2° Imputer les paiements, d'abord sur le capital ;
+
+3° Prescrire que les sommes correspondant aux échéances reportées ou rééchelonnées porteront intérêt à un taux réduit qui
+peut être inférieur au taux d'intérêt légal sur décision spéciale et motivée et si la situation du débiteur l'exige ;
+
+4° En cas de vente forcé du logement principal du débiteur, grevé d'une inscription bénéficiant à un établissement de crédit
+ayant fourni les sommes nécessaires à son acquisition, réduire, par décision spéciale et motivée, le montant de la fraction
+des prêts immobiliers restant due aux établissements de crédit après la vente, dans des proportions telles que son paiement,
+assorti d'un rééchelonnement calculé comme il est dit ci-dessus, soit compatible avec les ressources et les charges du
+débiteur. La même disposition est applicable en cas de vente amiable dont le principe, destiné à éviter une saisie
+immobilière, et les modalités ont été arrêtés d'un commun accord entre le débiteur et l'établissement de crédit. En toute
+hypothèse, le bénéfice des présentes dispositions ne peut être invoqué plus d'un an après la vente, à moins que dans ce délai
+la commission prévue à l'article L. 331-1 n'ait été saisie.
+
+La commission peut recommander que ces mesures soient subordonnées à l'accomplissement par le débiteur d'actes propres à
+faciliter ou à garantir le paiement de la dette. Elle peut également recommander qu'elles soient subordonnées à l'abstention
+par le débiteur, d'actes qui aggraveraient son insolvabilité.
+
+Pour l'application du présent article, la commission prend en compte la connaissance que pouvait avoir chacun des créanciers,
+lors de la conclusion des différents contrats, de la situation d'endettement du débiteur. Elle peut également vérifier que le
+contrat a été consenti avec le sérieux qu'imposent les usages professionnels.
+
+Les dispositions du présent article ne s'appliquent pas aux dettes d'aliments.
+
+La demande du débiteur formée en application du premier alinéa interrompt la prescription et les délais pour agir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+
+	**Cité par**:
+
+	  - Décret n°95-660 du 9 mai 1995 - art. 20 (Ab)
+	  - Décret n°95-660 du 9 mai 1995 - art. 21 (Ab)
+	  - Décret n°95-660 du 9 mai 1995 - art. 22 (Ab)
+	  - Décret n°95-660 du 9 mai 1995 - art. 24 (Ab)
+	  - Arrêté du 26 octobre 2010 - art. 10 (M)
+	  - Code de l'action sociale et des familles - art. R471-5-3 (V)
+	  - Code de la consommation - art. Annexe Modèle type n°1 (V)
+	  - Code de la consommation - art. Annexe Modèle type n°2 (V)
+	  - Code de la consommation - art. Annexe Modèle type n°3 (V)
+	  - Code de la consommation - art. Annexe Modèle type n°4 (V)
+	  - Code de la consommation - art. Annexe Modèle type n°5 (V)
+	  - Code de la consommation - art. Annexe Modèle type n°6 (V)
+	  - Code de la consommation - art. L311-37 (VT)
+	  - Code de la consommation - art. L311-52 (VT)
+	  - Code de la consommation - art. L330-1 (VD)
+	  - Code de la consommation - art. L331-2 (VT)
+	  - Code de la consommation - art. L331-3 (V)
+	  - Code de la consommation - art. L331-3-1 (VD)
+	  - Code de la consommation - art. L331-3-2 (VT)
+	  - Code de la consommation - art. L331-5 (V)
+	  - Code de la consommation - art. L331-6 (VT)
+	  - Code de la consommation - art. L331-7-1 (VT)
+	  - Code de la consommation - art. L331-8 (V)
+	  - Code de la consommation - art. L331-9 (VT)
+	  - Code de la consommation - art. L332-1 (M)
+	  - Code de la consommation - art. L332-10 (VT)
+	  - Code de la consommation - art. L332-2 (VT)
+	  - Code de la consommation - art. L332-3 (VT)
+	  - Code de la consommation - art. L333-2 (VT)
+	  - Code de la consommation - art. L333-4 (VT)
+	  - Code de la consommation - art. L333-7 (V)
+	  - Code de la consommation - art. L334-2 (VD)
+	  - Code de la consommation - art. L334-5 (VT)
+	  - Code de la consommation - art. L334-9 (VT)
+	  - Code de la consommation - art. R*331-10-2 (T)
+	  - Code de la consommation - art. R*331-15-1 (V)
+	  - Code de la consommation - art. R*332-2 (V)
+	  - Code de la consommation - art. R331-11 (Ab)
+	  - Code de la consommation - art. R331-18 (Ab)
+	  - Code de la consommation - art. R331-19 (Ab)
+	  - Code de la consommation - art. R331-19-1 (Ab)
+	  - Code de la consommation - art. R331-20 (Ab)
+	  - Code de la consommation - art. R332-19 (Ab)
+	  - Code de la consommation - art. R332-8-1 (Ab)
+	  - Code de la consommation - art. R334-1 (Ab)
+	  - Code de la consommation - art. R334-14 (Ab)
+	  - Code de la consommation - art. R334-39 (Ab)
+	  - Code de la consommation - art. R334-4 (Ab)
+	  - Code de la consommation - art. R334-6 (Ab)
+	  - Code de la consommation - art. R334-7 (Ab)
+	  - Code de la consommation - art. R334-8 (Ab)
+	  - Code de la consommation - art. R334-9 (Ab)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L331-1 (M)
+
+
+###### Article L331-8
+
+Les mesures recommandées en application de l'article L. 331-7 et rendues exécutoires par l'application de l'article L. 332-1
+ou de l'article L. 332-2 ne sont pas opposables aux créanciers dont l'existence n'aurait pas été signalée par le débiteur et
+qui n'en auraient pas été avisés par la commission.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°89-1010 du 31 décembre 1989 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+
+	**Cite**:
+
+	  - Code de la consommation - art. L331-7 (M)
+	  - Code de la consommation - art. L332-1 (M)
+	  - Code de la consommation - art. L332-2 (M)
+
+
+###### Article L331-9
+
+Les créanciers auxquels les mesures recommandées en application de l'article L. 331-7 et rendues exécutoires par application
+de l'article L. 332-1 ou de l'article L. 332-2 sont opposables ne peuvent exercer des procédures d'exécution à l'encontre des
+biens du débiteur pendant la durée d'exécution de ces mesures.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°89-1010 du 31 décembre 1989 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+
+	**Cite**:
+
+	  - Code de la consommation - art. L331-7 (M)
+	  - Code de la consommation - art. L332-1 (M)
+	  - Code de la consommation - art. L332-2 (M)
+
+
+###### Article L331-10
+
+Les parties peuvent être assistées devant la commission par toute personne de leur choix.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°89-1010 du 31 décembre 1989 - art. 7 (MMN)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R712-16 (V)
+
+
+###### Article L331-11
+
+Les membres de la commission, ainsi que toute personne qui participe à ses travaux ou est appelée au traitement de la
+situation de surendettement, sont tenus de ne pas divulguer à des tiers les informations dont ils ont eu connaissance dans le
+cadre de la procédure instituée par le présent chapitre, à peine des sanctions prévues à l'article 226-13 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°89-1010 du 31 décembre 1989 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+
+	**Cité par**:
+
+	  - Ordonnance n°2013-792 du 30 août 2013 - art. 18 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (M)
+
+
+#### Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement.
+
+###### Article L332-1
+
+S'il n'a pas été saisi de la contestation prévue à l'article L. 332-2, le juge de l'exécution confère force exécutoire aux
+mesures recommandées par la commission en application de l'article L. 331-7, après en avoir vérifié la régularité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°89-1010 du 31 décembre 1989 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°95-125 du 8 février 1995 - art. 31 () JORF 9 février 1995 en vigueur le 1er août 1995
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L331-5 (V)
+	  - Code de la consommation - art. L331-8 (VT)
+	  - Code de la consommation - art. L331-9 (VT)
+	  - Code de la consommation - art. L332-4 (M)
+	  - Code de la consommation - art. R332-10 (Ab)
+	  - Code de la consommation - art. R334-18 (Ab)
+	  - Code de la consommation - art. R334-7 (Ab)
+	  - Livre des procédures fiscales - art. L145 D (MMN)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L331-7 (M)
+	  - Code de la consommation - art. L332-2 (M)
+
+
+###### Article L332-2
+
+Une partie peut contester devant le juge de l'exécution les mesures recommandées par la commission en application de
+l'article L. 331-7, dans les quinze jours de la notification qui lui en est faite.
+
+Avant de statuer, le juge peut, à la demande d'une partie, ordonner par provision l'exécution d'une ou plusieurs des mesures
+visées au premier alinéa.
+
+Il peut faire publier un appel aux créanciers.
+
+Il peut vérifier, même d'office, la validité et le montant des titres de créance et s'assurer que le débiteur se trouve bien
+dans la situation définie à l'article L. 331-2.
+
+Il peut également prescrire toute mesure d'instruction qu'il estime utile. Les frais relatifs à celle-ci sont mis à la charge
+de l'Etat.
+
+Nonobstant toute disposition contraire, le juge peut obtenir communication de tout renseignement lui permettant d'apprécier
+la situation du débiteur et l'évolution possible de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°89-1010 du 31 décembre 1989 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+	  - PILOTE_SUIVEUR: Livre des procédures fiscales - art. L145 D (V)
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°95-125 du 8 février 1995 - art. 31 () JORF 9 février 1995 en vigueur le 1er août 1995
+
+	**Cité par**:
+
+	  - Décret n°95-660 du 9 mai 1995 - art. 22 (Ab)
+	  - Décret n°95-660 du 9 mai 1995 - art. 25 (Ab)
+	  - Décret n°95-660 du 9 mai 1995 - art. 26 (Ab)
+	  - Décret n°95-660 du 9 mai 1995 - art. 27 (Ab)
+	  - Décret n°95-660 du 9 mai 1995 - art. 29 (Ab)
+	  - Code de la consommation - art. L330-1 (VT)
+	  - Code de la consommation - art. L331-5 (V)
+	  - Code de la consommation - art. L331-7 (VT)
+	  - Code de la consommation - art. L331-8 (VT)
+	  - Code de la consommation - art. L331-9 (VT)
+	  - Code de la consommation - art. L332-1 (VT)
+	  - Code de la consommation - art. L332-3 (VT)
+	  - Code de la consommation - art. L332-4 (M)
+	  - Code de la consommation - art. L332-5 (VD)
+	  - Code de la consommation - art. L334-5 (VD)
+	  - Code de la consommation - art. R*332-3 (V)
+	  - Code de la consommation - art. R*332-5 (Ab)
+	  - Code de la consommation - art. R331-20 (Ab)
+	  - Code de la consommation - art. R332-10 (Ab)
+	  - Code de la consommation - art. R332-4 (Ab)
+	  - Code de la consommation - art. R332-6 (Ab)
+	  - Code de la consommation - art. R332-7 (Ab)
+	  - Code de la consommation - art. R333-1 (Ab)
+	  - Code de la consommation - art. R334-11 (Ab)
+	  - Code de la consommation - art. R334-14 (Ab)
+	  - Code de la consommation - art. R334-15 (Ab)
+	  - Code de la consommation - art. R334-18 (Ab)
+	  - Code de la consommation - art. R334-7 (Ab)
+	  - Code de la consommation - art. R334-8 (Ab)
+	  - Code de procédure pénale - art. R93 (V)
+	  - Livre des procédures fiscales - art. L145 D (M)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L331-2 (M)
+
+
+###### Article L332-3
+
+Le juge qui statue sur la contestation prévue à l'article L. 332-2 dispose des pouvoirs mentionnés à l'article L. 331-7.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°89-1010 du 31 décembre 1989 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°95-125 du 8 février 1995 - art. 31 () JORF 9 février 1995 en vigueur le 1er août 1995
+
+	**Cité par**:
+
+	  - Décret n°95-660 du 9 mai 1995 - art. 31 (Ab)
+	  - Code de la consommation - art. R*332-9 (Ab)
+	  - Code de la consommation - art. R334-6 (Ab)
+	  - Livre des procédures fiscales - art. L247 (M)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L331-7 (M)
+	  - Code de la consommation - art. L332-2 (M)
+
+
 #### Chapitre III : Dispositions communes
 
 ###### Article L333-1
@@ -11738,6 +12480,52 @@ par décret en Conseil d'Etat.
 	  - Code de la consommation - art. R*333-4 (Ab)
 
 
+###### Article L333-2
+
+Est déchue du bénéfice des dispositions du présent titre :
+
+1° Toute personne qui aura sciemment fait de fausses déclarations ou remis des documents inexacts en vue d'obtenir le
+bénéfice de la procédure de traitement de la situation de surendettement ;
+
+2° Toute personne qui, dans le même but, aura détourné ou dissimulé, ou tenté de détourner ou de dissimuler, tout ou partie
+de ses biens ;
+
+3° Toute personne qui, sans l'accord de ses créanciers, de la commission ou du juge, aura aggravé son endettement en
+souscrivant de nouveaux emprunts ou aura procédé à des actes de disposition de son patrimoine pendant le déroulement de la
+procédure de traitement de la situation de surendettement, ou pendant l'exécution du plan ou des mesures de l'article L.
+331-7.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°89-1010 du 31 décembre 1989 - art. 16 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°95-125 du 8 février 1995 - art. 32 () JORF 9 février 1995 en vigueur le 1er août 1995
+
+	**Cité par**:
+
+	  - Arrêté du 26 octobre 2010 - art. 10 (M)
+	  - Arrêté du 26 octobre 2010 - art. 17 (V)
+	  - Code de la consommation - art. R335-1 (Ab)
+	  - Code de la consommation - art. R335-2 (Ab)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L331-7 (M)
+
+
 ###### Article L333-3
 
 Les dispositions du présent titre ne s'appliquent pas lorsque le débiteur relève des procédures instituées par les lois n°
@@ -11767,6 +12555,49 @@ introduction des lois commerciales françaises dans les départements du Haut-Rh
 	**Créé par**:
 
 	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+
+###### Article L333-3-1
+
+Les dispositions du présent titre s'appliquent également aux débiteurs de nationalité française en situation de
+surendettement domiciliés hors de France et qui ont contracté des dettes non professionnelles auprès de créanciers établis en
+France.
+
+Le débiteur peut saisir à cet effet la commission de surendettement du lieu d'établissement de l'un de ces créanciers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+
+	**Créé par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 28 () JORF 9 février 1995 en vigueur le 1er août 1995
+
+	**Cité par**:
+
+	  - Décret n°95-660 du 9 mai 1995 - art. 7 (Ab)
+	  - Décret n°95-660 du 9 mai 1995 - art. 8 (Ab)
+	  - Code de la consommation - art. R*332-1 (V)
+	  - Code de la consommation - art. R*333-2 (Ab)
+	  - Code de la consommation - art. R*333-3 (Ab)
+	  - Code de la consommation - art. R331-7 (Ab)
+	  - Code de la consommation - art. R331-8 (Ab)
+	  - Code de la consommation - art. R331-9 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L711-2 (V)
+	  - Code de la consommation - art. R711-2 (V)
 
 
 ###### Article L333-4
@@ -11941,27 +12772,42 @@ France, les attributions dévolues à celle-ci par le présent article.
 
 ###### Article L333-7
 
-Les dispositions du présent titre sont applicables aux contrats en cours au 2 janvier 1990.
+Les dispositions des articles L. 333-1, L. 333-3 à L. 333-6 et L. 333-8 sont applicables aux contrats en cours au 2 janvier
+1990. 
 
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
+Les autres dispositions du présent titre sont immédiatement applicables aux procédures en cours à la date d'entrée en vigueur
+desdites dispositions telle qu'elle est définie au II de l'article 33 de la loi n° 95-125 du 8 février 1995 relative à
+l'organisation des juridictions et à la procédure civile, pénale et administrative.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°89-1010 1989-12-31 art. 18
 	  - Loi n°89-1010 du 31 décembre 1989 - art. 18 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
+	  - Loi n°95-125 du 8 février 1995 - art. 33 (V) JORF 9 février 1995 en vigueur le 1er août 1995
+
+	**Cite**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 33
+	  - Code de la consommation
+	  - Code de la consommation - art. L333-1
+	  - Code de la consommation - art. L333-8
+
+	**Abrogé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 50
 
 	**Cité par**:
 
@@ -12005,738 +12851,7 @@ décembre 1994.
 
 ### Titre III : Réglement des situations de surendettement
 
-#### Chapitre Ier : Règlement amiable
-
-##### Section 1 : La commission départementale d'examen des situations de surendettement des particuliers.
-
-###### Article L331-1
-
-Il est institué, dans chaque département, au moins une commission d'examen des situations de surendettement des particuliers.
-
-La commission comprend le représentant de l'Etat dans le département, président, le trésorier-payeur général, vice-président,
-le représentant local de la Banque de France, qui en assure le secrétariat, ainsi que deux personnalités choisies par le
-représentant de l'Etat dans le département, l'une sur proposition de l'Association française des établissements de crédit et
-l'autre sur proposition des associations familiales ou de consommateurs.
-
-Un décret en Conseil d'Etat fixe les règles d'organisation et de fonctionnement de la commission. Il précise notamment les
-conditions dans lesquelles ses membres peuvent se faire représenter et celles dans lesquelles il peut être institué plus
-d'une commission dans le département.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 2 al. 1, 2 et 4
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Cité par**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 15 (Ab)
-	  - Décret n°2007-1688 du 29 novembre 2007 - art. 9 (V)
-	  - Décret n°2008-187 du 26 février 2008 - art. 2 (Ab)
-	  - Décret n°2015-1384 du 30 octobre 2015 - art. 16 (V)
-	  - Décret n°2015-1384 du 30 octobre 2015 - art. 2 (V)
-	  - Décret n°2015-1384 du 30 octobre 2015 - art. 4 (V)
-	  - Décret n°2016-393 du 31 mars 2016 - art. 2 (V)
-	  - Décret n°2016-393 du 31 mars 2016 - art. 4 (V)
-	  - Code de l'action sociale et des familles - art. Annexe 1-1 (V)
-	  - Code de la consommation - art. L331-2 (VT)
-	  - Code de la consommation - art. L331-3 (M)
-	  - Code de la consommation - art. L331-7 (M)
-	  - Code de la consommation - art. L332-6 (Ab)
-	  - Code de la consommation - art. L333-4 (VT)
-	  - Code de la consommation - art. L334-9 (V)
-	  - Code de la consommation - art. R331-3 (Ab)
-	  - Code de la consommation - art. R331-4 (Ab)
-	  - Code de la consommation - art. R331-5 (Ab)
-	  - Code de la consommation - art. R331-6-1 (Ab)
-	  - Code de la consommation - art. R333-1 (V)
-	  - Code de la construction et de l'habitation. - art. R*351-30 (VD)
-	  - Code de la construction et de l'habitation. - art. R351-31-1 (VD)
-	  - Code de la sécurité sociale. - art. D542-19 (V)
-	  - Code de la sécurité sociale. - art. D542-22-5 (VD)
-	  - Code de la sécurité sociale. - art. D755-30 (M)
-	  - Code de la sécurité sociale. - art. R831-16 (V)
-	  - Code de la sécurité sociale. - art. R831-21-5 (VD)
-	  - Code de procédure civile - art. 673 (Ab)
-	  - Code des postes et des communications électroni... - art. L35-1 (V)
-	  - Code des procédures civiles d'exécution - art. R321-3 (VD)
-	  - Code des procédures civiles d'exécution - art. R612-7 (Ab)
-	  - Livre des procédures fiscales - art. L139 A (M)
-	  - Livre des procédures fiscales - art. L247 (M)
-	  - Livre des procédures fiscales - art. L247 A (M)
-	  - Livre des procédures fiscales - art. R*247 A-1 (M)
-	  - Livre des procédures fiscales - art. R*247-10 A (T)
-	  - Livre des procédures fiscales - art. R*247-18 (M)
-
-
-##### Section 2 : La procédure.
-
-###### Article L331-2
-
-La procédure de règlement amiable est destinée, par l'élaboration d'un plan conventionnel approuvé par le débiteur et ses
-principaux créanciers, à régler la situation de surendettement des personnes physiques, caractérisée par l'impossibilité
-manifeste pour le débiteur de bonne foi de faire face à l'ensemble de ses dettes non professionnelles exigibles et à échoir.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°87-544 du 17 juillet 1987 - art. 22 (MMN)
-	  - Loi n°98-657 du 29 juillet 1998 - art. 98 (V)
-	  - Code civil - art. 2024 (T)
-	  - Code civil - art. 2301 (V)
-	  - Code de la consommation - art. L331-12 (Ab)
-	  - Code de la consommation - art. L331-3 (V)
-	  - Code de la consommation - art. L332-1 (M)
-	  - Code de la consommation - art. L332-2 (V)
-	  - Code de la consommation - art. L332-3 (VT)
-	  - Code de la consommation - art. L332-5-1 (VT)
-	  - Code de la consommation - art. L332-5-2 (VT)
-	  - Code de la consommation - art. L333-4 (VT)
-	  - Code de la consommation - art. L334-2 (VD)
-	  - Code de la consommation - art. L334-5 (VT)
-	  - Code de la consommation - art. L334-9 (VT)
-	  - Code de la consommation - art. R331-15-1 (Ab)
-	  - Code de la consommation - art. R334-1 (Ab)
-	  - Code du travail - art. R3324-22 (V)
-	  - Code du travail - art. R3334-4 (VD)
-	  - Code du travail - art. R442-17 (M)
-	  - Code du travail - art. R443-12 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 1 al. 1
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-
-###### Article L331-3
-
-La procédure est engagée, à la demande du débiteur, devant la commission instituée par l'article L. 331-1.
-
-La commission informe de l'ouverture de la procédure le juge de l'exécution du lieu du domicile du débiteur.
-
-Elle peut, en outre, saisir le juge de l'exécution aux fins de suspension des voies d'exécution qui seraient diligentées
-contre le débiteur.
-
-La commission peut être également saisie par un juge dans les conditions prévues à l'article L. 332-4.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°89-462 du 6 juillet 1989 - art. 24-2 (V)
-	  - Décret n°95-660 du 9 mai 1995 - art. 11 (Ab)
-	  - Loi n°98-657 du 29 juillet 1998 - art. 99 (V)
-	  - Décret n°2003-1308 du 26 décembre 2003 - art. 5 (V)
-	  - Arrêté du 28 octobre 2008 - art. 4 (V)
-	  - Arrêté du 28 octobre 2008 (V)
-	  - Ordonnance n°2013-792 du 30 août 2013 - art. 18 (V)
-	  - Décret n°2015-1384 du 30 octobre 2015 - art. 10 (V)
-	  - Code de la consommation - art. L331-5 (VT)
-	  - Code de la consommation - art. L332-5 (VD)
-	  - Code de la consommation - art. L333-2-1 (VD)
-	  - Code de la consommation - art. L333-4 (VT)
-	  - Code de la consommation - art. L334-5 (VT)
-	  - Code de la consommation - art. L334-9 (VT)
-	  - Code de la consommation - art. R*331-9 (V)
-	  - Code de la consommation - art. R331-10 (Ab)
-	  - Code de la consommation - art. R331-10-1 (Ab)
-	  - Code de la consommation - art. R331-7-1 (Ab)
-	  - Code de la consommation - art. R331-7-3 (Ab)
-	  - Code de la consommation - art. R331-8-1 (Ab)
-	  - Code de la consommation - art. R331-8-2 (Ab)
-	  - Code de la consommation - art. R332-1 (Ab)
-	  - Code de la consommation - art. R332-2 (Ab)
-	  - Code de la consommation - art. R333-2 (Ab)
-	  - Code de la consommation - art. R334-28 (Ab)
-	  - Code de procédure civile - art. 703 (Ab)
-	  - Livre des procédures fiscales - art. L139 A (M)
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 1 al. 2 à 5
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Cite**:
-
-	  - Code de la consommation - art. L331-1 (M)
-	  - Code de la consommation - art. L332-4 (M)
-
-
-###### Article L331-4
-
-La commission peut entendre toutes les personnes dont l'audition lui paraît utile.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 2 al. 3
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Cité par**:
-
-	  - Décret n°95-660 du 9 mai 1995 - art. 13 (Ab)
-	  - Loi n°98-657 du 29 juillet 1998 - art. 99 (V)
-	  - Code de la consommation - art. L330-1 (VT)
-	  - Code de la consommation - art. L332-5 (VD)
-	  - Code de la consommation - art. L334-5 (VD)
-	  - Code de la consommation - art. R*331-10 (V)
-	  - Code de la consommation - art. R*331-10-1 (T)
-	  - Code de la consommation - art. R*331-11 (V)
-	  - Code de la consommation - art. R332-2 (Ab)
-	  - Code de la consommation - art. R332-3 (Ab)
-
-
-###### Article L331-5
-
-La commission dresse l'état d'endettement du débiteur. Celui-ci est tenu de lui déclarer les éléments actifs et passifs de
-son patrimoine dont il a connaissance.
-
-Nonobstant toute disposition contraire, elle peut obtenir communication, auprès des administrations publiques, des
-établissements de crédit, des organismes de sécurité et de prévoyance sociale ainsi que des services chargés de centraliser
-les risques bancaires et les incidents de paiement, de tout renseignement de nature à lui donner une exacte information sur
-la situation du débiteur, l'évolution possible de celle-ci et les procédures de conciliation amiables en cours.
-
-Les collectivités territoriales et les organismes de sécurité sociale procèdent, à sa demande, à des enquêtes sociales.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 3
-	  - Loi n°89-1010 du 31 décembre 1989 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Cité par**:
-
-	  - Décret n°95-660 du 9 mai 1995 - art. 16 (Ab)
-	  - Décret n°95-660 du 9 mai 1995 - art. 20 (Ab)
-	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 22 (VT)
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 61 (Ab)
-	  - Code de la consommation - art. R331-11-1 (Ab)
-	  - Code de la consommation - art. R331-11-2 (Ab)
-	  - Code de la consommation - art. R331-14 (Ab)
-	  - Code de la consommation - art. R331-18 (Ab)
-
-
-###### Article L331-6
-
-La commission s'efforce de concilier les parties en vue de l'élaboration d'un plan conventionnel de règlement.
-
-Il est tenu compte de la connaissance que pouvait avoir chacun des prêteurs, lors de la conclusion des différents contrats,
-de la situation d'endettement du débiteur.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 4 al. 1 et 2
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Cité par**:
-
-	  - Décret n°2008-1554 du 31 décembre 2008 (V)
-	  - Arrêté du 26 octobre 2010 - art. 10 (M)
-	  - Arrêté du 26 octobre 2010 - art. 11 (M)
-	  - Arrêté du 26 octobre 2010 - art. 17 (V)
-	  - Arrêté du 26 octobre 2010 - art. 7 (M)
-	  - Code de l'action sociale et des familles - art. R471-5-3 (V)
-	  - Code de la consommation - art. Annexe Modèle type n°1 (V)
-	  - Code de la consommation - art. Annexe Modèle type n°2 (V)
-	  - Code de la consommation - art. Annexe Modèle type n°3 (V)
-	  - Code de la consommation - art. Annexe Modèle type n°4 (V)
-	  - Code de la consommation - art. Annexe Modèle type n°5 (V)
-	  - Code de la consommation - art. Annexe Modèle type n°6 (V)
-	  - Code de la consommation - art. L311-3 (VT)
-	  - Code de la consommation - art. L311-37 (VT)
-	  - Code de la consommation - art. L311-52 (VT)
-	  - Code de la consommation - art. L330-1 (VT)
-	  - Code de la consommation - art. L331-2 (VT)
-	  - Code de la consommation - art. L331-3 (VT)
-	  - Code de la consommation - art. L331-3-1 (VD)
-	  - Code de la consommation - art. L331-3-2 (VT)
-	  - Code de la consommation - art. L331-5 (V)
-	  - Code de la consommation - art. L333-4 (VT)
-	  - Code de la consommation - art. L333-7 (VT)
-	  - Code de la consommation - art. R*331-10-2 (T)
-	  - Code de la consommation - art. R331-11 (Ab)
-	  - Code de la consommation - art. R331-15-1 (Ab)
-	  - Code de la consommation - art. R332-5 (Ab)
-	  - Code de la consommation - art. R334-5-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. L353-15-2 (V)
-	  - Code de la construction et de l'habitation. - art. L442-6-5 (V)
-
-
-###### Article L331-7
-
-Le plan peut comporter des mesures de report ou de rééchelonnement des paiements des dettes, de remise des dettes, de
-réduction ou de suppression du taux d'intérêt, de consolidation, de création ou de substitution de garantie.
-
-Le plan peut subordonner ces mesures à l'accomplissement par le débiteur d'actes propres à faciliter ou à garantir le
-paiement de la dette. Il peut également les subordonner à l'abstention par le débiteur d'acte qui aggraveraient son
-insolvabilité.
-
-Le plan prévoit les modalités de son exécution.
-
-**Nota:**
-
-Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 4 al. 3 à 5
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Cité par**:
-
-	  - Décret n°95-660 du 9 mai 1995 - art. 20 (Ab)
-	  - Décret n°95-660 du 9 mai 1995 - art. 21 (Ab)
-	  - Décret n°95-660 du 9 mai 1995 - art. 22 (Ab)
-	  - Décret n°95-660 du 9 mai 1995 - art. 24 (Ab)
-	  - Arrêté du 26 octobre 2010 - art. 10 (M)
-	  - Code de l'action sociale et des familles - art. R471-5-3 (V)
-	  - Code de la consommation - art. Annexe Modèle type n°1 (V)
-	  - Code de la consommation - art. Annexe Modèle type n°2 (V)
-	  - Code de la consommation - art. Annexe Modèle type n°3 (V)
-	  - Code de la consommation - art. Annexe Modèle type n°4 (V)
-	  - Code de la consommation - art. Annexe Modèle type n°5 (V)
-	  - Code de la consommation - art. Annexe Modèle type n°6 (V)
-	  - Code de la consommation - art. L311-37 (VT)
-	  - Code de la consommation - art. L311-52 (VT)
-	  - Code de la consommation - art. L330-1 (VD)
-	  - Code de la consommation - art. L331-2 (VT)
-	  - Code de la consommation - art. L331-3 (V)
-	  - Code de la consommation - art. L331-3-1 (VD)
-	  - Code de la consommation - art. L331-3-2 (VT)
-	  - Code de la consommation - art. L331-5 (V)
-	  - Code de la consommation - art. L331-6 (VT)
-	  - Code de la consommation - art. L331-7-1 (VT)
-	  - Code de la consommation - art. L331-8 (V)
-	  - Code de la consommation - art. L331-9 (VT)
-	  - Code de la consommation - art. L332-1 (M)
-	  - Code de la consommation - art. L332-10 (VT)
-	  - Code de la consommation - art. L332-2 (VT)
-	  - Code de la consommation - art. L332-3 (VT)
-	  - Code de la consommation - art. L333-2 (VT)
-	  - Code de la consommation - art. L333-4 (VT)
-	  - Code de la consommation - art. L333-7 (V)
-	  - Code de la consommation - art. L334-2 (VD)
-	  - Code de la consommation - art. L334-5 (VT)
-	  - Code de la consommation - art. L334-9 (VT)
-	  - Code de la consommation - art. R*331-10-2 (T)
-	  - Code de la consommation - art. R*331-15-1 (V)
-	  - Code de la consommation - art. R*332-2 (V)
-	  - Code de la consommation - art. R331-11 (Ab)
-	  - Code de la consommation - art. R331-18 (Ab)
-	  - Code de la consommation - art. R331-19 (Ab)
-	  - Code de la consommation - art. R331-19-1 (Ab)
-	  - Code de la consommation - art. R331-20 (Ab)
-	  - Code de la consommation - art. R332-19 (Ab)
-	  - Code de la consommation - art. R332-8-1 (Ab)
-	  - Code de la consommation - art. R334-1 (Ab)
-	  - Code de la consommation - art. R334-14 (Ab)
-	  - Code de la consommation - art. R334-39 (Ab)
-	  - Code de la consommation - art. R334-4 (Ab)
-	  - Code de la consommation - art. R334-6 (Ab)
-	  - Code de la consommation - art. R334-7 (Ab)
-	  - Code de la consommation - art. R334-8 (Ab)
-	  - Code de la consommation - art. R334-9 (Ab)
-
-
-###### Article L331-8
-
-Le juge de l'exécution est compétent pour connaître des recours dirigés contre les décisions prises par la commission sur la
-recevabilité des demandes d'ouverture d'une procédure amiable.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 5
-	  - Loi n°89-1010 du 31 décembre 1989 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-
-###### Article L331-9
-
-Les parties peuvent être assistées devant la commission par toute personne de leur choix.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 6
-	  - Loi n°89-1010 du 31 décembre 1989 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-
-###### Article L331-10
-
-Les membres de la commission, ainsi que toute personne qui participe à ses travaux ou est appelée au règlement amiable, sont
-tenus de ne pas divulguer à des tiers les informations dont ils ont eu connaissance dans le cadre de la procédure instituée
-par le présent chapitre, à peine des sanctions prévues à l'article 378 du code pénal.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 7
-	  - Loi n°89-1010 du 31 décembre 1989 - art. 7 (MMN)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Cite**:
-
-	  - Code pénal 378
-
-
-###### Article L331-11
-
-La commission informe le juge de l'exécution du lieu du domicile du débiteur de la conclusion du plan conventionnel de
-règlement et des mesures qu'il comporte.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 8
-	  - Loi n°89-1010 du 31 décembre 1989 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Cité par**:
-
-	  - Ordonnance n°2013-792 du 30 août 2013 - art. 18 (V)
-
-
-###### Article L331-12
-
-Si la commission a estimé que le débiteur ne relève pas des dispositions de l'article L. 331-2 ou si, dans un délai de deux
-mois à compter de sa saisine, la commission n'a pu recueillir l'accord des intéressés sur un plan conventionnel de règlement
-ou si, pendant l'examen du dossier, un créancier engage ou poursuit une procédure d'exécution, les intéressés peuvent
-demander au juge de l'exécution d'ouvrir une procédure de redressement judiciaire civil. La commission lui transmet le
-dossier.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 9
-	  - Loi n°89-1010 du 31 décembre 1989 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-
-	**Abrogé par**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
-
-	**Cite**:
-
-	  - Code de la consommation - art. L331-2 (M)
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L332-1 (M)
-
-
 #### Chapitre II : Redressement judiciaire civil.
-
-###### Article L332-1
-
-Une procédure collective de redressement judiciaire civil des difficultés financières du débiteur qui se trouve dans la
-situation de surendettement caractérisée au premier alinéa de l'article L. 331-2 est ouverte, devant le juge de l'exécution
-du domicile du débiteur, dans les cas mentionnés à l'article L. 331-12.
-
-Elle peut l'être également à la demande d'un débiteur ou, d'office, par le juge de l'exécution ou à la demande d'un autre
-juge lorsque à l'occasion d'un litige ou d'une procédure d'exécution est constatée une situation de surendettement.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 10
-	  - Loi n°89-1010 du 31 décembre 1989 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Cite**:
-
-	  - Code de la consommation - art. L331-12 (Ab)
-	  - Code de la consommation - art. L331-2 (M)
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L331-5 (V)
-	  - Code de la consommation - art. L331-8 (VT)
-	  - Code de la consommation - art. L331-9 (VT)
-	  - Code de la consommation - art. L332-4 (M)
-	  - Code de la consommation - art. R332-10 (Ab)
-	  - Code de la consommation - art. R334-18 (Ab)
-	  - Code de la consommation - art. R334-7 (Ab)
-	  - Livre des procédures fiscales - art. L145 D (MMN)
-
-
-###### Article L332-2
-
-Au vu des éléments déclarés par le débiteur et, le cas échéant, des informations qu'il aura recueillies, le juge ouvre la
-procédure.    Il peut faire publier un appel aux créanciers ; il s'assure du caractère certain, exigible et liquide des
-créances.
-
-Nonobstant toute disposition contraire, il peut obtenir communication de tout renseignement lui permettant d'apprécier la
-situation du débiteur et l'évolution possible de celle-ci.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 11 al. 1 à al. 3
-	  - Loi n°89-1010 du 31 décembre 1989 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Cité par**:
-
-	  - Décret n°95-660 du 9 mai 1995 - art. 22 (Ab)
-	  - Décret n°95-660 du 9 mai 1995 - art. 25 (Ab)
-	  - Décret n°95-660 du 9 mai 1995 - art. 26 (Ab)
-	  - Décret n°95-660 du 9 mai 1995 - art. 27 (Ab)
-	  - Décret n°95-660 du 9 mai 1995 - art. 29 (Ab)
-	  - Code de la consommation - art. L330-1 (VT)
-	  - Code de la consommation - art. L331-5 (V)
-	  - Code de la consommation - art. L331-7 (VT)
-	  - Code de la consommation - art. L331-8 (VT)
-	  - Code de la consommation - art. L331-9 (VT)
-	  - Code de la consommation - art. L332-1 (VT)
-	  - Code de la consommation - art. L332-3 (VT)
-	  - Code de la consommation - art. L332-4 (M)
-	  - Code de la consommation - art. L332-5 (VD)
-	  - Code de la consommation - art. L334-5 (VD)
-	  - Code de la consommation - art. R*332-3 (V)
-	  - Code de la consommation - art. R*332-5 (Ab)
-	  - Code de la consommation - art. R331-20 (Ab)
-	  - Code de la consommation - art. R332-10 (Ab)
-	  - Code de la consommation - art. R332-4 (Ab)
-	  - Code de la consommation - art. R332-6 (Ab)
-	  - Code de la consommation - art. R332-7 (Ab)
-	  - Code de la consommation - art. R333-1 (Ab)
-	  - Code de la consommation - art. R334-11 (Ab)
-	  - Code de la consommation - art. R334-14 (Ab)
-	  - Code de la consommation - art. R334-15 (Ab)
-	  - Code de la consommation - art. R334-18 (Ab)
-	  - Code de la consommation - art. R334-7 (Ab)
-	  - Code de la consommation - art. R334-8 (Ab)
-	  - Code de procédure pénale - art. R93 (V)
-	  - Livre des procédures fiscales - art. L145 D (M)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Livre des procédures fiscales - art. L145 D (V)
-
-
-###### Article L332-3
-
-Si la situation du débiteur l'exige, le juge prononce la suspension provisoire des procédures d'exécution portant sur les
-dettes autres qu'alimentaires pour une durée n'excédant pas deux mois renouvelables une fois.
-
-Sauf autorisation du juge, la décision qui prononce la suspension provisoire des procédures d'exécution interdit au débiteur
-d'avoir recours à un nouvel emprunt, de payer, en tout ou partie, une créance autre qu'alimentaire née antérieurement à cette
-décision, de désintéresser les cautions qui acquitteraient des créances nées antérieurement, de faire un acte de disposition
-étranger à la gestion normale du patrimoine ; elle interdit aussi la prise de toute garantie ou sûreté.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 11 al 4 à 5
-	  - Loi n°89-1010 du 31 décembre 1989 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Cité par**:
-
-	  - Décret n°95-660 du 9 mai 1995 - art. 31 (Ab)
-	  - Code de la consommation - art. R*332-9 (Ab)
-	  - Code de la consommation - art. R334-6 (Ab)
-	  - Livre des procédures fiscales - art. L247 (M)
-
 
 ###### Article L332-4
 
@@ -12781,218 +12896,6 @@ NOTA - article relevant de l'ordre public économique de protection sociale par 
 	  - Code de la consommation - art. R332-10 (Ab)
 	  - Code de la consommation - art. R334-18 (Ab)
 	  - Code monétaire et financier - art. R131-21-1 (V)
-
-
-###### Article L332-5
-
-Pour assurer le redressement, le juge de l'exécution peut reporter ou rééchelonner le paiement des dettes autres que
-fiscales, parafiscales ou envers les organismes de sécurité sociale, sans que le délai de report ou d'échelonnement puisse
-excéder cinq ans ou la moitié de la durée restant à courir des emprunts en cours.
-
-Il peut décider que les paiements s'imputeront d'abord sur le capital ou que les échéances reportées ou rééchelonnées
-porteront intérêt à un taux réduit qui peut être inférieur au taux d'intérêt légal sur décision spéciale et motivée et si la
-situation du débiteur l'exige.
-
-Il peut subordonner ces mesures à l'accomplissement par le débiteur d'actes propres à faciliter ou à garantir le paiement de
-la dette. Il peut également les subordonner à l'abstention, par le débiteur, d'actes qui aggraveraient son insolvabilité.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 12 al. 1 à 3
-	  - Loi n°89-1010 du 31 décembre 1989 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-
-	**Abrogé par**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 31 () JORF 9 février 1995 en vigueur le 1er août 1995
-
-	**Cité par**:
-
-	  - Arrêté du 26 octobre 2010 - art. 10 (M)
-	  - Arrêté du 26 octobre 2010 - art. 17 (V)
-	  - Arrêté du 24 décembre 2010 (V)
-	  - Code de la consommation - art. L331-3-1 (VD)
-	  - Code de la consommation - art. L331-3-2 (VT)
-	  - Code de la consommation - art. L331-7-3 (VT)
-	  - Code de la consommation - art. L332-11 (VT)
-	  - Code de la consommation - art. L332-5-1 (VT)
-	  - Code de la consommation - art. L332-5-2 (VT)
-	  - Code de la consommation - art. L332-6 (Ab)
-	  - Code de la consommation - art. L332-7 (Ab)
-	  - Code de la consommation - art. L333-1-2 (VD)
-	  - Code de la consommation - art. L333-4 (MMN)
-	  - Code de la consommation - art. L333-7 (V)
-	  - Code de la consommation - art. R331-10-3 (Ab)
-	  - Code de la consommation - art. R331-11 (Ab)
-	  - Code de la consommation - art. R331-7-3 (Ab)
-	  - Code de la consommation - art. R332-11 (Ab)
-	  - Code de la consommation - art. R333-1 (Ab)
-	  - Code de la consommation - art. R334-22 (Ab)
-	  - Code général des impôts, CGI. - art. 1756 (VT)
-	  - Livre des procédures fiscales - art. L247 A (M)
-
-
-###### Article L332-6
-
-En cas de vente forcée du logement principal du débiteur, grevé d'une inscription bénéficiant à un établissement de crédit
-ayant fourni les sommes nécessaires à son acquisition, le juge de l'excécution peut, par décision spéciale et motivée,
-réduire le montant de la fraction des prêts immobiliers restant due aux établissements de crédit après la vente, dans des
-proportions telles que son paiement, assorti d'un échelonnement calculé comme il est dit à l'article L. 332-5, soit
-compatible avec les ressources et les charges du débiteur. La même disposition est applicable en cas de vente amiable dont le
-principe, destiné à éviter une saisie immobilière, et les modalités ont été arrêtés d'un commun accord entre le débiteur et
-l'établissement de crédit. En toute hypothèse, le bénéfice du présent article ne peut être invoqué plus d'un an après la
-vente, à moins que dans ce délai la commission prévue à l'article L. 331-1 n'ait été saisie.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 12 al. 4
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-
-	**Abrogé par**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 31 () JORF 9 février 1995 en vigueur le 1er août 1995
-
-	**Cité par**:
-
-	  - Arrêté du 29 mars 2004 - art. 1 (V)
-	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 22 (VT)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1740 octies (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1756 (VD)
-	  - Code de la consommation - art. L332-7 (Ab)
-	  - Code de la consommation - art. L333-2-1 (VD)
-	  - Code de la consommation - art. L334-5 (VT)
-	  - Code de la consommation - art. R332-13 (Ab)
-	  - Code de la consommation - art. R334-32 (Ab)
-	  - Code de la consommation - art. R334-33 (Ab)
-	  - Livre des procédures fiscales - art. L247 A (V)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L331-1 (M)
-	  - Code de la consommation - art. L332-5 (Ab)
-
-
-###### Article L332-7
-
-Pour l'application des articles L. 332-5 et L. 332-6, le juge peut prendre en compte la connaissance que pouvait avoir chacun
-des prêteurs, lors de la conclusion des différents contrats, de la situation d'endettement du débiteur. Il peut également
-vérifier que le contrat de prêt a été consenti avec le sérieux qu'imposent les usages de la profession.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 12 al. 5
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-
-	**Abrogé par**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 31 () JORF 9 février 1995 en vigueur le 1er août 1995
-
-	**Cite**:
-
-	  - Code de la consommation - art. L332-5 (Ab)
-	  - Code de la consommation - art. L332-6 (Ab)
-
-	**Cité par**:
-
-	  - Code de la consommation - art. R334-35 (Ab)
-
-
-#### Chapitre III : Dispositions communes.
-
-###### Article L333-2
-
-Est déchue du bénéfice des dispositions du présent titre :
-
-1° Toute personne qui aura sciemment fait de fausses déclarations ou remis des documents inexacts en vue d'obtenir le
-bénéfice des procédures de règlement amiable ou de redressement judiciaire ;
-
-2° Toute personne qui, dans le même but, aura détourné ou dissimulé, ou tenté de détourner ou de dissimuler, tout ou partie
-de ses biens ;
-
-3° Toute personne qui, sans l'accord de ses créanciers ou du juge, aura aggravé son endettement en souscrivant de nouveaux
-emprunts ou aura procédé à des actes de disposition de son patrimoine pendant l'exécution du plan ou le déroulement des
-procédures de règlement amiable ou de redressement judiciaire.
-
-**Nota:**
-
-[*Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-1010 1989-12-31 art. 16
-	  - Loi n°89-1010 du 31 décembre 1989 - art. 16 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Cité par**:
-
-	  - Arrêté du 26 octobre 2010 - art. 10 (M)
-	  - Arrêté du 26 octobre 2010 - art. 17 (V)
-	  - Code de la consommation - art. R335-1 (Ab)
-	  - Code de la consommation - art. R335-2 (Ab)
 
 
 ## Livre IV : Les associations de consommateurs
