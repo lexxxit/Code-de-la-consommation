@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2001-06-13
+Version Consolidée au 2001-06-16
 
 # Partie législative
 
@@ -2535,6 +2535,9 @@ Les infractions aux dispositions de l'article L. 121-1 sont punies des peines pr
 
 Le maximum de l'amende prévue à cet article peut être porté à 50 p. 100 des dépenses de la publicité constituant le délit.
 
+Les dispositions de l'article L. 213-6 prévoyant la responsabilité pénale des personnes morales sont applicables à ces
+infractions.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -2561,21 +2564,25 @@ Le maximum de l'amende prévue à cet article peut être porté à 50 p. 100 des
 
 	**Anciens textes**:
 
-	  - Loi n°73-1193 1973-12-27 art. 44 II al. 9 et 10
 	  - Loi n°73-1193 du 27 décembre 1973 - art. 44 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - SPEC_APPLI: Loi n°2001-504 2001-06-12 art. 24 (modalités d'application aux DOM - TOM)
+
+	**Modifié par**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 3 () JORF 16 juin 2001
 
 	**Cite**:
 
 	  - Code de la consommation - art. L121-1 (V)
 	  - Code de la consommation - art. L213-1 (M)
+	  - Code de la consommation - art. L213-6 (V)
 
 
 ###### Article L121-7
