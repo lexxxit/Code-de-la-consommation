@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-04-08
+Version Consolidée au 2005-05-07
 
 # Partie législative
 
@@ -4069,16 +4069,12 @@ d'emprisonnement d'un an et d'une amende de 3750 euros ou de l'une de ces deux p
 
 ###### Article L121-29
 
-Les dispositions de la loi n° 47-1635 du 30 août 1947 relative à l'assainissement des professions commerciales et
-industrielles sont applicables aux personnes qui effectuent des opérations de vente à domicile.
+Les dispositions du chapitre VIII du titre II du livre 1er du code de commerce sont applicables aux personnes qui effectuent
+des opérations de vente à domicile.
 
 L'entreprise est civilement responsable des démarcheurs, même indépendants, qui agissent pour son compte.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°47-1635 1947-08-30
 
 	**Anciens textes**:
 
@@ -4089,9 +4085,9 @@ L'entreprise est civilement responsable des démarcheurs, même indépendants, q
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 4 (V) JORF 7 mai 2005
 
 	**Cité par**:
 
