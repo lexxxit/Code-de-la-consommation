@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-05-10
+Version Consolidée au 2005-07-27
 
 # Partie législative
 
@@ -3240,54 +3240,6 @@ technique de communication à distance et facturés par l'opérateur de cette te
 	  - SPEC_APPLI: Code de la consommation L121-20-4 *champ d'application* et L121-20-10 *sanctions*
 
 
-###### Article L121-20
-
-Le consommateur dispose d'un délai de sept jours francs pour exercer son droit de rétractation sans avoir à justifier de
-motifs ni à payer de pénalités, à l'exception, le cas échéant, des frais de retour.
-
-Le délai mentionné à l'alinéa précédent court à compter de la réception pour les biens ou de l'acceptation de l'offre pour
-les prestations de services.
-
-Lorsque les informations prévues à l'article L. 121-19 n'ont pas été fournies, le délai d'exercice du droit de rétractation
-est porté à trois mois. Toutefois, lorsque la fourniture de ces informations intervient dans les trois mois à compter de la
-réception des biens ou de l'acceptation de l'offre, elle fait courir le délai de sept jours mentionné au premier alinéa.
-
-Lorsque le délai de sept jours expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier jour
-ouvrable suivant.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°88-21 du 6 janvier 1988 - art. 3 (Ab)
-	  - Code de la consommation - art. L121-20-4 (M)
-	  - Code de la consommation - art. L121-22 (VT)
-	  - Code de la consommation - art. L121-34-2 (VD)
-	  - Code de la consommation - art. L121-87 (V)
-	  - Code de la consommation - art. L121-88 (V)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Modifié par**:
-
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 11 () JORF 25 août 2001
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-19 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L121-20-9 (VT)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la consommation L121-20-4 *champ d'application*
-
-
 ###### Article L121-20-1
 
 Lorsque le droit de rétractation est exercé, le professionnel est tenu de rembourser sans délai le consommateur et au plus
@@ -3731,6 +3683,54 @@ L. 450-3, L. 450-4, L. 450-7, L. 450-8, L. 470-1 et L. 470-5 du code de commerce
 	  - Code de la consommation - art. L121-20-17 (MMN)
 
 
+##### Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers
+
+###### Article L121-20
+
+Le consommateur dispose d'un délai de sept jours francs pour exercer son droit de rétractation sans avoir à justifier de
+motifs ni à payer de pénalités, à l'exception, le cas échéant, des frais de retour. Le consommateur peut déroger à ce délai
+au cas où il ne pourrait se déplacer et où simultanément il aurait besoin de faire appel à une prestation immédiate et
+nécessaire à ses conditions d'existence. Dans ce cas, il continuerait à exercer son droit de rétractation sans avoir à
+justifier de motifs ni à payer de pénalités. 
+
+Le délai mentionné à l'alinéa précédent court à compter de la réception pour les biens ou de l'acceptation de l'offre pour
+les prestations de services. 
+
+Lorsque les informations prévues à l'article L. 121-19 n'ont pas été fournies, le délai d'exercice du droit de rétractation
+est porté à trois mois. Toutefois, lorsque la fourniture de ces informations intervient dans les trois mois à compter de la
+réception des biens ou de l'acceptation de l'offre, elle fait courir le délai de sept jours mentionné au premier alinéa. 
+
+Lorsque le délai de sept jours expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier jour
+ouvrable suivant.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°88-21 du 6 janvier 1988 - art. 3 (Ab)
+	  - Code de la consommation - art. L121-20-4 (M)
+	  - Code de la consommation - art. L121-22 (VT)
+	  - Code de la consommation - art. L121-34-2 (VD)
+	  - Code de la consommation - art. L121-87 (V)
+	  - Code de la consommation - art. L121-88 (V)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Loi n°2005-841 du 26 juillet 2005 - art. 3 () JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-19 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-20-9 (VT)
+
+
 ##### Section 3 : Démarchage
 
 ###### Article L121-21
@@ -3960,12 +3960,17 @@ versées au prorata de la durée de l'abonnement restant à courir.
 En outre, les engagements ou ordres de paiement ne doivent pas être exécutés avant l'expiration du délai prévu à l'article L.
 121-25 et doivent être retournés au consommateur dans les quinze jours qui suivent sa rétractation.
 
+Les dispositions du deuxième alinéa s'appliquent aux souscriptions à domicile proposées par les associations et entreprises
+agréées par l'Etat ayant pour objet la fourniture de services mentionnés à l'article L. 129-1 du code du travail sous forme
+d'abonnement.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 39 bis
 	  - Code de la consommation - art. L121-25 (V)
+	  - Code du travail - art. L129-1 (M)
 
 	**Anciens textes**:
 
@@ -3977,7 +3982,7 @@ En outre, les engagements ou ordres de paiement ne doivent pas être exécutés 
 
 	**Modifié par**:
 
-	  - Loi n°95-96 du 1 février 1995 - art. 8 () JORF 2 février 1995
+	  - Loi n°2005-841 du 26 juillet 2005 - art. 4 () JORF 27 juillet 2005
 
 	**Cité par**:
 
