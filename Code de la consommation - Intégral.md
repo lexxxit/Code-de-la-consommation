@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-07-27
+Version Consolidée au 2005-07-28
 
 # Partie législative
 
@@ -6174,6 +6174,47 @@ exécuté.
 	  - Code de la consommation - art. L132-1 (V)
 
 
+#### Chapitre VI : Reconduction des contrats
+
+###### Article L136-1
+
+Le professionnel prestataire de services informe le consommateur par écrit, au plus tôt trois mois et au plus tard un mois
+avant le terme de la période autorisant le rejet de la reconduction, de la possibilité de ne pas reconduire le contrat qu'il
+a conclu avec une clause de reconduction tacite.
+
+Lorsque cette information ne lui a pas été adressée conformément aux dispositions du premier alinéa, le consommateur peut
+mettre gratuitement un terme au contrat, à tout moment à compter de la date de reconduction. Les avances effectuées après la
+dernière date de reconduction ou, s'agissant des contrats à durée indéterminée, après la date de transformation du contrat
+initial à durée déterminée, sont dans ce cas remboursées dans un délai de trente jours à compter de la date de résiliation,
+déduction faite des sommes correspondant, jusqu'à celle-ci, à l'exécution du contrat. A défaut de remboursement dans les
+conditions prévues ci-dessus, les sommes dues sont productives d'intérêts au taux légal.
+
+Les dispositions du présent article s'appliquent sans préjudice de celles qui soumettent légalement certains contrats à des
+règles particulières en ce qui concerne l'information du consommateur.
+
+**Nota:**
+
+NOTA : Loi 2005-67 du 28 janvier 2005 art. 7 :
+
+I : Les présentes dispositions entrent en vigueur six mois à compter de la date de promulgation de la présente loi.
+
+II : les présentes dispositions s'appliquent aux contrats en cours et à leur reconduction à ladite date de promulgation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°70-9 du 2 janvier 1970 - art. 7 (V)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2005-67 du 28 janvier 2005 - art. 1 () JORF 1er février 2005 en vigueur le 28 juillet 2005
+
+
 ### Titre IV : Pouvoirs des agents et actions juridictionnelles
 
 #### Chapitre unique : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles
@@ -11038,8 +11079,8 @@ maintenir les conditions qu'elle indique pendant une durée minimale de quinze j
 ###### Article L311-9
 
 Lorsqu'il s'agit d'une ouverture de crédit qui, assortie ou non de l'usage d'une carte de crédit, offre à son bénéficiaire la
-possibilité de disposer de façon fractionnée, aux dates de son choix, du montant du crédit consenti, l'offre préalable n'est
-obligatoire que pour le contrat initial.
+possibilité de disposer de façon fractionnée, aux dates de son choix, du montant du crédit consenti, l'offre préalable est
+obligatoire pour le contrat initial et pour toute augmentation du crédit consenti.
 
 Elle précise que la durée du contrat est limitée à un an renouvelable et que le prêteur devra indiquer, trois mois avant
 l'échéance, les conditions de reconduction du contrat. Elle fixe également les modalités du remboursement, qui doit être
@@ -11049,29 +11090,36 @@ bénéficier de son ouverture de crédit.
 L'emprunteur doit pouvoir s'opposer aux modifications proposées, lors de la reconduction du contrat, jusqu'au moins vingt
 jours avant la date où celles-ci deviennent effectives, en utilisant un bordereau-réponse annexé aux informations écrites
 communiquées par le prêteur. Un décret précisera les caractéristiques de ce bordereau ainsi que les mentions devant y
-figurer.
+figurer. L'emprunteur peut également demander à tout moment la réduction de sa réserve de crédit, la suspension de son droit
+à l'utiliser ou la résiliation de son contrat. Dans ce dernier cas, il est tenu de rembourser, aux conditions du contrat, le
+montant de la réserve d'argent déjà utilisé.
 
 En cas de refus des nouvelles conditions de taux ou de remboursement proposées lors de la reconduction du contrat,
 l'emprunteur est tenu de rembourser aux conditions précédant les modifications proposées le montant de la réserve d'argent
-déjà utilisé, sans pouvoir, toutefois, procéder à une nouvelle utilisation de l'ouverture de crédit. (1)
+déjà utilisé, sans pouvoir, toutefois, procéder à une nouvelle utilisation de l'ouverture de crédit.
 
-La mention "carte de crédit" est spécifiée en caractères lisibles au recto de la carte. (2)
+Si, pendant trois années consécutives, le contrat d'ouverture de crédit ou tout moyen de paiement associé n'ont fait l'objet
+d'aucune utilisation, le prêteur qui entend proposer la reconduction du contrat adresse à l'emprunteur, à l'échéance de la
+troisième année, un document annexé aux conditions de cette reconduction. Ce document indique l'identité des parties, la
+nature de l'opération, le montant du crédit disponible, le taux annuel effectif global ainsi que le montant des
+remboursements par échéance et par fractions de crédit utilisées. A défaut pour l'emprunteur de retourner ce document, signé
+et daté, au plus tard vingt jours avant la date d'échéance du contrat, ce dernier est résilié de plein droit à cette date.
+
+La mention "carte de crédit" est spécifiée en caractères lisibles au recto de la carte.
 
 **Nota:**
 
-Nota (1) : Loi n° 2003-706 Article 87 II (1er alinéa) : Ces dispositions sont applicables aux publicités faites, reçues ou
-perçues en France ainsi qu'aux contrats de crédits consentis ou renouvelés six mois après la promulgation de la loi n°
-2003-706 du 1er août 2003.
+Loi 2005-67 du 28 janvier 2005 art. 7 : 
 
-Nota (2) : Loi n° 2003-706 Article 87 II (2ème alinéa) : Ces dispositions sont applicables aux cartes de crédit émises un an
-après la promulgation de la loi n° 2003-706 du 1er août 2003.
+I : Les présentes dispositions entrent en vigueur six mois à compter de la date de promulgation de la présente loi. 
+
+II : les présentes dispositions s'appliquent aux contrats en cours et à leur reconduction à ladite date de promulgation.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de la consommation annexe, 87
-	  - Loi n°2003-706 2003-08-01
+	  - Code de la consommation annexe
 
 	**Anciens textes**:
 
@@ -11081,15 +11129,11 @@ après la promulgation de la loi n° 2003-706 du 1er août 2003.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 2003-08-01 art. 87 I 2°, 3° JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 87 (V) JORF 2 août 2003
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2004-202 du 4 mars 2004
 	  - TXT_SOURCE: Décret n°2004-202 du 4 mars 2004 - art. 1 (V)
+	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 2
 
 	**Cité par**:
 
@@ -11105,6 +11149,14 @@ après la promulgation de la loi n° 2003-706 du 1er août 2003.
 	  - Code de la consommation - art. L311-9-1 (VT)
 	  - Code de la consommation - art. L313-14 (VT)
 	  - Code de la consommation - art. L333-5 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2005-67 du 28 janvier 2005 - art. 4 () JORF 1er février 2005 en vigueur le 28 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L311-16 (VD)
 
 
 ###### Article L311-9-1
@@ -11128,30 +11180,33 @@ clairement référence à l'état précédent et précisant :
 - le montant des remboursements déjà effectués depuis le dernier renouvellement, en faisant ressortir la part respective
 versée au titre du capital emprunté et celle versée au titre des intérêts et frais divers liés à l'opération de crédit ;
 
+- la possibilité pour l'emprunteur de demander à tout moment la réduction de sa réserve de crédit, la suspension de son droit
+à l'utiliser ou la résiliation de son contrat ;
+
 - le fait qu'à tout moment l'emprunteur peut payer comptant tout ou partie du montant restant dû, sans se limiter au montant
-de la seule dernière échéance.(1)
+de la seule dernière échéance.
 
 **Nota:**
 
-Nota (1) : Loi n° 2003-706 Article 87 II (1er alinéa) : Ces dispositions sont applicables aux publicités faites, reçues ou
-perçues en France ainsi qu'aux contrats de crédits consentis ou renouvelés six mois après la promulgation de la loi n°
-2003-706 du 1er août 2003.
+Loi 2005-67 du 28 janvier 2005 art. 7 : 
+
+I : Les présentes dispositions entrent en vigueur six mois à compter de la date de promulgation de la présente loi. 
+
+II : les présentes dispositions s'appliquent aux contrats en cours et à leur reconduction à ladite date de promulgation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°93-949 1993-07-26
+	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L311-26 (VD)
 
 	**Cite**:
 
-	  - Loi n°2003-706 2003-08-01
-	  - Code de la consommation - art. L311-9 (M)
-	  - Code de la consommation L311-9, 87
-
-	**Créé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 87 (V) JORF 2 août 2003
+	  - Code de la consommation - art. L311-9 (VT)
 
 
 ###### Article L311-10
