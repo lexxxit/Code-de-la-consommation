@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-07-28
+Version Consolidée au 2005-08-03
 
 # Partie législative
 
@@ -13887,8 +13887,8 @@ Les conditions de calcul et de publicité des taux effectifs moyens visés au pr
 réglementaire.
 
 Les dispositions du présent article et celles des articles L. 313-4 à L. 313-6 ne sont pas applicables aux prêts accordés à
-une personne morale se livrant à une activité industrielle, commerciale, artisanale, agricole ou professionnelle non
-commerciale.
+une personne physique agissant pour ses besoins professionnels ou à une personne morale se livrant à une activité
+industrielle, commerciale, artisanale, agricole ou professionnelle non commerciale.
 
 **Liens relatifs à cet article**
 
@@ -13903,7 +13903,7 @@ commerciale.
 
 	**Modifié par**:
 
-	  - Loi n°2003-721 du 1 août 2003 - art. 32 () JORF 5 août 2003
+	  - Loi n°2005-882 du 2 août 2005 - art. 7 (V) JORF 3 août 2005
 
 	**Cité par**:
 
