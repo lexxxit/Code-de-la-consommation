@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-08-03
+Version Consolidée au 2005-08-25
 
 # Partie législative
 
@@ -22589,9 +22589,9 @@ aux corrections des taux observés, conformément aux dispositions du deuxième 
 
 ###### Article D313-7
 
-La Banque de France procède chaque trimestre à une enquête, portant sur les prêts en francs français, destinée à collecter
-auprès des établissements de crédit les données nécessaires au calcul des taux effectifs moyens. Ce calcul est effectué selon
-une moyenne arithmétique simple des taux effectifs globaux observés. Les prêts dont les taux sont réglementés, administrés ou
+La Banque de France procède chaque trimestre à une enquête, portant sur les prêts en euros, destinée à collecter auprès des
+établissements de crédit les données nécessaires au calcul des taux effectifs moyens. Ce calcul est effectué selon une
+moyenne arithmétique simple des taux effectifs globaux observés. Les prêts dont les taux sont réglementés, administrés ou
 bonifiés par l'Etat ne sont pas pris en compte. Pour ce qui concerne les entreprises, les prêts ne sont pas pris en compte
 pour le calcul du taux effectif moyen lorsqu'ils sont supérieurs à des montants définis par arrêté du ministre chargé de
 l'économie et des finances.
@@ -22611,9 +22611,9 @@ plus tard dans les quarante-cinq jours suivant la constatation de cette variatio
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2005-1007 du 2 août 2005 - art. 4 (V) JORF 25 août 2005
 
 	**Cité par**:
 
