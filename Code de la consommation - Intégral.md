@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-08-25
+Version Consolidée au 2005-09-02
 
 # Partie législative
 
@@ -2466,10 +2466,10 @@ promoteurs ou des prestataires.
 
 Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, ceux de la
 direction générale de l'alimentation du ministère de l'agriculture et ceux du service de métrologie au ministère de
-l'industrie sont habilités à constater, au moyen de procès-verbaux, les infractions aux dispositions de l'article L. 121-1.
-Ils peuvent exiger de l'annonceur la mise à leur disposition de tous les éléments propres à justifier les allégations,
-indications ou présentations publicitaires. Ils peuvent également exiger de l'annonceur, de l'agence de publicité ou du
-responsable du support la mise à leur disposition des messages publicitaires diffusés.
+l'industrie sont habilités à constater, au moyen de procès-verbaux sur l'ensemble du territoire national, les infractions aux
+dispositions de l'article L. 121-1. Ils peuvent exiger de l'annonceur la mise à leur disposition de tous les éléments propres
+à justifier les allégations, indications ou présentations publicitaires. Ils peuvent également exiger de l'annonceur, de
+l'agence de publicité ou du responsable du support la mise à leur disposition des messages publicitaires diffusés.
 
 Les procès-verbaux dressés en application du présent article sont transmis au procureur de la République.
 
@@ -2484,9 +2484,9 @@ Les procès-verbaux dressés en application du présent article sont transmis au
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 3 () JORF 2 septembre 2005
 
 	**Cité par**:
 
@@ -4108,46 +4108,6 @@ L'entreprise est civilement responsable des démarcheurs, même indépendants, q
 	  - Code monétaire et financier - art. R341-16 (V)
 
 
-###### Article L121-30
-
-Les infractions aux dispositions de la présente section peuvent être constatées et poursuivies dans les conditions fixées par
-les articles L. 450-1, L. 450-2, L. 450-3 et L. 450-8 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 4 () JORF 2 septembre 2005
-
-	**Cite**:
-
-	  - Code de commerce. - art. L450-1 (M)
-	  - Code de commerce. - art. L450-2 (V)
-	  - Code de commerce. - art. L450-3 (M)
-	  - Code de commerce. - art. L450-8 (M)
-
-	**Cité par**:
-
-	  - Code de la consommation - art. R121-3 (MMN)
-	  - Code de la consommation - art. R121-6-1 (Ab)
-	  - Code de la mutualité - art. L221-18 (V)
-	  - Code de la sécurité sociale. - art. L932-15-1 (M)
-	  - Code des assurances - art. L112-2-1 (VD)
-	  - Code monétaire et financier - art. R341-16 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°89-4217 1989-06-23 art. 9
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-
 ###### Article L121-31
 
 A l'occasion des poursuites pénales exercées en application de la présente section contre le vendeur, le prestataire de
@@ -4456,37 +4416,6 @@ premier alinéa de l'article L. 121-37.
 	**Cite**:
 
 	  - Code de la consommation - art. L121-37 (Ab)
-
-
-###### Article L121-40
-
-Les infractions aux dispositions de la présente section peuvent être constatées et poursuivies dans les conditions fixées par
-les articles L. 450-1 premier et troisième alinéas, L. 450-2, L. 450-3 et L. 450-8 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-421 du 23 juin 1989 - art. 9, v. init.
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Modifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 4 () JORF 2 septembre 2005
-
-	**Cite**:
-
-	  - Code de commerce. - art. L450-1 (M)
-	  - Code de commerce. - art. L450-2 (V)
-	  - Code de commerce. - art. L450-3 (M)
-	  - Code de commerce. - art. L450-8 (M)
 
 
 ###### Article L121-41
@@ -5413,34 +5342,6 @@ règles relatives aux ventes subordonnées sont fixées par le 1 du I de l'artic
 
 ##### Section 2 : Ventes sans commande préalable.
 
-###### Article L122-2
-
-Les infractions aux dispositions de l'article R. 635-2 du code pénal peuvent être constatées et poursuivies dans les
-conditions fixées par les articles L. 450-1 premier et troisième alinéas, L. 450-2, L. 450-3 et L. 450-8 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Modifié par**:
-
-	  - Loi n°93-949 du 26 juillet 1993 - art. 7 () JORF 27 juillet 1993 en vigueur le 1er mars 1994
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 4 () JORF 2 septembre 2005
-
-	**Cite**:
-
-	  - Code de commerce. - art. L450-1 (M)
-	  - Code de commerce. - art. L450-2 (V)
-	  - Code de commerce. - art. L450-3 (M)
-	  - Code de commerce. - art. L450-8 (M)
-	  - Code pénal - art. R635-2 (V)
-
-
 ###### Article L122-3
 
 La fourniture de biens ou de services sans commande préalable du consommateur est interdite lorsqu'elle fait l'objet d'une
@@ -5704,34 +5605,6 @@ sens de l'article 529 du code civil.
 
 	  - Code de la consommation - art. L122-8 (VT)
 	  - Code civil - art. 529
-
-
-###### Article L122-11
-
-Les infractions aux dispositions de la présente section peuvent être constatées et poursuivies dans les conditions fixées par
-les articles L. 450-1 premier et troisième alinéas, L. 450-2, L. 450-3 et L. 450-8 du code de commerce.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-421 du 23 juin 1989 - art. 9, v. init.
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 4 () JORF 2 septembre 2005
-
-	**Cite**:
-
-	  - Code de la consommation L450-1 à L450-3, L450-8
 
 
 ### Titre III : Conditions générales des contrats
@@ -6221,126 +6094,60 @@ II : les présentes dispositions s'appliquent aux contrats en cours et à leur r
 
 ###### Article L141-1
 
-I. - Sont constatées et poursuivies dans les conditions fixées par les articles L450-1 premier et troisième alinéas, L450-2,
-L450-3, L450-8 du code de commerce, reproduits au paragraphe IV ci-après, les infractions aux dispositions prévues au présent
-code par :
+I. - Sont recherchées et constatées dans les conditions fixées par les articles L. 450-1, L. 450-2, L. 450-3 L. 450-4, L.
+450-7, L. 450-8, L. 470-1 et L. 470-5 du code de commerce, les infractions aux dispositions prévues au code de la
+consommation par :
 
-1° Les articles L. 121-70, L. 121-71, L. 121-72, L. 122-6 et L. 122-7 ;
+1° La section II "ventes de biens et fournitures de prestations de services à distance" du chapitre Ier du titre II du livre
+Ier ;
 
-2° Les articles L. 132-1 à L. 132-5, L. 133-1 et L. 134-1.
+2° La section III "démarchage" du chapitre Ier du titre II du livre Ier ;
 
-II. - Dans les conditions fixées par les articles L450-1 à L450-4, L450-7, L450-8, L470-1 et L470-5 du code de commerce,
-reproduits au paragraphe IV ci-après, les personnes habilitées en vertu de l'article L450-1 de ce code peuvent procéder aux
-enquêtes nécessaires à l'application des dispositions prévues par les articles L. 113-3, L. 121-35 et L. 122-1 du présent
-code, et par l'article L. 3351-8 du code de la santé publique.
+3° La section IX "contrat de jouissance d'immeuble à temps partagé" du chapitre Ier du titre II du livre Ier ;
 
-III. - Les dispositions des articles L470-1 et L470-5 du code de commerce, reproduits au paragraphe IV ci-après, sont
-applicables aux dispositions prévues par les articles L. 113-3, L. 121-35 et L. 122-1 du présent code.
+4° La section III "ventes ou prestations à la boule de neige" du chapitre II du titre II du livre Ier ;
 
-IV. - Les règles relatives à l'application des dispositions des paragraphes I à III ci-dessus sont fixées par les articles
-L450-1 à L450-4, L450-7, L450-8, L470-1 et L470-5 du code, reproduits ci-après :
+5° La section IV "abus de faiblesse" du chapitre II du titre II du livre Ier ;
 
-"Art. L450-1 : Des fonctionnaires habilités à cet effet par le ministre chargé de l'économie peuvent procéder aux enquêtes
-nécessaires à l'application des dispositions du présent livre.
+6° La section VII "sanctions" du chapitre Ier intitulé "crédit à la consommation" du titre Ier du livre III ;
 
-"Les rapporteurs du Conseil de la concurrence disposent des mêmes pouvoirs pour les affaires dont le conseil est saisi.
+7° La section VII "sanctions" du chapitre II intitulé "crédit immobilier" du titre Ier du livre III ;
 
-"Dans le cas où des investigations sont menées au nom ou pour le compte d'une autorité de concurrence d'un autre Etat membre,
-en application du 1 de l'article 22 du règlement n° 1/2003 du Conseil relatif à la mise en oeuvre des règles de concurrence
-prévues aux articles 81 et 82 du traité instituant la Communauté européenne, le ministre chargé de l'économie peut autoriser
-des agents de cette autorité de concurrence à assister les fonctionnaires habilités mentionnés au premier alinéa ou les
-rapporteurs mentionnés au deuxième alinéa  dans leurs investigations. Les modalités de cette assistance sont fixées par
-décret en Conseil d'Etat.
+8° La sous-section 2 "taux d'usure" de la section I du chapitre III intitulé "dispositions communes" du titre Ier du livre
+III ;
 
-"Des fonctionnaires de catégorie A du ministère chargé de l'économie, spécialement habilités à cet effet par le garde des
-sceaux, ministre de la justice, sur la proposition du ministre chargé de l'économie, peuvent recevoir des juges d'instruction
-des commissions rogatoires.
+9° Le chapitre II "dispositions diverses" du titre II du livre III.
 
-"Les fonctionnaires habilités mentionnés au présent article peuvent exercer les pouvoirs d'enquête qu'ils tiennent du présent
-article et des articles suivants sur l'ensemble du territoire national".
+II. - Sont recherchées et constatées dans les conditions fixées par les articles L. 450-1, L. 450-2, L. 450-3, L. 450-7 et L.
+450-8, L. 470-1 et L. 470-5 du code de commerce les infractions aux dispositions prévues au code de la consommation à :
 
-"Art. L450-2 : Les enquêtes donnent lieu à l'établissement de procès-verbaux et, le cas échéant, de rapports.
+1° L'article L. 113-3 ;
 
-"Les procès-verbaux sont transmis à l'autorité compétente. Un double en est laissé aux parties intéressées. Ils font foi
-jusqu'à preuve contraire".
+2° La section V "ventes ou prestations avec primes" du chapitre Ier du titre II du livre Ier ;
 
-"Art. L450-3 : Les enquêteurs peuvent accéder à tous locaux, terrains ou moyens de transport à usage professionnel, demander
-la communication des livres, factures et tous autres documents professionnels et en obtenir ou prendre copie par tous moyens
-et sur tous supports, recueillir sur convocation ou sur place les renseignements et justifications.
+3° La section VI "loteries publicitaires" du chapitre Ier du titre II du livre Ier ;
 
-"Ils peuvent demander à l'autorité dont ils dépendent de désigner un expert pour procéder à toute expertise contradictoire
-nécessaire".
+4° La section I "refus et subordination de vente ou de prestation de services" du chapitre II du titre II du livre Ier ;
 
-"Art. L450-4 : Les enquêteurs ne peuvent procéder aux visites en tous lieux ainsi qu'à la saisie de documents et de tout
-support d'information, que dans le cadre d'enquêtes demandées par la Commission européenne, le ministre chargé de l'économie
-ou le rapporteur général du Conseil de la concurrence sur proposition du rapporteur et sur autorisation judiciaire donnée par
-ordonnance du juge des libertés et de la détention du tribunal de grande instance dans le ressort duquel sont situés les
-lieux à visiter. Ils peuvent également, dans les mêmes conditions, procéder à la pose de scellés sur tous locaux commerciaux,
-documents et supports d'information dans la limite de la durée de la visite de ces locaux. Lorsque ces lieux sont situés dans
-le ressort de plusieurs juridictions et qu'une action simultanée doit être menée dans chacun d'eux, une ordonnance unique
-peut être délivrée par l'un des juges de la liberté et de la détention compétents.
+5° La section II "ventes sans commande préalable" du chapitre II du titre II du livre Ier et l'article R. 122-1 ;
 
-"Le juge doit vérifier que la demande d'autorisation qui lui est soumise est fondée ; cette demande doit comporter tous les
-éléments d'information en possession du demandeur de nature à justifier la visite. Lorsque la visite vise à permettre la
-constatation d'infractions aux dispositions du livre IV du présent code en train de se commettre, la demande d'autorisation
-peut ne comporter que les indices permettant de présumer, en l'espèce, l'existence des pratiques dont la preuve est
-recherchée. 
+6° La section I "protection des consommateurs contre les clauses abusives" du chapitre II du titre III du livre Ier ;
 
-"La visite et la saisie s'effectuent sous l'autorité et le contrôle du juge qui les a autorisées. Il désigne un ou plusieurs
-officiers de police judiciaire chargés d'assister à ces opérations et de le tenir informé de leur déroulement. Lorsqu'elles
-ont lieu en dehors du ressort de son tribunal de grande instance, il délivre une commission rogatoire pour exercer ce
-contrôle au président (1) du tribunal de grande instance dans le ressort duquel s'effectue la visite.
+7° La section XI "contrats de services de communication électronique" du chapitre Ier du titre II du livre Ier.
 
-"Le juge peut se rendre dans les locaux pendant l'intervention. A tout moment, il peut décider la suspension ou l'arrêt de la
-visite.
+III. - Le secret professionnel ne peut être opposé aux agents agissant dans le cadre des pouvoirs qui leur sont conférés par
+le présent article.
 
-"L'ordonnance est notifiée verbalement et sur place au moment de la visite à l'occupant des lieux ou à son représentant qui
-en reçoit copie intégrale contre récépissé ou émargement au procès-verbal. En l'absence de l'occupant des lieux ou de son
-représentant, l'ordonnance est notifiée après la visite, par lettre recommandée avec avis de réception. La notification est
-réputée faite à la date de réception figurant sur l'avis. 
+IV. - Les agents habilités à constater les infractions mentionnées au présent article peuvent enjoindre au professionnel, en
+lui impartissant un délai raisonnable, de se conformer aux obligations résultant des livres Ier et III du code de la
+consommation ou de faire cesser les agissements illicites ou abusifs mentionnés aux I et II du présent article.
 
-"L'ordonnance mentionnée au premier alinéa du présent article n'est susceptible que d'un pourvoi en cassation selon les
-règles prévues par le code de procédure pénale. Ce pourvoi n'est pas suspensif.
-
-"La visite, qui ne peut commencer avant six heures ou après vingt et une heures, est effectuée en présence de l'occupant des
-lieux ou de son représentant. En cas d'impossibilité, l'officier de police judiciaire requiert deux témoins choisis en dehors
-des personnes relevant de son autorité, de celle de l'administration de la direction générale de la concurrence, de la
-consommation et de la répression des fraudes ou de celle du Conseil de la concurrence. 
-
-"Les enquêteurs, l'occupant des lieux ou son représentant ainsi que l'officier de police judiciaire et, le cas échéant, les
-agents et autres personnes mandatés par la Commission européenne peuvent seuls prendre connaissance des pièces et documents
-avant leur saisie.
-
-"Les inventaires et mises sous scellés sont réalisés conformément à l'article 56 du code de procédure pénale.
-
-"Les originaux du procès-verbal et de l'inventaire sont transmis au juge qui a ordonné la visite.
-
-"Les pièces et documents saisis sont restitués à l'occupant des lieux, dans un délai de six mois à compter de la date à
-laquelle la décision du Conseil de la concurrence est devenue définitive. L'occupant des lieux est mis en demeure, par lettre
-recommandée avec avis de réception, de venir les rechercher, dans un délai de deux mois. A l'expiration de ce délai et à
-défaut de diligences de sa part, les pièces et documents lui sont restitués, à ses frais.  
-
-"Le déroulement des opérations de visite ou saisie peut faire l'objet d'un recours auprès du juge les ayant autorisées dans
-un délai de deux mois qui court, pour les personnes occupant les lieux où ces opérations se sont déroulées, à compter de la
-notification de l'ordonnance les ayant autorisées et, pour les autres personnes mises en cause ultérieurement au moyen de
-pièces saisies au cours de ces opérations, à compter de la date à laquelle elles ont eu connaissance de l'existence de ces
-opérations et au plus tard à compter de la notification de griefs prévue à l'article L. 463-2. Le juge se prononce sur ce
-recours par voie d'une ordonnance, qui n'est susceptible que d'un pourvoi en cassation selon les règles prévues au code de la
-procédure pénale. Ce pourvoi n'est pas suspensif".
-
-"Art. L450-7 : Les enquêteurs peuvent, sans se voir opposer le secret professionnel, accéder à tout document ou élément
-d'information détenu par les services et établissements de l'Etat et des autres collectivités publiques".
-
-"Art. L450-8 : Est puni d'un emprisonnement de six mois et d'une amende de 7 500 euros le fait pour quiconque de s'opposer,
-de quelque façon que ce soit, à l'exercice des fonctions dont les agents désignés à l'article L. 450-1 et les rapporteurs du
-Conseil de la concurrence sont chargés en application du présent livre".
-
-"Art. L470-1 : La juridiction peut condamner solidairement les personnes morales au paiement des amendes prononcées contre
-leurs dirigeants en vertu des dispositions du présent livre et des textes pris pour son application".
-
-"Art. L470-5 : Pour l'application des dispositions du présent livre, le ministre chargé de l'économie ou son représentant
-peut, devant les juridictions civiles ou pénales, déposer des conclusions et les développer oralement à l'audience. Il peut
-également produire les procès-verbaux et les rapports d'enquête".
+V. - L'autorité administrative chargée de la concurrence et de la consommation peut demander à la juridiction civile ou, s'il
+y a lieu, à la juridiction administrative, d'ordonner, s'il y a lieu sous astreinte, la suppression d'une clause illicite ou
+abusive dans tout contrat ou type de contrat proposé ou destiné au consommateur. Elle peut, après en avoir avisé le procureur
+de la République, agir devant la juridiction civile, pour demander au juge d'ordonner, s'il y a lieu sous astreinte, toute
+mesure de nature à mettre un terme aux agissements illicites mentionnés au I et au II du présent article. Les modalités de
+mise en oeuvre de ces procédures sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -6404,33 +6211,79 @@ peut, devant les juridictions civiles ou pénales, déposer des conclusions et l
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 2 () JORF 5 novembre 2004
+	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 2 () JORF 2 septembre  2005
 
 	**Cite**:
 
-	  - Code de commerce L450-1, L450-2, L450-3, L450-4, L450-7, L450-8, L450-1 à L450-4, L470-1, L470-5
 	  - Code de commerce. - art. L450-1 (M)
 	  - Code de commerce. - art. L450-2 (V)
 	  - Code de commerce. - art. L450-3 (M)
-	  - Code de commerce. - art. L450-4 (M)
 	  - Code de commerce. - art. L450-7 (V)
 	  - Code de commerce. - art. L450-8 (M)
 	  - Code de commerce. - art. L470-1 (V)
 	  - Code de commerce. - art. L470-5 (V)
 	  - Code de la consommation - art. L113-3 (M)
-	  - Code de la consommation - art. L121-35 (M)
-	  - Code de la consommation - art. L121-70 (M)
-	  - Code de la consommation - art. L121-71 (M)
-	  - Code de la consommation - art. L121-72 (V)
-	  - Code de la consommation - art. L122-1 (M)
-	  - Code de la consommation - art. L122-6 (M)
-	  - Code de la consommation - art. L122-7 (M)
-	  - Code de la consommation - art. L133-1 (V)
-	  - Code de la consommation - art. L134-1 (V)
-	  - Code de la consommation L121-70, L121-71, L121-72, L122-6, L122-7, L132-1 à L132-5, L133-1, L134-1, L113-3, L121-35, L122-1, L450-1, L463-2
-	  - Code de la santé publique L3351-8, L470-1, L470-5
-	  - Règlement 1-2003 CE 2002-12-16 art. 22
-	  - Traité de Rome CEE 1958-03-25 art. 81, art. 82
+	  - Code de la consommation L113-3, R122-1
+
+
+###### Article L141-2
+
+Pour les contraventions prévues aux livres Ier et III du présent code, l'autorité administrative chargée de la concurrence et
+de la consommation a droit, tant que l'action publique n'a pas été mise en mouvement, de transiger, après accord du procureur
+de la République, selon les modalités fixées par décret en Conseil d'Etat.
+
+L'acte par lequel le procureur de la République donne son accord à la proposition de transaction est interruptif de la
+prescription de l'action publique.
+
+L'action publique est éteinte lorsque l'auteur de l'infraction a exécuté dans le délai imparti les obligations résultant pour
+lui de l'acceptation de la transaction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 1 () JORF 2 septembre 2005
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R141-3 (Ab)
+
+
+###### Article L141-3
+
+I. - Les dispositions de l'article 11 du code de procédure pénale ou celles relatives au secret professionnel ne font pas
+obstacle à la communication, par les agents de la direction générale de la concurrence, de la consommation et de la
+répression des fraudes, selon les conditions et modalités du règlement CE n° 2006/2004 du Parlement européen et du Conseil du
+27 octobre 2004, aux autorités compétentes des Etats membres de l'Union européenne d'informations et de documents détenus et
+recueillis dans l'exercice de leurs missions par les agents habilités à constater et rechercher des infractions aux
+dispositions entrant dans le champ d'application dudit règlement.
+
+II. - Les agents habilités à constater les infractions mentionnées à l'article L. 141-1 et à l'article L. 121-1 du code de la
+consommation peuvent également coopérer avec les autorités compétentes des pays membres de l'Organisation de coopération et
+de développement économiques (OCDE), non-membres de l'Union européenne, en vue de prévenir ou de faire cesser des pratiques
+commerciales transfrontières illicites. Cette coopération consiste en l'établissement de contacts, d'échanges d'informations
+non couvertes par le secret professionnel ou le secret de l'instruction, et en l'orientation des plaintes des consommateurs
+dans des pays tiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 5 () JORF 2 septembre 2005
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-1 (V)
+	  - Code de la consommation - art. L141-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 11 (M)
 
 
 ## Livre II : Conformité et sécurité des produits et des services
@@ -9361,6 +9214,33 @@ consommateurs.
 	  - Code de procédure pénale - art. 11
 
 
+###### Article L216-11
+
+Pour les contraventions prévues au présent livre, l'autorité administrative chargée de la concurrence et de la consommation a
+droit, tant que l'action publique n'a pas été mise en mouvement, de transiger, après accord du procureur de la République,
+selon les modalités fixées par décret en Conseil d'Etat.
+
+L'acte par lequel le procureur de la République donne son accord à la proposition de transaction est interruptif de la
+prescription de l'action publique.
+
+L'action publique est éteinte lorsque l'auteur de l'infraction a exécuté dans le délai imparti les obligations résultant pour
+lui de l'acceptation de la transaction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 1 () JORF 2 septembre 2005
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R216-3 (Ab)
+
+
 #### Chapitre VII : Dispositions particulières
 
 ###### Article L217-1
@@ -12229,19 +12109,14 @@ payable à crédit du bien acheté ou de la prestation de services fournie.
 
 ###### Article L311-36
 
-Les infractions aux dispositions des décrets visés au deuxième alinéa de l'article 1er du décret n° 55-585 du 20 mai 1955
-relatif aux ventes à crédit seront punies des peines prévues à l'article L. 311-35 et seront constatées et poursuivies dans
-les conditions fixées par les articles L. 450-1 premier alinéa, L. 450-2, et L. 450-3 du code de commerce.
+Les infractions aux dispositions des décrets mentionnés au deuxième alinéa de l'article 1er du décret n° 55-585 du 20 mai
+1955 relatif aux ventes à crédit seront punies d'une amende de 30 000 Euros.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°55-585 1955-05-20 art. 1
-	  - Code de commerce. - art. L450-1 (M)
-	  - Code de commerce. - art. L450-2 (V)
-	  - Code de commerce. - art. L450-3 (M)
-	  - Code de la consommation - art. L311-35 (M)
 
 	**Anciens textes**:
 
@@ -12252,9 +12127,9 @@ les conditions fixées par les articles L. 450-1 premier alinéa, L. 450-2, et L
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 4 () JORF 2 septembre 2005
 
 	**Cité par**:
 
@@ -14370,41 +14245,6 @@ des sections 2,4,6 et 7 du chapitre II et des sections 1,3 et 4 à 8 du présent
 	  - Code de la consommation - art. L311-10 (VD)
 
 
-##### Section 6 : Pouvoirs d'enquête.
-
-###### Article L313-14
-
-Les infractions aux dispositions des chapitres Ier et II et des sections 2 à 8 du chapitre III du présent titre sont
-constatées et poursuivies dans les conditions fixées par les articles L. 450-1 premier alinéa, L. 450-2 et L. 450-3 du code
-de commerce.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°78-22 du 10 janvier 1978 - art. 26, v. init.
-	  - Loi n°78-22 du 10 janvier 1978 - art. 26 (Ab)
-	  - Loi n°79-596 1979-07-13 art. 34
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 4 () JORF 2 septembre 2005
-
-	**Cite**:
-
-	  - Code de commerce. - art. L450-1 (M)
-	  - Code de commerce. - art. L450-2 (V)
-	  - Code de commerce. - art. L450-3 (M)
-
-
 ##### Section 7 : Textes d'application.
 
 ###### Article L313-15
@@ -14670,32 +14510,6 @@ non conforme aux dispositions de l'article L. 321-2.
 	**Cité par**:
 
 	  - Code de la consommation - art. L322-4 (Ab)
-
-
-###### Article L322-4
-
-Les infractions prévues aux articles L. 322-1 et L. 322-3 sont recherchées et constatées dans les conditions fixées par
-l'article L. 141-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°2001-1168 2001-12-11 art. 16 I 1°, 4° JORF 12 décembre 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 4 () JORF 2 septembre 2005
-
-	**Cite**:
-
-	  - Code de la consommation - art. L141-1 (M)
-	  - Code de la consommation - art. L322-1 (M)
-	  - Code de la consommation - art. L322-3 (T)
 
 
 ###### Article L322-5
