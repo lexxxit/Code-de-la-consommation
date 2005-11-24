@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-09-02
+Version Consolidée au 2005-11-25
 
 # Partie législative
 
@@ -17434,7 +17434,9 @@ façon que le contenu ne puisse être modifié sans que l'emballage subisse une 
 
 3° Etiquetage : les mentions, indications, marques de fabrique ou de commerce, images ou signes se rapportant à une denrée
 alimentaire et figurant sur tout emballage, document, écriteau, étiquette, bague ou collerette accompagnant ou se référant à
-cette denrée alimentaire.
+cette denrée alimentaire ;
+
+4° Collectivités : les restaurants, hôpitaux, cantines et autres collectivités similaires.
 
 **Liens relatifs à cet article**
 
@@ -17460,9 +17462,13 @@ cette denrée alimentaire.
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 1 () JORF 6 août 2005 en vigueur le 25 novembre 2005
 
 
 ###### Article R112-2
@@ -17499,9 +17505,12 @@ Toutefois, ne sont pas considérés comme ingrédients :
 plusieurs ingrédients de cette denrée et sous réserve qu'ils ne remplissent plus de fonction technologique dans le produit
 fini ;
 
-3° Les auxiliaires technologiques ;
+3° Les additifs qui sont utilisés en tant qu'auxiliaires technologiques ;
 
-4° Les substances utilisées aux doses strictement nécessaires comme solvants ou supports pour les additifs et les arômes.
+4° Les substances qui ne sont pas des additifs, mais qui sont utilisées de la même manière et dans le même but que les
+auxiliaires technologiques et qui sont toujours présentes dans le produit fini, même sous une forme modifiée ;
+
+5° Les substances utilisées aux doses strictement nécessaires comme solvants ou supports pour les additifs et les arômes.
 
 **Liens relatifs à cet article**
 
@@ -17513,18 +17522,22 @@ fini ;
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 2 () JORF 6 août 2005 en vigueur le 25 novembre 2005
 
 
 ###### Article R112-4
 
 On entend par liquide de couverture les produits énumérés ci-après, seuls ou en mélange et également lorsqu'ils se présentent
-à l'état congelé ou surgelé, dès lors qu'ils ne sont qu'accessoires par rapport aux éléments essentiels de la préparation,
-tels que eau, solutions aqueuses de sels, saumures, solutions aqueuses d'acides alimentaires, vinaigre, solutions aqueuses de
-sucres, solutions aqueuses d'autres substances ou matières édulcorantes, jus de fruits ou de légumes dans le cas de fruits ou
-légumes.
+à l'état congelé ou surgelé, dès lors qu'ils ne sont qu'accessoires par rapport aux éléments essentiels de la préparation et
+ne sont par conséquent pas décisifs pour l'achat, tels que eau, solutions aqueuses de sels, saumures, solutions aqueuses
+d'acides alimentaires, vinaigre, solutions aqueuses de sucres, solutions aqueuses d'autres substances ou matières
+édulcorantes, jus de fruits ou de légumes dans le cas de fruits ou légumes.
 
 **Liens relatifs à cet article**
 
@@ -17536,9 +17549,13 @@ légumes.
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 3 () JORF 6 août 2005 en vigueur le 25 novembre 2005
 
 
 ###### Article R112-5
@@ -17597,9 +17614,9 @@ prescriptions du présent chapitre.
 ###### Article R112-7
 
 L'étiquetage et les modalités selon lesquelles il est réalisé ne doivent pas être de nature à créer une confusion dans
-l'esprit de l'acheteur ou du consommateur, notamment sur les caractéristiques de la denrée alimentaire et plus
-particulièrement sur la nature, l'identité, les qualités, la composition, la quantité, la durabilité, la conservation,
-l'origine ou la provenance, le mode de fabrication ou d'obtention.
+l'esprit de l'acheteur ou du consommateur, notamment sur les caractéristiques de la denrée alimentaire et notamment sur la
+nature, l'identité, les qualités, la composition, la quantité, la durabilité, l'origine ou la provenance, le mode de
+fabrication ou d'obtention.
 
 L'étiquetage ne doit comporter aucune mention tendant à faire croire que la denrée alimentaire possède des caractéristiques
 particulières alors que toutes les denrées alimentaires similaires possèdent ces mêmes caractéristiques.
@@ -17608,9 +17625,9 @@ Sous réserve des dispositions applicables aux denrées destinées à une alimen
 naturelles, l'étiquetage d'une denrée alimentaire ne doit pas faire état de propriétés de prévention, de traitement et de
 guérison d'une maladie humaine ni évoquer ces propriétés.
 
-Les interdictions ou restrictions prévues ci-dessus s'appliquent également à la présentation des denrées alimentaires,
-notamment à la forme ou à l'aspect donné à celle-ci ou à leur emballage, au matériau d'emballage utilisé, à la manière dont
-elles sont disposées ainsi qu'à l'environnement dans lequel elles sont exposées.
+Les interdictions ou restrictions prévues ci-dessus s'appliquent également à la publicité et à la présentation des denrées
+alimentaires, notamment à la forme ou à l'aspect donné à celle-ci ou à leur emballage, au matériau d'emballage utilisé, à la
+manière dont elles sont disposées ainsi qu'à l'environnement dans lequel elles sont exposées.
 
 **Liens relatifs à cet article**
 
@@ -17618,9 +17635,13 @@ elles sont disposées ainsi qu'à l'environnement dans lequel elles sont exposé
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
 	**Modifié par**:
 
-	  - Décret n°98-879 du 29 septembre 1998 - art. 1 () JORF 2 octobre 1998
+	  - Décret n°2005-944 du 2 août 2005 - art. 4 () JORF 6 août 2005 en vigueur le 25 novembre 2005
 
 	**Cité par**:
 
@@ -17663,8 +17684,8 @@ suivantes :
 
 4° La quantité nette ;
 
-5° La date jusqu'à laquelle la denrée conserve ses propriétés spécifiques ainsi que l'indication des conditions particulières
-de conservation ;
+5° La date de durabilité minimale ou, dans le cas de denrées alimentaires très périssables microbiologiquement, la date
+limite de consommation ainsi que l'indication des conditions particulières de conservation ;
 
 6° Le nom ou la raison sociale et l'adresse du fabricant ou du conditionneur ou d'un vendeur établi à l'intérieur du
 territoire de la Communauté européenne ;
@@ -17675,7 +17696,7 @@ territoire de la Communauté européenne ;
 l'esprit de l'acheteur sur l'origine ou la provenance réelle de la denrée alimentaire ;
 
 9° Le mode d'emploi chaque fois que sa mention est nécessaire à un usage approprié de la denrée alimentaire ainsi que, le cas
-échéant, les conditions particulières d'utilisation, notamment les précautions d'emploi.
+échéant, les conditions particulières d'utilisation.
 
 **Liens relatifs à cet article**
 
@@ -17690,13 +17711,21 @@ l'esprit de l'acheteur sur l'origine ou la provenance réelle de la denrée alim
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
 	**Modifié par**:
 
-	  - Décret n°2000-705 du 20 juillet 2000 - art. 4 () JORF 28 juillet 2000
+	  - Décret n°2005-944 du 2 août 2005 - art. 5 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code de la consommation R112-17, R112-17-1
+	  - Code de la consommation
 
 
 ###### Article R112-9-1
@@ -17759,14 +17788,10 @@ jusqu'à épuisement des stocks."
 
 ###### Article R112-10
 
-Lorsque les denrées alimentaires préemballées sont destinées à être présentées au consommateur final, les mentions prévues
-aux articles R. 112-9 et R. 112-9-1 sont portées sur le préemballage ou sur une étiquette liée à celui-ci. Les mentions
-énumérées aux 1°, 4° et 5° de l'article R. 112-9 et au 1° de l'article R. 112-9-1 sont regroupées dans le même champ visuel.
-
-Toutefois, pour les préemballages dont la face la plus grande a une surface inférieure à 10 centimètres carrés, ainsi que
-pour les bouteilles en verre destinées à être réutilisées, qui sont marquées de manière indélébile et qui, de ce fait, ne
-portent ni étiquette, ni bague, ni collerette, l'étiquetage peut ne comporter que les mentions prévues aux 1°, 4° et 5° de
-l'article R. 112-9..
+Lorsque les denrées alimentaires préemballées sont destinées à être présentées au consommateur final ou aux collectivités,
+les mentions prévues aux articles R. 112-9 et R. 112-9-1 sont portées sur le préemballage ou sur une étiquette liée à celui-
+ci. Les mentions énumérées aux 1°, 4° et 5° de l'article R. 112-9 et au 1° de l'article R. 112-9-1 sont regroupées dans le
+même champ visuel.
 
 **Liens relatifs à cet article**
 
@@ -17776,28 +17801,32 @@ l'article R. 112-9..
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
 
 	**Modifié par**:
 
-	  - Décret n°98-879 du 29 septembre 1998 - art. 4 () JORF 2 octobre 1998
+	  - Décret n°2005-944 du 2 août 2005 - art. 7 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code de la consommation R112-9, R112-9-1
+	  - Code de la consommation
 
 
-###### Article R112-11
+###### Article R112-10-1
 
-Lorsque les denrées alimentaires préemballées sont commercialisées à un stade antérieur à la vente au consommateur final ou
-lorsqu'elles sont destinées à être livrées aux restaurants, hôpitaux, cantines et autres collectivités similaires, ci-après
-dénommés "collectivités", pour y être préparées, transformées, fractionnées ou débitées, les mentions prévues à l'article R.
-112-9, à l'exception de l'indication du lot, et celles prévues à l'article R. 112-9-1 peuvent ne figurer que sur les fiches,
-bons de livraison ou documents commerciaux lorsque ceux-ci accompagnent les denrées alimentaires auxquelles ils se rapportent
-ou lorsqu'ils ont été envoyés avant la livraison ou en même temps qu'elle. Ces documents doivent être détenus sur les lieux
-d'utilisation ou de stockage des denrées alimentaires auxquelles ils se réfèrent. Dans ce cas, les mentions prévues aux 1°,
-5° et 6° de l'article R. 112-9 sont portées en outre sur l'emballage extérieur dans lequel lesdites denrées sont présentées
-lors de la commercialisation.
+Les dispositions de l'article R. 112-10 ne s'appliquent pas aux préemballages dont la face la plus grande a une surface
+inférieure à 10 centimètres carrés, ainsi que pour les bouteilles en verre destinées à être réutilisées, qui sont marquées de
+manière indélébile et qui, de ce fait, ne portent ni étiquette, ni bague, ni collerette. L'étiquetage de ces produits peut ne
+comporter que les mentions prévues aux 1°, 4° et 5° de l'article R. 112-9, et, le cas échéant, celles prévues par l'article
+R. 112-16-1.
 
 **Liens relatifs à cet article**
 
@@ -17805,9 +17834,55 @@ lors de la commercialisation.
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
+	**Créé par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 8 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code de la consommation
+
+
+###### Article R112-11
+
+Lorsque les denrées alimentaires préemballées sont commercialisées à un stade antérieur à la vente au consommateur final ou
+lorsqu'elles sont destinées à être livrées aux "collectivités", pour y être préparées, transformées, fractionnées ou
+débitées, les mentions prévues à l'article R. 112-9, à l'exception de l'indication du lot, et celles prévues à l'article R.
+112-9-1 peuvent ne figurer que sur les fiches, bons de livraison ou documents commerciaux lorsque ceux-ci accompagnent les
+denrées alimentaires auxquelles ils se rapportent ou lorsqu'ils ont été envoyés avant la livraison ou en même temps qu'elle.
+Ces documents doivent être détenus sur les lieux d'utilisation ou de stockage des denrées alimentaires auxquelles ils se
+réfèrent. Dans ce cas, les mentions prévues aux 1°, 5° et 6° de l'article R. 112-9 sont portées en outre sur l'emballage
+extérieur dans lequel lesdites denrées sont présentées lors de la commercialisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
 	**Modifié par**:
 
-	  - Décret n°2000-705 du 20 juillet 2000 - art. 4 () JORF 28 juillet 2000
+	  - Décret n°2005-944 du 2 août 2005 - art. 9 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code de la consommation
 
 	**Cité par**:
 
@@ -17815,30 +17890,34 @@ lors de la commercialisation.
 	  - Code de la consommation - art. R112-13 (Ab)
 	  - Code de la consommation - art. R112-15 (Ab)
 
-	**Cite**:
-
-	  - Code de la consommation R112-9, R112-9-1
-
 
 ###### Article R112-12
 
 Dans le cas des ventes par correspondance, les catalogues, brochures, prospectus ou annonces faisant connaître au
 consommateur les produits offerts à la vente et lui permettant d'effectuer directement sa commande doivent comporter les
-mentions prévues aux 1°, 2°, 4° et 8° de l'article R. 112-9 et au 7° de l'article R. 112-9-1.
+mentions prévues aux 1°, 2°, 4° et 8° de l'article R. 112-9 et au 11° de l'article R. 112-9-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
 
 	**Modifié par**:
 
-	  - Décret n°98-879 du 29 septembre 1998 - art. 6 () JORF 2 octobre 1998
+	  - Décret n°2005-944 du 2 août 2005 - art. 10 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code de la consommation R112-9, R112-9-1
+	  - Code de la consommation
 
 
 ###### Article R112-13
@@ -17944,6 +18023,76 @@ information correcte du consommateur.
 La liste des ingrédients est constituée par l'énumération de tous les ingrédients de la denrée alimentaire dans l'ordre
 décroissant de leur importance pondérale au moment de leur mise en oeuvre.
 
+Elle est précédée d'une mention appropriée comportant le mot : "ingrédient".
+
+Toutefois :
+
+1° L'eau ajoutée et les ingrédients volatils sont indiqués dans la liste en fonction de leur importance pondérale dans le
+produit fini. La quantité d'eau ajoutée comme ingrédient dans une denrée alimentaire est déterminée en soustrayant de la
+quantité totale du produit fini la quantité totale des autres ingrédients mis en oeuvre.
+
+L'indication de l'eau n'est cependant pas exigée :
+
+a) Lorsque l'eau est utilisée lors du processus de fabrication, uniquement pour permettre la reconstitution dans son état
+d'origine d'un ingrédient utilisé sous forme concentrée ou déshydratée ;
+
+b) Lorsqu'elle sert de liquide de couverture qui n'est normalement pas consommé ;
+
+c) Lorsque cette quantité n'excède pas 5 % en poids du produit fini ;
+
+2° Les ingrédients utilisés sous une forme concentrée ou déshydratée et reconstitués pendant la fabrication peuvent être
+indiqués dans la liste des ingrédients en fonction de leur importance pondérale avant la concentration ou la déshydratation ;
+
+3° Lorsqu'il s'agit d'aliments concentrés ou déshydratés, auxquels il faut ajouter de l'eau, l'énumération peut se faire
+selon l'ordre des proportions dans le produit reconstitué, pourvu que la liste des ingrédients soit accompagnée d'une mention
+telle que "Ingrédients du produit reconstitué" ou "Ingrédients du produit prêt à la consommation" ;
+
+4° Lorsque des fruits, des légumes ou des champignons, dont aucun ne prédomine en poids de manière significative et qui sont
+utilisés en proportions susceptibles de varier, sont utilisés en mélange comme ingrédients dans une denrée alimentaire, ils
+peuvent être regroupés dans la liste des ingrédients sous la désignation "fruits", "légumes" ou "champignons" suivie de la
+mention "en proportion variable", immédiatement suivie de l'énumération des fruits, légumes ou champignons présents. Dans ce
+cas, le mélange est indiqué dans la liste des ingrédients, en fonction du poids de l'ensemble des fruits, légumes ou
+champignons présents ;
+
+5° Dans le cas des mélanges d'épices ou de plantes aromatiques, dont aucun ne prédomine en poids de manière significative,
+ces ingrédients peuvent être énumérés selon un ordre différent sous réserve que la liste des ingrédients soit accompagnée
+d'une mention telle que "en proportion variable" ;
+
+6° Les ingrédients intervenant pour moins de 2 % dans le produit fini peuvent être énumérés dans un ordre différent à la
+suite des autres ingrédients ;
+
+7° Lorsque des ingrédients similaires et substituables entre eux sont susceptibles d'être utilisés dans la fabrication ou la
+préparation d'une denrée alimentaire sans en altérer la composition, la nature ou la valeur perçue, et pour autant qu'ils
+interviennent pour moins de 2 % dans le produit fini, leur désignation dans la liste des ingrédients peut être réalisée à
+l'aide de la mention "contient ... et/ou ..." dans le cas où l'un au moins, parmi deux ingrédients au plus, est présent dans
+le produit fini. Cette disposition ne s'applique pas aux additifs ni aux ingrédients énumérés à l'annexe IV du présent
+chapitre ou provenant d'un ingrédient énuméré à cette même annexe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la consommation annexe
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 11 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
+
+
+###### Article R112-15-1
+
 Sont dispensées de l'indication de leurs ingrédients les denrées alimentaires suivantes :
 
 1° Fruits et légumes frais, y compris les pommes de terre, qui n'ont pas fait l'objet d'un épluchage, coupage ou autre
@@ -17958,29 +18107,85 @@ ingrédient ;
 d'enzymes et de cultures de micro-organismes, nécessaires à la fabrication, ou que du sel nécessaire à la fabrication des
 fromages autres que frais ou fondus ;
 
-5° Produits ne comportant qu'un seul ingrédient à condition que la dénomination de vente soit identique au nom de
+5° Produits ne comportant qu'un seul ingrédient, à condition que la dénomination de vente soit identique au nom de
 l'ingrédient ou qu'elle permette de déterminer la nature de l'ingrédient sans risque de confusion.
-
-6° (supprimé).
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°98-879 du 29 septembre 1998 - art. 7 () JORF 2 octobre 1998
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
+	**Créé par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 12 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
+
+
+###### Article R112-15-2
+
+Les dispositions de l'article R. 112-15-1 ne s'appliquent pas aux ingrédients utilisés dans la production d'une denrée
+alimentaire et toujours présents dans le produit fini, même sous forme modifiée, et énumérés à l'annexe IV du présent
+chapitre ou provenant d'un ingrédient énuméré à cette même annexe. Ces ingrédients sont indiqués selon les modalités prévues
+à l'article R. 112-16-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
+	**Créé par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 12 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code de la consommation
 
 
 ###### Article R112-16
 
-Des arrêtés du ministre chargé de la consommation, du ministre de l'agriculture et des autres ministres intéressés précisent
-les modalités d'expression des mentions prévues à l'article R. 112-15, notamment en ce qui concerne les ingrédients composés
-ou en mélange, les ingrédients utilisés sous forme concentrée ou déshydratée, l'eau d'addition ou les ingrédients volatils.
+Les ingrédients sont désignés sous leur nom spécifique.
+
+Toutefois :
+
+1° Les ingrédients appartenant à l'une des catégories énumérées à l'annexe I du présent chapitre et qui sont composants d'une
+autre denrée alimentaire peuvent être désignés sous le nom de leur catégorie ;
+
+2° Les ingrédients appartenant à l'une des catégories énumérées à l'annexe II du présent chapitre sont désignés sous le nom
+de leur catégorie, suivi soit de leur nom spécifique, soit de leur numéro CE. Lorsqu'un ingrédient appartient à plusieurs
+catégories, la catégorie indiquée est celle correspondant à sa fonction principale dans la denrée concernée ;
+
+3° Les arômes sont désignés conformément à l'annexe III du présent chapitre ;
+
+4° Les dispositions du 1°, du 2° et du 3° ne sont pas applicables aux ingrédients énumérés à l'annexe IV du présent chapitre
+ou provenant d'un ingrédient énuméré à cette même annexe. Ces ingrédients sont indiqués selon les modalités prévues à
+l'article R. 112-16-1 ;
+
+5° Par dérogation au 1° et au 2°, les désignations "amidon(s)" et "amidon(s) modifié(s)" sont complétées par l'indication de
+leur origine végétale spécifique lorsque ces ingrédients peuvent contenir du gluten.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la consommation annexe, R112-16-1
 
 	**Anciens textes**:
 
@@ -17990,17 +18195,128 @@ ou en mélange, les ingrédients utilisés sous forme concentrée ou déshydrat�
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 13 () JORF 6 août 2005 en vigueur le 25 novembre 2005
 
 	**Cité par**:
 
 	  - Code de la consommation - art. Annexe III (Ab)
 
+
+###### Article R112-16-1
+
+Tout ingrédient utilisé dans la production d'une denrée alimentaire et toujours présent dans le produit fini, même sous une
+forme modifiée, et énuméré à l'annexe IV du présent chapitre ou provenant d'un ingrédient énuméré à cette même annexe, est
+mentionné sur l'étiquetage, assorti d'une référence claire au nom de l'ingrédient, sauf si la dénomination de vente renvoie
+clairement à l'ingrédient.
+
+Toute substance utilisée dans la production d'une denrée alimentaire et toujours présente dans le produit fini, même sous une
+forme modifiée, et provenant d'ingrédients énumérés à l'annexe IV du présent chapitre est considérée comme un ingrédient et
+est mentionnée sur l'étiquetage, assortie d'une référence claire au nom de l'ingrédient dont elle provient.
+
+Pour les boissons alcoolisées, cette mention comprend le terme "contient" suivi du nom de l'ingrédient ou des ingrédients
+concerné(s). Toutefois, une telle mention n'est pas nécessaire si l'ingrédient figure déjà sous son nom spécifique dans la
+liste des ingrédients ou dans la dénomination de vente de la boisson.
+
+Ces dispositions sont applicables à toutes les denrées préemballées, y compris aux denrées conditionnées :
+
+1° En bouteilles en verre destinées à être réutilisées qui sont marquées de manière indélébile et qui, de ce fait, ne portent
+ni étiquette, ni bague, ni collerette ;
+
+2° En emballages ou récipients dont la face la plus grande a une surface inférieure à 10 centimètres carrés.
+
+**Liens relatifs à cet article**
+
 	**Cite**:
 
-	  - Code de la consommation R112-15
+	  - Code de la consommation annexe
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
+	**Créé par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 14 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Cité par**:
+
+	  - Décret n°2008-1153 du 7 novembre 2008 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
+
+
+###### Article R112-16-2
+
+Lorsqu'un ingrédient a été élaboré à partir de plusieurs autres, cet ingrédient composé peut figurer dans la liste des
+ingrédients sous sa dénomination, dans la mesure où celle-ci est prévue par la réglementation ou consacrée par l'usage, et à
+la place correspondant à son poids, à condition d'être immédiatement suivi de l'énumération de ses propres ingrédients.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
+	**Créé par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 14 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
+
+
+###### Article R112-16-3
+
+L'énumération mentionnée à l'article R. 112-16-2 n'est toutefois pas obligatoire pour les ingrédients autres que ceux
+énumérés à l'annexe IV du présent chapitre, ou provenant d'un ingrédient énuméré à cette même annexe :
+
+1° Lorsque la composition de l'ingrédient composé est définie dans le cadre d'une réglementation communautaire en vigueur, et
+pour autant que l'ingrédient composé intervienne pour moins de 2 % dans le produit fini ; toutefois, cette disposition ne
+s'applique pas aux additifs, sous réserve des dispositions de l'article R. 112-3 ;
+
+2° Pour les ingrédients composés consistant en mélanges d'épices et/ou de plantes aromatiques qui interviennent pour moins de
+2 % dans le produit fini, à l'exception des additifs, sous réserve des dispositions de l'article R. 112-3 ;
+
+3° Lorsque l'ingrédient composé constitue une denrée pour laquelle la réglementation n'exige pas la liste des ingrédients.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
+	**Créé par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 14 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code de la consommation
 
 
 ###### Article R112-17
@@ -18018,12 +18334,12 @@ une représentation graphique ;
 3° L'ingrédient ou la catégorie d'ingrédients dont il s'agit est essentiel pour caractériser la denrée alimentaire et la
 distinguer des produits avec lesquels elle pourrait être confondue en raison de sa dénomination ou de son aspect.
 
-La mention prévue à l'alinéa précédent figure soit dans la dénomination de vente de la denrée alimentaire, soit à proximité
-immédiate de cette dénomination, soit dans la liste des ingrédients.
+La mention prévue au premier alinéa figure soit dans la dénomination de vente de la denrée alimentaire, soit à proximité
+immédiate de cette dénomination, soit dans la liste des ingrédients en rapport avec l'ingrédient ou la catégorie d'ingrédient
+dont il s'agit.
 
 La quantité mentionnée, exprimée en pourcentage, correspond à la quantité du ou des ingrédients au moment de leur mise en
-oeuvre. Des arrêtés du ministre chargé de la consommation, du ministre chargé de l'agriculture et des autres ministres
-intéressés peuvent prévoir des dérogations à ce principe pour certaines denrées alimentaires.
+oeuvre.
 
 Lorsqu'une denrée alimentaire a subi une perte d'humidité à la suite d'un traitement thermique ou autre, cette quantité
 correspond au rapport exprimé en pourcentage entre la quantité du ou des ingrédients mis en oeuvre et celle du produit fini.
@@ -18044,16 +18360,19 @@ s'exprimer en fonction de leur importance pondérale dans le produit reconstitu�
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°98-879 1998-09-29 art. 21 (dispositions transitoires - modalités d'application)
-	  - SPEC_APPLI: Code de la consommation R112-17-1 (champ d'application)
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
 
 	**Modifié par**:
 
-	  - Décret n°2000-705 du 20 juillet 2000 - art. 1 () JORF 28 juillet 2000
+	  - Décret n°2005-944 du 2 août 2005 - art. 15 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 
 ###### Article R112-17-1
@@ -18077,13 +18396,15 @@ d'autres produits similaires ;
 transposition de directives de la Communauté européenne, déterminent de manière précise la quantité de l'ingrédient ou de la
 catégorie d'ingrédients sans en prévoir l'indication sur l'étiquetage ;
 
-3° Dans le cas de mélanges de fruits ou de légumes ou d'épices ou de plantes aromatiques, dont aucun ne prédomine en poids de
-manière significative.
+3° Dans le cas de mélanges de fruits ou de légumes ou de champignons ou d'épices ou de plantes aromatiques, dont aucun ne
+prédomine en poids de manière significative ;
 
-4° Dans les cas où la mention "édulcorant(s)" ou "avec sucre(s) et édulcorant(s)" accompagne la dénomination de vente d'une
+4° Dans le cas de mélanges d'épices ou de plantes aromatiques, dont aucune ne prédomine en poids de manière significative ;
+
+5° Dans les cas où la mention "édulcorant(s)" ou "avec sucre(s) et édulcorant(s)" accompagne la dénomination de vente d'une
 denrée alimentaire, conformément aux dispositions de l'article R. 112-9-1 (3° et 4°) ;
 
-5° Aux mentions relatives à l'adjonction de vitamines et minéraux dans les cas où ces substances font l'objet d'un étiquetage
+6° Aux mentions relatives à l'adjonction de vitamines et minéraux dans les cas où ces substances font l'objet d'un étiquetage
 nutritionnel.
 
 **Liens relatifs à cet article**
@@ -18094,37 +18415,75 @@ nutritionnel.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°98-879 1998-09-29 art. 21 (dispositions transitoires - modalités d'application)
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
 
 	**Modifié par**:
 
-	  - Décret n°2000-705 du 20 juillet 2000 - art. 2 () JORF 28 juillet 2000
+	  - Décret n°2005-944 du 2 août 2005 - art. 16 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code de la consommation R112-20, R112-9-1
+	  - Code de la consommation
 
 
 ###### Article R112-18
 
-Des arrêtés du ministre chargé de la consommation, du ministre de l'agriculture et des autres ministres intéressés peuvent
-prévoir que la dénomination de certaines denrées alimentaires sera accompagnée de l'indication d'un ingrédient particulier.
+L'indication de la quantité nette est exprimée en unité de volume pour les produits liquides et en unité de masse pour les
+autres denrées en utilisant, selon le cas, le litre, le centilitre, le millilitre ou bien le kilogramme ou le gramme.
+
+Pour les escargots préparés en coquille et les huîtres, la quantité peut s'exprimer en nombre d'unités avec l'indication du
+calibre.
+
+En ce qui concerne les moules en coquille, la quantité peut également être indiquée en unité de volume.
+
+Lorsque l'indication d'un certain type de quantité, par exemple quantité nominale, quantité minimale, quantité moyenne, est
+prévue par les dispositions communautaires et, en leur absence, par les dispositions nationales, cette quantité est la
+quantité nette.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
 
 	**Modifié par**:
 
-	  - Décret n°98-879 du 29 septembre 1998 - art. 11 () JORF 2 octobre 1998
+	  - Décret n°2005-944 du 2 août 2005 - art. 17 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 
 ###### Article R112-19
 
-L'indication de la quantité nette des denrées alimentaires préemballées n'est pas obligatoire pour les produits dont la
-quantité nette est inférieure à 5 grammes ou 5 millilitres, à l'exception toutefois des épices et plantes aromatiques.
+L'indication de la quantité nette des denrées alimentaires préemballées n'est pas obligatoire :
+
+1° Pour les produits dont la quantité nette est inférieure à 5 grammes ou 5 millilitres, à l'exception toutefois des épices
+et plantes aromatiques ;
+
+2° Pour les produits qui sont soumis à des pertes considérables de leur volume ou de leur masse et qui sont vendus à la pièce
+ou pesés devant l'acheteur ;
+
+3° Pour les produits de confiserie dont le poids net est inférieur à 20 grammes, traditionnellement vendus à la pièce ;
+
+4° Pour les confitures, gelées, marmelades de fruits, crèmes de pruneaux, crèmes de marrons et autres fruits à coque, confits
+de pétales ou de fruits confits et raisinés de fruits d'une quantité inférieure à 50 grammes ;
+
+5° Pour les fromages bénéficiant de l'appellation d'origine "Vacherin du haut Doubs" ou "Mont d'Or" ;
+
+6° Pour les fromages non définis fabriqués par les producteurs agricoles ne traitant que les laits de leur propre
+exploitation, traditionnellement vendus à la pièce ;
+
+7° Pour les produits de chocolat dont le poids net est inférieur à 50 grammes, vendus à la pièce.
 
 **Liens relatifs à cet article**
 
@@ -18134,11 +18493,19 @@ quantité nette est inférieure à 5 grammes ou 5 millilitres, à l'exception to
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 18 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 
 ###### Article R112-20
@@ -18167,10 +18534,15 @@ est également indiqué dans l'étiquetage.
 
 ###### Article R112-21
 
-Des arrêtés du ministre chargé de l'industrie, du ministre chargé de la consommation, du ministre de l'agriculture et des
-autres ministres intéressés fixent les modes d'expression de la quantité selon la nature des denrées alimentaires ou
-dispensent certaines denrées de cette indication. Ces arrêtés peuvent également prévoir des modalités particulières
-d'expression de la quantité dans les cas de réunion d'emballages ou de préemballages.
+Lorsqu'un préemballage est constitué de plusieurs préemballages contenant la même quantité du même produit, l'indication de
+la quantité nette est donnée en mentionnant la quantité nette contenue dans chaque préemballage individuel et leur nombre
+total. Ces mentions ne sont toutefois pas obligatoires lorsque le nombre total des préemballages individuels peut être
+clairement vu et facilement compté de l'extérieur et lorsque au moins une indication de la quantité nette contenue dans
+chaque préemballage individuel peut être clairement vue de l'extérieur.
+
+Lorsqu'un préemballage est constitué de plusieurs emballages individuels contenant la même quantité du même produit qui ne
+sont pas considérés comme unités de vente, l'indication de la quantité nette est donnée en mentionnant la quantité nette
+totale et le nombre total des emballages individuels.
 
 **Liens relatifs à cet article**
 
@@ -18182,24 +18554,42 @@ d'expression de la quantité dans les cas de réunion d'emballages ou de préemb
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 19 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 
 ###### Article R112-22
 
 L'étiquetage comporte l'inscription, sous la responsabilité du conditionneur, d'une date jusqu'à laquelle la denrée conserve
-ses propriétés spécifiques dans des conditions appropriées.
+ses propriétés spécifiques dans des conditions de conservation appropriées.
 
 Dans le cas des denrées microbiologiquement très périssables et qui, de ce fait, sont susceptibles, après une courte période,
 de présenter un danger immédiat pour la santé humaine et dans le cas des denrées pour lesquelles la réglementation en matière
-de contrôle sanitaire fixe une durée de conservation, cette date est une date limite de consommation.
+de contrôle sanitaire fixe une durée de conservation, cette date est une date limite de consommation, annoncée par l'une des
+mentions "A consommer jusqu'au..." ou "A consommer jusqu'à la date figurant..." suivie respectivement soit de la date elle-
+même, soit de l'indication de l'endroit où elle figure dans l'étiquetage. La date se compose de l'indication, en clair et
+dans l'ordre, du jour, du mois et, éventuellement, de l'année. Ces renseignements sont suivis d'une description des
+conditions de conservation, notamment de température, à respecter.
 
-Dans les autres cas cette date est une date limite d'utilisation optimale.
+Dans les autres cas cette date est une date limite d'utilisation optimale, annoncée par la mention "A consommer de préférence
+avant..." lorsqu'elle comporte l'indication du jour, "A consommer de préférence avant fin..." dans les autres cas. Cette
+mention est suivie soit de la date elle-même, soit de l'indication de l'endroit où elle figure dans l'étiquetage. La date se
+compose de l'indication, en clair et dans l'ordre, du jour, du mois et de l'année. Toutefois, lorsque la durabilité de ces
+denrées est inférieure à trois mois, l'indication du jour et du mois suffit ; lorsque cette durabilité est supérieure à trois
+mois, mais n'excède pas dix-huit mois, l'indication du mois et de l'année suffit, et lorsque la durabilité est supérieure à
+dix-huit mois, l'indication de l'année suffit.
 
-La date est accompagnée, le cas échéant, par l'indication des conditions de conservation, notamment de la température à
-respecter, en fonction desquelles elle a été déterminée.
+La date est accompagnée, le cas échéant, par l'indication des conditions de conservation, notamment de température, dont le
+respect permet d'assurer la durabilité indiquée.
 
 **Liens relatifs à cet article**
 
@@ -18211,14 +18601,22 @@ respecter, en fonction desquelles elle a été déterminée.
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 20 () JORF 6 août 2005 en vigueur le 25 novembre 2005
 
 	**Cité par**:
 
 	  - Arrêté du 21 décembre 2009 (V)
 	  - Arrêté du 21 décembre 2009 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 
 ###### Article R112-23
@@ -18241,8 +18639,8 @@ ou de moût de raisin ;
 5° Boissons rafraîchissantes non alcoolisées, jus de fruits, nectars de fruits et boissons alcoolisées dans des récipients
 individuels de plus de 5 litres, destinés à être livrés aux collectivités ;
 
-6° Produits de la boulangerie ou de la pâtisserie qui, en raison de leur nature, sont consommés dans le délai de vingt-quatre
-heures après la fabrication ;
+6° Produits de la boulangerie ou de la pâtisserie qui, en raison de leur nature, sont usuellement consommés dans le délai de
+vingt-quatre heures après la fabrication ;
 
 7° Vinaigres ;
 
@@ -18266,62 +18664,46 @@ heures après la fabrication ;
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
 
+	**Modifié par**:
 
-###### Article R112-24
-
-Des arrêtés du ministre chargé de la consommation, du ministre de l'agriculture et des autres ministres intéressés fixent les
-modalités pratiques d'indication des dates mentionnées à l'article R. 112-22.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-1147 1984-12-07 art. 17 al. 6
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2005-944 du 2 août 2005 - art. 21 () JORF 6 août 2005 en vigueur le 25 novembre 2005
 
 	**Abrogé par**:
 
-	  - Décret n°2005-944 du 2 août 2005 - art. 25 () JORF 6 août 2005 en vigueur le 25 novembre 2005
-
-	**Cite**:
-
-	  - Code de la consommation R112-22
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 
 ###### Article R112-25
 
-Sans préjudice des peines prévues aux articles L. 213-1 à L. 213-4 et à l'article 26 du décret n° 71-636 du 21 juillet 1971,
-sont interdites la détention en vue de la vente, la mise en vente, la vente ou la distribution à titre gratuit des denrées
-alimentaires comportant une date limite de consommation dès lors que cette date est dépassée.
+Sont interdites la détention en vue de la vente ou de la distribution à titre gratuit, la mise en vente, la vente ou la
+distribution à titre gratuit des denrées alimentaires comportant une date limite de consommation dès lors que cette date est
+dépassée.
 
-Sont également interdites la détention en vue de la vente, la mise en vente, la vente ou la distribution à titre gratuit des
-denrées alimentaires entreposées dans des conditions non conformes à celles qui sont prescrites dans leur étiquetage.
+Sont également interdites la détention en vue de la vente ou de la distribution à titre gratuit, la mise en vente, la vente
+ou la distribution à titre gratuit des denrées alimentaires entreposées dans des conditions non conformes à celles qui sont
+prescrites dans leur étiquetage.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°71-636 du 21 juillet 1971 - art. 26 (M)
-	  - Code de la consommation L213-1 à L213-4
 
 	**Codifié par**:
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
 	**Modifié par**:
 
-	  - Décret n°98-879 du 29 septembre 1998 - art. 12 () JORF 2 octobre 1998
+	  - Décret n°2005-944 du 2 août 2005 - art. 22 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 
 ###### Article R112-26
@@ -18385,6 +18767,13 @@ la denrée alimentaire ou par le premier vendeur établi à l'intérieur du terr
 
 L'indication du lot des denrées alimentaires préemballées figure sur le préemballage ou sur une étiquette liée à celui-ci.
 
+L'indication du lot de fabrication est précédée par la lettre "L", sauf dans le cas où elle se distingue clairement des
+autres mentions d'étiquetage.
+
+Toutefois, lorsque la date de durabilité minimale ou la date limite de consommation figure dans l'étiquetage, le lot de
+fabrication peut ne pas être indiqué dès lors que cette date se compose de l'indication, en clair et dans l'ordre, au moins
+du jour et du mois.
+
 L'indication du lot des denrées alimentaires non préemballées figure sur l'emballage ou le récipient contenant la denrée
 alimentaire ou, à défaut, sur les documents commerciaux s'y référant.
 
@@ -18394,13 +18783,21 @@ alimentaire ou, à défaut, sur les documents commerciaux s'y référant.
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
 	**Modifié par**:
 
-	  - Décret n°2000-705 du 20 juillet 2000 - art. 4 () JORF 28 juillet 2000
+	  - Décret n°2005-944 du 2 août 2005 - art. 23 () JORF 6 août 2005 en vigueur le 25 novembre 2005
 
 	**Cité par**:
 
 	  - Arrêté du 11 avril 2008 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 
 ###### Article R112-29
@@ -18445,7 +18842,7 @@ emballages de groupage.
 ###### Article R112-30
 
 Des arrêtés du ministre chargé de la consommation, du ministre chargé de l'agriculture et, le cas échéant, des autres
-ministres intéressés fixent les modalités pratiques d'indication du lot.
+ministres intéressés précisent en tant que de besoin les modalités d'application du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -18453,9 +18850,17 @@ ministres intéressés fixent les modalités pratiques d'indication du lot.
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+
 	**Modifié par**:
 
-	  - Décret n°2000-705 du 20 juillet 2000 - art. 4 () JORF 28 juillet 2000
+	  - Décret n°2005-944 du 2 août 2005 - art. 30 (V) JORF 6 août 2005 en vigueur le 25 novembre 2005 rectificatif JORF 14 janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 
 ###### Article R112-31
@@ -18482,66 +18887,6 @@ mentions prévues aux 3° et 4° de l'article R. 112-9-1.
 	**Cite**:
 
 	  - Code de la consommation
-
-
-###### Article R112-32
-
-A l'exception des articles R. 112-27, R. 112-28 et R. 112-30, le présent chapitre n'est pas applicable à l'étiquetage et à la
-présentation des produits soumis aux dispositions du règlement n° 2392-89 du Conseil des communautés européennes du 24
-juillet 1989 établissant des règles générales pour la désignation et la présentation des moûts de raisin ainsi qu'à ceux qui
-sont soumis aux dispositions du règlement n° 2333-92 du Conseil du 13 juillet 1992 modifié établissant les règles générales
-pour la désignation et la présentation des vins mousseux et des vins mousseux gazéifiés.
-
-A l'exception des dispositions de l'article R. 112-7, le présent chapitre n'est pas non plus applicable à l'étiquetage et à
-la présentation des produits soumis aux dispositions du règlement n° 1907/90 du 26 juin 1990 modifié concernant certaines
-normes de commercialisation applicables aux oeufs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Modifié par**:
-
-	  - Décret n°2000-705 du 20 juillet 2000 - art. 3 () JORF 28 juillet 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2005-944 du 2 août 2005 - art. 25 () JORF 6 août 2005 en vigueur le 25 novembre 2005
-
-	**Cite**:
-
-	  - Code de la consommation R112-27, R112-28, R112-30, R112-7
-	  - Règlement CEE 1035-72 1972-05-18 Conseil
-	  - Règlement CEE 2333-92 1992-07-13 Conseil
-	  - Règlement CEE 2392-89 1989-07-24 Conseil
-	  - Règlement CEE 2772-75 1975-10-29 Conseil
-
-
-###### Article R112-33
-
-En ce qui concerne les bouteilles de verre destinées à être réutilisées et sur lesquelles une des mentions prévues aux 1° et
-4° de l'article R. 112-9 et au 1° de l'article R. 112-9-1 est indiquée de façon indélébile, l'obligation prévue à l'article
-R. 112-11 de faire figurer ces mentions dans un même champ visuel n'entrera en vigueur que le 1er juillet 1999.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Modifié par**:
-
-	  - Décret n°98-879 1998-09-29 art. 20 JORF 2 octobre 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2005-944 du 2 août 2005 - art. 25 () JORF 6 août 2005 en vigueur le 25 novembre 2005
-
-	**Cite**:
-
-	  - Code de la consommation R112-9, R112-9-1, R112-11
 
 
 #### Chapitre III : Prix et conditions de vente
@@ -22594,6 +22939,520 @@ Arrêté n° 86-65-A du 18 décembre 1986 concernant les entreprises de manutent
 	**Abrogé par**:
 
 	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+
+##### Annexes au Chapitre II du Titre Ier du Livre Ier
+
+###### Article Annexe I
+
+CATÉGORIES D'INGRÉDIENTS POUR LESQUELS L'INDICATION DE LA CATÉGORIE PEUT REMPLACER CELLE DU NOM SPÉCIFIQUE 
+
+<table>
+  <tbody>
+    <tr>
+      <td width="233" colspan="3" valign="top">
+
+CATEGORIES D'INGREDIENTS
+
+</td>
+      <td width="209" valign="top">
+
+DESIGNATION DE LA CATEGORIE
+
+</td>
+    </tr>
+    <tr>
+      <td width="233" valign="top" colspan="3">
+
+Huiles raffinées autres que l'huile d'olive.
+
+</td>
+      <td valign="top" width="209">
+
+Huile , complétée :
+
+- soit par le qualificatif, selon le cas, végétale ou animale ;
+
+- soit par l'indication de l'origine spécifique végétale ou animale.
+
+Le qualificatif hydrogénée doit accompagner la mention d'une huile hydrogénée.
+
+</td>
+    </tr>
+    <tr>
+      <td width="233" colspan="3" valign="top">
+
+Graisses raffinées.
+
+</td>
+      <td width="209" valign="top">
+
+Graisse ou matière grasse , complétée :
+
+- soit par le qualificatif, selon le cas, végétale ou animale ;
+
+- soit par l'indication de l'origine spécifique végétale ou animale.
+
+Le qualificatif hydrogénée doit accompagner la mention d'une graisse hydrogénée.
+
+</td>
+    </tr>
+    <tr>
+      <td width="233" valign="top" colspan="3">
+
+Mélanges de farines provenant de deux ou de plusieurs espèces de céréales.
+
+</td>
+      <td valign="top" width="209">
+
+Farine , suivie de l'énumération des espèces de céréales dont elle provient par ordre d'importance pondérale décroissant.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" colspan="3" width="233">
+
+Amidons et fécules natifs et amidons et fécules modifiés par voie physique ou enzymatique.
+
+</td>
+      <td width="209" valign="top">
+
+Amidon(s)/fécule(s) .
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" colspan="3" width="233">
+
+Toute espèce de poisson lorsque le poisson constitue un ingrédient d'une autre denrée alimentaire et sous réserve que la
+dénomination et la présentation de cette denrée ne se réfèrent pas à une espèce précise de poisson.
+
+</td>
+      <td valign="top" width="209">
+
+Poisson(s) .
+
+</td>
+    </tr>
+    <tr>
+      <td width="233" colspan="3" valign="top">
+
+Toute espèce de fromage lorsque le fromage ou le mélange de fromages constitue un ingrédient d'une autre denrée alimentaire
+et sous réserve que la dénomination et la présentation de cette denrée ne se réfèrent pas à une espèce précise de fromage.
+
+</td>
+      <td width="209" valign="top">
+
+Fromage(s) .
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" valign="top" width="233">
+
+Toutes épices n'excédant pas 2 % en poids de la denrée.
+
+</td>
+      <td valign="top" width="209">
+
+Epices ou mélange d'épices .
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="233" colspan="3">
+
+Toutes plantes ou parties de plantes aromatiques n'excédant pas 2 % en poids de la denrée.
+
+</td>
+      <td valign="top" width="209">
+
+Plante(s) aromatique(s) ou mélange(s) de plantes aromatiques .
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" valign="top" width="233">
+
+Toutes préparations de gommes utilisées dans la fabrication de la gomme de base pour les gommes à mâcher.
+
+</td>
+      <td valign="top" width="209">
+
+Gomme base .
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="233" valign="top">
+
+Chapelure de toute origine.
+
+</td>
+      <td valign="top" width="209">
+
+Chapelure .
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="233" valign="top">
+
+Toutes catégories de saccharoses.
+
+</td>
+      <td valign="top" width="209">
+
+Sucre .
+
+</td>
+    </tr>
+    <tr>
+      <td width="233" colspan="3" valign="top">
+
+Dextrose anhydre ou monohydraté.
+
+</td>
+      <td width="209" valign="top">
+
+Dextrose .
+
+</td>
+    </tr>
+    <tr>
+      <td width="233" colspan="3" valign="top">
+
+Sirop de glucose et sirop de glucose déshydraté.
+
+</td>
+      <td width="209" valign="top">
+
+Sirop de glucose .
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="233" valign="top">
+
+Toutes les protéines du lait (caséines, caséinates et protéines du petit-lait et du lactosérum) et leurs mélanges.
+
+</td>
+      <td valign="top" width="209">
+
+Protéines de lait .
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" valign="top" width="233">
+
+Beurre de cacao de pression, d'expeller ou raffiné.
+
+</td>
+      <td valign="top" width="209">
+
+Beurre de cacao .
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="233" colspan="3">
+
+Tous les types de vins tels que définis dans le règlement (CE) n° 1493/1999 du Conseil du 17 mai 1999 portant organisation
+commune du marché vitivinicole.
+
+</td>
+      <td valign="top" width="209">
+
+Vin .
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="233" colspan="3">
+
+Les muscles squelettiques (*) des espèces de mammifères et d'oiseaux, qui sont reconnues aptes à la consommation humaine avec
+les tissus qui sont naturellement inclus ou adhérents, pour lesquels les teneurs totales en matière grasse et tissu
+conjonctif ne dépassent pas les valeurs mentionnées ci-après et lorsque la viande constitue un ingrédient d'une autre denrée
+alimentaire. Les produits couverts par la définition communautaire des viandes séparées mécaniquement sont exclus de la
+présente définition.
+
+Limites maximales en matières grasses et en tissu conjonctif pour les ingrédients désignés par le terme viande(s) de :
+
+</td>
+      <td valign="top" width="209">
+
+Viande(s) de et le(s) nom(s) de(s) espèce(s) animale(s) dont elle(s) provien(nen)t.
+
+</td>
+    </tr>
+    <tr>
+      <td width="94">
+
+ESPECES
+
+</td>
+      <td width="76" valign="top">
+
+MATIERES
+
+grasses
+
+(%)
+
+</td>
+      <td width="62" valign="top">
+
+TISSU
+
+conjonctif
+
+(1) (%)
+
+</td>
+      <td valign="top" width="209">
+    </td></tr>
+    <tr>
+      <td width="94" valign="top">
+
+Mammifères (hors lapins et porcins) et mélanges d'espèces avec prédominance de mammifères
+
+</td>
+      <td width="76" valign="top">
+
+25
+
+</td>
+      <td valign="top" width="62">
+
+25
+
+</td>
+      <td width="209" valign="top">
+    </td></tr>
+    <tr>
+      <td width="94" valign="top">
+
+Porcins
+
+</td>
+      <td width="76" valign="top">
+
+30
+
+</td>
+      <td valign="top" width="62">
+
+25
+
+</td>
+      <td width="209" valign="top">
+    </td></tr>
+    <tr>
+      <td width="94" valign="top">
+
+Oiseaux et lapins
+
+</td>
+      <td valign="top" width="76">
+
+15
+
+</td>
+      <td valign="top" width="62">
+
+10
+
+</td>
+      <td width="209" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="233" colspan="3">
+
+(1) La teneur en tissu conjonctif est calculée en faisant le rapport entre les teneurs en collagène et en protéines de
+viande. La teneur en collagène est huit fois la teneur en hydroxyproline.
+
+Lorsque les limites maximales en matières grasses et/ou en tissu conjonctif sont dépassées et que tous les autres critères de
+la viande(s) de sont respectés, la teneur en viande(s) de doit être ajustée à la baisse en conséquence et la liste des
+ingrédients doit mentionner, en plus des termes viande(s) de , la présence de matières grasses et/ou de tissu conjonctif.
+
+</td>
+      <td width="209" valign="top">
+    </td></tr>
+    <tr>
+      <td width="442" colspan="4" valign="top">
+
+(*) Le diaphragme et les masseters font partie des muscles squelettiques, tandis que le coeur, la langue, les muscles de la
+tête (autres que les masseters), du carpe, du tarse et de la queue en sont exclus.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 26 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
+
+
+###### Article Annexe II
+
+CATÉGORIES D'INGRÉDIENTS QUI SONT OBLIGATOIREMENT DÉSIGNÉS SOUS LE NOM DE LEUR CATÉGORIE, SUIVI DE LEUR NOM SPÉCIFIQUE OU DU
+NUMÉRO CE 
+
+Colorant.
+
+Conservateur.
+
+Antioxygène.
+
+Emulsifiant.
+
+Epaississant.
+
+Gélifiant.
+
+Stabilisant.
+
+Exhausteur de goût.
+
+Acidifiant.
+
+Correcteur d'acidité.
+
+Antiagglomérant.
+
+Amidon modifié (1).
+
+Edulcorant.
+
+Poudre à lever.
+
+Antimoussant.
+
+Agent d'enrobage.
+
+Sels de fonte (2).
+
+Agent de traitement de la farine.
+
+Affermissant.
+
+Humectant.
+
+Agent de charge.
+
+Gaz propulseur.
+
+(1) L'indication du nom spécifique ou du numéro CE n'est pas requise.
+
+(2) Uniquement dans le cas des fromages fondus et des produits à base de fromage fondu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 26 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
+
+
+###### Article Annexe III
+
+DÉSIGNATION DES ARÔMES DANS LA LISTE DES INGRÉDIENTS 
+
+1. Les arômes sont désignés soit sous le terme " arôme (s) ", soit sous une dénomination plus spécifique ou une description
+de l'arôme. 
+
+2. La quinine et / ou la caféine qui sont utilisées en tant qu'arôme dans la fabrication ou la préparation d'une denrée
+alimentaire doivent être désignées dans la liste des ingrédients sous leur dénomination spécifique, immédiatement après le
+terme " arôme ". 
+
+3. Le qualificatif " naturel " ou toute expression ayant une signification sensiblement équivalente ne peut être utilisé que
+pour les arômes dont la partie aromatisante contient exclusivement soit des substances aromatisantes telles que définies à
+l'article 4 du décret du 11 avril 1991 relatif aux arômes destinés à être employés dans les denrées alimentaires, soit des
+préparations aromatisantes telles que définies à l'article 7 du même décret, soit un mélange de ces deux catégories
+d'arômes. 
+
+4. Si la désignation de l'arôme contient une référence à la nature ou à l'origine végétale ou animale des substances
+utilisées, le terme " naturel " ou toute autre expression ayant une signification sensiblement équivalente ne peut être
+utilisé que si la partie aromatisante a été isolée par des procédés physiques appropriés ou des procédés enzymatiques ou
+microbiologiques, ou des procédés traditionnels de préparation des denrées alimentaires uniquement ou presque uniquement à
+partir de la denrée alimentaire ou de la source d'arômes concernée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°91-366 du 11 avril 1991 (V)
+	  - Décret n°91-366 du 11 avril 1991 - art. 4 (V)
+	  - Décret n°91-366 du 11 avril 1991 - art. 7 (V)
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 26 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+
+
+###### Article Annexe IV
+
+Céréales contenant du gluten (à savoir blé, seigle, orge, avoine, épeautre, kamut ou leurs souches hybridées) et produits à
+base de ces céréales.
+
+Crustacés et produits à base de crustacés.
+
+OEufs et produits à base d'oeufs.
+
+Poissons et produits à base de poissons.
+
+Arachides et produits à base d'arachides.
+
+Soja et produits à base de soja.
+
+Lait et produits à base de lait (y compris le lactose).
+
+Fruits à coque, à savoir amandes (Amygdalus communis L.), noisettes (Corylus avellana), noix (Juglans regia), noix de cajou
+(Anacardium occidentale), noix de pécan (Carya illinoiesis "Wangenh" K. Koch), noix du Brésil (Bertholletia excelsa),
+pistaches (Pistacia vera), noix de Macadamia et noix du Queensland (Macadamia ternifolia) et produits à base de ces fruits.
+
+Céleri et produits à base de céleri.
+
+Moutarde et produits à base de moutarde.
+
+Graines de sésame et produits à base de graines de sésame.
+
+Anhydride sulfureux et sulfites en concentrations supérieures à 10 mg/kg ou 10 mg/litre exprimées en SO2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2005-944 du 2 août 2005 - art. 26 () JORF 6 août 2005 en vigueur le 25 novembre 2005
 
 
 ##### ANNEXE A L'ARTICLE R211-2 
