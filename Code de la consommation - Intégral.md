@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-11-25
+Version Consolidée au 2005-12-01
 
 # Partie législative
 
@@ -3035,11 +3035,14 @@ Les infractions aux dispositions des articles L. 121-15-1 et L. 121-15-2 sont pa
 
 ##### Section 2 : Ventes de biens et fournitures de prestations de services à distance
 
+##### Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers
+
 ###### Article L121-16
 
-Les dispositions de la présente section s'appliquent à toute vente d'un bien ou toute fourniture d'une prestation de service
-conclue, sans la présence physique simultanée des parties, entre un consommateur et un professionnel qui, pour la conclusion
-de ce contrat, utilisent exclusivement une ou plusieurs techniques de communication à distance.
+Les dispositions de la présente sous-section s'appliquent à toute vente d'un bien ou toute fourniture d'une prestation de
+service conclue, sans la présence physique simultanée des parties, entre un consommateur et un professionnel qui, pour la
+conclusion de ce contrat, utilisent exclusivement une ou plusieurs techniques de communication à distance. Toutefois, elles
+ne s'appliquent pas aux contrats portant sur des services financiers.
 
 **Liens relatifs à cet article**
 
@@ -3061,25 +3064,27 @@ de ce contrat, utilisent exclusivement une ou plusieurs techniques de communicat
 
 	**Modifié par**:
 
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 7 () JORF 25 août 2001
+	  - Loi n°2006-387 2006-03-31 art. 25 III, IV JORF 1 avril 2006 en vigueur le 1er décembre 2005
+	  - Loi n°2006-387 du 31 mars 2006 - art. 25 (V) JORF 1 avril 2006 en vigueur le 1er décembre 2005
 
 
 ###### Article L121-17
 
 Ne sont pas soumis aux dispositions de la présente section les contrats :
 
-1° Portant sur des services financiers ;
-
-2° Conclus par le moyen de distributeurs automatiques ou pour des prestations fournies dans des locaux commerciaux
+1° Conclus par le moyen de distributeurs automatiques ou pour des prestations fournies dans des locaux commerciaux
 automatisés ;
 
-3° Conclus avec les opérateurs de télécommunications pour l'utilisation des cabines téléphoniques publiques ;
+2° Conclus avec les opérateurs de télécommunications pour l'utilisation des cabines téléphoniques publiques ;
 
-4° Conclus pour la construction et la vente des biens immobiliers ou portant sur d'autres droits relatifs à des biens
+3° Conclus pour la construction et la vente des biens immobiliers ou portant sur d'autres droits relatifs à des biens
 immobiliers, à l'exception de la location ;
 
-5° Conclus lors d'une vente aux enchères publiques.
+4° Conclus lors d'une vente aux enchères publiques.
+
+**Nota:**
+
+Ordonnance 2005-648 2005-06-06 art. 1 I 3° : Il s'agit bien de l'article L121-17 et non L121-20-17 comme il est écrit.
 
 **Liens relatifs à cet article**
 
@@ -3089,8 +3094,7 @@ immobiliers, à l'exception de la location ;
 
 	**Modifié par**:
 
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 8 () JORF 25 août 2001
+	  - Loi n°2006-387 du 31 mars 2006 - art. 25 (V) JORF 1 avril 2006 en vigueur le 1er décembre 2005
 
 	**Cité par**:
 
@@ -3158,8 +3162,7 @@ début de la conversation son identité et le caractère commercial de l'appel.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 9 () JORF 25 août 2001
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cite**:
 
@@ -3178,11 +3181,6 @@ début de la conversation son identité et le caractère commercial de l'appel.
 	  - Code de la consommation - art. L121-83-1 (VT)
 	  - Code de la consommation - art. R*121-1 (M)
 	  - Code des postes et des communications électroni... - art. D98-12 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la consommation - art. L121-20-10 (M)
-	  - SPEC_APPLI: Code de la consommation - art. L121-20-4 (M)
 
 
 ###### Article L121-19
@@ -3217,8 +3215,7 @@ technique de communication à distance et facturés par l'opérateur de cette te
 
 	**Modifié par**:
 
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 10 () JORF 25 août 2001
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cite**:
 
@@ -3235,9 +3232,51 @@ technique de communication à distance et facturés par l'opérateur de cette te
 	  - Code de la consommation - art. L121-27 (M)
 	  - Code de la consommation - art. R121-1-1 (Ab)
 
-	**Liens**:
 
-	  - SPEC_APPLI: Code de la consommation L121-20-4 *champ d'application* et L121-20-10 *sanctions*
+###### Article L121-20
+
+Le consommateur dispose d'un délai de sept jours francs pour exercer son droit de rétractation sans avoir à justifier de
+motifs ni à payer de pénalités, à l'exception, le cas échéant, des frais de retour. Le consommateur peut déroger à ce délai
+au cas où il ne pourrait se déplacer et où simultanément il aurait besoin de faire appel à une prestation immédiate et
+nécessaire à ses conditions d'existence. Dans ce cas, il continuerait à exercer son droit de rétractation sans avoir à
+justifier de motifs ni à payer de pénalités. 
+
+Le délai mentionné à l'alinéa précédent court à compter de la réception pour les biens ou de l'acceptation de l'offre pour
+les prestations de services. 
+
+Lorsque les informations prévues à l'article L. 121-19 n'ont pas été fournies, le délai d'exercice du droit de rétractation
+est porté à trois mois. Toutefois, lorsque la fourniture de ces informations intervient dans les trois mois à compter de la
+réception des biens ou de l'acceptation de l'offre, elle fait courir le délai de sept jours mentionné au premier alinéa. 
+
+Lorsque le délai de sept jours expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier jour
+ouvrable suivant.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°88-21 du 6 janvier 1988 - art. 3 (Ab)
+	  - Code de la consommation - art. L121-20-4 (M)
+	  - Code de la consommation - art. L121-22 (VT)
+	  - Code de la consommation - art. L121-34-2 (VD)
+	  - Code de la consommation - art. L121-87 (V)
+	  - Code de la consommation - art. L121-88 (V)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Loi n°2005-841 du 26 juillet 2005 - art. 3 () JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-19 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-20-9 (VT)
 
 
 ###### Article L121-20-1
@@ -3252,10 +3291,9 @@ productive d'intérêts au taux légal en vigueur.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 12 () JORF 25 août 2001
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cité par**:
 
@@ -3264,10 +3302,6 @@ productive d'intérêts au taux légal en vigueur.
 	  - Code de la consommation - art. L121-20-3 (VT)
 	  - Code de la consommation - art. L121-20-4 (M)
 	  - Code de la consommation - art. R121-1-2 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la consommation - art. L121-20-4 (M)
 
 
 ###### Article L121-20-2
@@ -3295,10 +3329,13 @@ consommateur ;
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 12 () JORF 25 août 2001
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
 
 
 ###### Article L121-20-3
@@ -3330,13 +3367,9 @@ soit à un cas de force majeure.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 2004-06-21 art. 57, art. 58
-
 	**Modifié par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 15 (V) JORF 22 juin 2004
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cité par**:
 
@@ -3348,13 +3381,13 @@ soit à un cas de force majeure.
 ###### Article L121-20-4
 
 Les dispositions des articles L. 121-18, L. 121-19, L. 121-20 et L. 121-20-1 ne sont pas applicables aux contrats ayant pour
-objet :
+objet : 
 
 1° La fourniture de biens de consommation courante réalisée au lieu d'habitation ou de travail du consommateur par des
-distributeurs faisant des tournées fréquentes et régulières ;
+distributeurs faisant des tournées fréquentes et régulières ; 
 
 2° La prestation de services d'hébergement, de transport, de restauration, de loisirs qui doivent être fournis à une date ou
-selon une périodicité déterminée.
+selon une périodicité déterminée. 
 
 Les dispositions des articles L. 121-18 et L. 121-19 sont toutefois applicables aux contrats conclus par voie électronique
 lorsqu'ils ont pour objet la prestation des services mentionnés au 2°.
@@ -3363,23 +3396,24 @@ lorsqu'ils ont pour objet la prestation des services mentionnés au 2°.
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Modifié par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 23 () JORF 22 juin 2004
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-18
 
 	**Liens**:
 
 	  - SPEC_APPLI: Code de la consommation - art. L121-18 (M)
 	  - SPEC_APPLI: Code de la consommation - art. L121-20-1 (M)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-18 (M)
-	  - Code de la consommation - art. L121-19 (M)
-	  - Code de la consommation - art. L121-20 (T)
-	  - Code de la consommation - art. L121-20-1 (M)
 
 
 ###### Article L121-20-5
@@ -3436,7 +3470,6 @@ premier, troisième et quatrième alinéas de l'article L. 450-1 et les articles
 	  - Code de commerce. - art. L450-8 (M)
 	  - Code de commerce. - art. L470-1 (V)
 	  - Code de commerce. - art. L470-5 (V)
-	  - Code des postes et des communications électronique - art. L34-5 (M)
 
 	**Codifié par**:
 
@@ -3444,7 +3477,7 @@ premier, troisième et quatrième alinéas de l'article L. 450-1 et les articles
 
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cité par**:
 
@@ -3452,37 +3485,42 @@ premier, troisième et quatrième alinéas de l'article L. 450-1 et les articles
 	  - Code de la consommation - art. L121-20-14 (VT)
 	  - Code de la consommation - art. L121-20-17 (MMN)
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code des postes et des communications électronique - art. L34-5 (M)
+
 
 ###### Article L121-20-6
 
-Lorsque les parties ont choisi la loi d'un Etat non membre de la Communauté européenne pour régir le contrat, le juge devant
-lequel est invoquée cette loi est tenu d'en écarter l'application au profit des dispositions plus protectrices de la loi de
-la résidence habituelle du consommateur assurant la transposition de la directive 97/7/CE du Parlement européen et du Conseil
-du 20 mai 1997 concernant la protection des consommateurs en matière de contrats à distance, lorsque cette résidence est
-située dans un Etat membre.
+Les règles relatives à la responsabilité du dirigeant de droit ou de fait d'un service de radiodiffusion sonore ou de
+télévision sont définies par le II de l'article 3 de la loi n° 88-21 du 6 janvier 1988 relative aux opérations de
+télépromotion avec offre de vente dites de " téléachat " reproduit ci-après : 
+
+L'article 3 II de la loi n° 88-21 du 6 janvier 1988 a été abrogé par l'article 25 de la loi n° 2000-719 du 1er août 2000
+publié au JORF du 2 août 2000 et repris dans le code de la consommation à l'article L. 121-17.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Directive CEE 97/7 1997-05-20 Conseil
+	  - Loi n°88-21 du 6 janvier 1988 - art. 3
+	  - Loi n°2000-719 du 1 août 2000 - art. 25
+	  - Code de la consommation - art. L121-17
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
-
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 12 () JORF 25 août 2001
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
+	**Abrogé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
 	**Nouveaux textes**:
 
-	  - Code de la consommation - art. L121-20-15 (V)
 	  - Code de la consommation - art. L121-20-15 (VT)
 
 	**Anciens textes**:
@@ -3492,62 +3530,71 @@ située dans un Etat membre.
 
 ###### Article L121-20-7
 
-Les dispositions de la présente section sont d'ordre public.
+Les règles relatives à la fixation des règles de programmation des émissions sont définies par l'article 2 de la loi n° 88-21
+du 6 janvier 1988 précitée reproduit ci-après :
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 12 () JORF 25 août 2001
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
-
-	**Transféré par**:
-
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L121-20-16 (V)
-	  - Code de la consommation - art. L121-20-16 (VT)
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-20-9 (M)
-
-
-###### Article L121-20-8
-
-Les règles relatives à la responsabilité du dirigeant de droit ou de fait d'un service de radiodiffusion sonore ou de
-télévision sont définies par le II de l'article 3 de la loi n° 88-21 du 6 janvier 1988 relative aux opérations de
-télépromotion avec offre de vente dites de "téléachat" reproduit ci-après :
-
-L'article 3 II de la loi n° 88-21 du 6 janvier 1988 a été abrogé par l'article 25 de la loi n° 2000-719 du 1er août 2000
-publiée au JORF du 2 août 2000. Il a été repris dans le code de la consommation à l'article L. 121-17.
+L'article 2 de la loi n° 88-21 du 6 janvier 1988 a été abrogé par la loi n° 2000-719 du 1er août 2000.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°88-21 du 6 janvier 1988 - art. 3 (M)
-	  - Loi n°2000-719 du 1 août 2000 - art. 25 (V)
-	  - Code de la consommation - art. L121-17 (M)
+	  - Loi n°88-21 du 6 janvier 1988 - art. 2
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
-
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 6 () JORF 25 août 2001
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-20-16 (VT)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L121-20-9 (M)
+	  - Code de la consommation - art. L121-20-9 (VT)
+
+
+##### Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers
+
+###### Article L121-20-8
+
+La présente sous-section régit la fourniture de services financiers à un consommateur dans le cadre d'un système de vente ou
+de prestation de services à distance organisé par le fournisseur ou par un intermédiaire qui, pour ce contrat, utilise
+exclusivement une ou plusieurs techniques de communication à distance jusqu'à, et y compris, la conclusion du contrat.
+
+Elle s'applique aux services mentionnés aux livres Ier à III et au titre V du livre V du code monétaire et financier ainsi
+que les opérations pratiquées par les entreprises régies par le code des assurances, par les mutuelles et unions régies par
+le livre II du code de la mutualité et par les institutions de prévoyance et unions régies par le titre III du livre IX du
+code de la sécurité sociale sans préjudice des dispositions spécifiques prévues par ces codes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. L221-18 (V)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L932-15-1 (V)
+	  - PILOTE_SUIVEUR: Code des assurances - art. L112-2-1 (VD)
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
 
 	**Anciens textes**:
 
@@ -3556,8 +3603,8 @@ publiée au JORF du 2 août 2000. Il a été repris dans le code de la consommat
 
 	**Nouveaux textes**:
 
-	  - Code de la consommation - art. L121-20-6 (M)
 	  - Code de la consommation - art. L121-20-6 (VT)
+	  - Code de la consommation - art. L121-26 (VD)
 
 	**Cité par**:
 
@@ -3566,29 +3613,20 @@ publiée au JORF du 2 août 2000. Il a été repris dans le code de la consommat
 	  - Code des assurances - art. L112-2-1 (VD)
 	  - Code monétaire et financier - art. R519-23 (VD)
 
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de la mutualité - art. L221-18 (V)
-	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L932-15-1 (V)
-	  - PILOTE_SUIVEUR: Code des assurances - art. L112-2-1 (VD)
-	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
-
 
 ###### Article L121-20-9
 
-Les règles relatives à la fixation des règles de programmation des émissions sont définies par l'article 2 de la loi n° 88-21
-du 6 janvier 1988 précitée reproduit ci-après :
+Pour les contrats portant sur des services financiers comportant une première convention de service suivie d'opérations
+successives ou d'une série d'opérations distinctes, de même nature, échelonnées dans le temps, les dispositions de la
+présente sous-section ne s'appliquent qu'à la première convention de service. Pour les contrats renouvelables par tacite
+reconduction, les dispositions de la présente sous-section ne s'appliquent qu'au contrat initial. 
 
-**Nota:**
-
-NOTA : L'article 2 de la loi n° 88-21 du 6 janvier 1988 a été abrogé par la loi n° 2000-719 du 1er août 2000.
+En l'absence de première convention de service, lorsque des opérations successives ou distinctes, de même nature, échelonnées
+dans le temps, sont exécutées entre les mêmes parties, les dispositions de l'article L. 121-20-10 ne sont applicables qu'à la
+première opération. Cependant, lorsqu'aucune opération de même nature n'est effectuée pendant plus d'un an, ces dispositions
+s'appliquent à l'opération suivante, considérée comme une première opération.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°88-21 du 6 janvier 1988 - art. 2 (Ab)
-	  - Loi n°2000-719 2000-08-01
 
 	**Anciens textes**:
 
@@ -3597,28 +3635,28 @@ NOTA : L'article 2 de la loi n° 88-21 du 6 janvier 1988 a été abrogé par la 
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
-
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 6 () JORF 25 août 2001
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L121-20-7 (M)
-	  - Code de la consommation - art. L121-20-7 (VT)
-
 	**Liens**:
 
+	  - TRANSFERE: Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
 	  - PILOTE_SUIVEUR: Code de la mutualité - art. L221-18 (V)
 	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L932-15-1 (V)
 	  - PILOTE_SUIVEUR: Code des assurances - art. L112-2-1 (VD)
 	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20-10
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-20-7 (VT)
+	  - Code de la consommation - art. L121-26-1 (VD)
 
 	**Cité par**:
 
@@ -3627,43 +3665,50 @@ NOTA : L'article 2 de la loi n° 88-21 du 6 janvier 1988 a été abrogé par la 
 
 ###### Article L121-20-10
 
-Les infractions aux dispositions des articles L. 121-18, L. 121-19 et L. 121-20-5, ainsi que le refus du vendeur de
-rembourser un produit retourné par l'acheteur dans les conditions fixées à l'article L. 121-20-1, sont constatées et
-poursuivies dans les conditions fixées par les premier et troisième alinéas de l'article L. 450-1 et les articles L. 450-2,
-L. 450-3, L. 450-4, L. 450-7, L. 450-8, L. 470-1 et L. 470-5 du code de commerce.
+En temps utile et avant qu'il ne soit lié par un contrat, le consommateur reçoit des informations fixées par décret en
+Conseil d'Etat, portant notamment sur :
+
+1° Le nom, l'adresse professionnelle du fournisseur et, s'il y a lieu, de son représentant et de son intermédiaire ;
+
+2° Les documents d'information particuliers relatifs aux produits, instruments financiers et services proposés requis par les
+dispositions législatives et réglementaires en vigueur ou, en l'absence de tels documents, une note d'information sur chacun
+des produits, instruments financiers et services proposés et indiquant, s'il y a lieu, les risques particuliers que peuvent
+comporter les produits proposés ;
+
+3° Les conditions de l'offre contractuelle, notamment le prix total effectivement dû par le consommateur, ou, lorsqu'un prix
+exact ne peut être indiqué, la base de calcul du prix permettant au consommateur de vérifier ce dernier, les modalités selon
+lesquelles sera conclu le contrat et en particulier le lieu et la date de signature de celui-ci ;
+
+4° L'existence ou l'absence du droit de rétractation, ainsi que ses modalités d'exercice ;
+
+5° La loi applicable aux relations précontractuelles ainsi qu'au contrat, et l'existence de toute clause concernant le choix
+d'une juridiction.
+
+Les informations communiquées par le fournisseur au consommateur sur les obligations contractuelles sont conformes à la loi
+applicable au contrat en cas de conclusion de celui-ci.
+
+Ces informations, dont le caractère commercial doit apparaître sans équivoque, sont fournies de manière claire et
+compréhensible par tout moyen adapté à la technique de communication à distance utilisée.
+
+Les dispositions du présent article sont applicables sans préjudice de l'application des obligations législatives et
+réglementaires spécifiques à chaque produit, instrument financier ou service proposé.
+
+Le décret en Conseil d'Etat mentionné au premier alinéa fixe également les modalités particulières applicables en cas de
+communication par téléphonie vocale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 13 () JORF 25 août 2001
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
-
-	**Transféré par**:
-
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
-
-	**Cite**:
-
-	  - Code de commerce. - art. L450-1 (M)
-	  - Code de commerce. - art. L450-2 (V)
-	  - Code de commerce. - art. L450-3 (M)
-	  - Code de commerce. - art. L450-4 (M)
-	  - Code de commerce. - art. L450-7 (V)
-	  - Code de commerce. - art. L450-8 (M)
-	  - Code de commerce. - art. L470-1 (V)
-	  - Code de commerce. - art. L470-5 (V)
-	  - Code de la consommation - art. L121-18 (M)
-	  - Code de la consommation - art. L121-19 (M)
-	  - Code de la consommation - art. L121-20-1 (M)
-	  - Code de la consommation - art. L121-20-5 (M)
+	  - Loi n°2006-387 du 31 mars 2006 - art. 25 (V) JORF 1 avril 2006 en vigueur le 1er décembre 2005
 
 	**Liens**:
 
+	  - TRANSFERE: Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
 	  - SPEC_APPLI: Code de la consommation - art. L121-18 (M)
 	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
 
@@ -3681,54 +3726,309 @@ L. 450-3, L. 450-4, L. 450-7, L. 450-8, L. 470-1 et L. 470-5 du code de commerce
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L121-20-17 (MMN)
+	  - Code de la consommation - art. L121-27 (VD)
 
 
-##### Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers
+###### Article L121-20-11
 
-###### Article L121-20
+Le consommateur doit recevoir, par écrit ou sur un autre support durable à sa disposition et auquel il a accès en temps utile
+et avant tout engagement, les conditions contractuelles ainsi que les informations mentionnées à l'article L. 121-20-10. Le
+fournisseur peut remplir ses obligations au titre de l'article L. 121-20-10 et du présent article par l'envoi au consommateur
+d'un document unique, à la condition qu'il s'agisse d'un support écrit ou d'un autre support durable et que les informations
+mentionnées ne varient pas jusqu'à et y compris la conclusion du contrat.
 
-Le consommateur dispose d'un délai de sept jours francs pour exercer son droit de rétractation sans avoir à justifier de
-motifs ni à payer de pénalités, à l'exception, le cas échéant, des frais de retour. Le consommateur peut déroger à ce délai
-au cas où il ne pourrait se déplacer et où simultanément il aurait besoin de faire appel à une prestation immédiate et
-nécessaire à ses conditions d'existence. Dans ce cas, il continuerait à exercer son droit de rétractation sans avoir à
-justifier de motifs ni à payer de pénalités. 
+Le fournisseur exécute ses obligations de communication immédiatement après la conclusion du contrat, lorsque celui-ci a été
+conclu à la demande du consommateur en utilisant une technique de communication à distance ne permettant pas la transmission
+des informations précontractuelles et contractuelles sur un support papier ou sur un autre support durable.
 
-Le délai mentionné à l'alinéa précédent court à compter de la réception pour les biens ou de l'acceptation de l'offre pour
-les prestations de services. 
-
-Lorsque les informations prévues à l'article L. 121-19 n'ont pas été fournies, le délai d'exercice du droit de rétractation
-est porté à trois mois. Toutefois, lorsque la fourniture de ces informations intervient dans les trois mois à compter de la
-réception des biens ou de l'acceptation de l'offre, elle fait courir le délai de sept jours mentionné au premier alinéa. 
-
-Lorsque le délai de sept jours expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier jour
-ouvrable suivant.
+A tout moment au cours de la relation contractuelle, le consommateur a le droit, s'il en fait la demande, de recevoir les
+conditions contractuelles sur un support papier. En outre, le consommateur a le droit de changer les techniques de
+communication à distance utilisées, à moins que cela ne soit incompatible avec le contrat à distance conclu ou avec la nature
+du service financier fourni.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°88-21 du 6 janvier 1988 - art. 3 (Ab)
-	  - Code de la consommation - art. L121-20-4 (M)
-	  - Code de la consommation - art. L121-22 (VT)
-	  - Code de la consommation - art. L121-34-2 (VD)
-	  - Code de la consommation - art. L121-87 (V)
-	  - Code de la consommation - art. L121-88 (V)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Loi n°2005-841 du 26 juillet 2005 - art. 3 () JORF 27 juillet 2005
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-19 (V)
+	  - Code de la consommation - art. L121-20-10 (M)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-20-12 (T)
+	  - Code de la consommation - art. R121-2-4 (T)
+	  - Code de la mutualité - art. L221-18 (M)
+	  - Code de la sécurité sociale. - art. L932-15-1 (M)
+	  - Code de la sécurité sociale. - art. R932-2-3 (M)
+	  - Code des assurances - art. L112-2-1 (VD)
+	  - Code des assurances - art. R112-4 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. L221-18 (V)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L932-15-1 (V)
+	  - PILOTE_SUIVEUR: Code des assurances - art. L112-2-1 (VD)
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
+
+
+###### Article L121-20-12
+
+I. - Le consommateur dispose d'un délai de quatorze jours calendaires révolus pour exercer son droit de rétractation, sans
+avoir à justifier de motif ni à supporter de pénalités.
+
+Le délai pendant lequel peut s'exercer le droit de rétractation commence à courir :
+
+1° Soit à compter du jour où le contrat à distance est conclu ;
+
+2° Soit à compter du jour où le consommateur reçoit les conditions contractuelles et les informations, conformément à
+l'article L. 121-20-11, si cette dernière date est postérieure à celle mentionnée au 1°.
+
+II. - Le droit de rétractation ne s'applique pas :
+
+1° A la fourniture d'instruments financiers mentionnés à l'article L. 211-1 du code monétaire et financier ainsi qu'aux
+services de réception-transmission et exécution d'ordres pour le compte de tiers mentionnés à l'article L. 321-1 du même
+code ;
+
+2° Aux contrats exécutés intégralement par les deux parties à la demande expresse du consommateur avant que ce dernier
+n'exerce son droit de rétractation ;
+
+3° Aux contrats de crédit immobilier définis à l'article L. 312-2.
+
+III. - Le présent article ne s'applique pas aux contrats mentionnés à l'article L. 121-60.
+
+IV. - Pour les contrats de crédit affecté définis à l'article L. 311-20 conclus selon une technique de communication à
+distance, et par dérogation aux dispositions de l'article L. 311-24, le délai de rétractation de quatorze jours ne peut pas
+être réduit.
+
+Par dérogation aux dispositions de l'article L. 311-25, l'exercice du droit de rétractation n'emporte résolution de plein
+droit du contrat de vente ou de prestation de services que s'il intervient dans un délai de sept jours à compter de la
+conclusion du contrat de crédit. De plus, lorsque le consommateur, par une demande expresse, sollicite la livraison ou la
+fourniture immédiate du bien ou de la prestation de services, l'exercice du droit de rétractation n'emporte résolution de
+plein droit du contrat de vente ou de prestation de services que s'il intervient dans un délai de trois jours à compter de la
+conclusion du contrat de crédit. Toute livraison ou fourniture anticipée est à la charge du vendeur qui en supporte tous les
+risques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-20-13 (VT)
+	  - Code de la consommation - art. L123-3 (VD)
+	  - Code de la consommation - art. R121-2-1 (T)
+	  - Code de la consommation - art. R121-2-2 (T)
+	  - Code de la mutualité - art. L221-18 (V)
+	  - Code monétaire et financier - art. R341-16 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
+
+
+###### Article L121-20-13
+
+I.-Les contrats pour lesquels s'applique le délai de rétractation mentionné à l'article L. 121-20-12 ne peuvent recevoir de
+commencement d'exécution par les parties avant l'arrivée du terme de ce délai sans l'accord du consommateur. Lorsque celui-ci
+exerce son droit de rétractation, il ne peut être tenu qu'au paiement proportionnel du service financier effectivement
+fourni, à l'exclusion de toute pénalité. 
+
+Le fournisseur ne peut exiger du consommateur le paiement du service mentionné au premier alinéa que s'il peut prouver que le
+consommateur a été informé du montant dû, conformément à l'article L. 121-20-10. Toutefois, il ne peut pas exiger ce paiement
+s'il a commencé à exécuter le contrat avant l'expiration du délai de rétractation sans demande préalable du consommateur. 
+
+Pour les contrats de crédit à la consommation prévus au chapitre Ier du titre Ier du livre III, même avec l'accord du
+consommateur, ils ne peuvent recevoir de commencement d'exécution durant les sept premiers jours, sauf s'agissant des
+contrats de crédit affecté mentionnés au IV de l'article L. 121-20-12, qui ne peuvent recevoir de commencement d'exécution
+durant les trois premiers jours. 
+
+II.-Le fournisseur est tenu de rembourser au consommateur dans les meilleurs délais et au plus tard dans les trente jours
+toutes les sommes qu'il a perçues de celui-ci en application du contrat, à l'exception du montant mentionné au premier alinéa
+du I. Ce délai commence à courir le jour où le fournisseur reçoit notification par le consommateur de sa volonté de se
+rétracter. Au-delà du délai de trente jours, la somme due est, de plein droit, productive d'intérêts au taux légal en
+vigueur. 
+
+Le consommateur restitue au fournisseur dans les meilleurs délais et au plus tard dans les trente jours toute somme et tout
+bien qu'il a reçus de ce dernier. Ce délai commence à courir à compter du jour où le consommateur communique au fournisseur
+sa volonté de se rétracter.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. L221-18 (V)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L932-15-1 (V)
+	  - PILOTE_SUIVEUR: Code des assurances - art. L112-2-1 (VD)
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20-10
+	  - Code de la consommation - art. L121-20-12
 
 	**Nouveaux textes**:
 
-	  - Code de la consommation - art. L121-20-9 (VT)
+	  - Code de la consommation - art. L121-30 (VD)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R*121-2-1 (V)
+	  - Code de la consommation - art. R121-2-5 (T)
+	  - Code de la mutualité - art. L221-18 (M)
+	  - Code de la sécurité sociale. - art. L932-15-1 (M)
+	  - Code des assurances - art. L112-2-1 (VD)
+	  - Code monétaire et financier - art. R341-16 (M)
+
+
+###### Article L121-20-14
+
+Les dispositions de l'article L. 34-5 du code des postes et communications électroniques, reproduites à l'article L.
+121-20-5, sont applicables aux services financiers. 
+
+Les techniques de communication à distance destinées à la commercialisation de services financiers autres que celles
+mentionnées à l'article L. 34-5 du code des postes et communications électroniques ne peuvent être utilisées que si le
+consommateur n'a pas manifesté son opposition. 
+
+Les mesures prévues au présent article ne doivent pas entraîner de frais pour le consommateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. L221-18 (V)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L932-15-1 (V)
+	  - PILOTE_SUIVEUR: Code des assurances - art. L112-2-1 (VD)
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20-5
+	  - Code des postes et des communications électroniques - art. L34-5
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-31 (VD)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L123-4 (VT)
+	  - Code des assurances - art. L112-2-1 (VD)
+
+
+##### Sous-section 3 : Dispositions communes
+
+###### Article L121-20-15
+
+Lorsque les parties ont choisi la loi d'un Etat non membre de la Communauté européenne pour régir le contrat, le juge devant
+lequel est invoquée cette loi est tenu d'en écarter l'application au profit des dispositions plus protectrices de la loi de
+la résidence habituelle du consommateur assurant la transposition de la directive 97/7/CE du Parlement européen et du Conseil
+du 20 mai 1997 concernant la protection des consommateurs en matière de contrats à distance et de la directive 2002/65/CE du
+Parlement européen et du Conseil du 23 septembre 2002 concernant la commercialisation à distance de services financiers
+auprès des consommateurs, lorsque le contrat présente un lien étroit avec le territoire d'un ou plusieurs Etats membres de la
+Communauté européenne ; cette condition est présumée remplie si la résidence des consommateurs est située dans un Etat
+membre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L121-20-6 (M)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L123-5 (VD)
+	  - Code des assurances - art. L112-2-1 (VD)
+	  - Code monétaire et financier - art. L341-12 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. L221-18 (V)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L932-15-1 (V)
+	  - PILOTE_SUIVEUR: Code des assurances - art. L112-2-1 (VD)
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
+
+
+###### Article L121-20-16
+
+Les dispositions de la présente section sont d'ordre public.
+
+**Nota:**
+
+Ordonnance 2005-648 2005-06-06 art. 1 I 3° : lire "L121-16" et non "L121-20-16". 
+
+La modification n'est donc pas incluse dans le présent article mais dans l'article L121-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L121-20-7 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la mutualité - art. L221-18 (V)
+	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L932-15-1 (V)
+	  - PILOTE_SUIVEUR: Code des assurances - art. L112-2-1 (VD)
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
+
+	**Cité par**:
+
+	  - Code des assurances - art. L112-2-1 (VD)
 
 
 ##### Section 3 : Démarchage
@@ -5340,7 +5640,7 @@ règles relatives aux ventes subordonnées sont fixées par le 1 du I de l'artic
 	  - Code monétaire et financier - art. L518-1 (M)
 
 
-##### Section 2 : Ventes sans commande préalable.
+##### Section 2 : Ventes et prestations de services sans commande préalable
 
 ###### Article L122-3
 
@@ -5364,7 +5664,7 @@ légal majoré de moitié à compter de la demande de remboursement faite par le
 
 	**Modifié par**:
 
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 14 () JORF 25 août 2001
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
 
 	**Cité par**:
 
@@ -5375,7 +5675,7 @@ légal majoré de moitié à compter de la demande de remboursement faite par le
 
 Les dispositions de l'article L. 122-3 ne font pas obstacle à la perception d'intérêts, de commissions ou de frais au titre
 de facilités de caisse ou de découverts bancaires prévus par la convention de compte instituée à l'article L. 312-1-1 du code
-monétaire et financier qui précise le montant ou le mode de calcul de ces rémunérations.
+monétaire et financier qui précise le montant ou le mode de calcul de ces rémunérations. 
 
 Il en est de même dans le cas où une modification des conditions initiales du contrat résulte de la mise en oeuvre d'une
 clause de révision dont les modalités ont été expressément définies et ont recueilli l'accord des parties au moment de la
@@ -5389,16 +5689,24 @@ signature du contrat.
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Modifié par**:
 
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 13 (V)
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-13 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L122-3 (M)
-	  - Code monétaire et financier - art. L312-1-1 (M)
+	  - Code de la consommation - art. L122-3 (VT)
+	  - Code monétaire et financier - art. L312-1-1
 
 
 ###### Article L122-5
@@ -5416,9 +5724,17 @@ Le paiement résultant d'une obligation législative ou réglementaire n'exige p
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-14 (V)
 
 
 ##### Section 3 : Ventes ou prestations "à la boule de neige"
@@ -19389,7 +19705,9 @@ l'article R. 115-10.
 
 #### Chapitre Ier : Pratiques commerciales réglementées
 
-##### Section 2 : Vente à distance.
+##### Section 2 : Ventes de biens et fournitures de prestations de services à distance
+
+##### Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers.
 
 ###### Article R121-1
 
@@ -19404,7 +19722,7 @@ l'article L. 121-18.
 
 	**Modifié par**:
 
-	  - Décret n°2003-137 du 18 février 2003 - art. 1 () JORF 20 février 2003
+	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur 1e 1er décembre 2005
 
 	**Cite**:
 
@@ -19420,15 +19738,19 @@ l'article L. 121-19.
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-137 du 18 février 2003 - art. 1 () JORF 20 février 2003
+	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur 1e 1er décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1061 du 17 septembre 2014 - art. 2
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-19 (M)
+	  - Code de la consommation - art. L121-19
 
 
 ###### Article R121-1-2
@@ -19441,15 +19763,19 @@ rétractation.
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-137 du 18 février 2003 - art. 1 () JORF 20 février 2003
+	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur 1e 1er décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1061 du 17 septembre 2014 - art. 2
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-20-1 (M)
+	  - Code de la consommation - art. L121-20-1
 
 
 ###### Article R121-2
@@ -19469,13 +19795,232 @@ les modalités prévues à l'article 131-41 du même code.
 
 	**Modifié par**:
 
-	  - Décret n°2003-137 du 18 février 2003 - art. 1 () JORF 20 février 2003
+	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur 1e 1er décembre 2005
 
 	**Cite**:
 
 	  - Code de la consommation R121-1, R121-1-1, R121-1-2
 	  - Code pénal - art. 121-2 (M)
 	  - Code pénal - art. 131-41 (V)
+
+
+##### Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers
+
+###### Article R121-2-1
+
+Pour l'application de l'article L. 121-20-10, le fournisseur communique au consommateur des informations concernant :
+
+1° Son identité : l'identité, l'activité principale, l'adresse géographique à laquelle le fournisseur de services financiers
+est établi, ainsi que toute autre adresse nécessaire au suivi des relations entre le consommateur et le fournisseur. Lorsque
+le fournisseur utilise les services d'un représentant ou d'un intermédiaire, il communique également au consommateur
+l'identité de ce dernier ainsi que celle de ses adresses devant être prise en compte pour les relations avec le consommateur.
+
+Lorsque le fournisseur est inscrit au registre du commerce et des sociétés, il communique au consommateur son numéro
+d'immatriculation. En outre, les personnes soumises à agrément communiquent au consommateur les coordonnées des autorités
+chargées de leur contrôle.
+
+2° Le service financier : le fournisseur informe le consommateur du prix total dû, y compris l'ensemble des commissions,
+charges et dépenses y afférentes et toutes les taxes acquittées par l'intermédiaire du fournisseur. Le fournisseur informe
+également le consommateur de l'existence de toute autre taxe ou frais qui ne sont pas acquittés ou facturés par lui.
+
+Le cas échéant, le fournisseur précise au consommateur, d'une part, que le service financier est lié à des instruments qui
+impliquent des risques particuliers du fait de leurs spécificités ou des opérations à exécuter ou dont le prix dépend de
+fluctuations des marchés financiers sur lesquelles le fournisseur n'a aucune influence et, d'autre part, que les performances
+passées ne laissent pas présager des performances futures.
+
+Le fournisseur informe le consommateur de toute limitation de la durée pendant laquelle les informations fournies sont
+valables, des modes de paiement et d'exécution et enfin, s'il y a lieu, de l'existence de tout coût supplémentaire spécifique
+pour le consommateur afférent à l'utilisation de la technique de communication à distance.
+
+3° Le contrat à distance : le fournisseur informe le consommateur de l'existence du droit de rétractation mentionné à
+l'article L. 121-20-12, de sa durée, des conséquences pécuniaires éventuelles de sa mise en oeuvre, ainsi que de l'adresse à
+laquelle le consommateur doit notifier sa décision. En cas d'absence d'un tel droit, le fournisseur en informe le
+consommateur ainsi que des conséquences de cette absence.
+
+Pour les contrats pour lesquels s'applique le délai de rétractation mentionné à l'article L. 121-20-12, le fournisseur
+informe le consommateur du fait que, sauf accord exprès de ce dernier, le contrat ne peut commencer à être exécuté qu'à
+l'expiration du délai de rétractation. Pour les contrats de crédit à la consommation prévus au chapitre Ier du titre Ier du
+livre III, le fournisseur informe le consommateur du fait que, même avec son accord, le contrat ne peut commencer à être
+exécuté durant les sept premiers jours, sauf s'agissant des contrats de crédit affecté, qui ne peuvent commencer à être
+exécutés durant les trois premiers jours.
+
+Le fournisseur informe le consommateur des droits contractuels que peuvent avoir les parties de résilier le contrat, sans
+omettre les éventuelles pénalités imposées par le contrat dans ce cas.
+
+Lorsque le contrat est à exécution successive, le fournisseur porte à la connaissance du consommateur sa durée minimale.
+
+Le consommateur est informé de la langue ou des langues qui seront utilisées entre les parties durant la relation pré-
+contractuelle, ainsi que de la langue ou des langues dans lesquelles le contrat sera rédigé. La langue utilisée durant la
+relation contractuelle est choisie en accord avec le consommateur.
+
+4° Les recours : le fournisseur informe le consommateur de l'existence ou de l'absence de procédures extrajudiciaires de
+réclamation et de recours accessibles et, si de telles procédures existent, de leurs modalités d'exercice. Le consommateur
+est également informé de l'existence de fonds de garantie ou d'autres mécanismes d'indemnisation, tels que les mécanismes
+d'indemnisation des déposants, des investisseurs et des cautions, respectivement mentionnés aux articles L. 312-4, L. 313-50
+et L. 322-1 du code monétaire et financier.
+
+5° En cas de communication par téléphonie vocale, l'identité du fournisseur et le caractère commercial de l'appel dont le
+fournisseur a pris l'initiative sont indiqués sans équivoque au début de toute conversation avec le consommateur.
+
+Sous réserve de l'accord formel du consommateur, seules les informations ci-après doivent être fournies :
+
+a) L'identité de la personne en contact avec le consommateur et le lien de cette personne avec le fournisseur ;
+
+b) Une description des principales caractéristiques du service financier ;
+
+c) Le prix total dû par le consommateur au fournisseur pour le service financier, qui comprend toutes les taxes acquittées
+par l'intermédiaire du fournisseur ou, lorsqu'un prix exact ne peut être indiqué, la base de calcul du prix permettant au
+consommateur de vérifier ce dernier ;
+
+d) L'indication de l'existence éventuelle d'autres taxes ou frais qui ne sont pas acquittés par l'intermédiaire du
+fournisseur ou facturés par lui ;
+
+e) L'existence ou l'absence du droit de rétractation mentionné à l'article L. 121-20-12 et, si ce droit existe, sa durée et
+les modalités de son exercice, y compris des informations sur le montant que le consommateur peut être tenu de payer en vertu
+de l'article L. 121-20-13.
+
+Le fournisseur informe le consommateur sur, d'une part, le fait que d'autres informations peuvent être fournies sur demande
+et, d'autre part, la nature de ces informations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 314-23 (V)
+	  - Code de la consommation - art. R123-1 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur le 1er décembre 2005
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20-10 (M)
+	  - Code de la consommation - art. L121-20-12 (V)
+	  - Code de la consommation - art. L121-20-13 (V)
+	  - Code monétaire et financier - art. L312-4 (M)
+	  - Code monétaire et financier - art. L313-50 (V)
+	  - Code monétaire et financier - art. L322-1 (M)
+
+
+###### Article R121-2-2
+
+Lorsque l'acte par lequel le consommateur a communiqué au fournisseur sa volonté de se rétracter a été envoyé sur un support
+papier ou sur un autre support durable avant l'expiration du délai mentionné à l'article L. 121-20-12, le consommateur est
+réputé avoir respecté ce délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Créé par**:
+
+	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur le 1er décembre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1061 du 17 septembre 2014 - art. 3
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20-12
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R121-4 (Ab)
+
+
+###### Article R121-2-3
+
+Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait de ne pas communiquer au
+consommateur les informations mentionnées aux 1°, 2°, 3° et 5° de l'article R. 121-2-1 et celles mentionnées au 5° de
+l'article L. 121-20-10 ou de les lui communiquer sans faire apparaître de manière claire le caractère commercial de sa
+démarche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur le 1er décembre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1061 du 17 septembre 2014 - art. 3
+
+	**Cite**:
+
+	  - Code de la consommation
+	  - Code de la consommation - art. L121-20-10
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R121-5 (Ab)
+
+
+###### Article R121-2-4
+
+Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait de ne pas communiquer au
+consommateur, dans les conditions prévues à l'article L. 121-20-11, les informations mentionnées à cet article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Créé par**:
+
+	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur le 1er décembre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1061 du 17 septembre 2014 - art. 3
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20-11
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R121-6 (Ab)
+
+
+###### Article R121-2-5
+
+Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait de ne pas rembourser le
+consommateur dans les conditions fixées au II de l'article L. 121-20-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur le 1er décembre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-1061 du 17 septembre 2014 - art. 3
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20-13
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R121-6-1 (Ab)
 
 
 ##### Section 3 : Démarchage
@@ -19938,6 +20483,34 @@ ou consommateur la possibilité de mentionner les caractéristiques auxquelles i
 	**Créé par**:
 
 	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+
+
+###### Article R132-2-1
+
+Dans les contrats mentionnés à l'article L. 121-20-8, est interdite comme abusive au sens du premier alinéa de l'article L.
+132-1 la clause ayant pour objet ou pour effet de prévoir qu'incombe au consommateur la charge de la preuve du respect par le
+fournisseur de tout ou partie des obligations que lui imposent les dispositions des articles L. 121-20-8 à L. 121-20-16 du
+présent code, L. 112-2-1 du code des assurances, L. 221-18 du code de la mutualité, L. 932-15-1 du code de la sécurité
+sociale et L. 341-12 du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur le 1er décembre 2005
+
+	**Cite**:
+
+	  - Code de la consommation - art. L132-1 (M)
+	  - Code de la consommation L121-20-8 à L121-20-16, L132-1
+	  - Code monétaire et financier - art. L341-12 (M)
+	  - Code de la sécurité sociale. - art. L932-15-1 (M)
+	  - Code des assurances - art. L112-2-1 (M)
+	  - Code de la mutualité - art. L221-18 (M)
 
 
 ##### Section 2 : Commission des clauses abusives
