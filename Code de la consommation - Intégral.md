@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-12-30
+Version Consolidée au 2005-12-31
 
 # Partie législative
 
@@ -16324,9 +16324,8 @@ accordés aux personnes physiques pour des besoins non professionnels. Ce fichie
 soumis aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 Les établissements de crédit visés par la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
-établissements de crédit ainsi que les services financiers de La Poste sont tenus de déclarer à la Banque de France les
-incidents visés à l'alinéa précédent. Les frais afférents à cette déclaration ne peuvent être facturés aux personnes
-physiques concernées.
+établissements de crédit sont tenus de déclarer à la Banque de France les incidents visés à l'alinéa précédent. Les frais
+afférents à cette déclaration ne peuvent être facturés aux personnes physiques concernées.
 
 Dès que la commission instituée à l'article L. 331-1 est saisie par un débiteur en application du premier alinéa de l'article
 L. 331-3, elle en informe la Banque de France aux fins d'inscription au fichier institué au premier alinéa du présent
@@ -16353,26 +16352,23 @@ autorisés à tenir des fichiers recensant des incidents de paiement.
 La Banque de France est déliée du secret professionnel pour la diffusion, aux établissements de crédit et aux services
 financiers susvisés, des informations nominatives contenues dans le fichier.
 
-Il est interdit à la Banque de France, aux établissements de crédit et aux services financiers de La Poste de remettre à
-quiconque copie, sous quelque forme que ce soit, des informations contenues dans le fichier, même à l'intéressé lorsqu'il
-exerce son droit d'accès conformément à l'article 39 de la loi n° 78-17 du 6 janvier 1978 précitée, sous peine des sanctions
-prévues aux articles 43 et 44 de la même loi.
+Il est interdit à la Banque de France et aux établissements de crédit de remettre à quiconque copie, sous quelque forme que
+ce soit, des informations contenues dans le fichier, même à l'intéressé lorsqu'il exerce son droit d'accès conformément à
+l'article 39 de la loi n° 78-17 du 6 janvier 1978 précitée, sous peine des sanctions prévues aux articles 226-22 et 226-21 du
+code pénal.
+
+**Nota:**
+
+Loi 2005-516 2005-05-20 art. 16 V : 
+
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
+
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II. Le décret n° 2005-1068 du 30 août
+2005 fixe la date de transfert prévu au 31 décembre 2005.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-17 du 6 janvier 1978 - art. 39 (M)
-	  - Loi n°78-17 du 6 janvier 1978 - art. 43 (M)
-	  - Loi n°78-17 du 6 janvier 1978 - art. 44 (Ab)
-	  - Loi n°84-46 1984-01-24
-	  - Code de la consommation - art. L331-1 (M)
-	  - Code de la consommation - art. L331-2 (M)
-	  - Code de la consommation - art. L331-3 (M)
-	  - Code de la consommation - art. L331-6 (M)
-	  - Code de la consommation - art. L331-7 (M)
-	  - Code de la consommation - art. L331-7-1 (M)
-	  - Code de la consommation - art. L332-9 (M)
 
 	**Anciens textes**:
 
@@ -16382,10 +16378,6 @@ prévues aux articles 43 et 44 de la même loi.
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
-
-	**Modifié par**:
-
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 126 () JORF 19 janvier 2005
 
 	**Cité par**:
 
@@ -16410,6 +16402,10 @@ prévues aux articles 43 et 44 de la même loi.
 	  - Code monétaire et financier - art. L312-1 (M)
 	  - Code monétaire et financier - art. L313-6 (M)
 	  - Code monétaire et financier - art. L511-6 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005 en vigueur le 31 décembre 2005
 
 	**Liens**:
 
