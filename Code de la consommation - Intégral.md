@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-03-01
 
 # Partie législative
 
@@ -20784,7 +20784,7 @@ L'article 32 du décret n° 86-1309 du 29 décembre 1986 a été abrogé par l'a
 
 #### Chapitre II : Procédures civiles simplifiées
 
-###### Article R142-1
+###### Article R*142-1
 
 Les litiges civils nés de l'application du présent code relèvent, lorsque le montant de la demande n'excède pas le taux de
 compétence en dernier ressort du tribunal d'instance, des règles relatives à la saisine simplifiée du tribunal d'instance
@@ -20792,11 +20792,10 @@ fixées par les articles 847-1 et 847-2 du nouveau code de procédure civile rep
 
 "Art. 847-1 :
 
-"Lorsque le montant de la demande n'excède pas le taux de compétence en dernier ressort du tribunal d'instance, celui-ci peut
-être saisi par une déclaration faite, remise ou adressée au greffe, où elle est enregistrée.
+"Lorsque le montant de la demande n'excède pas 4 000 euros, la juridiction peut être saisie par une déclaration faite, remise
+ou adressée au greffe, où elle est enregistrée.
 
-"La déclaration doit indiquer les nom, prénoms, profession et adresse des parties ou, pour les personnes morales, leur
-dénomination et leur siège. Elle contient l'objet de la demande et un exposé sommaire de ces motifs.
+"Outre les mentions prescrites par l'article 58, la déclaration doit contenir un exposé sommaire des motifs de la demande.
 
 "La prescription et les délais pour agir sont interrompus par l'enregistrement de la déclaration".
 
@@ -20806,9 +20805,7 @@ dénomination et leur siège. Elle contient l'objet de la demande et un exposé 
 le même jour copie de cette convocation par lettre simple. Le demandeur peut aussi être convoqué verbalement contre
 émargement.
 
-"La convocation adressée au défenseur vaut citation. Elle mentionne que, faute par lui de comparaître, il s'expose à ce qu'un
-jugement soit rendu contre lui sur les seuls éléments fournis par son adversaire. Une copie de la déclaration est annexée à
-la convocation".
+"La convocation adressée au défenseur vaut citation. Elle comprend en annexe une copie de la déclaration."
 
 **Liens relatifs à cet article**
 
@@ -20818,11 +20815,7 @@ la convocation".
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 847-1, 847-2
+	  - Décret n°2005-1678 du 28 décembre 2005 - art. 4 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
 
 
 ###### Article R142-2
@@ -20849,14 +20842,11 @@ juridiction du lieu d'exécution de l'obligation".
 "La demande est formée par requête déposée ou adressée au greffe par le bénéficiaire de l'obligation ou par les personnes
 mentionnées à l'article 828.
 
-"La requête contient :
+"Outre les mentions prescrites par l'article 58, la requête contient :
 
-"1° Pour les personnes physiques, les nom, prénoms, profession et adresse des parties ou, pour les personnes morales, leur
-dénomination et leur siège social ;
+"1° L'indication précise de la nature de l'obligation dont l'exécution est poursuivie ainsi que le fondement de celle-ci ;
 
-"2° L'indication précise de la nature de l'obligation dont l'exécution est poursuivie ainsi que le fondement de celle-ci ;
-
-"3° Eventuellement, les dommages et intérêts qui seront réclamés en cas d'inéxecution de faire.
+"2° Eventuellement, les dommages et intérêts qui seront réclamés en cas d'inéxecution de l'injonction de faire.
 
 "Elle est accompagnée des documents justificatifs.
 
@@ -20919,13 +20909,7 @@ droit commun. La requête et les documents produits sont restitués au requéran
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 50 () JORF 22 août 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-836 du 20 août 2004 - art. 51 () JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code de la consommation 97
-	  - Nouveau code de procédure civile 1425-1 à 1425-9
+	  - Décret n°2005-1678 du 28 décembre 2005 - art. 12 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
 
 
 ## Livre II : Qualité des produits et des services
