@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2006-03-01
+Version Consolidée au 2006-03-24
 
 # Partie législative
 
@@ -6432,7 +6432,12 @@ Ier ;
 8° La sous-section 2 "taux d'usure" de la section I du chapitre III intitulé "dispositions communes" du titre Ier du livre
 III ;
 
-9° Le chapitre II "dispositions diverses" du titre II du livre III.
+9° Le chapitre II "dispositions diverses" du titre II du livre III ;
+
+10° La section 6 : "Crédit hypothécaire garanti par une hypothèque rechargeable" du chapitre III intitulé : "Dispositions
+communes" du titre Ier du livre III ;
+
+11° La section 7 : "Sanctions" du chapitre IV intitulé : "Prêt viager hypothécaire" du titre Ier du livre III.
 
 II. - Sont recherchées et constatées dans les conditions fixées par les articles L. 450-1, L. 450-2, L. 450-3, L. 450-7 et L.
 450-8, L. 470-1 et L. 470-5 du code de commerce les infractions aux dispositions prévues au code de la consommation à :
@@ -6527,7 +6532,7 @@ mise en oeuvre de ces procédures sont fixées par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 2 () JORF 2 septembre  2005
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 35 () JORF 24 mars 2006
 
 	**Cite**:
 
@@ -10995,7 +11000,7 @@ prestations de services dont le paiement est échelonné, différé ou fractionn
 
 Sont exclus du champ d'application du présent chapitre :
 
-1° Les prêts, contrats et opérations de crédit passés en la forme authentique ;
+1° Les prêts, contrats et opérations de crédit passés en la forme authentique sauf s'il s'agit de crédits hypothécaires ;
 
 2° Ceux qui sont consentis pour une durée totale inférieure ou égale à trois mois, ainsi que ceux dont le montant est
 supérieur à une somme qui sera fixée par décret ;
@@ -11029,9 +11034,9 @@ présent article du champ d'application de l'article L. 311-5.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 36 () JORF 24 mars 2006
 
 	**Cité par**:
 
@@ -12276,11 +12281,15 @@ l'article 1152 du code civil, sera fixée suivant un barème déterminé par dé
 ###### Article L311-32
 
 Aucune indemnité ni aucun coût autres que ceux qui sont mentionnés aux articles L. 311-29 à L. 311-31 ne peuvent être mis à
-la charge de l'emprunteur dans les cas de remboursement par anticipation ou de défaillance prévus par ces articles.
+la charge de l'emprunteur dans les cas de remboursement par anticipation ou de défaillance prévus par ces articles. 
 
 Toutefois, le prêteur pourra réclamer à l'emprunteur, en cas de défaillance de celui-ci, le remboursement des frais taxables
 qui lui auront été occasionnés par cette défaillance, à l'exclusion de tout remboursement forfaitaire de frais de
-recouvrement.
+recouvrement. 
+
+En cas de défaillance de l'emprunteur, seuls les modes de réalisation du gage autorisés par les articles 2346 et 2347 du code
+civil sont ouverts aux créanciers gagistes, à l'exclusion du pacte commissoire prévu à l'article 2348 qui est réputé non
+écrit.
 
 **Liens relatifs à cet article**
 
@@ -12292,18 +12301,28 @@ recouvrement.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 37 () JORF 24 mars 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 2
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L311-10 (VD)
 	  - Code de la consommation - art. L313-14-1 (VT)
 
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L311-23 (VD)
+
 	**Cite**:
 
-	  - Code de la consommation L311-29 à L311-31
+	  - Code de la consommation - art. L311-29 (VT)
+	  - Code civil - art. 2348 (V)
+	  - Code civil - art. 2446 (V)
 
 
 ##### Section 7 : Sanctions.
@@ -14080,73 +14099,7 @@ Le tribunal d'instance connaît des actions nées de l'application des articles 
 
 ##### Section 1 : Le taux d'intérêt
 
-##### Sous-section 2 : Le taux d'usure
-
-###### Article L313-3
-
-Constitue un prêt usuraire tout prêt conventionnel consenti à un taux effectif global qui excède, au moment où il est
-consenti, de plus du tiers, le taux effectif moyen pratiqué au cours du trimestre précédent par les établissements de crédit
-pour des opérations de même nature comportant des risques analogues, telles que définies par l'autorité administrative après
-avis du Comité consultatif du secteur financier.
-
-Les crédits accordés à l'occasion de ventes à tempérament sont, pour l'application de la présente section, assimilés à des
-prêts conventionnels et considérés comme usuraires dans les mêmes conditions que les prêts d'argent ayant le même objet.
-
-Les conditions de calcul et de publicité des taux effectifs moyens visés au premier alinéa sont fixées par la voie
-réglementaire.
-
-Les dispositions du présent article et celles des articles L. 313-4 à L. 313-6 ne sont pas applicables aux prêts accordés à
-une personne physique agissant pour ses besoins professionnels ou à une personne morale se livrant à une activité
-industrielle, commerciale, artisanale, agricole ou professionnelle non commerciale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-1010 du 28 décembre 1966 - art. 1 (M)
-	  - Loi n°66-1010 du 28 décembre 1966 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Modifié par**:
-
-	  - Loi n°2005-882 du 2 août 2005 - art. 7 (V) JORF 3 août 2005
-
-	**Cité par**:
-
-	  - Loi n°2005-882 du 2 août 2005 - art. 7 (V)
-	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 3 (V)
-	  - Arrêté du 24 août 2006 - art. 1 (VD)
-	  - Arrêté du 22 mars 2011 (V)
-	  - Code de la consommation - art. D313-6 (Ab)
-	  - Code de la consommation - art. L313-5 (V)
-	  - Code de la consommation - art. L313-6 (Ab)
-	  - Code monétaire et financier - art. D313-2 (V)
-	  - Code monétaire et financier - art. D548-1 (V)
-	  - Code monétaire et financier - art. L313-5 (M)
-	  - Code monétaire et financier - art. L511-6 (V)
-	  - Code monétaire et financier - art. L548-6 (VD)
-
-	**Cite**:
-
-	  - Code de la consommation L313-4 à L313-6
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L313-5 (M)
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L313-5 (VT)
-
-
-#### Chapitre III : Dispositions communes
-
-##### Section 1 : Le taux d'intérêt
-
-##### Sous-section 1 : Le taux effectif global.
+##### Sous-section 1 : Le taux effectif global
 
 ###### Article L313-1
 
@@ -14197,18 +14150,17 @@ Un décret en Conseil d'Etat déterminera les conditions d'application du prése
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la consommation - art. L313-2 (M)
-	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L313-4 (VD)
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
 
 	**Cite**:
 
 	  - Code de la consommation L312-4 à L312-8
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L313-4 (VD)
 
 	**Nouveaux textes**:
 
@@ -14241,7 +14193,7 @@ Toute infraction aux dispositions du présent article sera punie d'une amende de
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
 
 	**Liens**:
 
@@ -14253,7 +14205,67 @@ Toute infraction aux dispositions du présent article sera punie d'une amende de
 	  - Code de la consommation - art. L313-1 (M)
 
 
-##### Sous-section 2 : Le taux d'usure.
+##### Sous-section 2 : Le taux d'usure
+
+###### Article L313-3
+
+Constitue un prêt usuraire tout prêt conventionnel consenti à un taux effectif global qui excède, au moment où il est
+consenti, de plus du tiers, le taux effectif moyen pratiqué au cours du trimestre précédent par les établissements de crédit
+pour des opérations de même nature comportant des risques analogues, telles que définies par l'autorité administrative après
+avis du Comité consultatif du secteur financier.
+
+Les crédits accordés à l'occasion de ventes à tempérament sont, pour l'application de la présente section, assimilés à des
+prêts conventionnels et considérés comme usuraires dans les mêmes conditions que les prêts d'argent ayant le même objet.
+
+Les conditions de calcul et de publicité des taux effectifs moyens visés au premier alinéa sont fixées par la voie
+réglementaire.
+
+Les dispositions du présent article et celles des articles L. 313-4 à L. 313-6 ne sont pas applicables aux prêts accordés à
+une personne physique agissant pour ses besoins professionnels ou à une personne morale se livrant à une activité
+industrielle, commerciale, artisanale, agricole ou professionnelle non commerciale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°66-1010 du 28 décembre 1966 - art. 1 (M)
+	  - Loi n°66-1010 du 28 décembre 1966 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Cité par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 7 (V)
+	  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 3 (V)
+	  - Arrêté du 24 août 2006 - art. 1 (VD)
+	  - Arrêté du 22 mars 2011 (V)
+	  - Code de la consommation - art. D313-6 (Ab)
+	  - Code de la consommation - art. L313-5 (V)
+	  - Code de la consommation - art. L313-6 (Ab)
+	  - Code monétaire et financier - art. D313-2 (V)
+	  - Code monétaire et financier - art. D548-1 (V)
+	  - Code monétaire et financier - art. L313-5 (M)
+	  - Code monétaire et financier - art. L511-6 (V)
+	  - Code monétaire et financier - art. L548-6 (VD)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code de la consommation L313-4 à L313-6
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L313-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L313-5 (VT)
+
 
 ###### Article L313-4
 
@@ -14271,28 +14283,36 @@ jour où elles auront été payées.
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L313-3 (VT)
 	  - Code monétaire et financier - art. L313-5 (M)
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code de la consommation L313-1 à L313-3
+	  - Code de la consommation - art. L341-48 (V)
 
 
 ###### Article L313-5
 
 Quiconque consent à autrui un prêt usuraire ou apporte sciemment à quelque titre et de quelque manière que ce soit,
 directement ou indirectement, son concours à l'obtention ou à l'octroi d'un prêt usuraire ou d'un prêt qui deviendrait
-usuraire au sens de l'article L. 313-3 du fait de son concours est puni d'un emprisonnement de deux ans et d'une amende de
-45000 euros ou de l'une de ces deux peines seulement.
+usuraire au sens de l'article L. 313-3 du fait de son concours est puni d'un emprisonnement de deux ans et d'une amende de 45
+000 euros ou de l'une de ces deux peines seulement. 
 
 En outre, le tribunal peut ordonner :
 
@@ -14332,11 +14352,7 @@ la dernière perception, soit d'intérêt, soit de capital.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Cite**:
-
-	  - Code pénal - art. 131-35 (M)
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
 
 
 ###### Article L313-6
@@ -14357,16 +14373,20 @@ sur le taux effectif global pratiqué dans l'espèce considérée.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 67
 
 	**Cite**:
 
-	  - Code de la consommation - art. L313-3 (M)
+	  - Code de la consommation - art. L313-3
 
 
-##### Section 2 : Les cautions.
+##### Section 2 : Les sûretés personnelles
 
 ###### Article L313-7
 
@@ -14374,9 +14394,9 @@ La personne physique qui s'engage par acte sous seing privé en qualité de caut
 chapitres Ier ou II du présent titre doit, à peine de nullité de son engagement, faire précéder sa signature de la mention
 manuscrite suivante, et uniquement de celle-ci :
 
-"En me portant caution de X..., dans la limite de la somme de ... couvrant le paiement du principal, des intérêts et, le cas
+"En me portant caution de X ..., dans la limite de la somme de ... couvrant le paiement du principal, des intérêts et, le cas
 échéant, des pénalités ou intérêts de retard et pour la durée de ..., je m'engage à rembourser au prêteur les sommes dues sur
-mes revenus et mes biens si X... n'y satisfait pas lui-même".
+mes revenus et mes biens si X ... n'y satisfait pas lui-même."
 
 **Liens relatifs à cet article**
 
@@ -14389,9 +14409,18 @@ mes revenus et mes biens si X... n'y satisfait pas lui-même".
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance 2006-346 2006-03-23 art. 38 I, II JORF 24 mars 2006
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L314-15 (V)
 
 
 ###### Article L313-8
@@ -14400,8 +14429,8 @@ Lorsque le créancier demande un cautionnement solidaire pour l'une des opérati
 titre, la personne physique qui se porte caution doit, à peine de nullité de son engagement, faire précéder sa signature de
 la mention manuscrite suivante :
 
-"En renonçant au bénéfice de discussion défini à l'article 2021 du code civil et en m'obligeant solidairement avec X..., je
-m'engage à rembourser le créancier sans pouvoir exiger qu'il poursuive préalablement X...".
+"En renonçant au bénéfice de discussion défini à l'article 2298 du code civil et en m'obligeant solidairement avec X ..., je
+m'engage à rembourser le créancier sans pouvoir exiger qu'il poursuive préalablement X ...".
 
 **Liens relatifs à cet article**
 
@@ -14412,15 +14441,24 @@ m'engage à rembourser le créancier sans pouvoir exiger qu'il poursuive préala
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance 2006-346 2006-03-23 art. 38 I, II JORF 24 mars 2006
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L314-16 (V)
 
 	**Cite**:
 
-	  - Code civil - art. 2021 (T)
+	  - Code civil - art. 2298
 
 
 ###### Article L313-9
@@ -14443,13 +14481,22 @@ la date de ce premier incident et celle à laquelle elle en a été informée.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance 2006-346 2006-03-23 art. 38 I, II JORF 24 mars 2006
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L314-17 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L333-4 (M)
+	  - Code de la consommation - art. L333-4
 
 
 ###### Article L313-10
@@ -14472,16 +14519,45 @@ appelée, ne lui permette de faire face à son obligation.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance 2006-346 2006-03-23 art. 38 I, II JORF 24 mars 2006
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
 
 	**Cité par**:
 
 	  - Ordonnance n°2013-792 du 30 août 2013 - art. 18 (V)
 
 
-##### Section 3 : Rémunération du vendeur.
+###### Article L313-10-1
+
+La garantie autonome définie à l'article 2321 du code civil ne peut être souscrite à l'occasion d'un crédit relevant des
+chapitres Ier et II du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 39 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L314-19 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 2321
+
+
+##### Section 3 : Rémunération du vendeur
 
 ###### Article L313-11
 
@@ -14500,16 +14576,16 @@ du crédit qu'il a fait contracter à l'acheteur d'un bien mobilier ou immobilie
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
 
 	**Cité par**:
 
 	  - Code de la consommation - art. R313-10 (Ab)
 
 
-##### Section 4 : Délais de grâce.
+##### Section 4 : Délais de grâce
 
 ###### Article L313-12
 
@@ -14534,9 +14610,9 @@ remboursement du prêt ; il peut cependant surseoir à statuer sur ces modalité
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
 
 	**Cité par**:
 
@@ -14549,28 +14625,37 @@ remboursement du prêt ; il peut cependant surseoir à statuer sur ces modalité
 	  - Code civil 1244-1 à 1244-3
 
 
-##### Section 5 : Lettres de change et billets à ordre.
+##### Section 5 : Lettres de change et billets à ordre
 
 ###### Article L313-13
 
 Les dispositions de l'article L511-5 du code de commerce sont applicables aux lettres de change et billets à ordre souscrits
 ou avalisés par les emprunteurs même majeurs à l'occasion des opérations de crédit régies par le présent titre à l'exception
-des sections 2,4,6 et 7 du chapitre II et des sections 1,3 et 4 à 8 du présent chapitre.
+des sections 2, 4, 6 et 7 du chapitre II et des sections 1, 3 et 4 à 8 du présent chapitre.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°78-22 du 10 janvier 1978 - art. 17 (Ab)
+	  - Loi n°79-596 1979-07-13 art. 35
 	  - Loi n°79-596 du 13 juillet 1979 - art. 35 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 1 (V)
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de commerce - art. L511-5 (V)
+	  - Code de commerce - art. L511-5
 
 	**Cité par**:
 
@@ -14578,8 +14663,121 @@ des sections 2,4,6 et 7 du chapitre II et des sections 1,3 et 4 à 8 du présent
 	  - Code de la consommation - art. Annexe Modèle type n°4 (V)
 	  - Code de la consommation - art. L311-10 (VD)
 
+	**Nouveaux textes**:
 
-##### Section 7 : Textes d'application.
+	  - Code de la consommation - art. L314-21 (V)
+
+
+##### Section 6 : Crédit garanti par une hypothèque rechargeable
+
+###### Article L313-14
+
+Les dispositions de la présente section s'appliquent aux opérations de crédit consenties à titre habituel par toute personne
+physique ou morale relevant soit des dispositions du chapitre Ier relatif au crédit à la consommation, soit des dispositions
+du chapitre II relatif au crédit immobilier du présent titre et garanties par une hypothèque rechargeable au sens de
+l'article 2422 du code civil.
+
+Les opérations mentionnées à l'article L. 311-9 ne peuvent donner lieu à un crédit garanti par une hypothèque rechargeable.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°78-22 du 10 janvier 1978 - art. 26 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 40 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code de la consommation - art. L311-9 (M)
+	  - Code civil - art. 2422 (V)
+
+
+###### Article L313-14-1
+
+Est annexé à l'offre préalable de crédit un document intitulé "situation hypothécaire" dont un exemplaire est remis à
+l'emprunteur dans les mêmes conditions que le contrat de crédit lui-même.
+
+Ce document comporte :
+
+1° La mention de la durée de l'inscription hypothécaire ;
+
+2° L'identification du bien immobilier, objet de la garantie, et sa valeur estimée à la date de la convention constitutive
+d'hypothèque ;
+
+3° Le montant maximal garanti prévu par la convention constitutive d'hypothèque ;
+
+4° Le montant de l'emprunt initial souscrit ;
+
+5° Le cas échéant, le montant du ou des emprunts ultérieurement souscrits ;
+
+6° Une évaluation par le prêteur du coût du rechargement de l'hypothèque garantissant le ou les nouveaux crédits ;
+
+7° Une évaluation par le prêteur du coût total de l'hypothèque ;
+
+8° La mention que, sans préjudice de l'application des articles L. 311-30 et L. 311-32, s'il s'agit d'un crédit à la
+consommation, ou des articles L. 312-22 et L. 312-23, s'il s'agit d'un crédit immobilier, la défaillance de l'emprunteur peut
+entraîner la vente du bien hypothéqué selon les dispositions des articles 2464 et suivants du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 40 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code de la consommation - art. L311-30 (V)
+	  - Code de la consommation - art. L311-32 (M)
+	  - Code de la consommation - art. L312-22 (V)
+	  - Code de la consommation - art. L312-23 (V)
+	  - Code civil - art. 2464 (M)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L313-14-2 (VT)
+
+
+###### Article L313-14-2
+
+Le fait pour le prêteur d'accorder un prêt garanti par une hypothèque rechargeable sans saisir l'emprunteur d'une offre
+préalable de crédit accompagnée d'un document satisfaisant aux conditions fixées par l'article L. 313-14-1 est puni d'une
+amende de 3 750 euros.
+
+En outre, le prêteur est déchu du droit aux intérêts et l'emprunteur n'est tenu qu'au seul remboursement du capital suivant
+l'échéancier prévu. Les sommes perçues au titre des intérêts sont restituées par le prêteur ou imputées sur le capital
+restant dû ; elles sont productives d'intérêt au taux légal du jour de leur versement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 40 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 46 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L313-14-1
+
+
+##### Section 7 : Textes d'application
 
 ###### Article L313-15
 
@@ -14610,9 +14808,13 @@ que de besoin, être fixé par le comité de la réglementation bancaire.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 22
 
 	**Cite**:
 
@@ -14620,8 +14822,12 @@ que de besoin, être fixé par le comité de la réglementation bancaire.
 	  - Code de la consommation - art. L312-7 (V)
 	  - Code de la consommation - art. L312-8 (M)
 
+	**Nouveaux textes**:
 
-##### Section 8 : Dispositions d'ordre public.
+	  - Code de la consommation - art. L313-16 (VD)
+
+
+##### Section 8 : Dispositions d'ordre public
 
 ###### Article L313-16
 
@@ -14638,9 +14844,692 @@ Les dispositions des chapitres Ier et II et des sections 2 à 8 du chapitre III 
 
 	  - Loi n°93-949 1993-07-26
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 22
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L313-17 (VD)
+
+
+#### Chapitre IV : Prêt viager hypothécaire
+
+##### Section 1 : Définition et champ d'application
+
+###### Article L314-1
+
+Le prêt viager hypothécaire est un contrat par lequel un établissement de crédit ou un établissement financier consent à une
+personne physique un prêt sous forme d'un capital ou de versements périodiques, garanti par une hypothèque constituée sur un
+bien immobilier de l'emprunteur à usage exclusif d'habitation et dont le remboursement - principal et intérêts - ne peut être
+exigé qu'au décès de l'emprunteur ou lors de l'aliénation ou du démembrement de la propriété de l'immeuble hypothéqué s'ils
+surviennent avant le décès.
+
+Son régime est déterminé par les dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
 	**Créé par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Code civil - art. 2432 (V)
+	  - Code civil - art. 2434 (V)
+	  - Code de la consommation - art. L121-20-12 (T)
+	  - Code de la consommation - art. L121-29 (VT)
+	  - Code de la consommation - art. L314-3 (M)
+	  - Code monétaire et financier - art. R519-2 (V)
+
+
+###### Article L314-2
+
+A peine de nullité, le prêt viager hypothécaire ne peut être destiné à financer les besoins d'une activité professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L315-3 (V)
+	  - Code de la consommation - art. L341-53 (V)
+
+
+##### Section 2 : Pratiques commerciales
+
+###### Article L314-3
+
+Toute publicité faite, reçue ou perçue en France qui, quel que soit son support, porte sur une opération de prêt viager
+hypothécaire défini à l'article L. 314-1, est loyale et informative.
+
+A ce titre, elle doit mentionner :
+
+1° L'identité du prêteur, la nature de l'opération proposée, son coût total et le taux effectif global, à l'exclusion de tout
+autre taux, calculé par tranches de cinq ans, ainsi que les perceptions forfaitaires ;
+
+2° Les modalités du terme de l'opération proposée.
+
+Elle reproduit les deux premiers alinéas de l'article L. 314-7.
+
+Lorsque la publicité est écrite et quel qu'en soit le support, les informations relatives à la nature de l'opération, aux
+conditions de détermination du taux effectif global et, s'il s'agit d'un taux promotionnel, à la période durant laquelle ce
+taux s'applique, doivent figurer dans une taille de caractères au moins aussi importante que celle utilisée pour indiquer
+toute autre information relative aux caractéristiques du financement et s'inscrire dans le corps principal du texte
+publicitaire.
+
+Sont interdites dans toute publicité :
+
+1° La mention qu'un prêt peut être octroyé sans élément d'information permettant d'apprécier la situation financière et
+patrimoniale de l'emprunteur ;
+
+2° L'indication de la ressource supplémentaire qu'offre le prêt si elle n'est suivie d'une information sur les modalités du
+terme de l'opération telles que prévues par les articles L. 314-13 et L. 314-14.
+
+L'offre préalable de crédit doit être distincte de tout support ou document publicitaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code de la consommation - art. L314-1 (V)
+	  - Code de la consommation - art. L314-13 (V)
+	  - Code de la consommation - art. L314-14 (V)
+	  - Code de la consommation - art. L314-7 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L314-16 (V)
+
+
+###### Article L314-4
+
+Une opération de prêt viager hypothécaire ne peut faire l'objet d'un démarchage au sens du septième alinéa de l'article L.
+341-1 du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L314-18 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L315-8 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L341-1
+
+
+##### Section 3 : Le contrat de crédit
+
+###### Article L314-5
+
+L'opération de prêt viager hypothécaire est conclue dans les termes d'une offre préalable comportant les mentions suivantes :
+
+1° L'identité des parties et la date d'acceptation de l'offre ;
+
+2° La désignation exacte du bien hypothéqué, conforme aux exigences de la publicité foncière ;
+
+3° La valeur du bien hypothéqué estimée par un expert choisi par les parties et les frais afférents à l'expertise mis à la
+charge de l'emprunteur ;
+
+4° La nature du prêt ;
+
+5° Les modalités du prêt et, notamment, les dates et les conditions de mise à disposition des fonds ;
+
+6° En cas de versements échelonnés du capital, l'échéancier des versements périodiques distinguant la part du capital de
+celle des intérêts accumulés sur ces sommes durant la durée prévisionnelle du prêt et permettant à l'emprunteur de connaître
+le moment où il aura épuisé l'actif net de son logement ;
+
+7° Lorsque le capital est versé en une seule fois, un état des intérêts accumulés sur ces sommes durant la durée
+prévisionnelle du prêt, permettant à l'emprunteur de connaître le moment où il aura épuisé l'actif net de son logement ;
+
+8° A partir d'exemples représentatifs établis en fonction d'hypothèses relatives, notamment, à la durée du prêt, le coût
+global du crédit, le taux effectif global défini conformément à l'article L. 313-1 ainsi que, s'il y a lieu, les modalités de
+l'indexation ;
+
+9° La durée de validité de l'offre.
+
+L'offre reproduit les dispositions des articles L. 314-6 à L. 314-9 et L. 314-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code de la consommation - art. L313-1 (M)
+	  - Code de la consommation - art. L314-13 (V)
+	  - Code de la consommation L313-1, L314-6 à L314-9, L314-13
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L314-15 (VT)
+	  - Code de la consommation - art. L314-16 (V)
+
+
+###### Article L314-6
+
+La remise de l'offre oblige le prêteur à maintenir les conditions qu'elle comporte pendant une durée minimale de trente jours
+à compter de son émission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L314-15 (VT)
+	  - Code de la consommation - art. L314-16 (VT)
+	  - Code de la consommation - art. L314-5 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L315-10 (V)
+
+
+###### Article L314-7
+
+A peine de nullité du contrat, l'acceptation de l'offre ne peut intervenir que dix jours après sa réception par l'emprunteur.
+Elle fait alors l'objet d'un acte notarié.
+
+Jusqu'à l'acceptation de l'offre par l'emprunteur, aucun versement sous quelque forme que ce soit ne peut être fait, au titre
+de l'opération en cause, par le prêteur à l'emprunteur ou pour le compte de celui-ci, ni par l'emprunteur au prêteur.
+
+Jusqu'à cette acceptation, l'emprunteur ne peut, au même titre, faire aucun dépôt, souscrire ou avaliser aucun effet de
+commerce ou signer aucun chèque. Si une autorisation de prélèvement sur compte bancaire ou postal est signée par
+l'emprunteur, sa validité et sa prise d'effet sont subordonnées à celle du contrat de crédit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L314-15 (VT)
+	  - Code de la consommation - art. L314-16 (V)
+	  - Code de la consommation - art. L314-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L315-11 (V)
+	  - Code de la consommation - art. L341-55 (V)
+
+
+###### Article L314-8
+
+L'emprunteur doit apporter à l'immeuble hypothéqué tous les soins d'un bon père de famille.
+
+Ainsi qu'il est dit à l'article 1188 du code civil, le débiteur ne peut plus réclamer le bénéfice du terme lorsque par son
+fait, il a diminué la valeur de la sûreté qu'il avait donnée par le contrat à son créancier.
+
+Le débiteur perd également le bénéfice du terme lorsqu'il change l'affectation du bien hypothéqué ou lorsqu'il refuse au
+créancier l'accès de l'immeuble hypothéqué pour s'assurer de son bon état d'entretien et de conservation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 1188 (M)
+
+
+##### Section 4 : Plafonnement de la dette
+
+###### Article L314-9
+
+La dette de l'emprunteur ou de ses ayants droit ne peut jamais excéder la valeur de l'immeuble appréciée lors de l'échéance
+du terme.
+
+Lorsque le créancier hypothécaire met en jeu sa garantie à l'échéance du terme, si la dette est alors inférieure à la valeur
+de l'immeuble, la différence entre cette valeur et le montant de la créance est versée, selon le cas, à l'emprunteur ou à ses
+héritiers.
+
+En cas d'aliénation du bien, la valeur de l'immeuble est égale à la valeur indiquée dans l'acte de cession sous réserve des
+dispositions de l'article L. 314-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L314-14
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L314-17 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L315-15 (V)
+
+
+##### Section 5 : Remboursement anticipé
+
+###### Article L314-10
+
+L'emprunteur peut toujours, à son initiative, mettre un terme au contrat de prêt qui lui a été consenti en remboursant la
+totalité des sommes déjà versées en principal et intérêts.
+
+Si l'emprunteur a opté pour un versement du capital en une seule fois, il peut, à son initiative, rembourser une partie des
+sommes versées. Toutefois, le prêteur peut refuser un remboursement partiel inférieur à un montant fixé par décret en Conseil
+d'Etat.
+
+Dans les cas de remboursement prévus aux deux premiers alinéas, le prêteur est en droit d'exiger une indemnité qui ne peut,
+sans préjudice de l'application de l'article 1152 du code civil, excéder un montant qui, dépendant de la durée du contrat
+déjà réalisée, est fixée selon des modalités déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R*314-1 (Ab)
+	  - Code de la consommation - art. R*314-2 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 1152 (M)
+
+
+###### Article L314-11
+
+Le remboursement anticipé ne peut donner lieu à aucune indemnité ni à aucun coût à la charge de l'emprunteur autres que ceux
+qui sont mentionnés à l'article L. 314-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L314-10 (VT)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L314-17 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L315-18 (V)
+
+
+###### Article L314-12
+
+L'emprunteur peut, en cas de versements périodiques du capital, demander une suspension ou une modification de l'échéancier
+des versements. Ces aménagements se font au taux conventionnel défini au contrat principal et donnent lieu à l'établissement
+d'un nouvel état des versements périodiques et des intérêts accumulés sur ces sommes pour la durée prévisionnelle du prêt
+restant à courir. La part du capital et celle des intérêts doivent apparaître de manière distincte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+
+##### Section 6 : Terme de l'opération
+
+###### Article L314-13
+
+Lors du décès de l'emprunteur ou du dernier vivant des co-emprunteurs, les héritiers peuvent payer la dette plafonnée à la
+valeur de l'immeuble estimée au jour de l'ouverture de la succession. Il est procédé à cette estimation en tant que de besoin
+par un expert choisi d'un commun accord par le créancier et l'emprunteur ou désigné sur requête.
+
+A défaut et nonobstant les règles applicables en matière d'acceptation sous bénéfice d'inventaire, le créancier hypothécaire
+peut à son choix :
+
+- poursuivre la saisie et la vente de l'immeuble dans les conditions du droit commun, auquel cas la dette est plafonnée au
+prix de la vente ;
+
+- ou se voir attribuer la propriété de l'immeuble par décision judiciaire ou en vertu d'un pacte commissoire alors même que
+celui-ci constituait la résidence principale de l'emprunteur.
+
+Le créancier hypothécaire dispose de la même option en cas de succession vacante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L314-3 (VT)
+	  - Code de la consommation - art. L314-5 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L315-20 (V)
+
+
+###### Article L314-14
+
+En cas d'aliénation de l'immeuble par l'emprunteur ou ses héritiers, le projet de cession est notifié au créancier
+hypothécaire.
+
+En cas de contestation par celui-ci de la valeur de l'immeuble retenue dans l'acte de cession, il est procédé à l'estimation
+du bien par un expert choisi d'un commun accord par le créancier et l'emprunteur ou désigné sur requête.
+
+Si la valeur de l'immeuble s'avère finalement inférieure à cette estimation, la créance du prêteur est alors plafonnée :
+
+- soit au prix d'adjudication de l'immeuble si le créancier hypothécaire fait procéder à la saisie et à la vente du bien en
+vertu de son droit de suite ;
+
+- soit à la valeur d'expertise de l'immeuble si le créancier hypothécaire demande l'attribution judiciaire du bien ou se
+prévaut du pacte commissoire par lui conclu.
+
+Les dispositions du présent article s'appliquent également au démembrement de la propriété de l'immeuble hypothéqué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L314-3 (M)
+	  - Code de la consommation - art. L314-9 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L315-21 (V)
+
+
+##### Section 7 : Sanctions
+
+###### Article L314-15
+
+Le fait pour le prêteur d'accorder un prêt viager hypothécaire sans saisir l'emprunteur d'une offre préalable conforme à
+l'article L. 314-5 ou dans des conditions non conformes aux articles L. 314-6 et L. 314-7 peut entraîner déchéance du droit
+aux intérêts en totalité ou dans la proportion fixée par le juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L314-5
+	  - Code de la consommation - art. L314-6
+	  - Code de la consommation - art. L314-7 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L341-54 (V)
+
+
+###### Article L314-16
+
+Le fait pour le prêteur d'accorder un prêt viager hypothécaire sans saisir l'emprunteur d'une offre préalable conforme à
+l'article L. 314-5 ou dans des conditions non conformes aux articles L. 314-6 et L. 314-7 est puni d'une amende de 3 750
+euros.
+
+La même peine est applicable à l'annonceur pour le compte duquel est diffusée une publicité non conforme aux dispositions de
+l'article L. 314-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code de la consommation - art. L314-3 (V)
+	  - Code de la consommation - art. L314-5 (V)
+	  - Code de la consommation - art. L314-6 (V)
+	  - Code de la consommation - art. L314-7 (V)
+
+
+###### Article L314-17
+
+Le fait pour le prêteur de ne pas restituer les sommes dues, en application de l'article L. 314-9, à l'échéance du terme
+lorsque la dette est inférieure à la valeur de l'immeuble ou de réclamer à l'emprunteur des sommes supérieures à celles dont
+il est autorisé à demander le versement en application de l'article L. 314-11 est puni d'une amende de 30 000 euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code de la consommation - art. L314-11 (V)
+	  - Code de la consommation - art. L314-9 (V)
+
+
+###### Article L314-18
+
+Le non-respect des dispositions de l'article L. 314-4 est puni de cinq ans d'emprisonnement et de 375 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L314-19 (VT)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L314-4 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L341-61 (V)
+
+
+###### Article L314-19
+
+Les personnes coupables du délit prévu à l'article L. 314-18 encourent également les peines complémentaires suivantes :
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 du code
+pénal ;
+
+2° L'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, d'exercer une fonction publique ou
+d'exercer une activité professionnelle ou sociale dans l'exercice ou à l'occasion de laquelle l'infraction a été commise,
+pour une durée de cinq ans au plus ;
+
+3° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L314-18 (VT)
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-35
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L341-61 (V)
+
+
+##### Section 8 : Textes d'application
+
+###### Article L314-20
+
+Les modalités d'application des dispositions du présent chapitre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
 ### Titre II : Activité d'intermédiaire
@@ -16975,23 +17864,31 @@ sur mes revenus et mes biens si X... n'y satisfait pas lui-même."
 
 Lorsque le créancier professionnel demande un cautionnement solidaire, la personne physique qui se porte caution doit, à
 peine de nullité de son engagement, faire précéder sa signature de la mention manuscrite suivante : "En renonçant au bénéfice
-de discussion défini à l'article 2021 du code civil et en m'obligeant solidairement avec X..., je m'engage à rembourser le
+de discussion défini à l'article 2298 du code civil et en m'obligeant solidairement avec X..., je m'engage à rembourser le
 créancier sans pouvoir exiger qu'il poursuive préalablement X...".
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-721 du 1 août 2003 - art. 11 () JORF 5 août 2003 en vigueur le 5 février 2004
-	  - Loi n°2003-721 du 1 août 2003 - art. 12 () JORF 5 août 2003 en vigueur le 5 février 2004
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L331-2 (V)
+	  - Code de la consommation - art. L343-2 (V)
 
 	**Cite**:
 
-	  - Code civil - art. 2021 (T)
+	  - Code civil - art. 2298
 
 
 ###### Article L341-4
