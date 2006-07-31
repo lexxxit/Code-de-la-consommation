@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2006-07-16
+Version Consolidée au 2006-08-01
 
 # Partie législative
 
@@ -23107,11 +23107,12 @@ La récidive de cette même contravention est réprimée conformément à l'arti
 La commission de la sécurité des consommateurs comprend, outre son président, quinze membres, nommés par arrêté du ministre
 chargé de la consommation après avis des ministres intéressés :
 
-1° Un membre du Conseil d'Etat, proposé par l'assemblée générale du Conseil d'Etat ;
+1° Un magistrat de l'ordre judiciaire, proposé par l'assemblée générale de la Cour de cassation ;
 
-2° Un magistrat de l'ordre judiciaire, proposé par l'assemblée générale de la Cour de cassation ;
+2° Un membre de la Cour des comptes, proposé par l'ensemble des magistrats qui la composent ;
 
-3° Un membre de la Cour des comptes, proposé par l'ensemble des magistrats qui la composent ;
+3° Une personnalité qualifiée dans le droit de la consommation issue du monde universitaire, nommée par le ministre chargé de
+la consommation ;
 
 4° Trois membres des organisations nationales de consommateurs, choisis sur une liste de neuf noms proposée par le collège
 des consommateurs du Conseil national de la consommation ;
@@ -23137,9 +23138,9 @@ national de l'ordre des médecins.
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2006-665 du 7 juin 2006 - art. 55 () JORF 8 juin 2006 en vigueur le 1er août 2006
 
 
 ###### Article R224-2
@@ -23183,8 +23184,8 @@ mandat restant à courir.
 Si cette durée est inférieure à dix-huit mois, le mandat ainsi accompli par le successeur n'est pas pris en compte pour
 l'application de la règle selon laquelle les mandats ne sont renouvelables qu'une fois.
 
-En cas d'absence ou d'empêchement, le président est remplacé par le membre du Conseil d'Etat ou, à défaut, par le magistrat
-de l'ordre judiciaire ou, à défaut, par le membre de la Cour des comptes.
+En cas d'absence ou d'empêchement, le président est remplacé par le magistrat de l'ordre judiciaire ou, à défaut, par le
+membre de la Cour des comptes.
 
 **Liens relatifs à cet article**
 
@@ -23196,13 +23197,17 @@ de l'ordre judiciaire ou, à défaut, par le membre de la Cour des comptes.
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2006-665 du 7 juin 2006 - art. 55 () JORF 8 juin 2006 en vigueur le 1er août 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 10
 
 	**Cite**:
 
-	  - Code de la consommation R224-1
+	  - Code de la consommation
 
 
 ###### Article R224-4
@@ -25909,12 +25914,17 @@ que les personnes habilitées à les représenter.
 Pour chaque commission, le préfet nomme par arrêté, pour une durée d'un an renouvelable, une personnalité et son suppléant
 qu'il choisit sur une liste départementale, comprenant quatre noms, qui lui est transmise par l'Association française des
 établissements de crédit et des entreprises d'investissement, ainsi qu'une personnalité et son suppléant proposés, dans les
-mêmes conditions, par les associations familiales ou de consommateurs siégeant au comité départemental de la consommation
-défini à l'article R. 512-1.
+mêmes conditions, par les associations familiales ou de consommateurs qui, pour ces dernières, justifient d'un agrément au
+titre de l'article L. 411-1 du code de la consommation, soit par arrêté du préfet de département, soit par leur affiliation à
+une association nationale elle-même agréée.
 
 S'il constate l'absence de l'une de ces personnalités et de son suppléant à trois séances consécutives de la commission, le
 préfet peut mettre fin à leur mandat avant l'expiration de la période d'un an. Il nomme alors une autre personnalité et un
 suppléant choisis sur la même liste.
+
+**Nota:**
+
+Décret 2006-665 2006-06-07 art. 61 : Spécificité d'application.
 
 **Liens relatifs à cet article**
 
@@ -25924,16 +25934,16 @@ suppléant choisis sur la même liste.
 
 	**Modifié par**:
 
-	  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
+	  - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
+
+	**Cite**:
+
+	  - Code de la consommation - art. L411-1 (V)
 
 	**Cité par**:
 
 	  - Code de la consommation - art. R336-1 (Ab)
 	  - Code de la consommation - art. R336-4 (VD)
-
-	**Cite**:
-
-	  - Code de la consommation R512-1
 
 
 ###### Article R331-5
@@ -29170,40 +29180,6 @@ de la consommation).
 	**Modifié par**:
 
 	  - Décret n°2005-249 du 14 mars 2005 - art. 7 () JORF 18 mars 2005
-
-
-#### Chapitre II : Les comités départementaux de la consommation.
-
-###### Article R512-1
-
-Dans chaque département un arrêté préfectoral crée un comité de la consommation qui comprend pour moitié des représentants
-des consommateurs et pour moitié des représentants des activités économiques. Il est présidé par le préfet ou son
-représentant. Un arrêté du ministre chargé de l'économie et des finances en fixe les règles de composition et de
-fonctionnement.
-
-Le comité peut émettre des avis et des voeux sur les questions de consommation, de concurrence et de formation des prix.
-
-**Nota:**
-
-NOTA : Décret 2006-665 2006-06-07 art. 61 : Spécificité d'application.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-1309 1986-12-29 art. 34
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
 
 
 ### Titre II : Les organes de coordination administrative.
