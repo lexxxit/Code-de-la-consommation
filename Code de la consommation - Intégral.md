@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2006-10-06
+Version Consolidée au 2006-11-01
 
 # Partie législative
 
@@ -29778,30 +29778,26 @@ président en cours de mandat, un successeur est élu dans les mêmes conditions
 ###### Article R531-6
 
 Les fonctions de membre du conseil d'administration sont gratuites. Elles ouvrent droit aux indemnités de déplacement et de
-séjour prévues par le décret n° 90-437 du 28 mai 1990 fixant les conditions et les modalités de règlement des frais
-occasionnés par les déplacements des personnels civils sur le territoire métropolitain de la France lorsqu'ils sont à la
-charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de certains organismes
-subventionnés.
-
-**Nota:**
-
-Décret 2006-781 2006-07-03 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires, des
-décrets des 12 mars 1986,12 avril 1989,28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celle du présent
-décret à compter du 1er novembre 2006.
+séjour prévues par le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais
+occasionnés par les déplacements temporaires des personnels civils de l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°90-437 1990-05-28
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°2006-781 du 3 juillet 2006
 
 	**Modifié par**:
 
-	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
+	  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-6 (V)
 
 
 ###### Article R531-7
