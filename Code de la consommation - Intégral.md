@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2006-11-01
+Version Consolidée au 2006-12-08
 
 # Partie législative
 
@@ -26006,6 +26006,86 @@ est supérieur ou égal à 5, le chiffre de cette décimale particulière sera a
 	**Créé par**:
 
 	  - Décret n°2002-927 2002-06-10 annexe JORF 11 juin 2002 en vigueur le 1er juillet 2002
+
+
+#### Chapitre IV : Prêt viager hypothécaire
+
+###### Article R*314-1
+
+Le montant prévu au deuxième alinéa de l'article L. 314-10 du code de la consommation, en dessous duquel le prêteur est en
+droit de refuser un remboursement partiel anticipé du prêt par l'emprunteur, est fixé à 10 % du capital versé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2006-1540 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L314-10
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R315-1 (V)
+
+
+###### Article R*314-2
+
+L'indemnité éventuellement due par l'emprunteur, prévue au troisième alinéa de l'article L. 314-10 du même code, ne peut être
+supérieure à un montant correspondant aux modalités suivantes : 
+
+1° Lorsque le montant en capital du prêt est versé en une seule fois : 
+
+a) Quatre mois d'intérêts sur le capital à rembourser, au taux d'intérêt du prêt figurant dans le contrat de prêt, si la
+demande de remboursement par anticipation intervient entre la première année du prêt et la fin de la quatrième année ; 
+
+b) Deux mois d'intérêts sur le capital à rembourser, au taux d'intérêt du prêt figurant dans le contrat de prêt, si la
+demande de remboursement par anticipation intervient entre la cinquième année du prêt et jusqu'à la fin de la neuvième
+année ; 
+
+c) Un mois d'intérêts sur le capital à rembourser, au taux d'intérêt du prêt figurant dans le contrat de prêt, si la demande
+de remboursement intervient à partir de la dixième année ; 
+
+2° Lorsque le montant en capital du prêt est versé périodiquement : 
+
+a) 5/12 des versements dus au titre de la première année, si la demande de remboursement par anticipation intervient entre la
+date du premier versement du prêt et la fin de la quatrième année ; 
+
+b) 3/12 de la totalité des versements effectués la première année, si la demande de remboursement par anticipation intervient
+entre la cinquième année du prêt et jusqu'à la fin de la neuvième année ; 
+
+c) 2/12 de la totalité des versements effectués la première année, si la demande de remboursement intervient à partir de la
+dixième année. 
+
+L'année de référence prévue au présent article correspond à une période de 12 mois à compter du versement ou du premier
+versement en capital du contrat de prêt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2006-1540 du 6 décembre 2006 - art. 1 () JORF 8 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L314-10
 
 
 ### Titre III : Traitement des situations de surendettement
