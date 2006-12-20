@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2006-12-08
+Version Consolidée au 2006-12-21
 
 # Partie législative
 
@@ -21950,6 +21950,44 @@ proposition, au terme du délai imparti, ou n'aurait pas satisfait aux autres ob
 	**Cité par**:
 
 	  - Code de la consommation - art. R143-1 (Ab)
+
+
+###### Article R141-4
+
+L'autorité administrative chargée de la concurrence et de la consommation mentionnée au V de l'article L. 141-1 est au sein
+de la direction générale de la concurrence, de la consommation et de la répression des fraudes le directeur régional ou le
+chef d'unité départementale territorialement compétents. Ces derniers peuvent donner mandat à un agent de catégorie A pour
+déposer et développer des conclusions à l'audience.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2006-1632 du 19 décembre 2006 - art. 1 () JORF 21 décembre 2006
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. R311-12 (VD)
+
+
+###### Article R141-5
+
+Lorsqu'elle agit en application du V de l'article L. 141-1, l'autorité administrative est dispensée de ministère d'avocat ou
+d'avoué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2006-1632 du 19 décembre 2006 - art. 1 () JORF 21 décembre 2006
 
 
 #### Chapitre II : Procédures civiles simplifiées
