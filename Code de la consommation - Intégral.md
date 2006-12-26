@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2006-12-21
+Version Consolidée au 2006-12-27
 
 # Partie législative
 
@@ -30313,8 +30313,7 @@ b) Trois représentants du comité de coordination des collectivités ;
 6° Cinq représentants des syndicats de salariés de l'agriculture, de l'agroalimentaire et de la distribution des produits
 alimentaires ;
 
-7° Le président et les deux vice-présidents de la section de la sécurité alimentaire et de la section de la nutrition et de
-l'hygiène de vie, du Conseil supérieur d'hygiène publique de France ;
+7° Le directeur général de l'Agence française de sécurité sanitaire des aliments ou son représentant ;
 
 8° Le directeur de l'Institut national de la recherche agronomique ou son représentant ;
 
@@ -30328,7 +30327,9 @@ représentant ;
 12° Le directeur de l'Institut national de la consommation ou son représentant ;
 
 13° Six personnalités scientifiques qualifiées nommées conjointement par le ministre de l'agriculture, le ministre chargé de
-la santé et le ministre chargé de la consommation.
+la santé et le ministre chargé de la consommation ;
+
+14° Deux personnalités qualifiées nommées sur proposition du président du Haut Conseil de la santé publique.
 
 En outre, assistent de plein droit aux séances du conseil les représentants des ministres chargés des départements suivants :
 
@@ -30350,6 +30351,12 @@ En outre, assistent de plein droit aux séances du conseil les représentants de
 
 - économie et finances.
 
+**Nota:**
+
+Décret n° 2009-626 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Conseil
+national de l'alimentation).
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -30360,9 +30367,9 @@ En outre, assistent de plein droit aux séances du conseil les représentants de
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2006-1677 du 22 décembre 2006 - art. 2 () JORF 27 décembre 2006
 
 	**Cité par**:
 
