@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-03-06
 
 # Partie législative
 
@@ -15835,6 +15835,41 @@ matière de recevabilité et d'orientation du dossier.
 	  - Code de la consommation - art. L331-7-1 (M)
 
 
+###### Article L331-3-1
+
+La saisine du juge aux fins de rétablissement personnel emporte suspension des voies d'exécution, y compris des mesures
+d'expulsion du logement du débiteur, jusqu'au jugement d'ouverture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Cité par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 61 (Ab)
+	  - Code de la consommation - art. L331-5 (VD)
+	  - Code de la consommation - art. R331-10 (Ab)
+	  - Code de la consommation - art. R331-10-1 (Ab)
+	  - Code de la consommation - art. R331-11 (Ab)
+	  - Code de la consommation - art. R331-11-2 (Ab)
+	  - Code de la consommation - art. R331-11-3 (Ab)
+	  - Code de la construction et de l'habitation. - art. L351-14-1 (V)
+	  - Code de la construction et de l'habitation. - art. L353-15-2 (V)
+	  - Code de la construction et de l'habitation. - art. L442-6-5 (V)
+	  - Code de la sécurité sociale. - art. D542-22-5 (VD)
+	  - Code de la sécurité sociale. - art. L542-7-1 (VD)
+	  - Code de la sécurité sociale. - art. L831-8 (VT)
+	  - Code de la sécurité sociale. - art. R831-21-5 (VD)
+	  - Code des procédures civiles d'exécution - art. R322-28 (M)
+	  - Code monétaire et financier - art. R312-4-3 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 71 () JORF 6 mars 2007
+
+
 ###### Article L331-4
 
 La commission informe le débiteur de l'état du passif qu'elle a dressé. Le débiteur qui conteste cet état dispose d'un délai
@@ -16113,17 +16148,21 @@ La demande du débiteur formée en application du premier alinéa interrompt la 
 
 Lorsque la commission constate, sans retenir son caractère irrémédiable, l'insolvabilité du débiteur caractérisée par
 l'absence de ressources ou de biens saisissables de nature à permettre d'apurer tout ou partie de ses dettes et rendant
-inapplicables les mesures prévues à l'article L. 331-7, elle peut recommander la suspension de l'exigibilité des créances
-autres qu'alimentaires pour une durée qui ne peut excéder deux ans. Sauf proposition contraire de la commission, la
+inapplicables les mesures prévues à l'article L. 331-7, elle peut soit recommander la suspension de l'exigibilité des
+créances autres qu'alimentaires pour une durée qui ne peut excéder deux ans soit, par une proposition spéciale et motivée,
+recommander l'effacement partiel des créances. En ce cas, les mesures prévues à l'article L. 331-7 peuvent être mises en
+oeuvre dès lors que l'effacement partiel des créances les rend possibles. Sauf proposition contraire de la commission, la
 suspension de la créance entraîne la suspension du paiement des intérêts dus à ce titre. Durant cette période, seules les
 sommes dues au titre du capital peuvent être de plein droit productives d'intérêts dont le taux n'excède pas le taux légal.
 
-A l'issue de la période visée au premier alinéa, la commission réexamine la situation du débiteur. Si cette situation le
-permet, elle recommande tout ou partie des mesures prévues à l'article L. 331-7. Si le débiteur demeure insolvable, elle
-recommande, par une proposition spéciale et motivée, l'effacement partiel des créances. Celles dont le prix a été payé au
-lieu et place du débiteur par la caution ou le coobligé ne peuvent faire l'objet d'un effacement. Les dettes fiscales font
-l'objet de remises totales ou partielles dans les mêmes conditions que les autres dettes. Aucun nouvel effacement ne peut
-intervenir, dans une période de huit ans, pour des dettes similaires à celles qui ont donné lieu à un effacement.
+Dans le cas où la commission recommande la suspension de l'exigibilité des créances autres qu'alimentaires, elle réexamine, à
+l'issue de la période de suspension, la situation du débiteur. Si cette situation le permet, elle recommande tout ou partie
+des mesures prévues à l'article L. 331-7. Si le débiteur demeure insolvable, elle recommande, par une proposition spéciale et
+motivée, l'effacement partiel des créances éventuellement combiné avec les mesures de l'article L. 331-7. Celles dont le prix
+a été payé au lieu et place du débiteur par la caution ou le coobligé ne peuvent faire l'objet d'un effacement. Les dettes
+fiscales font l'objet de remises totales ou partielles dans les mêmes conditions que les autres dettes. Aucun nouvel
+effacement ne peut intervenir, dans une période de huit ans, pour des dettes similaires à celles qui ont donné lieu à un
+effacement.
 
 **Liens relatifs à cet article**
 
@@ -16133,7 +16172,7 @@ intervenir, dans une période de huit ans, pour des dettes similaires à celles 
 
 	**Modifié par**:
 
-	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+	  - Loi n°2007-290 du 5 mars 2007 - art. 72 () JORF 6 mars 2007
 
 	**Cité par**:
 
@@ -16607,10 +16646,8 @@ qu'alimentaires. La suspension est acquise jusqu'au jugement de clôture.
 Le juge de l'exécution peut désigner un mandataire figurant sur une liste établie dans des conditions fixées par décret en
 Conseil d'Etat, faire procéder à une enquête sociale et ordonner un suivi social du débiteur.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+Nonobstant toute disposition contraire, le juge peut obtenir communication de tout renseignement lui permettant d'apprécier
+la situation du débiteur et l'évolution possible de celle-ci.
 
 **Liens relatifs à cet article**
 
@@ -16634,7 +16671,7 @@ décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvie
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 22 (VT) JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+	  - Loi n°2007-290 du 5 mars 2007 - art. 73 () JORF 6 mars 2007
 
 
 ###### Article L332-7
@@ -16675,10 +16712,10 @@ ou, à défaut de mandataire désigné, du juge.
 
 ###### Article L332-8
 
-Le juge statue sur les éventuelles contestations de créances et prononce la liquidation judiciaire du patrimoine personnel du
-débiteur, dont sont exclus les biens meublants nécessaires à la vie courante et les biens non professionnels indispensables à
-l'exercice de son activité professionnelle. Il se prononce, le cas échéant, au vu du rapport rendu par le mandataire dans un
-délai de quatre mois à compter de sa désignation.
+Le juge statue sur les éventuelles contestations de créances et prononce la liquidation judiciaire du patrimoine du débiteur,
+dont sont exclus les biens insaisissables énumérés à l'article 14 de la loi n° 91-650 du 9 juillet 1991 portant réforme des
+procédures civiles d'exécution, ainsi que les biens dont les frais de vente seraient manifestement disproportionnés au regard
+de leur valeur vénale et les biens non professionnels indispensables à l'exercice de l'activité professionnelle du débiteur.
 
 Le juge désigne un liquidateur qui peut être le mandataire. Le jugement qui prononce la liquidation emporte de plein droit
 dessaisissement du débiteur de la disposition de ses biens. Ses droits et actions sur son patrimoine personnel sont exercés
@@ -16699,13 +16736,31 @@ Le liquidateur rend compte de sa mission au juge dans des conditions fixées par
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°91-650 du 9 juillet 1991
+
 	**Codifié par**:
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+	  - Loi n°2007-290 du 5 mars 2007 - art. 74 () JORF 6 mars 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L742-13 (V)
+	  - Code de la consommation - art. L742-14 (V)
+	  - Code de la consommation - art. L742-15 (V)
+	  - Code de la consommation - art. L742-16 (V)
+	  - Code de la consommation - art. L742-17 (V)
+	  - Code de la consommation - art. L742-18 (V)
+	  - Code de la consommation - art. L742-19 (V)
 
 	**Cité par**:
 
@@ -16722,9 +16777,11 @@ Le liquidateur rend compte de sa mission au juge dans des conditions fixées par
 ###### Article L332-9
 
 Lorsque l'actif réalisé est suffisant pour désintéresser les créanciers, le juge prononce la clôture de la procédure. Lorsque
-l'actif réalisé est insuffisant pour désintéresser les créanciers ou lorsque le débiteur ne possède rien d'autre que des
-biens meublants nécessaires à la vie courante et des biens non professionnels indispensables à l'exercice de son activité
-professionnelle, le juge prononce la clôture pour insuffisance d'actif.
+l'actif réalisé est insuffisant pour désintéresser les créanciers, lorsque le débiteur ne possède rien d'autre que des biens
+meublants nécessaires à la vie courante et des biens non professionnels indispensables à l'exercice de son activité
+professionnelle, ou lorsque l'actif n'est constitué que de biens dépourvus de valeur marchande ou dont les frais de vente
+seraient manifestement disproportionnés au regard de leur valeur vénale, le juge prononce la clôture pour insuffisance
+d'actif.
 
 La clôture entraîne l'effacement de toutes les dettes non professionnelles du débiteur, à l'exception de celles dont le prix
 a été payé au lieu et place du débiteur par la caution ou le coobligé.
@@ -16737,9 +16794,9 @@ Le juge peut ordonner des mesures de suivi social du débiteur.
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+	  - Loi n°2007-290 du 5 mars 2007 - art. 75 () JORF 6 mars 2007
 
 	**Cité par**:
 
@@ -17398,8 +17455,8 @@ sociales ;
 c) Les délais prévus au sixième alinéa de l'article L. 331-3, aux articles L. 331-4 et L. 332-2 sont fixés par les autorités
 locales compétentes ;
 
-d) Au dernier alinéa de l'article L. 332-6, les mots : "figurant sur une liste établie dans des conditions fixées par décret
-en Conseil d'Etat" sont supprimés.
+d) Dans l'avant-dernier alinéa de l'article L. 332-6, les mots : "figurant sur une liste établie dans des conditions fixées
+par décret en Conseil d'Etat" sont supprimés.
 
 Pour l'application de ces dispositions :
 
@@ -17415,9 +17472,9 @@ instance ou les juges délégués par lui".
 
 	  - Loi n°93-949 1993-07-26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-824 du 19 août 2004 - art. 1 () JORF 21 août 2004
+	  - Loi n°2007-290 du 5 mars 2007 - art. 73 () JORF 6 mars 2007
 
 	**Cite**:
 
