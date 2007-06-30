@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2007-03-14
+Version Consolidée au 2007-07-01
 
 # Partie législative
 
@@ -5191,6 +5191,311 @@ L. 450-2, L. 450-3, L. 450-4, L. 450-7, L. 450-8, L. 470-1 et L. 470-5 du code d
 	  - Code de la consommation L121-83, L121-84, L450-1
 
 
+##### Section 12 : Contrats de fourniture d'électricité ou de gaz naturel
+
+###### Article L121-86
+
+Les dispositions de la présente section s'appliquent aux contrats souscrits par un consommateur avec un fournisseur
+d'électricité ou de gaz naturel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2006-1537 du 7 décembre 2006 - art. 42 () JORF 8 décembre 2006 en vigueur le 1er juillet 2007
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. L332-1 (VD)
+	  - Code de l'énergie - art. L442-1 (VD)
+
+
+###### Article L121-87
+
+L'offre de fourniture d'électricité ou de gaz naturel précise, dans des termes clairs et compréhensibles, les informations
+suivantes :
+
+1° L'identité du fournisseur, l'adresse de son siège social et son numéro d'inscription au registre du commerce et des
+sociétés ou tout document équivalent pour les sociétés situées hors de France et pour les opérateurs qui ne sont pas inscrits
+au registre du commerce et des sociétés ;
+
+2° Le numéro de téléphone et, le cas échéant, l'adresse électronique du fournisseur ;
+
+3° La description des produits et des services proposés ;
+
+4° Les prix de ces produits et services à la date d'effet du contrat ainsi que, le cas échéant, les conditions d'évolution de
+ces prix ;
+
+5° La mention du caractère réglementé ou non des prix proposés et de l'irréversibilité de la renonciation aux tarifs
+réglementés de vente pour un site donné pour la personne l'exerçant ;
+
+6° La durée du contrat et ses conditions de renouvellement ;
+
+7° La durée de validité de l'offre ;
+
+8° Le délai prévisionnel de fourniture de l'énergie ;
+
+9° Les modalités de facturation et les modes de paiement proposés, notamment par le biais d'internet ;
+
+10° Les moyens, notamment électroniques, d'accéder aux informations relatives à l'accès et à l'utilisation des réseaux
+publics de distribution, en particulier la liste des prestations techniques et leurs prix, les conditions d'indemnisation et
+les modalités de remboursement applicables dans l'hypothèse où le niveau de qualité de la fourniture d'énergie ou la
+continuité de la livraison ne sont pas atteints ;
+
+11° Les cas d'interruption volontaire de la fourniture d'énergie, sans préjudice des dispositions de l'article L. 115-3 du
+code de l'action sociale et des familles ;
+
+12° Les conditions de la responsabilité contractuelle du fournisseur et du gestionnaire du réseau de distribution ;
+
+13° L'existence du droit de rétractation prévu aux articles L. 121-20 et L. 121-25 du présent code ;
+
+14° Les conditions et modalités de résiliation du contrat ;
+
+15° Les modes de règlement amiable des litiges ;
+
+16° Les conditions d'accès à la tarification spéciale "produit de première nécessité" pour l'électricité et au tarif spécial
+de solidarité pour le gaz naturel.
+
+Ces informations sont confirmées au consommateur par tout moyen préalablement à la conclusion du contrat. A sa demande, elles
+lui sont également communiquées par voie électronique ou postale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2006-1537 du 7 décembre 2006 - art. 42 () JORF 8 décembre 2006 en vigueur le 1er juillet 2007
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. L332-2 (V)
+	  - Code de l'énergie - art. L442-2 (VD)
+	  - Code de la consommation - art. L121-88 (V)
+	  - Code de la consommation - art. R121-14 (Ab)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20 (T)
+	  - Code de la consommation - art. L121-25 (V)
+	  - Code de l'action sociale et des familles - art. L115-3 (M)
+
+
+###### Article L121-88
+
+Le contrat souscrit par un consommateur avec un fournisseur d'électricité ou de gaz naturel est écrit ou disponible sur un
+support durable. A la demande du consommateur, il lui est transmis à son choix par voie électronique ou postale. Outre les
+informations mentionnées à l'article L. 121-87, il comporte les éléments suivants : 
+
+1° La date de prise d'effet du contrat et sa date d'échéance s'il est à durée déterminée ; 
+
+2° Les modalités d'exercice du droit de rétractation prévu aux articles L. 121-20 et L. 121-25 ; 
+
+3° Les coordonnées du gestionnaire de réseau auquel est raccordé le client ; 
+
+4° Le débit ou la puissance souscrits, ainsi que les modalités de comptage de l'énergie consommée ; 
+
+5° Le rappel des principales obligations légales auxquelles les consommateurs sont soumis concernant leurs installations
+intérieures. 
+
+Les dispositions du présent article s'appliquent quels que soient le lieu et le mode de conclusion du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2006-1537 du 7 décembre 2006 - art. 42 () JORF 8 décembre 2006 en vigueur le 1er juillet 2007
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. L332-2 (V)
+	  - Code de l'énergie - art. L442-2 (VD)
+	  - Code de la consommation - art. L121-87 (VT)
+	  - Code de la consommation - art. R121-15 (Ab)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20 (V)
+
+
+###### Article L121-89
+
+L'offre du fournisseur comporte au moins un contrat d'une durée d'un an.
+
+En cas de changement de fournisseur, le contrat est résilié de plein droit à la date de prise d'effet d'un nouveau contrat de
+fourniture d'énergie. Dans les autres cas, la résiliation prend effet à la date souhaitée par le consommateur et, au plus
+tard, trente jours à compter de la notification de la résiliation au fournisseur.
+
+Le fournisseur ne peut facturer au consommateur que les frais correspondant aux coûts qu'il a effectivement supportés,
+directement ou par l'intermédiaire du gestionnaire de réseau, au titre de la résiliation et sous réserve que ces frais aient
+été explicitement prévus dans l'offre. Ceux-ci doivent être dûment justifiés.
+
+Aucun autre frais ne peut être réclamé au consommateur au seul motif qu'il change de fournisseur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Cité par**:
+
+	  - Décret n°2004-325 du 8 avril 2004 - art. 4 (V)
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - Code de l'énergie - art. R124-11 (VT)
+	  - Code de la consommation - art. R121-16 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°2006-1537 du 7 décembre 2006 - art. 42 () JORF 8 décembre 2006 en vigueur le 1er juillet 2007
+
+
+###### Article L121-90
+
+Tout projet de modification par le fournisseur des conditions contractuelles est communiqué au consommateur par voie postale
+ou, à sa demande, par voie électronique, au moins un mois avant la date d'application envisagée.
+
+Cette communication est assortie d'une information précisant au consommateur qu'il peut résilier le contrat sans pénalité,
+dans un délai maximal de trois mois à compter de sa réception.
+
+Les dispositions du présent article ne sont pas applicables aux modifications contractuelles imposées par la loi ou le
+règlement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Loi n°2006-1537 du 7 décembre 2006 - art. 42 () JORF 8 décembre 2006 en vigueur le 1er juillet 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. L332-2 (VD)
+	  - Code de l'énergie - art. L442-2 (VD)
+	  - Code de la consommation - art. R121-17 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-10 (V)
+
+
+###### Article L121-91
+
+Toute offre de fourniture d'électricité ou de gaz permet, au moins une fois par an, une facturation en fonction de l'énergie
+consommée.
+
+Les factures de fourniture de gaz naturel et d'électricité sont présentées dans les conditions fixées par un arrêté du
+ministre chargé de la consommation et du ministre chargé de l'énergie pris après avis du Conseil national de la consommation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2006-1537 du 7 décembre 2006 - art. 42 () JORF 8 décembre 2006 en vigueur le 1er juillet 2007
+
+	**Cité par**:
+
+	  - Arrêté du 18 avril 2012 (V)
+	  - Arrêté du 18 avril 2012 - art. 4 (VD)
+	  - Code de la consommation - art. R121-18 (Ab)
+
+
+###### Article L121-92
+
+Le fournisseur est tenu d'offrir au client la possibilité de conclure avec lui un contrat unique portant sur la fourniture et
+la distribution d'électricité ou de gaz naturel. Ce contrat reproduit en annexe les clauses réglant les relations entre le
+fournisseur et le gestionnaire de réseau, notamment les clauses précisant les responsabilités respectives de ces opérateurs.
+
+Outre la prestation d'accès aux réseaux, le consommateur peut, dans le cadre du contrat unique, demander à bénéficier de
+toutes les prestations techniques proposées par le gestionnaire du réseau. Le fournisseur ne peut facturer au consommateur
+d'autres frais que ceux que le gestionnaire du réseau lui a imputés au titre d'une prestation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Cité par**:
+
+	  - Loi n°2000-108 du 10 février 2000 - art. 22 (VT)
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 3 (VT)
+	  - Code de l'énergie - art. L332-3 (V)
+	  - Code de l'énergie - art. L442-3 (V)
+	  - Code de la consommation - art. R121-19 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°2006-1537 du 7 décembre 2006 - art. 42 () JORF 8 décembre 2006 en vigueur le 1er juillet 2007
+
+
+###### Article L121-93
+
+Les fournisseurs doivent adapter la communication des contrats et informations aux handicaps des consommateurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Loi n°2006-1537 du 7 décembre 2006 - art. 42 () JORF 8 décembre 2006 en vigueur le 1er juillet 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-2 (V)
+
+
+###### Article L121-94
+
+Les dispositions de la présente section sont d'ordre public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Créé par**:
+
+	  - Loi n°2006-1537 du 7 décembre 2006 - art. 42 () JORF 8 décembre 2006 en vigueur le 1er juillet 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-16 (V)
+
+
 #### Chapitre II : Pratiques commerciales illicites
 
 ##### Section 1 : Refus et subordination de vente ou de prestation de services
@@ -6014,6 +6319,8 @@ Ier ;
 
 3° La section IX "contrat de jouissance d'immeuble à temps partagé" du chapitre Ier du titre II du livre Ier ;
 
+3° bis La section XII "Contrats de fourniture d'électricité ou de gaz naturel" du chapitre Ier du titre II du livre Ier ;
+
 4° La section III "ventes ou prestations à la boule de neige" du chapitre II du titre II du livre Ier ;
 
 5° La section IV "abus de faiblesse" du chapitre II du titre II du livre Ier ;
@@ -6125,7 +6432,7 @@ mise en oeuvre de ces procédures sont fixées par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 35 () JORF 24 mars 2006
+	  - Loi n°2006-1537 du 7 décembre 2006 - art. 42 () JORF 8 décembre 2006 en vigueur le 1er juillet 2007
 
 	**Cite**:
 
