@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2007-07-01
+Version Consolidée au 2007-08-22
 
 # Partie législative
 
@@ -21449,6 +21449,258 @@ En cas de récidive, les peines d'amende prévues pour la récidive des contrave
 	  - Code de la consommation - art. L121-35 (M)
 	  - Code de la consommation - art. L122-1 (M)
 	  - Code de la consommation L121-35, L122-1, R121-8, R121-10
+
+
+##### Section 12 : Contrats de fourniture d'électricité ou de gaz naturel
+
+###### Article R121-14
+
+Est puni de la peine d'amende prévue pour les contraventions de la 5e classe le fait de ne pas mentionner dans l'offre de
+fourniture d'électricité ou de gaz naturel les informations mentionnées à l'article L. 121-87.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2007-1230 du 20 août 2007 - art. 1 () JORF 22 août 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-87
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R121-21 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R242-7 (V)
+
+
+###### Article R121-15
+
+Est puni de la peine d'amende prévue pour les contraventions de la 5e classe le fait : 
+
+1° De ne pas fournir au consommateur de contrat écrit ou disponible sur un support durable ; 
+
+2° De ne pas faire figurer dans ce contrat les informations mentionnées à l'article L. 121-88.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Créé par**:
+
+	  - Décret n°2007-1230 du 20 août 2007 - art. 1 () JORF 22 août 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-88
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R242-8 (V)
+	  - Code de la consommation - art. R242-9 (V)
+
+
+###### Article R121-16
+
+Est puni de la peine d'amende prévue pour les contraventions de la 5e classe le fait de facturer à un consommateur, au titre
+de la résiliation de son contrat, des frais autres que ceux explicitement prévus au troisième alinéa de l'article L. 121-89.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2007-1230 du 20 août 2007 - art. 1 () JORF 22 août 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-89
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R242-14 (V)
+
+
+###### Article R121-17
+
+Est puni de la peine d'amende prévue pour les contraventions de la 5e classe le fait : 
+
+1° De ne pas communiquer au consommateur tout projet de modification des conditions contractuelles conformément aux
+dispositions de l'article L. 121-90 ; 
+
+2° De ne pas assortir cette communication d'une information sur sa faculté de résiliation conformément aux dispositions de
+l'article L. 121-90.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Créé par**:
+
+	  - Décret n°2007-1230 du 20 août 2007 - art. 1 () JORF 22 août 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-90
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R242-11 (V)
+
+
+###### Article R121-18
+
+Est puni de la peine d'amende prévue pour les contraventions de la 5e classe le fait : 
+
+1° De ne pas fournir, au moins une fois par an, une facturation en fonction de l'énergie effectivement consommée conformément
+aux dispositions de l'article L. 121-91 ; 
+
+2° De fournir une facture dont la présentation n'est pas conforme aux dispositions déterminées par arrêté pris en application
+de l'article L. 121-91.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2007-1230 du 20 août 2007 - art. 1 () JORF 22 août 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-91
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R242-12 (V)
+	  - Code de la consommation - art. R242-13 (V)
+
+
+###### Article R121-19
+
+Est puni de la peine d'amende prévue pour les contraventions de la 5e classe le fait, en violation des dispositions de
+l'article L. 121-92 : 
+
+1° De ne pas proposer au consommateur un contrat unique portant sur la fourniture et la distribution d'électricité ou de gaz
+naturel ; 
+
+2° De refuser au consommateur le bénéfice d'une ou plusieurs des prestations techniques proposées par le gestionnaire de
+réseau dans le cadre du contrat unique ; 
+
+3° De facturer au consommateur, dans le cadre du contrat unique, des frais liés à l'accès aux réseaux autres que ceux que le
+gestionnaire de réseau lui a imputés au titre d'une prestation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Créé par**:
+
+	  - Décret n°2007-1230 du 20 août 2007 - art. 1 () JORF 22 août 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-92
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R242-10 (V)
+
+
+###### Article R121-20
+
+Est puni de la peine d'amende prévue pour les contraventions de la 5e classe le fait de ne pas remettre à un consommateur
+handicapé les contrats et les informations qu'il a demandés dans la forme adaptée à son handicap.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Créé par**:
+
+	  - Décret n°2007-1230 du 20 août 2007 - art. 1 () JORF 22 août 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R242-6 (V)
+
+
+###### Article R121-21
+
+En cas de récidive des infractions prévues aux articles R. 121-14 à R. 121-20, la peine d'amende prévue aux articles 131-13
+(5°) et 131-41 du code pénal pour la récidive des contraventions de la 5e classe est applicable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2007-1230 du 20 août 2007 - art. 1 () JORF 22 août 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R121-14 (Ab)
+	  - Code pénal - art. 131-13
+	  - Code pénal - art. 131-41
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R242-15 (V)
 
 
 #### Chapitre II : Pratiques commerciales illicites
