@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2007-10-01
+Version Consolidée au 2007-10-18
 
 # Partie législative
 
@@ -22506,18 +22506,60 @@ ne font pas obstacle à ce que la preuve desdites infractions puisse être étab
 
 ##### Section 2 : Recherche et constatation.
 
+###### Article D215-16
+
+Le remboursement des frais exposés pour la recherche et la constatation des infractions au livre II du présent code et des
+textes pris pour son application est effectué à l'appui d'un titre de perception unique émis par le préfet et recouvré par le
+comptable du Trésor public conformément aux dispositions prévues aux articles 80 à 95 du décret n° 62-1587 du 29 décembre
+1962 portant règlement général sur la comptabilité publique.
+
+Ce titre précisera, par poste de dépense, les coûts indiqués par l'agent verbalisateur mentionné à l'article L. 215-1 et
+faisant l'objet de la demande de remboursement.
+
+Les postes de dépenses sont :
+
+a) Les prélèvements et le transport des échantillons, dont le montant est fixé forfaitairement à 220 Euros TTC ;
+
+b) Les analyses et essais, dont le montant est établi sur la base des coûts de revient supportés par le service auquel
+appartient l'agent verbalisateur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 1962-12-29 art. 80 à 95
+	  - Code de la consommation - art. L215-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2007-1480 du 16 octobre 2007 - art. 1 () JORF 18 octobre 2007
+
+
 ###### Article R215-2
 
 Les fonctionnaires et agents énumérés à l'article L. 215-1 procèdent à des contrôles élémentaires, dans le but d'identifier
 les marchandises ou de déceler leur éventuelle non-conformité aux caractéristiques qu'elles doivent posséder. Ils dressent
 procès-verbal de leurs constatations ; ils peuvent y joindre des spécimens d'emballages ou d'étiquetages ainsi qu'un
 échantillon de la marchandise destinés à servir de pièces à conviction. La quantité du produit rendue inutilisable, dont la
-non-conformité à la réglementation n'a pas été établie, fait l'objet de la procédure de remboursement prévue à l'article R.
-215-9.
+non-conformité à la réglementation n'a pas été établie, fait l'objet d'un remboursement sur la base de la valeur estimée par
+l'agent verbalisateur ou, à défaut, déclarée par le propriétaire ou le détenteur de la marchandise dans les conditions fixées
+à l'article R. 215-9.
 
-Ils peuvent en outre opérer des prélèvements et effectuer des saisies dans les conditions fixées par les articles ci-après.
+Ils peuvent en outre opérer des prélèvements dans les conditions fixées par les articles ci-après.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Modifié par**:
+
+	  - Décret n°2007-1480 du 16 octobre 2007 - art. 1 () JORF 18 octobre 2007
 
 	**Cite**:
 
@@ -22528,14 +22570,6 @@ Ils peuvent en outre opérer des prélèvements et effectuer des saisies dans le
 
 	  - Décret n°1919-01-22 art. 5 bis
 	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 5 bis (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Modifié par**:
-
-	  - Décret n°2005-1701 du 27 décembre 2005 - art. 1 () JORF 30 décembre 2005
 
 
 ###### Article R215-3
@@ -22581,10 +22615,14 @@ d'information nécessaires à l'accomplissement de cette mission.
 
 ###### Article R215-4
 
-Sauf dans les cas prévus aux articles R. 215-12 à R. 215-14 tout prélèvement comporte au moins trois échantillons, l'un
+Sauf dans les cas prévus aux articles R. 215-12 à R. 215-15 tout prélèvement comporte au moins trois échantillons, l'un
 destiné au laboratoire pour analyse, les deux autres éventuellement destinés aux experts.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la consommation R215-12 à R215-15
 
 	**Anciens textes**:
 
@@ -22595,17 +22633,13 @@ destiné au laboratoire pour analyse, les deux autres éventuellement destinés 
 
 	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
 	**Cité par**:
 
 	  - Décret n°2001-510 du 12 juin 2001 - art. 5 (VT)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la consommation R215-12 à R215-14
+	  - Décret n°2007-1480 du 16 octobre 2007 - art. 1 () JORF 18 octobre 2007
 
 
 ###### Article R215-5
@@ -22758,8 +22792,8 @@ effectué en cours de route, les noms et adresses des expéditeurs et destinatai
 ###### Article R215-9
 
 Aussitôt après avoir scellé les échantillons, l'agent verbalisateur, s'il est en présence du propriétaire ou détenteur de la
-marchandise, doit le mettre en demeure de déclarer la valeur des échantillons prélevés. Le propriétaire ou le détenteur
-pourra justifier cette valeur à l'aide de ses documents comptables.
+marchandise, l'invite à déclarer la valeur des échantillons prélevés. Le propriétaire ou le détenteur pourra justifier cette
+valeur à l'aide de ses documents comptables.
 
 Le procès-verbal mentionne la valeur déclarée par le propriétaire ou le détenteur et, dans le cas où l'agent verbalisateur
 estime que cette valeur est exagérée, l'estimation faite par cet agent.
@@ -22778,7 +22812,7 @@ indiquant la nature et la quantité des marchandises prélevées ainsi que la va
 
 	**Modifié par**:
 
-	  - Décret n°2005-1701 du 27 décembre 2005 - art. 1 () JORF 30 décembre 2005
+	  - Décret n°2007-1480 du 16 octobre 2007 - art. 1 () JORF 18 octobre 2007
 
 	**Cité par**:
 
@@ -22856,8 +22890,9 @@ laboratoire, où des mesures sont prises conformément aux arrêtés prévus à 
 
 ###### Article R215-12
 
-Dans le cas des produits altérables mentionnés à l'article L. 215-15, un récépissé remis au propriétaire ou au détenteur de
-l'objet dans les conditions prévues à l'article R. 215-9 mentionne la valeur de la quantité du produit rendue inutilisable.
+Dans le cas des produits rapidement altérables mentionnés à l'article L. 215-15, un récépissé remis au propriétaire ou au
+détenteur de l'objet dans les conditions prévues à l'article R. 215-9 mentionne la valeur de la quantité du produit rendue
+inutilisable.
 
 Le produit placé sous scellés est déposé par l'agent dans un lieu propre à en assurer autant que possible la conservation. Il
 peut être laissé à la garde de son propriétaire ou de son détenteur.
@@ -22866,9 +22901,10 @@ En vue de l'expertise éventuelle prévue à l'article L. 215-15, l'agent verbal
 de l'objet à choisir un expert et un suppléant sur les listes officielles, ou à s'en rapporter à un expert unique requis par
 le procureur de la République ou désigné par le juge d'instruction.
 
-L'agent verbalisateur consigne aussitôt dans un procès-verbal toutes les circonstances du prélèvement, ainsi que les
-déclarations du propriétaire ou du détenteur de l'objet relatives à l'expertise. Ce procès-verbal est transmis sans délai au
-procureur de la République.
+L'agent verbalisateur consigne dans le procès-verbal les déclarations du propriétaire ou du détenteur de l'objet relatives à
+l'expertise.
+
+Ce procès-verbal est transmis sans délai au procureur de la République.
 
 **Liens relatifs à cet article**
 
@@ -22878,7 +22914,7 @@ procureur de la République.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1701 du 27 décembre 2005 - art. 1 () JORF 30 décembre 2005
+	  - Décret n°2007-1480 du 16 octobre 2007 - art. 1 () JORF 18 octobre 2007
 
 	**Cite**:
 
@@ -22962,6 +22998,58 @@ Le procès-verbal est déposé au service administratif conformément aux règle
 	**Anciens textes**:
 
 	  - Décret n°1919-01-22 art. 18
+
+
+###### Article R215-15
+
+Pour le contrôle des teneurs en mycotoxines contenues dans les denrées alimentaires, le prélèvement ne comporte qu'un
+échantillon faisant l'objet du procès-verbal et du placement sous scellés prévus aux articles R. 215-5 et R. 215-8. 
+
+Le laboratoire prépare à partir de cet échantillon des échantillons destinés à l'analyse conformément aux dispositions du
+règlement (CE) n° 401/2006 du 23 février 2006 portant fixation des modes de prélèvement d'échantillons et des méthodes
+d'analyse pour le contrôle officiel des teneurs en mycotoxines des denrées alimentaires. 
+
+Les échantillons destinés à l'expertise contradictoire sont placés sous scellés et munis d'une étiquette portant les
+indications suivantes : 
+
+a) Numéro d'identification de l'échantillon ; 
+
+b) Numéro attribué par le laboratoire ; 
+
+c) Nom et signature de l'analyste. 
+
+Les échantillons scellés sont conservés par le laboratoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Créé par**:
+
+	  - Décret n°2007-1480 du 16 octobre 2007 - art. 1 () JORF 18 octobre 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R215-5
+	  - Code de la consommation - art. R215-8
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R218-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-22 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 36 (Ab)
 
 
 ##### Section 4 : Expertises.
@@ -23312,6 +23400,48 @@ proposition, au terme du délai imparti, ou n'aurait pas satisfait aux autres ob
 	**Cité par**:
 
 	  - Code de la consommation - art. R219-3 (Ab)
+
+
+#### Chapitre VII : Dispositions particulières.
+
+###### Article R217-1
+
+Est puni de la peine d'amende prévue pour les contraventions de la 5e classe le fait de détenir en vue de la vente ou de la
+distribution à titre gratuit, de mettre en vente, de vendre, de distribuer à titre gratuit les produits dont l'importation
+est prohibée par les décisions prises en application de l'article 18 de la directive 91/496/ CEE du Conseil du 15 juillet
+1991 ou de l'article 22 de la directive 97/78/ CE du Conseil du 18 décembre 1997 ou qui ne sont pas conformes aux
+prescriptions qu'elles édictent. 
+
+Les personnes coupables de la contravention prévue au présent article encourent également la peine complémentaire de
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit
+conformément aux dispositions du 5° de l'article 131-16 et du dernier alinéa de l'article 131-40 du code pénal. 
+
+La récidive de cette contravention est réprimée conformément aux articles 132-11 et 132-15 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+	**Créé par**:
+
+	  - Décret n°2007-1480 du 16 octobre 2007 - art. 2 () JORF 18 octobre 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R452-1 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-16
+	  - Code pénal - art. 131-40
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
 
 
 #### Chapitre VIII : Mesures de police administrative
