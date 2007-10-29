@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2007-10-18
+Version Consolidée au 2007-10-30
 
 # Partie législative
 
@@ -8604,6 +8604,34 @@ l'exercice de leurs missions de surveillance du marché.
 	  - Règlement 178-2002 CE 2002-01-28 art. 50
 
 
+###### Article L215-3-2
+
+Les services et établissements de l'Etat et des autres collectivités publiques sont tenus de communiquer aux agents de la
+direction générale de la concurrence, de la consommation et de la répression des fraudes et aux officiers et agents de police
+judiciaire tous les renseignements et documents en leur possession qui peuvent s'avérer utiles à la lutte contre la
+contrefaçon, à l'exception de ceux qu'ils ont recueillis ou échangés en application du règlement (CE) n° 1/2003 du Conseil,
+du 16 décembre 2002, relatif à la mise en oeuvre des règles de concurrence prévues aux articles 81 et 82 du traité, sans que
+puisse être opposée l'obligation de secret professionnel.
+
+Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, de la direction
+générale des douanes et droits indirects et les officiers et agents de police judiciaire peuvent se communiquer spontanément
+tous les renseignements et documents détenus ou recueillis dans le cadre de leur mission de lutte contre la contrefaçon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 1993-07-26
+
+	**Créé par**:
+
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 43 () JORF 30 octobre 2007
+
+	**Cite**:
+
+	  - Règlement 1-2003 CE 2002-12-16
+
+
 ###### Article L215-4
 
 Il sera statué par des décrets en Conseil d'Etat sur les mesures à prendre en ce qui concerne : 
@@ -8675,32 +8703,35 @@ la teneur en principes utiles des produits ou à reconnaître leur falsification
 ###### Article L215-5
 
 Sur la voie publique et dans les lieux mentionnés au premier alinéa de l'article L. 215-3, les saisies ne pourront être
-effectuées sans autorisation judiciaire que dans le cas de flagrant délit de falsification ou lorsqu'elles portent sur :
+effectuées sans autorisation judiciaire que dans le cas de flagrant délit de falsification ou lorsqu'elles portent sur : 
 
-1° Les produits reconnus falsifiés, corrompus ou toxiques ;
+1° Les produits reconnus falsifiés, corrompus ou toxiques ; 
 
 2° Les produits reconnus impropres à la consommation, à l'exception des produits d'origine animale, des denrées alimentaires
 en contenant ainsi que des aliments pour animaux d'origine animale ou contenant des produits d'origine animale dont
 l'impropriété à la consommation ne peut être reconnue qu'en fonction de caractères organoleptiques anormaux ou de signes de
-pathologie lésionnelle ;
+pathologie lésionnelle ; 
 
 3° Les produits, objets ou appareils propres à effectuer des falsifications dans les cas prévus aux articles L. 213-3 et L.
-213-4 ;
+213-4 ; 
 
 4° Les produits, objets ou appareils reconnus non conformes aux lois et règlements en vigueur et présentant un danger pour la
-santé ou la sécurité des consommateurs.
+santé ou la sécurité des consommateurs ; 
+
+5° Les produits présentés sous une marque, une marque collective ou une marque collective de certification contrefaisantes ; 
 
 Les saisies peuvent être faites à la suite de constatations opérées sur place ou de l'analyse ou de l'essai d'un échantillon
-en laboratoire.
+en laboratoire. 
 
 Les agents dressent un procès-verbal de saisie. Les produits saisis sont laissés à la garde de leur détenteur ou, à défaut,
-déposés dans un local désigné par les agents. Ce procès-verbal est transmis dans les 24 heures au procureur de la République.
+déposés dans un local désigné par les agents. Ce procès-verbal est transmis dans les 24 heures au procureur de la
+République. 
 
 L'agent peut procéder à la destruction, à la stérilisation ou à la dénaturation des produits mentionnés au 1°. Ces opérations
-sont relatées et justifiées dans le procès-verbal de saisie.
+sont relatées et justifiées dans le procès-verbal de saisie. 
 
 Le non-respect de la mesure de saisie est puni d'un emprisonnement de trois ans et d'une amende de 375 000 euros ou de l'une
-de ces deux peines seulement. En outre, le tribunal pourra ordonner les mesures prévues à l'article L. 216-3.
+de ces deux peines seulement. En outre, le tribunal pourra ordonner les mesures prévues à l'article L. 216-3. 
 
 Il n'est en rien innové quant à la procédure suivie par des administrations fiscales pour la constatation et la poursuite de
 faits constituant à la fois une contravention fiscale et une infraction aux prescriptions des chapitres II à VI et de la loi
@@ -8713,21 +8744,33 @@ du 29 juin 1907 tendant à prévenir le mouillage des vins et les abus du sucrag
 	  - Loi n°1905-08-01 du 1 août 1905 - art. 11-1 (Ab)
 	  - Loi n°1905-08-01 art. 11-1
 
+	**Cite**:
+
+	  - Loi du 29 juin 1907
+	  - Code de la consommation - art. L215-3
+	  - Code rural - art. L213-3
+
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 27 () JORF 6 octobre 2006
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 44 () JORF 30 octobre 2007
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de la consommation - art. L213-3 (M)
-	  - Code de la consommation - art. L213-4 (M)
-	  - Code de la consommation - art. L215-3 (M)
-	  - Code de la consommation - art. L216-3 (M)
-	  - Loi n°1907-06-29
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L512-29 (V)
+	  - Code de la consommation - art. L512-30 (V)
+	  - Code de la consommation - art. L512-31 (V)
+	  - Code de la consommation - art. L512-32 (V)
+	  - Code de la consommation - art. L512-33 (V)
+	  - Code de la consommation - art. L531-4 (V)
+	  - Code de la consommation - art. L531-5 (V)
 
 	**Cité par**:
 
@@ -8739,27 +8782,30 @@ du 29 juin 1907 tendant à prévenir le mouillage des vins et les abus du sucrag
 
 Les autorités qualifiées pour rechercher et constater les infractions au présent livre pourront, dans tous les lieux
 mentionnés au premier alinéa de l'article L. 215-3 et sur la voie publique, consigner, dans l'attente des résultats des
-contrôles nécessaires :
+contrôles nécessaires : 
 
-1° Les produits susceptibles d'être falsifiés, corrompus ou toxiques ;
+1° Les produits susceptibles d'être falsifiés, corrompus ou toxiques ; 
 
 2° Les produits susceptibles d'être impropres à la consommation, à l'exception des produits d'origine animale, des denrées
 alimentaires en contenant ainsi que des aliments pour animaux d'origine animale ou contenant des produits d'origine animale
 dont l'impropriété à la consommation ne peut être reconnue qu'en fonction de caractères organoleptiques anormaux ou de signes
-de pathologie lésionnelle ;
+de pathologie lésionnelle ; 
 
 3° Les produits, objets ou appareils susceptibles d'être non conformes aux lois et règlements en vigueur et de présenter un
-danger pour la santé ou la sécurité des consommateurs.
+danger pour la santé ou la sécurité des consommateurs ; 
 
-Les produits, objets ou appareils consignés seront laissés à la garde de leur détenteur.
+4° Les produits susceptibles d'être présentés sous une marque, une marque collective ou une marque collective de
+certification contrefaisantes. 
+
+Les produits, objets ou appareils consignés seront laissés à la garde de leur détenteur. 
 
 Les autorités habilitées dressent un procès-verbal mentionnant les produits, objets de la consignation. Ce procès-verbal est
-transmis dans les vingt-quatre heures au procureur de la République.
+transmis dans les vingt-quatre heures au procureur de la République. 
 
-La mesure de consignation ne peut excéder une durée de un mois que sur autorisation du procureur de la République.
+La mesure de consignation ne peut excéder une durée de un mois que sur autorisation du procureur de la République. 
 
 Mainlevée de la mesure de consignation peut être ordonnée à tout moment par les autorités habilitées ou par le procureur de
-la République.
+la République. 
 
 Le non-respect de la mesure de consignation est puni des peines prévues à l'article L. 213-1.
 
@@ -8767,21 +8813,31 @@ Le non-respect de la mesure de consignation est puni des peines prévues à l'ar
 
 	**Anciens textes**:
 
-	  - Loi n°1905-08-01 art. 11-2
 	  - Loi n°1905-08-01 du 1 août 1905 - art. 11-2 (Ab)
+	  - Loi n°1905-08-01 art. 11-2
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 27 () JORF 6 octobre 2006
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 44 () JORF 30 octobre 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L213-1 (M)
-	  - Code de la consommation - art. L215-3 (M)
+	  - Code de la consommation - art. L213-1
+	  - Code de la consommation - art. L215-3
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L512-26 (V)
+	  - Code de la consommation - art. L512-27 (V)
+	  - Code de la consommation - art. L512-28 (V)
 
 
 ###### Article L215-8
