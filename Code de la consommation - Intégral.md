@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2007-12-19
+Version Consolidée au 2007-12-22
 
 # Partie législative
 
@@ -17027,6 +17027,33 @@ la situation du débiteur et l'évolution possible de celle-ci.
 	**Modifié par**:
 
 	  - Loi n°2007-290 du 5 mars 2007 - art. 73 () JORF 6 mars 2007
+
+
+###### Article L332-6-1
+
+S'il constate lors de l'audience d'ouverture de la procédure de rétablissement personnel que le débiteur se trouve
+manifestement dans la situation définie à la seconde phrase du premier alinéa de l'article L. 332-9, le juge peut ouvrir et
+clôturer la procédure de rétablissement personnel pour insuffisance d'actif par un même jugement. 
+
+Le greffe procède à des mesures de publicité pour permettre aux créanciers qui n'auraient pas été convoqués à l'audience
+d'ouverture de former tierce opposition à l'encontre du jugement ; les créances dont les titulaires n'auraient pas formé
+tierce opposition dans un délai de deux mois à compter de cette publicité sont éteintes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 6
+
+	**Cité par**:
+
+	  - Arrêté du 27 mars 2008 (Ab)
+	  - Code de la consommation - art. L333-1-2 (VD)
+	  - Code de la consommation - art. R334-72 (Ab)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L332-9
 
 
 ###### Article L332-7
