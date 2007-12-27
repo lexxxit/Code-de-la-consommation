@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2007-12-23
+Version Consolidée au 2007-12-28
 
 # Partie législative
 
@@ -1467,44 +1467,36 @@ L. 641-12 du code rural.
 
 ###### Article L115-22
 
-Est puni de deux ans d'emprisonnement et d'une amende de 37 500 euros le fait :
+Est puni de deux ans d'emprisonnement et d'une amende de 37 500 euros le fait : 
 
 1° De délivrer une appellation d'origine protégée, une indication géographique protégée ou une spécialité traditionnelle
-garantie sans satisfaire aux conditions prévues à l'article L. 642-3 du code rural ;
+garantie sans satisfaire aux conditions prévues à l'article L. 642-3 du code rural ; 
 
 2° De délivrer une appellation d'origine protégée, une indication géographique protégée ou une spécialité traditionnelle
 garantie qui n'a pas fait l'objet de l'homologation prévue respectivement aux articles L. 641-10, L. 641-11 et L. 641-12 du
-code rural ;
+code rural ; 
 
 3° D'utiliser ou de tenter d'utiliser frauduleusement une appellation d'origine protégée, une indication géographique
-protégée ou une spécialité traditionnelle garantie ;
+protégée ou une spécialité traditionnelle garantie ; 
 
 4° D'apposer ou de faire apparaître, par addition, retranchement ou par une altération quelconque, sur des produits, naturels
 ou fabriqués, mis en vente ou destinés à être mis en vente, une appellation d'origine protégée, une indication géographique
-protégée ou une spécialité traditionnelle garantie en les sachant inexactes ;
+protégée ou une spécialité traditionnelle garantie en les sachant inexactes ; 
 
 5° D'utiliser un mode de présentation faisant croire ou de nature à faire croire qu'un produit bénéficie d'une appellation
-d'origine protégée, une indication géographique protégée ou une spécialité traditionnelle garantie ;
+d'origine protégée, d'une indication géographique protégée ou d'une spécialité traditionnelle garantie ; 
 
 6° De faire croire ou de tenter de faire croire qu'un produit assorti d'une spécialité traditionnelle garantie, d'une
-appellation d'origine protégée ou d'une indication géographique protégée est garanti par l'Etat ou par un organisme public.
+appellation d'origine protégée ou d'une indication géographique protégée est garanti par l'Etat ou par un organisme public. 
 
 Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux qu'il désignera et son insertion intégrale ou
 par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural L642-3, L641-10, L641-11, L641-12
-
 	**Anciens textes**:
 
 	  - Loi n°60-808 du 5 août 1960 - art. 28-1-1 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
 
 	**Cité par**:
 
@@ -1514,11 +1506,16 @@ par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2007-1821 du 24 décembre 2007 - art. 2
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L643-2 (V)
+
+	**Cite**:
+
+	  - Code rural - art. L641-10 (V)
+	  - Code rural - art. L642-3
 
 
 ##### Sous-section 3 : L'agriculture biologique
@@ -1560,17 +1557,24 @@ l'article L. 641-13 du code rural.
 
 ###### Article L115-24
 
-Est puni des peines prévues à l'article L. 213-1 du code de la consommation le fait :
+Est puni de deux ans d'emprisonnement et d'une amende de 37 500 euros le fait : 
 
-1° D'utiliser ou tenter d'utiliser frauduleusement la qualité de produits de l'agriculture dite biologique ;
+1° De délivrer une mention " agriculture biologique " sans satisfaire aux conditions prévues à l'article L. 642-3 du code
+rural ; 
 
-2° D'utiliser ou tenter d'utiliser un cahier des charges n'ayant pas fait l'objet d'une homologation ;
+2° De délivrer une mention " agriculture biologique " à un produit qui ne remplit pas les conditions, rappelées à l'article
+L. 641-13 du code rural, pour en bénéficier ; 
 
-3° D'utiliser un mode de présentation faisant croire ou de nature à faire croire qu'un produit a la qualité de produit de
-l'agriculture dite biologique ;
+3° D'utiliser ou de tenter d'utiliser frauduleusement le signe " agriculture biologique " ; 
 
-4° De faire croire ou tenter de faire croire qu'un produit ayant la qualité de produit de l'agriculture dite biologique est
-garanti par l'Etat ou par un organisme public.
+4° D'utiliser un mode de présentation faisant croire ou de nature à faire croire qu'un produit a la qualité de produit de
+l'agriculture biologique ; 
+
+5° De faire croire ou de tenter de faire croire qu'un produit ayant la qualité de produit de l'agriculture biologique est
+garanti par l'Etat ou par un organisme public. 
+
+Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux qu'il désignera et son insertion intégrale ou
+par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 
 **Liens relatifs à cet article**
 
@@ -1587,17 +1591,14 @@ garanti par l'Etat ou par un organisme public.
 	  - Code rural - art. L671-6 (M)
 	  - Code rural - art. L671-7 (V)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2007-1821 du 24 décembre 2007 - art. 8 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L213-1 (M)
+	  - Code rural - art. L641-13
+	  - Code rural - art. L642-3
 
 
 ##### Section 3 : La certification de conformité
