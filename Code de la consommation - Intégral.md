@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2007-12-28
+Version Consolidée au 2008-01-05
 
 # Partie législative
 
@@ -2011,34 +2011,94 @@ qu'elle est faite de mauvaise foi.
 
 ### Titre II : Pratiques commerciales
 
+#### Chapitre préliminaire :  Pratiques commerciales déloyales
+
+
+###### Article L120-1
+
+Les pratiques commerciales déloyales sont interdites. Une pratique commerciale est déloyale lorsqu'elle est contraire aux
+exigences de la diligence professionnelle et qu'elle altère, ou est susceptible d'altérer de manière substantielle, le
+comportement économique du consommateur normalement informé et raisonnablement attentif et avisé, à l'égard d'un bien ou d'un
+service.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 39
+
+	**Cité par**:
+
+	  - Arrêté du 11 mars 2015 - art. 1 (V)
+	  - Code de la consommation - art. L121-35 (VT)
+	  - Code de la consommation - art. L121-36 (VT)
+	  - Code de la consommation - art. L121-36-1 (Ab)
+	  - Code de la consommation - art. L122-1 (V)
+	  - Code du tourisme. - art. L327-1 (V)
+
+
 #### Chapitre Ier : Pratiques commerciales réglementées
 
-##### Section 1 : Publicité.
+##### Section 1 : Pratiques commerciales trompeuses et publicité
+
+##### Sous-section 1 : Pratiques commerciales trompeuses
 
 ###### Article L121-1
 
-Est interdite toute publicité comportant, sous quelque forme que ce soit, des allégations, indications ou présentations
-fausses ou de nature à induire en erreur, lorsque celles-ci portent sur un ou plusieurs des éléments ci-après ; existence,
-nature, composition, qualités substantielles, teneur en principes utiles, espèce, origine, quantité, mode et date de
-fabrication, propriétés, prix et conditions de vente de biens ou services qui font l'objet de la publicité, conditions de
-leur utilisation, résultats qui peuvent être attendus de leur utilisation, motifs ou procédés de la vente ou de la prestation
-de services, portée des engagements pris par l'annonceur, identité, qualités ou aptitudes du fabricant, des revendeurs, des
-promoteurs ou des prestataires.
+I. - Une pratique commerciale est trompeuse si elle est commise dans l'une des circonstances suivantes : 
+
+1° Lorsqu'elle crée une confusion avec un autre bien ou service, une marque, un nom commercial, ou un autre signe distinctif
+d'un concurrent ; 
+
+2° Lorsqu'elle repose sur des allégations, indications ou présentations fausses ou de nature à induire en erreur et portant
+sur l'un ou plusieurs des éléments suivants : 
+
+a) L'existence, la disponibilité ou la nature du bien ou du service ; 
+
+b) Les caractéristiques essentielles du bien ou du service, à savoir : ses qualités substantielles, sa composition, ses
+accessoires, son origine, sa quantité, son mode et sa date de fabrication, les conditions de son utilisation et son aptitude
+à l'usage, ses propriétés et les résultats attendus de son utilisation, ainsi que les résultats et les principales
+caractéristiques des tests et contrôles effectués sur le bien ou le service ; 
+
+c) Le prix ou le mode de calcul du prix, le caractère promotionnel du prix et les conditions de vente, de paiement et de
+livraison du bien ou du service ; 
+
+d) Le service après-vente, la nécessité d'un service, d'une pièce détachée, d'un remplacement ou d'une réparation ; 
+
+e) La portée des engagements de l'annonceur, la nature, le procédé ou le motif de la vente ou de la prestation de services ; 
+
+f) L'identité, les qualités, les aptitudes et les droits du professionnel ; 
+
+g) Le traitement des réclamations et les droits du consommateur ; 
+
+3° Lorsque la personne pour le compte de laquelle elle est mise en oeuvre n'est pas clairement identifiable. 
+
+II. - Une pratique commerciale est également trompeuse si, compte tenu des limites propres au moyen de communication utilisé,
+elle omet, dissimule ou fournit de façon inintelligible, ambiguë ou à contretemps une information substantielle ou
+lorsqu'elle n'indique pas sa véritable intention commerciale dès lors que celle-ci ne ressort pas déjà du contexte. 
+
+Dans toute communication commerciale destinée au consommateur mentionnant le prix et les caractéristiques du bien ou du
+service proposé, sont considérées comme substantielles les informations suivantes : 
+
+1° Les caractéristiques principales du bien ou du service ; 
+
+2° L'adresse et l'identité du professionnel ; 
+
+3° Le prix toutes taxes comprises et les frais de livraison à la charge du consommateur, ou leur mode de calcul, s'ils ne
+peuvent être établis à l'avance ; 
+
+4° Les modalités de paiement, de livraison, d'exécution et de traitement des réclamations des consommateurs, dès lors
+qu'elles sont différentes de celles habituellement pratiquées dans le domaine d'activité professionnelle concerné ; 
+
+5° L'existence d'un droit de rétractation, si ce dernier est prévu par la loi. 
+
+III. - Le I est applicable aux pratiques qui visent les professionnels.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°73-1193 1973-12-27 art. 44 I
 	  - Loi n°73-1193 du 27 décembre 1973 - art. 44 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 	**Cité par**:
 
@@ -2061,32 +2121,33 @@ promoteurs ou des prestataires.
 	  - Code de la sécurité sociale. - art. L165-8 (M)
 	  - Code rural et de la pêche maritime - art. L643-3-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 39
+
 
 ###### Article L121-2
 
 Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, ceux de la
 direction générale de l'alimentation du ministère de l'agriculture et ceux du service de métrologie au ministère de
 l'industrie sont habilités à constater, au moyen de procès-verbaux sur l'ensemble du territoire national, les infractions aux
-dispositions de l'article L. 121-1. Ils peuvent exiger de l'annonceur la mise à leur disposition de tous les éléments propres
-à justifier les allégations, indications ou présentations publicitaires. Ils peuvent également exiger de l'annonceur, de
-l'agence de publicité ou du responsable du support la mise à leur disposition des messages publicitaires diffusés.
+dispositions de l'article L. 121-1. Ils peuvent exiger du responsable d'une pratique commerciale la mise à leur disposition
+ou la communication de tous les éléments propres à justifier les allégations, indications ou présentations inhérentes à cette
+pratique. Ils peuvent également exiger de l'annonceur, de l'agence de publicité ou du responsable du support la mise à leur
+disposition des messages publicitaires diffusés.
 
-Les procès-verbaux dressés en application du présent article sont transmis au procureur de la République.
+Les procès-verbaux sur l'ensemble du territoire national dressés en application du présent article sont transmis au procureur
+de la République.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°73-1193 1973-12-27 art. 44 II al. 1 et 2
 	  - Loi n°73-1193 du 27 décembre 1973 - art. 44 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 3 () JORF 2 septembre 2005
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 39
 
 	**Cité par**:
 
@@ -2101,15 +2162,15 @@ Les procès-verbaux dressés en application du présent article sont transmis au
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-1 (V)
+	  - Code de la consommation - art. L121-1
 
 
 ###### Article L121-3
 
-La cessation de la publicité peut être ordonnée par le juge d'instruction ou par le tribunal saisi des poursuites, soit sur
-réquisition du ministère public, soit d'office. La mesure ainsi prise est exécutoire nonobstant toutes voies de recours.
-Mainlevée peut en être donnée par la juridiction qui l'a ordonnée ou qui est saisie du dossier. La mesure cesse d'avoir effet
-en cas de décision de non-lieu ou de relaxe.
+La cessation de la pratique commerciale trompeuse peut être ordonnée par le juge d'instruction ou par le tribunal saisi des
+poursuites, soit sur réquisition du ministère public, soit d'office. La mesure ainsi prise est exécutoire nonobstant toutes
+voies de recours. Mainlevée peut en être donnée par la juridiction qui l'a ordonnée ou qui est saisie du dossier. La mesure
+cesse d'avoir effet en cas de décision de non-lieu ou de relaxe.
 
 Les décisions statuant sur les demandes de mainlevée peuvent faire l'objet d'un recours devant la chambre de l'instruction ou
 devant la cour d'appel selon qu'elles ont été prononcées par un juge d'instruction ou par le tribunal saisi des poursuites.
@@ -2120,7 +2181,6 @@ La chambre de l'instruction ou la cour d'appel statue dans un délai de dix jour
 
 	**Anciens textes**:
 
-	  - Loi n°73-1193 1973-12-27 art. 44 II al. 3 à 5
 	  - Loi n°73-1193 du 27 décembre 1973 - art. 44 (Ab)
 
 	**Cité par**:
@@ -2131,13 +2191,17 @@ La chambre de l'instruction ou la cour d'appel statue dans un délai de dix jour
 	  - Code de commerce. - art. L442-3 (V)
 	  - Code de la consommation - art. L121-15-3 (V)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 39
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L132-8 (V)
 
 
 ###### Article L121-4
@@ -2151,16 +2215,11 @@ diffusion et impartit au condamné un délai pour y faire procéder ; en cas de 
 
 	**Anciens textes**:
 
-	  - Loi n°73-1193 1973-12-27 art. 44 II al. 6
 	  - Loi n°73-1193 du 27 décembre 1973 - art. 44 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - DEPLACE: Loi n°2008-3 du 3 janvier 2008 - art. 39
 
 	**Cité par**:
 
@@ -2170,41 +2229,32 @@ diffusion et impartit au condamné un délai pour y faire procéder ; en cas de 
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-7 (M)
+	  - Code de la consommation - art. L121-7 (V)
 
 
 ###### Article L121-5
 
-L'annonceur pour le compte duquel la publicité est diffusée est responsable, à titre principal, de l'infraction commise. Si
-le contrevenant est une personne morale, la responsabilité incombe à ses dirigeants. La complicité est punissable dans les
-conditions de droit commun.
+La personne pour le compte de laquelle la pratique commerciale trompeuse est mise en oeuvre est responsable, à titre
+principal, de l'infraction commise. 
 
-Le délit est constitué dès lors que la publicité est faite, reçue ou perçue en France.
+Le délit est constitué dès lors que la pratique commerciale est mise en oeuvre ou qu'elle produit ses effets en France.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°73-1193 1973-12-27 art. 44 II al. 7 et 8
 	  - Loi n°73-1193 du 27 décembre 1973 - art. 44 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 39
 
 
 ###### Article L121-6
 
-Les infractions aux dispositions de l'article L. 121-1 sont punies des peines prévues à l'article L. 213-1.
+Les infractions aux dispositions de l'article L. 121-1 sont punies des peines prévues à l'article L. 213-1. 
 
-Le maximum de l'amende prévue à cet article peut être porté à 50 p. 100 des dépenses de la publicité constituant le délit.
-
-Les dispositions de l'article L. 213-6 prévoyant la responsabilité pénale des personnes morales sont applicables à ces
-infractions.
+L'amende peut être portée à 50 % des dépenses de la publicité ou de la pratique constituant le délit.
 
 **Liens relatifs à cet article**
 
@@ -2234,23 +2284,9 @@ infractions.
 
 	  - Loi n°73-1193 du 27 décembre 1973 - art. 44 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-504 2001-06-12 art. 24 (modalités d'application aux DOM - TOM)
-
 	**Modifié par**:
 
-	  - Loi n°2001-504 du 12 juin 2001 - art. 3 () JORF 16 juin 2001
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-1 (V)
-	  - Code de la consommation - art. L213-1 (M)
-	  - Code de la consommation - art. L213-6 (V)
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 39
 
 
 ###### Article L121-7
@@ -2258,12 +2294,12 @@ infractions.
 Pour l'application de l'article L. 121-6, le tribunal peut demander tant aux parties qu'à l'annonceur la communication de
 tous documents utiles. En cas de refus, il peut ordonner la saisie de ces documents ou toute mesure d'instruction appropriée.
 Il peut en outre prononcer une astreinte pouvant atteindre 4500 euros par jour de retard à compter de la date qu'il a retenue
-pour la production de ces documents.
+pour la production de ces documents. 
 
 Les pénalités prévues au premier alinéa de l'article L. 121-6 sont également applicables en cas de refus de communication des
 éléments de justification ou des publicités diffusées, demandés dans les conditions prévues au premier alinéa de l'article L.
-121-2, de même qu'en cas d'inobservation des décisions ordonnant la cessation de la publicité ou de non-exécution dans le
-délai imparti des annonces rectificatives.
+121-2, de même qu'en cas d'inobservation des décisions ordonnant la cessation de la pratique commerciale ou de non-exécution
+dans le délai imparti des annonces rectificatives.
 
 **Liens relatifs à cet article**
 
@@ -2271,22 +2307,34 @@ délai imparti des annonces rectificatives.
 
 	  - Loi n°73-1193 du 27 décembre 1973 - art. 44 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 39
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-2
+	  - Code de la consommation - art. L121-6
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L121-4 (VT)
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code de la consommation - art. L121-6 (M)
+	  - Code de la consommation - art. L132-5 (V)
+	  - Code de la consommation - art. L132-6 (V)
+	  - Code de la consommation - art. L132-7 (V)
+	  - Code de la consommation - art. L132-9 (V)
+	  - Code de la consommation - art. L451-8 (V)
+	  - Code de la consommation - art. L452-4 (V)
 
+
+##### Sous-section 2 : Publicité
 
 ###### Article L121-8
 
@@ -2310,13 +2358,9 @@ spécifiques applicables.
 
 	  - Loi n°92-60 du 18 janvier 1992 - art. 10 (P)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Modifié par**:
-
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 1 () JORF 25 août 2001
+	  - DEPLACE: Loi n°2008-3 du 3 janvier 2008 - art. 39
 
 	**Cité par**:
 
@@ -2349,19 +2393,23 @@ marque ou d'un nom commercial protégé.
 
 	  - Loi n°92-60 du 18 janvier 1992 - art. 10 (P)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°93-949 1993-07-26
+	  - DEPLACE: Loi n°2008-3 du 3 janvier 2008 - art. 39
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 2 () JORF 25 août 2001
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L121-11 (V)
 	  - Code de la consommation - art. L121-12 (M)
 	  - Code de la consommation - art. L121-13 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L122-2 (V)
 
 
 ###### Article L121-10
@@ -2375,13 +2423,17 @@ autorisée qu'entre des produits bénéficiant chacun de la même appellation ou
 
 	  - Loi n°92-60 du 18 janvier 1992 - art. 10 (P)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°93-949 1993-07-26
+	  - DEPLACE: Loi n°2008-3 du 3 janvier 2008 - art. 39
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 3 () JORF 25 août 2001
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L122-3 (V)
 
 
 ###### Article L121-11
@@ -2394,21 +2446,23 @@ lieux ouverts au public.
 
 	**Anciens textes**:
 
-	  - Loi n°92-60 1992-01-18 art. 10 I al. 4
 	  - Loi n°92-60 du 18 janvier 1992 - art. 10 (P)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°93-949 1993-07-26
+	  - DEPLACE: Loi n°2008-3 du 3 janvier 2008 - art. 39
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-8 (M)
-	  - Code de la consommation - art. L121-9 (M)
+	  - Code de la consommation - art. L121-8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L122-4 (V)
 
 
 ###### Article L121-12
@@ -2423,17 +2477,22 @@ présentations contenues dans la publicité.
 
 	  - Loi n°92-60 du 18 janvier 1992 - art. 10 (P)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°93-949 1993-07-26
+	  - DEPLACE: Loi n°2008-3 du 3 janvier 2008 - art. 39
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 4 () JORF 25 août 2001
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-2 (M)
+	  - Code de la consommation - art. L121-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L122-5 (V)
+	  - Code de la consommation - art. L512-15 (V)
 
 
 ###### Article L121-13
@@ -2446,30 +2505,32 @@ du 29 juillet 1982 sur la communication audiovisuelle.
 
 	**Cite**:
 
-	  - Loi n°1881-07-29 art. 13
-	  - Loi n°82-652 1982-07-29 art. 6
-	  - Code de la consommation - art. L121-8 (M)
-	  - Code de la consommation - art. L121-9 (M)
+	  - Loi du 29 juillet 1881 - art. 13
+	  - Loi n°82-652 du 29 juillet 1982 - art. 6
+	  - Code de la consommation - art. L121-8
 
 	**Anciens textes**:
 
-	  - Loi n°92-60 1992-01-18 art. 10 I al. 6
 	  - Loi n°92-60 du 18 janvier 1992 - art. 10 (P)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°93-949 1993-07-26
+	  - DEPLACE: Loi n°2008-3 du 3 janvier 2008 - art. 39
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L122-6 (V)
 
 
 ###### Article L121-14
 
 Sans préjudice de l'application de l'article 1382 du code civil, les infractions aux dispositions des articles L. 121-8 à L.
 121-12 sont, le cas échéant, punies des peines prévues, d'une part, aux articles L. 121-1 à L. 121-7 et, d'autre part, aux
-articles L. 716-9 et L. 716-12 du code de la propriété intellectuelle.
+articles L. 716-9 et L. 716-12 du code de la propriété intellectuelle. 
 
 Un décret en Conseil d'Etat précise en tant que de besoin les modalités d'application des articles L. 121-8 à L. 121-13.
 
@@ -2477,22 +2538,17 @@ Un décret en Conseil d'Etat précise en tant que de besoin les modalités d'app
 
 	**Anciens textes**:
 
-	  - Loi n°92-60 1992-01-18 art. 10 II et III al. 2
 	  - Loi n°92-60 du 18 janvier 1992 - art. 10 (P)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - DEPLACE: Loi n°2008-3 du 3 janvier 2008 - art. 39
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L716-12 (M)
 	  - Code de la propriété intellectuelle - art. L716-9 (M)
-	  - Code de la consommation L121-8 à L121-12, L121-1 à L121-7, L121-8 à L121-13
+	  - Code de la consommation - art. L121-1 (V)
+	  - Code de la consommation - art. L121-8 (V)
 	  - Code civil - art. 1382 (V)
 
 	**Cité par**:
@@ -2502,26 +2558,25 @@ Un décret en Conseil d'Etat précise en tant que de besoin les modalités d'app
 
 ###### Article L121-15
 
-Est, en outre, interdite toute publicité portant :
+Est, en outre, interdite toute publicité portant : 
 
 1° Sur une opération commerciale soumise à autorisation au titre soit des articles L. 310-1, L. 310-2, L. 310-3, L. 310-4 et
 L. 310-7 du code de commerce, soit des articles L. 720-5 et L. 720-10 du même code, et qui n'a pas fait l'objet de cette
-autorisation ;
+autorisation ; 
 
 2° Sur une opération commerciale dont la réalisation nécessite l'emploi de personnel salarié requérant une autorisation au
 titre du chapitre Ier du titre II du livre II du code du travail et réalisée sans l'obtention préalable de cette
 autorisation, ou qui est en infraction avec les articles 41 a et 41 b, 105 a à 105 i du code des professions applicable dans
-les départements de la Moselle, du Bas-Rhin et du Haut-Rhin ;
+les départements de la Moselle, du Bas-Rhin et du Haut-Rhin ; 
 
 3° Sur une opération commerciale réalisée ou devant être réalisée en infraction avec les dispositions de l'article L. 221-17
-du code du travail ;
+du code du travail ; 
 
 4° Sur une manifestation commerciale soumise à la déclaration prévue à l'article L. 740-2 du code de commerce et qui n'a pas
-fait l'objet de cette déclaration.
+fait l'objet de cette déclaration. 
 
 Tout annonceur qui effectue ou fait effectuer une publicité interdite en vertu des alinéas précédents est puni d'une amende
-de 37 500 euros. Le maximum de l'amende peut être porté à 50 p. 100 du montant des dépenses consacrées à la publicité
-illégale.
+de 37 500 euros. Le maximum de l'amende peut être porté à 50  % du montant des dépenses consacrées à la publicité illégale. 
 
 Le tribunal peut ordonner la cessation de la publicité interdite aux frais des personnes reconnues coupables des infractions
 définies aux alinéas qui précèdent.
@@ -2536,24 +2591,20 @@ définies aux alinéas qui précèdent.
 
 	  - Loi n°89-1008 du 31 décembre 1989 - art. 8 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 32 () JORF 27 mars 2004
+	  - DEPLACE: Loi n°2008-3 du 3 janvier 2008 - art. 39
 
 	**Cite**:
 
-	  - Code de commerce. - art. L310-1 (M)
-	  - Code de commerce. - art. L310-2 (M)
-	  - Code de commerce. - art. L310-3 (M)
-	  - Code de commerce. - art. L310-4 (V)
-	  - Code de commerce. - art. L720-10 (M)
-	  - Code de commerce. - art. L720-5 (M)
-	  - Code de commerce. - art. L740-2 (Ab)
-	  - Code du travail - art. L221-17 (M)
+	  - Code de commerce - art. L310-1
+	  - Code de commerce - art. L310-2
+	  - Code de commerce - art. L310-3
+	  - Code de commerce - art. L310-4
+	  - Code de commerce - art. L720-10
+	  - Code de commerce - art. L720-5
+	  - Code de commerce - art. L740-2
+	  - Code du travail - art. L221-17
 
 
 ###### Article L121-15-1
@@ -2564,13 +2615,9 @@ non équivoque dès leur réception par leur destinataire, ou en cas d'impossibi
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 21 () JORF 22 juin 2004
+	  - DEPLACE: Loi n°2008-3 du 3 janvier 2008 - art. 39
 
 	**Cité par**:
 
@@ -2580,34 +2627,38 @@ non équivoque dès leur réception par leur destinataire, ou en cas d'impossibi
 
 ###### Article L121-15-2
 
-Sans préjudice des dispositions réprimant la publicité trompeuse prévues à l'article L. 121-1, les conditions auxquelles sont
-soumises la possibilité de bénéficier d'offres promotionnelles ainsi que celle de participer à des concours ou à des jeux
-promotionnels, lorsque ces offres, concours ou jeux sont proposés par voie électronique, doivent être clairement précisées et
-aisément accessibles.
+Sans préjudice des dispositions réprimant les pratiques trompeuses prévues à l'article L. 121-1, les conditions auxquelles
+sont soumises la possibilité de bénéficier d'offres promotionnelles ainsi que celle de participer à des concours ou à des
+jeux promotionnels, lorsque ces offres, concours ou jeux sont proposés par voie électronique, doivent être clairement
+précisées et aisément accessibles.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 39
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 21 () JORF 22 juin 2004
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-1 (V)
+	  - Code de la consommation - art. L121-1
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L121-15-3 (V)
 
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L122-9 (V)
+
 
 ###### Article L121-15-3
 
 Les articles L. 121-15-1 et L. 121-15-2 sont également applicables aux publicités, offres, concours ou jeux à destination des
-professionnels.
+professionnels. 
 
 Les infractions aux dispositions des articles L. 121-15-1 et L. 121-15-2 sont passibles des peines prévues à l'article L.
 121-6. Elles sont recherchées et constatées dans les conditions prévues à l'article L. 121-2. Les articles L. 121-3 et L.
@@ -2615,22 +2666,15 @@ Les infractions aux dispositions des articles L. 121-15-1 et L. 121-15-2 sont pa
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 21 () JORF 22 juin 2004
+	  - DEPLACE: Loi n°2008-3 du 3 janvier 2008 - art. 39
 
 	**Cite**:
 
 	  - Code de la consommation - art. L121-15-1 (V)
-	  - Code de la consommation - art. L121-15-2 (V)
-	  - Code de la consommation - art. L121-2 (M)
-	  - Code de la consommation - art. L121-3 (M)
-	  - Code de la consommation - art. L121-4 (V)
-	  - Code de la consommation - art. L121-6 (M)
+	  - Code de la consommation - art. L121-3 (V)
+	  - Code de la consommation - art. L121-6 (V)
 
 
 ##### Section 2 : Ventes de biens et fournitures de prestations de services à distance
@@ -5164,32 +5208,21 @@ dispositions relatives aux modifications ultérieures des conditions contractuel
 
 ###### Article L121-85
 
-Les infractions aux dispositions de l'article L. 121-83 et du premier alinéa de l'article L. 121-84 sont recherchées et
-constatées dans les conditions fixées par les premier, troisième et quatrième alinéas de l'article L. 450-1 et les articles
-L. 450-2, L. 450-3, L. 450-4, L. 450-7, L. 450-8, L. 470-1 et L. 470-5 du code de commerce.
+La présente section est applicable aux consommateurs et aux non-professionnels.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 21
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 114 () JORF 10 juillet 2004
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L450-2 (V)
-	  - Code de commerce. - art. L450-3 (M)
-	  - Code de commerce. - art. L450-4 (M)
-	  - Code de commerce. - art. L450-7 (V)
-	  - Code de commerce. - art. L450-8 (M)
-	  - Code de commerce. - art. L470-1 (V)
-	  - Code de commerce. - art. L470-5 (V)
-	  - Code de la consommation - art. L121-83 (V)
-	  - Code de la consommation - art. L121-84 (V)
-	  - Code de la consommation L121-83, L121-84, L450-1
+	  - Code de la consommation - art. L224-42 (V)
 
 
 ##### Section 12 : Contrats de fourniture d'électricité ou de gaz naturel
@@ -5646,26 +5679,27 @@ Le paiement résultant d'une obligation législative ou réglementaire n'exige p
 
 ###### Article L122-6
 
-Sont interdits :
+Sont interdits : 
 
 1° La vente pratiquée par le procédé dit "de la boule de neige" ou tous autres procédés analogues consistant en particulier à
 offrir des marchandises au public en lui faisant espérer l'obtention de ces marchandises à titre gratuit ou contre remise
 d'une somme inférieure à leur valeur réelle et en subordonnant les ventes au placement de bons ou de tickets à des tiers ou à
-la collecte d'adhésions ou inscriptions ;
+la collecte d'adhésions ou inscriptions ; 
 
-2° Le fait de proposer à une personne de collecter des adhésions ou de s'inscrire sur une liste en lui faisant espérer des
-gains financiers résultant d'une progression géométrique du nombre des personnes recrutées ou inscrites.
+2° Le fait de proposer à une personne de collecter des adhésions ou de s'inscrire sur une liste en exigeant d'elle le
+versement d'une contrepartie quelconque et en lui faisant espérer des gains financiers résultant d'une progression du nombre
+de personnes recrutées ou inscrites plutôt que de la vente, de la fourniture ou de la consommation de biens ou services. 
 
 Dans le cas de réseaux de vente constitués par recrutement en chaîne d'adhérents ou d'affiliés, il est interdit d'obtenir
 d'un adhérent ou affilié du réseau le versement d'une somme correspondant à un droit d'entrée ou à l'acquisition de matériels
 ou de services à vocation pédagogique, de formation, de démonstration ou de vente ou tout autre matériel ou service analogue,
 lorsque ce versement conduit à un paiement ou à l'attribution d'un avantage bénéficiant à un ou plusieurs adhérents ou
-affiliés du réseau.
+affiliés du réseau. 
 
 En outre, il est interdit, dans ces mêmes réseaux, d'obtenir d'un adhérent ou affilié l'acquisition d'un stock de
 marchandises destinées à la revente, sans garantie de reprise du stock aux conditions de l'achat, déduction faite
-éventuellement d'une somme n'excédant pas 10 p. 100 du prix correspondant. Cette garantie de reprise peut toutefois être
-limitée à une période d'un an après l'achat.
+éventuellement d'une somme n'excédant pas 10  % du prix correspondant. Cette garantie de reprise peut toutefois être limitée
+à une période d'un an après l'achat.
 
 **Liens relatifs à cet article**
 
@@ -5673,13 +5707,17 @@ limitée à une période d'un an après l'achat.
 
 	  - Loi n°53-1090 du 5 novembre 1953 - art. 1 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Loi n°95-96 du 1 février 1995 - art. 13 () JORF 2 février 1995
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 39
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-15 (V)
 
 	**Cité par**:
 
@@ -5826,6 +5864,110 @@ sens de l'article 529 du code civil.
 
 	  - Code de la consommation - art. L122-8 (VT)
 	  - Code civil - art. 529
+
+
+##### Section 5 : Pratiques commerciales agressives
+
+
+###### Article L122-11
+
+Une pratique commerciale est agressive lorsque du fait de sollicitations répétées et insistantes ou de l'usage d'une
+contrainte physique ou morale : 
+
+1° Elle altère ou est de nature à altérer de manière significative la liberté de choix d'un consommateur ; 
+
+2° Elle vicie ou est de nature à vicier le consentement d'un consommateur ; 
+
+3° Elle entrave l'exercice des droits contractuels d'un consommateur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 39
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L120-1 (VT)
+	  - Code de la consommation - art. L122-11-1 (V)
+
+
+###### Article L122-12
+
+Le fait de mettre en oeuvre une pratique commerciale agressive est puni d'un emprisonnement de deux ans au plus et d'une
+amende de 150 000 euros au plus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 39
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L122-13 (VT)
+	  - Code de la consommation - art. L122-14 (VT)
+	  - Code de la consommation - art. L122-3 (VT)
+
+
+###### Article L122-13
+
+Les personnes physiques coupables du délit prévu à l'article L. 122-12 encourent une interdiction, pour une durée de cinq ans
+au plus, d'exercer directement ou indirectement une activité commerciale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 39
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L122-12
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L132-12 (V)
+
+
+###### Article L122-14
+
+Les personnes morales coupables du délit prévu à l'article L. 122-12 encourent les peines mentionnées à l'article 131-39 du
+code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 39
+
+	**Cite**:
+
+	  - Code de la consommation - art. L122-12
+	  - Code pénal - art. 131-39
+
+
+###### Article L122-15
+
+Lorsqu'une pratique commerciale agressive aboutit à la conclusion d'un contrat, celui-ci est nul et de nul effet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 39
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L132-10 (V)
 
 
 ### Titre III : Conditions générales des contrats
@@ -6286,7 +6428,8 @@ conditions prévues ci-dessus, les sommes dues sont productives d'intérêts au 
 Les dispositions du présent article s'appliquent sans préjudice de celles qui soumettent légalement certains contrats à des
 règles particulières en ce qui concerne l'information du consommateur.
 
-Les trois alinéas précédents ne sont pas applicables aux exploitants des services d'eau potable et d'assainissement.
+Les trois alinéas précédents ne sont pas applicables aux exploitants des services d'eau potable et d'assainissement. Ils sont
+applicables aux consommateurs et aux non-professionnels.
 
 **Liens relatifs à cet article**
 
@@ -6294,13 +6437,9 @@ Les trois alinéas précédents ne sont pas applicables aux exploitants des serv
 
 	  - Loi n°70-9 du 2 janvier 1970 - art. 7 (V)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 66 () JORF 31 décembre 2006
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 33
 
 
 ### Titre IV : Pouvoirs des agents et actions juridictionnelles
@@ -6309,23 +6448,24 @@ Les trois alinéas précédents ne sont pas applicables aux exploitants des serv
 
 ###### Article L141-1
 
-I.-Sont recherchés et constatés, dans les conditions fixées par les articles L. 450-1 à L. 450-4, 
-L. 450-7, L. 450-8, L. 470-1 et L. 470-5 du code de commerce, les infractions ou manquements prévus aux dispositions
-suivantes du présent code : 
+I.-Sont recherchés et constatés, dans les conditions fixées par les articles L. 450-1 à L. 450-4, L. 450-7, L. 450-8, L.
+470-1 et L. 470-5 du code de commerce, les infractions ou manquements prévus aux dispositions suivantes du présent code : 
 
-1° Les sections 1,2,3,8,9 et 12 du chapitre Ier du titre II du livre Ier ; 
+1° Le chapitre préliminaire du titre II du livre Ier ; 
 
-2° Les sections 3 et 4 du chapitre II du titre II du livre Ier ; 
+2° Les sections 1,2,3,8,9 et 12 du chapitre Ier du titre II du livre Ier ; 
 
-3° Les sections 5 et 7 du chapitre Ier du titre Ier du livre III ; 
+3° Les sections 3,4 et 5 du chapitre II du titre II du livre Ier ; 
 
-4° La section 7 du chapitre II du titre Ier du livre III ; 
+4° Les sections 5 et 7 du chapitre Ier du titre Ier du livre III ; 
 
-5° Les sections 1,3 et 6 du chapitre III du titre Ier du livre III ; 
+5° La section 7 du chapitre II du titre Ier du livre III ; 
 
-6° La section 7 du chapitre IV du titre Ier du livre III ; 
+6° Les sections 1,3 et 6 du chapitre III du titre Ier du livre III ; 
 
-7° Le chapitre II du titre II du livre III. 
+7° La section 7 du chapitre IV du titre Ier du livre III ; 
+
+8° Le chapitre II du titre II du livre III. 
 
 II.-Sont recherchés et constatés, dans les mêmes conditions qu'au I, à l'exception des pouvoirs d'enquête de l'article L.
 450-4 du code de commerce, les infractions ou manquements prévus aux dispositions suivantes du présent code : 
@@ -6373,13 +6513,9 @@ mentionnés aux I, II et III. Les modalités de mise en oeuvre de ces procédure
 	**Cite**:
 
 	  - Loi n°70-9 du 2 janvier 1970
+	  - Loi n°86-1290 du 23 décembre 1986
 	  - Loi n°89-462 du 6 juillet 1989 - art. 4
 	  - Loi n°2004-575 du 21 juin 2004
-	  - Code de commerce. - art. L450-1 (V)
-	  - Code de commerce. - art. L450-7 (V)
-	  - Code de commerce. - art. L450-8 (V)
-	  - Code de commerce. - art. L470-1 (V)
-	  - Code de commerce. - art. L470-5 (V)
 
 	**Cité par**:
 
@@ -6437,14 +6573,14 @@ mentionnés aux I, II et III. Les modalités de mise en oeuvre de ces procédure
 
 	**Modifié par**:
 
-	  - Loi n°2007-1774 du 17 décembre 2007 - art. 13
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 39
 
 
 ###### Article L141-2
 
-Pour les contraventions prévues aux livres Ier et III du présent code, l'autorité administrative chargée de la concurrence et
-de la consommation a droit, tant que l'action publique n'a pas été mise en mouvement, de transiger, après accord du procureur
-de la République, selon les modalités fixées par décret en Conseil d'Etat.
+Pour les contraventions prévues aux livres Ier et III ainsi que pour les infractions prévues à l'article L. 121-1, l'autorité
+administrative chargée de la concurrence et de la consommation a droit, tant que l'action publique n'a pas été mise en
+mouvement, de transiger, après accord du procureur de la République, selon des modalités fixées par décret en Conseil d'Etat.
 
 L'acte par lequel le procureur de la République donne son accord à la proposition de transaction est interruptif de la
 prescription de l'action publique.
@@ -6454,13 +6590,13 @@ lui de l'acceptation de la transaction.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 39
 
-	**Créé par**:
+	**Cite**:
 
-	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 1 () JORF 2 septembre 2005
+	  - Code de la consommation - art. L121-1
 
 	**Cité par**:
 
@@ -6498,6 +6634,17 @@ dans des pays tiers.
 	  - Code de la consommation - art. L121-1 (V)
 	  - Code de la consommation - art. L141-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 11 (M)
+
+
+###### Article L141-4
+
+Le juge peut soulever d'office toutes les dispositions du présent code dans les litiges nés de son application.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 34
 
 
 ## Livre II : Conformité et sécurité des produits et des services
@@ -10046,6 +10193,8 @@ animale qu'il a importé, produit, transformé ou distribué est dangereux.
 
 ##### Sous-section 1 : Recueil d'information.
 
+##### Sous-section 1 : Pouvoirs d'enquête.
+
 ###### Article L218-1
 
 Les agents mentionnés à l'article L. 215-1 peuvent pénétrer dans les lieux utilisés à des fins professionnelles et dans les
@@ -10083,7 +10232,38 @@ de 8 heures à 20 heures et avec l'autorisation du juge des libertés et de la d
 	  - Code rural et de la pêche maritime - art. L230-5 (V)
 
 
+###### Article L218-1-1
+
+Les agents mentionnés à l'article L. 215-1 sont habilités à procéder au contrôle de l'application des règlements mentionnés à
+l'article L. 215-2, dans les conditions prévues à cet article ; ils disposent à cet effet des pouvoirs d'enquête mentionnés à
+l'article L. 218-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 37
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-1
+	  - Code de la consommation - art. L215-2 (VT)
+	  - Code de la consommation - art. L218-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L511-12 (V)
+	  - Code de la consommation - art. L511-22 (M)
+	  - Code de la consommation - art. L511-3 (V)
+
+
 ##### Sous-section 2 : Mesures relatives aux établissements et aux produits.
+
+##### Sous-section 2 : Mesures relatives aux établissements, aux produits et aux services.
 
 ###### Article L218-2
 
@@ -10181,6 +10361,31 @@ Les frais résultant de la mise en oeuvre de ces mesures sont à la charge de l'
 	**Cite**:
 
 	  - Code de la consommation - art. L215-1 (V)
+
+
+###### Article L218-5-1
+
+Lorsque les agents mentionnés à l'article L. 215-1 constatent qu'une prestation de services n'est pas conforme à la
+réglementation en vigueur prise en application du présent livre, ils peuvent en ordonner la mise en conformité, dans un délai
+qu'ils fixent. 
+
+Cette mise en conformité peut concerner les produits et équipements mis à disposition des consommateurs dans le cadre de la
+prestation de services.
+
+En cas de danger grave ou immédiat, le préfet ou, à Paris, le préfet de police peut suspendre la prestation de services
+jusqu'à sa mise en conformité avec la réglementation en vigueur. 
+
+Les frais résultant de la mise en oeuvre de ces mesures sont à la charge du prestataire de services.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 38
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-1
 
 
 ##### Section 2 : Etablissements traitant des produits par ionisation
@@ -10584,18 +10789,9 @@ un an.
 
 ###### Article L221-6
 
-Les agents qui ont procédé aux contrôles transmettent au représentant de l'Etat dans le département les résultats de leurs
-investigations accompagnés de leurs propositions sur les mesures à prendre. Celui-ci communique, dans les meilleurs délais et
-au plus tard dans les quinze jours de la transmission, le dossier au ministre intéressé et au ministre chargé de la
-consommation avec son avis motivé.
-
-En cas de danger grave ou immédiat, le représentant de l'Etat dans le département prend les mesures d'urgence qui s'imposent.
-Il en réfère aussitôt au ministre intéressé et au ministre chargé de la consommation, qui se prononcent, par arrêté conjoint,
-dans un délai de quinze jours. Il peut, dans l'attente de la décision ministérielle, suspendre la prestation d'un service.
-
-Pour les produits entrant dans le champ de compétence de l'Agence française de sécurité sanitaire des aliments, les résultats
-des investigations et les propositions mentionnées au premier alinéa sont transmis, dans les mêmes conditions, au directeur
-général de l'agence.
+En cas de danger grave ou immédiat lié à une prestation de services réalisée à titre gratuit ou onéreux, le préfet ou, à
+Paris, le préfet de police prend les mesures d'urgence qui s'imposent. Si nécessaire, il peut suspendre la prestation de
+services pour une durée n'excédant pas deux mois.
 
 **Liens relatifs à cet article**
 
@@ -10603,13 +10799,9 @@ général de l'agence.
 
 	  - Loi n°83-660 du 21 juillet 1983 - art. 6 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 38
 
 	**Cité par**:
 
@@ -13031,46 +13223,52 @@ physiques.
 
 ###### Article L312-8
 
-L'offre définie à l'article précédent :
+L'offre définie à l'article précédent : 
 
-1° Mentionne l'identité des parties, et éventuellement des cautions déclarées ;
+1° Mentionne l'identité des parties, et éventuellement des cautions déclarées ; 
 
 2° Précise la nature, l'objet, les modalités du prêt, notamment celles qui sont relatives aux dates et conditions de mise à
-disposition des fonds ;
+disposition des fonds ; 
 
-2° bis. Comprend un échéancier des amortissements détaillant pour chaque échéance la répartition du remboursement entre le
-capital et les intérêts. Toutefois, cette disposition ne concerne pas les offres de prêts à taux variable ;
+2° bis Pour les offres de prêts dont le taux d'intérêt est fixe, comprend un échéancier des amortissements détaillant pour
+chaque échéance la répartition du remboursement entre le capital et les intérêts ; 
+
+2° ter Pour les offres de prêts dont le taux d'intérêt est variable, est accompagnée d'une notice présentant les conditions
+et modalités de variation du taux d'intérêt et d'un document d'information contenant une simulation de l'impact d'une
+variation de ce taux sur les mensualités, la durée du prêt et le coût total du crédit. Cette simulation ne constitue pas un
+engagement du prêteur à l'égard de l'emprunteur quant à l'évolution effective des taux d'intérêt pendant le prêt et à son
+impact sur les mensualités, la durée du prêt et le coût total du crédit. Le document d'information mentionne le caractère
+indicatif de la simulation et l'absence de responsabilité du prêteur quant à l'évolution effective des taux d'intérêt pendant
+le prêt et à son impact sur les mensualités, la durée du prêt et le coût total du crédit ; 
 
 3° Indique, outre le montant du crédit susceptible d'être consenti, et, le cas échéant, celui de ses fractions périodiquement
 disponibles, son coût total, son taux défini conformément à l'article L. 313-1 ainsi que, s'il y a lieu, les modalités de
-l'indexation ;
+l'indexation ; 
 
 4° Enonce, en donnant une évaluation de leur coût, les stipulations, les assurances et les sûretés réelles ou personnelles
-exigées, qui conditionnent la conclusion du prêt ;
+exigées, qui conditionnent la conclusion du prêt ; 
 
-5° Fait état des conditions requises pour un transfert éventuel du prêt à une tierce personne ;
+4° bis Sauf si le prêteur exerce, dans les conditions fixées par l'article L. 312-9, son droit d'exiger l'adhésion à un
+contrat d'assurance collective qu'il a souscrit, mentionne que l'emprunteur peut souscrire auprès de l'assureur de son choix
+une assurance équivalente à celle proposée par le prêteur ; 
 
-6° Rappelle les dispositions de l'article L. 312-10.
+5° Fait état des conditions requises pour un transfert éventuel du prêt à une tierce personne ; 
 
-Toute modification des conditions d'obtention du prêt, notamment le montant ou le taux du crédit, donne lieu à la remise à
-l'emprunteur d'une nouvelle offre préalable.
+6° Rappelle les dispositions de l'article L. 312-10. 
 
-Toutefois, cette obligation n'est pas applicable aux prêts dont le taux d'intérêt est variable, dès lors qu'a été remise à
-l'emprunteur avec l'offre préalable une notice présentant les conditions et modalités de variation du taux.
+Toute modification des conditions d'obtention d'un prêt dont le taux d'intérêt est fixe, notamment le montant ou le taux du
+crédit, donne lieu à la remise à l'emprunteur d'une nouvelle offre préalable.
+
+**Nota:**
+
+Loi n° 2008-3 du 3 janvier 2008, art. 25-II : Les obligations fixées par le 2° ter et le 4° bis de l'article L. 312-8 du code
+de la consommation entrent en vigueur le 1er octobre 2008.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°79-596 du 13 juillet 1979 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Modifié par**:
-
-	  - Loi n°96-314 du 12 avril 1996 - art. 87 (V) JORF 13 avril 1996
 
 	**Cité par**:
 
@@ -13083,14 +13281,14 @@ l'emprunteur avec l'offre préalable une notice présentant les conditions et mo
 	  - Code de la consommation - art. L312-9 (VT)
 	  - Code de la consommation - art. L313-15 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 25 (V)
+
 	**Cite**:
 
-	  - Code de la consommation - art. L312-10 (V)
-	  - Code de la consommation - art. L313-1 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la consommation L312-33 *sanctions pénales*
+	  - Code de la consommation - art. L312-10
+	  - Code de la consommation - art. L313-1
 
 
 ###### Article L312-9
