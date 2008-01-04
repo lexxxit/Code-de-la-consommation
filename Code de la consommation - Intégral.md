@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2008-01-05
+Version Consolidée au 2008-01-05 00:00:01 +0100
 
 # Partie législative
 
@@ -2540,20 +2540,25 @@ Un décret en Conseil d'Etat précise en tant que de besoin les modalités d'app
 
 	  - Loi n°92-60 du 18 janvier 1992 - art. 10 (P)
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - DEPLACE: Loi n°2008-3 du 3 janvier 2008 - art. 39
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L716-9 (M)
-	  - Code de la consommation - art. L121-1 (V)
-	  - Code de la consommation - art. L121-8 (V)
-	  - Code civil - art. 1382 (V)
+	  - Code de la propriété intellectuelle - art. L716-9
+	  - Code de la consommation - art. L121-1 (VT)
+	  - Code de la consommation - art. L121-8 (VT)
+	  - Code civil - art. 1382
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L122-7 (V)
+	  - Code de la consommation - art. L132-25 (V)
 
 	**Cité par**:
 
-	  - Code de la consommation - art. L213-5 (M)
+	  - Code de la consommation - art. L213-5 (VT)
 
 
 ###### Article L121-15
@@ -10191,8 +10196,6 @@ animale qu'il a importé, produit, transformé ou distribué est dangereux.
 
 ##### Section 1 : Dispositions générales
 
-##### Sous-section 1 : Recueil d'information.
-
 ##### Sous-section 1 : Pouvoirs d'enquête.
 
 ###### Article L218-1
@@ -10260,8 +10263,6 @@ l'article L. 218-1.
 	  - Code de la consommation - art. L511-22 (M)
 	  - Code de la consommation - art. L511-3 (V)
 
-
-##### Sous-section 2 : Mesures relatives aux établissements et aux produits.
 
 ##### Sous-section 2 : Mesures relatives aux établissements, aux produits et aux services.
 
