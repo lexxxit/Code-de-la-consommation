@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2008-01-23
+Version Consolidée au 2008-05-01
 
 # Partie législative
 
@@ -1824,21 +1824,29 @@ certification.
 
 ###### Article L115-29
 
-Les dispositions des articles L. 115-27 et L. 115-28 ne sont pas applicables :
+Les dispositions des articles L. 115-27 et L. 115-28 ne sont pas applicables : 
 
 1° A la certification des denrées alimentaires et des produits agricoles non alimentaires et non transformés mentionnés à
-l'article L. 115-21 ;
+l'article L. 115-21 ; 
 
 2° Aux autorisations de mise sur le marché des médicaments à usage humain ou vétérinaire faisant l'objet des dispositions du
-livre V du code de la santé publique ;
+livre V du code de la santé publique ; 
 
 3° A la délivrance des poinçons, estampilles, visas, certificats d'homologation, marques collectives ou attestations de
 conformité aux dispositions communautaires par l'autorité publique ou par des organismes désignés à cet effet et soumis à un
-contrôle technique ou administratif de l'autorité publique en vertu de dispositions législatives ou réglementaires ;
+contrôle technique ou administratif de l'autorité publique en vertu de dispositions législatives ou réglementaires ; 
 
-4° A la délivrance de labels ou marques prévus par l'article L. 413-1 du code du travail ainsi que des marques d'artisan et
+4° A la délivrance de labels ou marques prévus par l'article L. 2134-1 du code du travail ainsi que des marques d'artisan et
 de maître artisan pour autant que ces marques ne tendent qu'à attester l'origine d'un produit ou d'un service et la mise en
 oeuvre des règles de l'art et usages quand ils leur sont spécifiques.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -1846,13 +1854,13 @@ oeuvre des règles de l'art et usages quand ils leur sont spécifiques.
 
 	  - Loi n°78-23 du 10 janvier 1978 - art. 23 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 14 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L2134-1 (V)
 
 
 ###### Article L115-30
@@ -2574,17 +2582,25 @@ titre du chapitre Ier du titre II du livre II du code du travail et réalisée s
 autorisation, ou qui est en infraction avec les articles 41 a et 41 b, 105 a à 105 i du code des professions applicable dans
 les départements de la Moselle, du Bas-Rhin et du Haut-Rhin ; 
 
-3° Sur une opération commerciale réalisée ou devant être réalisée en infraction avec les dispositions de l'article L. 221-17
+3° Sur une opération commerciale réalisée ou devant être réalisée en infraction avec les dispositions de l'article L. 3132-29
 du code du travail ; 
 
 4° Sur une manifestation commerciale soumise à la déclaration prévue à l'article L. 740-2 du code de commerce et qui n'a pas
 fait l'objet de cette déclaration. 
 
 Tout annonceur qui effectue ou fait effectuer une publicité interdite en vertu des alinéas précédents est puni d'une amende
-de 37 500 euros. Le maximum de l'amende peut être porté à 50  % du montant des dépenses consacrées à la publicité illégale. 
+de 37 500 euros. Le maximum de l'amende peut être porté à 50 % du montant des dépenses consacrées à la publicité illégale. 
 
 Le tribunal peut ordonner la cessation de la publicité interdite aux frais des personnes reconnues coupables des infractions
 définies aux alinéas qui précèdent.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -2596,20 +2612,18 @@ définies aux alinéas qui précèdent.
 
 	  - Loi n°89-1008 du 31 décembre 1989 - art. 8 (Ab)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Loi n°2008-3 du 3 janvier 2008 - art. 39
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 14 (V)
 
 	**Cite**:
 
-	  - Code de commerce - art. L310-1
-	  - Code de commerce - art. L310-2
-	  - Code de commerce - art. L310-3
-	  - Code de commerce - art. L310-4
-	  - Code de commerce - art. L720-10
-	  - Code de commerce - art. L720-5
-	  - Code de commerce - art. L740-2
-	  - Code du travail - art. L221-17
+	  - Code de commerce - art. L310-1 (V)
+	  - Code de commerce - art. L310-7 (V)
+	  - Code de commerce - art. L720-10 (Ab)
+	  - Code de commerce - art. L720-5 (Ab)
+	  - Code de commerce. - art. L740-2 (Ab)
+	  - Code du travail - art. L3132-29 (V)
 
 
 ###### Article L121-15-1
@@ -3899,39 +3913,37 @@ Le présent article ne s'applique pas aux contrats conclus dans les conditions p
 
 Avant l'expiration du délai de réflexion prévu à l'article L. 121-25, nul ne peut exiger ou obtenir du client, directement ou
 indirectement, à quelque titre ni sous quelque forme que ce soit une contrepartie quelconque ni aucun engagement ni effectuer
-des prestations de services de quelque nature que ce soit.
+des prestations de services de quelque nature que ce soit. 
 
 Toutefois, la souscription à domicile d'abonnement à une publication quotidienne et assimilée, au sens de l'article 39 bis du
 code général des impôts, n'est pas soumise aux dispositions de l'alinéa précédent dès lors que le consommateur dispose d'un
 droit de résiliation permanent, sans frais ni indemnité, assorti du remboursement, dans un délai de quinze jours, des sommes
-versées au prorata de la durée de l'abonnement restant à courir.
+versées au prorata de la durée de l'abonnement restant à courir. 
 
 En outre, les engagements ou ordres de paiement ne doivent pas être exécutés avant l'expiration du délai prévu à l'article L.
-121-25 et doivent être retournés au consommateur dans les quinze jours qui suivent sa rétractation.
+121-25 et doivent être retournés au consommateur dans les quinze jours qui suivent sa rétractation. 
 
 Les dispositions du deuxième alinéa s'appliquent aux souscriptions à domicile proposées par les associations et entreprises
-agréées par l'Etat ayant pour objet la fourniture de services mentionnés à l'article L. 129-1 du code du travail sous forme
+agréées par l'Etat ayant pour objet la fourniture de services mentionnés à l'article L. 7231-1 du code du travail sous forme
 d'abonnement.
 
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 bis
-	  - Code de la consommation - art. L121-25 (V)
-	  - Code du travail - art. L129-1 (M)
 
 	**Anciens textes**:
 
 	  - Loi n°72-1137 du 22 décembre 1972 - art. 4 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Loi n°2005-841 du 26 juillet 2005 - art. 4 () JORF 27 juillet 2005
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 14 (V)
 
 	**Cité par**:
 
@@ -3943,6 +3955,12 @@ d'abonnement.
 	  - Code de la sécurité sociale. - art. L932-15-1 (M)
 	  - Code des assurances - art. L112-2-1 (VD)
 	  - Code monétaire et financier - art. L343-1 (VD)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-25 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 39 bis (V)
+	  - Code du travail - art. L7231-1 (V)
 
 
 ###### Article L121-27
@@ -16227,14 +16245,14 @@ des personnes physiques définie au premier alinéa de l'article L. 330-1,
 d'une société dès lors qu'il n'a pas été, en droit ou en fait, dirigeant de celle-ci_. (1)
 
 Le montant des remboursements résultant de l'application des articles L. 331-6 ou L. 331-7 est fixé, dans des conditions
-précisées par décret, par référence à la quotité saisissable du salaire telle qu'elle résulte de l'article L. 145-2 du code
-du travail, de manière à ce qu'une partie des ressources nécessaire aux dépenses courantes du ménage lui soit réservée par
-priorité. Cette part de ressources, qui ne peut être inférieure à un montant égal au revenu minimum d'insertion dont
-disposerait le ménage, intègre le montant des dépenses de logement, d'électricité, de gaz, de chauffage, d'eau, de nourriture
-et de scolarité, dans la limite d'un plafond, selon des modalités définies par décret. Elle est fixée par la commission après
-avis de la personne justifiant d'une expérience dans le domaine de l'économie sociale et familiale visée au dernier alinéa de
-l'article L. 331-1, et mentionnée dans le plan conventionnel de redressement prévu à l'article L. 331-6 ou dans les
-recommandations prévues aux articles L. 331-7 et L. 331-7-1.
+précisées par décret, par référence à la quotité saisissable du salaire telle qu'elle résulte des articles L. 3252-2 et L.
+3252-3 du code du travail, de manière à ce qu'une partie des ressources nécessaire aux dépenses courantes du ménage lui soit
+réservée par priorité. Cette part de ressources, qui ne peut être inférieure à un montant égal au revenu minimum d'insertion
+dont disposerait le ménage, intègre le montant des dépenses de logement, d'électricité, de gaz, de chauffage, d'eau, de
+nourriture et de scolarité, dans la limite d'un plafond, selon des modalités définies par décret. Elle est fixée par la
+commission après avis de la personne justifiant d'une expérience dans le domaine de l'économie sociale et familiale visée au
+dernier alinéa de l'article L. 331-1, et mentionnée dans le plan conventionnel de redressement prévu à l'article L. 331-6 ou
+dans les recommandations prévues aux articles L. 331-7 et L. 331-7-1.
 
 **Nota:**
 
@@ -16242,6 +16260,12 @@ recommandations prévues aux articles L. 331-7 et L. 331-7-1.
 
 Cependant, l'article 35 I de la loi n° 2003-710 du 1er août 2003 a préalablement repris cette définition au premier alinéa de
 l'article L330-1 du code de la consommation en y intègrant déjà ces mots.
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -16269,22 +16293,17 @@ l'article L330-1 du code de la consommation en y intègrant déjà ces mots.
 	  - Code du travail - art. R442-17 (M)
 	  - Code du travail - art. R443-12 (M)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Loi n°2006-872 du 13 juillet 2006 - art. 78 () JORF 16 juillet 2006
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 14 (V)
 
 	**Cite**:
 
 	  - Code de la consommation - art. L330-1 (V)
-	  - Code de la consommation - art. L331-1 (M)
-	  - Code de la consommation - art. L331-6 (M)
-	  - Code de la consommation - art. L331-7 (M)
-	  - Code de la consommation - art. L331-7-1 (M)
-	  - Code du travail - art. L145-2 (M)
+	  - Code de la consommation - art. L331-1 (V)
+	  - Code de la consommation - art. L331-6 (V)
+	  - Code de la consommation - art. L331-7 (V)
+	  - Code du travail - art. L3252-2 (V)
 
 
 ###### Article L331-3
@@ -28925,32 +28944,21 @@ La notification indique que ce jugement n'est susceptible ni d'appel, ni d'oppos
 
 Pour l'application des articles L. 331-6, L. 331-7 et L. 331-7-1, la part des ressources mensuelles du débiteur à affecter à
 l'apurement de ses dettes est calculée, dans les conditions prévues à l'article L. 331-2, par référence au barème prévu à
-l'article R. 145-2 du code du travail. Toutefois, la somme résultant de ce calcul est plafonnée à la différence entre le
+l'article R. 3252-2 du code du travail. Toutefois, la somme résultant de ce calcul est plafonnée à la différence entre le
 montant des ressources mensuelles réelles de l'intéressé et le montant du revenu minimum d'insertion, majoré de 50 % dans le
 cas d'un ménage.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°2004-180 2004-02-24 art. 1 III, VIII, XX JORF 25 février 2004
-	  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
+	  - Décret n°2008-244 du 7 mars 2008 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L331-2 (M)
-	  - Code de la consommation - art. L331-6 (M)
-	  - Code de la consommation - art. L331-7 (M)
-	  - Code de la consommation - art. L331-7-1 (M)
-	  - Code du travail - art. R145-2 (M)
-
-	**Anciens textes**:
-
-	  - Code de la consommation R331-10-2
+	  - Code de la consommation - art. L331-2 (VT)
+	  - Code de la consommation - art. L331-6 (V)
+	  - Code du travail - art. R3252-2 (V)
 
 
 ##### Paragraphe 2 : Plan conventionnel de redressement
