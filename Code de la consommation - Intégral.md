@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2008-05-01
+Version Consolidée au 2008-05-25
 
 # Partie législative
 
@@ -22481,132 +22481,148 @@ d'avoué.
 
 #### Chapitre II : Procédures civiles simplifiées
 
-###### Article R*142-1
+###### Article R142-1
 
 Les litiges civils nés de l'application du présent code relèvent, lorsque le montant de la demande n'excède pas le taux de
 compétence en dernier ressort du tribunal d'instance, des règles relatives à la saisine simplifiée du tribunal d'instance
-fixées par les articles 847-1 et 847-2 du nouveau code de procédure civile reproduits ci-après :
+fixées par les articles 847-1 et 847-2 du code de procédure civile reproduits ci-après : 
 
-"Art. 847-1 :
+" Art. 847-1 : 
 
-"Lorsque le montant de la demande n'excède pas 4 000 euros, la juridiction peut être saisie par une déclaration faite, remise
-ou adressée au greffe, où elle est enregistrée.
+" Lorsque le montant de la demande n'excède pas 4 000 euros, la juridiction peut être saisie par une déclaration faite,
+remise ou adressée au greffe, où elle est enregistrée. 
 
-"Outre les mentions prescrites par l'article 58, la déclaration doit contenir un exposé sommaire des motifs de la demande.
+" Outre les mentions prescrites par l'article 58, la déclaration doit contenir un exposé sommaire des motifs de la demande. 
 
-"La prescription et les délais pour agir sont interrompus par l'enregistrement de la déclaration".
+" La prescription et les délais pour agir sont interrompus par l'enregistrement de la déclaration. " 
 
-"Art. 847-2 :
+" Art. 847-2 : 
 
-"Les parties sont convoquées à l'audience par le greffier par lettre recommandée avec demande d'avis de réception. Il adresse
-le même jour copie de cette convocation par lettre simple. Le demandeur peut aussi être convoqué verbalement contre
-émargement.
+" Les parties sont convoquées à l'audience par le greffier par lettre recommandée avec demande d'avis de réception. Il
+adresse le même jour copie de cette convocation par lettre simple. Le demandeur peut aussi être convoqué verbalement contre
+émargement. 
 
-"La convocation adressée au défenseur vaut citation. Elle comprend en annexe une copie de la déclaration."
+" La convocation adressée au défenseur vaut citation. Elle comprend en annexe une copie de la déclaration. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 4 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 847-1, v. 5.2 (VD)
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 847-2, v. 3.3 (VD)
 
 
 ###### Article R142-2
 
 Les litiges civils nés de l'application du présent code peuvent faire l'objet de la procédure définie par les articles 1425-1
-à 1425-9 du nouveau code de procédure civile reproduits ci-après :
+à 1425-9 du code de procédure civile reproduits ci-après : 
 
-"Art. 1425-1 :
+" Art. 1425-1 : 
 
-"L'exécution en nature d'une obligation née d'un contrat conclu entre des personnes n'ayant pas toutes la qualité de
+" L'exécution en nature d'une obligation née d'un contrat conclu entre des personnes n'ayant pas toutes la qualité de
 commerçant peut être demandée au tribunal d'instance lorsque la valeur de la prestation dont l'exécution est réclamée
-n'excède pas le taux de compétence de cette juridiction.
+n'excède pas le taux de compétence de cette juridiction. 
 
-"Le juge de proximité est compétent dans les limites définies au code de l'organisation judiciaire et dans les conditions de
-l'article 847-5 du présent code".
+" Le juge de proximité est compétent dans les limites définies au code de l'organisation judiciaire et dans les conditions de
+l'article 847-5 du présent code. " 
 
-"Art. 1425-2 :
+" Art. 1425-2 : 
 
-"La demande est portée au choix du demandeur, soit devant la juridiction du lieu où demeure le défendeur, soit devant la
-juridiction du lieu d'exécution de l'obligation".
+" La demande est portée au choix du demandeur, soit devant la juridiction du lieu où demeure le défendeur, soit devant la
+juridiction du lieu d'exécution de l'obligation. " 
 
-"Art. 1425-3 :
+" Art. 1425-3 : 
 
-"La demande est formée par requête déposée ou adressée au greffe par le bénéficiaire de l'obligation ou par les personnes
-mentionnées à l'article 828.
+" La demande est formée par requête déposée ou adressée au greffe par le bénéficiaire de l'obligation ou par les personnes
+mentionnées à l'article 828. 
 
-"Outre les mentions prescrites par l'article 58, la requête contient :
+" Outre les mentions prescrites par l'article 58, la requête contient : 
 
-"1° L'indication précise de la nature de l'obligation dont l'exécution est poursuivie ainsi que le fondement de celle-ci ;
+" 1° L'indication précise de la nature de l'obligation dont l'exécution est poursuivie ainsi que le fondement de celle-ci ; 
 
-"2° Eventuellement, les dommages et intérêts qui seront réclamés en cas d'inéxecution de l'injonction de faire.
+" 2° Eventuellement, les dommages et intérêts qui seront réclamés en cas d'inéxecution de l'injonction de faire. 
 
-"Elle est accompagnée des documents justificatifs.
+" Elle est accompagnée des documents justificatifs. 
 
-"La prescription et les délais pour agir sont interrompus par l'enregistrement au greffe de la requête.
+" La prescription et les délais pour agir sont interrompus par l'enregistrement au greffe de la requête. " 
 
-"Art. 1425-4 :
+" Art. 1425-4 : 
 
-"Si, au vu des documents produits, la demande lui paraît fondée, le juge rend une ordonnance portant injonction de faire non
-susceptible de recours.
+" Si, au vu des documents produits, la demande lui paraît fondée, le juge rend une ordonnance portant injonction de faire non
+susceptible de recours. 
 
-"Il fixe l'objet de l'obligation ainsi que le délai et les conditions dans lesquels celle-ci doit être exécutée.
+" Il fixe l'objet de l'obligation ainsi que le délai et les conditions dans lesquels celle-ci doit être exécutée. 
 
-"L'ordonnance mentionne, en outre, les lieu, jour et heure de l'audience à laquelle l'affaire sera examinée, à moins que le
-demandeur n'ait fait connaître que l'injonction a été exécutée.
+" L'ordonnance mentionne, en outre, les lieu, jour et heure de l'audience à laquelle l'affaire sera examinée, à moins que le
+demandeur n'ait fait connaître que l'injonction a été exécutée. " 
 
-"Art. 1425-5 :
+" Art. 1425-5 : 
 
-"Le greffe notifie l'ordonnance aux parties, par lettre recommandée avec demande d'avis de réception. Il adresse le même jour
-copie de cette notification par lettre simple. La lettre de notification mentionne les dispositions des articles 1425-7 et
-1425-8".
+" Le greffe notifie l'ordonnance aux parties, par lettre recommandée avec demande d'avis de réception. Il adresse le même
+jour copie de cette notification par lettre simple. La lettre de notification mentionne les dispositions des articles 1425-7
+et 1425-8. " 
 
-"Art. 1425-6 :
+" Art. 1425-6 : 
 
-"L'ordonnance portant injonction de faire et la requête sont conservées à titre de minute au greffe qui garde provisoirement
-les documents produits à l'appui de la requête".
+" L'ordonnance portant injonction de faire et la requête sont conservées à titre de minute au greffe qui garde provisoirement
+les documents produits à l'appui de la requête. " 
 
-"Art. 1425-7 :
+" Art. 1425-7 : 
 
-"Lorsque l'injonction de faire a été exécutée dans les délais impartis, le demandeur en informe le greffe. L'affaire est
-retirée du rôle.
+" Lorsque l'injonction de faire a été exécutée dans les délais impartis, le demandeur en informe le greffe.L'affaire est
+retirée du rôle. 
 
-"A défaut d'une telle information et si le demandeur ne se présente pas à l'audience sans motif légitime, le tribunal déclare
-caduque la procédure d'injonction de faire.
+" A défaut d'une telle information et si le demandeur ne se présente pas à l'audience sans motif légitime, le tribunal
+déclare caduque la procédure d'injonction de faire. 
 
-"La déclaration de caducité peut être rapportée si le demandeur fait connaître au greffe dans un délai de quinze jours le
+" La déclaration de caducité peut être rapportée si le demandeur fait connaître au greffe dans un délai de quinze jours le
 motif légitime qu'il n'aurait pas été en mesure d'invoquer en temps utile. Dans ce cas, les parties sont convoquées à une
-audience ultérieure.
+audience ultérieure. " 
 
-"Art. 1425-8 :
+" Art. 1425-8 : 
 
-"Le tribunal, en cas d'inexécution totale ou partielle de l'injonction de faire qu'il a délivrée, statue sur la demande,
-après avoir tenté de concilier les parties.
+" Le tribunal, en cas d'inexécution totale ou partielle de l'injonction de faire qu'il a délivrée, statue sur la demande,
+après avoir tenté de concilier les parties. 
 
-"Il connaît, dans les limites de sa compétence d'attribution, de la demande initiale et de toutes les demandes incidentes et
-défenses au fond.
+" Il connaît, dans les limites de sa compétence d'attribution, de la demande initiale et de toutes les demandes incidentes et
+défenses au fond. 
 
-"En cas de décision d'incompétence, l'affaire est renvoyée devant la juridiction compétente selon les règles prévues à
-l'article 97".
+" En cas de décision d'incompétence, l'affaire est renvoyée devant la juridiction compétente selon les règles prévues à
+l'article 97. " 
 
-"Art. 1425-9 :
+" Art. 1425-9 : 
 
-"Si le juge rejette la requête, la décision est sans recours pour le requérant, sauf à celui-ci à procéder selon les voies de
-droit commun. La requête et les documents produits sont restitués au requérant".
+" Si le juge rejette la requête, la décision est sans recours pour le requérant, sauf à celui-ci à procéder selon les voies
+de droit commun. La requête et les documents produits sont restitués au requérant. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 12 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 1425-1 (V)
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 1425-2 (V)
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 1425-3 (V)
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 1425-4 (V)
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 1425-5 (V)
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 1425-6 (V)
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 1425-7 (V)
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 1425-8 (V)
+	  - PILOTE_SUIVEUR: Code de procédure civile - art. 1425-9 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 58 (V)
+	  - Code de procédure civile - art. 828 (V)
+	  - Code de procédure civile - art. 847-5 (V)
+	  - Code de procédure civile - art. 97 (V)
 
 
 ## Livre II : Qualité des produits et des services
@@ -29244,32 +29260,36 @@ Le greffe en informe la commission et l'invite, le cas échéant, à lui transme
 
 ###### Article R332-1-2
 
-I. - Le juge de l'exécution statue par jugement ou, en vertu d'une disposition spéciale, par ordonnance.
+I.- Le juge de l' exécution statue par jugement ou, en vertu d' une disposition spéciale, par ordonnance. 
 
-II. - Dans les cas où il statue par jugement, le juge convoque les parties intéressées ou les invite à produire leurs
-observations, par lettre recommandée avec demande d'avis de réception. La procédure suivie est celle prévue aux articles 11 à
-14 du décret n° 92-755 du 31 juillet 1992.
+II.- Dans les cas où il statue par jugement, le juge convoque les parties intéressées ou les invite à produire leurs
+observations, par lettre recommandée avec demande d' avis de réception. La procédure suivie est celle prévue aux articles 11
+à 14 du décret n° 92- 755 du 31 juillet 1992. 
 
-Les jugements sont rendus en dernier ressort sauf dispositions contraires.
+Les jugements sont rendus en dernier ressort sauf dispositions contraires. 
 
-III. - Les ordonnances peuvent faire l'objet d'un recours en rétractation remis ou adressé au greffe du juge de l'exécution
-par toute partie intéressée qui n'a pas été mise en mesure de s'opposer à l'objet de la demande.
+III.- Les ordonnances peuvent faire l' objet d' un recours en rétractation remis ou adressé au greffe du juge de l' exécution
+par toute partie intéressée qui n' a pas été mise en mesure de s' opposer à l' objet de la demande. 
 
-Copie de l'ordonnance est jointe à la demande de rétractation.
+Copie de l' ordonnance est jointe à la demande de rétractation. 
 
-IV. - L'appel est formé, instruit et jugé selon les règles de la procédure sans représentation obligatoire prévue aux
-articles 931 à 949 du nouveau code de procédure civile.
+IV.- L' appel est formé, instruit et jugé selon les règles de la procédure sans représentation obligatoire prévue aux
+articles 931 à 949 du code de procédure civile.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°92-755 du 31 juillet 1992 - art. 11
+	  - Code de procédure civile - art. 931
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 38 () JORF 22 août 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-836 du 20 août 2004 - art. 54 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1304 du 29 octobre 2010 - art. 4
 
 
 ###### Article R332-1-3
