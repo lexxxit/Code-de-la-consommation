@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2008-05-25
+Version Consolidée au 2008-06-01
 
 # Partie législative
 
@@ -2789,15 +2789,16 @@ Ordonnance 2005-648 2005-06-06 art. 1 I 3° : Il s'agit bien de l'article L121-1
 Sans préjudice des informations prévues par les articles L. 111-1 et L. 113-3 ainsi que de celles prévues pour l'application
 de l'article L. 214-1, l'offre de contrat doit comporter les informations suivantes :
 
-1° Le nom du vendeur du produit ou du prestataire de service, son numéro de téléphone, son adresse ou, s'il s'agit d'une
-personne morale, son siège social et, si elle est différente, l'adresse de l'établissement responsable de l'offre ;
+1° Le nom du vendeur du produit ou du prestataire de service, des coordonnées téléphoniques permettant d'entrer effectivement
+en contact avec lui , son adresse ou, s'il s'agit d'une personne morale, son siège social et, si elle est différente,
+l'adresse de l'établissement responsable de l'offre ;
 
 2° Le cas échéant, les frais de livraison ;
 
 3° Les modalités de paiement, de livraison ou d'exécution ;
 
-4° L'existence d'un droit de rétractation, sauf dans les cas où les dispositions de la présente section excluent l'exercice
-de ce droit ;
+4° L'existence d'un droit de rétractation et ses limites éventuelles ou, dans le cas où ce droit ne s'applique pas, l'absence
+d'un droit de rétractation ; 
 
 5° La durée de la validité de l'offre et du prix de celle-ci ;
 
@@ -2819,19 +2820,16 @@ début de la conversation son identité et le caractère commercial de l'appel.
 
 	  - Loi n°92-60 du 18 janvier 1992 - art. 5 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 29
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 30
 
 	**Cite**:
 
-	  - Code de la consommation - art. L111-1 (V)
-	  - Code de la consommation - art. L113-3 (M)
-	  - Code de la consommation - art. L214-1 (M)
+	  - Code de la consommation - art. L111-1
+	  - Code de la consommation - art. L113-3
+	  - Code de la consommation - art. L214-1
 
 	**Cité par**:
 
@@ -2866,26 +2864,26 @@ professionnel n'ait satisfait à cette obligation avant la conclusion du contrat
 II. - Les dispositions du présent article ne sont pas applicables aux services fournis en une seule fois au moyen d'une
 technique de communication à distance et facturés par l'opérateur de cette technique à l'exception du 3°.
 
+III. - Les moyens de communication permettant au consommateur de suivre l'exécution de sa commande, d'exercer son droit de
+rétractation ou de faire jouer la garantie ne supportent que des coûts de communication, à l'exclusion de tout coût
+complémentaire spécifique.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°92-60 du 18 janvier 1992 - art. 5 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 29
 
 	**Cite**:
 
-	  - Code de la consommation - art. L111-1 (V)
-	  - Code de la consommation - art. L113-3 (M)
-	  - Code de la consommation - art. L121-18 (M)
-	  - Code de la consommation - art. L214-1 (M)
+	  - Code de la consommation - art. L111-1
+	  - Code de la consommation - art. L113-3
+	  - Code de la consommation - art. L121-18
+	  - Code de la consommation - art. L214-1
 
 	**Cité par**:
 
@@ -2944,19 +2942,21 @@ ouvrable suivant.
 
 ###### Article L121-20-1
 
-Lorsque le droit de rétractation est exercé, le professionnel est tenu de rembourser sans délai le consommateur et au plus
-tard dans les trente jours suivant la date à laquelle ce droit a été exercé. Au-delà, la somme due est, de plein droit,
-productive d'intérêts au taux légal en vigueur.
+Lorsque le droit de rétractation est exercé, le professionnel est tenu de rembourser le consommateur de la totalité des
+sommes versées, dans les meilleurs délais et au plus tard dans les trente jours suivant la date à laquelle ce droit a été
+exercé. Au-delà, la somme due est, de plein droit, productive d'intérêts au taux légal en vigueur. Ce remboursement
+s'effectue par tout moyen de paiement. Sur proposition du professionnel, le consommateur ayant exercé son droit de
+rétractation peut toutefois opter pour une autre modalité de remboursement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 31
+
+	**Abrogé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
 
 	**Cité par**:
 
@@ -3003,22 +3003,25 @@ consommateur ;
 
 ###### Article L121-20-3
 
-Sauf si les parties en sont convenues autrement, le fournisseur doit exécuter la commande dans le délai de trente jours à
-compter du jour suivant celui où le consommateur a transmis sa commande au fournisseur du produit ou de service.
+Le fournisseur doit indiquer, avant la conclusion du contrat, la date limite à laquelle il s'engage à livrer le bien ou à
+exécuter la prestation de services.A défaut, le fournisseur est réputé devoir délivrer le bien ou exécuter la prestation de
+services dès la conclusion du contrat. En cas de non-respect de cette date limite, le consommateur peut obtenir la résolution
+de la vente dans les conditions prévues aux deuxième et troisième alinéas de l'article L. 114-1. Il est alors remboursé dans
+les conditions de l'article L. 121-20-1.
 
 En cas de défaut d'exécution du contrat par un fournisseur résultant de l'indisponibilité du bien ou du service commandé, le
 consommateur doit être informé de cette indisponibilité et doit, le cas échéant, pouvoir être remboursé sans délai et au plus
 tard dans les trente jours du paiement des sommes qu'il a versées. Au-delà de ce terme, ces sommes sont productives
-d'intérêts au taux légal.
+d'intérêts au taux légal. 
 
 Toutefois, si la possibilité en a été prévue préalablement à la conclusion du contrat ou dans le contrat, le fournisseur peut
 fournir un bien ou un service d'une qualité et d'un prix équivalents. Le consommateur est informé de cette possibilité de
 manière claire et compréhensible. Les frais de retour consécutifs à l'exercice du droit de rétractation sont, dans ce cas, à
-la charge du fournisseur et le consommateur doit en être informé.
+la charge du fournisseur et le consommateur doit en être informé. 
 
 Le professionnel est responsable de plein droit à l'égard du consommateur de la bonne exécution des obligations résultant du
 contrat conclu à distance, que ces obligations soient à exécuter par le professionnel qui a conclu ce contrat ou par d'autres
-prestataires de services, sans préjudice de son droit de recours contre ceux-ci.
+prestataires de services, sans préjudice de son droit de recours contre ceux-ci. 
 
 Toutefois, il peut s'exonérer de tout ou partie de sa responsabilité en apportant la preuve que l'inexécution ou la mauvaise
 exécution du contrat est imputable, soit au consommateur, soit au fait, imprévisible et insurmontable, d'un tiers au contrat,
@@ -3026,13 +3029,18 @@ soit à un cas de force majeure.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 28
+
+	**Abrogé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L114-1
+	  - Code de la consommation - art. L121-20-1
 
 	**Cité par**:
 
@@ -5227,6 +5235,370 @@ dispositions relatives aux modifications ultérieures des conditions contractuel
 	  - Code de la consommation - art. L121-85 (V)
 	  - Code de la propriété intellectuelle - art. L335-7 (VD)
 	  - Code des postes et des communications électroni... - art. R20-30-9 (V)
+
+
+###### Article L121-84-1
+
+Toute somme versée d'avance par le consommateur à un fournisseur de services de communications électroniques au sens du 6° de
+l'article L. 32 du code des postes et des communications électroniques doit lui être restituée, sous réserve du paiement des
+factures restant dues, au plus tard dans un délai de dix jours à compter du paiement de la dernière facture. 
+
+La restitution, par un fournisseur de services de communications électroniques au sens du 6° de l'article L. 32 précité, des
+sommes versées par le consommateur au titre d'un dépôt de garantie doit être effectuée au plus tard dans un délai de dix
+jours à compter de la restitution au professionnel de l'objet garanti.
+
+A défaut, les sommes dues par le professionnel mentionnées aux deux alinéas précédents sont de plein droit majorées de
+moitié.
+
+**Nota:**
+
+Loi n° 2008-3 du 3 janvier 2008, article 20 : Les articles L. 121-84-1 à L. 121-84-10 du code de la consommation entrent en
+vigueur le 1er juin 2008.
+
+Les articles L. 121-84-1, L. 121-84-2, L. 121-84-3, L. 121-84-4 et L. 121-84-5 du code de la consommation sont applicables
+aux contrats en cours à cette date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 12
+
+	**Cité par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-35 (V)
+	  - Code de la consommation - art. L242-19 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L32
+
+
+###### Article L121-84-2
+
+La durée du préavis de résiliation par un consommateur d'un contrat de services de communications électroniques au sens du 6°
+de l'article L. 32 du code des postes et des communications électroniques ne peut excéder dix jours à compter de la réception
+par le fournisseur de la demande de résiliation. Le consommateur peut toutefois demander que cette résiliation prenne effet
+plus de dix jours après la réception, par le fournisseur, de sa demande de résiliation.
+
+**Nota:**
+
+Loi n° 2008-3 du 3 janvier 2008, article 20 : Les articles L. 121-84-1 à L. 121-84-10 du code de la consommation entrent en
+vigueur le 1er juin 2008.
+
+Les articles L. 121-84-1, L. 121-84-2, L. 121-84-3, L. 121-84-4 et L. 121-84-5 du code de la consommation sont applicables
+aux contrats en cours à cette date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 12
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-39 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L32
+
+
+###### Article L121-84-3
+
+Lorsqu'un contrat de communications électroniques incluant une clause imposant le respect d'une durée minimum d'exécution a
+été souscrit par le consommateur, les facturations établies par les fournisseurs de services de communications électroniques
+au sens du 6° de l'article L. 32 du code des postes et des communications électroniques doivent mentionner la durée
+d'engagement restant à courir ou la date de la fin de l'engagement ou, le cas échéant, mentionner que cette durée minimum
+d'exécution du contrat est échue.
+
+**Nota:**
+
+Loi n° 2008-3 du 3 janvier 2008, article 20 : Les articles L. 121-84-1 à L. 121-84-10 du code de la consommation entrent en
+vigueur le 1er juin 2008.
+
+Les articles L. 121-84-1, L. 121-84-2, L. 121-84-3, L. 121-84-4 et L. 121-84-5 du code de la consommation sont applicables
+aux contrats en cours à cette date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 13
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-36 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L32
+
+
+###### Article L121-84-4
+
+La poursuite à titre onéreux de la fourniture de services accessoires à un contrat principal de communications électroniques
+comprenant une période initiale de gratuité est soumise à l'accord exprès du consommateur à qui ces services sont proposés.
+
+**Nota:**
+
+Loi n° 2008-3 du 3 janvier 2008, article 20 : Les articles L. 121-84-1 à L. 121-84-10 du code de la consommation entrent en
+vigueur le 1er juin 2008.
+
+Les articles L. 121-84-1, L. 121-84-2, L. 121-84-3, L. 121-84-4 et L. 121-84-5 du code de la consommation sont applicables
+aux contrats en cours à cette date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 14
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-34 (V)
+
+
+###### Article L121-84-5
+
+Le présent article est applicable à tout fournisseur de services de communications électroniques, au sens du 6° de l'article
+L. 32 du code des postes et des communications électroniques, proposant au consommateur, directement ou par l'intermédiaire
+d'un tiers, un service après-vente, un service d'assistance technique ou tout autre service chargé du traitement des
+réclamations se rapportant à l'exécution du contrat conclu avec ce fournisseur, et accessible par un service téléphonique au
+public au sens du 7° de l'article L. 32 précité. 
+
+Les services mentionnés au premier alinéa sont accessibles depuis le territoire métropolitain, les départements d'outre-mer
+et les collectivités territoriales de Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, par un numéro
+d'appel non géographique, fixe et non surtaxé. 
+
+Lorsque le consommateur appelle depuis les territoires énumérés au deuxième alinéa les services mentionnés au premier alinéa
+en ayant recours au service téléphonique au public du fournisseur de services de communications électroniques auprès duquel
+il a souscrit ce contrat, aucune somme ne peut, à quelque titre que ce soit, lui être facturée tant qu'il n'a pas été mis en
+relation avec un interlocuteur prenant en charge le traitement effectif de sa demande.
+
+**Nota:**
+
+NOTA : Loi n° 2008-3 du 3 janvier 2008, article 20 : Les articles L. 121-84-1 à L. 121-84-10 du code de la consommation
+entrent en vigueur le 1er juin 2008.
+
+Les articles L. 121-84-1, L. 121-84-2, L. 121-84-3, L. 121-84-4 et L. 121-84-5 du code de la consommation sont applicables
+aux contrats en cours à cette date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 16
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L32
+
+
+###### Article L121-84-6
+
+Le présent article est applicable à tout fournisseur d'un service de communications électroniques, au sens du 6° de l'article
+L. 32 du code des postes et des communications électroniques, proposant au consommateur, directement ou par l'intermédiaire
+d'un tiers, une offre de services de communications électroniques. 
+
+Les fournisseurs de services ne peuvent subordonner la conclusion ou la modification des termes du contrat qui régit la
+fourniture d'un service de communications électroniques à l'acceptation par le consommateur d'une clause imposant le respect
+d'une durée minimum d'exécution du contrat de plus de vingt-quatre mois à compter de la date de conclusion du contrat ou de
+sa modification. 
+
+Tout fournisseur de services subordonnant la conclusion ou la modification des termes d'un contrat qui régit la fourniture
+d'un service de communications électroniques à l'acceptation par le consommateur d'une clause contractuelle imposant le
+respect d'une durée minimum d'exécution du contrat de plus de douze mois est tenu : 
+
+1° De proposer simultanément la même offre de services assortie d'une durée minimum d'exécution du contrat n'excédant pas
+douze mois, selon des modalités commerciales non disqualifiantes ; 
+
+2° D'offrir au consommateur la possibilité de résilier par anticipation le contrat à compter de la fin du douzième mois
+suivant l'acceptation d'une telle clause moyennant le paiement par le consommateur d'au plus le quart du montant dû au titre
+de la fraction non échue de la période minimum d'exécution du contrat. 
+
+Les alinéas précédents s'appliquent à la conclusion ou l'exécution de tout autre contrat liant le fournisseur de services et
+le consommateur dès lors que la conclusion de ce contrat est subordonnée à l'existence et à l'exécution du contrat initial
+régissant la fourniture du service de communications électroniques, sans que l'ensemble des sommes dues au titre de la
+résiliation anticipée de ces contrats avant l'échéance de la durée minimum d'exécution de ces contrats puisse excéder le
+quart du montant dû au titre de la fraction non échue de la période minimum d'exécution du contrat.
+
+**Nota:**
+
+Loi n° 2008-3 du 3 janvier 2008, article 20 : Les articles L. 121-84-1 à L. 121-84-10 du code de la consommation entrent en
+vigueur le 1er juin 2008.
+
+L'article L. 121-84-6 du même code est applicable à toute modification des termes des contrats en cours à cette date dès lors
+que le fournisseur de services subordonne la modification des termes de ce contrat à l'acceptation par le consommateur d'une
+clause contractuelle imposant le respect d'une durée minimum d'exécution du contrat de plus de douze mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 17
+
+	**Cité par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-28 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L32
+
+
+###### Article L121-84-7
+
+Le présent article est applicable à tout fournisseur d'un service de communications électroniques, au sens du 6° de l'article
+L. 32 du code des postes et des communications électroniques, proposant au consommateur, directement ou par l'intermédiaire
+d'un tiers, un service de communications électroniques. 
+
+Le fournisseur de services ne peut facturer au consommateur que les frais correspondant aux coûts qu'il a effectivement
+supportés au titre de la résiliation, sans préjudice, le cas échéant, des dispositions contractuelles portant sur le respect
+d'une durée minimum d'exécution du contrat. 
+
+Les frais mentionnés au présent article ne sont exigibles du consommateur que s'ils ont été explicitement prévus dans le
+contrat et dûment justifiés.
+
+**Nota:**
+
+NOTA : Loi n° 2008-3 du 3 janvier 2008, article 20 : Les articles L. 121-84-1 à L. 121-84-10 du code de la consommation
+entrent en vigueur le 1er juin 2008.
+
+L'article L. 121-84-7 du même code est applicable à toute modification des termes des contrats en cours à cette date dès lors
+que le fournisseur de services subordonne la modification des termes de ce contrat à la modification des conditions
+contractuelles qui régissent la résiliation du contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 17
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L32
+
+
+###### Article L121-84-8
+
+Dans le respect de l'article L. 121-1, aucune somme ne peut être facturée au consommateur pour un appel depuis le territoire
+métropolitain, les départements d'outre-mer et les collectivités territoriales de Mayotte, Saint-Barthélemy, Saint-Martin et
+Saint-Pierre-et-Miquelon à un service téléphonique lorsqu'il lui a été indiqué, sous quelque forme que ce soit, que l'appel à
+ce service est gratuit. Le présent alinéa est applicable à toute entreprise proposant, directement ou par l'intermédiaire
+d'un tiers, un service accessible par un service téléphonique au public.
+
+**Nota:**
+
+Loi n° 2008-3 du 3 janvier 2008, article 20 : Les articles L. 121-84-1 à L. 121-84-10 du code de la consommation entrent en
+vigueur le 1er juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 18
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-56 (V)
+
+
+###### Article L121-84-9
+
+Sans préjudice du tarif appliqué au titre de la fourniture des prestations de renseignements téléphoniques, aucun tarif de
+communication spécifique autre que celui d'une communication nationale ne peut être appliqué, par les opérateurs de
+téléphonie mobile, aux appels émis vers des services de renseignements téléphoniques.
+
+**Nota:**
+
+NOTA : Loi n° 2008-3 du 3 janvier 2008, article 20 : Les articles L. 121-84-1 à L. 121-84-10 du code de la consommation
+entrent en vigueur le 1er juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 19
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2011-1012 du 24 août 2011 - art. 36
+
+	**Cité par**:
+
+	  - Arrêté du 31 décembre 2013 - art. (VD)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-84-10 (VT)
+
+
+###### Article L121-84-10
+
+Lorsqu'ils proposent d'assurer la mise en relation à la suite de la fourniture d'un numéro de téléphone, les fournisseurs de
+renseignements téléphoniques ont l'obligation d'informer le consommateur du tarif de cette mise en relation. Cette
+information doit être fournie systématiquement et préalablement à l'acceptation expresse de l'offre de mise en relation par
+le consommateur.
+
+**Nota:**
+
+Loi n° 2008-3 du 3 janvier 2008, article 20 : Les articles L. 121-84-1 à L. 121-84-10 du code de la consommation entrent en
+vigueur le 1er juin 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 19
+
+	**Cité par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 20 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2011-1012 du 24 août 2011 - art. 36
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-84-11 (VT)
 
 
 ###### Article L121-85
