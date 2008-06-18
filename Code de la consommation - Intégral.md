@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2008-06-01
+Version Consolidée au 2008-06-19
 
 # Partie législative
 
@@ -6825,6 +6825,79 @@ applicables aux consommateurs et aux non-professionnels.
 	**Modifié par**:
 
 	  - Loi n°2008-3 du 3 janvier 2008 - art. 33
+
+
+#### Chapitre VII : Prescription
+
+###### Article L137-1
+
+Par dérogation à l'article 2254 du code civil, les parties au contrat entre un professionnel et un consommateur ne peuvent,
+même d'un commun accord, ni modifier la durée de la prescription, ni ajouter aux causes de suspension ou d'interruption de
+celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L137-3 (VT)
+	  - Code de la consommation - art. L138-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L218-1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 2254
+
+
+###### Article L137-2
+
+L'action des professionnels, pour les biens ou les services qu'ils fournissent aux consommateurs, se prescrit par deux ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L218-2 (V)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. R2224-18 (V)
+
+
+#### Chapitre VIII : Dispositions relatives à l'outre-mer
+
+###### Article L138-1
+
+Les articles L. 137-1 et L. 137-2 sont applicables à Mayotte, dans les îles Wallis et Futuna, en Nouvelle-Calédonie et dans
+les Terres australes et antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L137-1
 
 
 ### Titre IV : Pouvoirs des agents et actions juridictionnelles
