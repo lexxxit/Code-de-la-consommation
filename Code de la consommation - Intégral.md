@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2008-08-06
+Version Consolidée au 2008-08-24
 
 # Partie législative
 
@@ -9343,19 +9343,46 @@ bonnes pratiques d'hygiène et des systèmes d'analyse des dangers et des points
 ###### Article L215-2-2
 
 Les agents mentionnés à l'article L. 215-1 disposent des pouvoirs d'enquête prévus au présent livre pour procéder au contrôle
-des aliments pour animaux et des denrées alimentaires d'origine non animale à leur point d'entrée sur le territoire et
-lorsqu'elles sont placées sous l'un des régimes douaniers mentionnés aux points 2 et 3 de l'article 15 du règlement (CE) n°
-882/2004 du Parlement européen et du Conseil du 29 avril 2004.
+des aliments pour animaux et des denrées alimentaires d'origine non animale à leur point d'entrée sur le territoire avant
+tout placement sous un régime douanier, lorsque ces aliments et denrées sont placés sous l'un des régimes douaniers
+mentionnés au a du point 3 de l'article 15 du règlement (CE) n° 882 / 2004 du Parlement européen et du Conseil du 29 avril
+2004 modifié relatif aux contrôles officiels effectués pour s'assurer de la conformité avec la législation sur les aliments
+pour animaux et les denrées alimentaires et avec les dispositions relatives à la santé animale et au bien-être des animaux
+modifié, ou lorsqu'ils sont destinés à être introduits dans des zones franches ou entrepôts francs mentionnés au b du point 3
+du même article. Ces agents sont également habilités à prendre les mesures consécutives à ces contrôles définies aux articles
+19 à 21 de ce règlement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Ordonnance n°2008-811 du 22 août 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-1
+
+
+###### Article L215-2-3
+
+Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes et les agents
+mentionnés au 8° de l'article L. 215-1 disposent des pouvoirs d'enquête prévus au présent livre pour procéder aux contrôles
+de conformité des fruits et légumes frais avec les normes de commercialisation prévues par le règlement (CE) n° 1580 / 2007
+de la Commission du 21 décembre 2007 portant modalités d'application des règlements (CE) n° 2200 / 96, (CE) n° 2201 / 96 et
+(CE) n° 1182 / 2007 du Conseil dans le secteur des fruits et légumes. Ils sont également habilités à prendre les mesures
+consécutives à ces contrôles définies à l'article 20 de ce règlement.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 25 () JORF 6 octobre 2006
+	  - Ordonnance n°2008-811 du 22 août 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-1
+	  - règlement (CE) n°1580/2007
+	  - règlements (CE) n°2200/96
 
 
 ##### Section 2 : Recherche et constatation
@@ -11222,11 +11249,30 @@ Les produits et les services doivent, dans des conditions normales d'utilisation
 prévisibles par le professionnel, présenter la sécurité à laquelle on peut légitimement s'attendre et ne pas porter atteinte
 à la santé des personnes.
 
+Au sens du présent chapitre, on entend par : 
+
+1° "Producteur" : 
+
+a) Le fabricant du produit, lorsqu'il est établi dans la Communauté européenne et toute autre personne qui se présente comme
+fabricant en apposant sur le produit son nom, sa marque ou un autre signe distinctif, ou celui qui procède à la remise en
+état du produit ; 
+
+b) Le représentant du fabricant, lorsque celui-ci n'est pas établi dans la Communauté européenne ou, en l'absence de
+représentant établi dans la Communauté européenne, l'importateur du produit ; 
+
+c) Les autres professionnels de la chaîne de commercialisation, dans la mesure où leurs activités peuvent affecter les
+caractéristiques de sécurité d'un produit ; 
+
+2° "Distributeur" : tout professionnel de la chaîne de commercialisation dont l'activité n'a pas d'incidence sur les
+caractéristiques de sécurité du produit. 
+
+Les producteurs et les distributeurs prennent toutes mesures utiles pour contribuer au respect de l'ensemble des obligations
+de sécurité prévues au présent chapitre.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°83-660 1983-07-21 art. 1
 	  - Loi n°83-660 du 21 juillet 1983 - art. 1 (Ab)
 
 	**Cité par**:
@@ -11242,15 +11288,22 @@ prévisibles par le professionnel, présenter la sécurité à laquelle on peut 
 	  - Code de la consommation - art. L221-4 (VT)
 	  - Code de la consommation - art. L221-7 (VT)
 	  - Code de la consommation - art. L222-1 (VT)
+	  - Code de la consommation - art. L222-2 (VT)
 	  - Code de la consommation - art. R*221-1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Ordonnance n°2008-810 du 22 août 2008 - art. 1
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L421-1 (V)
+	  - Code de la consommation - art. L421-3 (V)
+	  - Code de la consommation - art. L421-4 (V)
 
 
 ###### Article L221-1-1
@@ -11280,57 +11333,65 @@ produit de la nécessité de cette réparation ou de cette remise en état.
 
 ###### Article L221-1-2
 
-I. - Le responsable de la mise sur le marché fournit au consommateur les informations utiles qui lui permettent d'évaluer les
-risques inhérents à un produit pendant sa durée d'utilisation normale ou raisonnablement prévisible et de s'en prémunir,
-lorsque ces risques ne sont pas immédiatement perceptibles par le consommateur sans un avertissement adéquat.
+I.-Le producteur fournit au consommateur les informations utiles qui lui permettent d'évaluer les risques inhérents à un
+produit pendant sa durée d'utilisation normale ou raisonnablement prévisible et de s'en prémunir, lorsque ces risques ne sont
+pas immédiatement perceptibles par le consommateur sans un avertissement adéquat. 
 
-II. - Le responsable de la mise sur le marché adopte les mesures qui, compte tenu des caractéristiques des produits qu'il
-fournit, lui permettent :
+Ces dispositions s'appliquent sans préjudice des autres obligations mentionnées au présent article et aux articles L. 221-1
+et L. 221-1-3. 
 
-a) De se tenir informé des risques que les produits qu'il commercialise peuvent présenter ;
+II.-Le producteur adopte les mesures qui, compte tenu des caractéristiques des produits qu'il fournit, lui permettent : 
+
+a) De se tenir informé des risques que les produits qu'il commercialise peuvent présenter ; 
 
 b) D'engager les actions nécessaires pour maîtriser ces risques, y compris le retrait du marché, la mise en garde adéquate et
-efficace des consommateurs ainsi que le rappel auprès des consommateurs des produits mis sur le marché.
+efficace des consommateurs ainsi que le rappel auprès des consommateurs des produits mis sur le marché. 
 
 Ces mesures peuvent notamment consister en la réalisation d'essais par sondage ou en l'indication sur le produit ou son
-emballage d'un mode d'emploi, de l'identité et de l'adresse du responsable de la mise sur le marché, de la référence du
-produit ou du lot de produits auquel il appartient. Ces indications peuvent être rendues obligatoires par arrêté du ministre
-chargé de la consommation et du ou des ministres intéressés.
+emballage d'un mode d'emploi, de l'identité et de l'adresse du producteur, de la référence du produit ou du lot de produits
+auquel il appartient. Ces indications peuvent être rendues obligatoires par arrêté du ministre chargé de la consommation et
+du ou des ministres intéressés.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Ordonnance n°2008-810 du 22 août 2008 - art. 2
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L218-5-3 (VT)
 
+	**Cite**:
+
+	  - Code de la consommation - art. L221-1
+	  - Code de la consommation - art. L221-1-3
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L423-1 (V)
+	  - Code de la consommation - art. L423-2 (V)
+
 
 ###### Article L221-1-3
 
-Lorsqu'un professionnel sait que des produits destinés aux consommateurs qu'il a mis sur le marché ne répondent pas aux
-exigences de l'article L. 221-1, il en informe immédiatement les autorités administratives compétentes, en indiquant les
-actions qu'il engage afin de prévenir les risques pour les consommateurs.
+Lorsqu'un producteur ou un distributeur sait que des produits destinés aux consommateurs qu'il a mis sur le marché ne
+répondent pas aux exigences de l'article L. 221-1, il en informe immédiatement les autorités administratives compétentes, en
+indiquant les actions qu'il engage afin de prévenir les risques pour les consommateurs. 
 
 Les modalités de cette information sont définies par arrêté du ministre chargé de la consommation et des ministres
-intéressés. Le professionnel ne peut s'exonérer de son obligation en soutenant n'avoir pas eu connaissance des risques qu'il
-ne pouvait raisonnablement ignorer.
+intéressés. Le producteur et le distributeur ne peuvent s'exonérer de son obligation en soutenant n'avoir pas eu connaissance
+des risques qu'il ne pouvait raisonnablement ignorer.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
+	  - Ordonnance n°2008-810 du 22 août 2008 - art. 3
 
 	**Cité par**:
 
@@ -11347,6 +11408,43 @@ ne pouvait raisonnablement ignorer.
 	  - Code de la santé publique - art. R513-10-10 (V)
 	  - Code de la santé publique - art. R513-10-8 (V)
 	  - Code rural - art. R231-1 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L221-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L423-3 (V)
+
+
+###### Article L221-1-4
+
+Les distributeurs s'interdisent de fournir des produits dont ils savent, sur la base des informations en leur possession et
+en leur qualité de professionnel, qu'ils ne satisfont pas aux obligations de sécurité définies au présent chapitre. 
+
+En outre, dans les limites de leurs activités respectives, les distributeurs participent au suivi de la sécurité des produits
+mis sur le marché par la transmission des informations concernant les risques liés à ces produits, par la tenue et la
+fourniture des documents nécessaires pour assurer leur traçabilité, ainsi que par la collaboration aux actions engagées par
+les producteurs et les autorités administratives compétentes, pour éviter les risques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-810 du 22 août 2008 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L423-4 (V)
 
 
 ###### Article L221-2
@@ -11741,6 +11839,128 @@ produits, sont assimilées quant à leurs effets à des mesures d'exécution de 
 	**Cité par**:
 
 	  - Code de la consommation - art. R223-2 (Ab)
+
+
+#### Chapitre II : Critères d'évaluation de conformité
+
+###### Article L222-1
+
+Un produit est considéré comme satisfaisant à l'obligation générale de sécurité prévue à l'article L. 221-1, lorsqu'il est
+conforme à la réglementation spécifique qui lui est applicable ayant pour objet la protection de la santé ou de la sécurité
+des consommateurs.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°81-1238 du 30 décembre 1981 - art. 6 (V)
+	  - Décret n°96-333 du 10 avril 1996 - art. 3 (V)
+	  - Décret n°96-495 du 4 juin 1996 - art. 4 (Ab)
+	  - Décret n°96-495 du 4 juin 1996 - art. 7 (Ab)
+	  - Décret n°96-1136 du 18 décembre 1996 - art. Annexe (V)
+	  - Décret n°97-106 du 3 février 1997 - art. 8 (VT)
+	  - Décret n°99-777 du 9 septembre 1999 - art. 4 (V)
+	  - Décret n°2001-129 du 8 février 2001 - art. 7 (M)
+	  - Code de la consommation - art. L222-3 (VT)
+	  - Code de la consommation - art. R224-4 (VT)
+
+	**Anciens textes**:
+
+	  - Loi n°83-660 du 21 juillet 1983 - art. 4 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2008-810 du 22 août 2008 - art. 5
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L221-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L421-5 (V)
+
+
+###### Article L222-2
+
+Un produit est présumé satisfaire à l'obligation générale de sécurité prévue à l'article L. 221-1, en ce qui concerne les
+risques et les catégories de risque couverts par les normes qui lui sont applicables, lorsqu'il est conforme aux normes
+nationales non obligatoires transposant des normes européennes dont la Commission européenne a publié les références au
+Journal officiel de l'Union européenne en application de l'article 4 de la directive 2001/95/CE du Parlement européen et du
+Conseil du 3 décembre 2001 relative à la sécurité générale des produits.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°83-660 du 21 juillet 1983 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2008-810 du 22 août 2008 - art. 5
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L221-1 (VT)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L222-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L421-6 (V)
+
+
+###### Article L222-3
+
+Dans les cas autres que ceux mentionnés aux articles L. 222-1 et L. 222-2, la conformité d'un produit à l'obligation générale
+de sécurité est évaluée en prenant en compte notamment les éléments suivants quand ils existent : 
+
+1° Les normes nationales non obligatoires transposant des normes européennes applicables au produit autres que celles dont la
+référence est publiée au Journal officiel de l'Union européenne en application de l'article 4 de la directive 2001/95/CE du
+Parlement européen et du Conseil du 3 décembre 2001 relative à la sécurité générale des produits ; 
+
+2° Les autres normes françaises ; 
+
+3° Les recommandations de la Commission européenne établissant des orientations concernant l'évaluation de la sécurité des
+produits ; 
+
+4° Les guides de bonne pratique en matière de sécurité des produits en vigueur dans le secteur concerné ; 
+
+5° L'état actuel des connaissances et de la technique ; 
+
+6° La sécurité à laquelle les consommateurs peuvent légitimement s'attendre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°83-660 du 21 juillet 1983 - art. 12 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2008-810 du 22 août 2008 - art. 5
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L222-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L421-7 (V)
 
 
 #### Chapitre IV : La commission de la sécurité des consommateurs.
