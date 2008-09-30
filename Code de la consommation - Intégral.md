@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2008-08-24
+Version Consolidée au 2008-10-01
 
 # Partie législative
 
@@ -7996,6 +7996,85 @@ postérieurement à son entrée en vigueur.
 	  - Code rural - art. L213-1 (M)
 
 
+##### Section 6 : Dispositions particulières relatives aux prestations de services après-vente
+
+###### Article L211-19
+
+Les prestations de services après-vente exécutées à titre onéreux par le vendeur et ne relevant pas de la garantie
+commerciale visée à la section 3 font l'objet d'un contrat dont un exemplaire est remis à l'acheteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 88 (V)
+
+
+###### Article L211-20
+
+La mise en service effectuée par le vendeur comprend l'installation et la vérification du fonctionnement de l'appareil. 
+
+La livraison ou la mise en service s'accompagne de la remise de la notice d'emploi et, s'il y a lieu, du certificat de
+garantie de l'appareil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 88 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L217-18 (V)
+
+
+###### Article L211-21
+
+Le vendeur indique par écrit à l'acheteur lors de son achat, s'il y a lieu, le coût de la livraison et de la mise en service
+du bien. 
+
+Un écrit est laissé à l'acheteur lors de l'entrée en possession du bien, mentionnant la possibilité pour l'acheteur de
+formuler des réserves, notamment en cas de défauts apparents de l'appareil ou de défaut de remise de la notice d'emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 88 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L217-19 (V)
+
+
+###### Article L211-22
+
+Lorsqu'il facture des prestations de réparation forfaitaires, le vendeur doit, par écrit, informer l'acheteur de l'origine de
+la panne, de la nature de l'intervention et des pièces ou fournitures remplacées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 88 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L217-20 (V)
+
+
 #### Chapitre II : Obligation générale de conformité
 
 ###### Article L212-1
@@ -14546,6 +14625,35 @@ compter de la réception des informations mentionnées ci-dessus.
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L313-39 (V)
+
+
+###### Article L312-14-2
+
+Pour les prêts dont le taux d'intérêt est variable, le prêteur est tenu, une fois par an, de porter à la connaissance de
+l'emprunteur le montant du capital restant à rembourser.
+
+**Nota:**
+
+L'article L. 312-14-2 du code de la consommation entre en vigueur le 1er octobre 2008 et s'applique aux contrats de crédit en
+cours à cette date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 26 (V)
+
+	**Cité par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 26 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L313-46 (V)
 
 
 ##### Section 4 : Le contrat principal
