@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2008-11-10
+Version Consolidée au 2008-11-15
 
 # Partie législative
 
@@ -354,46 +354,41 @@ L'utilisation de la dénomination "montagne" pour les produits à appellation d'
 Les règles relatives à la détermination des prix sont fixées par les dispositions de l'article L. 410-2 du code de commerce
 reproduites ci-après : 
 
-" Article L. 410-2-Sauf dans les cas où la loi en dispose autrement, les prix des biens, produits et services relevant
+"Article L. 410-2-Sauf dans les cas où la loi en dispose autrement, les prix des biens, produits et services relevant
 antérieurement au 1er janvier 1987 de l'ordonnance n° 45-1483 du 30 juin 1945 sont librement déterminés par le jeu de la
 concurrence. 
 
-Toutefois, dans les secteurs ou les zones où la concurrence par les prix est limitée en raison soit de situations de monopole
-ou de difficultés durables d'approvisionnement, soit de dispositions législatives ou réglementaires, un décret en Conseil
-d'Etat peut réglementer les prix après consultation du Conseil de la concurrence. 
+"Toutefois, dans les secteurs ou les zones où la concurrence par les prix est limitée en raison soit de situations de
+monopole ou de difficultés durables d'approvisionnement, soit de dispositions législatives ou réglementaires, un décret en
+Conseil d'Etat peut réglementer les prix après consultation de l'Autorité de la concurrence. 
 
-Les dispositions des deux premiers alinéas ne font pas obstacle à ce que le Gouvernement arrête, par décret en Conseil
+"Les dispositions des deux premiers alinéas ne font pas obstacle à ce que le Gouvernement arrête, par décret en Conseil
 d'Etat, contre des hausses ou des baisses excessives de prix, des mesures temporaires motivées par une situation de crise,
 des circonstances exceptionnelles, une calamité publique ou une situation manifestement anormale du marché dans un secteur
 déterminé. Le décret est pris après consultation du Conseil national de la consommation. Il précise sa durée de validité qui
-ne peut excéder six mois. "
+ne peut excéder six mois."
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°45-1483 du 30 juin 1945 (Ab)
+	  - Ordonnance n°45-1483 du 30 juin 1945
 
 	**Anciens textes**:
 
-	  - Ordonnance 86-1243 1986-12-01 art. 1
 	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 1 (M)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18 4 JORF 21 septembre 2000
+	  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Liens**:
 
-	  - PILOTE_SUIVEUR: Code de commerce. - art. L410-2 (V)
+	  - PILOTE_SUIVEUR: Code de commerce - art. L410-2
 
 	**Cité par**:
 
