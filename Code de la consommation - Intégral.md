@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2008-11-15
+Version Consolidée au 2008-12-27
 
 # Partie législative
 
@@ -22153,6 +22153,18 @@ l'article R. 115-10.
 
 	  - Code de la consommation
 
+
+##### Section 4 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer
+
+##### Sous-section 1 : Des organismes certificateurs.
+
+##### Sous-section 2 : De l'accréditation.
+
+##### Sous-section 3 : Des référentiels.
+
+##### Sous-section 4 : De l'information des consommateurs et utilisateurs.
+
+##### Sous-section 5 : Dispositions pénales.
 
 ### Titre II : Pratiques commerciales
 
