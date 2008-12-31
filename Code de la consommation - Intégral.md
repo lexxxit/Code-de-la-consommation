@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2008-12-27
+Version Consolidée au 2009-01-01
 
 # Partie législative
 
@@ -573,6 +573,36 @@ l'économie numérique.
 	**Cité par**:
 
 	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V)
+
+
+###### Article L113-5
+
+Le numéro de téléphone destiné à recueillir l'appel d'un consommateur en vue d'obtenir la bonne exécution d'un contrat conclu
+avec un professionnel ou le traitement d'une réclamation ne peut pas être surtaxé. Il est indiqué dans le contrat et la
+correspondance.
+
+**Nota:**
+
+Loi n° 2008-776 du 4 août 2008 article 87 II :  L'article L. 113-5 du code de la consommation entre en vigueur le 1er janvier
+2009. Il est applicable aux contrats en cours à cette date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 87 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L113-6 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-16 (V)
 
 
 #### Chapitre IV : Information sur les délais de livraison
@@ -1720,15 +1750,19 @@ articles L. 215-1 à L. 215-17 du présent code.
 
 ##### Section 5 : Certification des services et des produits autres qu'alimentaires.
 
+##### Section 5 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer 
+
 ###### Article L115-27
 
 Constitue une certification de produit ou de service soumise aux dispositions de la présente section l'activité par laquelle
-un organisme, distinct du fabricant, de l'importateur, du vendeur ou du prestataire, atteste, à la demande de celui-ci
-effectuée à des fins commerciales ou non commerciales, qu'un produit ou un service est conforme à des caractéristiques
-décrites dans un référentiel et faisant l'objet de contrôles.
+un organisme, distinct du fabricant, de l'importateur, du vendeur, du prestataire ou du client, atteste qu'un produit, un
+service ou une combinaison de produits et de services est conforme à des caractéristiques décrites dans un référentiel de
+certification. 
 
-Le référentiel est un document technique définissant les caractéristiques que doit présenter un produit ou un service et les
-modalités du contrôle de la conformité du produit ou du service à ces caractéristiques.
+Le référentiel de certification est un document technique définissant les caractéristiques que doit présenter un produit, un
+service ou une combinaison de produits et de services, et les modalités de contrôle de la conformité à ces
+caractéristiques.L'élaboration du référentiel de certification incombe à l'organisme certificateur qui recueille le point de
+vue des parties intéressées.
 
 **Liens relatifs à cet article**
 
@@ -1762,35 +1796,37 @@ modalités du contrôle de la conformité du produit ou du service à ces caract
 	  - Code du travail - art. R7232-9 (V)
 	  - Code forestier - art. L13 (V)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 137 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L433-3 (V)
 
 
 ###### Article L115-28
 
-Peuvent seuls procéder à la certification de produits ou de services les organismes qui ont déposé auprès de l'autorité
-administrative une déclaration relative à leur activité et contenant notamment toutes informations nécessaires en ce qui
-concerne les mesures destinées à garantir leur impartialité et leur compétence.
+Peuvent seuls procéder à la certification de produits ou de services les organismes qui bénéficient d'une accréditation
+délivrée par l'instance nationale d'accréditation, ou l'instance nationale d'accréditation d'un autre Etat membre de l'Union
+européenne, membre de la coopération européenne pour l'accréditation et ayant signé les accords de reconnaissance mutuelle
+multilatéraux couvrant la certification considérée. 
 
-Les organismes qui bénéficient d'une accréditation par une instance reconnue à cet effet par les pouvoirs publics sont
-dispensés de fournir ces dernières informations.
+Un organisme non encore accrédité pour la certification considérée peut, dans des conditions définies par décret, effectuer
+des certifications, sous réserve d'avoir déposé une demande d'accréditation. 
 
 Toute référence à la certification dans la publicité, l'étiquetage ou la présentation de tout produit ou service, ainsi que
-sur les documents commerciaux qui s'y rapportent, doit être accompagnée d'informations claires sur la nature et l'étendue des
-caractéristiques certifiées.
+sur les documents commerciaux qui s'y rapportent doit être accompagnée d'informations claires permettant au consommateur ou à
+l'utilisateur d'avoir facilement accès aux caractéristiques certifiées. La consultation des référentiels de certification
+s'effectue soit gratuitement auprès de l'organisme certificateur, soit par la délivrance d'exemplaires aux frais du
+demandeur. 
 
-L'existence des référentiels fait l'objet d'une mention au Journal officiel de la République française. Leur consultation
-s'effectue soit gratuitement sur place auprès de l'organisme certificateur, soit par la délivrance de copies aux frais du
-demandeur.
-
-Les organismes certificateurs déposent comme marques collectives de certification, conformément à la législation sur les
-marques de fabrique, de commerce et de service, le signe distinctif qui, le cas échéant, accompagne ou matérialise la
-certification.
+Le signe distinctif qui, le cas échéant, accompagne ou matérialise la certification est déposé comme marque collective de
+certification, conformément à la législation sur les marques de fabrique, de commerce et de service.
 
 **Liens relatifs à cet article**
 
@@ -1816,21 +1852,27 @@ certification.
 	  - Code de la consommation - art. R115-1 (VT)
 	  - Code de la consommation - art. R115-11 (VT)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 137 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L433-4 (V)
+	  - Code de la consommation - art. L433-5 (V)
+	  - Code de la consommation - art. L433-6 (V)
+	  - Code de la consommation - art. L433-7 (V)
 
 
 ###### Article L115-29
 
 Les dispositions des articles L. 115-27 et L. 115-28 ne sont pas applicables : 
 
-1° A la certification des denrées alimentaires et des produits agricoles non alimentaires et non transformés mentionnés à
-l'article L. 115-21 ; 
+1° A la certification des produits agricoles, forestiers, alimentaires ou de la mer ; 
 
 2° Aux autorisations de mise sur le marché des médicaments à usage humain ou vétérinaire faisant l'objet des dispositions du
 livre V du code de la santé publique ; 
@@ -1843,14 +1885,6 @@ contrôle technique ou administratif de l'autorité publique en vertu de disposi
 de maître artisan pour autant que ces marques ne tendent qu'à attester l'origine d'un produit ou d'un service et la mise en
 oeuvre des règles de l'art et usages quand ils leur sont spécifiques.
 
-**Nota:**
-
-Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
-la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
-
-La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
-du travail au 1er mai 2008.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1859,11 +1893,20 @@ du travail au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 14 (V)
+	  - Loi n°2008-776 du 4 août 2008 - art. 137 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code du travail - art. L2134-1 (V)
+	  - Code de la consommation - art. L115-27
+	  - Code du travail - art. L2134-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L433-8 (V)
 
 
 ###### Article L115-30
@@ -1932,10 +1975,9 @@ générale des douanes et des droits indirects ;
 
 - les inspecteurs du travail ;
 
-- les agents mentionnés à l'article L. 514-13 du code de l'environnement.
+- les agents mentionnés à l'article L. 514-13 du code de l'environnement. 
 
-Ces agents disposent des pouvoirs prévus par les chapitres II à VI du titre Ier du livre II du présent code et leurs textes
-d'application sur les lieux énumérés à l'article L. 213-4 (alinéa premier).
+Ces agents disposent des pouvoirs prévus au livre II du présent code.
 
 **Liens relatifs à cet article**
 
@@ -1943,29 +1985,18 @@ d'application sur les lieux énumérés à l'article L. 213-4 (alinéa premier).
 
 	  - Loi n°78-23 du 10 janvier 1978 - art. 25 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 137 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L514-13
 
 
 ###### Article L115-32
 
-Les modalités d'application des articles L. 115-27 et L. 115-28 sont fixées par décret en Conseil d'Etat, notamment : 
-
-1° Les modalités de déclaration d'activité des organismes certificateurs et le contenu de leur déclaration ; 
-
-2° Les conditions de reconnaissance de l'instance d'accréditation ; 
-
-3° Le contenu des référentiels et les conditions de leur établissement et de leur validation ; 
-
-4° Les modalités de la concertation entre les partenaires intéressés préalablement à l'établissement ou à la validation des
-référentiels ; 
-
-5° Les modalités d'information du consommateur sur la certification.
+Les modalités d'application des articles L. 115-27 et L. 115-28 sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1973,17 +2004,21 @@ référentiels ;
 
 	  - Loi n°78-23 du 10 janvier 1978 - art. 26 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 137 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
 	  - Code de la consommation - art. L115-27 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L433-10 (V)
 
 	**Cité par**:
 
@@ -6691,34 +6726,40 @@ Il ne peut être dérogé par des conventions particulières aux dispositions du
 
 Dans les contrats conclus entre professionnels et non-professionnels ou consommateurs, sont abusives les clauses qui ont pour
 objet ou pour effet de créer, au détriment du non-professionnel ou du consommateur, un déséquilibre significatif entre les
-droits et obligations des parties au contrat.
+droits et obligations des parties au contrat. 
 
-Des décrets en Conseil d'Etat, pris après avis de la commission instituée à l'article L. 132-2, peuvent déterminer des types
-de clauses qui doivent être regardées comme abusives au sens du premier alinéa.
+Un décret en Conseil d'Etat, pris après avis de la commission instituée à l'article L. 132-2, détermine une liste de clauses
+présumées abusives ; en cas de litige concernant un contrat comportant une telle clause, le professionnel doit apporter la
+preuve du caractère non abusif de la clause litigieuse. 
 
-Une annexe au présent code comprend une liste indicative et non exhaustive de clauses qui peuvent être regardées comme
-abusives si elles satisfont aux conditions posées au premier alinéa. En cas de litige concernant un contrat comportant une
-telle clause, le demandeur n'est pas dispensé d'apporter la preuve du caractère abusif de cette clause.
+Un décret pris dans les mêmes conditions détermine des types de clauses qui, eu égard à la gravité des atteintes qu'elles
+portent à l'équilibre du contrat, doivent être regardées, de manière irréfragable, comme abusives au sens du premier alinéa. 
 
 Ces dispositions sont applicables quels que soient la forme ou le support du contrat. Il en est ainsi notamment des bons de
 commande, factures, bons de garantie, bordereaux ou bons de livraison, billets ou tickets, contenant des stipulations
-négociées librement ou non ou des références à des conditions générales préétablies.
+négociées librement ou non ou des références à des conditions générales préétablies. 
 
 Sans préjudice des règles d'interprétation prévues aux articles 1156 à 1161, 1163 et 1164 du code civil, le caractère abusif
 d'une clause s'apprécie en se référant, au moment de la conclusion du contrat, à toutes les circonstances qui entourent sa
 conclusion, de même qu'à toutes les autres clauses du contrat. Il s'apprécie également au regard de celles contenues dans un
-autre contrat lorsque la conclusion ou l'exécution de ces deux contrats dépendent juridiquement l'une de l'autre.
+autre contrat lorsque la conclusion ou l'exécution de ces deux contrats dépendent juridiquement l'une de l'autre. 
 
 Les clauses abusives sont réputées non écrites.
 
 L'appréciation du caractère abusif des clauses au sens du premier alinéa ne porte ni sur la définition de l'objet principal
 du contrat ni sur l'adéquation du prix ou de la rémunération au bien vendu ou au service offert pour autant que les clauses
-soient rédigées de façon claire et compréhensible.
+soient rédigées de façon claire et compréhensible. 
 
 Le contrat restera applicable dans toutes ses dispositions autres que celles jugées abusives s'il peut subsister sans
-lesdites clauses.
+lesdites clauses. 
 
 Les dispositions du présent article sont d'ordre public.
+
+**Nota:**
+
+Loi n° 2008-776 du 4 août 2008 article 86 III :  Le présent article entre en vigueur à compter de la publication du décret
+visé au troisième alinéa de l'article L. 132-1 du code de la consommation dans sa rédaction résultant de la présente loi et,
+au plus tard, le 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -6726,13 +6767,9 @@ Les dispositions du présent article sont d'ordre public.
 
 	  - Loi n°78-23 du 10 janvier 1978 - art. 35 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 16 () JORF 25 août 2001
+	  - Loi n°2008-776 du 4 août 2008 - art. 86 (V)
 
 	**Cité par**:
 
@@ -6743,6 +6780,11 @@ Les dispositions du présent article sont d'ordre public.
 	  - Code de la consommation - art. R132-2 (Ab)
 	  - Code de la consommation - art. R132-6 (VT)
 	  - Code de la consommation - art. R534-4 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 1156
+	  - Code civil - art. 1163
 
 
 ##### Section 2 : La commission des clauses abusives.
@@ -21732,31 +21774,17 @@ lorsque la livraison du bien ou la fourniture de la prestation n'est pas immédi
 
 #### Chapitre V : Valorisation des produits et des services
 
-##### Section 4 : Certification des services et des produits autres qu'alimentaires
-
-##### Sous-section 1 : Des organismes certificateurs.
+##### Section 4 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer
 
 ###### Article R115-1
 
-La déclaration prévue à l'article L. 115-28 est adressée par l'organisme certificateur au ministère chargé de l'industrie,
-par lettre recommandée avec demande d'avis de réception postal. 
-
-Elle est accompagnée d'un dossier de nature à établir l'impartialité et la compétence de l'organisme certificateur,
-appréciées au regard des normes en vigueur relatives aux organismes de certification.
+Un organisme certificateur non encore accrédité pour la certification considérée peut effectuer des certifications de
+produits ou de services dès lors qu'il a déposé une demande d'accréditation et que le Comité français d'accréditation a admis
+la recevabilité de cette demande. Il peut continuer à exercer l'activité de certification en cause pendant une durée d'un an
+maximum à compter de la notification de la recevabilité de sa demande.A défaut d'accréditation obtenue dans ce délai, il doit
+cesser ladite activité.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-354 du 30 mars 1995 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 	**Cité par**:
 
@@ -21769,402 +21797,72 @@ appréciées au regard des normes en vigueur relatives aux organismes de certifi
 	  - Code de la consommation - art. R115-2 (VT)
 	  - Code de la consommation - art. R115-3 (VT)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la consommation - art. L115-28 (VT)
+	  - Décret n°2008-1401 du 19 décembre 2008 - art. 7
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R433-1 (V)
 
 
 ###### Article R115-2
 
-Le dossier mentionné à l'article R. 115-1 comprend : 
+Lorsqu'il est fait référence à la certification dans la publicité, l'étiquetage ou la présentation de tout produit ou
+service, ainsi que sur les documents commerciaux de toute nature qui s'y rapportent, les informations qui suivent, sont
+obligatoirement portées à la connaissance du consommateur ou de l'utilisateur : 
 
-1° Une description des activités de l'organisme, de sa structure, de ses moyens techniques, de son mode de financement ainsi
-que de ses liens éventuels avec des fabricants, importateurs ou vendeurs de produits ou de services objets de la
-certification qu'il se propose d'opérer ; 
+1° Le nom ou la raison sociale de l'organisme certificateur ou la marque collective de certification ; 
 
-2° Ses statuts, son règlement intérieur, les noms et qualités des dirigeants responsables de la certification et des membres
-du conseil d'administration ou de l'organe qui en tient lieu ; 
+2° La dénomination du référentiel de certification utilisé ; 
 
-3° La liste des produits ou services que l'organisme se propose de certifier, une description des moyens et procédures qui
-seront mis en oeuvre pour élaborer et valider les référentiels utilisés par l'organisme pour la certification et des
-modalités de présentation de la certification ; 
-
-4° Les règles générales relatives à la délivrance et au contrôle de l'utilisation de la certification ; 
-
-5° Les mesures prévues à l'encontre des professionnels qui feraient de leur certification un usage contraire aux dispositions
-des articles L. 115-27 et L. 115-28 ; 
-
-6° Les moyens que l'organisme certificateur se propose de mettre en oeuvre pour assurer le contrôle des produits ou services
-qu'il certifie, la répartition des responsabilités au sein de l'organisme ainsi que la qualification du personnel chargé de
-la certification ; 
-
-7° Les procédures de gestion des documents relatifs à la certification et des réclamations.
+3° Les modalités selon lesquelles le référentiel de certification peut être consulté ou obtenu.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°95-354 du 30 mars 1995 - art. 2 (Ab)
+	  - Décret n°2008-1401 du 19 décembre 2008 - art. 7
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Cite**:
-
-	  - Code de la consommation - art. L115-27 (VT)
-	  - Code de la consommation - art. R115-1 (VT)
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cité par**:
 
-	  - Code de la consommation - art. R115-3 (VT)
+	  - Code de la consommation - art. R115-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R433-2 (V)
 
 
 ###### Article R115-3
 
-Si la déclaration comporte les pièces énumérées à l'article R. 115-2 ci-dessus, le ministre chargé de l'industrie en donne
-récépissé par lettre recommandée avec demande d'avis de réception postal, dans les quinze jours de la réception du dossier. 
-
-Si le dossier de déclaration est incomplet, le ministre chargé de l'industrie, dans les quinze jours de la réception du
-dossier, invite l'organisme, par lettre recommandée avec demande d'avis de réception postal, à fournir les pièces
-complémentaires dans les conditions prévues à l'article R. 115-1. Lorsque ces pièces ont été produites, il est fait
-application du premier alinéa du présent article.
+Le non-respect des dispositions de l'article R. 115-2 est puni des peines prévues pour les contraventions de la 5e classe.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°95-354 du 30 mars 1995 - art. 3 (Ab)
+	  - Décret n°2008-1401 du 19 décembre 2008 - art. 7
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation - art. R115-1 (VT)
-	  - Code de la consommation - art. R115-2 (VT)
+	  - Code de la consommation - art. R115-2 (Ab)
 
+	**Nouveaux textes**:
 
-###### Article R115-4
+	  - Code de la consommation - art. R453-1 (V)
 
-Toute modification de l'un des éléments du dossier prévu à l'article R. 115-2 doit faire l'objet d'une déclaration dans les
-mêmes formes et donner lieu à délivrance d'un récépissé dans les conditions prévues à l'article R. 115-3.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-354 du 30 mars 1995 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1401 du 19 décembre 2008 - art. 7
-
-	**Cite**:
-
-	  - Code de la consommation
-
-
-###### Article R115-5
-
-La liste des organismes certificateurs déclarés est publiée et mise à jour régulièrement, sous la forme d'un avis au Journal
-officiel de la République française. Cette publication, qui n'a aucune valeur de reconnaissance officielle, n'engage pas la
-responsabilité de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-354 du 30 mars 1995 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1401 du 19 décembre 2008 - art. 7
-
-
-##### Sous-section 2 : De l'accréditation.
-
-###### Article R115-6
-
-L'impartialité et la compétence d'un organisme certificateur peuvent être établies par un document délivré à cet effet par
-une instance d'accréditation, reconnue par arrêté conjoint du ministre chargé de la consommation et du ministre chargé de
-l'industrie.
-
-Dans ce cas, le dossier accompagnant la déclaration prévue à l'article R. 115-1 peut ne comporter que les éléments cités aux
-points 1°, 2° et 3° de l'article R. 115-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-354 du 30 mars 1995 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1401 du 19 décembre 2008 - art. 7
-
-	**Cite**:
-
-	  - Code de la consommation
-
-
-###### Article R115-7
-
-Ne peut être reconnu en tant qu'instance d'accréditation qu'un organisme indépendant, impartial et compétent, conforme aux
-normes internationales existantes, disposant de moyens techniques et financiers suffisants et composé d'une manière
-équilibrée de façon à assurer la représentation de l'ensemble des intérêts concernés par la certification, sans prédominance
-de l'un d'entre eux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-354 du 30 mars 1995 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1401 du 19 décembre 2008 - art. 7
-
-
-##### Sous-section 3 : Des référentiels.
-
-###### Article R115-8
-
-Les référentiels doivent, dans les conditions indiquées au 3° de l'article R. 115-2, être élaborés et validés en concertation
-avec des représentants des diverses parties intéressées, et notamment les associations ou organismes représentatifs des
-professionnels, les associations ou organismes représentatifs des consommateurs et des utilisateurs, ainsi que les
-administrations concernées.
-
-Lorsqu'il s'agit de documents élaborés unilatéralement, ils doivent au moins être validés par les représentants des diverses
-parties intéressées précitées.
-
-L'organisation de la concertation et de la validation incombe à l'organisme certificateur qui est tenu d'y associer
-l'ensemble des partenaires intéressés, dans le respect des engagements qu'il a pris conformément aux dispositions du 3° de
-l'article R. 115-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-354 du 30 mars 1995 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1401 du 19 décembre 2008 - art. 7
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. D347-3 (Ab)
-
-	**Cite**:
-
-	  - Code de la consommation
-
-
-###### Article R115-9
-
-Chaque référentiel définit son propre champ d'application et comporte :
-
-1° Les caractéristiques retenues pour décrire les produits ou les services qui feront l'objet d'un contrôle, les valeurs
-limites des caractéristiques éventuellement exigées pour la certification et les modalités retenues pour classer ces produits
-ou ces services en fonction de leurs caractéristiques ;
-
-2° La nature et le mode de présentation des informations considérées comme essentielles et qui doivent être portées à la
-connaissance des utilisateurs ou des consommateurs ;
-
-3° Les méthodes d'essais, de mesure, d'analyse, de test ou d'évaluation utilisées pour la détermination des caractéristiques
-certifiées et qui, dans la mesure du possible, devront se référer aux normes homologuées existantes ;
-
-4° Les modalités des contrôles auxquels procède l'organisme certificateur et ceux auxquels s'engagent à procéder les
-fabricants, importateurs, vendeurs des produits ou prestataires des services faisant l'objet de la certification ;
-
-5° Le cas échéant, les engagements pris par les fabricants ou prestataires concernant les conditions d'installation des
-produits ou d'exécution des services certifiés, les conditions du service après-vente et de la réparation des préjudices
-causés aux utilisateurs ou consommateurs par la non-conformité du produit ou du service aux caractéristiques certifiées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-354 du 30 mars 1995 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1401 du 19 décembre 2008 - art. 7
-
-
-##### Sous-section 4 : De l'information des consommateurs et utilisateurs.
-
-###### Article R115-10
-
-Lorsqu'il est fait référence à la certification dans la publicité, l'étiquetage ou la présentation de tout produit ou service
-ainsi que sur les documents commerciaux de toute nature qui s'y rapportent, doivent obligatoirement être portés à la
-connaissance du consommateur ou de l'utilisateur :
-
-1° Le nom ou la raison sociale de l'organisme certificateur ou sa marque collective de certification, ainsi que son adresse ;
-
-2° L'identification du référentiel servant de base à la certification ;
-
-3° Les caractéristiques certifiées essentielles présentées dans les conditions prévues au 2° de l'article R. 115-9.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-354 du 30 mars 1995 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1401 du 19 décembre 2008 - art. 7
-
-	**Cite**:
-
-	  - Code de la consommation
-
-
-###### Article R115-11
-
-Les référentiels validés font l'objet d'une publicité, sous la forme d'un avis au Journal officiel de la République
-française.
-
-Cette publication comporte le nom et l'adresse de l'organisme certificateur, l'identification précise du produit ou du
-service concerné ainsi que les éléments essentiels du référentiel, et notamment les caractéristiques certifiées faisant
-l'objet d'un contrôle.
-
-Ces référentiels sont tenus à la disposition du public par l'organisme certificateur, dans les conditions prévues au
-quatrième alinéa de l'article L. 115-28.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-354 du 30 mars 1995 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1401 du 19 décembre 2008 - art. 7
-
-	**Cite**:
-
-	  - Code de la consommation - art. L115-28
-
-
-##### Sous-section 5 : Dispositions pénales.
-
-###### Article R115-12
-
-Est puni des peines prévues pour les contraventions de la 5e classe le fait, pour tout responsable de la mise sur le marché
-d'un produit ou tout prestataire de service, qui fait référence à la certification de ce produit ou de ce service, de ne pas
-faire figurer dans la publicité, l'étiquetage ou la présentation de ceux-ci, l'une des mentions ou indications prévues à
-l'article R. 115-10.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-354 du 30 mars 1995 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1401 du 19 décembre 2008 - art. 7
-
-	**Cite**:
-
-	  - Code de la consommation
-
-
-##### Section 4 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer
-
-##### Sous-section 1 : Des organismes certificateurs.
-
-##### Sous-section 2 : De l'accréditation.
-
-##### Sous-section 3 : Des référentiels.
-
-##### Sous-section 4 : De l'information des consommateurs et utilisateurs.
-
-##### Sous-section 5 : Dispositions pénales.
 
 ### Titre II : Pratiques commerciales
 
@@ -27681,117 +27379,6 @@ vente.
 	**Abrogé par**:
 
 	  - Décret n°2016-884 du 29 juin 2016 - art. 8
-
-
-##### Annexe : clauses visées au troisième alinéa de l'article L. 132-1
-
-###### Article Annexe à l'article L132-1
-
-1. Clauses ayant pour objet ou pour effet :
-
-a) D'exclure ou de limiter la responsabilité légale du professionnel en cas de mort d'un consommateur ou de dommages
-corporels causés à celui-ci, résultant d'un acte ou d'une omission de ce professionnel ;
-
-b) D'exclure ou de limiter de façon inappropriée les droits légaux du consommateur vis-à-vis du professionnel ou d'une autre
-partie en cas de non-exécution totale ou partielle ou d'exécution défectueuse par le professionnel d'une quelconque des
-obligations contractuelles, y compris la possibilité de compenser une dette envers le professionnel avec une créance qu'il
-aurait contre lui ;
-
-c) De prévoir un engagement ferme du consommateur, alors que l'exécution des prestations du professionnel est assujettie à
-une condition dont la réalisation dépend de sa seule volonté ;
-
-d) De permettre au professionnel de retenir des sommes versées par le consommateur lorsque celui-ci renonce à conclure ou à
-exécuter le contrat, sans prévoir le droit, pour le consommateur, de percevoir une indemnité d'un montant équivalent de la
-part du professionnel lorsque c'est celui-ci qui renonce ;
-
-e) D'imposer au consommateur qui n'exécute pas ses obligations une indemnité d'un montant disproportionnellement élevé ;
-
-f) D'autoriser le professionnel à résilier le contrat de façon discrétionnaire si la même faculté n'est pas reconnue au
-consommateur, ainsi que de permettre au professionnel de retenir les sommes versées au titre de prestations non encore
-réalisées par lui, lorsque c'est le professionnel lui-même qui résilie le contrat ;
-
-g) D'autoriser le professionnel à mettre fin sans un préavis raisonnable à un contrat à durée indéterminée, sauf en cas de
-motif grave ;
-
-h) De proroger automatiquement un contrat à durée déterminée en l'absence d'expression contraire du consommateur, alors
-qu'une date excessivement éloignée de la fin du contrat a été fixée comme date limite pour exprimer cette volonté de non-
-prorogation de la part du consommateur ;
-
-i) De constater de manière irréfragable l'adhésion du consommateur à des clauses dont il n'a pas eu, effectivement,
-l'occasion de prendre connaissance avant la conclusion du contrat ;
-
-j) D'autoriser le professionnel à modifier unilatéralement les termes du contrat sans raison valable et spécifiée dans le
-contrat ;
-
-k) D'autoriser les professionnels à modifier unilatéralement sans raison valable des caractéristiques du produit à livrer ou
-du service à fournir ;
-
-l) De prévoir que le prix des biens est déterminé au moment de la livraison, ou d'accorder au vendeur de biens ou au
-fournisseur de services le droit d'augmenter leurs prix sans que, dans les deux cas, le consommateur n'ait de droit
-correspondant lui permettant de rompre le contrat au cas où le prix final est trop élevé par rapport au prix convenu lors de
-la conclusion du contrat ;
-
-m) D'accorder au professionnel le droit de déterminer si la chose livrée ou le service fourni est conforme aux stipulations
-du contrat ou de lui conférer le droit exclusif d'interpréter une quelconque clause du contrat ;
-
-n) De restreindre l'obligation du professionnel de respecter les engagements pris par ses mandataires ou de soumettre ses
-engagements au respect d'une formalité particulière ;
-
-o) D'obliger le consommateur à exécuter ses obligations lors même que le professionnel n'exécuterait pas les siennes ;
-
-p) De prévoir la possibilité de cession du contrat de la part du professionnel, lorsqu'elle est susceptible d'engendrer une
-diminution des garanties pour le consommateur sans l'accord de celui-ci ;
-
-q) De supprimer ou d'entraver l'exercice d'actions en justice ou des voies de recours par le consommateur, notamment en
-obligeant le consommateur à saisir exclusivement une juridiction d'arbitrage non couverte par des dispositions légales ou à
-passer exclusivement par un mode alternatif de règlement des litiges, en limitant indûment les moyens de preuves à la
-disposition du consommateur ou en imposant à celui-ci une charge de preuve qui, en vertu du droit applicable, devrait revenir
-normalement à une autre partie au contrat ;
-
-r) De permettre à une banque ou un établissement financier de ne pas rendre effective immédiatement la dénonciation d'un
-compte joint par l'un des cotitulaires du compte.
-
-2. Portée des points g, j et l :
-
-a) Le point g ne fait pas obstacle à des clauses par lesquelles le fournisseur de services financiers se réserve le droit de
-mettre fin au contrat à durée indéterminée unilatéralement, et ce, sans préavis en cas de raison valable, pourvu que soit
-mise à la charge du professionnel l'obligation d'en informer la ou les autres parties contractantes immédiatement ;
-
-b) Le point j ne fait pas obstacle à des clauses selon lesquelles le fournisseur de services financiers se réserve le droit
-de modifier le taux d'intérêt dû par le consommateur ou dû à celui-ci, ou le montant de toutes autres charges afférentes à
-des services financiers, sans aucun préavis en cas de raison valable, pourvu que soit mise à la charge du professionnel
-l'obligation d'en informer la ou les autres parties contractantes dans les meilleurs délais et que celles-ci soient libres de
-réaliser immédiatement le contrat.
-
-Le point j ne fait pas non plus obstacle à des clauses selon lesquelles le professionnel se réserve le droit de modifier
-unilatéralement les conditions d'un contrat de durée indéterminée pourvu que soit mis à sa charge le devoir d'en informer le
-consommateur avec un préavis raisonnable et que celui-ci soit libre de résilier le contrat ;
-
-c) Les points g, j et l ne sont pas applicables aux :
-
-- transactions concernant les valeurs mobilières, instruments financiers et autres produits ou services dont le prix est lié
-aux fluctuations d'un cours ou d'un indice boursier ou d'un taux de marché financier que le professionnel ne contrôle pas ;
-
-- contrats d'achat ou de vente de devises, de chèques de voyage ou de mandats-poste internationaux libellés en devises ;
-
-d) Le point l ne fait pas obstacle aux clauses d'indexation de prix pour autant qu'elles soient licites et que le mode de
-variation du prix y soit explicitement décrit.
-
-**Nota:**
-
-Loi n° 2008-776 du 4 août 2008 article 86 III : Le présent article entre en vigueur à compter de la publication du décret
-visé au troisième alinéa de l'article L. 132-1 du code de la consommation dans sa rédaction résultant de la présente loi et,
-au plus tard, le 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 85
-
-	**Abrogé par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 86 (V)
 
 
 ##### ANNEXE A L'ARTICLE R311-6
