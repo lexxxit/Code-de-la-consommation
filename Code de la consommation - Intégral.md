@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-03-21
 
 # Partie législative
 
@@ -1747,8 +1747,6 @@ articles L. 215-1 à L. 215-17 du présent code.
 
 	  - Code rural - art. L642-1 (M)
 
-
-##### Section 5 : Certification des services et des produits autres qu'alimentaires.
 
 ##### Section 5 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer 
 
@@ -22847,85 +22845,182 @@ produit.
 
 ###### Article R132-1
 
-Dans les contrats de vente conclus entre des professionnels, d'une part, et des non-professionnels ou des consommateurs,
-d'autre part, est interdite comme abusive au sens de l'alinéa 1er de l'article L. 132-1 la clause ayant pour objet ou pour
-effet de supprimer ou de réduire le droit à réparation du non-professionnel ou consommateur en cas de manquement par le
-professionnel à l'une quelconque de ses obligations.
+Dans les contrats conclus entre des professionnels et des non-professionnels ou des consommateurs, sont de manière
+irréfragable présumées abusives, au sens des dispositions du premier et du troisième alinéas de l'article L. 132-1 et dès
+lors interdites, les clauses ayant pour objet ou pour effet de : 
+
+1° Constater l'adhésion du non-professionnel ou du consommateur à des clauses qui ne figurent pas dans l'écrit qu'il accepte
+ou qui sont reprises dans un autre document auquel il n'est pas fait expressément référence lors de la conclusion du contrat
+et dont il n'a pas eu connaissance avant sa conclusion ; 
+
+2° Restreindre l'obligation pour le professionnel de respecter les engagements pris par ses préposés ou ses mandataires ; 
+
+3° Réserver au professionnel le droit de modifier unilatéralement les clauses du contrat relatives à sa durée, aux
+caractéristiques ou au prix du bien à livrer ou du service à rendre ; 
+
+4° Accorder au seul professionnel le droit de déterminer si la chose livrée ou les services fournis sont conformes ou non aux
+stipulations du contrat ou lui conférer le droit exclusif d'interpréter une quelconque clause du contrat ; 
+
+5° Contraindre le non-professionnel ou le consommateur à exécuter ses obligations alors que, réciproquement, le professionnel
+n'exécuterait pas ses obligations de délivrance ou de garantie d'un bien ou son obligation de fourniture d'un service ; 
+
+6° Supprimer ou réduire le droit à réparation du préjudice subi par le non-professionnel ou le consommateur en cas de
+manquement par le professionnel à l'une quelconque de ses obligations ; 
+
+7° Interdire au non-professionnel ou au consommateur le droit de demander la résolution ou la résiliation du contrat en cas
+d'inexécution par le professionnel de ses obligations de délivrance ou de garantie d'un bien ou de son obligation de
+fourniture d'un service ; 
+
+8° Reconnaître au professionnel le droit de résilier discrétionnairement le contrat, sans reconnaître le même droit au non-
+professionnel ou au consommateur ; 
+
+9° Permettre au professionnel de retenir les sommes versées au titre de prestations non réalisées par lui, lorsque celui-ci
+résilie lui-même discrétionnairement le contrat ; 
+
+10° Soumettre, dans les contrats à durée indéterminée, la résiliation à un délai de préavis plus long pour le non-
+professionnel ou le consommateur que pour le professionnel ; 
+
+11° Subordonner, dans les contrats à durée indéterminée, la résiliation par le non-professionnel ou par le consommateur au
+versement d'une indemnité au profit du professionnel ; 
+
+12° Imposer au non-professionnel ou au consommateur la charge de la preuve, qui, en vertu du droit applicable, devrait
+incomber normalement à l'autre partie au contrat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°78-464 du 24 mars 1978 - art. 2 (Ab)
+	  - Décret n°2009-302 du 18 mars 2009 - art. 1
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation - art. L132-1 (M)
+	  - Code de la consommation - art. L132-1
 
 	**Cité par**:
 
 	  - Code de la consommation - art. R132-2 (Ab)
+	  - Code de la consommation - art. R132-2-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R212-1 (V)
 
 
 ###### Article R132-2
 
-Dans les contrats conclus entre professionnels et non-professionnels ou consommateurs, est interdite la clause ayant pour
-objet ou pour effet de réserver au professionnel le droit de modifier unilatéralement les caractéristiques du bien à livrer
-ou du service à rendre.
+Dans les contrats conclus entre des professionnels et des non-professionnels ou des consommateurs, sont présumées abusives au
+sens des dispositions du premier et du deuxième alinéas de l'article L. 132-1, sauf au professionnel à rapporter la preuve
+contraire, les clauses ayant pour objet ou pour effet de : 
 
-Toutefois, il peut être stipulé que le professionnel peut apporter des modifications liées à l'évolution technique, à
-condition qu'il n'en résulte ni augmentation des prix ni altération de qualité et que la clause réserve au non-professionnel
-ou consommateur la possibilité de mentionner les caractéristiques auxquelles il subordonne son engagement.
+1° Prévoir un engagement ferme du non-professionnel ou du consommateur, alors que l'exécution des prestations du
+professionnel est assujettie à une condition dont la réalisation dépend de sa seule volonté ; 
+
+2° Autoriser le professionnel à conserver des sommes versées par le non-professionnel ou le consommateur lorsque celui-ci
+renonce à conclure ou à exécuter le contrat, sans prévoir réciproquement le droit pour le non-professionnel ou le
+consommateur de percevoir une indemnité d'un montant équivalent, ou égale au double en cas de versement d'arrhes au sens de
+l'article L. 114-1, si c'est le professionnel qui renonce ; 
+
+3° Imposer au non-professionnel ou au consommateur qui n'exécute pas ses obligations une indemnité d'un montant manifestement
+disproportionné ; 
+
+4° Reconnaître au professionnel la faculté de résilier le contrat sans préavis d'une durée raisonnable ; 
+
+5° Permettre au professionnel de procéder à la cession de son contrat sans l'accord du non-professionnel ou du consommateur
+et lorsque cette cession est susceptible d'engendrer une diminution des droits du non-professionnel ou du consommateur ; 
+
+6° Réserver au professionnel le droit de modifier unilatéralement les clauses du contrat relatives aux droits et obligations
+des parties, autres que celles prévues au 3° de l'article R. 132-1 ; 
+
+7° Stipuler une date indicative d'exécution du contrat, hors les cas où la loi l'autorise ; 
+
+8° Soumettre la résolution ou la résiliation du contrat à des conditions ou modalités plus rigoureuses pour le non-
+professionnel ou le consommateur que pour le professionnel ; 
+
+9° Limiter indûment les moyens de preuve à la disposition du non-professionnel ou du consommateur ; 
+
+10° Supprimer ou entraver l'exercice d'actions en justice ou des voies de recours par le consommateur, notamment en obligeant
+le consommateur à saisir exclusivement une juridiction d'arbitrage non couverte par des dispositions légales ou à passer
+exclusivement par un mode alternatif de règlement des litiges.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°78-464 du 24 mars 1978 - art. 3 (Ab)
+	  - Décret n°2009-302 du 18 mars 2009 - art. 2
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Code de la consommation - art. L114-1
+	  - Code de la consommation - art. L132-1
+	  - Code de la consommation - art. R132-1
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R132-2-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R212-2 (V)
 
 
 ###### Article R132-2-1
 
-Dans les contrats mentionnés à l'article L. 121-20-8, est interdite comme abusive au sens du premier alinéa de l'article L.
-132-1 la clause ayant pour objet ou pour effet de prévoir qu'incombe au consommateur la charge de la preuve du respect par le
-fournisseur de tout ou partie des obligations que lui imposent les dispositions des articles L. 121-20-8 à L. 121-20-16 du
-présent code, L. 112-2-1 du code des assurances, L. 221-18 du code de la mutualité, L. 932-15-1 du code de la sécurité
-sociale et L. 341-12 du code monétaire et financier.
+I.-Le 3° de l'article R. 132-1 et les 4° et 6° de l'article R. 132-2 ne sont pas applicables : 
+
+a) Aux transactions concernant les valeurs mobilières, instruments financiers et autres produits ou services dont le prix est
+lié aux fluctuations d'un cours, d'un indice ou d'un taux que le professionnel ne contrôle pas ; 
+
+b) Aux contrats d'achat ou de vente de devises, de chèques de voyage ou de mandats internationaux émis en bureau de poste et
+libellés en devises. 
+
+II.-Le 3° de l'article R. 132-1 et le 6° de l'article R. 132-2 ne font pas obstacle à l'existence de clauses par lesquelles
+le fournisseur de services financiers se réserve le droit de modifier le taux d'intérêt dû par le non-professionnel ou le
+consommateur ou dû à celui-ci, ou le montant de toutes charges afférentes à des services financiers, sans aucun préavis en
+cas de motif légitime, pourvu que soit mise à la charge du professionnel l'obligation d'en informer la ou les autre parties
+contractantes dans les meilleurs délais et que celles-ci soient libres de résilier immédiatement le contrat. 
+
+III.-Le 8° de l'article R. 132-1 et le 4° de l'article R. 132-2 ne font pas obstacle à l'existence de clauses par lesquelles
+le fournisseur de services financiers se réserve le droit de mettre fin au contrat à durée indéterminée unilatéralement, et
+ce sans préavis en cas de motif légitime, à condition que soit mise à la charge du professionnel l'obligation d'en informer
+la ou les autres parties contractantes immédiatement. 
+
+IV.-Le 3° de l'article R. 132-1 et le 6° de l'article R. 132-2 ne font pas obstacle à l'existence de clauses par lesquelles
+le contrat, lorsqu'il est conclu à durée indéterminée, stipule que le professionnel peut apporter unilatéralement des
+modifications liées au prix du bien à livrer ou du service à rendre à la condition que le consommateur en ait été averti dans
+un délai raisonnable pour être en mesure, le cas échéant, de résilier le contrat.
+
+V.-Le 3° de l'article R. 132-1 et le 6° de l'article R. 132-2 ne font pas obstacle à l'existence de clauses par lesquelles le
+contrat stipule que le professionnel peut apporter unilatéralement des modifications au contrat liées à l'évolution
+technique, dès lors qu'il n'en résulte ni augmentation de prix, ni altération de la qualité et que les caractéristiques
+auxquelles le non-professionnel ou le consommateur a subordonné son engagement ont pu figurer au contrat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°2009-302 du 18 mars 2009 - art. 3
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur le 1er décembre 2005
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation - art. L132-1 (M)
-	  - Code de la consommation L121-20-8 à L121-20-16, L132-1
-	  - Code monétaire et financier - art. L341-12 (M)
-	  - Code de la sécurité sociale. - art. L932-15-1 (M)
-	  - Code des assurances - art. L112-2-1 (M)
-	  - Code de la mutualité - art. L221-18 (M)
+	  - Code de la consommation - art. R132-1 (Ab)
+	  - Code de la consommation - art. R132-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R212-3 (V)
+	  - Code de la consommation - art. R212-4 (V)
 
 
 ##### Section 2 : Commission des clauses abusives
