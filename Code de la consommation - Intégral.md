@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2009-03-21
+Version Consolidée au 2009-05-14
 
 # Partie législative
 
@@ -12,22 +12,14 @@ Version Consolidée au 2009-03-21
 ###### Article L111-1
 
 Tout professionnel vendeur de biens ou prestataire de services doit, avant la conclusion du contrat, mettre le consommateur
-en mesure de connaître les caractéristiques essentielles du bien ou du service.
+en mesure de connaître les caractéristiques essentielles du bien ou du service. En cas de litige, il appartient au vendeur de
+prouver qu'il a exécuté cette obligation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-60 1992-01-18 art. 2 al. 1
 	  - Loi n°92-60 du 18 janvier 1992 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 	**Liens**:
 
@@ -37,6 +29,10 @@ en mesure de connaître les caractéristiques essentielles du bien ou du service
 	  - TXT_SOURCE: Arrêté du 23 juillet 1996 - art. 3 (VT)
 	  - TXT_SOURCE: Arrêté du 23 juillet 1996 - art. 4 (VT)
 	  - TXT_SOURCE: Arrêté du 23 juillet 1996 - art. Annexe (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 21
 
 	**Cité par**:
 
@@ -56,23 +52,16 @@ en mesure de connaître les caractéristiques essentielles du bien ou du service
 
 ###### Article L111-2
 
-Le professionnel vendeur de biens meubles doit, en outre, indiquer au consommateur la période pendant laquelle il est
-prévisible que les pièces indispensables à l'utilisation du bien seront disponibles sur le marché. Cette période est
-obligatoirement portée à la connaissance du professionnel par le fabricant ou l'importateur.
+Le fabricant ou l'importateur de biens meubles doivent informer le vendeur professionnel de la période pendant laquelle les
+pièces indispensables à l'utilisation des biens seront disponibles sur le marché. Cette information est obligatoirement
+délivrée au consommateur par le vendeur, avant la conclusion du contrat. En cas de litige, il appartient au vendeur de
+prouver qu'il a exécuté cette obligation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°92-60 1992-01-18 art. 2 al. 2
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2009-526 du 12 mai 2009 - art. 22
 
 	**Cité par**:
 
@@ -5129,30 +5118,22 @@ l'expiration du délai de rétractation prévu à l'article L. 121-64.
 
 ###### Article L121-72
 
-Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies aux articles L. 121-70 et L. 121-71. Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées à l'article 131-39 du code pénal.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux articles L. 121-70 et L. 121-71 encourent, outre l'amende suivant les modalités prévues par
+l'article 131-38 du code pénal, les peines prévues par l'article 131-39 du même code.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-70 (M)
-	  - Code de la consommation - art. L121-71 (M)
+	  - Code de la consommation - art. L121-70 (VT)
 	  - Code pénal - art. 121-2 (M)
 	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 131-39 (V)
 
 	**Cité par**:
 
@@ -7385,6 +7366,27 @@ Le juge peut soulever d'office toutes les dispositions du présent code dans les
 	  - Loi n°2008-3 du 3 janvier 2008 - art. 34
 
 
+###### Article L141-5
+
+Le consommateur peut saisir à son choix, outre l'une des juridictions territorialement compétentes en vertu du code de
+procédure civile, la juridiction du lieu où il demeurait au moment de la conclusion du contrat ou de la survenance du fait
+dommageable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 24
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R631-3 (V)
+
+
 ## Livre II : Conformité et sécurité des produits et des services
 
 ### Titre Ier : Conformité
@@ -8609,31 +8611,22 @@ code de la santé publique.
 
 ###### Article L213-6
 
-Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code
-pénal des infractions définies aux articles L. 213-1 à L. 213-4.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal; 
-
-2° Les peines mentionnées aux 2° à 9° de l'article 131-39 du code pénal.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux articles L. 213-1 à L. 213-4 encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 du code pénal, les peines prévues par les 2° à 9° de l'article 131-39 du même code. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
 l'exercice de laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°2001-504 2001-06-12 art. 24 (modalités d'application aux DOM - TOM)
-
-	**Créé par**:
-
-	  - Loi n°2001-504 du 12 juin 2001 - art. 3 () JORF 13 juin 2001
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
@@ -8641,10 +8634,16 @@ l'exercice de laquelle l'infraction a été commise.
 
 	**Cite**:
 
-	  - Code de la consommation L213-1 à L213-4
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
+	  - Code de la consommation - art. L213-1
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L451-6 (V)
+	  - Code de la consommation - art. L452-2 (V)
+	  - Code de la consommation - art. L454-5 (V)
 
 
 #### Chapitre IV : Mesures d'application
@@ -9978,31 +9977,29 @@ réclame l'expertise contradictoire prévue à l'article L. 215-9.
 
 ###### Article L215-12
 
-Lorsque l'expertise a été réclamée ou lorsqu'elle a été décidée par la juridiction d'instruction ou de jugement, deux experts
-sont désignés ; l'un est nommé par la juridiction, l'autre est choisi par l'intéressé et nommé par la juridiction dans les
+Lorsque l'expertise a été réclamée ou lorsqu'elle a été décidée par le procureur de la République ou la juridiction
+d'instruction ou de jugement, deux experts sont désignés ; l'un est nommé par le procureur de la République ou la
+juridiction, l'autre est choisi par l'intéressé et nommé par le procureur de la République ou la juridiction dans les
 conditions prévues par l'article 157 du code de procédure pénale.
 
 A titre exceptionnel, l'intéressé peut choisir un expert en dehors des listes prévues au premier alinéa de l'article 157
-susmentionné. Son choix est subordonné à l'agrément de la juridiction.
+susmentionné. Son choix est subordonné à l'agrément du procureur de la République ou de la juridiction. 
 
 Le directeur du laboratoire qui a fait l'analyse peut être désigné dans les conditions fixées aux premier et deuxième
-alinéas, même lorsqu'il ne figure pas sur les listes prévues à l'article 157, premier alinéa, du code de procédure pénale.
+alinéas, même lorsqu'il ne figure pas sur les listes prévues à l'article 157, premier alinéa, du code de procédure pénale. 
 
-Pour la désignation de l'expert, un délai est imparti par la juridiction à l'intéressé, qui a toutefois le droit de renoncer
-explicitement à cette désignation et de s'en rapporter aux conclusions de l'expert désigné par la juridiction.
+Pour la désignation de l'expert, un délai est imparti par le procureur de la République ou la juridiction à l'intéressé, qui
+a toutefois le droit de renoncer explicitement à cette désignation et de s'en rapporter aux conclusions de l'expert désigné
+par la juridiction. 
 
 Si l'intéressé, sans avoir renoncé à ce droit, n'a pas désigné un expert dans le délai imparti, cet expert est nommé d'office
-par la juridiction.
+par le procureur de la République ou la juridiction.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2009-526 du 12 mai 2009 - art. 56
 
 	**Cité par**:
 
@@ -10012,86 +10009,101 @@ par la juridiction.
 	**Anciens textes**:
 
 	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 26 (Ab)
-	  - Décret n°1919-01-22 art. 26
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 157 (M)
+	  - Code de procédure pénale - art. 157 (V)
 
 
 ###### Article L215-13
 
-L'expert choisi par l'intéressé est nommé par la juridiction dans les mêmes termes et reçoit la même mission que celui
-qu'elle a choisi. Ces experts ont les mêmes obligations, les mêmes droits, la même responsabilité, et reçoivent la même
-rémunération, dans les conditions prévues au code de procédure pénale.
+Les deux experts mentionnés au premier alinéa de l'article L. 215-12 reçoivent la même mission. Ces experts ont les mêmes
+obligations, les mêmes droits, la même responsabilité, et reçoivent la même rémunération, dans les conditions prévues au code
+de procédure pénale. 
 
 Les experts doivent employer la ou les méthodes utilisées par le laboratoire et procéder aux mêmes analyses ; ils peuvent
 toutefois employer d'autres méthodes en complément.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 56
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-12 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L512-43 (V)
+
 	**Anciens textes**:
 
-	  - Décret n°1919-01-22 art. 27
 	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 27 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
 ###### Article L215-14
 
-La juridiction remet le deuxième échantillon prélevé aux experts selon les dispositions de l'article 163 du code de procédure
-pénale. Au cas où des mesures spéciales de conservation auraient été prises, la juridiction précisera les modalités de
-retrait des échantillons.
+A la demande du procureur de la République ou de la juridiction, le deuxième échantillon prélevé est remis aux experts. Au
+cas où des mesures spéciales de conservation auraient été prises, le procureur de la République ou la juridiction précisera
+les modalités de retrait des échantillons.
 
-Elle remet aussi aux experts l'échantillon laissé entre les mains de la personne chez qui le prélèvement a été effectué,
-préalablement mise en demeure de le fournir sous huitaine, intact. Si l'intéressé ne représente pas son échantillon intact
-dans ledit délai, il ne doit plus être fait à aucun moment état de cet échantillon.
+L'intéressé chez qui le prélèvement a été effectué est mis en demeure par le procureur de la République ou la juridiction de
+fournir aux experts, sous huitaine, intact, l'échantillon qu'il détient. Si l'intéressé ne représente pas son échantillon
+intact dans ledit délai, il ne doit plus être fait à aucun moment état de cet échantillon.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 56
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L512-44 (V)
+	  - Code de la consommation - art. L512-45 (V)
+
 	**Anciens textes**:
 
-	  - Décret n°1919-01-22 art. 28
 	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 28 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 163 (M)
+	  - Code de procédure pénale - art. 163
 
 
 ###### Article L215-14-1
 
-Lors des opérations de contrôle des teneurs en mycotoxines des denrées alimentaires, la juridiction remet aux experts les
-échantillons scellés, conservés par le laboratoire, selon les dispositions de l'article 163 du code de procédure pénale.
+Lors des opérations de contrôle des teneurs en mycotoxines des denrées alimentaires, le procureur de la République ou la
+juridiction remet aux experts les échantillons scellés, conservés par le laboratoire, selon les dispositions de l'article 163
+du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°2009-526 du 12 mai 2009 - art. 56
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 28 () JORF 6 octobre 2006
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L512-45 (V)
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 163 (M)
+	  - Code de procédure pénale - art. 163
 
 
 ###### Article L215-15
@@ -10126,69 +10138,69 @@ l'expert le plus prompt et les experts concluent sur les constatations ainsi fai
 ###### Article L215-16
 
 Par dérogation à l'article 167 du code de procédure pénale, si les experts sont en désaccord, ou s'ils sont d'accord pour
-infirmer les conclusions du rapport du laboratoire de l'administration, la juridiction, avant de statuer, donne à ce
-laboratoire connaissance du rapport d'expertise et lui fixe un délai pour faire parvenir éventuellement ses observations,
-sauf dans le cas où le directeur du laboratoire intéressé a participé lui-même à l'expertise en qualité d'expert.
+infirmer les conclusions du rapport du laboratoire de l'administration, le procureur de la République ou la juridiction,
+avant de statuer, donne à ce laboratoire connaissance du rapport d'expertise et lui fixe un délai pour faire parvenir
+éventuellement ses observations, sauf dans le cas où le directeur du laboratoire intéressé a participé lui-même à l'expertise
+en qualité d'expert.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 56
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L512-48 (V)
+
 	**Anciens textes**:
 
-	  - Décret n°1919-01-22 art. 30
 	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 30 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 167 (M)
+	  - Code de procédure pénale - art. 167
 
 
 ###### Article L215-17
 
 En matière de contrôle bactériologique ou de pureté biologique, exception faite du cas où l'intéressé a déclaré s'en
-rapporter à l'expert unique, désigné par le juge d'instruction, ce dernier commet deux experts à l'expertise de l'échantillon
-prélevé.
+rapporter à l'expert unique, désigné par le procureur de la République ou le juge d'instruction, ce dernier commet deux
+experts à l'expertise de l'échantillon prélevé. 
 
-Le premier de ces experts est choisi parmi les directeurs de laboratoires compétents.
+Le premier de ces experts est choisi parmi les directeurs de laboratoires compétents. 
 
-Le second expert, commis par le juge d'instruction, est l'expert ou son suppléant choisi par l'intéressé dans la discipline
-concernée sur les listes prévues à l'article 157 du code de procédure pénale.
+Le second expert, commis par le procureur de la République ou le juge d'instruction, est l'expert ou son suppléant choisi par
+l'intéressé dans la discipline concernée sur les listes prévues à l'article 157 du code de procédure pénale.
 
-Les deux experts procèdent en commun, dans le laboratoire auquel l'échantillon a été remis, à l'examen de cet échantillon.
+Les deux experts procèdent en commun, dans le laboratoire auquel l'échantillon a été remis, à l'examen de cet échantillon. 
 
-Le juge d'instruction prend toutes mesures pour que le prélèvement et l'expertise qui y fait suite immédiatement soient
-effectués par le service de la répression des fraudes et les experts à la date fixée par lui. Le défaut de l'un des experts
-n'empêche pas l'examen de s'accomplir, avec les effets qui s'attachent à la procédure contradictoire.
+Le procureur de la République ou le juge d'instruction prend toutes mesures pour que le prélèvement et l'expertise qui y fait
+suite immédiatement soient effectués par le service de la répression des fraudes et les experts à la date fixée par lui. Le
+défaut de l'un des experts n'empêche pas l'examen de s'accomplir, avec les effets qui s'attachent à la procédure
+contradictoire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°1919-01-22 art. 31
-	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 31 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2009-526 du 12 mai 2009 - art. 56
 
 	**Cité par**:
 
 	  - Code de la consommation - art. R215-23 (Ab)
 
+	**Anciens textes**:
+
+	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 31 (Ab)
+
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 157 (M)
+	  - Code de procédure pénale - art. 157 (V)
 
 
 #### Chapitre VI : Dispositions communes
@@ -11325,32 +11337,24 @@ l'industrie. Ces arrêtés déterminent également les modalités d'attribution,
 ###### Article L218-7
 
 Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait de procéder au traitement par ionisation des denrées
-sans être titulaire de l'agrément prévu à l'article L. 218-6. Pour ces mêmes faits, les personnes morales peuvent être
-déclarées responsables pénalement dans les conditions prévues à l'article 121-2 du code pénal et encourent une peine d'amende
-selon les modalités prévues à l'article 131-38 du même code.
+sans être titulaire de l'agrément prévu à l'article L. 218-6. 
 
 Est puni d'une peine de deux ans d'emprisonnement et de 15 000 euros d'amende le fait de ne pas exécuter les mesures
-ordonnées en application des dispositions du présent chapitre.
+ordonnées en application des dispositions du présent chapitre. 
 
 Les infractions faisant l'objet des sanctions prévues au présent article sont constatées par les agents mentionnés à
 l'article L. 215-1 dans les conditions prévues au chapitre V du présent titre.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 4 () JORF 10 juillet 2004
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code de la consommation - art. L215-1 (M)
-	  - Code de la consommation - art. L218-6 (M)
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
+	  - Code de la consommation - art. L215-1 (V)
+	  - Code de la consommation - art. L218-6 (V)
 
 
 ### Titre II : Sécurité
