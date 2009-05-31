@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-06-01
 
 # Partie législative
 
@@ -17368,32 +17368,18 @@ réunions de la commission de surendettement avec voix consultative.
 ###### Article L331-2
 
 La commission a pour mission de traiter, dans les conditions prévues par le présent chapitre, la situation de surendettement
-des personnes physiques définie au premier alinéa de l'article L. 330-1, 
-  _ainsi qu'à l'engagement qu'il a donné de cautionner ou d'acquitter solidairement la dette d'un entrepreneur individuel ou
-d'une société dès lors qu'il n'a pas été, en droit ou en fait, dirigeant de celle-ci_. (1)
+des personnes physiques définie au premier alinéa de l'article L. 330-1. 
 
 Le montant des remboursements résultant de l'application des articles L. 331-6 ou L. 331-7 est fixé, dans des conditions
 précisées par décret, par référence à la quotité saisissable du salaire telle qu'elle résulte des articles L. 3252-2 et L.
 3252-3 du code du travail, de manière à ce qu'une partie des ressources nécessaire aux dépenses courantes du ménage lui soit
-réservée par priorité. Cette part de ressources, qui ne peut être inférieure à un montant égal au revenu minimum d'insertion
-dont disposerait le ménage, intègre le montant des dépenses de logement, d'électricité, de gaz, de chauffage, d'eau, de
-nourriture et de scolarité, dans la limite d'un plafond, selon des modalités définies par décret. Elle est fixée par la
-commission après avis de la personne justifiant d'une expérience dans le domaine de l'économie sociale et familiale visée au
-dernier alinéa de l'article L. 331-1, et mentionnée dans le plan conventionnel de redressement prévu à l'article L. 331-6 ou
-dans les recommandations prévues aux articles L. 331-7 et L. 331-7-1.
-
-**Nota:**
-
-(1)Ce complément au premier alinéa a été porté par l'article 11 I de la loi n° 2003-721 du 1er août 2003.
-
-Cependant, l'article 35 I de la loi n° 2003-710 du 1er août 2003 a préalablement repris cette définition au premier alinéa de
-l'article L330-1 du code de la consommation en y intègrant déjà ces mots.
-
-Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
-la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
-
-La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
-du travail au 1er mai 2008.
+réservée par priorité. Cette part de ressources, qui ne peut être inférieure à un montant égal au revenu minimum garanti
+mentionné à l'article L. 262-2 du code de l'action sociale et des familles dont disposerait le ménage, intègre le montant des
+dépenses de logement, d'électricité, de gaz, de chauffage, d'eau, de nourriture et de scolarité, dans la limite d'un plafond,
+selon des modalités définies par décret. Elle est fixée par la commission après avis de la personne justifiant d'une
+expérience dans le domaine de l'économie sociale et familiale visée au dernier alinéa de l'article L. 331-1, et mentionnée
+dans le plan conventionnel de redressement prévu à l'article L. 331-6 ou dans les recommandations prévues aux articles L.
+331-7 et L. 331-7-1.
 
 **Liens relatifs à cet article**
 
@@ -17423,15 +17409,16 @@ du travail au 1er mai 2008.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 14 (V)
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 14
 
 	**Cite**:
 
-	  - Code de la consommation - art. L330-1 (V)
-	  - Code de la consommation - art. L331-1 (V)
-	  - Code de la consommation - art. L331-6 (V)
-	  - Code de la consommation - art. L331-7 (V)
+	  - Code de la consommation - art. L330-1
+	  - Code de la consommation - art. L331-1
+	  - Code de la consommation - art. L331-6
+	  - Code de la consommation - art. L331-7
 	  - Code du travail - art. L3252-2 (V)
+	  - Code de l'action sociale et des familles - art. L262-2 (VT)
 
 
 ###### Article L331-3
@@ -19069,30 +19056,34 @@ réunions de la commission de surendettement avec voix consultative.
 ###### Article L334-2
 
 Les articles L. 330-1 et L. 331-2 à L. 333-6, à l'exclusion de l'avant-dernière phrase des articles L. 331-7 et L. 331-7-1,
-sont applicables à Mayotte, sous les réserves suivantes :
+sont applicables à Mayotte, sous les réserves suivantes : 
 
-a) A l'article L. 331-2, la référence au revenu minimum d'insertion est remplacée par la référence à un montant fixé par le
-préfet ;
+a) A l'article L. 331-2, la référence au revenu minimum garanti mentionné à l'article L. 262-2 du code de l'action sociale et
+des familles est remplacée par la référence à un montant fixé par le préfet ; 
 
-b) A l'article L. 333-6, les mots : "Dans les départements d'outre-mer" sont remplacés par les mots : "A Mayotte".
+b) A l'article L. 333-6, les mots : " Dans les départements d'outre-mer " sont remplacés par les mots : " A Mayotte ". 
 
-Pour l'application de ces dispositions :
+Pour l'application de ces dispositions : 
 
 a) Les références aux dispositions législatives du code du travail et au code de procédure civile sont remplacées par les
-références aux dispositions applicables localement ayant le même objet ;
+références aux dispositions applicables localement ayant le même objet ; 
 
-b) Les mots : "juge de l'exécution" sont remplacés par les mots : "président du tribunal de première instance ou les juges
-délégués par lui".
+b) Les mots : " juge de l'exécution " sont remplacés par les mots : " président du tribunal de première instance ou les juges
+délégués par lui ".
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 14
 
-	**Créé par**:
+	**Cite**:
 
-	  - Ordonnance n°2004-824 du 19 août 2004 - art. 1 () JORF 21 août 2004
+	  - Code de la consommation - art. L330-1
+	  - Code de la consommation - art. L331-2
+	  - Code de la consommation - art. L331-7
+	  - Code de la consommation - art. L333-6
+	  - Code de l'action sociale et des familles - art. L262-2
 
 
 ###### Article L334-3
@@ -19147,58 +19138,52 @@ réunions de la commission de surendettement avec voix consultative.
 ###### Article L334-5
 
 Les articles L. 330-1 et L. 331-2 à L. 333-5, à l'exclusion de l'avant-dernière phrase des articles L. 331-7 et L. 331-7-1 et
-de la dernière phrase de l'article L. 332-9, sont applicables en Nouvelle-Calédonie, sous les réserves suivantes :
+de la dernière phrase de l'article L. 332-9, sont applicables en Nouvelle-Calédonie, sous les réserves suivantes : 
 
-a) A l'article L. 331-2, la référence au revenu minimum d'insertion est remplacée par la référence à un montant fixé par le
-représentant de l'Etat ;
+a) A l'article L. 331-2, la référence au revenu minimum garanti mentionné à l'article L. 262-2 du code de l'action sociale et
+des familles est remplacée par la référence à un montant fixé par le représentant de l'Etat ; 
 
-b) Les huitième et neuvième alinéas de l'article L. 331-3 sont remplacés par les dispositions suivantes :
+b) Les huitième et neuvième alinéas de l'article L. 331-3 sont remplacés par les dispositions suivantes : 
 
 Nonobstant toute disposition contraire, la commission peut obtenir communication, auprès des administrations publiques et des
 établissements de crédit ainsi que des services chargés de centraliser les risques bancaires et les incidents de paiement, de
 tout renseignement de nature à lui donner une exacte information sur la situation du débiteur, l'évolution possible de celle-
 ci et les procédures de conciliation amiables en cours. Elle peut obtenir communication de ces mêmes renseignements auprès
-des organismes de sécurité et de prévoyance sociale, sous réserve de leur accord.
+des organismes de sécurité et de prévoyance sociale, sous réserve de leur accord. 
 
 Les collectivités territoriales et les organismes de sécurité sociale peuvent procéder, à sa demande, à des enquêtes
-sociales ;
+sociales ; 
 
 c) Les délais prévus au sixième alinéa de l'article L. 331-3, aux articles L. 331-4 et L. 332-2 sont fixés par les autorités
-locales compétentes ;
+locales compétentes ; 
 
-d) Dans l'avant-dernier alinéa de l'article L. 332-6, les mots : "figurant sur une liste établie dans des conditions fixées
-par décret en Conseil d'Etat" sont supprimés.
+d) Dans l'avant-dernier alinéa de l'article L. 332-6, les mots : " figurant sur une liste établie dans des conditions fixées
+par décret en Conseil d'Etat " sont supprimés. 
 
-Pour l'application de ces dispositions :
+Pour l'application de ces dispositions : 
 
 a) Les références aux dispositions législatives du code du travail et du code de procédure civile sont remplacées par les
-références aux dispositions applicables localement ayant le même objet ;
+références aux dispositions applicables localement ayant le même objet ; 
 
-b) Les mots : "juge de l'exécution" sont remplacés partout où ils figurent par les mots : "président du tribunal de première
-instance ou les juges délégués par lui".
+b) Les mots : " juge de l'exécution " sont remplacés partout où ils figurent par les mots : " président du tribunal de
+première instance ou les juges délégués par lui ".
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Loi n°2007-290 du 5 mars 2007 - art. 73 () JORF 6 mars 2007
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 14
 
 	**Cite**:
 
-	  - Code de la consommation - art. L330-1 (V)
-	  - Code de la consommation - art. L331-2 (M)
-	  - Code de la consommation - art. L331-3 (M)
-	  - Code de la consommation - art. L331-4 (M)
-	  - Code de la consommation - art. L331-7 (M)
-	  - Code de la consommation - art. L331-7-1 (M)
-	  - Code de la consommation - art. L332-2 (M)
-	  - Code de la consommation - art. L332-6 (Ab)
-	  - Code de la consommation - art. L332-9 (M)
-	  - Code de la consommation L330-1, L331-2 à L333-5, L332-9, L331-2, L331-3, L331-4, L332-2, L332-6, L331-7, L331-7-1
+	  - Code de la consommation - art. L330-1
+	  - Code de la consommation - art. L331-2
+	  - Code de la consommation - art. L331-3
+	  - Code de la consommation - art. L331-4
+	  - Code de la consommation - art. L331-7
+	  - Code de la consommation - art. L332-2
+	  - Code de la consommation - art. L332-6
+	  - Code de l'action sociale et des familles - art. L262-2
 
 
 ###### Article L334-6
@@ -19307,33 +19292,29 @@ consultative.
 
 Les articles L. 330-1 et L. 331-2 à L. 333-5, à l'exclusion de l'avant-dernière phrase des articles L. 331-7 et L. 331-7-1,
 sont applicables aux îles Wallis et Futuna, sous réserve de remplacer à l'article L. 331-2 la référence au revenu minimum
-d'insertion par la référence à un montant fixé par l'administrateur supérieur.
+garanti mentionné à l'article L. 262-2 du code de l'action sociale et des familles par la référence à un montant fixé par
+l'administrateur supérieur. 
 
-Pour l'application de ces dispositions :
+Pour l'application de ces dispositions : 
 
 a) Les références aux dispositions législatives du code du travail, et au code de procédure civile sont remplacées par les
-références aux dispositions applicables localement ayant le même objet ;
+références aux dispositions applicables localement ayant le même objet ; 
 
 b) Les mots : juge de l'exécution sont remplacés partout où ils figurent par les mots : président du tribunal de première
 instance ou les juges délégués par lui.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-824 du 19 août 2004 - art. 1 () JORF 21 août 2004
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 14
 
 	**Cite**:
 
-	  - Code de la consommation - art. L330-1 (V)
-	  - Code de la consommation - art. L331-2 (M)
-	  - Code de la consommation - art. L331-7 (M)
-	  - Code de la consommation - art. L331-7-1 (M)
-	  - Code de la consommation L330-1, L331-2 à L333-5, L331-7, L331-7-1, L331-2
+	  - Code de la consommation - art. L330-1
+	  - Code de la consommation - art. L331-2
+	  - Code de la consommation - art. L331-7
+	  - Code de l'action sociale et des familles - art. L262-2
 
 
 ###### Article L334-10
@@ -29885,20 +29866,25 @@ La notification indique que ce jugement n'est susceptible ni d'appel, ni d'oppos
 Pour l'application des articles L. 331-6, L. 331-7 et L. 331-7-1, la part des ressources mensuelles du débiteur à affecter à
 l'apurement de ses dettes est calculée, dans les conditions prévues à l'article L. 331-2, par référence au barème prévu à
 l'article R. 3252-2 du code du travail. Toutefois, la somme résultant de ce calcul est plafonnée à la différence entre le
-montant des ressources mensuelles réelles de l'intéressé et le montant du revenu minimum d'insertion, majoré de 50 % dans le
-cas d'un ménage.
+montant des ressources mensuelles réelles de l'intéressé et le montant     forfaitaire du revenu de solidarité active
+mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles applicable à un foyer composé d'une seule
+personne, majoré de 50 % dans le cas d'un ménage.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-244 du 7 mars 2008 (V)
+	  - Décret n°2009-404 du 15 avril 2009 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1304 du 29 octobre 2010 - art. 3
 
 	**Cite**:
 
-	  - Code de la consommation - art. L331-2 (VT)
-	  - Code de la consommation - art. L331-6 (V)
-	  - Code du travail - art. R3252-2 (V)
+	  - Code de la consommation - art. L331-2
+	  - Code de la consommation - art. L331-6
+	  - Code du travail - art. R3252-2
 
 
 ##### Paragraphe 2 : Plan conventionnel de redressement
