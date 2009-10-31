@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2009-10-10
+Version Consolidée au 2009-11-01
 
 # Partie législative
 
@@ -433,22 +433,19 @@ de service public."
 Tout vendeur de produit ou tout prestataire de services doit, par voie de marquage, d'étiquetage, d'affichage ou par tout
 autre procédé approprié, informer le consommateur sur les prix, les limitations éventuelles de la responsabilité
 contractuelle et les conditions particulières de la vente, selon des modalités fixées par arrêtés du ministre chargé de
-l'économie, après consultation du Conseil national de la consommation.
+l'économie, après consultation du Conseil national de la consommation. 
 
-Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2.
+Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2. 
 
-Les règles relatives à l'obligation de renseignements par les établissements de crédit et les organismes mentionnés à
-l'article L. 518-1 du code monétaire et financier sont fixées par les I et II de l'article L. 312-1-1 du même code.
+Les règles relatives à l'obligation de renseignements par les établissements de crédit, les établissements de paiement et les
+organismes mentionnés à l'article L. 518-1 du code monétaire et financier sont fixées par l'article L. 312-1-1 et les
+sections 3 et 4 du chapitre IV du titre Ier du livre III du même code.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 28 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
 
 	**Liens**:
 
@@ -477,10 +474,6 @@ l'article L. 518-1 du code monétaire et financier sont fixées par les I et II 
 	  - TXT_SOURCE: Arrêté du 3 janvier 2002
 	  - TXT_SOURCE: Arrêté du 3 janvier 2002 - art. 1 ()
 	  - PILOTE_SUIVEUR: Code de commerce - art. L441-1 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 13 (V)
 
 	**Cité par**:
 
@@ -521,47 +514,56 @@ l'article L. 518-1 du code monétaire et financier sont fixées par les I et II 
 	  - Code monétaire et financier - art. L316-1 (MMN)
 	  - Code monétaire et financier - art. L317-1 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 16
+
 	**Cite**:
 
-	  - Code de la consommation - art. L113-2 (V)
-	  - Code monétaire et financier - art. L312-1-1 (M)
-	  - Code monétaire et financier - art. L518-1 (M)
+	  - Code de la consommation - art. L113-2
+	  - Code monétaire et financier - art. L312-1-1
+	  - Code monétaire et financier - art. L518-1
 
 
 ###### Article L113-4
 
-Tout opérateur de téléphonie vocale est tenu de proposer de manière équitable au consommateur, lors de la souscription d'un
-service de communications électroniques, une offre dans laquelle les communications métropolitaines commutées sont facturées
-à la seconde, dès la première seconde, hors éventuellement un coût fixe de connexion.
+Tout opérateur de service téléphonique au public au sens des 7° et 15° de l'article L. 32 du code des postes et des
+communications électroniques est tenu de proposer de manière équitable au consommateur, lors de la souscription d'un service
+téléphonique au public, une offre dans laquelle les communications au départ du réseau auquel le consommateur a été raccordé
+par son opérateur et à destination du territoire national sont facturées à la seconde, dès la première seconde, hors
+éventuellement un coût fixe de connexion. 
 
 Les consommateurs ayant opté pour un mode de règlement prépayé bénéficient d'une facturation à la seconde, dès la première
-seconde, de leurs communications métropolitaines de téléphonie vocale commutées. Ces consommateurs peuvent bénéficier, sur
-demande, de tout autre mode de facturation proposé par l'opérateur.
+seconde, de leurs communications de téléphonie vocale au départ du réseau auquel le consommateur a été raccordé par son
+opérateur et à destination du territoire national. Ces consommateurs peuvent bénéficier, sur demande, de tout autre mode de
+facturation proposé par l'opérateur. 
+
+Le présent article ne s'applique pas aux appels vers les numéros pouvant être surtaxés. 
 
 La comptabilisation des communications fait l'objet d'une information claire préalable à toute souscription de service, quel
 que soit le mode de règlement choisi.
 
-Les consommateurs doivent pouvoir bénéficier des offres susmentionnées lors de toute souscription nouvelle conclue à partir
-du premier jour du sixième mois suivant la promulgation de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
-l'économie numérique.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Cite**:
-
-	  - Loi n°2004-575 2004-06-21
-
-	**Modifié par**:
-
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 	**Cité par**:
 
 	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2009-594 du 27 mai 2009 - art. 27 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L112-7 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L32
 
 
 ###### Article L113-5
@@ -4399,8 +4401,9 @@ Cette disposition ne s'applique pas aux menus objets ou services de faible valeu
 
 Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2. 
 
-Pour les établissements de crédit et les organismes mentionnés à l'article L. 518-1 du code monétaire et financier, les
-règles relatives aux ventes avec primes sont fixées par le 2 du I de l'article L. 312-1-2 du même code.
+Pour les établissements de crédit, les établissements de paiement et les organismes mentionnés à l'article L. 518-1 du code
+monétaire et financier, les règles relatives aux ventes avec primes sont fixées par le 2 du I de l'article L. 312-1-2 du même
+code.
 
 **Liens relatifs à cet article**
 
@@ -4408,13 +4411,9 @@ règles relatives aux ventes avec primes sont fixées par le 2 du I de l'article
 
 	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 29 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 13 (V)
+	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 16
 
 	**Cité par**:
 
@@ -4435,7 +4434,7 @@ règles relatives aux ventes avec primes sont fixées par le 2 du I de l'article
 
 	**Cite**:
 
-	  - Code de la consommation - art. L113-2 (V)
+	  - Code de la consommation - art. L113-2
 	  - Code monétaire et financier - art. L518-1 (V)
 
 
@@ -6102,8 +6101,9 @@ service ainsi que de subordonner la prestation d'un service à celle d'un autre 
 
 Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2.
 
-Pour les établissements de crédit et les organismes mentionnés à l'article L. 518-1 du code monétaire et financier, les
-règles relatives aux ventes subordonnées sont fixées par le 1 du I de l'article L. 312-1-2 du même code.
+Pour les établissements de crédit, les établissements de paiement et les organismes mentionnés à l'article L. 518-1 du code
+monétaire et financier, les règles relatives aux ventes subordonnées sont fixées par le 1 du I de l'article L. 312-1-2 du
+même code.
 
 **Liens relatifs à cet article**
 
@@ -6111,13 +6111,9 @@ règles relatives aux ventes subordonnées sont fixées par le 1 du I de l'artic
 
 	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 30 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 13 (V)
+	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 16
 
 	**Cité par**:
 
@@ -6134,8 +6130,8 @@ règles relatives aux ventes subordonnées sont fixées par le 1 du I de l'artic
 
 	**Cite**:
 
-	  - Code de la consommation - art. L113-2 (V)
-	  - Code monétaire et financier - art. L518-1 (M)
+	  - Code de la consommation - art. L113-2
+	  - Code monétaire et financier - art. L518-1
 
 
 ##### Section 2 : Ventes et prestations de services sans commande préalable
@@ -15979,11 +15975,11 @@ la date de ce premier incident et celle à laquelle elle en a été informée.
 
 ###### Article L313-10
 
-Un établissement de crédit ou un organisme mentionné au 5 de l'article L. 511-6 du code monétaire et financier ne peut se
-prévaloir d'un contrat de cautionnement d'une opération de crédit relevant des chapitres Ier ou II du présent titre, conclu
-par une personne physique dont l'engagement était, lors de sa conclusion, manifestement disproportionné à ses biens et
-revenus, à moins que le patrimoine de cette caution, au moment où celle-ci est appelée, ne lui permette de faire face à son
-obligation.
+Un établissement de crédit, un établissement de paiement ou un organisme mentionné au 5 de l'article L. 511-6 du code
+monétaire et financier ne peut se prévaloir d'un contrat de cautionnement d'une opération de crédit relevant des chapitres
+Ier ou II du présent titre, conclu par une personne physique dont l'engagement était, lors de sa conclusion, manifestement
+disproportionné à ses biens et revenus, à moins que le patrimoine de cette caution, au moment où celle-ci est appelée, ne lui
+permette de faire face à son obligation.
 
 **Liens relatifs à cet article**
 
@@ -15994,7 +15990,7 @@ obligation.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 81 (V)
+	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 16
 
 	**Cité par**:
 
@@ -17424,43 +17420,44 @@ dans le plan conventionnel de redressement prévu à l'article L. 331-6 ou dans 
 ###### Article L331-3
 
 La procédure est engagée devant la commission à la demande du débiteur. Celle-ci dispose d'un délai de six mois à compter du
-dépôt du dossier pour procéder à son instruction et décider de son orientation.
+dépôt du dossier pour procéder à son instruction et décider de son orientation. 
 
 La commission vérifie que le demandeur se trouve dans la situation définie à l'article L. 331-2. En cas de rejet d'un avis de
 prélèvement postérieur à la notification de la décision de recevabilité, les créanciers ne peuvent percevoir des frais ou
-commissions y afférents.
+commissions y afférents. 
 
 La commission dresse l'état d'endettement du débiteur. Celui-ci est tenu de lui déclarer les éléments actifs et passifs de
 son patrimoine. Lorsque la commission constate que le remboursement d'une ou plusieurs dettes du débiteur principal est
 garanti par un cautionnement, elle informe la caution de l'ouverture de la procédure. La caution peut faire connaître par
-écrit à la commission ses observations.
+écrit à la commission ses observations. 
 
 Le débiteur, informé de cette faculté par la notification de la décision de recevabilité, est entendu à sa demande par la
 commission. Celle-ci peut également entendre toute personne dont l'audition lui paraît utile, sous réserve que celle-ci
-intervienne à titre gratuit.
+intervienne à titre gratuit. 
 
-La commission peut faire publier un appel aux créanciers.
+La commission peut faire publier un appel aux créanciers. 
 
 Après avoir été informés par la commission de l'état du passif déclaré par le débiteur, les créanciers disposent d'un délai
 de trente jours pour fournir, en cas de désaccord sur cet état, les justifications de leurs créances en principal, intérêts
-et accessoires. A défaut, la créance est prise en compte par la commission au vu des seuls éléments fournis par le débiteur.
-L'information des établissements de crédit et des comptables du Trésor peut être effectuée par télécopie ou par courrier
-électronique dans des conditions fixées par décret.
+et accessoires.A défaut, la créance est prise en compte par la commission au vu des seuls éléments fournis par le
+débiteur.L'information des établissements de crédit, des établissements de paiement et des comptables du Trésor peut être
+effectuée par télécopie ou par courrier électronique dans des conditions fixées par décret. 
 
 Les créanciers doivent alors indiquer si les créances en cause ont donné lieu à une caution et si celle-ci a été actionnée. 
 
 Nonobstant toute disposition contraire, la commission peut obtenir communication, auprès des administrations publiques, des
-établissements de crédit, des organismes de sécurité et de prévoyance sociale ainsi que des services chargés de centraliser
-les risques bancaires et les incidents de paiement, de tout renseignement de nature à lui donner une exacte information sur
-la situation du débiteur, l'évolution possible de celle-ci et les procédures de conciliation amiables en cours.
+établissements de crédit, des établissements de paiement, des organismes de sécurité et de prévoyance sociale ainsi que des
+services chargés de centraliser les risques bancaires et les incidents de paiement, de tout renseignement de nature à lui
+donner une exacte information sur la situation du débiteur, l'évolution possible de celle-ci et les procédures de
+conciliation amiables en cours. 
 
-Les collectivités territoriales et les organismes de sécurité sociale procèdent, à sa demande, à des enquêtes sociales.
+Les collectivités territoriales et les organismes de sécurité sociale procèdent, à sa demande, à des enquêtes sociales. 
 
 Si l'instruction de la demande fait apparaître que le débiteur est dans la situation irrémédiablement compromise définie au
 troisième alinéa de l'article L. 330-1, la commission, après avoir convoqué le débiteur et obtenu son accord, saisit le juge
-de l'exécution aux fins d'ouverture d'une procédure de rétablissement personnel. L'absence de réponse du débiteur aux
+de l'exécution aux fins d'ouverture d'une procédure de rétablissement personnel.L'absence de réponse du débiteur aux
 convocations vaut refus de cette saisine. En cas de refus du débiteur, la commission reprend sa mission dans les termes des
-articles L. 331-6, L. 331-7 et L. 331-7-1.
+articles L. 331-6, L. 331-7 et L. 331-7-1. 
 
 Le juge de l'exécution est compétent pour connaître des recours dirigés contre les décisions rendues par la commission en
 matière de recevabilité et d'orientation du dossier.
@@ -17497,21 +17494,16 @@ matière de recevabilité et d'orientation du dossier.
 	  - Code de procédure civile - art. 703 (Ab)
 	  - Livre des procédures fiscales - art. L139 A (M)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 16
 
 	**Cite**:
 
 	  - Code de la consommation - art. L330-1 (V)
-	  - Code de la consommation - art. L331-2 (M)
-	  - Code de la consommation - art. L331-6 (M)
-	  - Code de la consommation - art. L331-7 (M)
-	  - Code de la consommation - art. L331-7-1 (M)
+	  - Code de la consommation - art. L331-2 (V)
+	  - Code de la consommation - art. L331-6 (V)
+	  - Code de la consommation - art. L331-7-1 (V)
 
 
 ###### Article L331-3-1
@@ -18777,9 +18769,10 @@ Il est institué un fichier national recensant les informations sur les incident
 accordés aux personnes physiques pour des besoins non professionnels. Ce fichier est géré par la Banque de France. Il est
 soumis aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. 
 
-Les établissements de crédit mentionnés à l'article L. 511-1 du code monétaire et financier et les organismes mentionnés au 5
-de l'article L. 511-6 du même code sont tenus de déclarer à la Banque de France les incidents visés à l'alinéa précédent. Les
-frais afférents à cette déclaration ne peuvent être facturés aux personnes physiques concernées. 
+Les établissements de crédit mentionnés à l'article L. 511-1 du code monétaire et financier, les établissements de paiement
+mentionnés au titre II du livre V du même code et les organismes mentionnés au 5 de l'article L. 511-6 du même code sont
+tenus de déclarer à la Banque de France les incidents visés à l'alinéa précédent. Les frais afférents à cette déclaration ne
+peuvent être facturés aux personnes physiques concernées. 
 
 Dès que la commission instituée à l'article L. 331-1 est saisie par un débiteur en application du premier alinéa de l'article
 L. 331-3, elle en informe la Banque de France aux fins d'inscription au fichier institué au premier alinéa du présent
@@ -18803,14 +18796,15 @@ La Banque de France est seule habilitée à centraliser les informations visées
 Les organismes professionnels ou organes centraux représentant les établissements et les organismes visés au deuxième alinéa
 sont seuls autorisés à tenir des fichiers recensant des incidents de paiement. 
 
-La Banque de France est déliée du secret professionnel pour la diffusion, aux établissements de crédit et aux organismes
-mentionnés au 5 de l'article L. 511-6 du code monétaire et financier, des informations nominatives contenues dans le
-fichier. 
+La Banque de France est déliée du secret professionnel pour la diffusion, aux établissements de crédit, aux établissements de
+paiement et aux organismes mentionnés au 5 de l'article L. 511-6 du code monétaire et financier, des informations nominatives
+contenues dans le fichier. 
 
-Il est interdit à la Banque de France et aux établissements de crédit et aux organismes mentionnés au 5 de l'article L. 511-6
-du code monétaire et financier de remettre à quiconque copie, sous quelque forme que ce soit, des informations contenues dans
-le fichier, même à l'intéressé lorsqu'il exerce son droit d'accès conformément à l'article 39 de la loi n° 78-17 du 6 janvier
-1978 précitée, sous peine des sanctions prévues aux articles 226-22 et 226-21 du code pénal.
+Il est interdit à la Banque de France et aux établissements de crédit, aux établissements de paiement et aux organismes
+mentionnés au 5 de l'article L. 511-6 du code monétaire et financier de remettre à quiconque copie, sous quelque forme que ce
+soit, des informations contenues dans le fichier, même à l'intéressé lorsqu'il exerce son droit d'accès conformément à
+l'article 39 de la loi n° 78-17 du 6 janvier 1978 précitée, sous peine des sanctions prévues aux articles 226-22 et 226-21 du
+code pénal.
 
 **Liens relatifs à cet article**
 
@@ -18853,7 +18847,7 @@ le fichier, même à l'intéressé lorsqu'il exerce son droit d'accès conformé
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 81 (V)
+	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 16
 
 	**Liens**:
 
