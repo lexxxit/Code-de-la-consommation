@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2009-11-01
+Version Consolidée au 2009-11-22
 
 # Partie législative
 
@@ -34123,14 +34123,14 @@ publique ou privée ;
 
 ###### Article D541-1
 
-Le Conseil national de l'alimentation est placé auprès du ministre de l'agriculture, du ministre chargé de la santé et du
-ministre chargé de la consommation.
+Le Conseil national de l'alimentation est placé auprès du ministre chargé de l'agriculture, du ministre chargé de la santé et
+du ministre chargé de la consommation pour une période de cinq ans à compter de l'entrée en vigueur du décret n° 2009-626 du
+6 juin 2009.
 
 **Nota:**
 
-Décret n° 2009-626 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Conseil
-national de l'alimentation).
+Décret n° 2014-602 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Conseil national de l'alimentation).
 
 **Liens relatifs à cet article**
 
@@ -34138,42 +34138,55 @@ national de l'alimentation).
 
 	  - Décret n°85-1282 du 27 novembre 1985 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2009-626 du 6 juin 2009
 
 	**Cité par**:
 
 	  - Décret n°2009-626 du 6 juin 2009 - art. (V)
 
+	**Modifié par**:
+
+	  - Décret n°2009-1429 du 20 novembre 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. D824-1 (V)
+
 
 ###### Article D541-2
 
-Ce conseil national est consulté sur la définition de la politique alimentaire en donnant des avis sur les questions qui s'y
-rapportent.
+Ce conseil national est consulté sur la définition de la politique alimentaire et donne des avis sur les questions qui s'y
+rapportent. 
 
-Il peut, en particulier, être consulté sur les grandes orientations de la politique relative :
+II peut, en particulier, être consulté sur les grandes orientations de la politique relative : 
 
-1° A l'adaptation de la consommation aux besoins nutritionnels ;
+1° A l'adaptation de la consommation aux besoins nutritionnels ; 
 
-2° A la sécurité alimentaire des consommateurs ;
+2° A la sécurité alimentaire des consommateurs ; 
 
-3° A la qualité des denrées alimentaires ;
+3° A la qualité des denrées alimentaires ; 
 
-4° A l'information des consommateurs de ces denrées.
+4° A l'information des consommateurs de ces denrées ; 
+
+5° A la prévention des crises et à la communication sur les risques. 
 
 Le Conseil national de l'alimentation ne se substitue pas aux instances qualifiées en matière scientifique ni aux instances
-d'orientation économique. Il peut les consulter sur les questions relevant de leur compétence.
+d'orientation économique. II peut les consulter sur les questions relevant de leur compétence. 
+
+Le Conseil national de l'alimentation peut être saisi de toute question relevant de son domaine de compétence par le ministre
+chargé de l'agriculture, le ministre chargé de la santé ou le ministre chargé de la consommation, par toute autre instance
+consultative placée auprès de l'Etat ou de l'un de ses établissements publics, par au moins un de ses collèges, à la majorité
+des deux tiers des membres qui le constituent, ou par son président.
 
 **Nota:**
 
-Décret n° 2009-626 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Conseil
-national de l'alimentation).
+
 
 **Liens relatifs à cet article**
 
@@ -34181,83 +34194,88 @@ national de l'alimentation).
 
 	  - Décret n°85-1282 du 27 novembre 1985 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2009-1429 du 20 novembre 2009 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 12 mai 2010 - art. 1 (V)
 
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. D824-2 (V)
+
 
 ###### Article D541-3
 
-Le Conseil national de l'alimentation comprend les membres suivants :
+Le Conseil national de l'alimentation comprend : 
 
-1° Neuf représentants des associations de consommateurs et d'usagers ;
+1° Quarante-neuf membres répartis en sept collèges : 
 
-2° Neuf représentants des producteurs agricoles ;
+a) Le collège constitué de neuf représentants des associations nationales de consommateurs ou d'usagers ; 
 
-3° Neuf représentants du secteur de la transformation, dont un représentant de l'artisanat ;
+b) Le collège constitué de neuf représentants des producteurs agricoles ; 
 
-4° Trois représentants du secteur de la distribution ;
+c) Le collège constitué de neuf représentants de la transformation, dont un représentant de l'artisanat ; 
 
-5° Six représentants de la restauration collective, dont :
+d) Le collège constitué de trois représentants de la distribution ; 
 
-a) Trois représentants de la restauration commerciale ;
+e) Le collège constitué de six représentants de la restauration ; 
 
-b) Trois représentants du comité de coordination des collectivités ;
+f) Le collège constitué de cinq représentants des syndicats de salariés de l'agriculture, de l'agroalimentaire et de la
+distribution des produits alimentaires ; 
 
-6° Cinq représentants des syndicats de salariés de l'agriculture, de l'agroalimentaire et de la distribution des produits
-alimentaires ;
+g) Le collège constitué de huit personnalités désignées en raison de leurs compétences en matière d'alimentation. 
 
-7° Le directeur général de l'Agence française de sécurité sanitaire des aliments ou son représentant ;
+2° Huit membres de droit : 
 
-8° Le directeur de l'Institut national de la recherche agronomique ou son représentant ;
+a) Le directeur de l'Agence française de sécurité sanitaire des aliments, ou son représentant ; 
 
-9° Le directeur de l'Institut national de la santé et de la recherche médicale ou son représentant ;
+b) Le directeur de l'Institut national de la recherche agronomique, ou son représentant ; 
 
-10° Le directeur de l'institut scientifique et technique des pêches maritimes ou son représentant ;
+c) Le directeur de l'Institut national de la santé et de la recherche médicale, ou son représentant ; 
 
-11° Le directeur du Centre national de coordination des études et recherches sur la nutrition et l'alimentation ou son
-représentant ;
+d) Le directeur de l'Institut français de recherche pour l'exploitation de la mer, ou son représentant ; 
 
-12° Le directeur de l'Institut national de la consommation ou son représentant ;
+e) Le directeur de l'Institut national de la consommation, ou son représentant ; 
 
-13° Six personnalités scientifiques qualifiées nommées conjointement par le ministre de l'agriculture, le ministre chargé de
-la santé et le ministre chargé de la consommation ;
+f) Le président de l'Association des maires de France, ou son représentant ; 
 
-14° Deux personnalités qualifiées nommées sur proposition du président du Haut Conseil de la santé publique.
+g) Le président de l'Association des départements de France, ou son représentant ; 
 
-En outre, assistent de plein droit aux séances du conseil les représentants des ministres chargés des départements suivants :
+h) le président de l'Association des régions de France, ou son représentant. 
 
-- recherche ;
+En outre, assistent de plein droit aux séances du conseil, et participent aux débats avec voix consultative, les
+représentants des ministres chargés : 
 
-- industrie ;
+- de la recherche ; 
 
-- agriculture ;
+- de l'industrie ; 
 
-- santé ;
+- de l'agriculture ; 
 
-- consommation ;
+- de la santé ; 
 
-- éducation nationale ;
+- de la consommation ; 
 
-- mer ;
+- de l'éducation nationale ; 
 
-- commerce et artisanat ;
+- de la pêche ; 
 
-- économie et finances.
+- du commerce et de l'artisanat ; 
+
+- de l'économie ; 
+
+- de l'emploi.
 
 **Nota:**
 
-Décret n° 2009-626 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Conseil
-national de l'alimentation).
+
 
 **Liens relatifs à cet article**
 
@@ -34265,39 +34283,29 @@ national de l'alimentation).
 
 	  - Décret n°85-1282 du 27 novembre 1985 - art. 3 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Modifié par**:
-
-	  - Décret n°2006-1677 du 22 décembre 2006 - art. 2 () JORF 27 décembre 2006
-
 	**Cité par**:
 
 	  - Décret n°2006-1677 du 22 décembre 2006 - art. 3 (V)
 	  - Arrêté du 12 mai 2010 - art. 3 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2009-1429 du 20 novembre 2009 - art. 1
+
 
 ###### Article D541-4
 
-Les personnalités qualifiées et les représentants des consommateurs, de la restauration collective, des producteurs
-agricoles, des transformateurs, des distributeurs et des syndicats de salariés sont nommés pour trois ans par arrêté conjoint
-du ministre de l'agriculture, du ministre chargé de la santé et du ministre chargé de la consommation, après avis des
-ministres concernés, sur proposition des organisations représentatives. Leur mandat est renouvelable.
+Les membres des collèges a à f mentionnés au 1° de l'article D. 541-3 sont nommés sur proposition des organisations les plus
+représentatives par arrêté conjoint des ministres chargés de l'agriculture, de la santé et de la consommation. 
 
-Au cas où ils ne pourraient assurer leur mandat jusqu'à son terme, il est procédé à la désignation de leur remplaçant pour la
-période restant à courir, sauf si cette période est inférieure à quatre mois.
+Les membres du collège g mentionné au 1° de l'article D. 541-3 sont nommés par arrêté conjoint des ministres chargés de
+l'agriculture, de la santé et de la consommation. 
 
-Le président du Conseil national de l'alimentation, sur proposition du ministre de l'agriculture, du ministre chargé de la
-santé ou du ministre chargé de la consommation, peut appeler à participer aux séances du conseil toute personnalité ou
-représentant d'administration dont la présence est justifiée par l'ordre du jour.
+Leur mandat de trois ans est renouvelable.
 
 **Nota:**
 
-Décret n° 2009-626 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Conseil
-national de l'alimentation).
+
 
 **Liens relatifs à cet article**
 
@@ -34305,36 +34313,39 @@ national de l'alimentation).
 
 	  - Décret n°85-1282 du 27 novembre 1985 - art. 4 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
 	**Cité par**:
 
 	  - Décret n°2006-1677 du 22 décembre 2006 - art. 3 (V)
+	  - Code de la consommation - art. D541-5 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1429 du 20 novembre 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. D541-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. D824-5 (V)
 
 
 ###### Article D541-5
 
-Le président du Conseil national de l'alimentation est désigné par arrêté conjoint du ministre de l'agriculture, du ministre
-chargé de la santé et du ministre chargé de la consommation. Il est choisi parmi ceux des membres du Conseil national de
-l'alimentation qui sont désignés par arrêté conjoint du ministre de l'agriculture, du ministre chargé de la santé et du
-ministre chargé de la consommation. La durée du mandat du président est de trois ans renouvelables.
+Le président du Conseil national de l'alimentation est désigné, pour une durée de trois ans, renouvelable, par arrêté
+conjoint des ministres chargés de l'agriculture, de la santé et de la consommation. Il est choisi parmi les membres
+mentionnés à l'article D. 541-4. Le Conseil national de l'alimentation se réunit en formation plénière à la demande de son
+président, de l'un des ministres auprès duquel il est placé, des deux tiers de ses membres ou de l'un de ses collèges, à la
+majorité des deux tiers des membres qui le constituent.L'ordre du jour des séances est arrêté par le président. Les
+propositions faites par les deux tiers au moins des membres du conseil, ou par au moins un de ses collèges, à la majorité des
+deux tiers des membres qui le constituent sont inscrites de droit à l'ordre du jour. 
 
-Le Conseil national de l'alimentation se réunit à la demande d'un ou plusieurs des trois ministres ou à la demande des deux
-tiers de ses membres sur convocation du président, qui arrête l'ordre du jour des séances.
-
-Les propositions, faites par les deux tiers au moins des membres du conseil, sont inscrites de droit à l'ordre du jour.
-
-**Nota:**
-
-Décret n° 2009-626 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Conseil
-national de l'alimentation).
+Les fonctions de président et de membres du Conseil national de l'alimentation ne sont pas rémunérées.
 
 **Liens relatifs à cet article**
 
@@ -34342,26 +34353,30 @@ national de l'alimentation).
 
 	  - Décret n°85-1282 du 27 novembre 1985 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°2009-1429 du 20 novembre 2009 - art. 1
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. D541-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. D824-6 (V)
 
 
 ###### Article D541-6
 
-Le Conseil national de l'alimentation dispose d'un secrétariat. Les secrétaires sont nommés par arrêté conjoint du ministre
-de l'agriculture, du ministre chargé de la santé et du ministre chargé de la consommation. Ils sont placés sous l'autorité
-conjointe de ces trois ministres et s'appuient, pour exercer leur mission, sur les services compétents des trois ministères.
+Le Conseil national de l'alimentation dispose d'un secrétariat assuré par le ministère chargé de l'agriculture.
 
 **Nota:**
 
-Décret n° 2009-626 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Conseil
-national de l'alimentation).
+
 
 **Liens relatifs à cet article**
 
@@ -34369,28 +34384,30 @@ national de l'alimentation).
 
 	  - Décret n°85-1282 du 27 novembre 1985 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°2009-1429 du 20 novembre 2009 - art. 1
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. D824-7 (V)
 
 
 ###### Article D541-7
 
 Le Conseil national de l'alimentation constitue les groupes de travail permanents ou temporaires qu'il juge nécessaires à la
-bonne marche de ses travaux.
+bonne marche de ses travaux. 
 
-Le ministre de l'agriculture, le ministre chargé de la santé et le ministre chargé de la consommation précisent par arrêté
-conjoint les modalités pratiques de fonctionnement du conseil et de publication des conclusions de ses travaux.
+Les modalités de fonctionnement du conseil, notamment les règles de quorum, et de publication des conclusions de ses travaux
+sont précisées par arrêté conjoint des ministres chargés de l'agriculture, de la santé et de la consommation.
 
 **Nota:**
 
-Décret n° 2009-626 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Conseil
-national de l'alimentation).
+
 
 **Liens relatifs à cet article**
 
@@ -34398,17 +34415,21 @@ national de l'alimentation).
 
 	  - Décret n°85-1282 du 27 novembre 1985 - art. 7 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
 	**Cité par**:
 
 	  - Arrêté du 30 juin 2008 - art. 8 ter (Ab)
 	  - Arrêté du 12 mai 2010 - art. 6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1429 du 20 novembre 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. D824-8 (V)
 
 
