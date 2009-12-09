@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2009-11-22
+Version Consolidée au 2009-12-10
 
 # Partie législative
 
@@ -6087,6 +6087,68 @@ Les dispositions de la présente section sont d'ordre public.
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L224-16 (V)
+
+
+##### Section 13 : Contrats de transports de déménagement 
+
+###### Article L121-95
+
+Par dérogation au premier alinéa de l'article L. 133-3 du code de commerce, le délai de forclusion applicable aux contrats de
+transports de déménagement conclus entre un professionnel et un consommateur est fixé à dix jours calendaires à compter de la
+réception des objets transportés. Les protestations motivées émises par lettre recommandée dans ce délai produisent leurs
+effets même en l'absence de réserves formulées à la livraison. Les réserves émises par le destinataire à la livraison et non
+contestées par le transporteur dispensent de la protestation motivée prévue au présent alinéa. 
+
+Lorsque la procédure à suivre pour émettre des réserves n'a pas été communiquée au consommateur dans les conditions fixées
+par arrêté ministériel, le délai prévu au premier alinéa est porté à trois mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 40
+
+	**Cité par**:
+
+	  - Arrêté du 27 avril 2010 - art. 3 (V)
+	  - Code de commerce - art. L133-9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L133-3
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-63 (M)
+
+
+###### Article L121-96
+
+L'action directe en paiement du transporteur prévue par l'article L. 132-8 du code de commerce ne peut être mise en oeuvre à
+l'encontre du consommateur qui s'est déjà acquitté du paiement de la prestation de déménagement auprès d'une entreprise de
+déménagement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 40
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L132-8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-64 (V)
 
 
 #### Chapitre II : Pratiques commerciales illicites
