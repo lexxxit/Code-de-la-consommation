@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-02-18
+Version Consolidée au 2010-02-26
 
 # Partie législative
 
@@ -1960,7 +1960,8 @@ régionales de l'industrie, de la recherche et de l'environnement ;
 - les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, de la direction
 générale des douanes et des droits indirects ;
 
-- les inspecteurs de la pharmacie et les médecins-inspecteurs de la santé du ministère chargé de la santé ;
+- les agents mentionnés aux articles L. 1421-1 et L. 1435-7 du code de la santé publique ayant la qualité de médecin ou de
+pharmacien, habilités et assermentés pour la recherche et le constat d'infractions au même code ;
 
 - les inspecteurs du travail ;
 
@@ -1976,10 +1977,12 @@ Ces agents disposent des pouvoirs prévus au livre II du présent code.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 137 (V)
+	  - Ordonnance n°2010-177 du 23 février 2010 - art. 20
 
 	**Cite**:
 
+	  - Code de la santé publique - art. L1421-1 (V)
+	  - Code de la santé publique - art. L1435-7 (V)
 	  - Code de l'environnement - art. L514-13
 
 
@@ -9537,41 +9540,43 @@ aux articles L. 214-1, L. 215-1, dernier alinéa, et L. 215-4.
 
 ###### Article L215-1
 
-I.- - Sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation des infractions au
-présent livre :
+I.-Sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation des infractions au
+présent livre : 
 
 1° Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, de la direction
-générale des douanes et de la direction générale des impôts ;
+générale des douanes et de la direction générale des impôts ; 
 
-2° Les inspecteurs du travail ;
+2° Les inspecteurs du travail ; 
 
-3° Les agents mentionnés aux 1° à 7° de l'article L. 231-2 et au I de l'article L. 251-18 du code rural ;
+3° Les agents mentionnés aux 1° à 7° de l'article L. 231-2 et au I de l'article L. 251-18 du code rural ; 
 
-4° Les médecins inspecteurs de santé publique et les pharmaciens inspecteurs de santé publique ;
+4° Les agents mentionnés aux 
+articles L. 1421-1 et L. 1435-7 du code de la santé publique
+ayant la qualité de médecin ou de pharmacien ; 
 
-5° Les agents de l'Institut français de recherche pour l'exploitation de la mer ;
+5° Les agents de l'Institut français de recherche pour l'exploitation de la mer ; 
 
 6° Les agents de la sous-direction de la métrologie au ministère chargé de l'industrie ainsi que ceux des directions
-régionales de l'industrie, de la recherche et de l'environnement ;
+régionales de l'industrie, de la recherche et de l'environnement ; 
 
-7° Les agents de l'Etat agréés et commissionnés par le ministre de l'agriculture ;
+7° Les agents de l'Etat agréés et commissionnés par le ministre de l'agriculture ; 
 
 8° Les agents agréés et commissionnés conformément à l'article 65 de la loi de finances du 27 février 1912, modifié par
-l'article 3 du décret-loi du 14 juin 1938 ;
+l'article 3 du décret-loi du 14 juin 1938 ; 
 
 9° Les administrateurs des affaires maritimes, les inspecteurs des affaires maritimes, les techniciens experts du service de
 la sécurité de la navigation maritime, les officiers du corps technique et administratif des affaires maritimes, les
 contrôleurs des affaires maritimes, les syndics des gens de mer, les personnels embarqués d'assistance et de surveillance des
-affaires maritimes, les techniciens du contrôle des établissements de pêche maritime.
+affaires maritimes, les techniciens du contrôle des établissements de pêche maritime. 
 
-10° Les agents mentionnés à l'article L. 1312-1 du code de la santé publique ;
+10° Les agents mentionnés à l'article L. 1312-1 du code de la santé publique ; 
 
-11° Les agents mentionnés à l'article L. 514-13 du code de l'environnement ;
+11° Les agents mentionnés à l'article L. 514-13 du code de l'environnement ; 
 
-12° Les agents mentionnés à l'article L. 40 du code des postes et télécommunications.
+12° Les agents mentionnés à l'article L. 40 du code des postes et télécommunications. 
 
-II. - En outre, les officiers et agents de police judiciaire, agissant dans le cadre des dispositions du code de procédure
-pénale, sont compétents pour rechercher et constater les infractions mentionnées au I.
+II.-En outre, les officiers et agents de police judiciaire, agissant dans le cadre des dispositions du code de procédure
+pénale, sont compétents pour rechercher et constater les infractions mentionnées au I. 
 
 Il sera statué par des décrets en Conseil d'Etat sur les pouvoirs conférés aux autorités qualifiées pour rechercher et
 constater les infractions aux chapitre II et VI en vue de recueillir des éléments d'information auprès des diverses
@@ -9706,23 +9711,19 @@ administrations publiques et des entreprises de transports.
 	  - Code rural et de la pêche maritime - art. R661-50 (VD)
 	  - Loi n°1934-12-24 du 24 décembre 1934 - art. 11 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 22 () JORF 6 octobre 2006
+	  - Ordonnance n°2010-177 du 23 février 2010 - art. 20
 
 	**Cite**:
 
-	  - Code de la consommation L231-2
-	  - Code des postes et télécommunications L40
-	  - Code de la santé publique - art. L1312-1 (M)
-	  - Code de l'environnement - art. L514-13 (V)
+	  - Code de la consommation
 	  - Code rural L251-18
 	  - Décret-loi 1938-06-14 art. 3
 	  - Loi n°1912-02-27 art. 65
+	  - Code de la santé publique - art. L1312-1
+	  - Code de la santé publique - art. L1421-1
+	  - Code de l'environnement - art. L514-13
 
 	**Anciens textes**:
 
