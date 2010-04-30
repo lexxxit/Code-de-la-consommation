@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-03-15
+Version Consolidée au 2010-05-01
 
 # Partie législative
 
@@ -9544,14 +9544,14 @@ I.-Sont qualifiés pour procéder dans l'exercice de leurs fonctions à la reche
 présent livre : 
 
 1° Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, de la direction
-générale des douanes et de la direction générale des impôts ; 
+générale des douanes et de la direction générale des finances publiques ; 
 
 2° Les inspecteurs du travail ; 
 
 3° Les agents mentionnés aux 1° à 7° de l'article L. 231-2 et au I de l'article L. 251-18 du code rural ; 
 
 4° Les agents mentionnés aux 
-articles L. 1421-1 et L. 1435-7 du code de la santé publique
+articles L. 1421-1 et L. 1435-7 du code de la santé publique 
 ayant la qualité de médecin ou de pharmacien ; 
 
 5° Les agents de l'Institut français de recherche pour l'exploitation de la mer ; 
@@ -9711,19 +9711,17 @@ administrations publiques et des entreprises de transports.
 	  - Code rural et de la pêche maritime - art. R661-50 (VD)
 	  - Loi n°1934-12-24 du 24 décembre 1934 - art. 11 (Ab)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2010-177 du 23 février 2010 - art. 20
-
 	**Cite**:
 
-	  - Code de la consommation
-	  - Code rural L251-18
-	  - Décret-loi 1938-06-14 art. 3
-	  - Loi n°1912-02-27 art. 65
+	  - Décret-loi du 14 juin 1938 - art. 3
+	  - Code de procédure pénale
 	  - Code de la santé publique - art. L1312-1
 	  - Code de la santé publique - art. L1421-1
 	  - Code de l'environnement - art. L514-13
+
+	**Modifié par**:
+
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 103
 
 	**Anciens textes**:
 
@@ -17829,8 +17827,8 @@ La commission peut faire publier un appel aux créanciers.
 Après avoir été informés par la commission de l'état du passif déclaré par le débiteur, les créanciers disposent d'un délai
 de trente jours pour fournir, en cas de désaccord sur cet état, les justifications de leurs créances en principal, intérêts
 et accessoires.A défaut, la créance est prise en compte par la commission au vu des seuls éléments fournis par le
-débiteur.L'information des établissements de crédit, des établissements de paiement et des comptables du Trésor peut être
-effectuée par télécopie ou par courrier électronique dans des conditions fixées par décret. 
+débiteur.L'information des établissements de crédit, des établissements de paiement et des comptables publics compétents peut
+être effectuée par télécopie ou par courrier électronique dans des conditions fixées par décret. 
 
 Les créanciers doivent alors indiquer si les créances en cause ont donné lieu à une caution et si celle-ci a été actionnée. 
 
@@ -17843,10 +17841,10 @@ conciliation amiables en cours.
 Les collectivités territoriales et les organismes de sécurité sociale procèdent, à sa demande, à des enquêtes sociales. 
 
 Si l'instruction de la demande fait apparaître que le débiteur est dans la situation irrémédiablement compromise définie au
-troisième alinéa de l'article L. 330-1, la commission, après avoir convoqué le débiteur et obtenu son accord, saisit le juge
-de l'exécution aux fins d'ouverture d'une procédure de rétablissement personnel.L'absence de réponse du débiteur aux
-convocations vaut refus de cette saisine. En cas de refus du débiteur, la commission reprend sa mission dans les termes des
-articles L. 331-6, L. 331-7 et L. 331-7-1. 
+troisième alinéa de l'article L. 330-1
+, la commission, après avoir convoqué le débiteur et obtenu son accord, saisit le juge de l'exécution aux fins d'ouverture
+d'une procédure de rétablissement personnel.L'absence de réponse du débiteur aux convocations vaut refus de cette saisine. En
+cas de refus du débiteur, la commission reprend sa mission dans les termes des articles L. 331-6, L. 331-7 et L. 331-7-1. 
 
 Le juge de l'exécution est compétent pour connaître des recours dirigés contre les décisions rendues par la commission en
 matière de recevabilité et d'orientation du dossier.
@@ -17885,14 +17883,13 @@ matière de recevabilité et d'orientation du dossier.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 16
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 103
 
 	**Cite**:
 
-	  - Code de la consommation - art. L330-1 (V)
-	  - Code de la consommation - art. L331-2 (V)
-	  - Code de la consommation - art. L331-6 (V)
-	  - Code de la consommation - art. L331-7-1 (V)
+	  - Code de la consommation - art. L330-1
+	  - Code de la consommation - art. L331-2
+	  - Code de la consommation - art. L331-6
 
 
 ###### Article L331-3-1
@@ -19404,13 +19401,13 @@ décembre 1994.
 ###### Article L334-1
 
 Il est institué une commission de surendettement des particuliers à Mayotte. Cette commission comprend le représentant de
-l'Etat à Mayotte, président, et le trésorier-payeur général de Mayotte, vice-président. Chacune de ces personnes peut se
-faire représenter, par un seul et même délégué, dans des conditions fixées par décret. La commission comprend également le
-représentant local de la Banque de France, qui en assure le secrétariat, un représentant des services fiscaux désigné par le
-président du conseil général, ainsi que deux personnalités choisies par le représentant de l'Etat à Mayotte, la première sur
-proposition de l'Association française des établissements de crédit et des entreprises d'investissement et la seconde sur
-proposition des associations familiales ou de consommateurs ou, à défaut, désignée en raison de sa compétence en matière de
-consommation ou d'action familiale.
+l'Etat à Mayotte, président, et le directeur local des finances publiques de Mayotte, vice-président. Chacune de ces
+personnes peut se faire représenter, par un seul et même délégué, dans des conditions fixées par décret. La commission
+comprend également le représentant local de la Banque de France, qui en assure le secrétariat, un représentant des services
+fiscaux désigné par le président du conseil général, ainsi que deux personnalités choisies par le représentant de l'Etat à
+Mayotte, la première sur proposition de l'Association française des établissements de crédit et des entreprises
+d'investissement et la seconde sur proposition des associations familiales ou de consommateurs ou, à défaut, désignée en
+raison de sa compétence en matière de consommation ou d'action familiale.
 
 Un suppléant de chacune de ces personnalités est désigné dans les mêmes conditions.
 
@@ -19420,13 +19417,9 @@ réunions de la commission de surendettement avec voix consultative.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-824 du 19 août 2004 - art. 1 () JORF 21 août 2004
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 103
 
 	**Cité par**:
 
@@ -19493,13 +19486,13 @@ Un décret en Conseil d'Etat fixe les conditions d'application de la présente s
 ###### Article L334-4
 
 Il est institué une commission de surendettement des particuliers en Nouvelle-Calédonie. Cette commission comprend le haut-
-commissaire de la République, président, et le trésorier-payeur général de la Nouvelle-Calédonie, vice-président. Ces
-personnes peuvent se faire représenter, par un seul et même délégué, dans des conditions fixées par décret. La commission
-comprend également un représentant de l'Institut d'émission d'outre-mer, qui en assure le secrétariat, un représentant des
-services fiscaux désigné par le président du Gouvernement de Nouvelle-Calédonie ainsi que deux personnalités choisies par le
-haut-commissaire, la première sur proposition de l'Association française des établissements de crédit et des entreprises
-d'investissement et la seconde sur proposition des associations familiales ou de consommateurs ou, à défaut, désignée en
-raison de sa compétence en matière de consommation ou d'action familiale.
+commissaire de la République, président, et le directeur local des finances publiques de la Nouvelle-Calédonie, vice-
+président. Ces personnes peuvent se faire représenter, par un seul et même délégué, dans des conditions fixées par décret. La
+commission comprend également un représentant de l'Institut d'émission d'outre-mer, qui en assure le secrétariat, un
+représentant des services fiscaux désigné par le président du Gouvernement de Nouvelle-Calédonie ainsi que deux personnalités
+choisies par le haut-commissaire, la première sur proposition de l'Association française des établissements de crédit et des
+entreprises d'investissement et la seconde sur proposition des associations familiales ou de consommateurs ou, à défaut,
+désignée en raison de sa compétence en matière de consommation ou d'action familiale.
 
 Un suppléant de ces personnalités est désigné dans les mêmes conditions.
 
@@ -19509,13 +19502,9 @@ réunions de la commission de surendettement avec voix consultative.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-824 du 19 août 2004 - art. 1 () JORF 21 août 2004
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 103
 
 
 ###### Article L334-5
@@ -20147,28 +20136,27 @@ si le prévenu ne comparaît pas en personne. Le juge peut ordonner l'exécution
 
 A l'audience de renvoi, qui doit intervenir au plus tard dans le délai d'un an à compter de la décision d'ajournement, la
 juridiction statue sur la peine et liquide l'astreinte s'il y a lieu. Elle peut, le cas échéant, supprimer cette dernière ou
-en réduire le montant. L'astreinte est recouvrée par le comptable du Trésor comme une amende pénale. Elle ne peut donner lieu
-à contrainte judiciaire.
-
-**Nota:**
-
-Loi 2004-204 2004-03-09 art. 207 II : Les articles 159 à 193 et 198 entreront en vigueur, sous réserve des dispositions des
-III et IV du présent article, le 1er janvier 2005.
+en réduire le montant. L'astreinte est recouvrée par le comptable public compétent comme une amende pénale. Elle ne peut
+donner lieu à contrainte judiciaire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°88-14 1988-01-05 art. 4 al. 3
 	  - Loi n°88-14 du 5 janvier 1988 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 103
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L621-5 (V)
+	  - Code de la consommation - art. L621-6 (M)
 
 
 ###### Article L421-5
