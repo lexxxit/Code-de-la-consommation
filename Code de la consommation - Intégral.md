@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-05-01
+Version Consolidée au 2010-05-08
 
 # Partie législative
 
@@ -160,39 +160,43 @@ officiel et ses modalités d'utilisation.
 ###### Article L112-3
 
 Les conditions d'utilisation des mentions relatives au mode d'élevage des volailles sont déterminées par l'article L. 644-14
-du code rural.
+du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural L644-14
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code rural - art. L644-14
 
 
 ###### Article L112-4
 
 Les conditions d'utilisation simultanée, pour l'étiquetage d'une denrée alimentaire ou d'un produit agricole non alimentaire
 et non transformé, à l'exception des vins, des boissons spiritueuses et des produits intermédiaires, d'une marque commerciale
-et d'une référence à l'un des modes de valorisation mentionnés à l'article L. 640-2 du code rural, sont précisées par décret
-en Conseil d'Etat.
+et d'une référence à l'un des modes de valorisation mentionnés à l'article L. 640-2 du code rural et de la pêche maritime,
+sont précisées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L432-7 (V)
 
 	**Cité par**:
 
@@ -201,7 +205,7 @@ en Conseil d'Etat.
 
 	**Cite**:
 
-	  - Code rural L640-2
+	  - Code rural - art. L640-2
 
 
 ###### Article L112-5
@@ -295,45 +299,41 @@ grasse végétale.
 ###### Article L112-8
 
 Les conditions d'utilisation du qualificatif "fermier", des mentions "produit de la ferme", "produit à la ferme", "vin de
-pays" et des termes "produits pays" sont fixées par l'article L. 641-19 du code rural.
+pays" et des termes "produits pays" sont fixées par l'article L. 641-19 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code rural L641-19
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
 	  - Loi n°2016-1321 du 7 octobre 2016 - art. 105
 
+	**Cite**:
+
+	  - Code rural - art. L641-19
+
 
 ###### Article L112-9
 
 L'utilisation de la dénomination "montagne" pour les produits à appellation d'origine contrôlée est définie à l'article L.
-641-16 du code rural.
+641-16 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
 	**Cite**:
 
-	  - Code rural L641-16
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Code rural - art. L641-16 (V)
 
 
 #### Chapitre III : Prix et conditions de vente
@@ -814,9 +814,17 @@ professionnels directement intéressés. Un décret en Conseil d'Etat fixe les m
 ###### Article L115-5
 
 L'attribution d'une appellation d'origine contrôlée est soumise aux règles prévues par les articles L. 641-5, L. 641-6 et L.
-641-7 du code rural.
+641-7 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
@@ -825,38 +833,24 @@ L'attribution d'une appellation d'origine contrôlée est soumise aux règles pr
 
 	**Nouveaux textes**:
 
+	  - Code de la consommation - art. L431-5 (V)
 	  - Code rural - art. L641-2 (M)
 
 	**Cite**:
 
-	  - Code rural L641-5, L641-6, L641-7
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Code rural - art. L641-5
 
 
 ###### Article L115-6
 
-La protection des dénominations reconnues est notamment assurée par les articles L. 643-1 et L. 643-2 du code rural.
+La protection des dénominations reconnues est notamment assurée par les articles L. 643-1 et L. 643-2 du code rural et de la
+pêche maritime.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L643-1, L643-2
 
 	**Anciens textes**:
 
 	  - Loi n°1919-05-06 du 6 mai 1919 - art. 7-5 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
 
 	**Cité par**:
 
@@ -889,39 +883,47 @@ La protection des dénominations reconnues est notamment assurée par les articl
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L641-3 (M)
 
+	**Cite**:
+
+	  - Code rural - art. L643-1
+
 
 ###### Article L115-7
 
 Les dispositions transitoires relatives aux appellations d'origine en matière agricole et agro-alimentaire sont définies à
-l'article L. 641-9 du code rural.
+l'article L. 641-9 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L641-9
 
 	**Anciens textes**:
 
 	  - Loi n°1919-05-06 du 6 mai 1919 - art. 7-6 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L641-4 (M)
+
+	**Cite**:
+
+	  - Code rural - art. L641-9
 
 
 ##### Sous-section 3 : Procédure judiciaire de protection
@@ -1208,13 +1210,13 @@ commune, ou, le cas échéant, d'une partie de la même commune.
 
 ###### Article L115-16
 
-Est puni de deux ans d'emprisonnement et d'une amende de 37 500 euros le fait : 
+Est puni de deux ans d'emprisonnement et d'une amende de 37 500 € le fait : 
 
-1° De délivrer une appellation d'origine contrôlée sans satisfaire aux conditions prévues à l'article L. 642-3 du code
-rural ; 
+1° De délivrer une appellation d'origine contrôlée sans satisfaire aux conditions prévues à l'article L. 642-3 du code rural
+et de la pêche maritime ; 
 
 2° De délivrer une appellation d'origine contrôlée qui n'a pas fait l'objet de l'homologation prévue à l'article L. 641-7 du
-code rural ; 
+code rural et de la pêche maritime ; 
 
 3° D'utiliser ou de tenter d'utiliser frauduleusement une appellation d'origine ; 
 
@@ -1261,7 +1263,7 @@ industrielle ou une société commerciale. Ces interdictions d'exercice peuvent 
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 71
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -1311,10 +1313,10 @@ pénale.
 ###### Article L115-18
 
 Les peines prévues à l'article L. 115-16 ainsi que les dispositions de l'article L. 115-17 sont applicables en cas
-d'utilisation des mentions interdites en vertu des articles L. 115-3 et L. 115-9.
+d'utilisation des mentions interdites en vertu des articles L. 115-3 et L. 115-9. 
 
 Les peines prévues à l'article L. 115-16 sont également applicables en cas d'utilisation de toute mention interdite par le
-deuxième alinéa de l'article L. 643-1 du code rural.
+deuxième alinéa de l'article L. 643-1 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
@@ -1327,22 +1329,30 @@ deuxième alinéa de l'article L. 643-1 du code rural.
 	  - Loi n°70-9 du 2 janvier 1970 - art. 9 (V)
 	  - Code de commerce - art. L123-11-3 (V)
 	  - Code de commerce. - art. L128-1 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
+	  - Code de la consommation - art. L213-5 (VT)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L115-16 (M)
-	  - Code de la consommation - art. L115-17 (V)
-	  - Code de la consommation - art. L115-3 (V)
-	  - Code de la consommation - art. L115-9 (V)
+	  - Code de la consommation - art. L115-16
+	  - Code de la consommation - art. L115-17 (VT)
+	  - Code de la consommation - art. L115-3
+	  - Code de la consommation - art. L115-9 (VT)
+	  - Code rural - art. L643-1
 	  - Code rural L643-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L431-7 (V)
+	  - Code de la consommation - art. L453-2 (V)
+	  - Code de la consommation - art. L453-3 (V)
 
 
 ##### Section 2 : Les autres signes d'identification de l'origine et de la qualité
@@ -1351,59 +1361,59 @@ deuxième alinéa de l'article L. 643-1 du code rural.
 
 ###### Article L115-19
 
-L'objet et les conditions d'utilisation d'un label rouge sont fixés par les articles L. 641-1 à L. 641-3 du code rural.
+L'objet et les conditions d'utilisation d'un label rouge sont fixés par les articles L. 641-1 à L. 641-3 du code rural et de
+la pêche maritime.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L641-1 à L641-3
 
 	**Anciens textes**:
 
 	  - Loi n°1919-05-06 du 6 mai 1919 - art. 7-7 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Nouveaux textes**:
 
+	  - Code de la consommation - art. L432-1 (V)
 	  - Code rural - art. L641-5 (M)
+
+	**Cite**:
+
+	  - Code rural - art. L641-1
 
 
 ###### Article L115-20
 
-Est puni de deux ans d'emprisonnement et d'une amende de 37 500 euros le fait :
+Est puni de deux ans d'emprisonnement et d'une amende de 37 500 € le fait : 
 
-1° De délivrer un label rouge sans satisfaire aux conditions prévues à l'article L. 642-3 du code rural ;
+1° De délivrer un label rouge sans satisfaire aux conditions prévues à l'article L. 642-3 du code rural et de la pêche
+maritime ; 
 
-2° De délivrer un label rouge qui n'a pas fait l'objet de l'homologation prévue à l'article L. 641-4 du code rural ;
+2° De délivrer un label rouge qui n'a pas fait l'objet de l'homologation prévue à l'article L. 641-4 du code rural et de la
+pêche maritime ; 
 
-3° De délivrer un label rouge en méconnaissance de l'article L. 641-2 du code rural ;
+3° De délivrer un label rouge en méconnaissance de l'article L. 641-2 du code rural et de la pêche maritime ; 
 
-4° D'utiliser ou de tenter d'utiliser frauduleusement un label rouge ;
+4° D'utiliser ou de tenter d'utiliser frauduleusement un label rouge ; 
 
 5° D'apposer ou de faire apparaître, par addition, retranchement ou par une altération quelconque, sur des produits, naturels
-ou fabriqués, mis en vente ou destinés à être mis en vente, un label rouge en le sachant inexact ;
+ou fabriqués, mis en vente ou destinés à être mis en vente, un label rouge en le sachant inexact ; 
 
-6° D'utiliser un mode de présentation faisant croire ou de nature à faire croire qu'un produit bénéficie d'un label rouge ;
+6° D'utiliser un mode de présentation faisant croire ou de nature à faire croire qu'un produit bénéficie d'un label rouge ; 
 
 7° De faire croire ou de tenter de faire croire qu'un produit assorti d'un label rouge est garanti par l'Etat ou par un
-organisme public.
+organisme public. 
 
 Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux qu'il désignera et son insertion intégrale ou
 par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L642-3, L641-4, L641-2
 
 	**Anciens textes**:
 
@@ -1425,10 +1435,6 @@ par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 	  - Code de la consommation - art. L115-19 (M)
 	  - Code rural - art. L671-5 (V)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret du 7 août 1996 - art. 1 (Ab)
@@ -1446,11 +1452,17 @@ par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Nouveaux textes**:
 
 	  - Code rural - art. L641-6 (M)
+
+	**Cite**:
+
+	  - Code rural - art. L641-2 (V)
+	  - Code rural - art. L641-4 (V)
+	  - Code rural - art. L642-3 (V)
 
 
 ##### Sous-section 2 : L'appellation d'origine protégée, l'indication géographique protégée, la spécialité traditionnelle garantie
@@ -1459,13 +1471,9 @@ par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 
 Les conditions dans lesquelles le bénéfice d'une appellation d'origine protégée, d'une indication géographique protégée ou
 d'une spécialité traditionnelle garantie peut être attribué sont prévues respectivement aux articles L. 641-10, L. 641-11 et
-L. 641-12 du code rural.
+L. 641-12 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L641-10, L641-11, L641-12
 
 	**Anciens textes**:
 
@@ -1476,29 +1484,34 @@ L. 641-12 du code rural.
 	  - Décret n°84-74 du 26 janvier 1984 - art. 16 (Ab)
 	  - Code de la consommation - art. L115-29 (M)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Nouveaux textes**:
 
+	  - Code de la consommation - art. L432-3 (V)
 	  - Code rural - art. L643-1 (V)
+
+	**Cite**:
+
+	  - Code rural - art. L641-10
 
 
 ###### Article L115-22
 
-Est puni de deux ans d'emprisonnement et d'une amende de 37 500 euros le fait : 
+Est puni de deux ans d'emprisonnement et d'une amende de 37 500 € le fait : 
 
 1° De délivrer une appellation d'origine protégée, une indication géographique protégée ou une spécialité traditionnelle
-garantie sans satisfaire aux conditions prévues à l'article L. 642-3 du code rural ; 
+garantie sans satisfaire aux conditions prévues à l'article L. 642-3 du code rural et de la pêche maritime ; 
 
 2° De délivrer une appellation d'origine protégée, une indication géographique protégée ou une spécialité traditionnelle
 garantie qui n'a pas fait l'objet de l'homologation prévue respectivement aux articles L. 641-10, L. 641-11 et L. 641-12 du
-code rural ; 
+code rural et de la pêche maritime ; 
 
 3° D'utiliser ou de tenter d'utiliser frauduleusement une appellation d'origine protégée, une indication géographique
 protégée ou une spécialité traditionnelle garantie ; 
@@ -1530,7 +1543,7 @@ par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1821 du 24 décembre 2007 - art. 2
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Nouveaux textes**:
 
@@ -1539,7 +1552,7 @@ par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 	**Cite**:
 
 	  - Code rural - art. L641-10 (V)
-	  - Code rural - art. L642-3
+	  - Code rural - art. L642-3 (V)
 
 
 ##### Sous-section 3 : L'agriculture biologique
@@ -1547,13 +1560,9 @@ par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 ###### Article L115-23
 
 Les conditions dans lesquelles le bénéfice de la mention "agriculture biologique" peut être attribué sont prévues par
-l'article L. 641-13 du code rural.
+l'article L. 641-13 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L641-13
 
 	**Anciens textes**:
 
@@ -1566,28 +1575,33 @@ l'article L. 641-13 du code rural.
 	  - Code de la consommation - art. L115-24 (M)
 	  - Code de la consommation - art. L115-26 (M)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Nouveaux textes**:
 
+	  - Code de la consommation - art. L432-5 (V)
 	  - Code rural - art. L643-3 (V)
+
+	**Cite**:
+
+	  - Code rural - art. L641-13
 
 
 ###### Article L115-24
 
-Est puni de deux ans d'emprisonnement et d'une amende de 37 500 euros le fait : 
+Est puni de deux ans d'emprisonnement et d'une amende de 37 500 € le fait : 
 
 1° De délivrer une mention " agriculture biologique " sans satisfaire aux conditions prévues à l'article L. 642-3 du code
-rural ; 
+rural et de la pêche maritime ; 
 
 2° De délivrer une mention " agriculture biologique " à un produit qui ne remplit pas les conditions, rappelées à l'article
-L. 641-13 du code rural, pour en bénéficier ; 
+L. 641-13 du code rural et de la pêche maritime, pour en bénéficier ; 
 
 3° D'utiliser ou de tenter d'utiliser frauduleusement le signe " agriculture biologique " ; 
 
@@ -1617,7 +1631,7 @@ par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1821 du 24 décembre 2007 - art. 8 (V)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -1630,25 +1644,13 @@ par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 ###### Article L115-25
 
 Les dispositions applicables à la certification de la conformité des produits agricoles et des denrées alimentaires sont
-définies par les articles L. 641-20 à L. 641-23 du code rural.
+définies par les articles L. 641-20 à L. 641-23 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L641-20 à L641-23
 
 	**Anciens textes**:
 
 	  - Loi n°60-808 du 5 août 1960 - art. 28-2 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -1657,28 +1659,45 @@ définies par les articles L. 641-20 à L. 641-23 du code rural.
 	  - Code rural - art. L642-3 (M)
 	  - Code rural - art. L671-6 (M)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L433-1 (V)
+
+	**Cite**:
+
+	  - Code rural - art. L641-20
+
 
 ###### Article L115-26
 
-Est puni de deux ans d'emprisonnement et d'une amende de 37 500 euros le fait :
+Est puni de deux ans d'emprisonnement et d'une amende de 37 500 € le fait : 
 
-1° De délivrer un certificat de conformité sans satisfaire aux conditions prévues à l'article L. 641-23 du code rural ;
+1° De délivrer un certificat de conformité sans satisfaire aux conditions prévues à l'article L. 641-23 du code rural et de
+la pêche maritime ; 
 
-2° De délivrer un certificat de conformité en méconnaissance de l'article L. 641-21 du code rural ;
+2° De délivrer un certificat de conformité en méconnaissance de l'article L. 641-21 du code rural et de la pêche maritime ; 
 
-3° D'utiliser ou de tenter d'utiliser frauduleusement un certificat de conformité ;
+3° D'utiliser ou de tenter d'utiliser frauduleusement un certificat de conformité ; 
 
 4° D'apposer ou de faire apparaître, par addition, retranchement ou par une altération quelconque, sur des produits, naturels
-ou fabriqués, mis en vente ou destinés à être mis en vente, un certificat de conformité en le sachant inexact ;
+ou fabriqués, mis en vente ou destinés à être mis en vente, un certificat de conformité en le sachant inexact ; 
 
 5° D'utiliser un mode de présentation faisant croire ou de nature à faire croire qu'un produit bénéficie d'un certificat de
-conformité ;
+conformité ; 
 
 6° De faire croire ou de tenter de faire croire qu'un produit assorti d'un certificat de conformité est garanti par l'Etat ou
-par un organisme public ;
+par un organisme public ; 
 
 7° De se prévaloir de l'engagement d'une démarche de certification sans que celle-ci ait été enregistrée conformément à
-l'article L. 641-22 du code rural.
+l'article L. 641-22 du code rural et de la pêche maritime. 
 
 Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux qu'il désignera et son insertion intégrale ou
 par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
@@ -1689,13 +1708,9 @@ par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 
 	  - Loi n°60-808 du 5 août 1960 - art. 28-3 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Nouveaux textes**:
 
@@ -1707,7 +1722,9 @@ par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 
 	**Cite**:
 
-	  - Code rural L641-23, L641-21, L641-22
+	  - Code rural - art. L641-21 (V)
+	  - Code rural - art. L641-22 (V)
+	  - Code rural - art. L641-23 (V)
 
 
 ##### Section 4 : Recherche et constatation des infractions prévues aux sections 1 à 3
@@ -1715,9 +1732,9 @@ par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 ###### Article L115-26-1
 
 Les agents mentionnés à l'article L. 215-1 sont habilités à rechercher et à constater les infractions aux dispositions du
-titre IV du livre VI du code rural et aux textes pris pour son application ainsi qu'aux dispositions des sections 1 à 3 du
-présent chapitre et aux textes pris pour leur application. Ils disposent à cet effet des pouvoirs d'enquête prévus aux
-articles L. 215-1 à L. 215-17 du présent code.
+titre IV du livre VI du code rural et de la pêche maritime et aux textes pris pour son application ainsi qu'aux dispositions
+des sections 1 à 3 du présent chapitre et aux textes pris pour leur application. Ils disposent à cet effet des pouvoirs
+d'enquête prévus aux articles L. 215-1 à L. 215-17 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -1726,16 +1743,21 @@ articles L. 215-1 à L. 215-17 du présent code.
 	  - Loi n°85-30 du 9 janvier 1985 - art. 33 (M)
 	  - Décret n°95-723 du 9 mai 1995 - art. 2 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-1
 
 	**Nouveaux textes**:
 
+	  - Code de la consommation - art. L511-13 (V)
 	  - Code rural - art. L642-1 (M)
 
 
@@ -8897,7 +8919,7 @@ titre II du livre Ier, l'article L. 115-30 du présent code ;
 
 - loi du 6 avril 1897 concernant la fabrication, la circulation et la vente des vins artificiels ;
 
-- les articles L. 253-12 et L. 253-13 du code rural ;
+- les articles L. 253-12 et L. 253-13 du code rural et de la pêche maritime ;
 
 - loi du 11 juillet 1906 relative à la protection des conserves de sardines, de légumes et de prunes contre la fraude
 étrangère, dont les dispositions ont été rendues applicables à toutes les conserves étrangères de poissons entrant en France
@@ -8926,7 +8948,7 @@ du cuir et des produits ouvrés du cuir ;
 
 - loi du 3 février 1940 tendant à réglementer le commerce des produits destinés à l'alimentation des animaux ;
 
-- les articles L. 253-1 à L. 253-11 et les articles L. 253-14 à L. 253-17 du code rural ;
+- les articles L. 253-1 à L. 253-11 et les articles L. 253-14 à L. 253-17 du code rural et de la pêche maritime ;
 
 - loi n° 60-808 du 5 août 1960 d'orientation agricole ;
 
@@ -8936,9 +8958,9 @@ du cuir et des produits ouvrés du cuir ;
 
 - loi n° 73-1097 du 12 décembre 1973 sur les appellations d'origine en matière viticole ;
 
-- les articles L. 255-1 à L. 255-11 du code rural ;
+- les articles L. 255-1 à L. 255-11 du code rural et de la pêche maritime ;
 
-- les articles L. 645-1 et L. 671-7 du code rural ;
+- les articles L. 645-1 et L. 671-7 du code rural et de la pêche maritime ;
 
 **Nota:**
 
@@ -8949,18 +8971,15 @@ code de la santé publique.
 
 	**Cité par**:
 
-	  - Décret n°94-808 du 12 septembre 1994 - art. 6 (V)
-	  - Code de la consommation - art. L217-10 (M)
 	  - Code de la santé publique - art. L617-23 (Ab)
-	  - Code forestier - art. L555-3 (VT)
 	  - Loi n°1939-04-21 du 21 avril 1939 - art. 6 (V)
 	  - Loi n°79-595 du 13 juillet 1979 - art. 13 (Ab)
+	  - Décret n°94-808 du 12 septembre 1994 - art. 6 (V)
+	  - Code de la consommation - art. L217-10 (M)
+	  - Code forestier - art. L555-3 (VT)
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L711-1 (V)
-	  - Code de la consommation - art. L115-30 (M)
-	  - Code de la consommation L141, L142, L144, L115-30, L253-1 à L253-11
 	  - Code rural L253-12, L253-13, L253-14 à L253-17, L255-1 à L255-11, L645-1, L671-7
 	  - Loi n°1889-08-14
 	  - Loi n°1891-07-11
@@ -8982,18 +9001,17 @@ code de la santé publique.
 	  - Loi n°71-383 1971-05-22
 	  - Loi n°73-1097 1973-12-12
 	  - Ordonnance 2000-548 2000-06-15
+	  - Code de la propriété intellectuelle - art. L711-1 (V)
+	  - Code de la consommation - art. L115-30 (M)
+	  - Code de la consommation L141, L142, L144, L115-30, L253-1 à L253-11
 
 	**Anciens textes**:
 
 	  - Loi n°1905-08-01 du 1 août 1905 - art. 5 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Loi n°96-314 du 12 avril 1996 - art. 60 () JORF 13 avril 1996
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
 ###### Article L213-6
@@ -9548,11 +9566,10 @@ générale des douanes et de la direction générale des finances publiques ;
 
 2° Les inspecteurs du travail ; 
 
-3° Les agents mentionnés aux 1° à 7° de l'article L. 231-2 et au I de l'article L. 251-18 du code rural ; 
+3° Les agents mentionnés aux 1° à 7° de l'article L. 231-2 et à l'article L. 250-2 du code rural et de la pêche maritime ; 
 
-4° Les agents mentionnés aux 
-articles L. 1421-1 et L. 1435-7 du code de la santé publique 
-ayant la qualité de médecin ou de pharmacien ; 
+4° Les agents mentionnés aux articles L. 1421-1 et L. 1435-7 du code de la santé publique ayant la qualité de médecin ou de
+pharmacien ; 
 
 5° Les agents de l'Institut français de recherche pour l'exploitation de la mer ; 
 
@@ -9583,6 +9600,18 @@ constater les infractions aux chapitre II et VI en vue de recueillir des éléme
 administrations publiques et des entreprises de transports.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi du 27 février 1912
+	  - Décret-loi du 14 juin 1938 - art. 3
+	  - Code des postes et des communications électroniques - art. L40
+	  - Code de procédure pénale
+	  - Code rural - art. L231-2
+	  - Code rural - art. L250-2
+	  - Code de la santé publique - art. L1312-1
+	  - Code de la santé publique - art. L1421-1
+	  - Code de l'environnement - art. L514-13
 
 	**Cité par**:
 
@@ -9711,17 +9740,10 @@ administrations publiques et des entreprises de transports.
 	  - Code rural et de la pêche maritime - art. R661-50 (VD)
 	  - Loi n°1934-12-24 du 24 décembre 1934 - art. 11 (Ab)
 
-	**Cite**:
-
-	  - Décret-loi du 14 juin 1938 - art. 3
-	  - Code de procédure pénale
-	  - Code de la santé publique - art. L1312-1
-	  - Code de la santé publique - art. L1421-1
-	  - Code de l'environnement - art. L514-13
-
 	**Modifié par**:
 
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 103
+	  - Ordonnance n°2010-461 du 6 mai 2010 - art. 1 (V)
+	  - Ordonnance n°2010-460 du 6 mai 2010 - art. 11
 
 	**Anciens textes**:
 
@@ -9747,11 +9769,11 @@ pouvoirs d'enquête qu'ils tiennent du livre II du présent code sur toute l'ét
 ###### Article L215-2
 
 Les agents mentionnés à l'article L. 215-1 sont également habilités à rechercher et à constater, dans les conditions prévues
-au présent livre, les infractions :
+au présent livre, les infractions : 
 
 1° Aux dispositions réglementaires prises en application du II de l'article L. 231-1, des articles L. 231-5, L. 231-6, L.
-236-1, L. 236-2 et L. 236-4 du code rural, à l'exception de celles relatives à la production primaire et de celles relatives
-aux abattoirs ;
+236-1, L. 236-2 et L. 236-4 du code rural et de la pêche maritime, à l'exception de celles relatives à la production primaire
+et de celles relatives aux abattoirs ; 
 
 2° Aux dispositions des règlements ci-dessous et des règlements communautaires qui les modifieraient ou seraient pris pour
 leur application :
@@ -9781,29 +9803,30 @@ d'hygiène des aliments pour animaux à l'exception des dispositions applicables
 
 	  - Loi n°1905-08-01 du 1 août 1905 - art. 12-1 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 23 () JORF 6 octobre 2006
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L115-20 (MMN)
+	  - Code de la consommation - art. L218-1-1 (VT)
 	  - Code rural et de la pêche maritime - art. L205-1 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L215-1 (M)
-	  - Code de la consommation L215-1, L231-1
-	  - Code rural L231-5, L231-6, L236-1, L236-2, L236-4
-	  - Règlement CE 178/2002 2002-01-28 Parlement et Conseil
-	  - Règlement CE 183/2005 2005-01-12 Parlement et Conseil
-	  - Règlement CE 852/2004 2004-04-29 Parlement et Conseil
-	  - Règlement CE 853/2004 2004-04-29 Parlement et Conseil
-	  - Règlement CE 882/2004 2004-04-29 Parlement et Conseil
+	  - Code de la consommation - art. L215-1
+	  - Code rural - art. L231-1
+	  - Code rural - art. L231-5
+	  - Code rural - art. L236-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L511-12 (V)
 
 
 ###### Article L215-2-1
@@ -20786,14 +20809,18 @@ manière dont elles sont disposées ainsi qu'à l'environnement dans lequel elle
 
 En application du 2° de l'article L. 214-1 du code de la consommation, l'étiquetage d'un produit bénéficiant d'une
 reconnaissance d'appellation d'origine, d'indication géographique protégée ou spécialité traditionnelle garantie doit être
-conforme aux dispositions des articles R. 641-12 et R. 641-21-1 du code rural et, s'agissant des vins bénéficiant d'une
-indication géographique protégée, en outre, à celles de l'article R. 641-25-1 du même code.
+conforme aux dispositions des articles R. 641-12 et R. 641-21-1 du code rural et de la pêche maritime et, s'agissant des vins
+bénéficiant d'une indication géographique protégée, en outre, à celles de l'article R. 641-25-1 du même code.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1195 du 7 octobre 2009 - art. 5
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 	**Cite**:
 
