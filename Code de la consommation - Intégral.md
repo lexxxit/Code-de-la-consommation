@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-06-21
 
 # Partie législative
 
@@ -22348,25 +22348,17 @@ rétractation.
 I. - En cas de récidive des infractions prévues aux articles R. 121-1, R. 121-1-1 et R. 121-1-2, la peine d'amende prévue
 pour la récidive des contraventions de la cinquième classe est applicable.
 
-II. - Les personnes morales peuvent être déclarées responsables des infractions définies par les articles R. 121-1, R.
-121-1-1 et R. 121-1-2 dans les conditions prévues à l'article 121-2 du code pénal ; elles encourent la peine d'amende selon
-les modalités prévues à l'article 131-41 du même code.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
 	**Modifié par**:
 
-	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur 1e 1er décembre 2005
+	  - Décret n°2010-671 du 18 juin 2010 - art. 5
 
 	**Cite**:
 
-	  - Code de la consommation R121-1, R121-1-1, R121-1-2
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
+	  - Code de la consommation
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
 
 
 ##### Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers
@@ -23196,7 +23188,7 @@ En cas de récidive des infractions prévues aux articles R. 121-14 à R. 121-20
 Les règles relatives à la prohibition des envois forcés sont définies par l'article R. 635-2 du code pénal reproduit ci-
 après : 
 
-" Art.R. 635-2 : 
+" Art. R. 635-2 : 
 
 " Le fait d'adresser à une personne, sans demande préalable de celle-ci, un objet quelconque accompagné d'une correspondance
 indiquant que cet objet peut être accepté contre versement d'un prix fixé ou renvoyé à son expéditeur, même si ce renvoi peut
@@ -23211,46 +23203,43 @@ fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
 " 2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le
 produit. 
 
-" Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de
-l'infraction définie au présent article. 
+" Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2, de l'infraction
+définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-41, les peines
+suivantes : 
 
-" Les peines encourues par les personnes morales sont : 
-
-" 1° L'amende, suivant les modalités prévues par l'article 131-41 ; 
-
-" 2° L'interdiction, pour une durée de trois ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
+" 1° L'interdiction, pour une durée de trois ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
 fonds par le tireur auprès du tiré ou ceux qui sont certifiés ; 
 
-" 3° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le
+" 2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le
 produit. 
 
-" La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15 ".
+" La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°2010-671 du 18 juin 2010 - art. 4
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R132-3 (V)
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 132-11 (M)
-	  - Code pénal - art. 132-15 (V)
-	  - Code pénal - art. R635-2 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
+	  - Code pénal - art. R635-2
 
 	**Liens**:
 
-	  - PILOTE_SUIVEUR: Code pénal - art. R635-2 (V)
-
-	**Anciens textes**:
-
-	  - Code pénal R122-1
+	  - PILOTE_SUIVEUR: Code pénal - art. R635-2
 
 
 ### Titre III : Conditions générales des contrats
@@ -25890,33 +25879,34 @@ La récidive de ces contraventions est réprimée conformément à l'article 132
 
 ###### Article R223-5
 
-Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues à l'article 121-2 du code
-pénal, des infractions définies aux articles R. 223-1 et R. 223-2.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende selon les modalités prévues à l'article 131-41 du code pénal ;
-
-2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux articles R. 223-1 et R. 223-2 encourent, outre l'amende suivant les modalités prévues par l'article
+131-41 du code pénal, la peine de confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la
+chose qui en est le produit. 
 
 La récidive de cette même contravention est réprimée conformément à l'article 132-15 du code pénal.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°2010-671 du 18 juin 2010 - art. 5
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2005-1701 du 27 décembre 2005 - art. 5 () JORF 30 décembre 2005
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation R223-1, R223-2
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-41 (V)
-	  - Code pénal - art. 132-15 (V)
+	  - Code de la consommation - art. R223-1 (Ab)
+	  - Code de la consommation - art. R223-2 (Ab)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-41
+	  - Code pénal - art. 132-15
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R452-4 (V)
 
 
 #### Chapitre IV : La commission de la sécurité des consommateurs
