@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-06-21
+Version Consolidée au 2010-07-01
 
 # Partie législative
 
@@ -9056,28 +9056,28 @@ l'exercice de laquelle l'infraction a été commise.
 ###### Article L214-1
 
 Il sera statué par des décrets en Conseil d'Etat sur les mesures à prendre pour assurer l'exécution des chapitres II à VI du
-présent titre, notamment en ce qui concerne :
+présent titre, notamment en ce qui concerne : 
 
 1° La fabrication et l'importation des marchandises autres que les produits d'origine animale et les denrées alimentaires en
 contenant, les aliments pour animaux d'origine animale et les aliments pour animaux contenant des produits d'origine animale
 ainsi que la vente, la mise en vente, l'exposition, la détention et la distribution à titre gratuit de toutes marchandises
-visées par les chapitres II à VI ;
+visées par les chapitres II à VI ; 
 
 2° Les modes de présentation ou les inscriptions de toute nature sur les marchandises elles-mêmes, les emballages, les
 factures, les documents commerciaux ou documents de promotion, en ce qui concerne notamment : le mode de production, la
-nature, les qualités substantielles, la composition y compris, pour les denrées alimentaires, la  composition nutritionnelle,
+nature, les qualités substantielles, la composition y compris, pour les denrées alimentaires, la composition nutritionnelle,
 la teneur en principes utiles, l'espèce, l'origine, l'identité, la quantité, l'aptitude à l'emploi, les modes d'emploi ainsi
-que les marques spéciales facultatives ou obligatoires apposées sur les marchandises françaises exportées à l'étranger ;
+que les marques spéciales facultatives ou obligatoires apposées sur les marchandises françaises exportées à l'étranger ; 
 
 3° La définition, la composition et la dénomination des marchandises de toute nature, les traitements licites dont elles
-peuvent être l'objet, les caractéristiques qui les rendent impropres à la consommation ;
+peuvent être l'objet, les caractéristiques qui les rendent impropres à la consommation ; 
 
-4° La définition et les conditions d'emploi des termes et expressions publicitaires, dans le but d'éviter une confusion ;
+4° La définition et les conditions d'emploi des termes et expressions publicitaires, dans le but d'éviter une confusion ; 
 
 5° Les règles d'hygiène que doivent respecter les exploitants du secteur alimentaire et du secteur de l'alimentation animale
 à toutes les étapes de la production, de la transformation et de la distribution, y compris lors des importations et des
 exportations, de produits et denrées alimentaires autres que les produits d'origine animale et les denrées en contenant, et
-d'aliments pour animaux autres que ceux d'origine animale ou contenant des produits d'origine animale ;
+d'aliments pour animaux autres que ceux d'origine animale ou contenant des produits d'origine animale ; 
 
 6° La détermination des conditions dans lesquelles sont préparés, conservés, détenus en vue de la vente ou de la distribution
 à titre gratuit, mis en vente, vendus, servis et transportés les produits et denrées destinés à l'alimentation humaine ou
@@ -9085,21 +9085,25 @@ animale autres que les produits d'origine animale, les denrées en contenant et 
 aliments pour animaux contenant des produits d'origine animale, ainsi que la détermination des caractéristiques auxquelles
 doivent répondre les équipements nécessaires à leur préparation, leur conservation, leur détention en vue de leur vente ou en
 vue de leur distribution à titre gratuit, leur mise en vente, leur vente, leur distribution à titre gratuit et leur
-transport ;
+transport ; 
 
 7° Les conditions dans lesquelles sont déterminées les caractéristiques micro-biologiques et hygiéniques des marchandises
 destinées à l'alimentation humaine ou animale autres que les produits d'origine animale et les denrées alimentaires en
 contenant, les aliments pour animaux d'origine animale et les aliments pour animaux contenant des produits d'origine
-animale ;
+animale ; 
 
 8° Les conditions matérielles dans lesquelles les indications, visées au dernier alinéa de l'article L. 213-4, devront être
-portées à la connaissance des acheteurs sur les étiquettes, annonces, réclames, papiers de commerce ;
+portées à la connaissance des acheteurs sur les étiquettes, annonces, réclames, papiers de commerce ; 
 
-Les décrets prévus au présent article sont pris après avis de l'Agence française de sécurité sanitaire des aliments
-lorsqu'ils portent sur des produits entrant dans son champ de compétence ou qu'ils comportent des dispositions visant à
-prévenir des risques sanitaires ou nutritionnels. Ces avis sont rendus publics.
+Les décrets prévus au présent article sont pris après avis de l'      Agence nationale chargée de la sécurité sanitaire de
+l'alimentation, de l'environnement et du travail  lorsqu'ils portent sur des produits entrant dans son champ de compétence ou
+qu'ils comportent des dispositions visant à prévenir des risques sanitaires ou nutritionnels. Ces avis sont rendus publics. 
 
 9° La traçabilité des marchandises.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -9380,17 +9384,13 @@ prévenir des risques sanitaires ou nutritionnels. Ces avis sont rendus publics.
 	  - TXT_SOURCE: Décret n°2003-1148 du 28 novembre 2003 - art. ANNEXE I (V)
 	  - TXT_SOURCE: Décret n°2003-1148 du 28 novembre 2003 - art. ANNEXE II (V)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 19 () JORF 6 octobre 2006
+	  - Ordonnance n°2010-18 du 7 janvier 2010 - art. 3
 
 	**Cite**:
 
-	  - Code de la consommation - art. L213-4 (M)
+	  - Code de la consommation - art. L213-4
 
 
 ###### Article L214-2
@@ -12310,30 +12310,26 @@ ainsi la sécurité à laquelle on peut légitimement s'attendre dans le respect
 ###### Article L221-10
 
 Les décrets établis en application de l'article L. 221-3 sont pris après avis de l'Agence française de sécurité sanitaire des
-produits de santé ou de l'Agence française de sécurité sanitaire des aliments lorsqu'ils concernent des produits entrant dans
-leur champ de compétence. Ces avis sont rendus publics.
+produits de santé ou de l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du
+travail lorsqu'ils concernent des produits entrant dans leur champ de compétence. Ces avis sont rendus publics. 
 
 Les arrêtés établis en application de l'article L. 221-5 sont pris selon les mêmes modalités, sauf en cas d'urgence dûment
 motivée où ils sont notifiés sans délai à l'agence compétente.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 29 al. 2 (mesures d'entrée en vigueur pour les dispositions concernant l'Agence française de sécurité sanitaire des produits de santé)
-
-	**Créé par**:
-
-	  - Loi n°98-535 du 1 juillet 1998 - art. 11 () JORF 2 juillet 1998 en vigueur au plus tard le 31 décembre 1998
+	  - Ordonnance n°2010-18 du 7 janvier 2010 - art. 3
 
 	**Cite**:
 
-	  - Code de la consommation - art. L221-3 (M)
-	  - Code de la consommation - art. L221-5 (M)
+	  - Code de la consommation - art. L221-3
+	  - Code de la consommation - art. L221-5
 
 	**Cité par**:
 
