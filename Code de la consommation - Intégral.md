@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-07-03
+Version Consolidée au 2010-07-03 00:00:01 +0200
 
 # Partie législative
 
@@ -7149,13 +7149,14 @@ Les dispositions du présent article sont d'ordre public.
 
 	  - Loi n°78-23 du 10 janvier 1978 - art. 35 (Ab)
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L132-2 (VT)
+	  - Code de la consommation - art. L133-1 (VT)
 	  - Code de la consommation - art. L135-1 (V)
 	  - Code de la consommation - art. R*132-2-1 (V)
 	  - Code de la consommation - art. R132-1 (Ab)
@@ -7163,50 +7164,17 @@ Les dispositions du présent article sont d'ordre public.
 	  - Code de la consommation - art. R132-6 (VT)
 	  - Code de la consommation - art. R534-4 (Ab)
 
-	**Cite**:
-
-	  - Code de la consommation - art. L534-1 (V)
-	  - Code civil - art. 1156
-	  - Code civil - art. 1163
-
-
-##### Section 2 : La commission des clauses abusives.
-
-###### Article L132-2
-
-La commission des clauses abusives, placée auprès du ministre chargé de la consommation, connaît des modèles de conventions
-habituellement proposés par les professionnels à leurs contractants non professionnels ou consommateurs. Elle est chargée de
-rechercher si ces documents contiennent des clauses qui pourraient présenter un caractère abusif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°78-23 1978-01-10 art. 36 al. 1
-	  - Loi n°78-23 du 10 janvier 1978 - art. 36 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 62
-
-	**Cité par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 8
-	  - Code de la consommation - art. L132-1 (VD)
-	  - Code de la consommation - art. R132-2-2 (Ab)
-	  - Code de la consommation - art. R132-3 (VT)
-
 	**Nouveaux textes**:
 
-	  - Code de la consommation - art. L534-1 (VT)
+	  - Code de la consommation - art. L212-1 (VT)
+	  - Code de la consommation - art. L212-3 (V)
+	  - Code de la consommation - art. L241-1 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L534-1
+	  - Code civil - art. 1156
+	  - Code civil - art. 1163
 
 
 #### Chapitre III : Interprétation et forme des contrats
