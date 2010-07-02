@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-07-01
+Version Consolidée au 2010-07-03
 
 # Partie législative
 
@@ -3659,31 +3659,32 @@ n'exerce son droit de rétractation ;
 
 III.-Le présent article ne s'applique pas aux contrats mentionnés à l'article L. 121-60. 
 
-IV.-Pour les contrats de crédit affecté définis à l'article L. 311-20 conclus selon une technique de communication à
-distance, et par dérogation aux dispositions de l'article L. 311-24, le délai de rétractation de quatorze jours ne peut pas
-être réduit. 
+IV.-Pour les contrats de crédit affecté définis au 9° de l'article L. 311-1 conclus selon une technique de communication à
+distance, le délai de rétractation de quatorze jours ne peut pas être réduit. 
 
-Par dérogation aux dispositions de l'article L. 311-25, l'exercice du droit de rétractation n'emporte résolution de plein
-droit du contrat de vente ou de prestation de services que s'il intervient dans un délai de sept jours à compter de la
-conclusion du contrat de crédit. De plus, lorsque le consommateur, par une demande expresse, sollicite la livraison ou la
-fourniture immédiate du bien ou de la prestation de services, l'exercice du droit de rétractation n'emporte résolution de
-plein droit du contrat de vente ou de prestation de services que s'il intervient dans un délai de trois jours à compter de la
-conclusion du contrat de crédit. Toute livraison ou fourniture anticipée est à la charge du vendeur qui en supporte tous les
-risques.
+L'exercice du droit de rétractation n'emporte résolution de plein droit du contrat de vente ou de prestation de services que
+s'il intervient dans un délai de sept jours à compter de la conclusion du contrat de crédit. De plus, lorsque le
+consommateur, par une demande expresse, sollicite la livraison ou la fourniture immédiate du bien ou de la prestation de
+services, l'exercice du droit de rétractation n'emporte résolution de plein droit du contrat de vente ou de prestation de
+services que s'il intervient dans un délai de trois jours à compter de la conclusion du contrat de crédit. Toute livraison ou
+fourniture anticipée est à la charge du vendeur qui en supporte tous les risques.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 68
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 59
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
 
 	**Cite**:
 
 	  - Code de la consommation - art. L121-20-11
 	  - Code de la consommation - art. L121-60
-	  - Code de la consommation - art. L311-20
-	  - Code de la consommation - art. L311-24
-	  - Code de la consommation - art. L311-25
+	  - Code de la consommation - art. L311-1
 	  - Code de la consommation - art. L312-2
 	  - Code de la consommation - art. L314-1
 	  - Code monétaire et financier - art. L211-1
@@ -3698,9 +3699,9 @@ risques.
 	  - Code de la mutualité - art. L221-18 (V)
 	  - Code monétaire et financier - art. R341-16 (M)
 
-	**Liens**:
+	**Nouveaux textes**:
 
-	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
+	  - Code de la consommation - art. L121-29 (VD)
 
 
 ###### Article L121-20-13
@@ -4426,9 +4427,8 @@ Cette disposition ne s'applique pas aux menus objets ou services de faible valeu
 
 Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2. 
 
-Pour les établissements de crédit, les établissements de paiement et les organismes mentionnés à l'article L. 518-1 du code
-monétaire et financier, les règles relatives aux ventes avec primes sont fixées par le 2 du I de l'article L. 312-1-2 du même
-code.
+Les règles relatives aux ventes avec primes applicables aux produits et services proposés pour la gestion d'un compte de
+dépôt sont fixées par le 2 du I de l'article L. 312-1-2 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
@@ -4438,7 +4438,7 @@ code.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 16
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 59
 
 	**Cité par**:
 
@@ -4460,7 +4460,7 @@ code.
 	**Cite**:
 
 	  - Code de la consommation - art. L113-2
-	  - Code monétaire et financier - art. L518-1 (V)
+	  - Code monétaire et financier - art. L518-1
 
 
 ##### Section 6 : Loteries publicitaires
@@ -7116,7 +7116,7 @@ Dans les contrats conclus entre professionnels et non-professionnels ou consomma
 objet ou pour effet de créer, au détriment du non-professionnel ou du consommateur, un déséquilibre significatif entre les
 droits et obligations des parties au contrat. 
 
-Un décret en Conseil d'Etat, pris après avis de la commission instituée à l'article L. 132-2, détermine une liste de clauses
+Un décret en Conseil d'Etat, pris après avis de la commission instituée à l'article L. 534-1, détermine une liste de clauses
 présumées abusives ; en cas de litige concernant un contrat comportant une telle clause, le professionnel doit apporter la
 preuve du caractère non abusif de la clause litigieuse. 
 
@@ -7127,12 +7127,12 @@ Ces dispositions sont applicables quels que soient la forme ou le support du con
 commande, factures, bons de garantie, bordereaux ou bons de livraison, billets ou tickets, contenant des stipulations
 négociées librement ou non ou des références à des conditions générales préétablies. 
 
-Sans préjudice des règles d'interprétation prévues aux articles 1156 à 1161, 1163 et 1164 du code civil, le caractère abusif
+Sans préjudice des règles d'interprétation prévues aux articles 1156 à 1161,1163 et 1164 du code civil, le caractère abusif
 d'une clause s'apprécie en se référant, au moment de la conclusion du contrat, à toutes les circonstances qui entourent sa
 conclusion, de même qu'à toutes les autres clauses du contrat. Il s'apprécie également au regard de celles contenues dans un
 autre contrat lorsque la conclusion ou l'exécution de ces deux contrats dépendent juridiquement l'une de l'autre. 
 
-Les clauses abusives sont réputées non écrites.
+Les clauses abusives sont réputées non écrites. 
 
 L'appréciation du caractère abusif des clauses au sens du premier alinéa ne porte ni sur la définition de l'objet principal
 du contrat ni sur l'adéquation du prix ou de la rémunération au bien vendu ou au service offert pour autant que les clauses
@@ -7143,12 +7143,6 @@ lesdites clauses.
 
 Les dispositions du présent article sont d'ordre public.
 
-**Nota:**
-
-Loi n° 2008-776 du 4 août 2008 article 86 III :  Le présent article entre en vigueur à compter de la publication du décret
-visé au troisième alinéa de l'article L. 132-1 du code de la consommation dans sa rédaction résultant de la présente loi et,
-au plus tard, le 1er janvier 2009.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -7157,7 +7151,7 @@ au plus tard, le 1er janvier 2009.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 86 (V)
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
 
 	**Cité par**:
 
@@ -7171,6 +7165,7 @@ au plus tard, le 1er janvier 2009.
 
 	**Cite**:
 
+	  - Code de la consommation - art. L534-1 (V)
 	  - Code civil - art. 1156
 	  - Code civil - art. 1163
 
@@ -7212,91 +7207,6 @@ rechercher si ces documents contiennent des clauses qui pourraient présenter un
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L534-1 (VT)
-
-
-###### Article L132-3
-
-Elle peut être saisie à cet effet soit par le ministre chargé de la consommation, soit par les associations agréées de
-défense des consommateurs, soit par les professionnels intéressés. Elle peut également se saisir d'office.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°78-23 1978-01-10 art. 37 al. 2
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 62
-
-	**Cité par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 8
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L534-2 (VT)
-
-
-###### Article L132-4
-
-La commission recommande la suppression ou la modification des clauses qui présentent un caractère abusif. Le ministre chargé
-de la consommation peut soit d'office, soit à la demande de la commission, rendre publiques ces recommandations qui ne
-peuvent contenir aucune indication de nature à permettre l'identification de situations individuelles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°78-23 1978-01-10 art. 38 al. 1
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 62
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L534-3 (VT)
-
-
-###### Article L132-5
-
-La commission établit chaque année un rapport de son activité et propose éventuellement les modifications législatives ou
-réglementaires qui lui paraissent souhaitables. Ce rapport est rendu public.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°78-23 1978-01-10 art. 38 al. 2
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Abrogé par**:
-
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
 
 
 #### Chapitre III : Interprétation et forme des contrats
@@ -7585,7 +7495,7 @@ I.-Sont recherchés et constatés, dans les conditions fixées par les articles 
 
 3° Les sections 3,4 et 5 du chapitre II du titre II du livre Ier ; 
 
-4° Les sections 5 et 7 du chapitre Ier du titre Ier du livre III ; 
+4° Les sections 9 à 11 du chapitre Ier du titre Ier du livre III ; 
 
 5° La section 7 du chapitre II du titre Ier du livre III ; 
 
@@ -7701,7 +7611,7 @@ mentionnés aux I, II et III. Les modalités de mise en oeuvre de ces procédure
 
 	**Modifié par**:
 
-	  - Loi n°2008-3 du 3 janvier 2008 - art. 39
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 59
 
 
 ###### Article L141-2
@@ -12010,18 +11920,18 @@ réglementés dans les conditions fixées ci-après.
 
 ###### Article L221-3
 
-Des décrets en Conseil d'Etat, pris après avis de la commission prévue à l'article L. 224-1 :
+Des décrets en Conseil d'Etat, pris après avis de la commission prévue à l'article L. 534-4 : 
 
 1° Fixent, en tant que de besoin, par produits ou catégories de produits, les conditions dans lesquelles la fabrication,
 l'importation, l'exportation, l'offre, la vente, la distribution à titre gratuit, la détention, l'étiquetage, le
-conditionnement, la circulation des produits ou le mode d'utilisation de ces produits sont interdits ou réglementés ;
+conditionnement, la circulation des produits ou le mode d'utilisation de ces produits sont interdits ou réglementés ; 
 
 2° Déterminent les conditions d'hygiène et de salubrité que doivent observer les personnes qui participent à la fabrication,
-à la transformation, au transport, à l'entreposage, à la vente des produits ou qui assurent des prestations de services ;
+à la transformation, au transport, à l'entreposage, à la vente des produits ou qui assurent des prestations de services ; 
 
 3° Peuvent ordonner que ces produits soient retirés du marché ou rappelés en vue de leur modification, de leur remboursement
 total ou partiel ou de leur échange, et prévoir des obligations relatives à l'information des consommateurs. Ils peuvent
-également ordonner la destruction de ces produits lorsque celle-ci constitue le seul moyen de faire cesser le danger ;
+également ordonner la destruction de ces produits lorsque celle-ci constitue le seul moyen de faire cesser le danger ; 
 
 4° Précisent les conditions selon lesquelles seront mis à la charge des fabricants, importateurs, distributeurs ou
 prestataires de services, les frais afférents aux dispositions de sécurité à prendre en vertu de la réglementation ainsi
@@ -12031,19 +11941,14 @@ prestataires de services, les frais afférents aux dispositions de sécurité à
 
 	**Anciens textes**:
 
-	  - Loi n°83-660 1983-07-21 art. 2 al. 2 à 4 et 6
 	  - Loi n°83-660 du 21 juillet 1983 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
 
 	**Cité par**:
 
 	  - Décret n°96-1133 du 24 décembre 1996 - art. 1 (V)
 	  - Décret n°2009-873 du 16 juillet 2009 (V)
 	  - Loi n°2016-41 du 26 janvier 2016 - art. 21 (VD)
-	  - Code de la consommation - art. L221-10 (V)
+	  - Code de la consommation - art. L221-10 (VT)
 	  - Code de la consommation - art. L221-4 (VT)
 	  - Code de la sécurité sociale. - art. R165-5-1 (V)
 	  - Code du sport. - art. R322-19 (V)
@@ -12061,11 +11966,20 @@ prestataires de services, les frais afférents aux dispositions de sécurité à
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L422-2 (M)
+	  - Code de la consommation - art. R422-1 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L224-1 (M)
+	  - Code de la consommation - art. L534-4
 
 
 ###### Article L221-4
@@ -12481,242 +12395,6 @@ produits ;
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L421-7 (V)
-
-
-#### Chapitre IV : La commission de la sécurité des consommateurs.
-
-###### Article L224-1
-
-La commission de la sécurité des consommateurs est composée d'un président nommé par décret en conseil des ministres, de
-membres des juridictions de l'ordre administratif ou judiciaire. Elle comprend en outre des personnes appartenant aux
-organisations professionnelles, aux associations nationales de consommateurs et des experts. Ces personnes et experts sont
-désignés par le ministre chargé de la consommation après avis des ministres intéressés et sont choisis en raison de leurs
-compétences en matière de prévention des risques.
-
-Un commissaire du Gouvernement désigné par le ministre chargé de la consommation siège auprès de la commission. Il peut, dans
-les quatre jours d'une délibération de la commission, provoquer une seconde délibération.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-660 1983-07-21 art. 13
-	  - Loi n°83-660 du 21 juillet 1983 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 1 () JORF 2 juillet 2004
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 62
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L221-3 (V)
-	  - Code de la consommation - art. R224-9 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L534-4 (VT)
-
-
-###### Article L224-2
-
-La commission est chargée d'émettre des avis et de proposer toute mesure de nature à améliorer la prévention des risques en
-matière de sécurité des produits ou des services.
-
-Elle recherche et recense les informations de toutes origines sur les dangers présentés par les produits et services. A ce
-titre, elle est informée sans délai de toute décision prise en application des articles L. 221-5, L. 221-7 et L. 223-1.
-
-Elle peut porter à la connaissance du public les informations qu'elle estime nécessaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-660 du 21 juillet 1983 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 62
-
-	**Cite**:
-
-	  - Code de la consommation - art. L221-5
-	  - Code de la consommation - art. L221-7
-	  - Code de la consommation - art. L223-1
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L224-3 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L534-5, v. 1.0 (V)
-
-
-###### Article L224-3
-
-La commission peut être saisie par toute personne physique ou morale. Si elle estime que les faits invoqués ne sont pas
-appuyés d'éléments suffisamment probants, elle peut conclure par décision motivée qu'il n'y a pas lieu, en l'état, d'y donner
-suite. Elle notifie sa décision à l'auteur de la saisine.
-
-La commission peut se saisir d'office.
-
-Les autorités judiciaires compétentes peuvent, en tout état de la procédure, demander l'avis de la commission de la sécurité
-des consommateurs. Cet avis ne peut être rendu public qu'après qu'une décision de non-lieu a été prise ou que le jugement sur
-le fond a été rendu.
-
-La saisine de la commission reste confidentielle jusqu'à ce que la commission ait statué sur le fond ou classé sans suite,
-sauf si celle-ci applique, par décision motivée, les mesures prévues au troisième alinéa de l'article L. 224-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-660 du 21 juillet 1983 - art. 15 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 62
-
-	**Cite**:
-
-	  - Code de la consommation - art. L224-2
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L534-6, v. 1.0 (V)
-
-	**Cité par**:
-
-	  - Code de la consommation - art. R224-7 (VT)
-
-
-###### Article L224-4
-
-La commission peut se faire communiquer tous les renseignements ou consulter sur place tous les documents qu'elle estime
-utiles à l'accomplissement de sa mission, sans que puissent lui être opposées les dispositions des articles 226-13 et 226-14
-du code pénal et L. 152-7 du code du travail.
-
-Le président peut, par décision motivée, procéder ou faire procéder par les membres ou les agents de la commission à la
-convocation ou à l'audition de toute personne susceptible de lui fournir des informations concernant des affaires dont la
-commission est saisie. Toute personne convoquée a le droit de se faire assister du conseil de son choix.
-
-Avant de rendre un avis, la commission entend les personnes concernées sauf cas d'urgence. En tout état de cause, elle entend
-les professionnels concernés. Elle consulte, si elle l'estime nécessaire, le ou les organismes scientifiques et techniques
-compétents visés au dernier alinéa de l'article L. 221-7.
-
-Lorsque, pour l'exercice de sa mission, la commission doit prendre connaissance d'informations relevant du secret de
-fabrication, elle désigne en son sein un rapporteur. Celui-ci se fait communiquer tous les documents utiles et porte à la
-connaissance de la commission les éléments relatifs au caractère dangereux des produits ou des services.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-660 du 21 juillet 1983 - art. 16 (MMN)
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 314 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Abrogé par**:
-
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
-
-	**Cite**:
-
-	  - Code de la consommation - art. L221-7
-	  - Code pénal - art. 226-13
-	  - Code pénal - art. 226-14
-
-	**Cité par**:
-
-	  - Code de la consommation - art. R224-7 (VT)
-
-
-###### Article L224-5
-
-La commission établit chaque année un rapport de son activité. Ce rapport est présenté au Président de la République et au
-Parlement. Il est publié au Journal officiel. Les avis de la commission sont annexés à ce rapport ainsi que les suites
-données à ces avis.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-660 du 21 juillet 1983 - art. 17 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Abrogé par**:
-
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
-
-
-###### Article L224-6
-
-Les membres et les agents de la commission sont astreints au secret professionnel pour les faits, actes et renseignements
-dont ils ont pu avoir connaissance en raison de leurs fonctions, dans les conditions et sous les peines prévues à l'article
-226-13 du code pénal ou de l'article L. 621-1 du code de propriété intellectuelle en cas de divulgation d'informations
-relevant du secret de fabrication.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-660 du 21 juillet 1983 - art. 18 (MMN)
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Abrogé par**:
-
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
-
-	**Cite**:
-
-	  - Code pénal
-	  - Code pénal - art. 226-13
 
 
 #### Chapitre V : Dispositions diverses
@@ -16557,7 +16235,7 @@ physique ou morale relevant soit des dispositions du chapitre Ier relatif au cr�
 du chapitre II relatif au crédit immobilier du présent titre et garanties par une hypothèque rechargeable au sens de
 l'article 2422 du code civil.
 
-Les opérations mentionnées à l'article L. 311-9 ne peuvent donner lieu à un crédit garanti par une hypothèque rechargeable.
+Les opérations mentionnées à l'article L. 311-16 ne peuvent donner lieu à un crédit garanti par une hypothèque rechargeable.
 
 **Liens relatifs à cet article**
 
@@ -16565,24 +16243,24 @@ Les opérations mentionnées à l'article L. 311-9 ne peuvent donner lieu à un 
 
 	  - Loi n°78-22 du 10 janvier 1978 - art. 26 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 59
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 40 () JORF 24 mars 2006
+	  - Loi n°2014-344 du 17 mars 2014 - art. 46 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L311-9 (M)
-	  - Code civil - art. 2422 (V)
+	  - Code de la consommation - art. L311-9
+	  - Code civil - art. 2422
 
 
 ###### Article L313-14-1
 
-Est annexé à l'offre préalable de crédit un document intitulé "situation hypothécaire" dont un exemplaire est remis à
-l'emprunteur dans les mêmes conditions que le contrat de crédit lui-même.
+Est annexé au contrat de crédit un document intitulé "situation hypothécaire" dont un exemplaire est remis à l'emprunteur
+dans les mêmes conditions que le contrat de crédit lui-même.
 
 Ce document comporte :
 
@@ -16601,27 +16279,27 @@ d'hypothèque ;
 
 7° Une évaluation par le prêteur du coût total de l'hypothèque ;
 
-8° La mention que, sans préjudice de l'application des articles L. 311-30 et L. 311-32, s'il s'agit d'un crédit à la
+8° La mention que, sans préjudice de l'application des articles L. 311-23 et L. 311-24, s'il s'agit d'un crédit à la
 consommation, ou des articles L. 312-22 et L. 312-23, s'il s'agit d'un crédit immobilier, la défaillance de l'emprunteur peut
 entraîner la vente du bien hypothéqué selon les dispositions des articles 2464 et suivants du code civil.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 59
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 40 () JORF 24 mars 2006
+	  - Loi n°2014-344 du 17 mars 2014 - art. 46 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L311-30 (V)
-	  - Code de la consommation - art. L311-32 (M)
-	  - Code de la consommation - art. L312-22 (V)
-	  - Code de la consommation - art. L312-23 (V)
-	  - Code civil - art. 2464 (M)
+	  - Code de la consommation - art. L311-30
+	  - Code de la consommation - art. L311-32
+	  - Code de la consommation - art. L312-22
+	  - Code de la consommation - art. L312-23
+	  - Code civil - art. 2464
 
 	**Cité par**:
 
@@ -20465,22 +20143,359 @@ cause ou, à défaut, du lieu de la première infraction.
 L'Institut national de la consommation, établissement public national, est un centre de recherche, d'information et d'étude
 sur les problèmes de la consommation.
 
-Un décret en Conseil d'Etat fixera les conditions d'application du présent article, et notamment les modalités d'organisation
-et de fonctionnement de l'établissement public.
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L822-1 (V)
+
+
+###### Article L531-2
+
+L'Institut national de la consommation établit chaque année un rapport d'activité dans lequel figurent, le cas échéant, les
+propositions de modifications législatives ou réglementaires proposées par les commissions mentionnées aux articles L. 534-1,
+L. 534-4 et L. 534-7. Les avis des commissions sont annexés au rapport ainsi que les suites données à ces avis. Ce rapport
+est présenté au Président de la République et au Parlement. Il est rendu public.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Loi n°66-948 du 22 décembre 1966 - art. 22, v. init.
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-3 (V)
+
+
+###### Article L531-3
+
+L'Institut national de la consommation et les commissions mentionnées aux articles L. 534-1, L. 534-4 et L. 534-7 disposent
+de services communs dirigés par un directeur général.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R534-17 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-12 (V)
+
+
+###### Article L531-4
+
+Un décret en Conseil d'Etat précise les modalités d'organisation et de fonctionnement de l'établissement public et des
+commissions mentionnées respectivement à l'article L. 531-1 et aux articles L. 534-1, L. 534-4 et L. 534-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+
+	**Cité par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L822-3 (V)
+
+
+#### Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation
+
+###### Article L534-1
+
+La commission des clauses abusives, placée auprès du ministre chargé de la consommation, connaît des modèles de conventions
+habituellement proposés par les professionnels à leurs contractants non professionnels ou consommateurs. Elle est chargée de
+rechercher si ces documents contiennent des clauses qui pourraient présenter un caractère abusif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L132-1 (VT)
+	  - Code de la consommation - art. L534-10 (VT)
+	  - Code de la consommation - art. L534-8 (VT)
+	  - Code de la consommation - art. L534-9 (VT)
+	  - Code de la consommation - art. R531-4 (Ab)
+	  - Code de la consommation - art. R531-9 (Ab)
+	  - Code de la consommation - art. R534-1 (Ab)
+	  - Code de la consommation - art. R534-13 (Ab)
+	  - Code de la consommation - art. R534-14 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L132-2 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L822-4 (V)
+
+
+###### Article L534-2
+
+Elle peut être saisie à cet effet soit par le ministre chargé de la consommation, soit par les associations agréées de
+défense des consommateurs, soit par les professionnels intéressés. Elle peut également se saisir d'office.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L132-3 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L822-5 (V)
+
+
+###### Article L534-3
+
+La commission recommande la suppression ou la modification des clauses qui présentent un caractère abusif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L132-4 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L822-6 (V)
+
+
+###### Article L534-4
+
+La commission de la sécurité des consommateurs est composée d'un président nommé par décret en conseil des ministres, de
+membres des juridictions de l'ordre administratif ou judiciaire. Elle comprend en outre des personnes appartenant aux
+organisations professionnelles, aux associations nationales de consommateurs et des experts. Ces personnes et experts sont
+désignés par le ministre chargé de la consommation après avis des ministres intéressés et sont choisis en raison de leurs
+compétences en matière de prévention des risques.
+
+Un commissaire du Gouvernement désigné par le ministre chargé de la consommation siège auprès de la commission. Il peut, dans
+les quatre jours d'une délibération de la commission, provoquer une seconde délibération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L221-3 (VT)
+	  - Code de la consommation - art. L534-10 (VT)
+	  - Code de la consommation - art. L534-8 (VT)
+	  - Code de la consommation - art. L534-9 (VT)
+	  - Code de la consommation - art. R531-4 (Ab)
+	  - Code de la consommation - art. R531-9 (Ab)
+	  - Code de la consommation - art. R534-13 (Ab)
+	  - Code de la consommation - art. R534-15 (Ab)
+	  - Code de la consommation - art. R534-16 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L224-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-22 (V)
+	  - Code de la consommation - art. R822-23 (M)
+	  - Code de la consommation - art. R822-25 (V)
+
+
+###### Article L534-5
+
+La commission est chargée d'émettre des avis et de proposer toute mesure de nature à améliorer la prévention des risques en
+matière de sécurité des produits ou des services.
+
+Elle recherche et recense les informations de toutes origines sur les dangers présentés par les produits et services. A ce
+titre, elle est informée sans délai de toute décision prise en application des articles L. 221-5, L. 221-7 et L. 223-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L822-7 (Ab)
+
+
+###### Article L534-6
+
+La commission peut être saisie par toute personne physique ou morale. Si elle estime que les faits invoqués ne sont pas
+appuyés d'éléments suffisamment probants, elle peut conclure par décision motivée qu'il n'y a pas lieu, en l'état, d'y donner
+suite. Elle notifie sa décision à l'auteur de la saisine.
+
+La commission peut se saisir d'office.
+
+Les autorités judiciaires compétentes peuvent, en tout état de la procédure, demander l'avis de la commission de la sécurité
+des consommateurs. Cet avis ne peut être rendu public qu'après qu'une décision de non-lieu a été prise ou que le jugement sur
+le fond a été rendu.
+
+La saisine de la commission reste confidentielle jusqu'à ce que la commission ait statué sur le fond ou classé sans suite,
+sauf si celle-ci fait usage, par décision motivée, de la faculté qui lui a été donnée par l'article L. 534-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L822-8 (Ab)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R534-8 (Ab)
+
+
+###### Article L534-7
+
+La commission de la médiation de la consommation est chargée d'émettre des avis et de proposer des mesures de toute nature
+pour évaluer, améliorer et diffuser les pratiques de médiation non judiciaires en matière de consommation. Elle n'est
+toutefois pas compétente pour les activités mentionnées aux articles L. 133-25, L. 315-1, L. 615-2 et L. 621-19 du code
+monétaire et financier et à l'article L. 112-2 du code des assurances.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R531-4 (Ab)
+	  - Code de la consommation - art. R531-9 (Ab)
+	  - Code de la consommation - art. R534-11 (Ab)
+	  - Code de la consommation - art. R534-13 (Ab)
+
+
+###### Article L534-8
+
+Les commissions mentionnées aux articles L. 534-1, L. 534-4 et L. 534-7 assurent la diffusion des informations, avis et
+recommandations qu'elles estiment nécessaires de porter à la connaissance du public. Les informations, avis et
+recommandations diffusés par la commission mentionnée à l'article L. 534-1 ne peuvent contenir aucune indication de nature à
+permettre l'identification de situations individuelles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+
+
+###### Article L534-9
+
+Les commissions mentionnées aux articles L. 534-1, L. 534-4 et L. 534-7 peuvent se faire communiquer tous les renseignements
+ou consulter sur place tous les documents qu'elles estiment utiles à l'accomplissement de leurs missions respectives, sans
+que puissent leur être opposés les articles 226-13 et 226-14 du code pénal et L. 1227-1 du code du travail. 
+
+Les présidents de ces commissions peuvent, par décision motivée, procéder ou faire procéder par les membres des commissions
+ou les agents de l'Institut national de la consommation désignés par le directeur général de celui-ci à la convocation ou à
+l'audition de toute personne susceptible de leur fournir des informations concernant des affaires dont ces commissions sont
+saisies. Toute personne convoquée a le droit de se faire assister du conseil de son choix. 
+
+Avant de rendre des avis, les commissions entendent les personnes concernées, sauf cas d'urgence. En tout état de cause,
+elles entendent les professionnels concernés. Elles procèdent aux consultations nécessaires. 
+
+Lorsque, pour l'exercice de ses missions, l'une de ces commissions doit prendre connaissance d'informations relevant du
+secret de fabrication ou d'affaires, elle désigne en son sein un rapporteur. Celui-ci se fait communiquer tous les documents
+utiles et porte à la connaissance de la commission les informations obtenues.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R534-8 (Ab)
+
+
+###### Article L534-10
+
+Les membres et le personnel des commissions mentionnées aux articles L. 534-1, L. 534-4 et L. 534-7 sont astreints au secret
+professionnel pour les faits, actes et renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions, dans
+les conditions et sous les peines prévues à l'article 226-13 du code pénal ou à l'article L. 621-1 du code de la propriété
+intellectuelle en cas de divulgation d'informations relevant du secret de fabrication ou d'affaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R534-17 (Ab)
+	  - Code de la consommation - art. R534-5 (Ab)
 
 
 ### Titre VI : Le laboratoire d'essais
