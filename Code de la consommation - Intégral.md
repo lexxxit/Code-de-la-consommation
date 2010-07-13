@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-07-03 00:00:01 +0200
+Version Consolidée au 2010-07-14
 
 # Partie législative
 
@@ -334,6 +334,41 @@ L'utilisation de la dénomination "montagne" pour les produits à appellation d'
 	**Cite**:
 
 	  - Code rural - art. L641-16 (V)
+
+
+###### Article L112-10
+
+A partir du 1er juillet 2011, et après concertation avec l'ensemble des acteurs des filières concernées, une expérimentation
+est menée, pour une durée minimale d'une année, afin d'informer progressivement le consommateur par tout procédé approprié du
+contenu en équivalent carbone des produits et de leur emballage, ainsi que de la consommation de ressources naturelles ou de
+l'impact sur les milieux naturels qui sont imputables à ces produits au cours de leur cycle de vie.
+
+Cette expérimentation fait l'objet d'un bilan transmis au Parlement évaluant l'opportunité d'une généralisation de ce
+dispositif.
+
+Sur la base de ce bilan, le cas échéant, un décret en Conseil d'Etat fixe les modalités de généralisation du dispositif. Il
+précise, en tenant compte de la spécificité des très petites entreprises à remplir l'objectif demandé, la nature de
+l'information à apporter, les supports de l'information, les responsabilités respectives des acteurs économiques, les
+modalités d'enregistrement des données et les modalités d'accès aux données scientifiques fondant cette information, ainsi
+que les catégories de produits visées par cette obligation.
+
+Des décrets en Conseil d'Etat précisent, sur la base des règles ainsi définies, pour chaque catégorie de produits, la nature
+des informations pertinentes selon leur mode de distribution, les supports d'information ainsi que les référentiels à
+utiliser.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 228 (V)
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 33 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
 #### Chapitre III : Prix et conditions de vente
@@ -788,27 +823,36 @@ réfèrent, toute indication pouvant provoquer une confusion sur l'origine des p
 
 ###### Article L115-4
 
-Le décret prévu à l'article L. 115-2 est pris après enquête publique comportant la consultation des groupements
-professionnels directement intéressés. Un décret en Conseil d'Etat fixe les modalités de cette enquête.
+Le décret prévu à l'article L. 115-2 est pris après enquête publique réalisée conformément au code de l'expropriation pour
+cause d'utilité publique et consultation des groupements professionnels directement intéressés.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1919-05-06 art. 7-3
 	  - Loi n°1919-05-06 du 6 mai 1919 - art. 7-3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 242
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L115-2 (V)
+	  - Code de la consommation - art. L115-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L431-4 (V)
 
 
 ###### Article L115-5
@@ -2879,6 +2923,27 @@ Les infractions aux dispositions des articles L. 121-15-1 et L. 121-15-2 sont pa
 	  - Code de la consommation - art. L121-6 (V)
 
 
+###### Article L121-15-4
+
+Lorsque des publicités, quel que soit leur support, présentent des produits soumis à l'étiquetage énergétique communautaire
+en indiquant leur prix de vente, elles comportent la mention de la classe énergétique de ces produits de façon aussi visible,
+lisible et intelligible que l'indication de leur prix de vente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 228 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L122-11 (V)
+
+
 ##### Section 2 : Ventes de biens et fournitures de prestations de services à distance
 
 ##### Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers
@@ -4423,7 +4488,18 @@ Est interdite toute vente ou offre de vente de produits ou de biens ou toute pre
 faite aux consommateurs et donnant droit, à titre gratuit, immédiatement ou à terme, à une prime consistant en produits,
 biens ou services sauf s'ils sont identiques à ceux qui font l'objet de la vente ou de la prestation. 
 
-Cette disposition ne s'applique pas aux menus objets ou services de faible valeur ni aux échantillons. 
+Cette disposition ne s'applique pas aux menus objets ou services de faible valeur ni aux échantillons. Dans  le cas où ces
+menus objets sont distribués dans le but de satisfaire à  des exigences environnementales, ils doivent être entièrement
+recyclables qu'il s'agisse de carton recyclable ignifugé ou d'encres  alimentaires et d'une valeur inférieure à 7 % du prix
+de vente net,  toutes taxes comprises, du produit faisant l'objet de la vente. Si  celui-ci appartient à la catégorie de
+produits et ingrédients tels que  définis à l'article L. 3511-1 du  code de la santé publique,  les menus objets ne doivent
+comporter aucune référence, graphisme,  présentation ou tout autre signe distinctif qui rappelle un produit ou  un ingrédient
+tel que défini au même article L. 3511-1. Dans ce cas, les  avertissements sanitaires relatifs aux dangers du tabac doivent
+être  mentionnés. Les références de la personne intéressée à l'opération de  publicité, la dénomination de la marque, du
+sigle ou logo, peuvent être  apposées sur les menus objets pour autant qu'elles respectent les  dispositions restreignant ou
+encadrant la publicité concernant l'alcool,  le tabac et les jeux ou paris en ligne, notamment prévues aux articles L.
+3511-3, L.  3511-4 et L. 3323-2 à L. 3323-5 du code de la santé publique. Les modalités d'apposition des  références sont
+définies par décret. 
 
 Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2. 
 
@@ -4438,7 +4514,7 @@ dépôt sont fixées par le 2 du I de l'article L. 312-1-2 du code monétaire et
 
 	**Modifié par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 59
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 257
 
 	**Cité par**:
 
@@ -8973,11 +9049,17 @@ animale ;
 8° Les conditions matérielles dans lesquelles les indications, visées au dernier alinéa de l'article L. 213-4, devront être
 portées à la connaissance des acheteurs sur les étiquettes, annonces, réclames, papiers de commerce ; 
 
-Les décrets prévus au présent article sont pris après avis de l'      Agence nationale chargée de la sécurité sanitaire de
-l'alimentation, de l'environnement et du travail  lorsqu'ils portent sur des produits entrant dans son champ de compétence ou
+Les décrets prévus au présent article sont pris après avis de l'Agence nationale chargée de la sécurité sanitaire de
+l'alimentation, de l'environnement et du travail lorsqu'ils portent sur des produits entrant dans son champ de compétence ou
 qu'ils comportent des dispositions visant à prévenir des risques sanitaires ou nutritionnels. Ces avis sont rendus publics. 
 
-9° La traçabilité des marchandises.
+9° La traçabilité des marchandises. 
+
+10° Les exigences de précision, de vérification et de prise en compte des éléments significatifs du cycle de vie des produits
+dans l'élaboration des allégations à caractère environnemental ou utilisant les termes de développement durable ou ses
+synonymes, lorsque ces allégations sont présentées sur les produits destinés à la vente aux consommateurs ou accompagnent
+leur commercialisation sous forme de mentions sur les emballages, les publications, la publicité, la télémercatique ou
+d'insertions sur supports numériques ou électroniques.
 
 **Nota:**
 
@@ -9264,11 +9346,11 @@ qu'ils comportent des dispositions visant à prévenir des risques sanitaires ou
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-18 du 7 janvier 2010 - art. 3
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 228 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L213-4
+	  - Code de la consommation - art. L213-4 (V)
 
 
 ###### Article L214-2
