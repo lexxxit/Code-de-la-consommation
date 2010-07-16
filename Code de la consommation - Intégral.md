@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-07-14
+Version Consolidée au 2010-07-17
 
 # Partie législative
 
@@ -23509,26 +23509,29 @@ la consommation ;
 
 Un vice-président, nommé au titre du 2°, est désigné.
 
+Le directeur général de l'Institut national de la consommation ou son représentant peut participer aux séances de la
+Commission des clauses abusives. Il ne prend pas part aux votes sur les recommandations et avis.
+
 La fonction de commissaire du Gouvernement est exercée par le directeur général de la concurrence, de la consommation et de
 la répression des fraudes ou son représentant.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°93-314 1993-03-10 art. 1
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 12
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 3
 
 	**Cite**:
 
-	  - Code de la consommation - art. L132-2 (V)
+	  - Code de la consommation - art. L132-2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R534-1 (VD)
 
 
 ###### Article R132-4
@@ -25998,24 +26001,23 @@ travailleurs salariés, la cinquième proposée par le conseil d'administration 
 et la sixième, composée de médecins compétents en matière d'aide médicale urgente, proposée par le président du Conseil
 national de l'ordre des médecins.
 
-**Nota:**
-
-Décret 2006-1675 2006-12-22 art. 5 : Les dispositions de l'article 1er entrent en vigueur à compter du 14 mars 2007, date de
-l'élection du président du Haut Conseil de la santé publique.
+Le directeur général de l'Institut national de la consommation ou son représentant peut participer aux séances de la
+Commission de la sécurité des consommateurs. Il ne prend pas part aux votes sur les avis. Il est, ainsi que son représentant,
+astreint aux règles de secret définies à l'article L. 224-6.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°84-270 du 11 avril 1984 - art. 1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
 	**Modifié par**:
 
-	  - Décret n°2006-1675 du 22 décembre 2006 - art. 1 () JORF 27 décembre 2006 en vigueur le 14 mars 2007
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R534-5 (VD)
 
 
 ###### Article R224-2
@@ -33255,6 +33257,118 @@ l'association.
 	  - Code de la consommation - art. R622-10 (V)
 
 
+### Titre III : Reconnaissance spécifique des associations
+
+###### Article R431-1
+
+La reconnaissance spécifique est accordée, pour une durée de trois ans, à l'association qui en fait la demande, par arrêté du
+ministre chargé de la consommation, lorsqu'elle remplit les conditions suivantes : 
+
+1° Etre titulaire de l'agrément prévu au premier alinéa de l'article R. 411-2 ; 
+
+2° Démontrer avoir une expérience, une organisation et des ressources humaines lui donnant une capacité effective à
+renseigner les consommateurs ou à les défendre dans tous les secteurs d'activité suivants : produits alimentaires,
+habillement, logement, énergie, ameublement et équipement ménager, santé, transports, communications, autres biens et
+services ; 
+
+3° Justifier avoir exercé au cours de la dernière année civile, dans quarante départements, directement ou à travers les
+associations locales, départementales ou régionales qui leur sont affiliées, une activité d'accueil des consommateurs,
+d'expertise et de règlement amiable des litiges en matière de consommation dans une ou plusieurs permanences départementales
+ou locales ouvertes à cet effet à tous publics au moins huit heures par semaine ; 
+
+4° Avoir inscrit à son compte de résultat au cours de la dernière année civile un produit de cotisations provenant
+d'adhérents, personnes physiques ou morales, excédant 1, 5 fois le montant prévu à l'article D. 612-5 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 14 mars 2005 - art. 2 (V)
+	  - Arrêté du 15 mai 2007 - art. 10 (Ab)
+	  - Arrêté du 15 mai 2007 - art. 12 (Ab)
+	  - Arrêté du 15 mai 2007 - art. 2 (Ab)
+	  - Arrêté du 15 mai 2007 - art. 4 (Ab)
+	  - Arrêté du 15 mai 2007 - art. 6 (Ab)
+	  - Arrêté du 15 mai 2007 - art. 8 (Ab)
+	  - Code de la consommation - art. D511-11 (Ab)
+	  - Code de la consommation - art. R431-2 (Ab)
+	  - Code de la consommation - art. R431-3 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de commerce - art. D612-5
+	  - Code de la consommation - art. R411-2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R812-1 (V)
+
+
+###### Article R431-2
+
+La composition du dossier et les modalités d'instruction des demandes de reconnaissance spécifique sont fixées par arrêté du
+ministre chargé de la consommation. 
+
+La décision est notifiée à l'association dans un délai maximum de quatre mois. Passé ce délai, la reconnaissance spécifique
+est réputée accordée. La décision de rejet de la demande est motivée. 
+
+La reconnaissance spécifique peut être retirée par arrêté du ministre chargé de la consommation avant l'expiration de la
+période de trois ans mentionnée à l'article R. 431-1 si l'association cesse de remplir l'une des conditions énumérées à cet
+article. L'association est mise à même de présenter ses observations dans un délai raisonnable. L'arrêté de retrait de la
+reconnaissance spécifique est motivé et notifié à l'association concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R431-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R812-2 (V)
+
+
+###### Article R431-3
+
+La liste des associations de défense des consommateurs bénéficiant de la reconnaissance spécifique prévue à l'article R.
+431-1 est mise à jour et tenue à la disposition du public sur un site internet relevant du ministre chargé de la
+consommation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R431-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R812-3 (V)
+
+
 ## Livre V : Les institutions
 
 ### Titre Ier : Les organes de concertation.
@@ -33329,13 +33443,12 @@ de la consommation).
 Les pouvoirs publics consultent, en tant que de besoin, le Conseil national de la consommation sur les grandes orientations
 de leur politique qui concernent les consommateurs et les usagers et en particulier à l'occasion des discussions
 communautaires ayant une incidence sur le droit français de la consommation. Les conditions d'étude de ces dossiers sont
-définies dans l'arrêté portant règlement intérieur du Conseil national de la consommation.
+définies dans l'arrêté portant règlement intérieur du Conseil national de la consommation. 
 
-Le Conseil national de la consommation comporte des collèges ayant voix délibérative qui émettent, ensemble ou séparément, de
-leur propre initiative ou à la demande du ministre chargé de la consommation, des avis sur les questions intéressant la
-consommation de biens et de services publics ou privés, sur les projets ou propositions de lois et règlements susceptibles
-d'avoir une incidence sur la consommation ainsi que sur les conditions d'application de ces textes, y compris sur les textes
-pris en application de l'article L. 410-2 du code de commerce et de l'article L. 113-3 du présent code.
+Les avis du Conseil national de la consommation portent sur les questions intéressant la consommation de biens et de services
+publics ou privés, sur les projets ou propositions de lois et règlements susceptibles d'avoir une incidence sur la
+consommation ainsi que sur les conditions d'application de ces textes, y compris sur les textes pris en application de
+l'article L. 410-2 du code de commerce et de l'article L. 113-3 du présent code.
 
 **Nota:**
 
@@ -33347,21 +33460,28 @@ de la consommation).
 
 	**Anciens textes**:
 
-	  - Décret n°83-642 du 12 juillet 1983 - art. 3 (M)
 	  - Décret n°83-642 du 12 juillet 1983 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
 	**Modifié par**:
 
-	  - Décret n°2005-249 du 14 mars 2005 - art. 1 () JORF 18 mars 2005
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de commerce. - art. L410-2 (V)
-	  - Code de la consommation - art. L113-3 (M)
+	  - Code de commerce - art. L410-2
+	  - Code de la consommation - art. L113-3
+
+	**Cité par**:
+
+	  - Code de la consommation - art. D511-14 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. D821-3 (V)
 
 
 ###### Article D511-4
@@ -33443,8 +33563,8 @@ de la consommation).
 Le Conseil national de la consommation est composé :
 
 1° D'un collège de consommateurs et usagers dont les membres sont nommés pour une durée de trois ans, sur proposition de
-chacune des organisations de consommateurs agréées au niveau national pour ester en justice, par arrêté du ministre chargé de
-la consommation.
+chacune des associations de défense des consommateurs agréées au niveau national pour ester en justice, par arrêté du
+ministre chargé de la consommation.
 
 2° D'un collège de professionnels représentant les activités agricoles, industrielles, artisanales, commerciales et de
 services publics et privés, dont les membres sont nommés pour une durée de trois ans, après avis des ministres intéressés,
@@ -33462,13 +33582,9 @@ de la consommation).
 
 	  - Décret n°83-642 du 12 juillet 1983 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 3
 
 	**Cité par**:
 
@@ -33615,29 +33731,28 @@ de la consommation).
 
 ###### Article D511-11
 
-Il est constitué un bureau du Conseil national de la consommation ; ce bureau est composé de membres délégués par chacun des
-collèges des consommateurs et usagers et des professionnels.
+Il est constitué un bureau du Conseil national de la consommation composé à parité de sept membres délégués par le collège
+des professionnels et de sept membres délégués par le collège des consommateurs et usagers. 
 
-Les réunions du bureau sont présidées par le ministre chargé de la consommation ou son représentant.
+Font partie des membres du collège des consommateurs et usagers délégués à ce bureau les membres titulaires du collège des
+consommateurs et usagers qui ont été nommés dans ce collège dans les conditions prévues à l'article R. 511-6, sur proposition
+d'une association de défense des consommateurs bénéficiant de la reconnaissance spécifique prévue à l'article R. 431-1. Si le
+nombre de ces associations est inférieur à sept, le collège des consommateurs du bureau est complété, dans les mêmes
+conditions, sur proposition des autres associations de défense des consommateurs agréées au niveau national. 
 
-Un arrêté du ministre chargé de la consommation fixe les attributions du bureau, ses conditions de constitution et de
-fonctionnement.
+Des membres suppléants sont nommés dans les mêmes conditions que les titulaires et en nombre égal. Le membre suppléant
+remplace de plein droit le titulaire absent ou empêché. 
 
-**Nota:**
+Les réunions du bureau sont présidées par le ministre chargé de la consommation ou son représentant. 
 
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
-de la consommation).
+Un arrêté du ministre chargé de la consommation précise les règles de composition, de fonctionnement et les attributions du
+bureau.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°83-642 du 12 juillet 1983 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
 	**Liens**:
 
@@ -33646,11 +33761,37 @@ de la consommation).
 
 	**Modifié par**:
 
-	  - Décret n°2005-249 du 14 mars 2005 - art. 4 () JORF 18 mars 2005
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 4
 
 	**Cité par**:
 
 	  - Code de la consommation - art. D511-9 (Ab)
+
+	**Cite**:
+
+	  - Code de la consommation - art. R431-1
+
+
+###### Article D511-11-1
+
+La formation plénière du Conseil national de la consommation est composée de tous les membres du collège des consommateurs et
+usagers et du collège des professionnels du conseil mentionnés à l'article D. 511-6, ainsi que des participants de droit
+prévus aux articles D. 511-7 et D. 511-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2015-23 du 12 janvier 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la consommation - art. D511-6
+	  - Code de la consommation - art. D511-7
 
 
 ##### Section 3 : Fonctionnement.
@@ -33735,14 +33876,20 @@ de la consommation).
 
 ###### Article D511-14
 
-En séance plénière, chaque collège vote séparément et par un vote global sur les travaux du Conseil national de la
-consommation réalisés au cours de l'année et validés par le bureau.
+Le président du Conseil national de la consommation soumet à la formation plénière du conseil les projets d'avis définis à
+l'article D. 511-3, notamment en organisant une procédure de consultation écrite. 
+
+Toutefois, il ne soumet qu'au bureau les projets d'avis qui émanent d'un groupe de travail constitué au sein de ce conseil. 
+
+Les avis sont adoptés à la majorité des membres présents de chacun des deux collèges, les votes étant décomptés séparément
+par collèges. 
+
+De sa propre initiative ou à la demande du ministre, l'un des deux collèges peut, à la majorité de ses membres présents,
+adopter une opinion portant sur une question relevant de sa compétence.
 
 **Nota:**
 
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
-de la consommation).
+
 
 **Liens relatifs à cet article**
 
@@ -33750,13 +33897,21 @@ de la consommation).
 
 	  - Décret n°83-642 du 12 juillet 1983 - art. 14 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
 	**Modifié par**:
 
-	  - Décret n°2005-249 du 14 mars 2005 - art. 6 () JORF 18 mars 2005
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 6
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. D511-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. D821-14 (V)
 
 
 ###### Article D511-15
@@ -34135,37 +34290,48 @@ a) Fournir un appui technique aux organisations de consommateurs ;
 
 b) Regrouper, produire, analyser et diffuser des informations, études, enquêtes et essais ;
 
-c) Mettre en oeuvre des actions de formation et d'éducation sur les questions de consommation.
+c) Mettre en œuvre des actions et des campagnes d'information, de communication, de prévention, de formation et d'éducation
+sur les questions de consommation à destination du grand public, ainsi que des publics professionnels ou associatifs
+concernés.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
 	**Modifié par**:
 
-	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 7
 
 
 ###### Article R531-3
 
 Pour l'accomplissement des missions mentionnées à l'article R. 531-2, l'Institut national de la consommation :
 
-1. A l'égard des organisations de consommateurs :
+1. A l'égard des associations de défense des consommateurs agréées au plan national :
 
-a) Effectue et fournit des prestations d'appui technique aux organisations de consommateurs, telles que la réalisation
-d'études juridiques, économiques et techniques, de dossiers pédagogiques et documentaires, de dossiers de synthèse et
-d'analyse préparatoires aux travaux du Conseil national de la consommation, d'actions de formation, d'essais comparatifs,
-d'émissions télévisées, de publications spécialisées. Il assure un accès aux bases de données de l'établissement.
+a) Effectue et fournit des prestations d'appui technique aux associations de défense des consommateurs agréées au plan
+national, telles que la réalisation d'études juridiques, économiques et techniques, de dossiers pédagogiques et
+documentaires, de dossiers de synthèse et d'analyse préparatoires aux travaux du Conseil national de la consommation,
+d'actions de formation, d'essais comparatifs, d'émissions télévisées, de publications spécialisées. Il assure un accès aux
+bases de données de l'établissement.
 
-Le cahier des charges annuel des prestations de l'appui technique aux organisations de consommateurs est élaboré par une
-commission créée à cet effet et qui veille à son exécution. Cette commission est composée d'un représentant de chacune des
-organisations de consommateurs agréées au plan national, ainsi que du directeur de l'établissement. Le commissaire du
-Gouvernement et le membre du corps du contrôle général économique et financier assistent de droit à ses travaux ;
+Le cahier des charges annuel des prestations de l'appui technique aux associations de défense des consommateurs est élaboré
+par une commission créée à cet effet et qui veille à son exécution. Cette commission est composée d'un représentant de
+chacune des organisations de consommateurs agréées au plan national, ainsi que du directeur général de l'établissement. Le
+commissaire du Gouvernement ou son représentant et le membre du corps du contrôle général économique et financier assistent
+de droit à ses travaux ;
 
-b) Fournit aux organisations de consommateurs des prestations dont la nature et le contenu sont définis par des conventions
-négociées entre l'établissement et une ou plusieurs organisations de consommateurs ;
+b) Assure un financement et fournit des prestations d'appui technique aux centres techniques régionaux de la consommation ou
+aux structures régionales ou interrégionales assimilées dans le cadre de conventions de mutualisation permettant la mise en
+commun avec ces centres ou ces structures de ressources matérielles, intellectuelles et humaines. Un arrêté du ministre
+chargé de la consommation définit les conditions et les modalités d'application du présent alinéa. 
+
+Dans les limites prévues par l'état prévisionnel des recettes et de ses dépenses, le directeur général de l'Institut national
+de la consommation détermine les montants des aides financières allouées aux centres techniques régionaux de la consommation
+ou aux structures régionales ou interrégionales assimilées devant être inscrits dans ces conventions ou résultant de la mise
+en œuvre des dispositions de celles-ci.A cet effet, il recueille préalablement l'avis d'un comité d'évaluation créé dans des
+conditions et selon les modalités fixées par l'arrêté prévu à l'alinéa précédent. 
+
+Le directeur général de l'Institut national de la consommation est l'ordonnateur des subventions allouées aux centres
+techniques régionaux de la consommation ou aux structures régionales ou interrégionales assimilées.
 
 c) Recueille des informations sur les questions impliquant la défense des intérêts des consommateurs, en vue notamment de
 constituer des banques de données.
@@ -34179,9 +34345,9 @@ b) Réalise tout produit, étude, essai comparatif ou service lié à ses missio
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 8
 
 	**Cité par**:
 
@@ -34190,29 +34356,32 @@ b) Réalise tout produit, étude, essai comparatif ou service lié à ses missio
 
 	**Cite**:
 
-	  - Code de la consommation R531-2
-
-	**Modifié par**:
-
-	  - Décret n°2005-436 2005-05-05 art. 19 JORF 10 mai 2005
+	  - Code de la consommation
 
 
 ###### Article R531-4
 
-L'Institut national de la consommation est administré par un conseil d'administration composé de seize membres ayant voix
+L'Institut national de la consommation est administré par un conseil d'administration composé de dix-sept membres ayant voix
 délibérative :
 
-1° Sept représentants des consommateurs et usagers désignés par le ministre chargé de la consommation ;
+1° Cinq représentants des consommateurs et usagers désignés par le ministre chargé de la consommation ;
 
-2° Deux représentants de l'Etat, désignés l'un par le ministre chargé de l'économie, l'autre par le ministre chargé de la
+2° Cinq représentants de l'Etat, désignés conjointement par le ministre chargé de l'économie et le ministre chargé de la
 consommation ;
 
 3° Deux représentants élus par le personnel de l'Institut national de la consommation, dans les conditions prévues par la loi
 n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public ;
 
-4° Cinq personnalités qualifiées désignées par le ministre chargé de la consommation en raison de leur compétence.
+4° Le président de la Commission de la sécurité des consommateurs, le président de la Commission des clauses abusives, ainsi
+qu'un représentant du collège des professionnels du Conseil national de la consommation, un ingénieur des corps de l'Etat et
+un magistrat désignés par le ministre chargé de la consommation ;
 
 Les membres sont nommés par arrêté du ministre chargé de la consommation pour un mandat de trois ans, renouvelable une fois.
+
+Il peut être mis fin, par arrêté du ministre chargé de la consommation, au mandat de tout membre qui, sans raison légitime,
+n'a pas participé à trois séances consécutives du conseil d'administration. Cette disposition n'est toutefois pas applicable
+aux membres du conseil d'administration désignés en raison de leur fonction de président de l'une des commissions prévues à
+l'article L. 132-2 et à l'article L. 224-1.
 
 En cas de vacance survenant, pour quelque cause que ce soit, plus de six mois avant l'expiration du mandat, un autre membre
 est désigné par le ministre chargé de la consommation pour la durée du mandat restant à courir. Cette durée s'impute sur le
@@ -34222,15 +34391,11 @@ décompte de deux mandats autorisés par l'alinéa précédent, si elle est éga
 
 	**Cite**:
 
-	  - Loi n°83-675 1983-07-26
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Loi n°83-675 du 26 juillet 1983
 
 	**Modifié par**:
 
-	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 9
 
 
 ###### Article R531-5
@@ -34289,7 +34454,7 @@ Le conseil d'administration se réunit au moins trois fois par an, sur convocati
 majorité de ses membres ou du commissaire du Gouvernement.
 
 Le président arrête l'ordre du jour. Il y fait figurer notamment les questions dont l'inscription est demandée par la
-majorité des membres du conseil d'administration, par le directeur ou le commissaire du Gouvernement.
+majorité des membres du conseil d'administration, par le directeur général ou le commissaire du Gouvernement.
 
 En cas d'indisponibilité occasionnelle, un membre du conseil d'administration peut se faire représenter par un autre membre.
 Toutefois, chaque membre ne peut représenter qu'un autre membre au plus. Le conseil d'administration ne peut valablement
@@ -34302,19 +34467,16 @@ président est prépondérante.
 
 Le conseil d'administration peut entendre des experts pour l'examen d'une question figurant à l'ordre du jour.
 
-Le directeur de l'Institut national de la consommation, le commissaire du Gouvernement, le membre du corps du contrôle
-général économique et fiancier et l'agent comptable assistent avec voix consultative aux séances du conseil d'administration.
-Le directeur peut se faire assister par tout collaborateur de son choix. Il peut se faire représenter en cas d'empêchement.
+Le directeur général de l'Institut national de la consommation, le commissaire du Gouvernement, le membre du corps du
+contrôle général économique et fiancier et l'agent comptable assistent avec voix consultative aux séances du conseil
+d'administration. Le directeur général peut se faire assister par tout collaborateur de son choix. Il peut se faire
+représenter en cas d'empêchement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-436 2005-05-05 art. 19 JORF 10 mai 2005
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 10
 
 
 ###### Article R531-8
@@ -34353,23 +34515,19 @@ compte au conseil d'administration à sa plus proche séance ;
 
 13° Les conditions générales de recrutement, d'emploi et de rémunération des personnels ;
 
-14° L'exercice des actions en justice.
+14° L'exercice des actions en justice et les transactions.
 
 Le conseil d'administration élabore son règlement intérieur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la consommation R531-3
-
-	**Modifié par**:
-
-	  - Décret n°2005-436 2005-05-05 art. 19 JORF 10 mai 2005
+	  - Code de la consommation
 
 
 ###### Article R531-9
@@ -34408,10 +34566,10 @@ ministre chargé du budget.
 
 ###### Article R531-10
 
-Le directeur de l'Institut national de la consommation est nommé par décret pris sur le rapport du Premier ministre et du
-ministre chargé de la consommation. Il assure la direction et la gestion de l'établissement.
+Le directeur général de l'Institut national de la consommation est nommé par décret pris sur le rapport du Premier ministre
+et du ministre chargé de la consommation. Il assure la direction et la gestion de l'établissement.
 
-Le directeur :
+Le directeur général :
 
 1° Prépare et exécute les décisions du conseil d'administration ;
 
@@ -34429,32 +34587,24 @@ du conseil d'administration. Il en rend compte au conseil d'administration ;
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 10
 
 
 #### Chapitre II : Organes consultatifs.
 
 ###### Article R532-1
 
-Le conseil d'administration peut créer auprès de lui des comités consultatifs. Le directeur est membre de droit de ces
-comités. Le commissaire du Gouvernement et le membre du corps du contrôle général économique et financier assistent de droit
-à leurs travaux.
+Le conseil d'administration peut créer auprès de lui des comités consultatifs. Le directeur général est membre de droit de
+ces comités. Le commissaire du Gouvernement et le membre du corps du contrôle général économique et financier assistent de
+droit à leurs travaux.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-436 2005-05-05 art. 19 JORF 10 mai 2005
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 10
 
 
 #### Chapitre III : Dispositions financières et comptables.
@@ -34509,22 +34659,26 @@ finances, assure le contrôle de l'établissement, selon les modalités fixées 
 
 ###### Article R533-3
 
-Le directeur de l'Institut national de la consommation peut créer des régies de recettes et de dépenses dans les conditions
-prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances.
+Le directeur général de l'Institut national de la consommation peut créer des régies de recettes et de dépenses dans les
+conditions prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°92-681 1992-07-20
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°92-681 du 20 juillet 1992
 
 	**Modifié par**:
 
-	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
+	  - Décret n°2010-801 du 13 juillet 2010 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-14 (V)
 
 
 ###### Article R533-4
