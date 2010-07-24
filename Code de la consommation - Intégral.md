@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-07-17
+Version Consolidée au 2010-07-25
 
 # Partie législative
 
@@ -11,9 +11,15 @@ Version Consolidée au 2010-07-17
 
 ###### Article L111-1
 
-Tout professionnel vendeur de biens ou prestataire de services doit, avant la conclusion du contrat, mettre le consommateur
-en mesure de connaître les caractéristiques essentielles du bien ou du service. En cas de litige, il appartient au vendeur de
-prouver qu'il a exécuté cette obligation.
+I. - Tout professionnel vendeur de biens doit, avant la conclusion du contrat, mettre le consommateur en mesure de connaître
+les caractéristiques essentielles du bien.
+
+II. - Le fabricant ou l'importateur de biens meubles doit informer le vendeur professionnel de la période pendant laquelle
+les pièces indispensables à l'utilisation des biens seront disponibles sur le marché. Cette information est obligatoirement
+délivrée au consommateur par le vendeur, avant la conclusion du contrat.
+
+III. - En cas de litige portant sur l'application des I et II, il appartient au vendeur de prouver qu'il a exécuté ses
+obligations.
 
 **Liens relatifs à cet article**
 
@@ -32,7 +38,7 @@ prouver qu'il a exécuté cette obligation.
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 21
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 35
 
 	**Cité par**:
 
@@ -52,16 +58,68 @@ prouver qu'il a exécuté cette obligation.
 
 ###### Article L111-2
 
-Le fabricant ou l'importateur de biens meubles doivent informer le vendeur professionnel de la période pendant laquelle les
-pièces indispensables à l'utilisation des biens seront disponibles sur le marché. Cette information est obligatoirement
-délivrée au consommateur par le vendeur, avant la conclusion du contrat. En cas de litige, il appartient au vendeur de
-prouver qu'il a exécuté cette obligation.
+I. - Tout professionnel prestataire de services doit avant la conclusion du contrat et, en tout état de cause, lorsqu'il n'y
+pas de contrat écrit, avant l'exécution de la prestation de services, mettre le consommateur en mesure de connaître les
+caractéristiques essentielles du service.
+
+II. - Le professionnel prestataire de services doit mettre à la disposition du consommateur ou lui communiquer, de manière
+claire et non ambiguë, les informations suivantes :
+
+- nom, statut et forme juridique, adresse géographique de l'établissement, coordonnées permettant d'entrer en contact
+rapidement et de communiquer directement avec lui ;
+
+- le cas échéant, le numéro d'inscription au registre du commerce et des sociétés ou au répertoire des métiers ;
+
+- si son activité est soumise à un régime d'autorisation, le nom et l'adresse de l'autorité l'ayant délivrée ;
+
+- s'il est assujetti à la taxe sur la valeur ajoutée et identifié par un numéro individuel en application de l'article 286
+ter du code général des impôts, son numéro individuel d'identification ;
+
+- s'il est membre d'une profession réglementée, son titre professionnel, l'Etat membre dans lequel il a été octroyé ainsi que
+le nom de l'ordre ou de l'organisme professionnel auprès duquel il est inscrit ;
+
+- les conditions générales, s'il en utilise ;
+
+- le cas échéant, les clauses contractuelles relatives à la législation applicable et la juridiction compétente ;
+
+- le cas échéant, l'existence d'une garantie après-vente non imposée par la loi ;
+
+- l'éventuelle garantie financière ou assurance de responsabilité professionnelle souscrite par lui, les coordonnées de
+l'assureur ou du garant ainsi que la couverture géographique du contrat ou de l'engagement.
+
+Tout professionnel prestataire de services doit également communiquer au consommateur qui en fait la demande les informations
+complémentaires suivantes :
+
+- en ce qui concerne les professions réglementées, une référence aux règles professionnelles applicables dans l'Etat membre
+de l'Union européenne sur le territoire duquel ce professionnel est établi et aux moyens d'y avoir accès ;
+
+- des informations sur leurs activités pluridisciplinaires et leurs partenariats qui sont directement liés au service
+concerné et sur les mesures prises pour éviter les conflits d'intérêts. Ces informations figurent dans tout document
+d'information dans lequel le prestataire présente de manière détaillée ses services ;
+
+- les éventuels codes de conduite auxquels il est soumis, l'adresse électronique à laquelle ces codes peuvent être consultés
+ainsi que les versions linguistiques disponibles ;
+
+- les informations sur les conditions de recours à des moyens extrajudiciaires de règlement des litiges, lorsque ces moyens
+sont prévus par un code de conduite, un organisme professionnel ou toute autre instance.
+
+III. - Au sens du II, un régime d'autorisation s'entend de toute procédure qui a pour effet d'obliger un prestataire ou un
+destinataire à faire une démarche auprès d'une autorité compétente en vue d'obtenir un acte formel ou une décision implicite
+relative à l'accès à une activité de services ou à son exercice.
+
+IV. - Le II du présent article ne s'applique pas aux services mentionnés aux livres Ier à III et au titre V du livre V du
+code monétaire et financier ainsi qu'aux opérations pratiquées par les entreprises régies par le code des assurances, par les
+mutuelles et unions régies par le livre II du code de la mutualité et par les institutions de prévoyance et unions régies par
+le titre III du livre IX du code de la sécurité sociale.
+
+V. - En cas de litige sur l'application des I et II du présent article, il appartient au prestataire de prouver qu'il a
+exécuté ses obligations.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 22
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 35
 
 	**Cité par**:
 
@@ -71,31 +129,31 @@ prouver qu'il a exécuté cette obligation.
 	  - Code de commerce - art. L441-6 (V)
 	  - Code de la consommation - art. R111-2 (Ab)
 
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 286 ter
+
 
 ###### Article L111-3
 
-Les dispositions des deux articles précédents s'appliquent sans préjudice des dispositions plus favorables aux consommateurs
-qui soumettent certaines activités à des règles particulières en ce qui concerne l'information du consommateur.
+Les articles L. 111-1 et L. 111-2 s'appliquent sans préjudice des dispositions plus favorables aux consommateurs qui
+soumettent certaines activités à des règles particulières en matière d'information du consommateur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°92-60 1992-01-18 art. 2 al. 3
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 35
 
 	**Cité par**:
 
 	  - Décret n°2014-1482 du 9 décembre 2014 (V)
 	  - Code de la consommation - art. R111-3 (Ab)
 	  - Code de la consommation - art. R111-4 (Ab)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L111-1
 
 
 #### Chapitre II : Modes de présentation et inscriptions
@@ -3034,30 +3092,30 @@ Ordonnance 2005-648 2005-06-06 art. 1 I 3° : Il s'agit bien de l'article L121-1
 
 ###### Article L121-18
 
-Sans préjudice des informations prévues par les articles L. 111-1 et L. 113-3 ainsi que de celles prévues pour l'application
-de l'article L. 214-1, l'offre de contrat doit comporter les informations suivantes :
+Sans préjudice des informations prévues par les articles L. 111-1, L. 111-2 et L. 113-3 ainsi que de celles prévues pour
+l'application de l'article L. 214-1, l'offre de contrat doit comporter les informations suivantes : 
 
 1° Le nom du vendeur du produit ou du prestataire de service, des coordonnées téléphoniques permettant d'entrer effectivement
-en contact avec lui , son adresse ou, s'il s'agit d'une personne morale, son siège social et, si elle est différente,
-l'adresse de l'établissement responsable de l'offre ;
+en contact avec lui, son adresse ou, s'il s'agit d'une personne morale, son siège social et, si elle est différente,
+l'adresse de l'établissement responsable de l'offre ; 
 
-2° Le cas échéant, les frais de livraison ;
+2° Le cas échéant, les frais de livraison ; 
 
-3° Les modalités de paiement, de livraison ou d'exécution ;
+3° Les modalités de paiement, de livraison ou d'exécution ; 
 
 4° L'existence d'un droit de rétractation et ses limites éventuelles ou, dans le cas où ce droit ne s'applique pas, l'absence
 d'un droit de rétractation ; 
 
-5° La durée de la validité de l'offre et du prix de celle-ci ;
+5° La durée de la validité de l'offre et du prix de celle-ci ; 
 
 6° Le coût de l'utilisation de la technique de communication à distance utilisée lorsqu'il n'est pas calculé par référence au
-tarif de base ;
+tarif de base ; 
 
 7° Le cas échéant, la durée minimale du contrat proposé, lorsqu'il porte sur la fourniture continue ou périodique d'un bien
-ou d'un service.
+ou d'un service. 
 
 Ces informations, dont le caractère commercial doit apparaître sans équivoque, sont communiquées au consommateur de manière
-claire et compréhensible, par tout moyen adapté à la technique de communication à distance utilisée.
+claire et compréhensible, par tout moyen adapté à la technique de communication à distance utilisée. 
 
 En cas de démarchage par téléphone ou par toute autre technique assimilable, le professionnel doit indiquer explicitement au
 début de la conversation son identité et le caractère commercial de l'appel.
@@ -3070,8 +3128,7 @@ début de la conversation son identité et le caractère commercial de l'appel.
 
 	**Modifié par**:
 
-	  - Loi n°2008-3 du 3 janvier 2008 - art. 29
-	  - Loi n°2008-3 du 3 janvier 2008 - art. 30
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 35
 
 	**Cite**:
 
@@ -3094,25 +3151,25 @@ début de la conversation son identité et le caractère commercial de l'appel.
 
 ###### Article L121-19
 
-I. - Le consommateur doit recevoir, par écrit ou sur un autre support durable à sa disposition, en temps utile et au plus
-tard au moment de la livraison :
+I.-Le consommateur doit recevoir, par écrit ou sur un autre support durable à sa disposition, en temps utile et au plus tard
+au moment de la livraison : 
 
 1° Confirmation des informations mentionnées aux 1° à 4° de l'article L. 121-18 et de celles qui figurent en outre aux
-articles L. 111-1 et L. 113-3 ainsi que de celles prévues pour l'application de l'article L. 214-1, à moins que le
-professionnel n'ait satisfait à cette obligation avant la conclusion du contrat ;
+articles L. 111-1, L. 111-2 et L. 113-3 ainsi que de celles prévues pour l'application de l'article L. 214-1, à moins que le
+professionnel n'ait satisfait à cette obligation avant la conclusion du contrat ; 
 
-2° Une information sur les conditions et les modalités d'exercice du droit de rétractation ;
+2° Une information sur les conditions et les modalités d'exercice du droit de rétractation ; 
 
-3° L'adresse de l'établissement du fournisseur où le consommateur peut présenter ses réclamations ;
+3° L'adresse de l'établissement du fournisseur où le consommateur peut présenter ses réclamations ; 
 
-4° Les informations relatives au service après vente et aux garanties commerciales ;
+4° Les informations relatives au service après vente et aux garanties commerciales ; 
 
-5° Les conditions de résiliation du contrat lorsque celui-ci est d'une durée indéterminée ou supérieure à un an.
+5° Les conditions de résiliation du contrat lorsque celui-ci est d'une durée indéterminée ou supérieure à un an. 
 
-II. - Les dispositions du présent article ne sont pas applicables aux services fournis en une seule fois au moyen d'une
-technique de communication à distance et facturés par l'opérateur de cette technique à l'exception du 3°.
+II.-Les dispositions du présent article ne sont pas applicables aux services fournis en une seule fois au moyen d'une
+technique de communication à distance et facturés par l'opérateur de cette technique à l'exception du 3°. 
 
-III. - Les moyens de communication permettant au consommateur de suivre l'exécution de sa commande, d'exercer son droit de
+III.-Les moyens de communication permettant au consommateur de suivre l'exécution de sa commande, d'exercer son droit de
 rétractation ou de faire jouer la garantie ne supportent que des coûts de communication, à l'exclusion de tout coût
 complémentaire spécifique.
 
@@ -3124,7 +3181,7 @@ complémentaire spécifique.
 
 	**Modifié par**:
 
-	  - Loi n°2008-3 du 3 janvier 2008 - art. 29
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 35
 
 	**Cite**:
 
