@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-07-25
+Version Consolidée au 2010-07-29
 
 # Partie législative
 
@@ -215,6 +215,31 @@ officiel et ses modalités d'utilisation.
 	  - Code rural - art. L641-1-1 (MMN)
 
 
+###### Article L112-2-1
+
+Le cahier des charges mentionné à l'article L. 641-6 du code rural et de la pêche maritime peut rendre obligatoire la mention
+"appellation d'origine contrôlée” dans l'étiquetage et la présentation des vins concernés et en déterminer les modalités
+d'application.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-874 du 27 juillet 2010 - art. 21
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-46 (V)
+
+	**Cite**:
+
+	  - Code rural - art. L641-6
+
+
 ###### Article L112-3
 
 Les conditions d'utilisation des mentions relatives au mode d'élevage des volailles sont déterminées par l'article L. 644-14
@@ -354,6 +379,44 @@ grasse végétale.
 	  - Code de la consommation - art. R412-48 (V)
 
 
+###### Article L112-7-1
+
+L'utilisation de mentions faisant état de présence de truffes ou de produits dérivés de truffes dans les denrées alimentaires
+fait l'objet des dispositions suivantes :
+
+1° La dénomination "truffé” est réservée aux denrées alimentaires contenant un minimum de 3 % de truffe.
+
+La dénomination du produit proposé à la consommation doit indiquer le nom usuel de l'espèce de truffe utilisée dans la
+composition du produit ;
+
+2° Les dénominations "au jus de truffe” ou "aromatisé au jus de truffe” sont réservées aux denrées alimentaires contenant un
+minimum de 3 % de jus de truffe.
+
+La dénomination du produit proposé à la consommation doit indiquer le nom usuel de l'espèce de truffe utilisée dans
+l'obtention du jus de truffe. Lorsque des arômes sont également utilisés, le nom du ou des arômes entrant dans la composition
+du produit doit être indiqué dans la dénomination du produit ;
+
+3° Le mélange d'espèces de truffe est interdit pour l'élaboration des denrées alimentaires mentionnées aux 1° et 2°.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article, notamment les espèces de truffes
+permettant l'obtention des dénominations mentionnées aux 1° et 2°.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-874 du 27 juillet 2010 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2012-129 du 30 janvier 2012 (V)
+	  - Décret n°2012-129 du 30 janvier 2012 - art. 10 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
 ###### Article L112-8
 
 Les conditions d'utilisation du qualificatif "fermier", des mentions "produit de la ferme", "produit à la ferme", "vin de
@@ -427,6 +490,22 @@ utiliser.
 	**Abrogé par**:
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
+###### Article L112-11
+
+Sans préjudice des dispositions spécifiques relatives au mode d'indication de l'origine des denrées alimentaires,
+l'indication du pays d'origine peut être rendue obligatoire pour les produits agricoles et alimentaires et les produits de la
+mer, à l'état brut ou transformé.
+
+La liste des produits concernés et les modalités d'application de l'indication de l'origine mentionnée au premier alinéa sont
+fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-874 du 27 juillet 2010 - art. 3
 
 
 #### Chapitre III : Prix et conditions de vente
@@ -1312,27 +1391,30 @@ commune, ou, le cas échéant, d'une partie de la même commune.
 
 ###### Article L115-16
 
-Est puni de deux ans d'emprisonnement et d'une amende de 37 500 € le fait : 
+Est puni de deux ans d'emprisonnement et d'une amende de 37 500 € le fait :
 
 1° De délivrer une appellation d'origine contrôlée sans satisfaire aux conditions prévues à l'article L. 642-3 du code rural
-et de la pêche maritime ; 
+et de la pêche maritime ;
 
 2° De délivrer une appellation d'origine contrôlée qui n'a pas fait l'objet de l'homologation prévue à l'article L. 641-7 du
-code rural et de la pêche maritime ; 
+code rural et de la pêche maritime ;
 
-3° D'utiliser ou de tenter d'utiliser frauduleusement une appellation d'origine ; 
+3° D'utiliser ou de tenter d'utiliser frauduleusement une appellation d'origine ;
 
 4° D'apposer ou de faire apparaître, par addition, retranchement ou par une altération quelconque, sur des produits, naturels
-ou fabriqués, mis en vente ou destinés à être mis en vente, une appellation d'origine en la sachant inexacte ; 
+ou fabriqués, mis en vente ou destinés à être mis en vente, une appellation d'origine en la sachant inexacte ;
 
 5° D'utiliser un mode de présentation faisant croire ou de nature à faire croire qu'un produit bénéficie d'une appellation
-d'origine ; 
+d'origine ;
 
 6° De faire croire ou de tenter de faire croire qu'un produit assorti d'une appellation d'origine est garanti par l'Etat ou
-par un organisme public. 
+par un organisme public ;
+
+7° De mentionner sur un produit la présence dans sa composition d'un autre produit bénéficiant d'une appellation d'origine
+lorsque cette mention détourne ou affaiblit la réputation de l'appellation concernée. 
 
 Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux qu'il désignera et son insertion intégrale ou
-par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné. 
+par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 
 Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
 modalités prévues par l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
@@ -1365,12 +1447,12 @@ industrielle ou une société commerciale. Ces interdictions d'exercice peuvent 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Loi n°2010-874 du 27 juillet 2010 - art. 5
 
 	**Cite**:
 
-	  - Code pénal - art. 131-27 (V)
-	  - Code rural - art. L641-7 (V)
+	  - Code pénal - art. 131-27
+	  - Code rural - art. L641-7
 
 
 ###### Article L115-17
@@ -20603,6 +20685,28 @@ intellectuelle en cas de divulgation d'informations relevant du secret de fabric
 
 	  - Code de la consommation - art. R534-17 (Ab)
 	  - Code de la consommation - art. R534-5 (Ab)
+
+
+### Titre IV : Le Conseil national de l'alimentation
+
+#### Chapitre Ier
+
+###### Article L541-1
+
+La politique publique de l'alimentation est définie à l'article L. 230-1 du code rural et de la pêche maritime. 
+
+Le programme national relatif à la nutrition et à la santé est défini à l'article L. 3231-1 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-874 du 27 juillet 2010 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code rural - art. L230-1
+	  - Code de la santé publique - art. L3231-1
 
 
 ### Titre VI : Le laboratoire d'essais
