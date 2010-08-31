@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-07-29
+Version Consolidée au 2010-09-01
 
 # Partie législative
 
@@ -12757,39 +12757,49 @@ présent article du champ d'application de l'article L. 311-5.
 	  - Code de la consommation - art. L311-5 (M)
 
 
-##### Section 2 : Publicité
+##### Section 2 : Publicité.
 
 ###### Article L311-4
 
-Toute publicité faite, reçue ou perçue en France qui, quel que soit son support, porte sur l'une des opérations de crédit à
-la consommation visées à l'article L. 311-2, est loyale et informative. A ce titre, elle doit :
+Toute publicité, quel qu'en soit le support, qui porte sur l'une des opérations visées à l'article L. 311-2 et indique un
+taux d'intérêt ou des informations chiffrées liées au coût du crédit mentionne de façon claire, précise et visible les
+informations suivantes à l'aide d'un exemple représentatif : 
 
-1° Préciser l'identité du prêteur, la nature, l'objet et la durée de l'opération proposée ainsi que le coût total et, s'il y
-a lieu, le taux effectif global annuel du crédit, à l'exclusion de tout autre taux, ainsi que les perceptions forfaitaires ;
+1° Le taux débiteur et la nature fixe, variable ou révisable du taux, sauf pour les opérations de location-vente ou de
+location avec option d'achat, ainsi que les informations relatives à tous les frais compris dans le coût total du crédit pour
+l'emprunteur ; 
 
-2° Préciser le montant, en euros, des remboursements par échéance ou, en cas d'impossibilité, le moyen de le déterminer. Ce
-montant inclut le coût de l'assurance lorsque celle-ci est obligatoire pour obtenir le financement et, le cas échéant, le
-coût des perceptions forfaitaires ;
+2° Le montant total du crédit ; 
 
-3° Indiquer, pour les opérations à durée déterminée, le nombre d'échéances.
+3° Le taux annuel effectif global, sauf pour les opérations de location-vente ou de location avec option d'achat ; 
 
-Dans toute publicité écrite, quel que soit le support utilisé, les informations relatives à la nature de l'opération, à sa
-durée, au taux effectif global, s'il y a lieu, et, s'il s'agit d'un taux promotionnel, à la période durant laquelle ce taux
-s'applique, au caractère "fixe ou révisable" du taux effectif global et au montant des remboursements par échéance doivent
-figurer dans une taille de caractères au moins aussi importante que celle utilisée pour indiquer toute autre information
-relative aux caractéristiques du financement et s'inscrire dans le corps principal du texte publicitaire.
+4° S'il y a lieu, la durée du contrat de crédit ; 
 
-Il est interdit, dans toute publicité, quel que soit le support utilisé, d'indiquer qu'un prêt peut être octroyé sans élément
-d'information permettant d'apprécier la situation financière de l'emprunteur, ou de suggérer que le prêt entraîne une
-augmentation de ressources ou accorde une réserve automatique d'argent immédiatement disponible, sans contrepartie financière
-identifiable.
+5° S'il s'agit d'un crédit accordé sous la forme d'un délai de paiement pour un bien ou un service donné, le prix au comptant
+et le montant de tout acompte ; 
 
-L'offre préalable de crédit doit être distincte de tout support ou document publicitaire. (1)
+6° Le montant total dû par l'emprunteur et le montant des échéances. 
+
+Pour les crédits mentionnés à l'article L. 311-16, un décret précise le contenu et les modalités de présentation de l'exemple
+représentatif à l'aide duquel sont fournies les informations sur le coût du crédit. 
+
+Si le prêteur exige qu'un service accessoire soit fourni pour l'obtention du crédit, notamment une assurance, la publicité
+mentionne de façon claire, précise et visible la nécessité de contracter ce service. 
+
+Lorsqu'un prêteur propose habituellement des contrats de crédit assortis d'une proposition d'assurance facultative ayant pour
+objet la garantie de remboursement du crédit, toute publicité mentionnée au premier alinéa du présent article diffusée pour
+son compte sur ces contrats indique le coût de l'assurance, exprimé en euros et par mois, et précise si ce montant s'ajoute
+ou non à l'échéance de remboursement du crédit.
 
 **Nota:**
 
-(1) : Loi n° 2003-706 art. 87 II : Ces dispositions sont applicables aux publicités faites, reçues ou perçues en France ainsi
-qu'aux contrats de crédits consentis ou renouvelés six mois après la promulgation de la loi n° 2003-706 du 1er août 2003.
+Loi 2010-737 du 1er juillet 2010 article 61 I : Les dispositions de l'article L. 311-4 du code de la consommation résultant
+de l'article 4 de la loi n° 2010-737 ne s'appliquent qu'à compter du 1er novembre 2010 pour les catalogues de vente à
+distance.
+
+Conformément à l'article 4 du décret n° 2010-1005 du 30 août 2010, les dispositions de l'article 4 de la loi portant réforme
+du crédit à la consommation (2010-737) s'appliquent à compter du premier jour de la quatrième semaine suivant la date
+d'entrée en vigueur de cet article pour les publicités rendues publiques dans les deux mois précédant cette date.
 
 **Liens relatifs à cet article**
 
@@ -12797,18 +12807,10 @@ qu'aux contrats de crédits consentis ou renouvelés six mois après la promulga
 
 	  - Loi n°78-22 du 10 janvier 1978 - art. 4 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Cite**:
-
-	  - Loi n°2003-706 2003-08-01
-	  - Code de la consommation L311-2, 87
-
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 87 (V) JORF 2 août 2003
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 4
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 60 (V)
 
 	**Cité par**:
 
@@ -12820,29 +12822,61 @@ qu'aux contrats de crédits consentis ou renouvelés six mois après la promulga
 	  - Code de la consommation - art. L311-42 (VT)
 	  - Code de la consommation - art. L311-49 (VT)
 
+	**Cite**:
+
+	  - Code de la consommation - art. L311-16 (V)
+
 
 ###### Article L311-5
 
-Toute publicité relative aux opérations visées à l'article L. 311-2 proposant une période de franchise de paiement de loyers
-ou de remboursement des échéances du crédit supérieure à trois mois est interdite hors des lieux de vente.
+Dans toute publicité écrite, quel que soit le support utilisé, les informations relatives au taux annuel effectif global, à
+sa nature fixe, variable ou révisable, au montant total dû par l'emprunteur et au montant des échéances, ainsi que la mention
+visée au dernier alinéa, doivent figurer dans une taille de caractère plus importante que celle utilisée pour indiquer toute
+autre information relative aux caractéristiques du financement, notamment le taux promotionnel, et s'inscrire dans le corps
+principal du texte publicitaire. 
 
-Ces dispositions ne sont pas applicables aux prêts aidés par l'Etat destinés au financement d'une formation à la conduite et
-à la sécurité routière.
+Lorsqu'une publicité est adressée par voie postale ou par courrier électronique, distribuée directement à domicile ou sur la
+voie publique, le document envoyé au consommateur lui rappelle de façon claire, précise et visible son droit de s'opposer
+sans frais à l'utilisation de ses données personnelles à des fins de prospection ainsi que les modalités d'exercice de ce
+droit. Lorsque cette publicité indique un taux d'intérêt ou des informations chiffrées liées au coût du crédit, les
+informations mentionnées au premier alinéa doivent figurer, sous forme d'encadré, en en-tête du texte publicitaire. 
+
+Il est interdit dans toute publicité d'indiquer qu'une opération ou un contrat de crédit, ou une opération de crédit
+consistant à regrouper des crédits antérieurs peut être consenti sans élément d'information permettant d'apprécier la
+situation financière de l'emprunteur, ou de laisser entendre que le prêt améliore la situation financière ou le budget de
+l'emprunteur, entraîne une augmentation de ressources, constitue un substitut d'épargne ou accorde une réserve automatique
+d'argent immédiatement disponible sans contrepartie financière identifiable. 
+
+Il est interdit également dans toute publicité de mentionner l'existence d'une période de franchise de paiement de loyers ou
+de remboursement des échéances du crédit supérieure à trois mois. Cette interdiction ne s'applique pas aux prêts aidés par
+l'Etat destinés au financement d'une formation à la conduite et à la sécurité routière et aux prêts garantis par l'Etat
+destinés au financement de leurs études par les étudiants. 
+
+Il est interdit dans toute publicité de proposer sous quelque forme que ce soit des lots promotionnels liés à l'acceptation
+d'une offre préalable de crédit. 
+
+Toute publicité, à l'exception des publicités radiodiffusées, contient, quel que soit le support utilisé, la mention
+suivante :  Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager.
+
+**Nota:**
+
+Loi 2010-737 du 1er juillet 2010 article 61 I : Les dispositions de l'article L. 311-5 du code de la consommation résultant
+de l'article 4 de la loi n° 2010-737 ne s'appliquent qu'à compter du 1er novembre 2010 pour les catalogues de vente à
+distance.
+
+Conformément à l'article 4 du décret n° 2010-1005 du 30 août 2010, les dispositions de l'article 4 de la loi portant réforme
+du crédit à la consommation (2010-737) s'appliquent à compter du premier jour de la quatrième semaine suivant la date
+d'entrée en vigueur de cet article pour les publicités rendues publiques dans les deux mois précédant cette date.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°78-22 1978-01-10 art. 4 al. 2 et al. 3
 	  - Loi n°78-22 du 10 janvier 1978 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
 
 	**Modifié par**:
 
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 14 () JORF 6 janvier 2006
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 4
 
 	**Cité par**:
 
@@ -12850,10 +12884,6 @@ Ces dispositions ne sont pas applicables aux prêts aidés par l'Etat destinés 
 	  - Code de la consommation - art. D311-3-1 (VT)
 	  - Code de la consommation - art. L311-3 (VD)
 	  - Code de la consommation - art. L311-6 (VT)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L311-2 (V)
 
 
 ##### Section 3 : Crédit gratuit.
@@ -13820,47 +13850,42 @@ L'engagement préalable de payer comptant en cas de refus de prêt est nul de pl
 
 ###### Article L311-27
 
-Le vendeur ou le prestataire de services ne peut recevoir, de la part de l'acheteur, aucun paiement sous quelque forme que ce
-soit, ni aucun dépôt, en sus de la partie du prix que l'acheteur a accepté de payer au comptant, tant que le contrat relatif
-à l'opération de crédit n'est pas définitivement conclu.
-
-Si une autorisation de prélèvement sur compte bancaire ou postal est signée par l'acquéreur, sa validité et sa prise d'effet
-sont subordonnées à celles du contrat de vente.
-
-En cas de paiement d'une partie du prix au comptant, le vendeur ou prestataire de services doit remettre à l'acheteur un
-récépissé valant reçu et comportant la reproduction intégrale des dispositions de l'article L. 311-25.
+Toute publicité, quel qu'en soit le support, qui porte sur une opération de crédit dont la durée est supérieure à trois mois
+et pour laquelle ne sont pas requis d'intérêts ou d'autres frais, indique le montant de l'escompte sur le prix d'achat
+éventuellement consenti en cas de paiement comptant et précise qui prend en charge le coût du crédit consenti gratuitement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°78-22 du 10 janvier 1978 - art. 15 (M)
 	  - Loi n°78-22 du 10 janvier 1978 - art. 15 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 2
-	  - SPEC_APPLI: Code de la consommation L312-35 *sanctions pénales*
-
-	**Cite**:
-
-	  - Code de la consommation - art. L311-25 (V)
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 13
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L311-35 (VT)
 
-	**Nouveaux textes**:
 
-	  - Code de la consommation - art. L311-40 (VD)
+###### Article L311-28
+
+Lorsqu'une opération de financement comporte une prise en charge totale ou partielle des frais au sens des articles L. 311-4
+à L. 311-6, le vendeur ne peut demander à l'acheteur à crédit ou au locataire une somme d'argent supérieure au prix le plus
+bas effectivement pratiqué pour l'achat au comptant d'un article ou d'une prestation similaire, dans le même établissement de
+vente au détail, au cours des trente derniers jours précédant le début de la publicité ou de l'offre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°78-22 du 10 janvier 1978 - art. 16 (Ab)
+	  - Code de la consommation - art. L311-7 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 13
 
 
 ##### Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur.
@@ -14197,36 +14222,6 @@ Les infractions aux dispositions des décrets mentionnés au deuxième alinéa d
 
 
 ##### Section 8 : Procédure.
-
-###### Article L311-28
-
-En cas de vente ou de démarchage à domicile, le délai de rétractation est de sept jours quelle que soit la date de livraison
-ou de fourniture du bien ou de la prestation de services. Aucun paiement comptant ne peut intervenir avant l'expiration de ce
-délai.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°78-22 du 10 janvier 1978 - art. 16, v. init.
-	  - Loi n°78-22 du 10 janvier 1978 - art. 16 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L311-41 (VD)
-
 
 ###### Article L311-37
 
@@ -14622,9 +14617,8 @@ l'indexation ;
 4° Enonce, en donnant une évaluation de leur coût, les stipulations, les assurances et les sûretés réelles ou personnelles
 exigées, qui conditionnent la conclusion du prêt ; 
 
-4° bis Sauf si le prêteur exerce, dans les conditions fixées par l'article L. 312-9, son droit d'exiger l'adhésion à un
-contrat d'assurance collective qu'il a souscrit, mentionne que l'emprunteur peut souscrire auprès de l'assureur de son choix
-une assurance équivalente à celle proposée par le prêteur ; 
+4° bis Mentionne que l'emprunteur peut souscrire auprès de l'assureur de son choix une assurance dans les conditions fixées à
+l'article L. 312-9 ; 
 
 5° Fait état des conditions requises pour un transfert éventuel du prêt à une tierce personne ; 
 
@@ -14635,8 +14629,7 @@ crédit, donne lieu à la remise à l'emprunteur d'une nouvelle offre préalable
 
 **Nota:**
 
-Loi n° 2008-3 du 3 janvier 2008, art. 25-II : Les obligations fixées par le 2° ter et le 4° bis de l'article L. 312-8 du code
-de la consommation entrent en vigueur le 1er octobre 2008.
+
 
 **Liens relatifs à cet article**
 
@@ -14657,30 +14650,41 @@ de la consommation entrent en vigueur le 1er octobre 2008.
 
 	**Modifié par**:
 
-	  - Loi n°2008-3 du 3 janvier 2008 - art. 25 (V)
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 21
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 60 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L312-10
-	  - Code de la consommation - art. L313-1
+	  - Code de la consommation - art. L312-10 (V)
+	  - Code de la consommation - art. L313-1 (V)
 
 
 ###### Article L312-9
 
-Lorsque le prêteur offre à l'emprunteur ou exige de lui l'adhésion à un contrat d'assurance collective qu'il a souscrit en
-vue de garantir en cas de survenance d'un des risques que ce contrat définit, soit le remboursement total ou partiel du
-montant du prêt restant dû, soit le paiement de tout ou partie des échéances dudit prêt, les dispositions suivantes sont
-obligatoirement appliquées :
+Lorsque le prêteur propose à l'emprunteur l'adhésion à un contrat d'assurance de groupe qu'il a souscrit en vue de garantir
+en cas de survenance d'un des risques que ce contrat définit, soit le remboursement total ou partiel du montant du prêt
+restant dû, soit le paiement de tout ou partie des échéances dudit prêt, les dispositions suivantes sont obligatoirement
+appliquées : 
 
 1° Au contrat de prêt est annexée une notice énumérant les risques garantis et précisant toutes les modalités de la mise en
-jeu de l'assurance ;
+jeu de l'assurance ; 
 
 2° Toute modification apportée ultérieurement à la définition des risques garantis ou aux modalités de la mise en jeu de
-l'assurance est inopposable à l'emprunteur qui n'y a pas donné son acceptation ;
+l'assurance est inopposable à l'emprunteur qui n'y a pas donné son acceptation ; 
 
 3° Lorsque l'assureur a subordonné sa garantie à l'agrément de la personne de l'assuré et que cet agrément n'est pas donné,
 le contrat de prêt est résolu de plein droit à la demande de l'emprunteur sans frais ni pénalité d'aucune sorte. Cette
-demande doit être présentée dans le délai d'un mois à compter de la notification du refus de l'agrément.
+demande doit être présentée dans le délai d'un mois à compter de la notification du refus de l'agrément. 
+
+Le prêteur ne peut pas refuser en garantie un autre contrat d'assurance dès lors que ce contrat présente un niveau de
+garantie équivalent au contrat d'assurance de groupe qu'il propose. Toute décision de refus doit être motivée. 
+
+Le prêteur ne peut pas modifier les conditions de taux du prêt prévues dans l'offre définie à l'article L. 312-7, que celui-
+ci soit fixe ou variable, en contrepartie de son acceptation en garantie d'un contrat d'assurance autre que le contrat
+d'assurance de groupe qu'il propose.
+
+L'assureur est tenu d'informer le prêteur du non-paiement par l'emprunteur de sa prime d'assurance ou de toute modification
+substantielle du contrat d'assurance.
 
 **Liens relatifs à cet article**
 
@@ -14688,13 +14692,9 @@ demande doit être présentée dans le délai d'un mois à compter de la notific
 
 	  - Loi n°79-596 du 13 juillet 1979 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 21
 
 	**Cité par**:
 
@@ -14709,7 +14709,7 @@ demande doit être présentée dans le délai d'un mois à compter de la notific
 
 	**Cite**:
 
-	  - Code de la consommation annexe
+	  - Code de la consommation - art. L312-7 (V)
 
 
 ###### Article L312-10
@@ -16524,9 +16524,74 @@ restant dû ; elles sont productives d'intérêt au taux légal du jour de leur 
 	  - Code de la consommation - art. L313-14-1
 
 
-##### Section 7 : Textes d'application
+##### Section 7 : Regroupement de crédits.
 
 ###### Article L313-15
+
+Lorsque les crédits mentionnés à l'article L. 311-2 font l'objet d'une opération de crédit destinée à les regrouper, le
+nouveau contrat de crédit est soumis au chapitre Ier du présent titre. 
+
+Lorsqu'une opération de crédit destinée à regrouper des crédits antérieurs comprend un ou des crédits immobiliers dont la
+part relative ne dépasse pas un seuil fixé par décret en Conseil d'Etat, le nouveau contrat de crédit est soumis au chapitre
+Ier du présent titre. Lorsque cette part relative dépasse ce seuil, le nouveau contrat de crédit est soumis au chapitre II du
+même titre. 
+
+Lorsqu'une opération de crédit est destinée à regrouper des crédits mentionnés à l'article L. 312-2, le nouveau contrat de
+crédit est également soumis au chapitre II du présent titre. 
+
+Le prêteur qui consent une opération de regroupement de crédits comprenant un ou plusieurs contrats de crédits mentionnés à
+l'article L. 311-16 effectue le remboursement du montant dû au titre de ces crédits directement auprès du prêteur initial.
+Lorsque l'opération porte sur la totalité du montant restant dû au titre d'un crédit renouvelable, le prêteur rappelle à
+l'emprunteur la possibilité de résilier le contrat afférent et lui propose d'adresser sans frais la lettre de résiliation
+signée par l'emprunteur. 
+
+Un décret en Conseil d'Etat précise les modalités selon lesquelles les opérations de crédit mentionnées aux alinéas
+précédents sont conclues, afin de garantir la bonne information de l'emprunteur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°78-22 du 10 janvier 1978 - art. 30 (Ab)
+	  - Loi n°79-596 du 13 juillet 1979 - art. 37 (Ab)
+
+	**Cité par**:
+
+	  - Loi n°89-421 du 23 juin 1989 - art. 10 (V)
+	  - Arrêté du 26 octobre 2010 - art. 3 (M)
+	  - Décret n°2012-1159 du 17 octobre 2012 (V)
+	  - Code de la consommation - art. L311-3 (VT)
+	  - Code de la consommation - art. L315-5 (VT)
+	  - Code de la consommation - art. R313-11 (Ab)
+	  - Code de la consommation - art. R313-12 (MMN)
+	  - Code monétaire et financier - art. R519-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 22
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L312-26 (VT)
+	  - Code de la consommation - art. L312-7 (VT)
+	  - Code de la consommation - art. L312-8 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L314-10 (V)
+	  - Code de la consommation - art. L314-11 (V)
+	  - Code de la consommation - art. L314-12 (V)
+	  - Code de la consommation - art. L314-13 (V)
+	  - Code de la consommation - art. L314-14 (V)
+
+
+##### Section 8 : Textes d'application.
+
+###### Article L313-16
 
 Les conditions d'application du présent titre à l'exception de celles de la section 1 du présent chapitre, sont fixées par
 décret en Conseil d'Etat. Toutefois le modèle de l'offre visée aux articles L. 312-7, L. 312-8 et L. 312-26 pourra, en tant
@@ -16537,71 +16602,46 @@ que de besoin, être fixé par le comité de la réglementation bancaire.
 	**Anciens textes**:
 
 	  - Loi n°78-22 du 10 janvier 1978 - art. 28 (Ab)
-	  - Loi n°78-22 du 10 janvier 1978 - art. 30 (Ab)
 	  - Loi n°79-596 du 13 juillet 1979 - art. 36 (Ab)
-	  - Loi n°79-596 du 13 juillet 1979 - art. 37 (Ab)
-
-	**Cité par**:
-
-	  - Loi n°89-421 du 23 juin 1989 - art. 10 (V)
-	  - Arrêté du 26 octobre 2010 - art. 3 (M)
-	  - Décret n°2012-1159 du 17 octobre 2012 (V)
-	  - Code de la consommation - art. L311-3 (VT)
-	  - Code de la consommation - art. R313-11 (Ab)
-	  - Code de la consommation - art. R313-12 (MMN)
-	  - Code monétaire et financier - art. R519-2 (V)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
+	  - Code de la consommation - art. L313-15 (VT)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 22
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 22
-
-	**Cite**:
-
-	  - Code de la consommation - art. L312-26 (V)
-	  - Code de la consommation - art. L312-7 (V)
-	  - Code de la consommation - art. L312-8 (M)
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Nouveaux textes**:
 
-	  - Code de la consommation - art. L313-16 (VD)
+	  - Code de la consommation - art. L313-26 (M)
+	  - Code de la consommation - art. L313-57 (V)
 
 
-##### Section 8 : Dispositions d'ordre public
+##### Section 9 : Dispositions d'ordre public
 
-###### Article L313-16
+###### Article L313-17
 
 Les dispositions des chapitres Ier et II et des sections 2 à 8 du chapitre III du présent titre sont d'ordre public.
 
 **Liens relatifs à cet article**
 
+	**Créé par**:
+
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 22
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
 	**Anciens textes**:
 
-	  - Loi n°78-22 du 10 janvier 1978 - art. 28 (Ab)
-	  - Loi n°79-596 du 13 juillet 1979 - art. 36 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 22
+	  - Code de la consommation - art. L313-16 (T)
 
 	**Nouveaux textes**:
 
-	  - Code de la consommation - art. L313-17 (VD)
+	  - Code de la consommation - art. L314-26 (V)
 
 
 #### Chapitre IV : Prêt viager hypothécaire
@@ -26648,6 +26688,65 @@ consommation.
 	  - Code de la consommation - art. D311-2 (M)
 
 
+##### Section 2 : Publicité
+
+###### Article D311-3-1
+
+I. ― Pour les crédits mentionnés à l'article L. 311-16, les informations sur le coût du crédit qui doivent être indiquées
+dans les publicités en application de l'article L. 311-4 doivent être fournies à l'aide d'un exemple représentatif répondant
+aux caractéristiques suivantes : 
+
+1° Un montant de 500 euros ; 
+
+2° Un montant de 1 000 euros ; 
+
+3° Un montant de 3 000 euros ; 
+
+4° La durée de remboursement maximale prévue par l'offre commerciale sur laquelle porte la publicité. 
+
+Le prêteur choisit de présenter un ou plusieurs des montants mentionnés aux 1°, 2° et 3° de façon que l'exemple représentatif
+corresponde au mieux à la nature des crédits dont il fait la publicité. 
+
+II.-Lorsque la publicité mentionne un taux promotionnel ou des modalités spéciales d'utilisation qui dérogent au
+fonctionnement normal du crédit concerné, l'exemple représentatif défini au I illustre les conditions normales d'exécution du
+contrat de crédit. 
+
+III.-L'exemple représentatif doit indiquer, dans la même taille de caractère que celle prévue pour les mentions reprises au
+premier alinéa de l'article L. 311-5 : 
+
+1° Sa nature d'exemple ; 
+
+2° Le nombre d'échéances pour chacune des échéances d'un même montant. 
+
+IV. ― Dans les cas prévus au dixième alinéa de l'article L. 311-4 du code de la consommation, l'exemple représentatif
+indique, en plus des indications prévues au I et dans la même taille de caractère : 
+
+1° Que le montant des échéances est donné " hors assurance facultative " ; 
+
+2° Le coût en euros et par mois de l'assurance facultative ayant pour objet la garantie de remboursement du crédit, sur la
+base de la cotisation mensuelle la plus élevée prévue par l'offre commerciale sur laquelle porte la publicité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1005 du 30 août 2010 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2011-136 du 1er février 2011 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. D311-1 (VD)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L311-16
+	  - Code de la consommation - art. L311-4
+	  - Code de la consommation - art. L311-5
+
+
 ##### Section 3 : Crédit gratuit
 
 ###### Article R311-4
@@ -27555,6 +27654,41 @@ En cas de récidive, la peine d'amende prévue pour la récidive des contraventi
 
 	  - Code de la consommation - art. R341-24 (V)
 	  - Code de la consommation - art. R341-25 (V)
+
+
+##### Section 7 :  Regroupement de crédits
+
+###### Article R313-11
+
+Le seuil mentionné à l'article L. 313-15 est atteint lorsque la part des crédits immobiliers, au sens des dispositions de
+l'article L. 312-2, représente 60 % du montant total de l'opération de regroupement de crédits. 
+
+Le montant des crédits immobiliers inclut tous les coûts, les intérêts, les commissions, les taxes, les pénalités et autres
+frais que l'emprunteur est tenu de payer pour le remboursement de ces crédits. Ces frais ne sont inclus dans le montant des
+crédits immobiliers que pour autant qu'ils figurent dans le montant total de l'opération de regroupement de crédits.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1004 du 30 août 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L312-2
+	  - Code de la consommation - art. L313-15
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R314-18 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R315-1 (Ab)
 
 
 ##### Annexes
