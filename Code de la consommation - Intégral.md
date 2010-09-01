@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-09-01
+Version Consolidée au 2010-09-02
 
 # Partie législative
 
@@ -23950,23 +23950,24 @@ L'article 32 du décret n° 86-1309 du 29 décembre 1986 a été abrogé par l'a
 
 ###### Article R141-3
 
-I. - L'autorité administrative, au sens de l'article L. 141-2 du code de la consommation, est, au sein de la direction
-générale de la concurrence, de la consommation et de la répression des fraudes, le directeur régional ou le chef d'unité
-départementale territorialement compétents.
+I.-L'autorité administrative mentionnée à l'article L. 141-2 est, dans le cadre de leurs compétences respectives, le chef du
+service national des enquêtes au sein de la direction générale de la concurrence, de la consommation et de la répression des
+fraudes, le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou le
+directeur de la direction départementale chargée de la protection des populations. 
 
-II. - L'autorité administrative mentionnée au I transmet la proposition de transaction au procureur de la République dans un
+II.-L'autorité administrative mentionnée au I transmet la proposition de transaction au procureur de la République dans un
 délai de trois mois à compter de la clôture du procès-verbal de constatation de l'infraction. Cette proposition précise la
 somme que l'auteur de l'infraction sera invité à payer au Trésor public, le délai imparti pour son paiement et, s'il y a
-lieu, les autres obligations résultant pour lui de l'acceptation de la transaction.
+lieu, les autres obligations résultant pour lui de l'acceptation de la transaction. 
 
-III. - Lorsque le procureur de la République a donné son accord sur la proposition de transaction, le chef de service notifie
-cette dernière en double exemplaire à l'auteur de l'infraction. Cette notification comporte une mention précisant que si la
-personne ne paie pas, dans le délai imparti, la somme indiquée dans la proposition ou qu'elle ne satisfait pas aux autres
-obligations le cas échéant souscrites par elle, le procureur de la République décidera, sauf élément nouveau, d'engager les
-poursuites à son égard.
+III.-Lorsque le procureur de la République a donné son accord sur la proposition de transaction, l'autorité administrative
+mentionnée au I notifie cette dernière en double exemplaire à l'auteur de l'infraction. Cette notification comporte une
+mention précisant que si la personne ne paie pas, dans le délai imparti, la somme indiquée dans la proposition ou qu'elle ne
+satisfait pas aux autres obligations le cas échéant souscrites par elle, le procureur de la République décidera, sauf élément
+nouveau, d'engager les poursuites à son égard.
 
 L'auteur de l'infraction dispose d'un mois, à compter de cette notification, pour y répondre. En cas d'acceptation, l'auteur
-de l'infraction retourne à l'autorité administrative un exemplaire signé de la proposition.
+de l'infraction retourne à l'autorité administrative un exemplaire signé de la proposition. 
 
 Dans l'hypothèse où, au terme du délai mentionné à l'alinéa ci-dessus, l'auteur de l'infraction a refusé la proposition ou
 n'y a pas répondu, l'autorité administrative en informe sans délai le procureur de la République. Ce dernier est également
@@ -23975,17 +23976,13 @@ proposition, au terme du délai imparti, ou n'aurait pas satisfait aux autres ob
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°2006-513 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
+	  - Décret n°2010-1010 du 30 août 2010 - art. 1
 
 	**Cite**:
 
-	  - Code de la consommation - art. L141-2 (V)
+	  - Code de la consommation - art. L141-2
 
 	**Cité par**:
 
@@ -23994,16 +23991,16 @@ proposition, au terme du délai imparti, ou n'aurait pas satisfait aux autres ob
 
 ###### Article R141-4
 
-L'autorité administrative chargée de la concurrence et de la consommation mentionnée au VI de l'article L. 141-1 est au sein
-de la direction générale de la concurrence, de la consommation et de la répression des fraudes le directeur régional ou le
-chef d'unité départementale territorialement compétents. Ces derniers peuvent donner mandat à un agent de catégorie A pour
-déposer et développer des conclusions à l'audience.
+L'autorité administrative mentionnée au VI de l'article L. 141-1 est, dans le cadre de leurs compétences respectives, le chef
+du service national des enquêtes au sein de la direction générale de la concurrence, de la consommation et de la répression
+des fraudes, le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou le
+directeur de la direction départementale chargée de la protection des populations.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-763 du 30 juillet 2008 - art. 1
+	  - Décret n°2010-1010 du 30 août 2010 - art. 2
 
 	**Cite**:
 
@@ -25867,23 +25864,24 @@ article, les administrations compétentes doivent en informer aussitôt le préf
 
 ###### Article R216-3
 
-I. - L'autorité administrative, au sens de l'article L. 216-11 du code de la consommation, est, au sein de la direction
-générale de la concurrence, de la consommation et de la répression des fraudes, le directeur régional ou le chef d'unité
-départementale territorialement compétents.
+I.-L'autorité administrative mentionnée à l'article L. 216-11 est, dans le cadre de leurs compétences respectives, le chef du
+service national des enquêtes au sein de la direction générale de la concurrence, de la consommation et de la répression des
+fraudes, le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou le
+directeur de la direction départementale chargée de la protection des populations. 
 
-II. - L'autorité administrative mentionnnée au I transmet la proposition de transaction au procureur de la République dans un
+II.-L'autorité administrative mentionnnée au I transmet la proposition de transaction au procureur de la République dans un
 délai de trois mois à compter de la clôture du procès-verbal de constatation de l'infraction. Cette proposition précise la
 somme que l'auteur de l'infraction sera invité à payer au Trésor public, le délai imparti pour son paiement et, s'il y a
-lieu, les autres obligations résultant pour lui de l'acceptation de la transaction.
+lieu, les autres obligations résultant pour lui de l'acceptation de la transaction. 
 
-III. - Lorsque le procureur de la République a donné son accord sur la proposition de transaction, le chef de service notifie
-cette dernière en double exemplaire à l'auteur de l'infraction. Cette notification comporte une mention précisant que si la
-personne ne paie pas, dans le délai imparti, la somme indiquée dans la proposition ou qu'elle ne satisfait pas aux autres
-obligations le cas échéant souscrites par elle, le procureur de la République décidera, sauf élément nouveau, d'engager les
-poursuites à son égard.
+III.-Lorsque le procureur de la République a donné son accord sur la proposition de transaction, l'autorité administrative
+mentionnée au I notifie cette dernière en double exemplaire à l'auteur de l'infraction. Cette notification comporte une
+mention précisant que si la personne ne paie pas, dans le délai imparti, la somme indiquée dans la proposition ou qu'elle ne
+satisfait pas aux autres obligations le cas échéant souscrites par elle, le procureur de la République décidera, sauf élément
+nouveau, d'engager les poursuites à son égard.
 
 L'auteur de l'infraction dispose d'un mois, à compter de cette notification, pour y répondre. En cas d'acceptation, l'auteur
-de l'infraction retourne à l'autorité administrative un exemplaire signé de la proposition.
+de l'infraction retourne à l'autorité administrative un exemplaire signé de la proposition. 
 
 Dans l'hypothèse où, au terme du délai mentionné à l'alinéa ci-dessus, l'auteur de l'infraction a refusé la proposition ou
 n'y a pas répondu, l'autorité administrative en informe sans délai le procureur de la République. Ce dernier est également
@@ -25892,17 +25890,13 @@ proposition, au terme du délai imparti, ou n'aurait pas satisfait aux autres ob
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°2006-513 du 4 mai 2006 - art. 3 () JORF 6 mai 2006
+	  - Décret n°2010-1010 du 30 août 2010 - art. 3
 
 	**Cite**:
 
-	  - Code de la consommation - art. L216-11 (V)
+	  - Code de la consommation - art. L216-11
 
 	**Cité par**:
 
