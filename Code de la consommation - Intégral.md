@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-09-02
+Version Consolidée au 2010-10-20
 
 # Partie législative
 
@@ -35023,6 +35023,86 @@ publique ou privée ;
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. R822-16 (V)
+
+
+#### Chapitre IV : Dispositions diverses.
+
+##### Section 3 : La commission de la médiation de la consommation
+
+
+###### Article R534-11
+
+La commission de la médiation de la consommation instituée à l'article L. 534-7 comprend, outre son président, douze membres
+répartis de la manière suivante : 
+
+1° Cinq représentants des consommateurs ; 
+
+2° Cinq représentants des professionnels ; 
+
+3° Deux personnalités qualifiées ayant une expérience en matière de médiation ou issues du monde universitaire. 
+
+Le président et les membres de la commission sont nommés par arrêté du ministre chargé de la consommation pour un mandat de
+trois ans renouvelable une fois. 
+
+Un vice-président est désigné sur proposition de la commission. 
+
+La commission ne peut régulièrement délibérer qu'en présence de son président ou de son remplaçant et d'au moins six autres
+de ses membres. 
+
+Lorsque la commission évalue les pratiques de médiation, tout membre de la commission qui participe ou a participé à ces
+pratiques en tant que médiateur ou collaborateur permanent d'un médiateur s'abstient de participer aux délibérations. 
+
+Le directeur général de l'Institut national de la consommation ou son représentant peut participer aux séances de la
+commission de la médiation de la consommation. Il ne prend pas part aux votes sur les avis et recommandations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 16
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la consommation - art. L534-7
+
+
+###### Article R534-12
+
+La commission peut être saisie : 
+
+1° Par le ministre chargé de la consommation ; 
+
+2° Par toute association de défense des consommateurs disposant de l'agrément prévu à l'article L. 411-1 ; 
+
+3° Par tout membre du collège des professionnels du Conseil national de la consommation. 
+
+La commission peut se saisir d'office. 
+
+La commission ne peut examiner aucun litige relatif à la consommation. 
+
+Lorsqu'elle décide de ne pas donner suite à une saisine, la commission en informe son auteur. 
+
+Le président peut désigner un rapporteur parmi les membres de la commission pour l'instruction d'une affaire. Le rapporteur
+peut également être désigné dans les conditions prévues au II de l'article R. 534-17.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 16
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la consommation - art. L411-1
+	  - Code de la consommation - art. R534-17
 
 
 ### Titre IV : Le conseil national de l'alimentation.
