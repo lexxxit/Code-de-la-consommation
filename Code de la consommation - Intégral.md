@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-11-01
+Version Consolidée au 2010-11-01 00:00:01 +0100
 
 # Partie législative
 
@@ -18479,8 +18479,6 @@ mentionné à l'article L. 143-1 du code monétaire et financier.
 
 #### Chapitre II : Des compétences du juge de l'exécution en matière de traitement des situations de surendettement
 
-##### Section 1 : Du contrôle par le juge des mesures recommandées par la commission de surendettement
-
 ##### Section 1 : Du contrôle par le juge des mesures imposées ou recommandées par la commission de surendettement
 
 ###### Article L332-1
@@ -19000,12 +18998,20 @@ ans. En cas d'inexécution du plan, le juge en prononce la résolution.
 
 	**Modifié par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 45
-	  - Loi n°2014-344 du 17 mars 2014 - art. 43 (M)
+	  - Loi n°2014-344 du 17 mars 2014 - art. 43 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L331-7 (VT)
+	  - Code de la consommation - art. L331-7
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L742-24 (V)
+	  - Code de la consommation - art. L742-25 (V)
 
 
 ###### Article L332-11
