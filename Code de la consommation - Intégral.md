@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-12-09
+Version Consolidée au 2010-12-11
 
 # Partie législative
 
@@ -19498,38 +19498,52 @@ le présent chapitre.
 	  - Code de la consommation - art. L334-2 (VD)
 
 
-###### Article L333-8
+#### Chapitre III bis : Dispositions particulières au traitement de la situation de surendettement d'un entrepreneur individuel à responsabilité limitée
 
-Des décrets en Conseil d'Etat déterminent les conditions d'application du présent titre.
 
-**Nota:**
+###### Article L333-7
 
-Article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du 16
-décembre 1994.
+Les dispositions du présent titre sont applicables au débiteur qui a procédé à une déclaration de constitution de patrimoine
+affecté conformément à l'article L. 526-7 du code de commerce, sous les réserves énoncées par le présent article. 
+
+Elles s'appliquent à raison d'une situation de surendettement résultant uniquement de dettes non professionnelles. En ce cas,
+celles de ces dispositions qui intéressent les biens, droits et obligations du débiteur doivent être comprises, sauf
+dispositions contraires, comme visant les seuls éléments du patrimoine non affecté. Celles qui intéressent les droits et
+obligations des créanciers du débiteur s'appliquent dans les limites du seul patrimoine non affecté. 
+
+Lorsqu'une procédure de surendettement est engagée devant la commission à la demande d'un entrepreneur individuel à
+responsabilité limitée, celui-ci indique, lors du dépôt du dossier, si une procédure instituée par les titres II à IV du
+livre VI du code de commerce est ouverte à son bénéfice et auprès de quelle juridiction. 
+
+Lorsqu'une procédure instituée par les titres II à IV du livre VI du code de commerce est ouverte au bénéfice du débiteur
+après le dépôt du dossier et avant, selon les cas, l'approbation du plan conventionnel de redressement prévu à l'article L.
+331-6, jusqu'à la décision imposant les mesures prévues par l'article L. 331-7, jusqu'à l'homologation par le juge des
+mesures recommandées en application des articles L. 331-7-1, L. 331-7-2 et L. 332-5 ou jusqu'au jugement d'ouverture d'une
+procédure de rétablissement personnel avec liquidation judiciaire, le débiteur en informe la commission de surendettement et
+indique auprès de quelle juridiction cette procédure a été ouverte.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°89-1010 1989-12-31 art. 31
-	  - Loi n°89-1010 du 31 décembre 1989 - art. 31 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°89-1010 du 31 décembre 1989 - art. 18 (Ab)
 
 	**Créé par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2010-1512 du 9 décembre 2010 - art. 9
+
+	**Cite**:
+
+	  - Code de commerce - art. L526-7 (VD)
+	  - Code de la consommation - art. L331-6 (V)
+	  - Code de la consommation - art. L331-7 (V)
+	  - Code de la consommation - art. L331-7-1 (V)
+	  - Code de la consommation - art. L332-5 (V)
 
 	**Cité par**:
 
-	  - Code de la consommation - art. L331-5 (V)
-	  - Code de la consommation - art. L333-7 (Ab)
+	  - Code de la consommation - art. L334-5 (VT)
+	  - Code de la consommation - art. L334-9 (V)
 
 
 #### Chapitre IV : Dispositions relatives à l'outre-mer
