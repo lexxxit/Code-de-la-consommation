@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-12-11
+Version Consolidée au 2010-12-24
 
 # Partie législative
 
@@ -7896,6 +7896,40 @@ dommageable.
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. R631-3 (V)
+
+
+###### Article L141-6
+
+Lors du prononcé d'une condamnation, le juge peut, même d'office, pour des raisons tirées de l'équité ou de la situation
+économique du professionnel condamné, mettre à sa charge l'intégralité des droits proportionnels de recouvrement ou
+d'encaissement prévus à l'article 32 de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles
+d'exécution.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 32
+
+	**Créé par**:
+
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L142-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R522-3 (V)
+	  - Code de la consommation - art. R522-4 (V)
+	  - Code de la consommation - art. R522-5 (V)
+	  - Code de la consommation - art. R522-6 (V)
+	  - Code de la consommation - art. R631-4 (V)
 
 
 ## Livre II : Conformité et sécurité des produits et des services
@@ -19074,6 +19108,12 @@ renvoyer le dossier à la commission.
 	  - Code de la consommation - art. R332-22 (Ab)
 	  - Code de la consommation - art. R334-77 (Ab)
 
+
+#### Chapitre II : Des compétences du juge du tribunal d'instance en matière de traitement des situations de surendettement
+
+##### Section 1 : Du contrôle par le juge des mesures imposées ou recommandées par la commission de surendettement
+
+##### Section 2 : De la procédure de rétablissement personnel
 
 #### Chapitre III : Dispositions communes
 
