@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-12-24
+Version Consolidée au 2011-01-01
 
 # Partie législative
 
@@ -18520,7 +18520,7 @@ mentionné à l'article L. 143-1 du code monétaire et financier.
 	  - Code monétaire et financier - art. L143-1
 
 
-#### Chapitre II : Des compétences du juge de l'exécution en matière de traitement des situations de surendettement
+#### Chapitre II : Des compétences du juge du tribunal d'instance en matière de traitement des situations de surendettement
 
 ##### Section 1 : Du contrôle par le juge des mesures imposées ou recommandées par la commission de surendettement
 
@@ -19108,12 +19108,6 @@ renvoyer le dossier à la commission.
 	  - Code de la consommation - art. R332-22 (Ab)
 	  - Code de la consommation - art. R334-77 (Ab)
 
-
-#### Chapitre II : Des compétences du juge du tribunal d'instance en matière de traitement des situations de surendettement
-
-##### Section 1 : Du contrôle par le juge des mesures imposées ou recommandées par la commission de surendettement
-
-##### Section 2 : De la procédure de rétablissement personnel
 
 #### Chapitre III : Dispositions communes
 
@@ -24056,171 +24050,6 @@ auxquelles le non-professionnel ou le consommateur a subordonné son engagement 
 	  - Code de la consommation - art. R212-4 (V)
 
 
-##### Section 2 : Commission des clauses abusives
-
-###### Article R132-3
-
-La commission des clauses abusives, instituée par l'article L. 132-2, comprend treize membres répartis de la manière
-suivante :
-
-1° Un magistrat de l'ordre judiciaire, président ;
-
-2° Deux magistrats de l'ordre judiciaire ou administratif ou membres du Conseil d'Etat ;
-
-3° Deux personnalités qualifiées en matière de droit ou de technique des contrats, choisies après avis du Conseil national de
-la consommation ;
-
-4° Quatre représentants des professionnels ;
-
-5° Quatre représentants des consommateurs.
-
-Un vice-président, nommé au titre du 2°, est désigné.
-
-Le directeur général de l'Institut national de la consommation ou son représentant peut participer aux séances de la
-Commission des clauses abusives. Il ne prend pas part aux votes sur les recommandations et avis.
-
-La fonction de commissaire du Gouvernement est exercée par le directeur général de la concurrence, de la consommation et de
-la répression des fraudes ou son représentant.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-801 du 13 juillet 2010 - art. 12
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 3
-
-	**Cite**:
-
-	  - Code de la consommation - art. L132-2
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. R534-1 (VD)
-
-
-###### Article R132-4
-
-Le président et les membres de la commission sont nommés par arrêté du ministre chargé de la consommation pour un mandat,
-renouvelable, de trois ans. Cet arrêté désigne un suppléant pour chaque membre titulaire à l'exception du président. La
-nomination des magistrats est faite sur proposition du garde des sceaux, ministre de la justice.
-
-Tout membre de la commission ne peut délibérer dans une affaire lorsqu'il a un intérêt direct et personnel ou s'il représente
-ou a représenté une des parties intéressées.
-
-La commission est assistée d'un secrétaire général et d'un ou plusieurs rapporteurs permanents mis à disposition par le
-ministre chargé de la consommation. En outre, des rapporteurs particuliers peuvent être désignés par le président à raison de
-leurs compétences.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-314 1993-03-10 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. R534-2 (VD)
-
-
-###### Article R132-5
-
-La commission siège en formation plénière ou en une ou plusieurs formations restreintes composées du président ou du vice-
-président et des membres de la commission désignés à cet effet par le président.
-
-Le président répartit les affaires qu'il n'entend pas réserver à la formation plénière entre les formations restreintes. Il
-répartit avec le secrétaire général les affaires entre les rapporteurs.
-
-Les membres de la commission et les rapporteurs peuvent entendre toute personne susceptible d'apporter des informations sur
-les affaires dont ils ont la charge et se faire communiquer tout document nécessaire à l'accomplissement de leur mission.
-
-Les séances ne sont pas publiques. Les parties intéressées peuvent demander à être entendues avant le délibéré sauf lorsque
-est examinée une saisine judiciaire. En cas de partage égal des voix, celle du président est prépondérante.
-
-Tout membre titulaire qui n'assiste pas, sans motif légitime, à trois réunions consécutives est déclaré démissionnaire.
-
-La commission établit son règlement intérieur qui définit notamment les modalités matérielles de recevabilité des saisines
-autres que d'origine judiciaire. Ce règlement est publié au Bulletin officiel de la concurrence, de la consommation et de la
-répression des fraudes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-314 1993-03-10 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 5
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. R534-3 (VD)
-
-
-###### Article R132-6
-
-La commission peut être saisie pour avis lorsque à l'occasion d'une instance le caractère abusif d'une clause contractuelle
-est soulevé.
-
-Le juge compétent demande à la commission, par décision non susceptible de recours, son avis sur le caractère abusif de cette
-clause tel que défini à l'article L. 132-1. L'avis ne lie pas le juge.
-
-La commission fait connaître son avis dans un délai maximum de trois mois à compter de sa saisine.
-
-Il est sursis à toute décision sur le fond de l'affaire jusqu'à réception de l'avis de la commission ou, à défaut, jusqu'à
-l'expiration du délai de trois mois susmentionné. Toutefois, les mesures urgentes ou conservatoires nécessaires peuvent être
-prises.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-314 1993-03-10 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 6
-
-	**Cite**:
-
-	  - Code de la consommation - art. L132-1
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. R534-4 (VD)
-
-
 #### Chapitre IV : Remise des contrats
 
 ###### Article R134-1
@@ -26548,398 +26377,6 @@ La récidive de cette même contravention est réprimée conformément à l'arti
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. R452-4 (V)
-
-
-#### Chapitre IV : La commission de la sécurité des consommateurs
-
-###### Article R224-1
-
-La commission de la sécurité des consommateurs comprend, outre son président, quinze membres, nommés par arrêté du ministre
-chargé de la consommation après avis des ministres intéressés :
-
-1° Un magistrat de l'ordre judiciaire, proposé par l'assemblée générale de la Cour de cassation ;
-
-2° Un membre de la Cour des comptes, proposé par l'ensemble des magistrats qui la composent ;
-
-3° Une personnalité qualifiée dans le droit de la consommation issue du monde universitaire, nommée par le ministre chargé de
-la consommation ;
-
-4° Trois membres des organisations nationales de consommateurs, choisis sur une liste de neuf noms proposée par le collège
-des consommateurs du Conseil national de la consommation ;
-
-5° Trois membres des organisations nationales de professionnels, choisis sur une liste de neuf noms proposée par le collège
-professionnel du Conseil national de la consommation ;
-
-6° Six personnalités qualifiées, chacune d'elle choisie sur une liste comportant trois noms, la première liste proposée par
-le président du Haut Conseil de la santé publique, la deuxième proposée par le conseil d'administration du Laboratoire
-national d'essais, la troisième proposée par le conseil d'administration de l'Institut national de la santé et de la
-recherche médicale, la quatrième proposée par le conseil d'administration de la Caisse nationale d'assurance maladie des
-travailleurs salariés, la cinquième proposée par le conseil d'administration du centre scientifique et technique du bâtiment
-et la sixième, composée de médecins compétents en matière d'aide médicale urgente, proposée par le président du Conseil
-national de l'ordre des médecins.
-
-Le directeur général de l'Institut national de la consommation ou son représentant peut participer aux séances de la
-Commission de la sécurité des consommateurs. Il ne prend pas part aux votes sur les avis. Il est, ainsi que son représentant,
-astreint aux règles de secret définies à l'article L. 224-6.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-801 du 13 juillet 2010 - art. 13
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 8
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. R534-5 (VD)
-
-
-###### Article R224-2
-
-Le président de la commission de la sécurité des consommateurs est nommé pour cinq ans, les membres de la commission pour
-trois ans.
-
-Les mandats du président et des membres de la commission sont renouvelables une fois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-270 du 11 avril 1984 - art. 2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 9
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. R534-6 (VD)
-
-
-###### Article R224-3
-
-Tout membre de la commission qui, sans raison valable, n'a pas participé à trois séances consécutives est considéré comme
-démissionnaire d'office de ses fonctions.
-
-En cas de décès ou de démission son successeur est désigné, dans les conditions fixées à l'article R. 224-1, pour la durée du
-mandat restant à courir.
-
-Si cette durée est inférieure à dix-huit mois, le mandat ainsi accompli par le successeur n'est pas pris en compte pour
-l'application de la règle selon laquelle les mandats ne sont renouvelables qu'une fois.
-
-En cas d'absence ou d'empêchement, le président est remplacé par le magistrat de l'ordre judiciaire ou, à défaut, par le
-membre de la Cour des comptes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-270 du 11 avril 1984 - art. 3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Modifié par**:
-
-	  - Décret n°2006-665 du 7 juin 2006 - art. 55 () JORF 8 juin 2006 en vigueur le 1er août 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1221 du 18 octobre 2010 - art. 10
-
-	**Cite**:
-
-	  - Code de la consommation
-
-
-###### Article R224-4
-
-Des agents publics et des magistrats mis à la disposition de la commission avec l'accord du président, pour une durée
-déterminée renouvelable, l'assistent dans ses travaux.
-
-Le président désigne l'un d'entre eux pour exercer les fonctions de secrétaire général.
-
-La commission peut également, pour ses recherches, demander le concours des agents mentionnés à l'article L. 222-1. Ces
-agents adressent directement leurs rapports à la commission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-270 du 11 avril 1984 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1221 du 18 octobre 2010 - art. 10
-
-	**Cite**:
-
-	  - Code de la consommation - art. L222-1
-
-
-###### Article R224-5
-
-Les crédits nécessaires à la commission pour l'accomplissement de sa mission figurent au budget du ministère chargé de la
-consommation et sont inscrits sur des articles individualisés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-270 du 11 avril 1984 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1221 du 18 octobre 2010 - art. 10
-
-
-###### Article R224-6
-
-Les requêtes dont la commission est saisie sont enregistrées dans leur ordre d'arrivée.
-
-Lorsque la commission décide de se saisir d'office d'une affaire, celle-ci est enregistrée aussitôt après la séance au cours
-de laquelle la décision a été prise.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-270 du 11 avril 1984 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 11
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. R534-7 (VD)
-
-
-###### Article R224-7
-
-Pour l'application du premier alinéa de l'article L. 224-3, le président attribue les requêtes à un membre de la commission
-qui établit un rapport sommaire sur les suites à donner à la requête.
-
-La commission se prononce sur les conclusions de ce rapport et décide soit de ne pas donner suite, soit de poursuivre
-l'instruction de la requête.
-
-Lorsque la commission décide de donner suite à la requête le président désigne, parmi les membres de la commission, un
-rapporteur chargé d'instruire l'affaire. Celui-ci dispose de l'ensemble des pouvoirs reconnus à la commission à l'article L.
-224-4.
-
-Pour assister le rapporteur dans l'instruction des affaires, le président peut faire appel, avec l'accord du ministre
-intéressé, à des fonctionnaires de catégorie A ou des agents contractuels de l'Etat de niveau équivalent, qui agissent alors
-en qualité d'agents de la commission. Ces fonctionnaires ou agents peuvent assister aux séances de la commission lorsque sont
-examinées les affaires à l'instruction desquelles ils ont apporté leur concours.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-270 du 11 avril 1984 - art. 7 (M)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 12
-
-	**Cite**:
-
-	  - Code de la consommation - art. L224-3
-	  - Code de la consommation - art. L224-4
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. R534-8 (VD)
-
-
-###### Article R224-8
-
-L'auteur de la saisine et le ou les professionnels concernés reçoivent communication des informations recueillies par le
-rapporteur qui ne sont protégées ni par le secret professionnel ni par le secret de fabrication.
-
-Ils disposent d'un délai d'un mois pour présenter leurs observations. Ce délai peut être porté jusqu'à trois mois par
-décision du président.
-
-Ces observations sont annexées au rapport avec les remarques qu'elles appellent de la part du rapporteur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-270 du 11 avril 1984 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 13
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. R534-10 (VD)
-
-
-###### Article R224-9
-
-Le ministre chargé de la consommation désigne un commissaire du Gouvernement et des suppléants éventuels.
-
-Le commissaire du Gouvernement assiste à toutes les séances de la commission. Il peut se faire assister par un ou plusieurs
-fonctionnaires qualifiés. Le rapport du rapporteur lui est communiqué huit jours au moins avant la séance, sauf en cas
-d'urgence. Le délai de quatre jours prévu au dernier alinéa de l'article L. 224-1 court à compter du jour de la séance au
-cours de laquelle l'avis a été adopté.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-270 du 11 avril 1984 - art. 9 (M)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1221 du 18 octobre 2010 - art. 14
-
-	**Cite**:
-
-	  - Code de la consommation - art. L224-1
-
-
-###### Article R224-10
-
-La commission ne peut valablement délibérer que si sept de ses membres participent à la séance.
-
-Elle entend, outre les personnes concernées, toute personne dont l'audition lui paraît susceptible de contribuer à son
-information.
-
-Les séances de la commission ne sont pas publiques.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-270 du 11 avril 1984 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1221 du 18 octobre 2010 - art. 14
-
-
-###### Article R224-11
-
-Les délibérations de la commission sont prises à la majorité des voix des membres présents. En cas de partage, la voix du
-président est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-270 du 11 avril 1984 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1221 du 18 octobre 2010 - art. 14
-
-
-###### Article R224-12
-
-Les avis de la commission sont motivés.
-
-Ils sont communiqués au ministre chargé de la consommation, aux ministres intéressés, à l'auteur de la saisine et aux
-professionnels intéressés.
-
-Le commissaire du Gouvernement établit chaque année et adresse à la commission un rapport sur les suites données aux avis de
-cette dernière.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-270 du 11 avril 1984 - art. 12 (M)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1221 du 18 octobre 2010 - art. 14
 
 
 #### Chapitre V : Dispositions diverses
@@ -36425,13 +35862,28 @@ b) Regrouper, produire, analyser et diffuser des informations, études, enquête
 
 c) Mettre en œuvre des actions et des campagnes d'information, de communication, de prévention, de formation et d'éducation
 sur les questions de consommation à destination du grand public, ainsi que des publics professionnels ou associatifs
-concernés.
+concernés ;
+
+d) Apporter un appui technique aux commissions placées auprès de lui et collaborer à l'instruction de leurs avis et
+recommandations.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-801 du 13 juillet 2010 - art. 7
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 18
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L822-2 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R531-3 (Ab)
 
 
 ###### Article R531-3
@@ -36495,26 +35947,26 @@ b) Réalise tout produit, étude, essai comparatif ou service lié à ses missio
 ###### Article R531-4
 
 L'Institut national de la consommation est administré par un conseil d'administration composé de dix-sept membres ayant voix
-délibérative :
+délibérative : 
 
-1° Cinq représentants des consommateurs et usagers désignés par le ministre chargé de la consommation ;
+1° Cinq représentants des consommateurs et usagers désignés par le ministre chargé de la consommation ; 
 
 2° Cinq représentants de l'Etat, désignés conjointement par le ministre chargé de l'économie et le ministre chargé de la
-consommation ;
+consommation ; 
 
 3° Deux représentants élus par le personnel de l'Institut national de la consommation, dans les conditions prévues par la loi
-n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public ;
+n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public ; 
 
-4° Le président de la Commission de la sécurité des consommateurs, le président de la Commission des clauses abusives, ainsi
-qu'un représentant du collège des professionnels du Conseil national de la consommation, un ingénieur des corps de l'Etat et
-un magistrat désignés par le ministre chargé de la consommation ;
+4° Le président de la Commission de la sécurité des consommateurs, le président de la Commission des clauses abusives, le
+président de la commission de la médiation de la consommation, ainsi qu'un représentant du collège des professionnels du
+Conseil national de la consommation et un ingénieur des corps de l'Etat désigné par le ministre chargé de la consommation ; 
 
-Les membres sont nommés par arrêté du ministre chargé de la consommation pour un mandat de trois ans, renouvelable une fois.
+Les membres sont nommés par arrêté du ministre chargé de la consommation pour un mandat de trois ans, renouvelable une fois. 
 
 Il peut être mis fin, par arrêté du ministre chargé de la consommation, au mandat de tout membre qui, sans raison légitime,
 n'a pas participé à trois séances consécutives du conseil d'administration. Cette disposition n'est toutefois pas applicable
 aux membres du conseil d'administration désignés en raison de leur fonction de président de l'une des commissions prévues à
-l'article L. 132-2 et à l'article L. 224-1.
+l'article L. 534-1, à l'article L. 534-4 et à l'article L. 534-7. 
 
 En cas de vacance survenant, pour quelque cause que ce soit, plus de six mois avant l'expiration du mandat, un autre membre
 est désigné par le ministre chargé de la consommation pour la durée du mandat restant à courir. Cette durée s'impute sur le
@@ -36525,10 +35977,21 @@ décompte de deux mandats autorisés par l'alinéa précédent, si elle est éga
 	**Cite**:
 
 	  - Loi n°83-675 du 26 juillet 1983
+	  - Code de la consommation - art. L534-1
+	  - Code de la consommation - art. L534-4
+	  - Code de la consommation - art. L534-7
 
 	**Modifié par**:
 
-	  - Décret n°2010-801 du 13 juillet 2010 - art. 9
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 19
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-4 (V)
 
 
 ###### Article R531-5
@@ -36614,41 +36077,42 @@ représenter en cas d'empêchement.
 
 ###### Article R531-8
 
-Le conseil d'administration délibère sur :
+Le conseil d'administration délibère sur : 
 
-1° Les orientations générales de l'établissement ;
+1° Les orientations générales de l'établissement ; 
 
-2° Le contrat d'objectifs pluriannuel que l'établissement conclut avec l'Etat ;
+2° Le contrat d'objectifs pluriannuel que l'établissement conclut avec l'Etat ; 
 
-3° Les programmes annuels ou pluriannuels d'action ;
+3° Les programmes annuels ou pluriannuels d'action ; 
 
 4° Le règlement intérieur de la commission mentionnée au 1 de l'article R. 531-3, ainsi que sur le cahier des charges annuel
 des prestations de l'appui technique aux organisations de consommateurs élaboré par cette commission et présenté par le
-directeur ;
+directeur ; 
 
 5° L'état annuel des prévisions de recettes et de dépenses, ainsi que sur les états rectificatifs qui comportent soit une
 augmentation du montant global des dépenses, soit des virements de crédits entre la section des opérations en capital et la
-section de fonctionnement ou entre les chapitres de matériel et les chapitres de personnel. Les autres états rectificatifs
-sont pris par le directeur après avis conforme du membre du corps du contrôle général économique et financier. Il en rend
-compte au conseil d'administration à sa plus proche séance ;
+section de fonctionnement, entre les chapitres de matériel et les chapitres de personnel ou entre les sections prévues à
+l'article R. 533-6 et une autre affectation. Les autres états rectificatifs sont pris par le directeur après avis conforme du
+membre du corps du contrôle général économique et financier. Il en rend compte au conseil d'administration à sa plus proche
+séance ; 
 
-6° Les conditions générales de fixation des prix de vente des produits et des prestations de l'établissement ;
+6° Les conditions générales de fixation des prix de vente des produits et des prestations de l'établissement ; 
 
-7° Le rapport annuel d'activité présenté par le directeur ;
+7° Le rapport annuel d'activité présenté par le directeur ; 
 
-8° Le compte financier et l'affectation des résultats de l'exercice ;
+8° Le compte financier et l'affectation des résultats de l'exercice ; 
 
-9° Les emprunts ;
+9° Les emprunts ; 
 
-10° Les prises, extensions ou cessions de participations financières de l'établissement ;
+10° Les prises, extensions ou cessions de participations financières de l'établissement ; 
 
-11° La création ou la cession de sociétés filiales ;
+11° La création ou la cession de sociétés filiales ; 
 
-12° L'acceptation ou le refus de dons et legs ;
+12° L'acceptation ou le refus de dons et legs ; 
 
-13° Les conditions générales de recrutement, d'emploi et de rémunération des personnels ;
+13° Les conditions générales de recrutement, d'emploi et de rémunération des personnels ; 
 
-14° L'exercice des actions en justice et les transactions.
+14° L'exercice des actions en justice et les transactions. 
 
 Le conseil d'administration élabore son règlement intérieur.
 
@@ -36656,29 +36120,31 @@ Le conseil d'administration élabore son règlement intérieur.
 
 	**Modifié par**:
 
-	  - Décret n°2010-801 du 13 juillet 2010 - art. 11
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 21
 
 	**Cite**:
 
-	  - Code de la consommation
+	  - Code de la consommation - art. R531-3
+	  - Code de la consommation - art. R533-6
 
 
 ###### Article R531-9
 
-Le commissaire du Gouvernement auprès de l'Institut national de la consommation est le directeur général de la concurrence,
-de la consommation et de la répression des fraudes.
+Le commissaire du Gouvernement désigné auprès de la commission instituée à l'article L. 534-4 dans les conditions prévues au
+deuxième alinéa de cet article est également commissaire du Gouvernement auprès de l'Institut national de la consommation,
+ainsi que des commissions instituées aux articles L. 534-1 et L. 534-7. 
 
 Pour les séances du conseil d'administration, il peut se faire accompagner par tout collaborateur ou personne qualifiée de
-son choix. Il peut s'y faire représenter.
+son choix. Il peut s'y faire représenter. 
 
 Les délibérations du conseil d'administration sont exécutoires, sauf si le commissaire du Gouvernement demande la suspension
 de cette exécution dans les dix jours qui suivent la délibération. Dans ce cas, le commissaire du Gouvernement soumet cette
-délibération au ministre chargé de la consommation, qui se prononce dans un délai d'un mois après la demande de suspension. A
-défaut d'une décision de rejet expresse et motivée de la part du ministre dans ce délai, la délibération est exécutoire.
+délibération au ministre chargé de la consommation, qui se prononce dans un délai d'un mois après la demande de suspension.A
+défaut d'une décision de rejet expresse et motivée de la part du ministre dans ce délai, la délibération est exécutoire. 
 
 Toutefois, les délibérations relatives aux emprunts, aux prises, extensions et cessions de participations et aux créations ou
 cessions de filiales ne sont exécutoires qu'après approbation par arrêté conjoint du ministre chargé du budget, du ministre
-chargé de la consommation et, le cas échéant, du ministre chargé de l'économie.
+chargé de la consommation et, le cas échéant, du ministre chargé de l'économie. 
 
 Les délibérations relatives au compte financier et à l'affectation des résultats, aux états prévisionnels de recettes et
 dépenses, à l'acceptation ou au refus des dons et legs, aux conditions générales de recrutement, d'emploi et de rémunération
@@ -36690,31 +36156,41 @@ ministre chargé du budget.
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Modifié par**:
 
-	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 22
+
+	**Cite**:
+
+	  - Code de la consommation - art. L534-1
+	  - Code de la consommation - art. L534-4
+	  - Code de la consommation - art. L534-7
 
 
 ###### Article R531-10
 
 Le directeur général de l'Institut national de la consommation est nommé par décret pris sur le rapport du Premier ministre
-et du ministre chargé de la consommation. Il assure la direction et la gestion de l'établissement.
+et du ministre chargé de la consommation. Il assure la direction et la gestion de l'établissement. 
 
-Le directeur général :
+Le directeur général : 
 
-1° Prépare et exécute les décisions du conseil d'administration ;
+1° Prépare et exécute les décisions du conseil d'administration ; 
 
-2° Est responsable de l'organisation de l'établissement ainsi que de son fonctionnement ;
+2° Est responsable de l'organisation de l'établissement ainsi que de son fonctionnement ; 
 
-3° Prépare les programmes d'activités de l'établissement et en assure l'exécution ;
+3° Prépare les programmes d'activités de l'établissement et en assure l'exécution ; 
 
-4° Recrute et gère le personnel ;
+4° Recrute et gère le personnel. Avant toute décision qu'il prend ou instruit relative à la situation d'un agent placé sous
+son autorité qui exerce auprès d'une commission relevant du chapitre IV du titre III du livre V des fonctions dans les
+conditions prévues par le I de l'article R. 534-17, ou qui instruit auprès de cette commission un avis ou une recommandation
+dans les conditions prévues par le II de l'article R. 534-17, le directeur général consulte le président de cette
+commission ; 
 
 5° Représente l'Institut national de la consommation en justice et dans tous les actes de la vie civile. Pour agir en
 justice, il doit disposer de l'autorisation du conseil d'administration ou, à défaut, en cas d'urgence, de celle du président
-du conseil d'administration. Il en rend compte au conseil d'administration ;
+du conseil d'administration. Il en rend compte au conseil d'administration ; 
 
 6° Est ordonnateur des recettes et des dépenses.
 
@@ -36722,7 +36198,19 @@ du conseil d'administration. Il en rend compte au conseil d'administration ;
 
 	**Modifié par**:
 
-	  - Décret n°2010-801 du 13 juillet 2010 - art. 10
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 23
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R534-17
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-11 (V)
 
 
 #### Chapitre II : Organes consultatifs.
@@ -36869,6 +36357,23 @@ publique ou privée ;
 	  - Code de la consommation - art. R822-16 (V)
 
 
+###### Article R533-6
+
+Les crédits nécessaires à la couverture des dépenses de fonctionnement hors personnel de chacune des commissions placées
+auprès de l'Institut national de la consommation pour l'accomplissement de leurs missions font l'objet d'une section
+distincte de l'état prévisionnel de ressources et de dépenses de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 20
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R531-8 (VD)
+
+
 #### Chapitre IV : Dispositions diverses.
 
 ##### Section 3 : La commission de la médiation de la consommation
@@ -36947,6 +36452,520 @@ peut également être désigné dans les conditions prévues au II de l'article 
 
 	  - Code de la consommation - art. L411-1
 	  - Code de la consommation - art. R534-17
+
+
+#### Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation
+
+##### Section 1 : La commission des clauses abusives
+
+###### Article R534-1
+
+La commission des clauses abusives, instituée par l'article L. 534-1, comprend treize membres répartis de la manière
+suivante : 
+
+1° Un magistrat de l'ordre judiciaire, président ; 
+
+2° Deux magistrats de l'ordre judiciaire ou administratif ou membres du Conseil d'Etat ; 
+
+3° Deux personnalités qualifiées en matière de droit ou de technique des contrats, choisies après avis du Conseil national de
+la consommation ; 
+
+4° Quatre représentants des professionnels ; 
+
+5° Quatre représentants des consommateurs. 
+
+Un vice-président, nommé au titre du 2°, est désigné. 
+
+Le directeur général de l'Institut national de la consommation ou son représentant peut participer aux séances de la
+Commission des clauses abusives. Il ne prend pas part aux votes sur les recommandations et avis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L534-1
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R132-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-18 (V)
+
+
+###### Article R534-2
+
+Le président et les membres de la commission sont nommés par arrêté du ministre chargé de la consommation pour un mandat de
+trois ans renouvelable une fois. Cet arrêté désigne un suppléant pour chaque membre titulaire à l'exception du président. La
+nomination des magistrats est faite sur proposition du garde des sceaux, ministre de la justice.
+
+Tout membre de la commission ne peut prendre part aux délibérations lorsqu'il a un intérêt personnel à l'affaire qui en est
+l'objet ou s'il représente ou a représenté moins de cinq ans avant la délibération une des parties intéressées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R132-4 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-19 (V)
+
+
+###### Article R534-3
+
+La commission siège en formation plénière. 
+
+Le président peut désigner un rapporteur parmi les membres de la commission pour l'instruction d'une affaire. Le rapporteur
+peut également être désigné dans les conditions prévues au II de l'article R. 534-17. 
+
+La commission ne peut régulièrement délibérer qu'en présence de son président ou de son remplaçant et d'au moins six autres
+de ses membres. 
+
+Les parties intéressées peuvent demander à être entendues avant le délibéré sauf lorsque est examinée une saisine judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R132-5 (VT)
+
+	**Cite**:
+
+	  - Code de la consommation - art. R534-17
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-20 (V)
+
+
+###### Article R534-4
+
+La commission peut être saisie pour avis lorsque à l'occasion d'une instance le caractère abusif d'une clause contractuelle
+est soulevé. 
+
+Le juge compétent demande à la commission, par décision non susceptible de recours, son avis sur le caractère abusif de cette
+clause tel que défini à l'article L. 132-1.L'avis ne lie pas le juge. 
+
+La commission fait connaître son avis dans un délai maximum de trois mois à compter de sa saisine. 
+
+Il est sursis à toute décision sur le fond de l'affaire jusqu'à réception de l'avis de la commission ou, à défaut, jusqu'à
+l'expiration du délai de trois mois susmentionné. Toutefois, les mesures urgentes ou conservatoires nécessaires peuvent être
+prises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 6
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L132-1
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R132-6 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-21 (V)
+
+
+##### Section 2 : La commission de la sécurité des consommateurs
+
+###### Article R534-5
+
+La commission de la sécurité des consommateurs comprend, outre son président, quinze membres, nommés par arrêté du ministre
+chargé de la consommation après avis des ministres intéressés : 
+
+1° Un magistrat de l'ordre judiciaire, proposé par l'assemblée générale de la Cour de cassation ; 
+
+2° Un membre de la Cour des comptes, proposé par l'ensemble des magistrats qui la composent ; 
+
+3° Une personnalité qualifiée dans le droit de la consommation issue du monde universitaire, nommée par le ministre chargé de
+la consommation ; 
+
+4° Trois membres des organisations nationales de consommateurs, choisis sur une liste de neuf noms proposée par le collège
+des consommateurs du Conseil national de la consommation ; 
+
+5° Trois membres des organisations nationales de professionnels, choisis sur une liste de neuf noms proposée par le collège
+professionnel du Conseil national de la consommation ; 
+
+6° Six personnalités qualifiées, chacune d'elle choisie sur une liste comportant trois noms, la première liste proposée par
+le président du Haut Conseil de la santé publique, la deuxième proposée par le conseil d'administration du Laboratoire
+national d'essais, la troisième proposée par le conseil d'administration de l'Institut national de la santé et de la
+recherche médicale, la quatrième proposée par le conseil d'administration de la Caisse nationale d'assurance maladie des
+travailleurs salariés, la cinquième proposée par le conseil d'administration du centre scientifique et technique du bâtiment
+et la sixième, composée de médecins compétents en matière d'aide médicale urgente, proposée par le président du Conseil
+national de l'ordre des médecins. 
+
+Le directeur général de l'Institut national de la consommation ou son représentant peut participer aux séances de la
+Commission de la sécurité des consommateurs. Il ne prend pas part aux votes sur les avis. Il est, ainsi que son représentant,
+astreint aux règles de secret définies à l'article L. 534-10. 
+
+Par dérogation aux articles 10 et 11 du décret n° 2006-672 susvisé, la commission ne peut régulièrement délibérer qu'en
+présence de son président ou de son remplaçant et d'au moins six autres de ses membres, lesquels ne peuvent être suppléés ni
+donner mandat à un autre membre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 10
+	  - Code de la consommation - art. L534-10
+
+	**Créé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 8
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R224-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-23 (M)
+
+
+###### Article R534-6
+
+Le président et les membres de la commission de la sécurité des consommateurs sont nommés pour trois ans.
+
+Les mandats du président et des membres de la commission sont renouvelables une fois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 9
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R224-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-24 (V)
+
+
+###### Article R534-7
+
+Les requêtes dont la commission est saisie sont enregistrées dans leur ordre d'arrivée.
+
+Lorsque la commission décide de se saisir d'office d'une affaire, celle-ci est enregistrée aussitôt après la séance au cours
+de laquelle la décision a été prise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 11
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R224-6 (VT)
+
+
+###### Article R534-8
+
+Pour l'application du premier alinéa de l'article L. 534-6, le président attribue les requêtes à un membre de la commission
+qui établit un rapport sommaire sur les suites à donner à la requête. 
+
+La commission se prononce sur les conclusions de ce rapport et décide soit de ne pas donner suite, soit de poursuivre
+l'instruction de la requête. 
+
+Lorsque la commission décide de donner suite à la requête le président désigne, parmi les membres de la commission, un
+rapporteur chargé d'instruire l'affaire. Celui-ci dispose de l'ensemble des pouvoirs reconnus à la commission à l'article L.
+534-9. 
+
+Tout membre de la commission ne peut prendre part aux délibérations lorsqu'il a un intérêt personnel à l'affaire qui en est
+l'objet ou s'il représente ou a représenté moins de cinq ans avant la délibération une des parties intéressées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 12
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L534-6
+	  - Code de la consommation - art. L534-9
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R224-7 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-26 (V)
+
+
+###### Article R534-10
+
+L'auteur de la saisine et le ou les professionnels concernés reçoivent communication des informations recueillies par le
+rapporteur qui ne sont protégées ni par le secret professionnel ni par le secret de fabrication.
+
+Ils disposent d'un délai d'un mois pour présenter leurs observations. Ce délai peut être porté jusqu'à trois mois par
+décision du président.
+
+Ces observations sont annexées au rapport avec les remarques qu'elles appellent de la part du rapporteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R224-8 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-27 (V)
+
+
+##### Section 3 : La commission de la médiation de la consommation
+
+
+##### Section 4 : Dispositions communes aux commissions   placées auprès de l'Institut national de la consommation
+
+###### Article R534-13
+
+Sur la proposition du président de la commission, il peut être mis fin, par arrêté du ministre chargé de la consommation, au
+mandat de tout membre de la commission qui, sans raison légitime, n'a pas participé à trois séances de la commission sur une
+période de douze mois. 
+
+Le membre de la commission qui décède, qui démissionne ou dont le mandat a pris fin par application du précédent alinéa est
+remplacé pour la durée du mandat restant à courir par une personne désignée dans les mêmes conditions. 
+
+Si cette durée est inférieure à dix-huit mois, le mandat ainsi accompli par le successeur n'est pas pris en compte pour
+l'application de la règle selon laquelle les mandats ne sont renouvelables qu'une fois. 
+
+En cas d'absence ou d'empêchement, le président de la commission instituée par l'article L. 534-1 ou par l'article L. 534-7
+est remplacé par le vice-président, et le président de la commission instituée par l'article L. 534-4 est remplacé par le
+magistrat de l'ordre judiciaire ou, à défaut, par le membre de la Cour des comptes faisant partie de la commission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 17
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L534-1
+	  - Code de la consommation - art. L534-4
+	  - Code de la consommation - art. L534-7
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-28 (V)
+
+
+###### Article R534-14
+
+Les séances de la commission ne sont pas publiques.
+
+A défaut de consensus, la commission se prononce à la majorité des voix des membres présents. Le président de séance a voix
+prépondérante en cas de partage égal des voix. 
+
+La commission établit son règlement intérieur qui est publié au Bulletin officiel de la concurrence, de la consommation et de
+la répression des fraudes. Le règlement intérieur de la commission définit notamment les modalités matérielles de
+recevabilité des saisines. Il peut préciser les obligations déontologiques des membres de la commission. 
+
+La saisine par le ministre chargé de la consommation ou, dans le cas de la commission instituée par l'article L. 534-1, par
+un juge ne peut être déclarée irrecevable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 17
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L534-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-29 (V)
+
+
+###### Article R534-15
+
+Les avis et recommandations de la commission sont motivés. 
+
+Le président de la commission communique l'avis ou la recommandation au ministre chargé de la consommation, aux ministres
+intéressés, à l'auteur de la saisine et aux professionnels entendus durant l'instruction. 
+
+Le commissaire du Gouvernement désigné dans les conditions prévues par l'article L. 534-4 établit chaque année et adresse à
+la commission instituée par ce même article un rapport sur les suites données aux avis et recommandations de cette dernière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 17
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L534-4
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-30 (V)
+
+
+###### Article R534-16
+
+Le commissaire du Gouvernement assiste à toutes les séances de la commission ou s'y fait représenter par un délégué qu'il
+désigne dans un courrier adressé au président de la commission. Il peut également, ainsi que son représentant, se faire
+assister par un ou plusieurs fonctionnaires ou agents qualifiés. 
+
+Huit jours au moins avant la séance, il reçoit communication du ou des rapports établis pour préparer les délibérations, sauf
+en cas d'urgence. 
+
+Le délai de quatre jours prévu au dernier alinéa de l'article L. 534-4 court à compter du jour de la séance durant laquelle
+l'avis ou la recommandation a été adopté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 17
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L534-4
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-31 (V)
+
+
+###### Article R534-17
+
+I. ― Des agents publics et des magistrats détachés dans les services communs définis à l'article L. 531-3 ou mis à
+disposition de ces services et des salariés de l'Institut national de la consommation peuvent exercer des fonctions de
+secrétaire ou de collaborateur de la commission. 
+
+Les titulaires de ces fonctions sont choisis par le directeur général de l'Institut national de la consommation en accord
+avec le président de la commission. 
+
+II. ― Pour l'instruction d'avis ou de recommandations sous l'autorité du président ou de membres de la commission désignés à
+cet effet par celui-ci, le président de la commission demande au directeur général de l'Institut national de la consommation
+de désigner des agents des services communs définis à l'article L. 531-3 ou de faire appel, avec l'accord du ministre
+intéressé, à des fonctionnaires de catégorie A ou des agents contractuels de l'Etat de niveau équivalent. Cette instruction
+peut être confiée à des personnes qualifiées choisies d'un commun accord entre le directeur général de l'Institut national de
+la consommation et le président de la commission. 
+
+III. ― Pour l'accomplissement de travaux particuliers sous l'autorité du président ou de membres de la commission désignés à
+cet effet par celui-ci, le président de la commission demande au directeur général de l'Institut national de la consommation
+de désigner des agents des services communs définis à l'article L. 531-3. 
+
+IV. ― Le directeur général de l'Institut national de la consommation ne peut refuser de donner suite aux demandes prévues aux
+II et III que pour des motifs tirés de l'insuffisance des moyens de l'établissement. 
+
+Dans l'exercice des fonctions ou l'accomplissement des travaux définis aux I à III du présent article, les agents ou
+personnes qualifiées ne reçoivent d'instructions que du président ou de membres de la commission désignés à cet effet par
+celui-ci. Ils ont qualité d'agents de la commission pendant toute la durée de leur collaboration, ne rendent compte de leurs
+activités qu'au président et aux membres de la commission et sont astreints au secret professionnel dans les conditions
+définies à l'article L. 534-10. Le président de la commission peut les inviter à assister aux séances de la commission
+lorsque sont examinées les affaires à l'instruction desquelles ils ont apporté leur concours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1221 du 18 octobre 2010 - art. 17
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L531-3
+	  - Code de la consommation - art. L534-10
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R531-10 (Ab)
+	  - Code de la consommation - art. R534-12 (Ab)
+	  - Code de la consommation - art. R534-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-32 (V)
 
 
 ### Titre IV : Le conseil national de l'alimentation.
