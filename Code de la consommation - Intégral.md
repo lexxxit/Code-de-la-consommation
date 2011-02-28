@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2011-03-01
+Version Consolidée au 2011-03-01 00:00:01 +0100
 
 # Partie législative
 
@@ -6611,15 +6611,20 @@ permettent une prise en compte de ces index pour l'émission de ses factures.
 
 	  - Loi n°93-949 du 26 juillet 1993
 
-	**Modifié par**:
-
-	  - Loi n°2010-1488 du 7 décembre 2010 - art. 18 (V)
-
 	**Cité par**:
 
 	  - Arrêté du 18 avril 2012 (V)
 	  - Arrêté du 18 avril 2012 - art. 4 (VD)
 	  - Code de la consommation - art. R121-18 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-11 (M)
+	  - Code de la consommation - art. L224-12 (V)
 
 
 ###### Article L121-92
