@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2011-02-04
+Version Consolidée au 2011-03-01
 
 # Partie législative
 
@@ -6386,51 +6386,58 @@ ou inférieure à 36 kilovoltampères ou pour une consommation de gaz naturel in
 ###### Article L121-87
 
 L'offre de fourniture d'électricité ou de gaz naturel précise, dans des termes clairs et compréhensibles, les informations
-suivantes : 
+suivantes :
 
 1° L'identité du fournisseur, l'adresse de son siège social et son numéro d'inscription au registre du commerce et des
 sociétés ou tout document équivalent pour les sociétés situées hors de France et pour les opérateurs qui ne sont pas inscrits
-au registre du commerce et des sociétés ; 
+au registre du commerce et des sociétés ;
 
-2° Le numéro de téléphone et, le cas échéant, l'adresse électronique du fournisseur ; 
+2° Le numéro de téléphone et, le cas échéant, l'adresse électronique du fournisseur ;
 
-3° La description des produits et des services proposés ; 
+3° La description des produits et des services proposés ;
 
 4° Les prix de ces produits et services à la date d'effet du contrat ainsi que, le cas échéant, les conditions d'évolution de
-ces prix ; 
+ces prix ;
 
 5° La mention du caractère réglementé ou non des prix proposés et de la possibilité pour une personne ayant renoncé aux
-tarifs réglementés de vente pour un site donné de revenir ou non sur ce choix ; 
+tarifs réglementés de vente pour un site donné de revenir ou non sur ce choix ;
 
-6° La durée du contrat et ses conditions de renouvellement ; 
+6° La durée du contrat et ses conditions de renouvellement ;
 
-7° La durée de validité de l'offre ; 
+7° La durée de validité de l'offre ;
 
-8° Le délai prévisionnel de fourniture de l'énergie ; 
+8° Le délai prévisionnel de fourniture de l'énergie ;
 
-9° Les modalités de facturation et les modes de paiement proposés, notamment par le biais d'internet ; 
+9° Les modalités de facturation et les modes de paiement proposés, notamment par le biais d'internet ;
 
 10° Les moyens, notamment électroniques, d'accéder aux informations relatives à l'accès et à l'utilisation des réseaux
 publics de distribution, en particulier la liste des prestations techniques et leurs prix, les conditions d'indemnisation et
 les modalités de remboursement applicables dans l'hypothèse où le niveau de qualité de la fourniture d'énergie ou la
-continuité de la livraison ne sont pas atteints ; 
+continuité de la livraison ne sont pas atteints ;
 
 11° Les cas d'interruption volontaire de la fourniture d'énergie, sans préjudice des dispositions de l'article L. 115-3 du
-code de l'action sociale et des familles ; 
+code de l'action sociale et des familles ;
 
-12° Les conditions de la responsabilité contractuelle du fournisseur et du gestionnaire du réseau de distribution ; 
+12° Les conditions de la responsabilité contractuelle du fournisseur et du gestionnaire du réseau de distribution et les
+modalités de remboursement ou de compensation en cas d'erreur ou de retard de facturation ou lorsque les niveaux de qualité
+des services prévus dans le contrat ne sont pas atteints  ;
 
-13° L'existence du droit de rétractation prévu aux articles L. 121-20 et L. 121-25 du présent code ; 
+13° L'existence du droit de rétractation prévu aux articles L. 121-20 et L. 121-25 du présent code ;
 
-14° Les conditions et modalités de résiliation du contrat ; 
+14° Les conditions et modalités de résiliation du contrat ;
 
-15° Les modes de règlement amiable des litiges ; 
+15° Les modes de règlement amiable et contentieux  des litiges ;
 
 16° Les conditions d'accès à la tarification spéciale " produit de première nécessité " pour l'électricité et au tarif
-spécial de solidarité pour le gaz naturel. 
+spécial de solidarité pour le gaz naturel ;
+
+17° Les coordonnées du site internet qui fournit gratuitement aux consommateurs soit directement, soit par l'intermédiaire de
+liens avec des sites internet d'organismes publics ou privés, les informations contenues dans l'aide-mémoire du consommateur
+d'énergie établi par la Commission européenne ou, à défaut, dans un document équivalent établi par les ministres chargés de
+la consommation et de l'énergie.  
 
 Ces informations sont mises à la disposition du consommateur par écrit ou sur support durable préalablement à la conclusion
-du contrat. Le consommateur n'est engagé que par sa signature. 
+du contrat. Le consommateur n'est engagé que par sa signature.
 
 Toutefois, il peut être dérogé aux obligations visées à l'alinéa précédent lorsqu'un consommateur qui emménage dans un site a
 expressément demandé à bénéficier immédiatement de la fourniture d'énergie.
@@ -6439,7 +6446,7 @@ expressément demandé à bénéficier immédiatement de la fourniture d'énergi
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 89
+	  - Loi n°2010-1488 du 7 décembre 2010 - art. 18 (V)
 
 	**Cité par**:
 
@@ -6500,13 +6507,16 @@ Les dispositions du présent article s'appliquent quels que soient le lieu et le
 
 L'offre du fournisseur comporte au moins un contrat d'une durée d'un an.
 
-En cas de changement de fournisseur, le contrat est résilié de plein droit à la date de prise d'effet d'un nouveau contrat de
+Le client peut changer de fournisseur dans un délai qui ne peut excéder vingt et un jours à compter de sa demande. En cas de
+changement de fournisseur, le contrat est résilié de plein droit à la date de prise d'effet d'un nouveau contrat de
 fourniture d'énergie. Dans les autres cas, la résiliation prend effet à la date souhaitée par le consommateur et, au plus
-tard, trente jours à compter de la notification de la résiliation au fournisseur.
+tard, trente jours à compter de la notification de la résiliation au fournisseur. Dans tous les cas, le consommateur reçoit
+la facture de clôture dans un délai de quatre semaines à compter de la résiliation du contrat. Le remboursement du trop-perçu
+éventuel est effectué dans un délai maximal de deux semaines après l'émission de la facture de clôture. 
 
-Le fournisseur ne peut facturer au consommateur que les frais correspondant aux coûts qu'il a effectivement supportés,
-directement ou par l'intermédiaire du gestionnaire de réseau, au titre de la résiliation et sous réserve que ces frais aient
-été explicitement prévus dans l'offre. Ceux-ci doivent être dûment justifiés.
+Le fournisseur ne peut facturer au consommateur que les frais correspondant aux coûts qu'il a effectivement supportés, par
+l'intermédiaire du gestionnaire de réseau, au titre de la résiliation et sous réserve que ces frais aient été explicitement
+prévus dans l'offre. Ceux-ci doivent être dûment justifiés.
 
 Aucun autre frais ne peut être réclamé au consommateur au seul motif qu'il change de fournisseur.
 
@@ -6514,7 +6524,7 @@ Aucun autre frais ne peut être réclamé au consommateur au seul motif qu'il ch
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Cité par**:
 
@@ -6523,9 +6533,20 @@ Aucun autre frais ne peut être réclamé au consommateur au seul motif qu'il ch
 	  - Code de l'énergie - art. R124-11 (VT)
 	  - Code de la consommation - art. R121-16 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-1537 du 7 décembre 2006 - art. 42 () JORF 8 décembre 2006 en vigueur le 1er juillet 2007
+	  - Loi n°2010-1488 du 7 décembre 2010 - art. 18 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-14 (V)
+	  - Code de la consommation - art. L224-15 (V)
+	  - Code de la consommation - art. L224-5 (V)
+	  - Code de la consommation - art. L224-6 (V)
 
 
 ###### Article L121-90
@@ -6572,15 +6593,27 @@ consommée.
 Les factures de fourniture de gaz naturel et d'électricité sont présentées dans les conditions fixées par un arrêté du
 ministre chargé de la consommation et du ministre chargé de l'énergie pris après avis du Conseil national de la consommation.
 
+Cet arrêté précise également les différents modes de paiement que le fournisseur est tenu d'offrir au client et leurs
+modalités. Il précise quels sont les délais de remboursement ou les conditions de report des trop-perçus.
+
+En cas de facturation terme à échoir ou fondée sur un index estimé, l'estimation du fournisseur reflète de manière appropriée
+la consommation probable. Cette estimation est fondée sur les consommations réelles antérieures sur la base des données
+transmises par les gestionnaires de réseaux lorsqu'elles sont disponibles ; le fournisseur indique au client sur quelle base
+repose son estimation.
+
+Le fournisseur est tenu d'offrir au client la possibilité de transmettre, par internet, par téléphone ou tout moyen à la
+convenance de ce dernier, des éléments sur sa consommation réelle, éventuellement sous forme d'index, à des dates qui
+permettent une prise en compte de ces index pour l'émission de ses factures.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-1537 du 7 décembre 2006 - art. 42 () JORF 8 décembre 2006 en vigueur le 1er juillet 2007
+	  - Loi n°2010-1488 du 7 décembre 2010 - art. 18 (V)
 
 	**Cité par**:
 
@@ -6599,11 +6632,15 @@ Outre la prestation d'accès aux réseaux, le consommateur peut, dans le cadre d
 toutes les prestations techniques proposées par le gestionnaire du réseau. Le fournisseur ne peut facturer au consommateur
 d'autres frais que ceux que le gestionnaire du réseau lui a imputés au titre d'une prestation.
 
+Le consommateur accède gratuitement à ses données de consommation. Un décret pris après avis du Conseil national de la
+consommation et de la Commission de régulation de l'énergie précise les modalités d'accès aux données et aux relevés de
+consommation.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Cité par**:
 
@@ -6613,9 +6650,18 @@ d'autres frais que ceux que le gestionnaire du réseau lui a imputés au titre d
 	  - Code de l'énergie - art. L442-3 (V)
 	  - Code de la consommation - art. R121-19 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-1537 du 7 décembre 2006 - art. 42 () JORF 8 décembre 2006 en vigueur le 1er juillet 2007
+	  - Loi n°2010-1488 du 7 décembre 2010 - art. 18 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-8 (V)
+	  - Code de la consommation - art. L224-9 (V)
 
 
 ###### Article L121-93
@@ -26706,7 +26752,7 @@ Il ne peut comporter au verso aucune mention autre que le nom et l'adresse du pr
 	  - Code de la consommation - art. R311-4 (VD)
 
 
-##### Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur
+##### Section 5 : Exécution du contrat de crédit
 
 ##### Sous-section 1 : Remboursement anticipé
 
@@ -26855,12 +26901,6 @@ Le montant de l'indemnité est majoré des taxes fiscales applicables.
 
 	  - Code de la consommation - art. L311-31 (V)
 
-
-##### Section 5 : Exécution du contrat de crédit
-
-##### Sous-section 1 : Remboursement anticipé
-
-##### Sous-section 2 : Défaillance de l'emprunteur
 
 ##### Section 5 : Les crédits affectés
 
