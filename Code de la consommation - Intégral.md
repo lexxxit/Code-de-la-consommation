@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2011-03-26
+Version Consolidée au 2011-04-01
 
 # Partie législative
 
@@ -16057,28 +16057,45 @@ Toute infraction aux dispositions du présent article sera punie d'une amende de
 Constitue un prêt usuraire tout prêt conventionnel consenti à un taux effectif global qui excède, au moment où il est
 consenti, de plus du tiers, le taux effectif moyen pratiqué au cours du trimestre précédent par les établissements de crédit
 pour des opérations de même nature comportant des risques analogues, telles que définies par l'autorité administrative après
-avis du Comité consultatif du secteur financier.
+avis du Comité consultatif du secteur financier. Les catégories d'opérations pour les prêts aux particuliers n'entrant pas
+dans le champ d'application des articles L. 312-1 à L. 312-3 sont définies à raison du montant des prêts. 
 
 Les crédits accordés à l'occasion de ventes à tempérament sont, pour l'application de la présente section, assimilés à des
-prêts conventionnels et considérés comme usuraires dans les mêmes conditions que les prêts d'argent ayant le même objet.
+prêts conventionnels et considérés comme usuraires dans les mêmes conditions que les prêts d'argent ayant le même objet. 
 
 Les conditions de calcul et de publicité des taux effectifs moyens visés au premier alinéa sont fixées par la voie
-réglementaire.
+réglementaire. 
+
+Des mesures transitoires, dérogeant aux alinéas précédents, peuvent être mises en œuvre par le ministre chargé de l'économie,
+sur proposition motivée du gouverneur de la Banque de France, pour une période ne pouvant excéder huit trimestres
+consécutifs, en cas de :
+
+- variation d'une ampleur exceptionnelle du coût des ressources des établissements de crédit ;
+
+- modifications de la définition des opérations de même nature mentionnées au premier alinéa. 
+
+Un comité, présidé par le gouverneur de la Banque de France, est chargé de suivre et d'analyser, notamment au regard du mode
+de fixation des taux de l'usure, le niveau et l'évolution des taux d'intérêt des prêts aux particuliers. Le comité examine
+également les modalités de financement des établissements de crédit et analyse le niveau, l'évolution et les composantes de
+leurs marges. Outre le gouverneur de la Banque de France, le comité comprend un député, un sénateur et le directeur général
+du Trésor et de la politique économique. Il se réunit à l'initiative de son président au moins une fois par trimestre et
+pendant deux ans. Il établit un rapport annuel qui est remis au Parlement et au Gouvernement. 
 
 Les dispositions du présent article et celles des articles L. 313-4 à L. 313-6 ne sont pas applicables aux prêts accordés à
 une personne physique agissant pour ses besoins professionnels ou à une personne morale se livrant à une activité
 industrielle, commerciale, artisanale, agricole ou professionnelle non commerciale.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 61 I de la loi n° 2010-737 du 1er juillet 2010, les dispositions de son article
+1er s'appliquent à compter du premier jour du troisième trimestre civil suivant le jour de publication de la présente loi
+(1er avril 2011).
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-1010 du 28 décembre 1966 - art. 1 (M)
 	  - Loi n°66-1010 du 28 décembre 1966 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
 
 	**Cité par**:
 
@@ -16097,11 +16114,11 @@ industrielle, commerciale, artisanale, agricole ou professionnelle non commercia
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 1
 
 	**Cite**:
 
-	  - Code de la consommation L313-4 à L313-6
+	  - Code de la consommation - art. L312-1 (V)
 
 	**Liens**:
 
@@ -35058,9 +35075,9 @@ dispense de paiement que peuvent accorder les autorités chargées du recouvreme
 
 ###### Article R336-1
 
-I. - Les articles R. 331-1, R. 331-3 et R. 335-4 ne sont pas applicables à Mayotte. 
+I.-Les articles R. 331-1, R. 331-3 et R. 335-4 ne sont pas applicables à Mayotte. 
 
-II. - Pour l'application du présent titre à Mayotte : 
+II.-Pour l'application du présent titre à Mayotte : 
 
 1° Le représentant local de la Banque de France à la commission est le directeur de l'agence locale de l'Institut d'émission
 des départements d'outre-mer. Il peut se faire représenter par l'un de ses adjoints ; 
@@ -35070,10 +35087,10 @@ sont remplacées par les références au trésorier-payeur général de Mayotte 
 
 3° Les références au tribunal d'instance sont remplacées par les références au tribunal de première instance ; 
 
-4° Les références au " juge de l'exécution  "  sont remplacées par les références au " président du tribunal de première
-instance ou le juge délégué par lui " , les références au " juge " sont remplacées par les références au " président du
+4° Les références au " juge de l'exécution " sont remplacées par les références au " président du tribunal de première
+instance ou le juge délégué par lui ", les références au " juge " sont remplacées par les références au " président du
 tribunal de première instance ou le juge délégué par lui " et les références au " premier président de la cour d'appel " sont
-remplacées par les références au " président du tribunal supérieur d'appel "  ; 
+remplacées par les références au "      président de la chambre d'appel de Mamoudzou " ; 
 
 5° Les mots : " Bulletin officiel des annonces civiles et commerciales " sont remplacés par les mots : " Bulletin officiel de
 Mayotte " ; 
@@ -35163,9 +35180,9 @@ collectivité où il réside ".
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1304 du 29 octobre 2010 - art. 8
+	  - Décret n°2011-338 du 29 mars 2011 - art. 17 (M)
 
 
 ##### Section 2 : Dispositions applicables en Nouvelle-Calédonie
