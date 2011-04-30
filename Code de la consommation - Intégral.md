@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2011-05-01
+Version Consolidée au 2011-05-01 00:00:01 +0200
 
 # Partie législative
 
@@ -13217,15 +13217,20 @@ amortissable à la place d'un contrat de crédit renouvelable.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 6
-
 	**Cité par**:
 
 	  - Décret n°2010-1462 du 30 novembre 2010 (V)
 	  - Décret n°2015-293 du 16 mars 2015 (V)
 	  - Code de la consommation - art. D311-10-1 (Ab)
+	  - Code de la consommation - art. L311-49 (VT)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L312-62 (V)
 
 
 ###### Article L311-9
@@ -14075,16 +14080,10 @@ sera fixée suivant un barème déterminé par décret.
 	**Anciens textes**:
 
 	  - Loi n°78-22 du 10 janvier 1978 - art. 12 (Ab)
-	  - Code de la consommation - art. L311-30 (VT)
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - DEPLACE: Loi n°2010-737 du 1er juillet 2010 - art. 11
-
-	**Modifié par**:
-
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 11
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 2
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
@@ -14094,10 +14093,14 @@ sera fixée suivant un barème déterminé par décret.
 	  - Code de la consommation - art. L311-23 (VT)
 	  - Code de la consommation - art. R*311-8 (V)
 
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L312-39 (VT)
+
 	**Cite**:
 
-	  - Code civil - art. 1152 (V)
-	  - Code civil - art. 1231 (V)
+	  - Code civil - art. 1152
+	  - Code civil - art. 1231
 
 
 ###### Article L311-25
@@ -14112,23 +14115,25 @@ l'article 1152 du code civil, sera fixée suivant un barème déterminé par dé
 	**Anciens textes**:
 
 	  - Loi n°78-22 du 10 janvier 1978 - art. 13 (Ab)
-	  - Code de la consommation - art. L311-31 (VT)
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 11
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 2
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
 	  - Code de la consommation - art. D311-8 (Ab)
 	  - Code de la consommation - art. L121-20-12 (V)
 	  - Code de la consommation - art. L311-27 (VT)
-	  - Code de la consommation - art. L311-35 (V)
+	  - Code de la consommation - art. L311-35 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L312-40 (VT)
 
 	**Cite**:
 
-	  - Code civil - art. 1152 (V)
+	  - Code civil - art. 1152
 
 
 ###### Article L311-25-1
@@ -27592,8 +27597,6 @@ du service concerné.
 ### Titre Ier : Crédit
 
 #### Chapitre Ier : Crédit à la consommation
-
-##### Section 1 : Champ d'application
 
 ##### Section 1 : Publicité
 
