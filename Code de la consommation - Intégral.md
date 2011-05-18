@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2011-05-01 00:00:01 +0200
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -2106,24 +2106,16 @@ oeuvre des règles de l'art et usages quand ils leur sont spécifiques.
 
 ###### Article L115-30
 
-Est puni des peines prévues à l'article L. 213-1 :
+Est puni des peines prévues à l'article L. 213-1 : 
 
-1° Le fait, dans la publicité, l'étiquetage ou la présentation de tout produit ou service, ainsi que dans les documents
-commerciaux de toute nature qui s'y rapportent, de faire référence à une certification qui n'a pas été effectuée dans les
-conditions définies aux articles L. 115-27 et L. 115-28 ;
+1° (Abrogé) 
 
 2° Le fait de délivrer, en violation des dispositions prévues aux articles L. 115-27 et L. 115-28, un titre, un certificat ou
 tout autre document attestant qu'un produit ou un service présente certaines caractéristiques ayant fait l'objet d'une
-certification ;
+certification ; 
 
 3° Le fait d'utiliser tout moyen de nature à faire croire faussement qu'un organisme satisfait aux conditions définies aux
-articles L. 115-27 et L. 115-28 ;
-
-4° Le fait d'utiliser tout moyen de nature à faire croire faussement au consommateur ou à l'utilisateur qu'un produit ou un
-service a fait l'objet d'une certification ;
-
-5° Le fait de présenter à tort comme garanti par l'Etat ou par un organisme public tout produit ou service ayant fait l'objet
-d'une certification.
+articles L. 115-27 et L. 115-28.
 
 **Liens relatifs à cet article**
 
@@ -2140,17 +2132,16 @@ d'une certification.
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 45
 
 	**Cite**:
 
-	  - Code de la consommation - art. L115-27 (M)
-	  - Code de la consommation - art. L115-28 (M)
-	  - Code de la consommation - art. L213-1 (M)
+	  - Code de la consommation - art. L115-27 (V)
+	  - Code de la consommation - art. L213-1 (V)
 
 
 ###### Article L115-31
@@ -2160,11 +2151,11 @@ des textes pris pour son application :
 
 - les officiers et agents de police judiciaire ;
 
-- les agents de la sous-direction de la métrologie au ministère chargé de l'industrie ainsi que ceux des directions
-régionales de l'industrie, de la recherche et de l'environnement ;
+- les agents de la sous-direction de la métrologie au ministère chargé de l'industrie ainsi que ceux des services
+déconcentrés de l'Etat chargés des contrôles dans le domaine de la métrologie ;
 
-- les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, de la direction
-générale des douanes et des droits indirects ;
+- les                 agents de la concurrence, de la consommation et de la répression des fraudes, de la direction générale
+des douanes et des droits indirects ;
 
 - les agents mentionnés aux articles L. 1421-1 et L. 1435-7 du code de la santé publique ayant la qualité de médecin ou de
 pharmacien, habilités et assermentés pour la recherche et le constat d'infractions au même code ;
@@ -2183,12 +2174,22 @@ Ces agents disposent des pouvoirs prévus au livre II du présent code.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-177 du 23 février 2010 - art. 20
+	  - Loi n°2011-525 du 17 mai 2011 - art. 94
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L511-11 (M)
+	  - Code de la consommation - art. L511-22 (M)
+	  - Code de la consommation - art. L511-23 (M)
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L1421-1 (V)
-	  - Code de la santé publique - art. L1435-7 (V)
+	  - Code de la santé publique - art. L1421-1
+	  - Code de la santé publique - art. L1435-7
 	  - Code de l'environnement - art. L514-13
 
 
@@ -2499,13 +2500,13 @@ Le présent article est applicable aux pratiques qui visent les professionnels.
 
 ###### Article L121-2
 
-Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, ceux de la
-direction générale de l'alimentation du ministère de l'agriculture et ceux du service de métrologie au ministère de
-l'industrie sont habilités à constater, au moyen de procès-verbaux sur l'ensemble du territoire national les pratiques
-commerciales trompeuses. Ils peuvent exiger du responsable d'une pratique commerciale la mise à leur disposition ou la
-communication de tous les éléments propres à justifier les allégations, indications ou présentations inhérentes à cette
-pratique. Ils peuvent également exiger de l'annonceur, de l'agence de publicité ou du responsable du support la mise à leur
-disposition des messages publicitaires diffusés.
+Les                 agents de la concurrence, de la consommation et de la répression des fraudes, ceux de la direction
+générale de l'alimentation du ministère de l'agriculture et ceux du service de métrologie au ministère de l'industrie sont
+habilités à constater, au moyen de procès-verbaux sur l'ensemble du territoire national les pratiques commerciales
+trompeuses. Ils peuvent exiger du responsable d'une pratique commerciale la mise à leur disposition ou la communication de
+tous les éléments propres à justifier les allégations, indications ou présentations inhérentes à cette pratique. Ils peuvent
+également exiger de l'annonceur, de l'agence de publicité ou du responsable du support la mise à leur disposition des
+messages publicitaires diffusés. 
 
 Les procès-verbaux sur l'ensemble du territoire national dressés en application du présent article sont transmis au procureur
 de la République.
@@ -2518,7 +2519,7 @@ de la République.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 83
+	  - Loi n°2011-525 du 17 mai 2011 - art. 94
 
 	**Cité par**:
 
@@ -2723,26 +2724,30 @@ des biens ou services offerts par un concurrent n'est licite que si :
 3° Elle compare objectivement une ou plusieurs caractéristiques essentielles, pertinentes, vérifiables et représentatives de
 ces biens ou services, dont le prix peut faire partie.
 
-Toute publicité comparative faisant référence à une offre spéciale doit mentionner clairement les dates de disponibilité des
-biens ou services offerts, le cas échéant la limitation de l'offre à concurrence des stocks disponibles et les conditions
-spécifiques applicables.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°92-60 du 18 janvier 1992 - art. 10 (P)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Loi n°2008-3 du 3 janvier 2008 - art. 39
+	  - Loi n°2011-525 du 17 mai 2011 - art. 45
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L121-11 (VT)
 	  - Code de la consommation - art. L121-12 (M)
 	  - Code de la consommation - art. L121-13 (VT)
-	  - Code de la consommation - art. L121-14 (MMN)
+	  - Code de la consommation - art. L121-14 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L122-1 (V)
 
 
 ###### Article L121-9
@@ -3481,40 +3486,39 @@ reproduites :
 
 "Art. L. 34-5 - Est interdite la prospection directe au moyen d'un automate d'appel, d'un télécopieur ou d'un courrier
 électronique utilisant, sous quelque forme que ce soit, les coordonnées d'une personne physique qui n'a pas exprimé son
-consentement préalable à recevoir des prospections directes par ce moyen.
+consentement préalable à recevoir des prospections directes par ce moyen. 
 
-"Pour l'application du présent article, on entend par consentement toute manifestation de volonté libre, spécifique et
+Pour l'application du présent article, on entend par consentement toute manifestation de volonté libre, spécifique et
 informée par laquelle une personne accepte que des données à caractère personnel la concernant soient utilisées à fin de
-prospection directe.
+prospection directe. 
 
-"Constitue une prospection directe l'envoi de tout message destiné à promouvoir, directement ou indirectement, des biens, des
-services ou l'image d'une personne vendant des biens ou fournissant des services.
+Constitue une prospection directe l'envoi de tout message destiné à promouvoir, directement ou indirectement, des biens, des
+services ou l'image d'une personne vendant des biens ou fournissant des services. 
 
-"Toutefois, la prospection directe par courrier électronique est autorisée si les coordonnées du destinataire ont été
+Toutefois, la prospection directe par courrier électronique est autorisée si les coordonnées du destinataire ont été
 recueillies directement auprès de lui, dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés, à l'occasion d'une vente ou d'une prestation de services, si la prospection
 directe concerne des produits ou services analogues fournis par la même personne physique ou morale, et si le destinataire se
 voit offrir, de manière expresse et dénuée d'ambiguïté, la possibilité de s'opposer, sans frais, hormis ceux liés à la
 transmission du refus, et de manière simple, à l'utilisation de ses coordonnées lorsque celles-ci sont recueillies et chaque
-fois qu'un courrier électronique de prospection lui est adressé.
+fois qu'un courrier électronique de prospection lui est adressé. 
 
-"Dans tous les cas, il est interdit d'émettre, à des fins de prospection directe, des messages au moyen d'automates d'appel,
+Dans tous les cas, il est interdit d'émettre, à des fins de prospection directe, des messages au moyen d'automates d'appel,
 télécopieurs et courriers électroniques, sans indiquer de coordonnées valables auxquelles le destinataire puisse utilement
 transmettre une demande tendant à obtenir que ces communications cessent sans frais autres que ceux liés à la transmission de
 celle-ci. Il est également interdit de dissimuler l'identité de la personne pour le compte de laquelle la communication est
-émise et de mentionner un objet sans rapport avec la prestation ou le service proposé.
+émise et de mentionner un objet sans rapport avec la prestation ou le service proposé. 
 
-"La Commission nationale de l'informatique et des libertés veille, pour ce qui concerne la prospection directe utilisant les
+La Commission nationale de l'informatique et des libertés veille, pour ce qui concerne la prospection directe utilisant les
 coordonnées d'une personne physique, au respect des dispositions du présent article en utilisant les compétences qui lui sont
 reconnues par la loi n° 78-17 du 6 janvier 1978 précitée. A cette fin, elle peut notamment recevoir, par tous moyens, les
-plaintes relatives aux infractions aux dispositions du présent article.
+plaintes relatives aux infractions aux dispositions du présent article. 
 
-"Les infractions aux dispositions du présent article sont recherchées et constatées dans les conditions fixées par les
-premier, troisième et quatrième alinéas de l'article L. 450-1 et les articles L. 450-2, L. 450-3, L. 450-4, L. 450-7, L.
-450-8, L. 470-1 et L. 470-5 du code de commerce.
+Les infractions aux dispositions du présent article sont recherchées et constatées dans les conditions fixées par les
+articles L. 450-1, L. 450-2, L. 450-3, L. 450-4, L. 450-7, L. 450-8, L. 470-1 et L. 470-5 du code de commerce. 
 
-"Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application du présent article, notamment eu
-égard aux différentes technologies utilisées".
+Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application du présent article, notamment eu égard
+aux différentes technologies utilisées."
 
 **Liens relatifs à cet article**
 
@@ -3529,13 +3533,9 @@ premier, troisième et quatrième alinéas de l'article L. 450-1 et les articles
 	  - Code de commerce. - art. L470-1 (V)
 	  - Code de commerce. - art. L470-5 (V)
 
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+	  - Loi n°2011-525 du 17 mai 2011 - art. 177
 
 	**Cité par**:
 
@@ -4628,20 +4628,20 @@ consommation à l'article L. 121-34.
 
 Est interdite toute vente ou offre de vente de produits ou de biens ou toute prestation ou offre de prestation de services
 faite aux consommateurs et donnant droit, à titre gratuit, immédiatement ou à terme, à une prime consistant en produits,
-biens ou services sauf s'ils sont identiques à ceux qui font l'objet de la vente ou de la prestation. 
+biens ou services sauf s'ils sont identiques à ceux qui font l'objet de la vente ou de la prestation dès lors que la pratique
+en cause revêt un caractère déloyal au sens de l'article L. 120-1. 
 
-Cette disposition ne s'applique pas aux menus objets ou services de faible valeur ni aux échantillons. Dans  le cas où ces
-menus objets sont distribués dans le but de satisfaire à  des exigences environnementales, ils doivent être entièrement
-recyclables qu'il s'agisse de carton recyclable ignifugé ou d'encres  alimentaires et d'une valeur inférieure à 7 % du prix
-de vente net,  toutes taxes comprises, du produit faisant l'objet de la vente. Si  celui-ci appartient à la catégorie de
-produits et ingrédients tels que  définis à l'article L. 3511-1 du  code de la santé publique,  les menus objets ne doivent
-comporter aucune référence, graphisme,  présentation ou tout autre signe distinctif qui rappelle un produit ou  un ingrédient
-tel que défini au même article L. 3511-1. Dans ce cas, les  avertissements sanitaires relatifs aux dangers du tabac doivent
-être  mentionnés. Les références de la personne intéressée à l'opération de  publicité, la dénomination de la marque, du
-sigle ou logo, peuvent être  apposées sur les menus objets pour autant qu'elles respectent les  dispositions restreignant ou
-encadrant la publicité concernant l'alcool,  le tabac et les jeux ou paris en ligne, notamment prévues aux articles L.
-3511-3, L.  3511-4 et L. 3323-2 à L. 3323-5 du code de la santé publique. Les modalités d'apposition des  références sont
-définies par décret. 
+Cette disposition ne s'applique pas aux menus objets ou services de faible valeur ni aux échantillons. Dans le cas où ces
+menus objets sont distribués dans le but de satisfaire à des exigences environnementales, ils doivent être entièrement
+recyclables qu'il s'agisse de carton recyclable ignifugé ou d'encres alimentaires et d'une valeur inférieure à 7 % du prix de
+vente net, toutes taxes comprises, du produit faisant l'objet de la vente. Si celui-ci appartient à la catégorie de produits
+et ingrédients tels que définis à l'article L. 3511-1 du code de la santé publique, les menus objets ne doivent comporter
+aucune référence, graphisme, présentation ou tout autre signe distinctif qui rappelle un produit ou un ingrédient tel que
+défini au même article L. 3511-1. Dans ce cas, les avertissements sanitaires relatifs aux dangers du tabac doivent être
+mentionnés. Les références de la personne intéressée à l'opération de publicité, la dénomination de la marque, du sigle ou
+logo, peuvent être apposées sur les menus objets pour autant qu'elles respectent les dispositions restreignant ou encadrant
+la publicité concernant l'alcool, le tabac et les jeux ou paris en ligne, notamment prévues aux articles L. 3511-3, L. 3511-4
+et L. 3323-2 à L. 3323-5 du code de la santé publique. Les modalités d'apposition des références sont définies par décret. 
 
 Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2. 
 
@@ -4656,7 +4656,7 @@ dépôt sont fixées par le 2 du I de l'article L. 312-1-2 du code monétaire et
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 257
+	  - Loi n°2011-525 du 17 mai 2011 - art. 45
 
 	**Cité par**:
 
@@ -4678,7 +4678,10 @@ dépôt sont fixées par le 2 du I de l'article L. 312-1-2 du code monétaire et
 	**Cite**:
 
 	  - Code de la consommation - art. L113-2
-	  - Code monétaire et financier - art. L518-1
+	  - Code de la consommation - art. L120-1
+	  - Code de la santé publique - art. L3323-2 (V)
+	  - Code de la santé publique - art. L3511-1 (V)
+	  - Code de la santé publique - art. L3511-3 (V)
 
 
 ##### Section 6 : Loteries publicitaires
@@ -4687,7 +4690,9 @@ dépôt sont fixées par le 2 du I de l'article L. 312-1-2 du code monétaire et
 
 Les opérations publicitaires réalisées par voie d'écrit qui tendent à faire naître l'espérance d'un gain attribué à chacun
 des participants, quelles que soient les modalités de tirage au sort, ne peuvent être pratiquées que si elles n'imposent aux
-participants aucune contrepartie financière ni dépense sous quelque forme que ce soit.
+participants aucune contrepartie financière ni dépense sous quelque forme que ce soit. Lorsque la participation à cette
+opération est conditionnée à une obligation d'achat, la pratique n'est illicite que dans la mesure où elle revêt un caractère
+déloyal au sens de l'article L. 120-1. 
 
 Le bulletin de participation à ces opérations doit être distinct de tout bon de commande de bien ou de service.
 
@@ -4695,16 +4700,19 @@ Le bulletin de participation à ces opérations doit être distinct de tout bon 
 
 	**Anciens textes**:
 
-	  - Loi n°89-421 1989-06-23 art. 5 al. 1 et 2
 	  - Loi n°89-421 du 23 juin 1989 - art. 5 (MMN)
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2011-525 du 17 mai 2011 - art. 45
+
+	**Cite**:
+
+	  - Code de la consommation - art. L120-1
 
 	**Cité par**:
 
@@ -6123,26 +6131,27 @@ public au sens du 7° de l'article L. 32 précité.
 
 Les services mentionnés au premier alinéa sont accessibles depuis le territoire métropolitain, les départements d'outre-mer
 et les collectivités territoriales de Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, par un numéro
-d'appel non géographique, fixe et non surtaxé. 
+d'appel non géographique, fixe et non surtaxé. Aucun  coût complémentaire autre que celui de la communication téléphonique ne
+peut être facturé pour ces services au titre de cette communication  téléphonique.
 
 Lorsque le consommateur appelle depuis les territoires énumérés au deuxième alinéa les services mentionnés au premier alinéa
 en ayant recours au service téléphonique au public du fournisseur de services de communications électroniques auprès duquel
 il a souscrit ce contrat, aucune somme ne peut, à quelque titre que ce soit, lui être facturée tant qu'il n'a pas été mis en
 relation avec un interlocuteur prenant en charge le traitement effectif de sa demande.
 
-**Nota:**
-
-NOTA : Loi n° 2008-3 du 3 janvier 2008, article 20 : Les articles L. 121-84-1 à L. 121-84-10 du code de la consommation
-entrent en vigueur le 1er juin 2008.
-
-Les articles L. 121-84-1, L. 121-84-2, L. 121-84-3, L. 121-84-4 et L. 121-84-5 du code de la consommation sont applicables
-aux contrats en cours à cette date.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-3 du 3 janvier 2008 - art. 16
+	  - Loi n°2011-525 du 17 mai 2011 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-38 (V)
 
 	**Cite**:
 
@@ -6215,27 +6224,26 @@ Le présent article est applicable à tout fournisseur d'un service de communica
 L. 32 du code des postes et des communications électroniques, proposant au consommateur, directement ou par l'intermédiaire
 d'un tiers, un service de communications électroniques. 
 
-Le fournisseur de services ne peut facturer au consommateur que les frais correspondant aux coûts qu'il a effectivement
-supportés au titre de la résiliation, sans préjudice, le cas échéant, des dispositions contractuelles portant sur le respect
-d'une durée minimum d'exécution du contrat. 
+Le fournisseur de services ne peut facturer au consommateur, à l'occasion de la résiliation, que les frais correspondant aux
+coûts qu'il a effectivement supportés au titre de la résiliation, sans préjudice, le cas échéant, des dispositions
+contractuelles portant sur le respect d'une durée minimum d'exécution du contrat. 
 
 Les frais mentionnés au présent article ne sont exigibles du consommateur que s'ils ont été explicitement prévus dans le
 contrat et dûment justifiés.
 
-**Nota:**
-
-NOTA : Loi n° 2008-3 du 3 janvier 2008, article 20 : Les articles L. 121-84-1 à L. 121-84-10 du code de la consommation
-entrent en vigueur le 1er juin 2008.
-
-L'article L. 121-84-7 du même code est applicable à toute modification des termes des contrats en cours à cette date dès lors
-que le fournisseur de services subordonne la modification des termes de ce contrat à la modification des conditions
-contractuelles qui régissent la résiliation du contrat.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-3 du 3 janvier 2008 - art. 17
+	  - Loi n°2011-525 du 17 mai 2011 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-40 (V)
 
 	**Cite**:
 
@@ -6788,9 +6796,10 @@ déménagement.
 
 Il est interdit de refuser à un consommateur la vente d'un produit ou la prestation d'un service, sauf motif légitime, et de
 subordonner la vente d'un produit à l'achat d'une quantité imposée ou à l'achat concomitant d'un autre produit ou d'un autre
-service ainsi que de subordonner la prestation d'un service à celle d'un autre service ou à l'achat d'un produit.
+service ainsi que de subordonner la prestation d'un service à celle d'un autre service ou à l'achat d'un produit dès lors que
+cette subordination constitue une pratique commerciale déloyale au sens de l'article L. 120-1. 
 
-Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2.
+Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2. 
 
 Pour les établissements de crédit, les établissements de paiement et les organismes mentionnés à l'article L. 518-1 du code
 monétaire et financier, les règles relatives aux ventes subordonnées sont fixées par le 1 du I de l'article L. 312-1-2 du
@@ -6804,7 +6813,7 @@ même code.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 16
+	  - Loi n°2011-525 du 17 mai 2011 - art. 45
 
 	**Cité par**:
 
@@ -6821,21 +6830,27 @@ même code.
 
 	**Cite**:
 
-	  - Code de la consommation - art. L113-2
-	  - Code monétaire et financier - art. L518-1
+	  - Code de la consommation - art. L113-2 (V)
+	  - Code de la consommation - art. L120-1
+	  - Code monétaire et financier - art. L518-1 (V)
 
 
 ##### Section 2 : Ventes et prestations de services sans commande préalable
 
 ###### Article L122-3
 
-La fourniture de biens ou de services sans commande préalable du consommateur est interdite lorsqu'elle fait l'objet d'une
-demande de paiement. Aucune obligation ne peut être mise à la charge du consommateur qui reçoit un bien ou une prestation de
-service en violation de cette interdiction.
+Il est interdit d'exiger le paiement immédiat ou différé de biens ou de services fournis par un professionnel ou, s'agissant
+de biens, d'exiger leur renvoi ou leur conservation, sans que ceux-ci aient fait l'objet d'une commande préalable du
+consommateur, sauf lorsqu'il s'agit d'un bien ou d'un service de substitution fourni conformément à l'article L. 121-20-3. 
 
-Le professionnel doit restituer les sommes qu'il aurait indûment perçues sans engagement exprès et préalable du consommateur.
-Ces sommes sont productives d'intérêts au taux légal calculé à compter de la date du paiement indu et d'intérêts au taux
-légal majoré de moitié à compter de la demande de remboursement faite par le consommateur.
+La violation de cette interdiction est punie des peines prévues aux articles L. 122-12 à L. 122-14. 
+
+Tout contrat conclu consécutivement à la mise en œuvre de la pratique commerciale illicite visée au premier alinéa du présent
+article est nul et de nul effet. 
+
+Le professionnel doit, en outre, restituer les sommes qu'il aurait indûment perçues sans engagement exprès et préalable du
+consommateur. Ces sommes sont productives d'intérêts au taux légal calculé à compter de la date du paiement indu et
+d'intérêts au taux légal majoré de moitié à compter de la demande de remboursement faite par le consommateur.
 
 **Liens relatifs à cet article**
 
@@ -6845,11 +6860,16 @@ légal majoré de moitié à compter de la demande de remboursement faite par le
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
+	  - Loi n°2011-525 du 17 mai 2011 - art. 45
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20-3 (V)
+	  - Code de la consommation - art. L122-12 (V)
 
 	**Cité par**:
 
@@ -7191,9 +7211,7 @@ contractuels ;
 5° Dans une publicité, d'inciter directement les enfants à acheter ou à persuader leurs parents ou d'autres adultes de leur
 acheter le produit faisant l'objet de la publicité ; 
 
-6° D'exiger le paiement immédiat ou différé de produits fournis par le professionnel sans que le consommateur les ait
-demandés, ou exiger leur renvoi ou leur conservation, sauf lorsqu'il s'agit d'un produit de substitution fourni conformément
-à l'article L. 121-20-3 ; 
+6° (Abrogé) ;
 
 7° D'informer explicitement le consommateur que s'il n'achète pas le produit ou le service, l'emploi ou les moyens
 d'existence du professionnel seront menacés ; 
@@ -7208,14 +7226,21 @@ l'obligation pour le consommateur de verser de l'argent ou de supporter un coût
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 84
+	  - Loi n°2011-525 du 17 mai 2011 - art. 45
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-7 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-20-3
-	  - Code de la consommation - art. L122-11
+	  - Code de la consommation - art. L122-11 (VT)
 
 
 ###### Article L122-12
@@ -7901,14 +7926,14 @@ lui de l'acceptation de la transaction.
 
 ###### Article L141-3
 
-I. - Les dispositions de l'article 11 du code de procédure pénale ou celles relatives au secret professionnel ne font pas
-obstacle à la communication, par les agents de la direction générale de la concurrence, de la consommation et de la
-répression des fraudes, selon les conditions et modalités du règlement CE n° 2006/2004 du Parlement européen et du Conseil du
-27 octobre 2004, aux autorités compétentes des Etats membres de l'Union européenne d'informations et de documents détenus et
-recueillis dans l'exercice de leurs missions par les agents habilités à constater et rechercher des infractions aux
-dispositions entrant dans le champ d'application dudit règlement.
+I.-Les dispositions de l'article 11 du code de procédure pénale ou celles relatives au secret professionnel ne font pas
+obstacle à la communication, par les agents de la concurrence, de la consommation et de la répression des fraudes, selon les
+conditions et modalités du règlement CE n° 2006/2004 du Parlement européen et du Conseil du 27 octobre 2004, aux autorités
+compétentes des Etats membres de l'Union européenne d'informations et de documents détenus et recueillis dans l'exercice de
+leurs missions par les agents habilités à constater et rechercher des infractions aux dispositions entrant dans le champ
+d'application dudit règlement. 
 
-II. - Les agents habilités à constater les infractions mentionnées à l'article L. 141-1 et à l'article L. 121-1 du code de la
+II.-Les agents habilités à constater les infractions mentionnées à l'article L. 141-1 et à l'article L. 121-1 du code de la
 consommation peuvent également coopérer avec les autorités compétentes des pays membres de l'Organisation de coopération et
 de développement économiques (OCDE), non-membres de l'Union européenne, en vue de prévenir ou de faire cesser des pratiques
 commerciales transfrontières illicites. Cette coopération consiste en l'établissement de contacts, d'échanges d'informations
@@ -7919,17 +7944,27 @@ dans des pays tiers.
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 5 () JORF 2 septembre 2005
+	  - Loi n°2011-525 du 17 mai 2011 - art. 94
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-1 (V)
-	  - Code de la consommation - art. L141-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 11 (M)
+	  - Code de la consommation - art. L121-1
+	  - Code de la consommation - art. L141-1
+	  - Code de procédure pénale - art. 11
+	  - règlement CE n°2006/2004
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L512-18 (V)
+	  - Code de la consommation - art. L512-19 (V)
 
 
 ###### Article L141-4
@@ -9099,121 +9134,98 @@ la proportion de ceux de ces éléments dont l'emploi n'est admis par les lois e
 
 ###### Article L213-5
 
-Sera considéré comme étant en état de récidive légale quiconque ayant été condamné à des peines correctionnelles par
-application des chapitres II à VI du présent titre ou des textes énumérés ci-après aura, dans les cinq ans qui suivront la
-date à laquelle cette condamnation sera devenue définitive, commis un nouveau délit tombant sous l'application des chapitres
-II à VII du présent titre ou des textes énumérés ci-après :
+Sont considérés, au regard de la récidive, comme une même infraction, les délits prévus et réprimés par : 
 
-- les articles L. 141, L. 142 et L. 144, les chapitres Ier et IV du titre Ier, les chapitres II et III du titre II et les
-chapitres Ier et VIII du titre III du livre V du code de la santé publique (1) ;
+― les articles L. 115-3, L. 115-16, L. 115-18, L. 115-20, L. 115-22, L. 115-24, L. 115-26, L. 115-30, L. 121-6, L. 121-14, L.
+213-1 à L. 213-2-1, L. 213-3, L. 213-4, L. 214-1 à L. 214-3 et L. 217-1 à L. 217-11 du présent code ; 
 
-- les articles L. 231-6 et L. 231-7 du chapitre Ier du titre III et l'article L. 263-2 du chapitre III du titre VI du livre
-II du code du travail ;
+― les articles L. 716-9 à L. 716-11 du code de la propriété intellectuelle ; 
 
-- le chapitre VII du présent titre, la section 1 du chapitre V du titre Ier du livre Ier, la section 1 du chapitre Ier du
-titre II du livre Ier, l'article L. 115-30 du présent code ;
+― les articles L. 1343-2 à L. 1343-4, L. 3322-11, L. 3351-1, L. 3351-2, 
+L. 4212-1, L. 4212-2, L. 4212-3, L. 4212-4, L. 4212-5, L. 4212-7, 
+L. 4223-1, L. 4223-4, L. 4323-2, 
+L. 5421-1, L. 5421-2, L. 5421-3, L. 5421-4, L. 5421-5, L. 5421-6, L. 5421-6-1, 
+L. 5424-1, L. 5424-3, L. 5424-6, L. 5424-11, L. 5431-2, L. 5431-5, L. 5431-6, L. 5431-7, L. 5432-1, L. 5441-1, L. 5441-2, L.
+5441-3, L. 5441-4, L. 5441-5, L. 5441-6, L. 5441-8, L. 5441-9, L. 5442-1, L. 5442-2, L. 5442-4, L. 5442-9, L. 5442-10, L.
+5442-11, 
+L. 5461-3 et L. 5462-3 du code de la santé publique ; 
 
-- loi du 14 août 1889 sur les vins ;
+― les articles L. 237-1, L. 237-2, L. 237-3, L. 253-17, 
+L. 254-9, 
+L. 255-8, 
+L. 671-9 et L. 671-10 du code rural et de la pêche maritime ; 
 
-- loi du 11 juillet 1891 tendant à réprimer les fraudes dans la vente des vins ;
+― la loi du 30 décembre 1931 tendant à réprimer la fraude dans le commerce de l'essence de térébenthine et des produits
+provenant des végétaux résineux ; 
 
-- loi du 24 juillet 1894 relative aux fraudes commises dans la vente des vins ;
+― la loi du 29 juin 1934 tendant à assurer la loyauté du commerce des fruits et légumes et à réprimer la vente des fruits
+véreux ; 
 
-- loi du 6 avril 1897 concernant la fabrication, la circulation et la vente des vins artificiels ;
+― la loi du 3 juillet 1934 tendant à réglementer la fabrication des pâtes alimentaires ; 
 
-- les articles L. 253-12 et L. 253-13 du code rural et de la pêche maritime ;
+― la loi du 2 juillet 1935 tendant à l'organisation et à l'assainissement des marchés du lait et des produits résineux ; 
 
-- loi du 11 juillet 1906 relative à la protection des conserves de sardines, de légumes et de prunes contre la fraude
-étrangère, dont les dispositions ont été rendues applicables à toutes les conserves étrangères de poissons entrant en France
-par la loi du 28 juin 1913 ;
+― la loi du 25 juin 1936 tendant à la définition légale et à la protection du cuir et à la répression de la fraude dans la
+vente du cuir et des produits ouvrés en cuir ; 
 
-- loi du 4 août 1929 réglementant le sucrage des vins ;
+― la loi du 21 avril 1939 tendant à réprimer les fraudes dans la vente des objets en écaille et en ivoire ; 
 
-- loi du 1er janvier 1930 sur les vins ;
-
-- loi du 26 mars 1930 réprimant les fausses indications d'origine des marchandises ;
-
-- loi du 30 décembre 1931 tendant à réprimer la fraude dans le commerce de l'essence térébenthine et des produits provenant
-des végétaux résineux ;
-
-- loi du 29 juin 1934 tendant à assurer la loyauté du commerce des fruits et légumes et à réprimer la vente des fruits
-véreux ;
-
-- loi du 3 juillet 1934 modifiée tendant à réglementer la fabrication des pâtes alimentaires ;
-
-- loi du 2 juillet 1935 tendant à l'organisation et à l'assainissement des marchés du lait et des produits résineux ;
-
-- loi du 25 juin 1936 tendant à la définition légale et à la protection du cuir et à la répression de la fraude dans la vente
-du cuir et des produits ouvrés du cuir ;
-
-- loi du 21 avril 1939 tendant à réprimer les fraudes dans la vente des objets en écaille et en ivoire ;
-
-- loi du 3 février 1940 tendant à réglementer le commerce des produits destinés à l'alimentation des animaux ;
-
-- les articles L. 253-1 à L. 253-11 et les articles L. 253-14 à L. 253-17 du code rural et de la pêche maritime ;
-
-- loi n° 60-808 du 5 août 1960 d'orientation agricole ;
-
-- les articles L. 711-1 et suivants du code de la propriété intellectuelle ;
-
-- loi n° 71-383 du 22 mai 1971 relative à l'amélioration des essences forestières ;
-
-- loi n° 73-1097 du 12 décembre 1973 sur les appellations d'origine en matière viticole ;
-
-- les articles L. 255-1 à L. 255-11 du code rural et de la pêche maritime ;
-
-- les articles L. 645-1 et L. 671-7 du code rural et de la pêche maritime ;
-
-**Nota:**
-
-(1) : Dispositions abrogées par l'ordonnance n° 2000-548 du 15 juin 2000 et codifiées dans la nouvelle partie législative du
-code de la santé publique.
+― la loi du 3 février 1940 tendant à réglementer le commerce des produits destinés à l'alimentation des animaux.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L617-23 (Ab)
-	  - Loi n°1939-04-21 du 21 avril 1939 - art. 6 (V)
-	  - Loi n°79-595 du 13 juillet 1979 - art. 13 (Ab)
-	  - Décret n°94-808 du 12 septembre 1994 - art. 6 (V)
-	  - Code de la consommation - art. L217-10 (M)
-	  - Code forestier - art. L555-3 (VT)
-
-	**Cite**:
-
-	  - Code rural L253-12, L253-13, L253-14 à L253-17, L255-1 à L255-11, L645-1, L671-7
-	  - Loi n°1889-08-14
-	  - Loi n°1891-07-11
-	  - Loi n°1894-07-24
-	  - Loi n°1897-04-06
-	  - Loi n°1906-07-11
-	  - Loi n°1913-06-28
-	  - Loi n°1929-08-04
-	  - Loi n°1930-01-01
-	  - Loi n°1930-03-26
-	  - Loi n°1931-12-30
-	  - Loi n°1934-06-29
-	  - Loi n°1934-07-03
-	  - Loi n°1935-07-02
-	  - Loi n°1936-06-25
-	  - Loi n°1939-04-21
-	  - Loi n°1940-02-03
-	  - Loi n°60-808 1960-08-05
-	  - Loi n°71-383 1971-05-22
-	  - Loi n°73-1097 1973-12-12
-	  - Ordonnance 2000-548 2000-06-15
-	  - Code de la propriété intellectuelle - art. L711-1 (V)
-	  - Code de la consommation - art. L115-30 (M)
-	  - Code de la consommation L141, L142, L144, L115-30, L253-1 à L253-11
 
 	**Anciens textes**:
 
 	  - Loi n°1905-08-01 du 1 août 1905 - art. 5 (Ab)
 
+	**Cite**:
+
+	  - Loi du 30 décembre 1931 (V)
+	  - Loi du 29 juin 1934 (V)
+	  - Loi du 3 juillet 1934 (V)
+	  - Loi du 2 juillet 1935 (V)
+	  - Loi du 25 juin 1936 (V)
+	  - Loi du 21 avril 1939 (V)
+	  - Loi du 3 février 1940 (V)
+	  - Code de la propriété intellectuelle - art. L716-9 (V)
+	  - Code de la consommation - art. L115-3 (V)
+	  - Code de la consommation - art. L121-14 (V)
+	  - Code de la consommation - art. L121-6 (V)
+	  - Code de la consommation - art. L213-1 (V)
+	  - Code de la consommation - art. L214-1 (V)
+	  - Code de la consommation - art. L217-1 (V)
+	  - Code rural - art. L237-1 (V)
+	  - Code rural - art. L253-17 (V)
+	  - Code rural - art. L254-9 (V)
+	  - Code rural - art. L255-8 (V)
+	  - Code rural - art. L671-9 (V)
+	  - Code de la santé publique - art. L1343-3 (V)
+	  - Code de la santé publique - art. L3322-11 (V)
+	  - Code de la santé publique - art. L3351-1 (V)
+	  - Code de la santé publique - art. L4212-1 (V)
+	  - Code de la santé publique - art. L4223-1 (V)
+	  - Code de la santé publique - art. L4323-2 (V)
+	  - Code de la santé publique - art. L5421-1 (V)
+	  - Code de la santé publique - art. L5424-1 (V)
+	  - Code de la santé publique - art. L5431-2 (V)
+	  - Code de la santé publique - art. L5432-1 (V)
+	  - Code de la santé publique - art. L5441-1 (V)
+	  - Code de la santé publique - art. L5442-1 (V)
+	  - Code de la santé publique - art. L5461-3 (V)
+	  - Code de la santé publique - art. L5462-3 (V)
+
+	**Cité par**:
+
+	  - Loi n°1939-04-21 du 21 avril 1939 - art. 6 (V)
+	  - Loi n°79-595 du 13 juillet 1979 - art. 13 (Ab)
+	  - Décret n°94-808 du 12 septembre 1994 - art. 6 (V)
+	  - Code de la consommation - art. L217-10 (M)
+	  - Code de la santé publique - art. L617-23 (Ab)
+	  - Code forestier - art. L555-3 (VT)
+
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Loi n°2011-525 du 17 mai 2011 - art. 179
 
 
 ###### Article L213-6
@@ -9769,8 +9781,8 @@ aux articles L. 214-1, L. 215-1, dernier alinéa, et L. 215-4.
 I.-Sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation des infractions au
 présent livre : 
 
-1° Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, de la direction
-générale des douanes et de la direction générale des finances publiques ; 
+1° Les                 agents de la concurrence, de la consommation et de la répression des fraudes, de la direction générale
+des douanes et de la direction générale des finances publiques ; 
 
 2° Les inspecteurs du travail ; 
 
@@ -9781,8 +9793,8 @@ pharmacien ;
 
 5° Les agents de l'Institut français de recherche pour l'exploitation de la mer ; 
 
-6° Les agents de la sous-direction de la métrologie au ministère chargé de l'industrie ainsi que ceux des directions
-régionales de l'industrie, de la recherche et de l'environnement ; 
+6° Les agents de la sous-direction de la métrologie au ministère chargé de l'industrie ainsi que ceux des services
+déconcentrés de l'Etat chargés des contrôles dans le domaine de la métrologie ; 
 
 7° Les agents de l'Etat agréés et commissionnés par le ministre de l'agriculture ; 
 
@@ -9950,8 +9962,7 @@ administrations publiques et des entreprises de transports.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-461 du 6 mai 2010 - art. 1 (V)
-	  - Ordonnance n°2010-460 du 6 mai 2010 - art. 11
+	  - Loi n°2011-525 du 17 mai 2011 - art. 94
 
 	**Anciens textes**:
 
@@ -9960,18 +9971,18 @@ administrations publiques et des entreprises de transports.
 
 ###### Article L215-1-1
 
-Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes peuvent exercer les
-pouvoirs d'enquête qu'ils tiennent du livre II du présent code sur toute l'étendue du territoire national.
+Les                 agents de la concurrence, de la consommation et de la répression des fraudes peuvent exercer les pouvoirs
+d'enquête qu'ils tiennent du livre II du présent code sur toute l'étendue du territoire national.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 81 () JORF 16 mai 2001
+	  - Loi n°2011-525 du 17 mai 2011 - art. 94
 
 
 ###### Article L215-2
@@ -10092,24 +10103,31 @@ du même article. Ces agents sont également habilités à prendre les mesures c
 
 ###### Article L215-2-3
 
-Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes et les agents
-mentionnés au 8° de l'article L. 215-1 disposent des pouvoirs d'enquête prévus au présent livre pour procéder aux contrôles
-de conformité des fruits et légumes frais avec les normes de commercialisation prévues par le règlement (CE) n° 1580 / 2007
-de la Commission du 21 décembre 2007 portant modalités d'application des règlements (CE) n° 2200 / 96, (CE) n° 2201 / 96 et
-(CE) n° 1182 / 2007 du Conseil dans le secteur des fruits et légumes. Ils sont également habilités à prendre les mesures
-consécutives à ces contrôles définies à l'article 20 de ce règlement.
+Les                 agents de la concurrence, de la consommation et de la répression des fraudes et les agents mentionnés au
+8° de l'article L. 215-1 disposent des pouvoirs d'enquête prévus au présent livre pour procéder aux contrôles de conformité
+des fruits et légumes frais avec les normes de commercialisation prévues par le règlement (CE) n° 1580/2007 de la Commission
+du 21 décembre 2007 portant modalités d'application des règlements (CE) n° 2200/96, (CE) n° 2201/96 et (CE) n° 1182/2007 du
+Conseil dans le secteur des fruits et légumes. Ils sont également habilités à prendre les mesures consécutives à ces
+contrôles définies à l'article 20 de ce règlement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2008-811 du 22 août 2008 - art. 2
+	  - Loi n°2011-525 du 17 mai 2011 - art. 94
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2014-344 du 17 mars 2014 - art. 92
 
 	**Cite**:
 
 	  - Code de la consommation - art. L215-1
-	  - règlement (CE) n°1580/2007
 	  - règlements (CE) n°2200/96
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L218-1-4, v. 0.1 (VT)
 
 
 ##### Section 2 : Recherche et constatation
@@ -10203,26 +10221,35 @@ l'exercice de leurs missions de surveillance du marché.
 
 ###### Article L215-3-2
 
-Les services et établissements de l'Etat et des autres collectivités publiques sont tenus de communiquer aux agents de la
-direction générale de la concurrence, de la consommation et de la répression des fraudes et aux officiers et agents de police
-judiciaire tous les renseignements et documents en leur possession qui peuvent s'avérer utiles à la lutte contre la
-contrefaçon, à l'exception de ceux qu'ils ont recueillis ou échangés en application du règlement (CE) n° 1/2003 du Conseil,
-du 16 décembre 2002, relatif à la mise en oeuvre des règles de concurrence prévues aux articles 81 et 82 du traité, sans que
-puisse être opposée l'obligation de secret professionnel.
+Les services et établissements de l'Etat et des autres collectivités publiques sont tenus de communiquer aux
+agents de la concurrence, de la consommation et de la répression des fraudes et aux officiers et agents de police judiciaire
+tous les renseignements et documents en leur possession qui peuvent s'avérer utiles à la lutte contre la contrefaçon, à
+l'exception de ceux qu'ils ont recueillis ou échangés en application du règlement (CE) n° 1/2003 du Conseil, du 16 décembre
+2002, relatif à la mise en oeuvre des règles de concurrence prévues aux articles 81 et 82 du traité, sans que puisse être
+opposée l'obligation de secret professionnel. 
 
-Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, de la direction
-générale des douanes et droits indirects et les officiers et agents de police judiciaire peuvent se communiquer spontanément
-tous les renseignements et documents détenus ou recueillis dans le cadre de leur mission de lutte contre la contrefaçon.
+Les                 agents de la concurrence, de la consommation et de la répression des fraudes, de la direction générale
+des douanes et droits indirects et les officiers et agents de police judiciaire peuvent se communiquer spontanément tous les
+renseignements et documents détenus ou recueillis dans le cadre de leur mission de lutte contre la contrefaçon.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 43 () JORF 30 octobre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 94
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L512-17 (V)
+	  - Code de la consommation - art. L512-21 (V)
 
 	**Cite**:
 
@@ -11598,9 +11625,9 @@ République, les droits reconnus à la partie civile en ce qui concerne les infr
 
 ###### Article L217-10
 
-Quiconque aura fait obstacle à l'exercice des fonctions des agents de la direction générale de la concurrence, de la
-consommation et de la répression des fraudes sera passible des peines prévues par les articles L. 213-1 et L. 216-3 du
-présent code, sans préjudice des peines prévues en cas de rébellion par les articles 433-6 à 433-10 du code pénal.
+Quiconque aura fait obstacle à l'exercice des fonctions des agents de la concurrence, de la consommation et de la répression
+des fraudes sera passible des peines prévues par les articles L. 213-1 et L. 216-3 du présent code, sans préjudice des peines
+prévues en cas de rébellion par les articles 433-6 à 433-10 du code pénal. 
 
 Les dispositions de l'article L. 216-4 sont applicables aux infractions visées au présent article.
 
@@ -11629,18 +11656,18 @@ Les dispositions de l'article L. 216-4 sont applicables aux infractions visées 
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 3 () JORF 10 juillet 2004
+	  - Loi n°2011-525 du 17 mai 2011 - art. 94
 
 	**Cite**:
 
-	  - Code de la consommation - art. L213-1 (M)
-	  - Code de la consommation - art. L216-3 (M)
+	  - Code de la consommation - art. L213-1 (V)
+	  - Code de la consommation - art. L216-3 (V)
 	  - Code de la consommation - art. L216-4 (V)
-	  - Code pénal 433-6 à 433-10
+	  - Code pénal - art. 433-6 (V)
 
 
 ###### Article L217-10-1
@@ -16035,9 +16062,10 @@ cours à cette date.
 
 ###### Article L312-15
 
-L'acte écrit, y compris la promesse unilatérale de vente acceptée, ayant pour objet de constater l'une des opérations
-mentionnées à l'article L. 312-2, doit indiquer si le prix sera payé directement ou indirectement, même en partie, avec ou
-sans l'aide d'un ou plusieurs prêts régis par les sections 1 à 3 du présent chapitre.
+L'acte écrit, y compris la promesse unilatérale de vente acceptée et le contrat préliminaire prévu à l'article L. 261-15 du
+code de la construction et de l'habitation, ayant pour objet de constater l'une des opérations mentionnées à l'article L.
+312-2, doit indiquer si le prix sera payé directement ou indirectement, même en partie, avec ou sans l'aide d'un ou plusieurs
+prêts régis par les sections 1 à 3 du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -16047,20 +16075,30 @@ sans l'aide d'un ou plusieurs prêts régis par les sections 1 à 3 du présent 
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2011-525 du 17 mai 2011 - art. 22
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L312-16 (VT)
 	  - Code de la consommation - art. L312-17 (VT)
+	  - Code de la consommation - art. L315-3 (VT)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L312-2 (V)
+	  - Code de la consommation - art. L312-2
+	  - Code de la construction et de l'habitation. - art. L261-15
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L313-40 (V)
 
 
 ###### Article L312-16
@@ -17190,37 +17228,6 @@ la dernière perception, soit d'intérêt, soit de capital.
 	  - Code de la consommation - art. L313-3 (V)
 	  - Code pénal - art. 131-27 (V)
 	  - Code pénal - art. 131-35 (V)
-
-
-###### Article L313-6
-
-En tout état de la procédure d'enquête préliminaire ou de la procédure d'instruction ou de jugement, les autorités
-judiciaires compétentes pourront saisir, si elles l'estiment utile, une commission consultative dont la composition sera
-fixée par arrêté et qui donnera tous avis tant sur le taux effectif moyen visé à l'alinéa premier de l'article L. 313-3 que
-sur le taux effectif global pratiqué dans l'espèce considérée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-1010 1966-12-28 art. 7
-	  - Loi n°66-1010 du 28 décembre 1966 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 67
-
-	**Cite**:
-
-	  - Code de la consommation - art. L313-3
 
 
 ##### Section 2 : Les sûretés personnelles
@@ -21567,10 +21574,10 @@ celle qui fonde les poursuites.
 ###### Article L421-6
 
 Les associations mentionnées à l'article L. 421-1 et les organismes justifiant de leur inscription sur la liste publiée au
-Journal officiel des Communautés européennes en application de l'article 4 de la directive 98/27/CE du Parlement européen et
-du Conseil relative aux actions en cessation en matière de protection des consommateurs peuvent agir devant la juridiction
-civile pour faire cesser ou interdire tout agissement illicite au regard des dispositions transposant les directives
-mentionnées à l'article 1er de la directive précitée.
+Journal officiel des Communautés européennes en application de l'article 4 de la directive 2009/22/ CE du Parlement européen
+et du Conseil du 23 avril 2009 relative aux actions en cessation en matière de protection des intérêts des consommateurs
+peuvent agir devant la juridiction civile pour faire cesser ou interdire tout agissement illicite au regard des dispositions
+transposant les directives mentionnées à l'article 1er de la directive précitée. 
 
 Le juge peut à ce titre ordonner, le cas échéant sous astreinte, la suppression d'une clause illicite ou abusive dans tout
 contrat ou type de contrat proposé ou destiné au consommateur.
@@ -21583,12 +21590,11 @@ contrat ou type de contrat proposé ou destiné au consommateur.
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Modifié par**:
 
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 19 () JORF 25 août 2001
-	  - Ordonnance n°2001-741 du 23 août 2001 - art. 20 () JORF 25 août 2001
+	  - Loi n°2011-525 du 17 mai 2011 - art. 45
 
 	**Cité par**:
 
