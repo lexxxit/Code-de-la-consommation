@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2011-06-24
+Version Consolidée au 2011-06-30
 
 # Partie législative
 
@@ -34080,6 +34080,29 @@ l'exécution.
 	  - Code de la consommation - art. L331-3
 
 
+###### Article R331-10-1
+
+Le recours formé à l'encontre de la décision de recevabilité ne suspend pas ses effets prévus à l'article L. 331-3-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-741 du 28 juin 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L331-3-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R722-3 (V)
+
+
 ##### Section 2 : Suspension et interdiction des procédures d'exécution et cessions de rémunération
 
 ###### Article R331-11
@@ -34158,7 +34181,7 @@ la demande en rétractation par lettre recommandée avec demande d'avis de réce
 Dans le cas où la vente forcée d'un bien immobilier du débiteur a été ordonnée et lorsque la commission saisit le juge chargé
 de la saisie immobilière en application du premier alinéa de l'article L. 331-3-1 ou du premier alinéa de l'article L. 331-5,
 elle transmet la demande par lettre recommandée avec demande d'avis de réception ou remise contre émargement au greffe,
-quinze jours au moins avant la date prévue par la vente. 
+quinze jours au moins avant la date prévue pour la vente. 
 
 Cette demande indique les nom, prénoms et adresse du débiteur ainsi que ceux des créanciers poursuivants ou, pour les
 personnes morales, leur dénomination et leur siège social. Elle précise les causes graves et dûment justifiées invoquées à
@@ -34174,9 +34197,9 @@ La notification indique que ce jugement n'est susceptible ni d'appel, ni d'oppos
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1304 du 29 octobre 2010 - art. 3
+	  - Décret n°2011-741 du 28 juin 2011 - art. 1
 
 	**Cite**:
 
