@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2011-06-30
+Version Consolidée au 2011-07-17
 
 # Partie législative
 
@@ -9141,8 +9141,8 @@ Sont considérés, au regard de la récidive, comme une même infraction, les d�
 
 ― les articles L. 716-9 à L. 716-11 du code de la propriété intellectuelle ; 
 
-― les articles L. 1343-2 à L. 1343-4, L. 3322-11, L. 3351-1, L. 3351-2, 
-L. 4212-1, L. 4212-2, L. 4212-3, L. 4212-4, L. 4212-5, L. 4212-7, 
+― les articles L. 1343-2 à L. 1343-4, L. 3322-11, L. 3351-1, L. 3351-2, L. 4212-1, L. 4212-2, L. 4212-3, L. 4212-4, L.
+4212-5, L. 4212-7, 
 L. 4223-1, L. 4223-4, L. 4323-2, 
 L. 5421-1, L. 5421-2, L. 5421-3, L. 5421-4, L. 5421-5, L. 5421-6, L. 5421-6-1, 
 L. 5424-1, L. 5424-3, L. 5424-6, L. 5424-11, L. 5431-2, L. 5431-5, L. 5431-6, L. 5431-7, L. 5432-1, L. 5441-1, L. 5441-2, L.
@@ -9150,8 +9150,7 @@ L. 5424-1, L. 5424-3, L. 5424-6, L. 5424-11, L. 5431-2, L. 5431-5, L. 5431-6, L.
 5442-11, 
 L. 5461-3 et L. 5462-3 du code de la santé publique ; 
 
-― les articles L. 237-1, L. 237-2, L. 237-3, L. 253-17, 
-L. 254-9, 
+― les articles L. 237-1, L. 237-2, L. 237-3, L. 253-15 à L. 253-17, L. 254-9, 
 L. 255-8, 
 L. 671-9 et L. 671-10 du code rural et de la pêche maritime ; 
 
@@ -9178,42 +9177,6 @@ vente du cuir et des produits ouvrés en cuir ;
 
 	  - Loi n°1905-08-01 du 1 août 1905 - art. 5 (Ab)
 
-	**Cite**:
-
-	  - Loi du 30 décembre 1931 (V)
-	  - Loi du 29 juin 1934 (V)
-	  - Loi du 3 juillet 1934 (V)
-	  - Loi du 2 juillet 1935 (V)
-	  - Loi du 25 juin 1936 (V)
-	  - Loi du 21 avril 1939 (V)
-	  - Loi du 3 février 1940 (V)
-	  - Code de la propriété intellectuelle - art. L716-9 (V)
-	  - Code de la consommation - art. L115-3 (V)
-	  - Code de la consommation - art. L121-14 (V)
-	  - Code de la consommation - art. L121-6 (V)
-	  - Code de la consommation - art. L213-1 (V)
-	  - Code de la consommation - art. L214-1 (V)
-	  - Code de la consommation - art. L217-1 (V)
-	  - Code rural - art. L237-1 (V)
-	  - Code rural - art. L253-17 (V)
-	  - Code rural - art. L254-9 (V)
-	  - Code rural - art. L255-8 (V)
-	  - Code rural - art. L671-9 (V)
-	  - Code de la santé publique - art. L1343-3 (V)
-	  - Code de la santé publique - art. L3322-11 (V)
-	  - Code de la santé publique - art. L3351-1 (V)
-	  - Code de la santé publique - art. L4212-1 (V)
-	  - Code de la santé publique - art. L4223-1 (V)
-	  - Code de la santé publique - art. L4323-2 (V)
-	  - Code de la santé publique - art. L5421-1 (V)
-	  - Code de la santé publique - art. L5424-1 (V)
-	  - Code de la santé publique - art. L5431-2 (V)
-	  - Code de la santé publique - art. L5432-1 (V)
-	  - Code de la santé publique - art. L5441-1 (V)
-	  - Code de la santé publique - art. L5442-1 (V)
-	  - Code de la santé publique - art. L5461-3 (V)
-	  - Code de la santé publique - art. L5462-3 (V)
-
 	**Cité par**:
 
 	  - Loi n°1939-04-21 du 21 avril 1939 - art. 6 (V)
@@ -9225,7 +9188,28 @@ vente du cuir et des produits ouvrés en cuir ;
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 179
+	  - Ordonnance n°2011-840 du 15 juillet 2011 - art. 5
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L716-9 (V)
+	  - Code rural - art. L237-1
+	  - Code rural - art. L253-15
+	  - Code rural - art. L254-9
+	  - Code rural - art. L255-8
+	  - Code rural - art. L671-9
+	  - Code de la santé publique - art. L1343-2 (V)
+	  - Code de la santé publique - art. L4212-1
+	  - Code de la santé publique - art. L4223-1
+	  - Code de la santé publique - art. L4323-2
+	  - Code de la santé publique - art. L5421-1
+	  - Code de la santé publique - art. L5424-1
+	  - Code de la santé publique - art. L5431-2
+	  - Code de la santé publique - art. L5432-1
+	  - Code de la santé publique - art. L5441-1
+	  - Code de la santé publique - art. L5442-1
+	  - Code de la santé publique - art. L5461-3
+	  - Code de la santé publique - art. L5462-3
 
 
 ###### Article L213-6
