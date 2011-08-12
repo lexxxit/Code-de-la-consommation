@@ -1,38 +1,36 @@
 # Article Annexe III
 
+Annexe mentionnée au 3° de l'article R. 112-16
+
 DÉSIGNATION DES ARÔMES DANS LA LISTE DES INGRÉDIENTS 
 
-1. Les arômes sont désignés soit sous le terme " arôme (s) ", soit sous une dénomination plus spécifique ou une description
-de l'arôme. 
+1. Sans préjudice du 2° de l'article R. 112-16, les arômes sont désignés sous les termes :
 
-2. La quinine et / ou la caféine qui sont utilisées en tant qu'arôme dans la fabrication ou la préparation d'une denrée
-alimentaire doivent être désignées dans la liste des ingrédients sous leur dénomination spécifique, immédiatement après le
-terme " arôme ". 
+- " arômes " ou une dénomination plus spécifique ou une description de l'arôme, si l'élément aromatisant contient des arômes
+tels que définis à l'article 3, paragraphe 2, points b, c, d, e, f, g et h du règlement (CE) n° 1334/2008 du Parlement
+européen et du Conseil du 16 décembre 2008 sur les arômes et certains ingrédients alimentaires possédant des propriétés
+aromatisantes utilisés dans et sur les denrées alimentaires ;
 
-3. Le qualificatif " naturel " ou toute expression ayant une signification sensiblement équivalente ne peut être utilisé que
-pour les arômes dont la partie aromatisante contient exclusivement soit des substances aromatisantes telles que définies à
-l'article 4 du décret du 11 avril 1991 relatif aux arômes destinés à être employés dans les denrées alimentaires, soit des
-préparations aromatisantes telles que définies à l'article 7 du même décret, soit un mélange de ces deux catégories
-d'arômes. 
+- " arôme (s) de fumée ", ou " arôme (s) de fumée produit (s) à partir de denrée (s) ou catégorie de denrées ou matériau (x)
+source " (par exemple, arôme de fumée produit à partir de hêtre), si l'agent aromatisant contient des arômes tels que définis
+à l'article 3, paragraphe 2, point f, du règlement (CE) n° 1334/2008 et confère un arôme de fumée aux denrées alimentaires. 
 
-4. Si la désignation de l'arôme contient une référence à la nature ou à l'origine végétale ou animale des substances
-utilisées, le terme " naturel " ou toute autre expression ayant une signification sensiblement équivalente ne peut être
-utilisé que si la partie aromatisante a été isolée par des procédés physiques appropriés ou des procédés enzymatiques ou
-microbiologiques, ou des procédés traditionnels de préparation des denrées alimentaires uniquement ou presque uniquement à
-partir de la denrée alimentaire ou de la source d'arômes concernée.
+2. Le qualificatif " naturel " est utilisé pour désigner un arôme conformément à l'article 16 du règlement (CE) n° 1334/2008.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°91-366 du 11 avril 1991 (V)
-	  - Décret n°91-366 du 11 avril 1991 - art. 4 (V)
-	  - Décret n°91-366 du 11 avril 1991 - art. 7 (V)
-
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-944 du 2 août 2005 - art. 26 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+	  - Décret n°2011-949 du 10 août 2011 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code de la consommation - art. R112-16 (V)

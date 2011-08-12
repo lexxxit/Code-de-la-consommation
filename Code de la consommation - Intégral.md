@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2011-07-17
+Version Consolidée au 2011-08-13
 
 # Partie législative
 
@@ -22328,25 +22328,21 @@ cette denrée alimentaire ;
 
 ###### Article R112-2
 
-On entend par ingrédient toute substance, y compris les additifs, utilisée dans la fabrication ou la préparation d'une denrée
-alimentaire et qui est encore présente dans le produit fini, éventuellement sous une forme modifiée.
+On entend par ingrédient toute substance, y compris les additifs et les enzymes, utilisée dans la fabrication ou la
+préparation d'une denrée alimentaire et encore présente dans le produit fini, éventuellement sous une forme modifiée ;
 
 Lorsqu'un ingrédient d'une denrée alimentaire a été élaboré à partir de plusieurs ingrédients, ces derniers sont considérés
 comme ingrédients de cette denrée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°84-1147 du 7 décembre 1984 - art. 9 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2011-949 du 10 août 2011 - art. 1
 
 
 ###### Article R112-3
@@ -22356,34 +22352,27 @@ Toutefois, ne sont pas considérés comme ingrédients :
 1° Les constituants d'un ingrédient qui, au cours du processus de fabrication, auraient été temporairement soustraits pour
 être réincorporés ensuite en quantité ne dépassant pas la teneur initiale ;
 
-2° Les additifs dont la présence dans une denrée alimentaire est uniquement due au fait qu'ils étaient contenus dans un ou
-plusieurs ingrédients de cette denrée et sous réserve qu'ils ne remplissent plus de fonction technologique dans le produit
-fini ;
+2° Les additifs et les enzymes  dont la présence dans une denrée alimentaire est uniquement due au fait qu'ils étaient
+contenus dans un ou plusieurs ingrédients de cette denrée et sous réserve qu'ils ne remplissent plus de fonction
+technologique dans le produit fini ;
 
-3° Les additifs qui sont utilisés en tant qu'auxiliaires technologiques ;
+3° Les additifs et les enzymes  qui sont utilisés en tant qu'auxiliaires technologiques ;
 
 4° Les substances qui ne sont pas des additifs, mais qui sont utilisées de la même manière et dans le même but que les
 auxiliaires technologiques et qui sont toujours présentes dans le produit fini, même sous une forme modifiée ;
 
-5° Les substances utilisées aux doses strictement nécessaires comme solvants ou supports pour les additifs et les arômes.
+5° Les substances utilisées aux doses strictement nécessaires comme solvants ou supports pour les additifs les enzymes ou les
+arômes .
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°84-1147 du 7 décembre 1984 - art. 10 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Modifié par**:
 
-	  - Décret n°2005-944 du 2 août 2005 - art. 2 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+	  - Décret n°2011-949 du 10 août 2011 - art. 1
 
 
 ###### Article R112-4
@@ -23091,29 +23080,24 @@ ou provenant d'un ingrédient énuméré à cette même annexe. Ces ingrédients
 l'article R. 112-16-1 ;
 
 5° Par dérogation au 1° et au 2°, les désignations "amidon(s)" et "amidon(s) modifié(s)" sont complétées par l'indication de
-leur origine végétale spécifique lorsque ces ingrédients peuvent contenir du gluten.
+leur origine végétale spécifique lorsque ces ingrédients peuvent contenir du gluten ;
+
+6° Les enzymes autres que celles mentionnées à l'article R. 112-3, au 2° et au 3°, sont désignées sous le nom de l'une des
+catégories d'ingrédients énumérées à l'annexe II, suivi de leur nom spécifique.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la consommation annexe, R112-16-1
-
-	**Anciens textes**:
-
-	  - Décret n°84-1147 1984-12-07 art. 11 al. 3
-
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Modifié par**:
 
-	  - Décret n°2005-944 du 2 août 2005 - art. 13 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+	  - Décret n°2011-949 du 10 août 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 	**Cité par**:
 
@@ -25778,24 +25762,47 @@ cocktails aromatisés à base de produits vitivinicoles et ses annexes.
 	  - Code de la consommation - art. L214-1
 
 
-##### Section 6 :  Arômes 
-
+##### Section 6 :  Additifs, enzymes et arômes  destinés à l'alimentation humaine
 
 ###### Article R214-6
 
-Constituent les mesures d'exécution prévues à l'article L. 214-1 les dispositions des articles 2, 3, 4, 5 et 13 du règlement
-(CE) n° 2065 / 2003 du Parlement européen et du Conseil du 10 novembre 2003 relatif aux arômes de fumée utilisés ou destinés
-à être utilisés dans ou sur les denrées alimentaires et ses annexes.
+Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
+
+1° Les dispositions du paragraphe 1 de l'article 2, le paragraphe 4 de l'article 2, des articles 3,5,15 et 16, du paragraphe
+1 de l'article 21, du paragraphe 1 de l'article 23 et de l'article 26 du règlement (CE) n° 1333/2008 du Parlement européen et
+du Conseil du 16 décembre 2008 sur les additifs alimentaires et ses annexes ; 
+
+2° Les dispositions du paragraphe 1 de l'article 2, des articles 3 et 5, du paragraphe 1 de l'article 10, du paragraphe 1 de
+l'article 12 et de l'article 14 du règlement (CE) n° 1332/2008 du Parlement européen et du Conseil du 16 décembre 2008
+concernant les enzymes alimentaires et modifiant la directive 83/417/ CEE du Conseil, le règlement (CE) n° 1493/1999 du
+Conseil, la directive 2000/13/ CE, la directive 2001/112/ CE du Conseil et le règlement (CE) n° 258/97 et ses annexes ; 
+
+3° Les dispositions du paragraphe 1 de l'article 2, des articles 3 et 5, du paragraphe 1 de l'article 14, du paragraphe 1 de
+l'article 17 et de l'article 19 du règlement (CE) n° 1334/2008 du Parlement européen et du Conseil du 16 décembre 2008
+relatif aux arômes et à certains ingrédients possédant des propriétés aromatisantes et modifiant le règlement (CEE) n°
+1601/91 du Conseil, les règlements (CE) n° 2232/96 et (CE) n° 110/2008 et la directive 2000/13/ CE et ses annexes ; 
+
+4° Les dispositions des articles 2,3,4,5 et 13 du règlement (CE) n° 2065/2003 du Parlement européen et du Conseil du 10
+novembre 2003 relatif aux arômes de fumée utilisés ou destinés à être utilisés dans ou sur les denrées alimentaires et ses
+annexes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+	  - Décret n°2011-949 du 10 août 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
 	  - Code de la consommation - art. L214-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-22 (V)
 
 
 ##### Section 7 : Adjonction de vitamines, de minéraux 
@@ -29667,42 +29674,40 @@ Gaz propulseur.
 
 ###### Article Annexe III
 
+Annexe mentionnée au 3° de l'article R. 112-16
+
 DÉSIGNATION DES ARÔMES DANS LA LISTE DES INGRÉDIENTS 
 
-1. Les arômes sont désignés soit sous le terme " arôme (s) ", soit sous une dénomination plus spécifique ou une description
-de l'arôme. 
+1. Sans préjudice du 2° de l'article R. 112-16, les arômes sont désignés sous les termes :
 
-2. La quinine et / ou la caféine qui sont utilisées en tant qu'arôme dans la fabrication ou la préparation d'une denrée
-alimentaire doivent être désignées dans la liste des ingrédients sous leur dénomination spécifique, immédiatement après le
-terme " arôme ". 
+- " arômes " ou une dénomination plus spécifique ou une description de l'arôme, si l'élément aromatisant contient des arômes
+tels que définis à l'article 3, paragraphe 2, points b, c, d, e, f, g et h du règlement (CE) n° 1334/2008 du Parlement
+européen et du Conseil du 16 décembre 2008 sur les arômes et certains ingrédients alimentaires possédant des propriétés
+aromatisantes utilisés dans et sur les denrées alimentaires ;
 
-3. Le qualificatif " naturel " ou toute expression ayant une signification sensiblement équivalente ne peut être utilisé que
-pour les arômes dont la partie aromatisante contient exclusivement soit des substances aromatisantes telles que définies à
-l'article 4 du décret du 11 avril 1991 relatif aux arômes destinés à être employés dans les denrées alimentaires, soit des
-préparations aromatisantes telles que définies à l'article 7 du même décret, soit un mélange de ces deux catégories
-d'arômes. 
+- " arôme (s) de fumée ", ou " arôme (s) de fumée produit (s) à partir de denrée (s) ou catégorie de denrées ou matériau (x)
+source " (par exemple, arôme de fumée produit à partir de hêtre), si l'agent aromatisant contient des arômes tels que définis
+à l'article 3, paragraphe 2, point f, du règlement (CE) n° 1334/2008 et confère un arôme de fumée aux denrées alimentaires. 
 
-4. Si la désignation de l'arôme contient une référence à la nature ou à l'origine végétale ou animale des substances
-utilisées, le terme " naturel " ou toute autre expression ayant une signification sensiblement équivalente ne peut être
-utilisé que si la partie aromatisante a été isolée par des procédés physiques appropriés ou des procédés enzymatiques ou
-microbiologiques, ou des procédés traditionnels de préparation des denrées alimentaires uniquement ou presque uniquement à
-partir de la denrée alimentaire ou de la source d'arômes concernée.
+2. Le qualificatif " naturel " est utilisé pour désigner un arôme conformément à l'article 16 du règlement (CE) n° 1334/2008.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°91-366 du 11 avril 1991 (V)
-	  - Décret n°91-366 du 11 avril 1991 - art. 4 (V)
-	  - Décret n°91-366 du 11 avril 1991 - art. 7 (V)
-
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-944 du 2 août 2005 - art. 26 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+	  - Décret n°2011-949 du 10 août 2011 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code de la consommation - art. R112-16 (V)
 
 
 ###### Article Annexe IV
