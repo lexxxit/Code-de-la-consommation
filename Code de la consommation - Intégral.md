@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2011-08-13
+Version Consolidée au 2011-08-27
 
 # Partie législative
 
@@ -3002,18 +3002,28 @@ du travail au 1er mai 2008.
 
 Les publicités, et notamment les offres promotionnelles, telles que les rabais, les primes ou les cadeaux, ainsi que les
 concours ou les jeux promotionnels, adressés par courrier électronique, doivent pouvoir être identifiés de manière claire et
-non équivoque dès leur réception par leur destinataire, ou en cas d'impossibilité technique, dans le corps du message.
+non équivoque dès leur réception par leur destinataire, ou en cas d'impossibilité technique, dans le corps du message. Ces
+messages doivent indiquer une adresse ou moyen électronique permettant effectivement au destinataire de transmettre une
+demande visant à obtenir que ces publicités cessent.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Loi n°2008-3 du 3 janvier 2008 - art. 39
+	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 32
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
-	  - Code de la consommation - art. L121-15-3 (V)
+	  - Code de la consommation - art. L121-15-3 (VT)
 	  - Code du tourisme. - art. L211-1 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L122-8 (V)
 
 
 ###### Article L121-15-2
@@ -3482,11 +3492,11 @@ lorsqu'ils ont pour objet la prestation des services mentionnés au 2°.
 ###### Article L121-20-5
 
 Sont applicables les dispositions de l'article L. 34-5 du code des postes et communications électroniques, ci-après
-reproduites :
+reproduites : 
 
-"Art. L. 34-5 - Est interdite la prospection directe au moyen d'un automate d'appel, d'un télécopieur ou d'un courrier
-électronique utilisant, sous quelque forme que ce soit, les coordonnées d'une personne physique qui n'a pas exprimé son
-consentement préalable à recevoir des prospections directes par ce moyen. 
+" Art. L. 34-5-Est interdite la prospection directe au moyen de systèmes automatisés d'appel ou de communication, d'un
+télécopieur ou de courriers électroniques utilisant les coordonnées d'une personne physique, abonné ou utilisateur, qui n'a
+pas exprimé préalablement son consentement à recevoir des prospections directes par ce moyen. 
 
 Pour l'application du présent article, on entend par consentement toute manifestation de volonté libre, spécifique et
 informée par laquelle une personne accepte que des données à caractère personnel la concernant soient utilisées à fin de
@@ -3496,46 +3506,46 @@ Constitue une prospection directe l'envoi de tout message destiné à promouvoir
 services ou l'image d'une personne vendant des biens ou fournissant des services. 
 
 Toutefois, la prospection directe par courrier électronique est autorisée si les coordonnées du destinataire ont été
-recueillies directement auprès de lui, dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés, à l'occasion d'une vente ou d'une prestation de services, si la prospection
-directe concerne des produits ou services analogues fournis par la même personne physique ou morale, et si le destinataire se
-voit offrir, de manière expresse et dénuée d'ambiguïté, la possibilité de s'opposer, sans frais, hormis ceux liés à la
-transmission du refus, et de manière simple, à l'utilisation de ses coordonnées lorsque celles-ci sont recueillies et chaque
-fois qu'un courrier électronique de prospection lui est adressé. 
+recueillies auprès de lui, dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique,
+aux fichiers et aux libertés, à l'occasion d'une vente ou d'une prestation de services, si la prospection directe concerne
+des produits ou services analogues fournis par la même personne physique ou morale, et si le destinataire se voit offrir, de
+manière expresse et dénuée d'ambiguïté, la possibilité de s'opposer, sans frais, hormis ceux liés à la transmission du refus,
+et de manière simple, à l'utilisation de ses coordonnées au moment où elles sont recueillies et chaque fois qu'un courrier
+électronique de prospection lui est adressé au cas où il n'aurait pas refusé d'emblée une telle exploitation. 
 
-Dans tous les cas, il est interdit d'émettre, à des fins de prospection directe, des messages au moyen d'automates d'appel,
-télécopieurs et courriers électroniques, sans indiquer de coordonnées valables auxquelles le destinataire puisse utilement
-transmettre une demande tendant à obtenir que ces communications cessent sans frais autres que ceux liés à la transmission de
-celle-ci. Il est également interdit de dissimuler l'identité de la personne pour le compte de laquelle la communication est
-émise et de mentionner un objet sans rapport avec la prestation ou le service proposé. 
+Dans tous les cas, il est interdit d'émettre, à des fins de prospection directe, des messages au moyen de systèmes
+automatisés d'appel ou de communication, télécopieurs et courriers électroniques, sans indiquer de coordonnées valables
+auxquelles le destinataire puisse utilement transmettre une demande tendant à obtenir que ces communications cessent sans
+frais autres que ceux liés à la transmission de celle-ci. Il est également interdit de dissimuler l'identité de la personne
+pour le compte de laquelle la communication est émise et de mentionner un objet sans rapport avec la prestation ou le service
+proposé. 
 
 La Commission nationale de l'informatique et des libertés veille, pour ce qui concerne la prospection directe utilisant les
-coordonnées d'une personne physique, au respect des dispositions du présent article en utilisant les compétences qui lui sont
-reconnues par la loi n° 78-17 du 6 janvier 1978 précitée. A cette fin, elle peut notamment recevoir, par tous moyens, les
-plaintes relatives aux infractions aux dispositions du présent article. 
+coordonnées d'un abonné ou d'une personne physique, au respect des dispositions du présent article en utilisant les
+compétences qui lui sont reconnues par la loi n° 78-17 du 6 janvier 1978 précitée. A cette fin, elle peut notamment recevoir,
+par tous moyens, les plaintes relatives aux infractions aux dispositions du présent article. 
 
 Les infractions aux dispositions du présent article sont recherchées et constatées dans les conditions fixées par les
 articles L. 450-1, L. 450-2, L. 450-3, L. 450-4, L. 450-7, L. 450-8, L. 470-1 et L. 470-5 du code de commerce. 
 
 Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application du présent article, notamment eu égard
-aux différentes technologies utilisées."
+aux différentes technologies utilisées. "
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°78-17 1978-01-06
-	  - Code de commerce. - art. L450-2 (V)
-	  - Code de commerce. - art. L450-3 (M)
-	  - Code de commerce. - art. L450-4 (M)
-	  - Code de commerce. - art. L450-7 (V)
-	  - Code de commerce. - art. L450-8 (M)
-	  - Code de commerce. - art. L470-1 (V)
-	  - Code de commerce. - art. L470-5 (V)
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Code de commerce - art. L450-1
+	  - Code des postes et des communications électroniques - art. L34-5
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 177
+	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 8
+
+	**Abrogé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
 
 	**Cité par**:
 
@@ -3545,7 +3555,7 @@ aux différentes technologies utilisées."
 
 	**Liens**:
 
-	  - PILOTE_SUIVEUR: Code des postes et des communications électronique - art. L34-5 (M)
+	  - PILOTE_SUIVEUR: Code des postes et des communications électroniques - art. L34-5
 
 
 ###### Article L121-20-6
@@ -5908,51 +5918,119 @@ alinéa de l'article L. 121-6.
 ###### Article L121-83
 
 Tout contrat souscrit par un consommateur avec un fournisseur de services de communications électroniques au sens du 6° de
-l'article L. 32 du code des postes et des communications électroniques doit comporter au moins les informations suivantes :
+l'article L. 32 du code des postes et des communications électroniques doit comporter au moins les informations suivantes
+sous une forme claire, détaillée et aisément accessible : 
 
-a) L'identité et l'adresse du fournisseur ;
+a) L'identité et l'adresse du fournisseur ; 
 
-b) Les services offerts, leur niveau de qualité et le délai nécessaire pour en assurer la prestation ;
+b) Les services offerts, leur niveau de qualité et le délai nécessaire pour en assurer la prestation ; 
 
-c) Le détail des tarifs pratiqués et les moyens par lesquels des informations actualisées sur l'ensemble des tarifs
-applicables et des frais de maintenance peuvent être obtenues ;
+c) Le détail des tarifs pratiqués, notamment les frais de résiliation et les frais de portabilité des numéros et autres
+identifiants, les moyens par lesquels des informations actualisées sur l'ensemble des tarifs applicables et des frais de
+maintenance peuvent être obtenues et les modes de paiement proposés ainsi que leurs conditions ; 
 
 d) Les compensations et formules de remboursement applicables si le niveau de qualité des services prévus dans le contrat
-n'est pas atteint ;
+n'est pas atteint ; 
 
-e) La durée du contrat, les conditions de renouvellement et d'interruption des services et du contrat ;
+e) La durée du contrat, les conditions de renouvellement et d'interruption des services et du contrat ; 
 
-f) Les modes de règlement amiable des différends.
+f) Les modes de règlement amiable des différends notamment la possibilité de recourir à un médiateur ; 
+
+g) Les procédures mises en place par le fournisseur pour mesurer et orienter le trafic de manière à éviter de saturer ou
+sursaturer une ligne du réseau et sur leurs conséquences en matière de qualité du service ; 
+
+h) Les services après vente fournis, ainsi que les modalités permettant de contacter ces services ; 
+
+i) Les restrictions à l'accès à des services et à leur utilisation, ainsi qu'à celle des équipements terminaux fournis ; 
+
+j) Les possibilités qui s'offrent à l'abonné de faire figurer ou non ses données à caractère personnel dans un annuaire et
+les données concernées ; 
+
+k) Toute utilisation ou durée minimale requise pour pouvoir bénéficier de promotions ; 
+
+l) Le type de mesure qu'est susceptible de prendre le fournisseur afin de réagir à un incident ayant trait à la sécurité ou à
+l'intégrité ou de faire face à des menaces et à des situations de vulnérabilité ; 
+
+m) Les droits conférés au consommateur dans le cadre du service universel, lorsque le fournisseur est chargé de ce service. 
 
 Un arrêté conjoint du ministre chargé de la consommation et du ministre chargé des communications électroniques, pris après
-avis du Conseil national de la consommation, précise, en tant que de besoin, ces informations.
+avis du Conseil national de la consommation et de l'Autorité de régulation des communications électroniques et des postes
+dans les conditions prévues à l'article L. 130 du code des postes et des communications électroniques, précise ces
+informations.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 114 () JORF 10 juillet 2004
+	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 33
 
 	**Cité par**:
 
 	  - Arrêté du 3 décembre 2013 - art. 6 (VD)
 	  - Code de la consommation - art. L121-83-1 (VT)
 	  - Code de la consommation - art. L121-85 (V)
+	  - Code de la consommation - art. L121-85-1 (VT)
 	  - Code des postes et des communications électroni... - art. D98-12 (V)
+	  - Code des postes et des communications électroni... - art. L33-1 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-30 (M)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L130
+	  - Code des postes et des communications électroniques - art. L32
+
+
+###### Article L121-83-1
+
+Tout fournisseur de services de communications électroniques au sens du 6° de l'article L. 32 du code des postes et des
+communications électroniques met à la disposition des consommateurs et tient à jour dans ses points de vente et par un moyen
+téléphonique ou électronique accessible en temps réel à un tarif raisonnable les informations suivantes :
+
+- les informations visées à l'article L. 121-83 du présent code ;
+
+- les produits et services destinés aux consommateurs handicapés ;
+
+- les conséquences juridiques de l'utilisation des services de communications électroniques pour se livrer à des activités
+illicites ou diffuser des contenus préjudiciables, en particulier lorsqu'ils peuvent porter atteinte au respect des droits et
+des libertés d'autrui, y compris les atteintes aux droits d'auteur et aux droits voisins ;
+
+- les moyens de protection contre les risques d'atteinte à la sécurité individuelle, à la vie privée et aux données à
+caractère personnel lors de l'utilisation des services de communications électroniques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 34
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-83
+	  - Code des postes et des communications électroniques - art. L32
+
+	**Cité par**:
+
 	  - Code des postes et des communications électroni... - art. L33-1 (V)
 
 
 ###### Article L121-84
 
 Tout projet de modification des conditions contractuelles de fourniture d'un service de communications électroniques est
-communiqué par le prestataire au consommateur au moins un mois avant son entrée en vigueur, assorti de l'information selon
-laquelle ce dernier peut, tant qu'il n'a pas expressément accepté les nouvelles conditions, résilier le contrat sans pénalité
-de résiliation et sans droit à dédommagement, jusque dans un délai de quatre mois après l'entrée en vigueur de la
-modification.
+communiqué par le prestataire au consommateur par écrit ou sur un autre support durable à la disposition de ce dernier au
+moins un mois avant son entrée en vigueur, assorti de l'information selon laquelle ce dernier peut, tant qu'il n'a pas
+expressément accepté les nouvelles conditions, résilier le contrat sans pénalité de résiliation et sans droit à
+dédommagement, jusque dans un délai de quatre mois après l'entrée en vigueur de la modification.
 
 Pour les contrats à durée déterminée ne comportant pas de clause déterminant précisément les hypothèses pouvant entraîner une
 modification contractuelle ou de clause portant sur la modification du prix, le consommateur peut exiger l'application des
@@ -5965,11 +6043,11 @@ dispositions relatives aux modifications ultérieures des conditions contractuel
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 114 () JORF 10 juillet 2004
+	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 35
 
 	**Cité par**:
 
@@ -5977,6 +6055,15 @@ dispositions relatives aux modifications ultérieures des conditions contractuel
 	  - Code de la consommation - art. L121-85 (V)
 	  - Code de la propriété intellectuelle - art. L335-7 (VD)
 	  - Code des postes et des communications électroni... - art. R20-30-9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-29 (V)
+	  - Code de la consommation - art. L224-33 (V)
 
 
 ###### Article L121-84-1
@@ -6284,63 +6371,87 @@ vigueur le 1er juin 2008.
 
 ###### Article L121-84-9
 
-Sans préjudice du tarif appliqué au titre de la fourniture des prestations de renseignements téléphoniques, aucun tarif de
-communication spécifique autre que celui d'une communication nationale ne peut être appliqué, par les opérateurs de
-téléphonie mobile, aux appels émis vers des services de renseignements téléphoniques.
-
-**Nota:**
-
-NOTA : Loi n° 2008-3 du 3 janvier 2008, article 20 : Les articles L. 121-84-1 à L. 121-84-10 du code de la consommation
-entrent en vigueur le 1er juin 2008.
+Tout fournisseur d'un service de communications électroniques, au sens du 6° de l'article L. 32 du code des postes et des
+communications électroniques, est tenu d'instituer un médiateur impartial et compétent auquel ses clients peuvent s'adresser
+en cas de différend relatif aux conditions de leur contrat ou à l'exécution de leur contrat. Les modalités d'intervention du
+médiateur doivent être facilement accessibles, rapides, transparentes pour les deux parties et confidentielles.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-3 du 3 janvier 2008 - art. 19
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2011-1012 du 24 août 2011 - art. 36
+	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 36
 
 	**Cité par**:
 
 	  - Arrêté du 31 décembre 2013 - art. (VD)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
 	**Nouveaux textes**:
 
-	  - Code de la consommation - art. L121-84-10 (VT)
+	  - Code de la consommation - art. L224-41 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L32
 
 
 ###### Article L121-84-10
+
+Sans préjudice du tarif appliqué au titre de la fourniture des prestations de renseignements téléphoniques, aucun tarif de
+communication spécifique autre que celui d'une communication nationale ne peut être appliqué, par les opérateurs de
+téléphonie mobile, aux appels émis vers des services de renseignements téléphoniques.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2008-3 du 3 janvier 2008 - art. 20 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 36
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L121-84-9 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-57 (V)
+
+
+###### Article L121-84-11
 
 Lorsqu'ils proposent d'assurer la mise en relation à la suite de la fourniture d'un numéro de téléphone, les fournisseurs de
 renseignements téléphoniques ont l'obligation d'informer le consommateur du tarif de cette mise en relation. Cette
 information doit être fournie systématiquement et préalablement à l'acceptation expresse de l'offre de mise en relation par
 le consommateur.
 
-**Nota:**
-
-Loi n° 2008-3 du 3 janvier 2008, article 20 : Les articles L. 121-84-1 à L. 121-84-10 du code de la consommation entrent en
-vigueur le 1er juin 2008.
-
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2008-3 du 3 janvier 2008 - art. 19
+	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 36
 
-	**Cité par**:
+	**Abrogé par**:
 
-	  - Loi n°2008-3 du 3 janvier 2008 - art. 20 (V)
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Ordonnance n°2011-1012 du 24 août 2011 - art. 36
+	  - Code de la consommation - art. L121-84-10 (T)
 
 	**Nouveaux textes**:
 
-	  - Code de la consommation - art. L121-84-11 (VT)
+	  - Code de la consommation - art. L224-58 (V)
 
 
 ###### Article L121-85
