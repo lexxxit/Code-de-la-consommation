@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2011-12-16
+Version Consolidée au 2011-12-17
 
 # Partie législative
 
@@ -7866,6 +7866,8 @@ les Terres australes et antarctiques françaises.
 
 #### Chapitre unique : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles
 
+#### Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles
+
 ###### Article L141-1
 
 I.-Sont recherchés et constatés, dans les conditions fixées par les articles L. 450-1 à L. 450-4, L. 450-7, L. 450-8, L.
@@ -8143,6 +8145,29 @@ d'exécution.
 	  - Code de la consommation - art. R522-5 (V)
 	  - Code de la consommation - art. R522-6 (V)
 	  - Code de la consommation - art. R631-4 (V)
+
+
+#### Chapitre II : Dispositions relatives à l'outre-mer
+
+###### Article L142-1
+
+L'article L. 141-6 est applicable dans les îles Wallis et Futuna dans sa rédaction en vigueur à la date de la publication de
+l'ordonnance n° 2011-1875 du 15 décembre 2011.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2011-1875 du 15 décembre 2011
+	  - Code de la consommation - art. L141-6 (VT)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1875 du 15 décembre 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
 ## Livre II : Conformité et sécurité des produits et des services
