@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2011-12-17
+Version Consolidée au 2011-12-23
 
 # Partie législative
 
@@ -7863,8 +7863,6 @@ les Terres australes et antarctiques françaises.
 
 
 ### Titre IV : Pouvoirs des agents et actions juridictionnelles
-
-#### Chapitre unique : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles
 
 #### Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles
 
@@ -20454,11 +20452,17 @@ renvoyer le dossier à la commission.
 
 ###### Article L333-1
 
-Sauf accord du créancier, sont exclues de toute remise, de tout rééchelonnement ou effacement :
+Sauf accord du créancier, sont exclues de toute remise, de tout rééchelonnement ou effacement : 
 
-1° Les dettes alimentaires ;
+1° Les dettes alimentaires ; 
 
-2° Les réparations pécuniaires allouées aux victimes dans le cadre d'une condamnation pénale.
+2° Les réparations pécuniaires allouées aux victimes dans le cadre d'une condamnation pénale ; 
+
+3° Les dettes ayant pour origine des manœuvres frauduleuses commises au préjudice des organismes de protection sociale
+énumérés à l'article L. 114-12 du code de la sécurité sociale. 
+
+L'origine frauduleuse de la dette est établie soit par une décision de justice, soit par une sanction prononcée par un
+organisme de sécurité sociale dans les conditions prévues aux articles L. 114-17 et L. 162-1-14 du même code. 
 
 Les amendes prononcées dans le cadre d'une condamnation pénale sont exclues de toute remise, de tout rééchelonnement ou
 effacement.
@@ -20467,22 +20471,27 @@ effacement.
 
 	**Anciens textes**:
 
-	  - Loi n°89-1010 1989-12-31 art. 15
 	  - Loi n°89-1010 du 31 décembre 1989 - art. 15 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Modifié par**:
 
-	  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+	  - Loi n°2011-1906 du 21 décembre 2011 - art. 116
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L332-5 (VT)
 	  - Code de la consommation - art. L333-7 (Ab)
 	  - Code de la consommation - art. R*333-4 (Ab)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L114-12
+	  - Code de la sécurité sociale. - art. L114-17 (V)
+	  - Code de la sécurité sociale. - art. L162-1-14 (V)
 
 
 ###### Article L333-1-1
