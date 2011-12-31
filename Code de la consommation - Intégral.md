@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2011-12-23
+Version Consolidée au 2012-01-01
 
 # Partie législative
 
@@ -7430,6 +7430,114 @@ Lorsqu'une pratique commerciale agressive aboutit à la conclusion d'un contrat,
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L132-10 (V)
+
+
+#### Chapitre III : Dispositions relatives à l'outre-mer
+
+###### Article L123-1
+
+Les articles L. 121-20-8 à L. 121-20-16 sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles
+Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20-8
+
+
+###### Article L123-2
+
+En l'absence d'adaptation, les références faites, par des dispositions des articles mentionnés à l'article L. 123-1, à des
+dispositions qui ne sont pas applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna,
+notamment en matière d'assurance et de mutualité, sont remplacées par des références aux dispositions ayant le même objet
+applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L123-1 (VT)
+
+
+###### Article L123-3
+
+Pour l'application du III de l'article L. 121-20-12 en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et
+Futuna : 
+
+1° Les mots : " mentionnés à l'article L. 121-60 " sont remplacés par les mots : " ou groupe de contrats, conclus à titre
+onéreux, par lequel un professionnel confère à un consommateur, directement ou indirectement, un droit ou un service
+d'utilisation de biens à temps partagé, ou concernant des produits de vacances à long terme, ou de revente ou d'échange de
+tels droits ou services " ; 
+
+2° Cet alinéa est complété par un alinéa ainsi rédigé : 
+
+" Cet article ne s'applique pas non plus au contrat de souscription ou de cession de parts ou actions de sociétés
+d'attribution d'immeubles en jouissance à temps partagé régi par les dispositions applicables localement relatives aux
+sociétés d'attribution d'immeubles en jouissance à temps partagé. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20-12
+
+
+###### Article L123-4
+
+Pour l'application de l'article L. 121-20-14 en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna,
+les mots : " reproduites à l'article L. 121-20-5, " sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 33 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20-14
+
+
+###### Article L123-5
+
+Pour son application en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, l'article L. 121-20-15
+est ainsi rédigé : 
+
+" Art. L. 121-20-15. ― Lorsque les parties ont choisi la loi d'un Etat autre que la France pour régir le contrat, le juge
+devant lequel est invoquée cette loi est tenu d'en écarter l'application au profit des dispositions plus protectrices de la
+loi de la résidence habituelle du consommateur concernant la protection des consommateurs en matière de commercialisation à
+distance de services financiers. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20-15
 
 
 ### Titre III : Conditions générales des contrats
@@ -18539,16 +18647,201 @@ Les modalités d'application des dispositions du présent chapitre sont fixées 
 
 #### Chapitre V : Dispositions relatives à l'outre-mer
 
+##### Section 1 : Crédit à la consommation
+
 ###### Article L315-1
 
-Le chapitre Ier du présent titre ainsi que les articles L. 313-1 à L. 313-6 et L. 313-15 sont applicables en Nouvelle-
-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+Le chapitre Ier du présent titre                      est applicable en Nouvelle-Calédonie, en Polynésie française et dans
+les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
+##### Section 2 : Crédit immobilier
+
+
+###### Article L315-2
+
+Les articles L. 312-1 à L. 312-36 sont applicables en Nouvelle-Calédonie et en Polynésie française.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 53
+	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
+###### Article L315-3
+
+Pour leur application en Nouvelle-Calédonie et en Polynésie française : 
+
+1° A l'article L. 312-15, les mots : "et le contrat préliminaire prévu à l'article L. 261-15 du code de la construction et de
+l'habitation" sont supprimés ; 
+
+2° A l'article L. 312-36, les mots : "Le tribunal d'instance" sont remplacés par les mots : " Le tribunal de première
+instance".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 4
+
+
+###### Article L315-4
+
+Les références faites, par des dispositions des articles mentionnés à l'article L. 315-2, à des dispositions qui ne sont pas
+applicables en Polynésie française, et notamment à des dispositions du code civil, sont remplacées par des références aux
+dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
+##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier
+
+
+###### Article L315-5
+
+Les articles L. 313-1 à L. 313-5 et L. 313-15 sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles
+Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 4
+
+
+###### Article L315-6
+
+Les articles L. 313-7 à L. 313-11, L. 313-14 à L. 313-14-2, L. 313-16 et L. 313-17 sont applicables en Nouvelle-Calédonie et
+en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
+###### Article L315-7
+
+Pour leur application en Nouvelle-Calédonie et en Polynésie française : 
+
+1° Dans les articles L. 313-7 à L. 313-10-1, les mots : "des chapitres Ier ou II" sont remplacés par les mots : "du chapitre
+II" ; 
+
+2° Les articles L. 313-11, L. 313-14-1, L. 313-14-2 et L. 313-16 se s'appliquent pas aux opérations de crédit à la
+consommation ; 
+
+3° A l'article L. 313-14, les mots : "soit des dispositions du chapitre Ier relatif au crédit à la consommation, soit" sont
+supprimés ; 
+
+4° A l'article L. 313-17, les mots : "des chapitres Ier et" sont remplacés par les mots : "du chapitre".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
+###### Article L315-8
+
+Pour leur application en Polynésie française, les références faites, par des dispositions des articles mentionnés à l'article
+L. 315-6, à des dispositions qui ne sont pas applicables en Polynésie française, notamment à des dispositions du code civil,
+sont remplacées par des références à des dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
+###### Article L315-9
+
+L'article L. 313-13 est applicable en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
+###### Article L315-10
+
+Pour l'application en Nouvelle-Calédonie de l'article L. 313-13 : 
+
+1° Les mots : "sections 1, 3 et 4 à 8" sont remplacés par les mots : "sections 1, 3 et 5 à 8" ; 
+
+2° Les dispositions de l'article L. 313-13 ne s'appliquent pas aux opérations de crédit à la consommation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
+##### Section 4 : Prêt viager hypothécaire 
+
+
+
+###### Article L315-11
+
+Les articles L. 314-1 à L. 314-20 sont applicables en Nouvelle-Calédonie et en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
 ### Titre II : Activité d'intermédiaire
