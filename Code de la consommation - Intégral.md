@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2012-03-21
+Version Consolidée au 2012-03-24
 
 # Partie législative
 
@@ -13492,7 +13492,8 @@ amortissable à la place d'un contrat de crédit renouvelable.
 
 Avant de conclure le contrat de crédit, le prêteur vérifie la solvabilité de l'emprunteur à partir d'un nombre suffisant
 d'informations, y compris des informations fournies par ce dernier à la demande du prêteur. Le prêteur consulte le fichier
-prévu à l'article L. 333-4, dans les conditions prévues par l'arrêté mentionné à l'article L. 333-5.
+prévu à l'article L. 333-4, dans les conditions prévues par l'arrêté mentionné à l'article L. 333-5, sauf dans le cas d'une
+opération mentionnée au 1 de l'article L. 511-6 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
@@ -13520,9 +13521,14 @@ prévu à l'article L. 333-4, dans les conditions prévues par l'arrêté mentio
 	  - Code de la consommation - art. L313-14 (VT)
 	  - Code de la consommation - art. L333-5 (VT)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 6
+	  - Loi n°2012-387 du 22 mars 2012 - art. 116
+
+	**Cite**:
+
+	  - Code de la consommation - art. L333-4
+	  - Code monétaire et financier - art. L511-6
 
 
 ###### Article L311-10
@@ -27013,6 +27019,43 @@ décision 2004/217/ CE de la Commission, ainsi que les annexes à ce règlement.
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. R412-39 (V)
+
+
+##### Section 22 : Hygiène des produits, denrées alimentaires et aliments pour animaux mentionnés au 5° de l'article L. 214-1
+
+###### Article R214-22
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1, en ce qui concerne les produits, denrées alimentaires et
+aliments pour animaux mentionnés au 5° de l'article L. 214-1 du code de la consommation :
+
+1° Les dispositions des articles 1er, 2, 4, 5, 6, 10 et 11 ainsi que des chapitres Ier à VII, du paragraphe 1er et de la
+première phrase du paragraphe 2 du chapitre VIII et des chapitres IX à XII de l'annexe II du règlement (CE) n° 852/2004 du
+Parlement européen et du Conseil du 29 avril 2004 modifié relatif à l'hygiène des denrées alimentaires ;
+
+2° Les dispositions des articles 1er, 2, 3, 5 à 7, 9 et 23 ainsi que de l'annexe II du règlement (CE) n° 183/2005 du
+Parlement européen et du Conseil du 12 janvier 2005 modifié établissant des exigences en matière d'hygiène des aliments pour
+animaux ;
+
+3° Les dispositions des articles 1er à 4 ainsi que du chapitre Ier de l'annexe I du règlement (CE) n° 2073/2005 de la
+Commission du 15 novembre 2005 modifié concernant les critères microbiologiques applicables aux denrées alimentaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-390 du 21 mars 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L214-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-37 (V)
 
 
 #### Chapitre V : Pouvoirs d'enquête
