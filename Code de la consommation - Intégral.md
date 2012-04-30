@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2012-03-24
+Version Consolidée au 2012-05-01
 
 # Partie législative
 
@@ -12776,27 +12776,34 @@ ainsi la sécurité à laquelle on peut légitimement s'attendre dans le respect
 
 ###### Article L221-10
 
-Les décrets établis en application de l'article L. 221-3 sont pris après avis de l'Agence française de sécurité sanitaire des
-produits de santé ou de l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du
-travail lorsqu'ils concernent des produits entrant dans leur champ de compétence. Ces avis sont rendus publics. 
+Les décrets établis en application de l'article L. 221-3 sont pris après avis de l'Agence nationale de sécurité du médicament
+et des produits de santé ou de l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et
+du travail lorsqu'ils concernent des produits entrant dans leur champ de compétence. Ces avis sont rendus publics. 
 
 Les arrêtés établis en application de l'article L. 221-5 sont pris selon les mêmes modalités, sauf en cas d'urgence dûment
 motivée où ils sont notifiés sans délai à l'agence compétente.
 
 **Nota:**
 
+Loi n° 2011-2012 du 29 décembre 2011 article 41 III : Les présentes dispositions entrent en vigueur à une date prévue par le
+décret pris pour leur application et au plus tard le 1er août 2012. Dès cette entrée en vigueur, l'Agence nationale de
+sécurité du médicament et des produits de santé exerce l'ensemble des droits et supporte l'ensemble des obligations de
+l'Agence française de sécurité sanitaire des produits de santé. Jusqu'à l'entrée en vigueur de ces dispositions, les
+compétences et pouvoirs que la présente loi attribue à l'Agence nationale de sécurité du médicament et des produits de santé
+sont exercés par l'Agence française de sécurité sanitaire des produits de santé.
 
+Le décret n° 2012-597 du 27 avril 2012 est entré en vigueur le 1er mai 2012.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-18 du 7 janvier 2010 - art. 3
+	  - Loi n°2011-2012 du 29 décembre 2011 - art. 5
 
 	**Cite**:
 
-	  - Code de la consommation - art. L221-3
-	  - Code de la consommation - art. L221-5
+	  - Code de la consommation - art. L221-3 (V)
+	  - Code de la consommation - art. L221-5 (V)
 
 	**Cité par**:
 
