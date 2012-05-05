@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2012-05-01
+Version Consolidée au 2012-05-06
 
 # Partie législative
 
@@ -25881,14 +25881,13 @@ directeur de la direction départementale chargée de la protection des populati
 
 ###### Article R141-5
 
-Lorsqu'elle agit en application du VI de l'article L. 141-1, l'autorité administrative est dispensée de ministère d'avocat ou
-d'avoué.
+Lorsqu'elle agit en application du VI de l'article L. 141-1, l'autorité administrative est dispensée de ministère d'avocat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-763 du 30 juillet 2008 - art. 1
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 	**Cite**:
 
