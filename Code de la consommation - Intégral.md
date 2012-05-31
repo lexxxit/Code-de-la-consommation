@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2012-05-06
+Version Consolidée au 2012-06-01
 
 # Partie législative
 
@@ -36788,10 +36788,9 @@ ordonnance.
 
 ###### Article R334-48
 
-La vente par adjudication d'un bien immobilier est soumise aux dispositions du titre Ier du décret n° 2006-936 du 27 juillet
-2006 relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble, à l'exception des sections 2 et 4
-du chapitre III et des chapitres IV et V, dans la mesure où il n'y est pas dérogé par les dispositions du présent sous-
-paragraphe. 
+La vente par adjudication d'un bien immobilier est soumise aux dispositions des titres Ier et II du livre III du code des
+procédures civiles d'exécution, à l'exception des sous-sections 2 et 4 de la section 1 et des sections 2 et 3 du chapitre II
+du titre II, dans la mesure où il n'y est pas dérogé par les dispositions du présent sous-paragraphe. 
 
 Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la vente par adjudication d'un bien immobilier est soumise,
 sous la même réserve, aux dispositions du chapitre Ier du titre V de la loi du 1er juin 1924 mettant en vigueur la
@@ -36801,52 +36800,67 @@ législation civile française dans les départements du Bas-Rhin, du Haut-Rhin 
 
 	**Cite**:
 
-	  - Décret n°2006-936 du 27 juillet 2006
+	  - Loi du 1 juin 1924
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+	  - Décret n°2012-783 du 30 mai 2012 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cité par**:
 
-	  - Code de la consommation - art. R336-4 (VD)
+	  - Code de la consommation - art. R336-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R742-27 (V)
 
 
 ###### Article R334-49
 
 Le juge du tribunal d'instance, à la demande du liquidateur, détermine la mise à prix du bien à vendre, les conditions
 essentielles de la vente et les modalités de visite. A la demande du liquidateur ou de l'une des parties, il peut aménager,
-restreindre ou compléter les mesures de publicité de la vente dans les conditions des articles 70 et 71 du décret n° 2006-936
-du 27 juillet 2006 relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble. 
+restreindre ou compléter les mesures de publicité de la vente dans les conditions des articles R322-37 et R322-38 du code des
+procédures civiles d'exécution. 
 
 Il précise qu'à défaut d'enchères la vente pourra se faire sur une mise à prix inférieure, dont il fixe le montant. Il peut,
 si la valeur et la consistance des biens le justifient, faire procéder à leur estimation totale ou partielle. 
 
 Le jugement comporte, outre les indications mentionnées au premier alinéa, les énonciations exigées aux 1°, 5° et 10° de
-l'article 15 du décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de saisie immobilière et de distribution du prix
-d'un immeuble. 
-
-Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, ce jugement comporte, outre les indications mentionnées au
-premier alinéa, les énonciations figurant à l'article 144 de la loi du 1er juin 1924 mettant en vigueur la législation civile
-française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+l'article R321-3 du code des procédures civiles d'exécution. Dans les départements du Bas-Rhin, du Haut-Rhin et de la
+Moselle, ce jugement comporte, outre les indications mentionnées au premier alinéa, les énonciations figurant à l'article 144
+de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin
+et de la Moselle.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi du 1 juin 1924 - art. 144 (V)
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 15 (V)
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 70 (V)
+	  - Loi du 1 juin 1924 - art. 144
+	  - Code des procédures civiles d'exécution - art. R321-3
+	  - Code des procédures civiles d'exécution - art. R322-37
 
 	**Modifié par**:
 
-	  - Décret n°2011-741 du 28 juin 2011 - art. 1
+	  - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cité par**:
 
 	  - Code de la consommation - art. R334-53 (Ab)
 	  - Code de la consommation - art. R334-54 (Ab)
 	  - Code de la consommation - art. R334-55 (Ab)
+	  - Code de la consommation - art. R334-56 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R742-28 (V)
 
 
 ###### Article R334-50
@@ -36870,9 +36884,9 @@ Une copie du jugement est adressée au liquidateur par le greffe par lettre simp
 
 ###### Article R334-51
 
-Le jugement produit les effets du commandement prévu à l'article 13 du décret n° 2006-936 du 27 juillet 2006 relatif aux
-procédures de saisie immobilière et de distribution du prix d'un immeuble ; il est publié à la diligence du liquidateur, au
-service chargé de la publicité foncière du lieu de situation des biens, dans les conditions prévues pour ledit commandement. 
+Le jugement produit les effets du commandement prévu à l'article R321-1 du code des procédures civiles d'exécution ; il est
+publié à la diligence du liquidateur, au service chargé de la publicité foncière du lieu de situation des biens, dans les
+conditions prévues pour ledit commandement. 
 
 Le chef du service chargé de la publicité foncière procède à la formalité de publicité du jugement même si des commandements
 ont été antérieurement publiés. Ces commandements cessent de produire effet à compter de la publication du jugement. 
@@ -36882,13 +36896,21 @@ lieu de situation de l'immeuble.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R742-30 (V)
+
 	**Cite**:
 
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 13 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+	  - Code des procédures civiles d'exécution - art. R321-1
 
 
 ###### Article R334-52
@@ -36896,8 +36918,8 @@ lieu de situation de l'immeuble.
 Lorsqu'une procédure de saisie immobilière, suspendue par l'effet du jugement d'ouverture, est reprise par le liquidateur, le
 juge du tribunal d'instance, à la demande du liquidateur, fixe ou modifie, s'il y a lieu, la mise à prix, les conditions
 essentielles de la vente, les modalités de visite et statue, à la demande du liquidateur ou d'une des parties, sur les
-mesures de publicité de la vente dans les conditions des articles 70 et 71 du décret n° 2006-936 du 27 juillet 2006 relatif
-aux procédures de saisie immobilière et de distribution du prix d'un immeuble. 
+mesures de publicité de la vente dans les conditions des articles R322-37 et R322-38 du code des procédures civiles
+d'exécution. 
 
 Le juge qui fixe ou modifie la mise à prix précise qu'à défaut d'enchères la vente pourra se faire à une mise à prix
 inférieure, qu'il détermine. Il peut, si la valeur et la consistance des biens le justifient, faire procéder à leur
@@ -36914,19 +36936,28 @@ pièces de la poursuite. Ses frais de procédure lui sont restitués dans la dis
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 70 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2011-741 du 28 juin 2011 - art. 1
+	  - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cité par**:
 
 	  - Code de la consommation - art. R334-53 (Ab)
 	  - Code de la consommation - art. R334-54 (Ab)
 	  - Code de la consommation - art. R334-55 (Ab)
+	  - Code de la consommation - art. R334-56 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R742-31 (V)
+
+	**Cite**:
+
+	  - Code des procédures civiles d'exécution - art. R322-37
 
 
 ###### Article R334-53
@@ -36934,20 +36965,28 @@ pièces de la poursuite. Ses frais de procédure lui sont restitués dans la dis
 Dans un délai de quinze jours à compter de la publication du jugement prononcé en application de l'article R. 334-49 ou, s'il
 y a lieu, de la mention du jugement pris en application de l'article R. 334-52 en marge de la copie du commandement publié au
 service chargé de la publicité foncière, le liquidateur commet un huissier de justice aux fins d'établir un procès-verbal de
-description des lieux mis en vente dans les conditions des articles 35 à 37 du décret n° 2006-936 du 27 juillet 2006 relatif
-aux procédures de saisie immobilière et de distribution du prix d'un immeuble.
+description des lieux mis en vente dans les conditions des articles R322-1, R322-2 et R322-3 du code des procédures civiles
+d'exécution.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
 	**Cite**:
 
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 35 (Ab)
-	  - Code de la consommation - art. R334-49 (V)
-	  - Code de la consommation - art. R334-52 (V)
+	  - Code de la consommation - art. R334-49
+	  - Code de la consommation - art. R334-52
+	  - Code des procédures civiles d'exécution - art. R322-1
 
-	**Créé par**:
+	**Nouveaux textes**:
 
-	  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+	  - Code de la consommation - art. R742-32 (V)
 
 
 ###### Article R334-54
@@ -36957,8 +36996,8 @@ mention du jugement pris en application de l'article R. 334-52 en marge de la co
 de la publicité foncière, le liquidateur établit un cahier des conditions de vente et le dépose au greffe du juge chargé des
 saisies immobilières du tribunal de grande instance compétent. 
 
-II.-Par exception à l'article 44 du décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de saisie immobilière et de
-distribution du prix d'un immeuble, le cahier des conditions de ventes contient : 
+II.-Par exception à l'article R322-10 du code des procédures civiles d'exécution, le cahier des conditions de ventes
+contient : 
 
 1° L'énonciation du jugement prononcé en application de l'article R. 334-49 avec la mention de sa publication ou, lorsque la
 saisie immobilière a été suspendue, l'énonciation du commandement de payer avec la mention de sa publication ainsi que, s'il
@@ -36989,50 +37028,67 @@ greffe du juge chargé des saisies immobilières.
 Aux fins du 3°, l'avis vaut notification du cahier des conditions de vente. 
 
 V.-En cas de contestation formée en application du 3° du IV, les parties sont convoquées à une audience par le greffe du juge
-chargé des saisies immobilières, conformément au troisième alinéa de l'article 7 du décret n° 2006-936 du 27 juillet 2006
-relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble.
+chargé des saisies immobilières, conformément au troisième alinéa de l'article R124-7 du code des procédures civiles
+d'exécution.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
 	**Cite**:
 
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 44 (Ab)
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 7 (Ab)
-	  - Code de la consommation - art. R334-49 (V)
-	  - Code de la consommation - art. R334-52 (V)
-	  - Code de la consommation - art. R334-57 (V)
+	  - Code de la consommation - art. R334-49
+	  - Code de la consommation - art. R334-52
+	  - Code de la consommation - art. R334-57
+	  - Code des procédures civiles d'exécution - art. R124-7
+	  - Code des procédures civiles d'exécution - art. R322-10
 
-	**Créé par**:
+	**Nouveaux textes**:
 
-	  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+	  - Code de la consommation - art. R742-33 (V)
+	  - Code de la consommation - art. R742-34 (V)
+	  - Code de la consommation - art. R742-35 (V)
 
 
 ###### Article R334-55
 
 Sous réserve de la modification des conditions de publicité de la vente prévues par le jugement prononcé en application de
-l'article R. 334-49 ou de l'article R. 334-52, la vente forcée est annoncée dans les conditions des articles 64 à 69 du
-décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble.
+l'article R. 334-49 ou de l'article R. 334-52, la vente forcée est annoncée dans les conditions des articles R322-31 à
+R322-36 du code des procédures civiles d'exécution.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
 	**Cite**:
 
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 64 (Ab)
-	  - Code de la consommation - art. R334-49 (V)
-	  - Code de la consommation - art. R334-52 (V)
+	  - Code de la consommation - art. R334-49
+	  - Code de la consommation - art. R334-52
+	  - Code des procédures civiles d'exécution - art. R322-31
 
-	**Créé par**:
+	**Nouveaux textes**:
 
-	  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+	  - Code de la consommation - art. R742-36 (V)
 
 
 ###### Article R334-56
 
-A l'audience d'adjudication, il est procédé comme il est dit à la section 2 du chapitre VI du décret n° 2006-936 du 27
-juillet 2006 relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble, à l'exception de
-l'article 80.
+A l'audience d'adjudication, il est procédé comme il est dit à la sous-section 3 de la section 4 du chapitre II du titre II
+du livre III du code des procédures civiles d'exécution, à l'exception de l'article R322-47. 
 
-L'article 86 du même décret est applicable au paiement des frais taxés et des droits de mutation. 
+L'article R322-58 du même code est applicable au paiement des frais taxés et des droits de mutation. 
 
 Outre les mentions prescrites pour tout jugement, le jugement d'adjudication vise le jugement prononcé en application de
 l'article R. 334-49 ou de l'article R. 334-52, les jugements tranchant les contestations et le cahier des conditions de
@@ -37046,21 +37102,36 @@ signifier à toute personne ayant élevé une contestation tranchée par cette d
 Seul le jugement d'adjudication qui statue sur une contestation est susceptible d'appel, de ce chef, dans un délai de quinze
 jours à compter de sa notification. 
 
-Les dispositions des articles 89 à 91 du décret susvisé sont applicables au titre de vente. 
+Les dispositions des articles R322-61 à R322-63 du code des procédures civiles d'exécution sont applicables au titre de
+vente. 
 
-La vente produit les effets prévus par l'article 92 du même décret. 
+La vente produit les effets prévus par l'article R322-64 du même code. 
 
-La surenchère est régie par les articles 94 à 99 du même décret.
+La surenchère est régie par les articles R322-50 à R322-55 du même code.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-783 du 30 mai 2012 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
 	**Cite**:
 
-	  - Décret n°2006-936 du 27 juillet 2006
+	  - Code de la consommation - art. R334-49 (Ab)
+	  - Code de la consommation - art. R334-52 (Ab)
+	  - Code des procédures civiles d'exécution - art. R322-47
+	  - Code des procédures civiles d'exécution - art. R322-50
+	  - Code des procédures civiles d'exécution - art. R322-58
+	  - Code des procédures civiles d'exécution - art. R322-61
+	  - Code des procédures civiles d'exécution - art. R322-64
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+	  - Code de la consommation - art. R742-37 (V)
 
 
 ###### Article R334-57
@@ -37091,20 +37162,35 @@ vente est devenue définitive jusqu'au jour du paiement.
 
 ###### Article R334-58
 
-La réitération des enchères est régie par les articles 100 à 106 du même décret, sous les réserves qui suivent. 
+La réitération des enchères est régie par les articles R. 322-66 à R. 322-72 du code des procédures civiles d'exécution, sous
+les réserves qui suivent. 
 
 En cas de défaut de consignation du prix de vente ou de justification du paiement des frais taxés et des droits de mutation
 dans le délai prévu à l'article R. 334-57, le liquidateur enjoint l'adjudicataire, par lettre recommandée avec demande d'avis
 de réception, d'acquitter les sommes restant dues, dans un délai de huit jours, à peine de réitération des enchères. 
 
-L'adjudicataire peut contester l'injonction qui lui est faite dans les conditions prévues par l'article 102, devant le juge
-chargé des saisies immobilières.
+L'adjudicataire peut contester l'injonction qui lui est faite dans les conditions prévues par l'article R. 322-68 du code des
+procédures civiles d'exécution, devant le juge chargé des saisies immobilières.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+	  - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R334-57 (Ab)
+	  - Code des procédures civiles d'exécution - art. R322-66
+	  - Code des procédures civiles d'exécution - art. R322-68
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R742-39 (V)
 
 
 ###### Article R334-59
