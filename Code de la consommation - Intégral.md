@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2012-07-01
+Version Consolidée au 2012-07-02
 
 # Partie législative
 
@@ -25823,6 +25823,15 @@ service national des enquêtes au sein de la direction générale de la concurre
 fraudes, le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou le
 directeur de la direction départementale chargée de la protection des populations. 
 
+Pour l'application du présent article dans les départements et régions d'outre-mer et dans le Département de Mayotte, les
+références au "directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi" et au
+"directeur de la direction départementale chargée de la protection des populations" sont remplacées par la référence au
+"directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi".
+
+Pour l'application du présent article à Saint-Pierre-et-Miquelon, la référence au "directeur de la direction départementale
+chargée de la protection des populations" est remplacée par la référence au "directeur de la cohésion sociale, du travail, de
+l'emploi et de la population". 
+
 II.-L'autorité administrative mentionnée au I transmet la proposition de transaction au procureur de la République dans un
 délai de trois mois à compter de la clôture du procès-verbal de constatation de l'infraction. Cette proposition précise la
 somme que l'auteur de l'infraction sera invité à payer au Trésor public, le délai imparti pour son paiement et, s'il y a
@@ -25846,7 +25855,7 @@ proposition, au terme du délai imparti, ou n'aurait pas satisfait aux autres ob
 
 	**Modifié par**:
 
-	  - Décret n°2010-1010 du 30 août 2010 - art. 1
+	  - Décret n°2012-839 du 29 juin 2012 - art. 1
 
 	**Cite**:
 
@@ -25864,11 +25873,20 @@ du service national des enquêtes au sein de la direction générale de la concu
 des fraudes, le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou le
 directeur de la direction départementale chargée de la protection des populations.
 
+Pour l'application du présent article dans les départements et régions d'outre-mer et dans le Département de Mayotte, les
+références au "directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi" et au
+"directeur de la direction départementale chargée de la protection des populations" sont remplacées par la référence au
+"directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi".
+
+Pour l'application du présent article à Saint-Pierre-et-Miquelon, la référence au "directeur de la direction départementale
+chargée de la protection des populations" est remplacée par la référence au "directeur de la cohésion sociale, du travail, de
+l'emploi et de la population".
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1010 du 30 août 2010 - art. 2
+	  - Décret n°2012-839 du 29 juin 2012 - art. 2
 
 	**Cite**:
 
@@ -27978,6 +27996,15 @@ service national des enquêtes au sein de la direction générale de la concurre
 fraudes, le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou le
 directeur de la direction départementale chargée de la protection des populations. 
 
+Pour l'application du présent article dans les départements et régions d'outre-mer et dans le Département de Mayotte, les
+références au "directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi" et au
+"directeur de la direction départementale chargée de la protection des populations" sont remplacées par la référence au
+"directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi".
+
+Pour l'application du présent article à Saint-Pierre-et-Miquelon, la référence au "directeur de la direction départementale
+chargée de la protection des populations" est remplacée par la référence au "directeur de la cohésion sociale, du travail, de
+l'emploi et de la population". 
+
 II.-L'autorité administrative mentionnnée au I transmet la proposition de transaction au procureur de la République dans un
 délai de trois mois à compter de la clôture du procès-verbal de constatation de l'infraction. Cette proposition précise la
 somme que l'auteur de l'infraction sera invité à payer au Trésor public, le délai imparti pour son paiement et, s'il y a
@@ -28001,7 +28028,7 @@ proposition, au terme du délai imparti, ou n'aurait pas satisfait aux autres ob
 
 	**Modifié par**:
 
-	  - Décret n°2010-1010 du 30 août 2010 - art. 3
+	  - Décret n°2012-839 du 29 juin 2012 - art. 3
 
 	**Cite**:
 
