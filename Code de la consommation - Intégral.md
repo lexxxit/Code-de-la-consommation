@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2012-07-02
+Version Consolidée au 2012-10-01
 
 # Partie législative
 
@@ -28517,11 +28517,13 @@ par le contrat de crédit ou par un contrat accessoire, l'information précontra
 ne garantit pas le remboursement du montant total du crédit consenti, sauf si une telle garantie est donnée. 
 
 IV. - L'ensemble des informations prévues au présent article est présenté conformément à la fiche d'information mentionnée à
-l'article L. 311-6 annexée au présent code. 
+l'article L. 311-6 annexée au présent code. Avant la remise de cette fiche, et sauf s'il apparaît manifestement que tel n'est
+pas le cas, le prêteur ou l'intermédiaire de crédit demande à l'emprunteur si l'opération a pour objet le remboursement d'un
+ou plusieurs crédits et, le cas échéant, d'autres dettes.
 
 V. - Toute information complémentaire apportée à l'emprunteur par le prêteur ou l'intermédiaire de crédit, notamment en cas
-d'application des règles relatives au démarchage, figure sur un document distinct, qui peut être annexé à la fiche mentionnée
-au IV.
+d'application des règles relatives au démarchage ou celles relatives au regroupement de crédits, prévues aux articles R.
+313-12 et suivants, figure sur un document distinct, qui peut être annexé à la fiche mentionnée au IV.
 
 **Liens relatifs à cet article**
 
@@ -28535,7 +28537,7 @@ au IV.
 
 	**Modifié par**:
 
-	  - Décret n°2011-136 du 1er février 2011 - art. 3
+	  - Décret n°2012-609 du 30 avril 2012 - art. 1
 
 	**Cité par**:
 
@@ -29366,30 +29368,57 @@ mois.
 
 ###### Article R312-1
 
-Le montant des frais d'études, prévus à l'article L. 312-14, que le prêteur peut demander à l'emprunteur lorsque le contrat
-en vue duquel le prêt a été demandé n'est pas conclu, est limité à 0,75 % du montant du prêt, sans pouvoir excéder 150 euros.
+Avant l'envoi de l'offre mentionnée à l'article L. 312-7, et sauf s'il apparaît manifestement que tel n'est pas le cas, le
+prêteur ou l'intermédiaire de crédit demande à l'emprunteur si l'opération de crédit a pour objet le remboursement d'un ou
+plusieurs crédits et, le cas échéant, d'autres dettes. En cas de réponse positive, l'emprunteur bénéficie de l'information
+prévue aux articles R. 313-12 et suivants.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Modifié par**:
 
-	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-609 du 30 avril 2012 - art. 1
+	  - Décret n°2012-609 du 30 avril 2012 - art. 1
 
 	**Cite**:
 
-	  - Code de la consommation - art. L312-14 (V)
+	  - Code de la consommation - art. L312-7
+	  - Code de la consommation - art. R313-12 (VD)
+
+
+###### Article R312-1-1
+
+Le montant des frais d'études, prévus à l'article L. 312-14, que le prêteur peut demander à l'emprunteur lorsque le contrat
+en vue duquel le prêt a été demandé n'est pas conclu, est limité à 0,75 % du montant du prêt, sans pouvoir excéder 150 euros.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-609 du 30 avril 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L312-14
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R312-1 (VT)
 
 	**Nouveaux textes**:
 
-	  - Code de la consommation - art. R312-1-1 (VD)
+	  - Code de la consommation - art. R313-22 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R315-2 (Ab)
 
 
 ##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur
@@ -30008,6 +30037,184 @@ crédits immobiliers que pour autant qu'ils figurent dans le montant total de l'
 	**Cité par**:
 
 	  - Code de la consommation - art. R315-1 (Ab)
+
+
+###### Article R313-12
+
+Lorsque l'opération de crédit a pour objet le remboursement d'un ou plusieurs crédits et, le cas échéant, d'autres dettes, le
+prêteur ou l'intermédiaire de crédit établit, après dialogue avec l'emprunteur, un document qu'il lui remet afin de garantir
+sa bonne information, en application de l'article L. 313-15. Le prêteur ou l'intermédiaire répond à toute demande
+d'explication de l'emprunteur concernant ce document. 
+
+Dans le cas d'une opération donnant lieu à la remise de la fiche mentionnée à l'article L. 311-6, ce document d'information
+est remis à l'emprunteur au plus tard au même moment que cette fiche, à laquelle il peut être annexé. 
+
+Dans le cas d'une opération donnant lieu à l'envoi de l'offre mentionnée à l'article L. 312-7, le document d'information est
+transmis à l'emprunteur au plus tard en même temps que cette offre.
+
+**Nota:**
+
+Décret n° 2012-1159 du 17 octobre 2012, article 4 : l'article R. 313-12 du code de la consommation, dans sa rédaction issue
+du décret du 30 avril 2012 susvisé et du présent décret, s'applique aux opérations de regroupement de crédits dont l'offre
+est émise à compter du 1er janvier 2013.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-609 du 30 avril 2012 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2012-1159 du 17 octobre 2012 - art. 4 (V)
+	  - Code de la consommation - art. R311-3 (Ab)
+	  - Code de la consommation - art. R312-1 (Ab)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L311-6
+	  - Code de la consommation - art. L312-7
+	  - Code de la consommation - art. L313-15
+
+
+###### Article R313-13
+
+Le document d'information est établi sur un support durable. Il comporte, présentées de manière claire et lisible en
+caractères dont la hauteur ne peut être inférieure à celle du corps huit, les informations et mentions suivantes :
+
+1° Pour chaque contrat de crédit dont le regroupement est envisagé, des informations relatives à ce contrat ainsi qu'aux
+conditions et modalités de son remboursement :
+
+a) La nature du crédit, le montant des échéances, le montant du capital restant dû et la durée prévue au contrat pour le
+remboursement de ce montant à la date de l'établissement du document ;
+
+b) La date envisagée pour le remboursement anticipé ;
+
+c) L'estimation du montant nécessaire à ce remboursement, déterminé en fonction de la date mentionnée au b ;
+
+d) Une estimation de l'indemnité de remboursement anticipé, déterminée en fonction du montant mentionné au c, si le contrat
+prévoit une telle indemnité ;
+
+e) Les modalités prévues pour le remboursement anticipé, notamment, le cas échéant, son délai de préavis contractuel ;
+
+f) Le cas échéant, la date à laquelle doit être notifié le préavis, en fonction de la date mentionnée au b ;
+
+g) Une estimation des frais de mainlevée d'hypothèque dont l'emprunteur devra s'acquitter si une mainlevée est nécessaire du
+fait de l'opération ;
+
+2° Dans le cas où l'opération de regroupement a également pour objet le remboursement de dettes autres que des crédits, la
+liste de ces dettes ainsi que, pour chacune d'entre elles, son montant et la date à laquelle elle est exigible ;
+
+3° Un avertissement adressé à l'emprunteur, adapté à sa situation et portant sur les points suivants :
+
+a) L'emprunteur doit continuer à s'acquitter des mensualités dues au titre des crédits dont le regroupement est envisagé,
+jusqu'à leur remboursement effectif ;
+
+b) Il doit continuer à s'acquitter des cotisations dues au titre des assurances garantissant le remboursement des crédits
+dont le regroupement est envisagé, jusqu'à leur remboursement effectif, s'il a souscrit de telles assurances ;
+
+c) Après remboursement anticipé, il ne bénéficiera plus des cautionnements garantissant, le cas échéant, un ou plusieurs des
+crédits sur lesquels porte l'opération de regroupement ;
+
+d) Après remboursement anticipé, il perdra le bénéfice des assurances garantissant, le cas échéant, le remboursement d'un ou
+plusieurs crédits dont le regroupement est envisagé ainsi que des prises en charge éventuellement en cours à ce titre ;
+
+e) S'il souscrit une nouvelle assurance garantissant le remboursement de l'opération de regroupement envisagée, l'emprunteur
+pourrait bénéficier de moindres garanties contractuelles, notamment en raison de changements éventuels de sa situation
+personnelle ou de l'existence de nouveaux délais de carence et de nouvelles franchises ;
+
+f) Dans le cas d'un crédit renouvelable, le prêteur qui consent l'opération de regroupement sera tenu de rembourser
+directement le prêteur initial et, lorsque l'opération de regroupement porte sur la totalité du montant restant dû au titre
+de ce crédit, l'emprunteur peut en demander la résiliation à l'aide d'une lettre signée de sa main, que le nouveau prêteur
+adressera sans frais au prêteur initial ;
+
+g) Dans le cas où il existe un coemprunteur au titre d'un ou plusieurs crédits dont le regroupement est envisagé,
+l'emprunteur doit l'informer de son intention de procéder au regroupement de ce crédit ;
+
+h) Dans le cas où le regroupement envisagé comprend un ou des crédits affectés, il entraînera la perte du droit pour
+l'emprunteur d'obtenir du vendeur la garantie de leur remboursement dans le cas où une résolution judiciaire ou une
+annulation du contrat principal survenait du fait de ce dernier ;
+
+i) Dans le cas où il comprend un ou des crédits garantis par un contrat de cautionnement, leur remboursement anticipé pourra
+entraîner une moins-value sur les sommes qui doivent être restituées à l'emprunteur au titre de ce contrat, lorsque ce
+dernier le prévoit ;
+
+j) Il ne bénéficiera plus des services accessoires ou avantages commerciaux éventuellement liés à un ou plusieurs crédits qui
+font l'objet du regroupement envisagé ;
+
+4° Les informations concernant les modalités de mise en œuvre et de prise d'effet de l'opération de regroupement envisagée :
+
+a) Les démarches que le prêteur qui consent le regroupement accomplira ;
+
+b) Les démarches qui seront à la charge de l'emprunteur ;
+
+c) La date à laquelle doivent être interrompus les versements ou prélèvements réalisés pour le paiement des échéances des
+crédits dont le regroupement est envisagé ainsi que les modalités d'interruption de ces versements ou prélèvements ;
+
+5° Les éléments permettant à l'emprunteur de procéder à l'évaluation du bilan économique du regroupement envisagé. Ces
+éléments sont présentés conformément au tableau figurant en annexe au présent article. Si le regroupement se traduit par un
+allongement de la durée de remboursement ou par une augmentation du coût total du crédit, le prêteur ou l'intermédiaire
+l'indique à l'emprunteur.
+
+**Nota:**
+
+Décret n° 2012-1159 du 17 octobre 2012, article 4 : l'article R. 313-13  du code de la consommation, dans sa rédaction issue
+du décret du 30  avril 2012 susvisé, s'applique aux opérations de  regroupement de crédits dont l'offre est émise à compter
+du 1er janvier  2013.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-609 du 30 avril 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cité par**:
+
+	  - Code de la consommation - art. ANNEXE A L'ARTICLE R313-13 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R314-20 (V)
+
+
+###### Article R313-14
+
+Pour établir le document d'information sur le fondement d'éléments exacts, le prêteur ou l'intermédiaire demande à
+l'emprunteur communication des pièces, notamment contractuelles, fournies par les prêteurs initiaux ou tout autre créancier
+pour chaque crédit ou créance dont le regroupement est envisagé. Si l'emprunteur ne dispose pas de ces pièces, le prêteur ou
+l'intermédiaire invite l'emprunteur à demander à ses créanciers et prêteurs initiaux les informations nécessaires.
+
+Si ces pièces n'ont pu être réunies, le prêteur ou l'intermédiaire peut établir tout ou partie du document d'information sur
+le fondement d'éléments déclaratifs fournis par l'emprunteur. Dans ce cas, le prêteur intermédiaire l'indique clairement sur
+le document remis à l'emprunteur.
+
+Si l'emprunteur n'est pas non plus en mesure de fournir ces éléments déclaratifs, le prêteur ou l'intermédiaire indique sur
+le document les mentions qui n'ont pu être complétées et avertit l'emprunteur des difficultés financières et pratiques qu'il
+pourrait rencontrer s'il souhaitait néanmoins poursuivre l'opération sans en connaître tous les paramètres.
+
+**Nota:**
+
+Décret n° 2012-1159 du 17 octobre 2012, article 4 : l'article R. 313-14  du code de la consommation, dans sa rédaction issue
+du décret du 30  avril 2012 susvisé, s'applique aux opérations de  regroupement de crédits dont l'offre est émise à compter
+du 1er janvier  2013.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-609 du 30 avril 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R314-21 (V)
 
 
 ##### Annexes
@@ -34077,6 +34284,151 @@ valeur de l'indicateur convenu à ce moment-là.
 
 ##### ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION
 
+###### Article ANNEXE A L'ARTICLE R313-13
+
+Pour l'application des dispositions de l'article R. 313-13, le document d'information comporte un tableau comparant les
+caractéristiques financières des crédits dont le regroupement est envisagé avec les caractéristiques financières du
+regroupement proposé. 
+
+Ce tableau est présenté conformément au modèle ci-dessous : 
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+
+CRÉDITS EN COURS ET AUTRES DETTES (1) 
+
+</td>
+      <td colspan="2">
+
+REGROUPEMENT DE CRÉDIT PROPOSÉ 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Capital restant dû, taux débiteur (2) et montant des échéances : 
+
+Enumérer les différents crédits. 
+
+</td>
+      <td rowspan="2" align="left">
+
+Montant, taux débiteur (2) et montant des échéances du regroupement (3) : </td>
+    </tr>
+    <tr>
+      <td>
+
+Montant des autres dettes regroupées : 
+
+Enumérer les différentes dettes. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Durée de remboursement : 
+
+Enumérer les différents crédits. 
+
+</td>
+      <td rowspan="2" align="left">
+
+Durée de remboursement : </td>
+    </tr>
+    <tr>
+      <td>
+
+Date d'exigibilité des autres dettes regroupées (8) : 
+
+Enumérer les différentes dettes. 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" align="left">
+
+Montant total dû par l'emprunteur au titre des crédits en cours et autres dettes (4) : 
+
+</td>
+      <td align="left">
+
+Montant total dû par l'emprunteur au titre du regroupement proposé (5,6) : 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Coûts supplémentaires (7) : par exemple, indemnités de remboursement anticipé, frais de mainlevée d'hypothèque. 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+(1) Pour les crédits mentionnés à l'article L. 311-16, le tableau est établi en fonction du capital effectivement emprunté au
+moment de l'établissement du document. 
+
+(2) Le taux débiteur est celui en cours au moment de l'établissement du document. 
+
+(3) Lorsque le montant du crédit proposé excède la somme des capitaux restant dus au titre des contrats faisant l'objet du
+regroupement et, le cas échéant, du montant des autres dettes, le prêteur indique dans le tableau qu'il propose une ligne de
+crédit complémentaire. 
+
+(4) Le montant total dû par l'emprunteur au titre des crédits en cours et autres dettes est la somme :
+
+- du montant des dettes autres que les crédits ;
+
+- du capital restant dû au titre des crédits regroupés ;
+
+- des intérêts restant dus au titre des crédits regroupés, en fonction du taux débiteur et de la durée de remboursement ;
+
+- les frais de dossiers et de garanties éventuels associés aux crédits regroupés, s'ils n'ont pas encore été payés par
+l'emprunteur. 
+
+Ce montant est exprimé hors coût de l'assurance éventuelle. 
+
+(5) Le montant total dû par l'emprunteur au titre du regroupement proposé est la somme :
+
+- du montant du regroupement ;
+
+- des intérêts dus au titre du regroupement en fonction de la durée de remboursement mentionnés dans le tableau. 
+
+Ce montant est exprimé hors coût de l'assurance éventuelle. 
+
+(6) Si des coûts annexes, tels que les indemnités de remboursement anticipé ou les frais de mainlevée d'hypothèque, sont
+inclus dans ce montant, le prêteur l'indique dans le tableau. 
+
+(7) Les coûts supplémentaires n'ont à être identifiés sous cette rubrique que si leur financement n'est pas pris en compte
+dans le montant total de l'opération de regroupement envisagée. 
+
+(8) La date d'exigibilité des autres dettes regroupées s'apprécie à la date d'établissement du document.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-609 du 30 avril 2012 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L311-16 (V)
+	  - Code de la consommation - art. R313-13
+
+
 ###### Article Annexe à l'article R313-1-1
 
 Pour l'application de l'article R. 313-1-1 du code de la consommation, sont définis les termes suivants : 
@@ -34228,27 +34580,59 @@ versement en capital du contrat de prêt.
 
 #### Chapitre V : Dispositions relatives à l'outre-mer
 
+##### Section 1 : Crédit à la consommation
+
 ###### Article R315-1
 
-Le chapitre Ier du présent titre ainsi que l'article R. 313-11 sont applicables en Nouvelle-Calédonie, en Polynésie française
-et dans les îles Wallis et Futuna.
+Le chapitre Ier du présent titre est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et
+Futuna.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-135 du 1er février 2011 - art. 4 (V)
-	  - Décret n°2011-136 du 1er février 2011 - art. 9 (V)
+	  - Décret n°2012-609 du 30 avril 2012 - art. 3
 
 	**Cité par**:
 
 	  - Décret n°2012-1159 du 17 octobre 2012 - art. 4 (V)
 
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
 	**Cite**:
 
 	  - Code de la consommation - art. R313-1
-	  - Code de la consommation - art. R313-11
-	  - Code de la consommation - art. R313-2
+	  - Code de la consommation - art. R313-11 (Ab)
+	  - Code de la consommation - art. R313-2 (Ab)
+
+
+##### Section 2 : Crédit immobilier
+
+###### Article R315-2
+
+L'article R. 312-1 est applicable en Nouvelle-Calédonie et en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-609 du 30 avril 2012 - art. 3
+
+
+##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier
+
+###### Article R315-3
+
+La section 7 du chapitre III du présent titre est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles
+Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-609 du 30 avril 2012 - art. 3
 
 
 ### Titre III : Traitement des situations de surendettement
