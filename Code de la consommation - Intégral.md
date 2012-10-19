@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2012-10-01
+Version Consolidée au 2012-10-20
 
 # Partie législative
 
@@ -28444,7 +28444,7 @@ l'article L. 311-2, immédiatement ou à terme, donne droit ou peut donner droit
 
 ###### Article R311-3
 
-I. - Pour l'application de l'article L. 311-6, le prêteur ou l'intermédiaire de crédit communique à l'emprunteur des
+I.-Pour l'application de l'article L. 311-6, le prêteur ou l'intermédiaire de crédit communique à l'emprunteur des
 informations concernant : 
 
 1° L'identité et l'adresse du prêteur ainsi que, le cas échéant, l'identité et l'adresse de l'intermédiaire de crédit
@@ -28502,7 +28502,7 @@ incidents de remboursement des crédits aux particuliers ;
 
 21° Le délai pendant lequel le prêteur est engagé par les informations précontractuelles. 
 
-II. - Pour l'application du 11° du I, le prêteur tient compte du ou des éléments du crédit que l'emprunteur lui a indiqué
+II.-Pour l'application du 11° du I, le prêteur tient compte du ou des éléments du crédit que l'emprunteur lui a indiqué
 privilégier le cas échéant, tels que la durée du contrat de crédit et le montant total du crédit. 
 
 Pour le calcul du taux effectif global, si le contrat prévoit la possibilité pour l'emprunteur de disposer des sommes
@@ -28511,19 +28511,25 @@ le prêteur précise la modalité qu'il a prise comme référence conformément 
 l'article R. 313-1 et indique que les autres modalités peuvent avoir pour conséquence l'application de taux annuels effectifs
 globaux plus élevés. 
 
-III. - Dans le cas d'un contrat de crédit en vertu duquel les échéances n'entraînent pas immédiatement un amortissement
+III.-Dans le cas d'un contrat de crédit en vertu duquel les échéances n'entraînent pas immédiatement un amortissement
 correspondant du montant total du crédit, mais servent à reconstituer le capital aux périodes et dans les conditions prévues
 par le contrat de crédit ou par un contrat accessoire, l'information précontractuelle indique que cette modalité d'exécution
 ne garantit pas le remboursement du montant total du crédit consenti, sauf si une telle garantie est donnée. 
 
-IV. - L'ensemble des informations prévues au présent article est présenté conformément à la fiche d'information mentionnée à
+IV.-L'ensemble des informations prévues au présent article est présenté conformément à la fiche d'information mentionnée à
 l'article L. 311-6 annexée au présent code. Avant la remise de cette fiche, et sauf s'il apparaît manifestement que tel n'est
-pas le cas, le prêteur ou l'intermédiaire de crédit demande à l'emprunteur si l'opération a pour objet le remboursement d'un
-ou plusieurs crédits et, le cas échéant, d'autres dettes.
+pas le cas, le prêteur ou l'intermédiaire de crédit demande à l'emprunteur si l'opération a pour objet le remboursement d'au
+moins deux créances antérieures dont un crédit en cours. 
 
-V. - Toute information complémentaire apportée à l'emprunteur par le prêteur ou l'intermédiaire de crédit, notamment en cas
+V.-Toute information complémentaire apportée à l'emprunteur par le prêteur ou l'intermédiaire de crédit, notamment en cas
 d'application des règles relatives au démarchage ou celles relatives au regroupement de crédits, prévues aux articles R.
 313-12 et suivants, figure sur un document distinct, qui peut être annexé à la fiche mentionnée au IV.
+
+**Nota:**
+
+Décret n° 2012-1159 du 17 octobre 2012, art. 4 : Les IV et V de l'article R. 311-3 du code de la consommation, dans sa
+rédaction issue du décret n° 2012-609 du 30 avril 2012 et du présent décret, s'appliquent aux opérations de regroupement de
+crédits dont l'offre est émise à compter du 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
@@ -28535,19 +28541,33 @@ d'application des règles relatives au démarchage ou celles relatives au regrou
 
 	  - Décret n°97-298 du 27 mars 1997
 
-	**Modifié par**:
-
-	  - Décret n°2012-609 du 30 avril 2012 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2012-1159 du 17 octobre 2012 - art. 2 (V)
 	  - Décret n°2014-837 du 24 juillet 2014 - art. 4 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-1159 du 17 octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
 	**Cite**:
 
-	  - Code de la consommation - art. D311-1
-	  - Code de la consommation - art. D311-2
+	  - Code de la consommation - art. L311-22
+	  - Code de la consommation - art. L311-6
+	  - Code de la consommation - art. R313-1
+	  - Code de la consommation - art. R313-12
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R312-2 (V)
+	  - Code de la consommation - art. R312-3 (V)
+	  - Code de la consommation - art. R312-4 (V)
+	  - Code de la consommation - art. R312-5 (V)
+	  - Code de la consommation - art. R312-6 (V)
 
 
 ##### Section 3 : Formation du contrat de crédit
@@ -29369,9 +29389,15 @@ mois.
 ###### Article R312-1
 
 Avant l'envoi de l'offre mentionnée à l'article L. 312-7, et sauf s'il apparaît manifestement que tel n'est pas le cas, le
-prêteur ou l'intermédiaire de crédit demande à l'emprunteur si l'opération de crédit a pour objet le remboursement d'un ou
-plusieurs crédits et, le cas échéant, d'autres dettes. En cas de réponse positive, l'emprunteur bénéficie de l'information
-prévue aux articles R. 313-12 et suivants.
+prêteur ou l'intermédiaire de crédit demande à l'emprunteur si l'opération de crédit a pour objet le remboursement d'au moins
+deux créances antérieures dont un crédit en cours. En cas de réponse positive, l'emprunteur bénéficie de l'information prévue
+aux articles R. 313-12 et suivants.
+
+**Nota:**
+
+Décret n° 2012-1159 du 17 octobre 2012, art. 4 : L'article R. 312-1 du code de la consommation, dans sa rédaction issue du
+décret n° 2012-609 du 30 avril 2012 et du présent décret, s'applique aux opérations de regroupement de crédits dont l'offre
+est émise à compter du 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
@@ -29381,12 +29407,20 @@ prévue aux articles R. 313-12 et suivants.
 
 	**Modifié par**:
 
-	  - Décret n°2012-609 du 30 avril 2012 - art. 1
+	  - Décret n°2012-1159 du 17 octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
 	  - Code de la consommation - art. L312-7
-	  - Code de la consommation - art. R313-12 (VD)
+	  - Code de la consommation - art. R313-12
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R313-21 (V)
 
 
 ###### Article R312-1-1
@@ -30041,7 +30075,7 @@ crédits immobiliers que pour autant qu'ils figurent dans le montant total de l'
 
 ###### Article R313-12
 
-Lorsque l'opération de crédit a pour objet le remboursement d'un ou plusieurs crédits et, le cas échéant, d'autres dettes, le
+Lorsque l'opération de crédit a pour objet le remboursement d'au moins deux créances antérieures dont un crédit en cours, le
 prêteur ou l'intermédiaire de crédit établit, après dialogue avec l'emprunteur, un document qu'il lui remet afin de garantir
 sa bonne information, en application de l'article L. 313-15. Le prêteur ou l'intermédiaire répond à toute demande
 d'explication de l'emprunteur concernant ce document. 
@@ -30054,15 +30088,15 @@ transmis à l'emprunteur au plus tard en même temps que cette offre.
 
 **Nota:**
 
-Décret n° 2012-1159 du 17 octobre 2012, article 4 : l'article R. 313-12 du code de la consommation, dans sa rédaction issue
-du décret du 30 avril 2012 susvisé et du présent décret, s'applique aux opérations de regroupement de crédits dont l'offre
-est émise à compter du 1er janvier 2013.
+Décret n° 2012-1159 du 17 octobre 2012, article 4 : l'article R. 313-12  du code de la consommation, dans sa rédaction issue
+du décret du 30  avril 2012 susvisé et du présent décret, s'applique aux opérations de  regroupement de crédits dont l'offre
+est émise à compter du 1er janvier  2013.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-609 du 30 avril 2012 - art. 2
+	  - Décret n°2012-1159 du 17 octobre 2012 - art. 1
 
 	**Cité par**:
 
