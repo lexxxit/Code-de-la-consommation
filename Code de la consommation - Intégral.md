@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2012-10-20
+Version Consolidée au 2012-10-29
 
 # Partie législative
 
@@ -25537,6 +25537,28 @@ produit.
 	  - PILOTE_SUIVEUR: Code pénal - art. R635-2
 
 
+#### Chapitre III : Dispositions relatives à l'outre-mer
+
+###### Article R123-1
+
+Les articles R. 121-2-1 à R. 121-2-5 sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis
+et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1195 du 26 octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R121-2-1
+
+
 ### Titre III : Conditions générales des contrats
 
 #### Chapitre II : Clauses abusives
@@ -29954,44 +29976,6 @@ conditions générales de banque visées à l'article R. 312-1 du code monétair
 	**Cite**:
 
 	  - Code monétaire et financier - art. R312-1 (V)
-
-
-###### Article D313-9
-
-L'institut d'émission des départements d'outre-mer est chargé, dans ces départements, d'effectuer les missions confiées à la
-Banque de France par les articles D. 313-6 et D. 313-7.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-506 1990-06-25 art. 4
-	  - Décret n°90-506 du 25 juin 1990 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1195 du 26 octobre 2012 - art. 2
-
-	**Cite**:
-
-	  - Code de la consommation - art. D313-6
-	  - Code de la consommation - art. D313-7
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. D711-14 (Ab)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code monétaire et financier - art. D711-14 (Ab)
 
 
 ##### Section 3 : Rémunération du vendeur
@@ -34646,27 +34630,94 @@ Futuna.
 
 ###### Article R315-2
 
-L'article R. 312-1 est applicable en Nouvelle-Calédonie et en Polynésie française.
+Le chapitre II du présent titre est applicable en Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations
+suivantes : 
+
+" 1° Le deuxième alinéa de l'article R. 312-3 n'est pas applicable en Nouvelle-Calédonie et en Polynésie française ; 
+
+" 2° A l'article R. 312-1-1, les mots : " 150 euros " sont remplacés par les mots : " 17 900 F CFP ". "
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-609 du 30 avril 2012 - art. 3
+	  - Décret n°2012-1195 du 26 octobre 2012 - art. 3
+
+	**Cite**:
+
+	  - Code de la consommation - art. R312-1-1
+	  - Code de la consommation - art. R312-3
 
 
 ##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier
 
 ###### Article R315-3
 
-La section 7 du chapitre III du présent titre est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles
-Wallis et Futuna.
+Le chapitre III du présent titre est applicable en Nouvelle-Calédonie et en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-1195 du 26 octobre 2012 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+
+###### Article R315-4
+
+Pour son application en Nouvelle-Calédonie et en Polynésie française, au dernier alinéa de l'article R. 313-1, les mots : du
+décret n° 78-262 du 8 mars 1978 portant fixation du tarif des notaires sont remplacés par les mots : de la réglementation
+applicable localement
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°78-262 du 8 mars 1978
+	  - Code de la construction et de l'habitation. - art. R*313-1
+
+	**Créé par**:
+
+	  - Décret n°2012-1195 du 26 octobre 2012 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+
+###### Article R315-5
+
+Le chapitre III du présent titre, à l'exception de son article R. 313-10, est applicable dans les îles Wallis et Futuna. "
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2012-609 du 30 avril 2012 - art. 3
+	  - Décret n°2012-1195 du 26 octobre 2012 - art. 3
+
+	**Cite**:
+
+	  - Code de la consommation - art. R313-10
+
+
+##### Section 4 : Prêt viager hypothécaire
+
+###### Article R315-6
+
+Le chapitre IV du présent titre est applicable en Nouvelle-Calédonie et en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1195 du 26 octobre 2012 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
 ### Titre III : Traitement des situations de surendettement
