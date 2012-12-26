@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2012-12-22
+Version Consolidée au 2012-12-27
 
 # Partie législative
 
@@ -10361,6 +10361,24 @@ contrôles définies à l'article 20 de ce règlement.
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L218-1-4, v. 0.1 (VT)
+
+
+###### Article L215-2-4
+
+Les agents mentionnés à l'article L. 215-1 sont habilités à rechercher et à constater, dans les conditions prévues au présent
+livre, les infractions à la loi n° 2010-729 du 30 juin 2010 tendant à suspendre la commercialisation de tout conditionnement
+comportant du bisphénol A et destiné à recevoir des produits alimentaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2010-729 du 30 juin 2010 (V)
+	  - Code de la consommation - art. L215-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2012-1442 du 24 décembre 2012 - art. 2
 
 
 ##### Section 2 : Recherche et constatation
