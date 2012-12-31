@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2012-12-27
+Version Consolidée au 2013-01-01
 
 # Partie législative
 
@@ -34256,7 +34256,8 @@ correspondantes.
 
 Equation de base traduisant l'équivalence des prêts, d'une part, et des remboursements et charges, d'autre part.
 
-(Formule non reproduite, voir Journal officiel du 11 juin 2002 p. 10357).
+(Formule non reproduite, voir Journal officiel du 11 juin 2002 p. 10357 à l'adresse suivante : http://www.legifrance.gouv.fr/
+jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20020611&numTexte=6&pageDebut=10357&pageFin=10358).
 
 Signification des lettres et symboles :
 
@@ -34305,34 +34306,62 @@ Le calcul du taux annuel effectif global se fait, le cas échéant, conformémen
 1° Si un contrat de crédit laisse au consommateur le libre choix quant au mode d'utilisation du crédit, le montant total du
 crédit est réputé entièrement et immédiatement utilisé ;
 
-2° Si un contrat de crédit offre au consommateur différentes possibilités quant au mode d'utilisation du crédit, assorties de
-frais ou de taux débiteurs différents, le montant total du crédit est réputé utilisé au taux débiteur le plus élevé et avec
-les frais les plus élevés dans la catégorie d'opérations la plus fréquemment utilisée dans ce type de contrat de crédit ;
-
-3° Si un contrat de crédit laisse en général au consommateur le libre choix quant au mode d'utilisation du crédit, mais
+2° Si un contrat de crédit laisse en général au consommateur le libre choix quant au mode d'utilisation du crédit, mais
 prévoit parmi les divers modes d'utilisation une limite quant au montant et à la durée, le montant du crédit est réputé
 utilisé à la date la plus proche prévue dans le contrat et conformément à ces limites de mode d'utilisation ;
 
-4° Si aucun échéancier n'est fixé pour le remboursement :
+3° Si un contrat de crédit offre au consommateur différentes possibilités quant au mode d'utilisation du crédit, assorties de
+frais ou de taux débiteurs différents, le montant total du crédit est réputé utilisé au taux débiteur le plus élevé et avec
+les frais les plus élevés dans la catégorie d'opérations la plus fréquemment utilisée dans ce type de contrat de crédit ;
 
-a) Le crédit est réputé être octroyé pour une durée d'un an ; et
+4° En cas de facilité de découvert, le montant total du crédit est réputé utilisé en totalité et pour la durée totale du
+contrat de crédit. Si la durée de la facilité de découvert n'est pas connue, le taux annuel effectif global est calculé en
+partant de l'hypothèse que la durée du crédit est de trois mois ;
 
-b) Le montant du crédit est supposé être remboursé en douze mensualités égales ;
+5° En cas de contrat de crédit sans durée fixe, y compris les crédits qui doivent être remboursés en totalité dans ou après
+un délai donné mais qui, une fois remboursés, sont disponibles pour une nouvelle utilisation, et autre qu'une facilité de
+découvert :
 
-5° Si un échéancier est fixé pour le remboursement, mais que les sommes à rembourser varient, le montant de chaque
-remboursement est réputé être le plus bas prévu dans le contrat ;
+a) Le crédit est réputé être octroyé pour une durée d'un an à partir de la date d'utilisation initiale, et le paiement final
+effectué par le consommateur liquide le solde du capital, les intérêts et les autres frais éventuels ;
 
-6° Sauf stipulation contraire, lorsque le contrat de crédit prévoit plusieurs dates de remboursement, le crédit est fourni et
-les remboursements sont effectués à la date la plus proche prévue dans le contrat ;
+b) Le capital est supposé être remboursé par le consommateur en mensualités égales, le remboursement débutant un mois après
+la date de l'utilisation initiale. Toutefois, dans les cas où le capital doit être remboursé en totalité uniquement, en un
+seul versement, à l'intérieur de chaque période de paiement, les utilisations et les remboursements successifs de la totalité
+du capital par le consommateur sont supposés être effectués sur la durée d'un an. Les intérêts et autres frais sont appliqués
+conformément à ces utilisations et remboursements du capital, d'une part, et aux dispositions du contrat de crédit, d'autre
+part ;
 
-7° Si le plafond du crédit n'a pas encore été arrêté, le plafond est supposé être de 1 500 € ;
+6° En cas de contrats de crédit autres que les découverts et les contrats de crédits sans durée fixe visés dans les
+hypothèses des points 4° et 5° :
 
-8° En cas de facilité de découvert, le montant total du crédit est réputé utilisé en totalité et pour la durée totale du
-contrat de crédit. Si la durée du contrat de crédit n'est pas connue, le taux annuel effectif global est calculé en partant
-de l'hypothèse que la durée du crédit est de trois mois ;
+a) Si la date ou le montant d'un remboursement de capital devant être effectué par le consommateur ne peuvent être établis,
+le remboursement est réputé être effectué à la date la plus proche prévue dans le contrat de crédit et pour le montant le
+plus bas prévu dans le contrat ;
 
-9° Si des taux d'intérêt et des frais différents sont proposés pendant une période limitée ou pour un montant limité, le taux
-d'intérêt et les frais sont réputés être le taux et les frais les plus élevés pendant la durée totale du contrat de crédit ;
+b) Si la date de conclusion du contrat de crédit n'est pas connue, la date d'utilisation initiale est réputée être la date
+qui correspond à l'intervalle le plus court entre cette date et la date du premier paiement que le consommateur doit
+effectuer.
+
+7° Si la date ou le montant d'un paiement devant être effectué par le consommateur ne peuvent être établis sur la base du
+contrat de crédit ou des hypothèses exposées aux points 4°, 5° ou 6°, le paiement est réputé être effectué aux dates et
+conditions requises par le prêteur et, lorsque celles-ci ne sont pas connues :
+
+a) Les frais d'intérêts sont payés en même temps que les remboursements du capital ;
+
+b) Les frais autres que d'intérêts, exprimés sous la forme d'une somme unique, sont payés à la date de conclusion du contrat
+de crédit ;
+
+c) Les frais autres que d'intérêts, exprimés sous la forme de paiements multiples, sont payés à intervalles réguliers, à
+partir de la date du premier remboursement du capital, et si le montant de ces paiements n'est pas connu, les montants sont
+réputés égaux ;
+
+d) Le paiement final liquide le solde du capital, les intérêts et les autres frais éventuels ;
+
+8° Si le plafond du crédit n'a pas encore été arrêté, le plafond est supposé être de 1 500 € ;
+
+9° Si des taux débiteurs et des frais différents sont proposés pendant une période limitée ou pour un montant limité, le taux
+débiteur et les frais sont réputés être le taux le plus élevé pendant la durée totale du contrat de crédit ;
 
 10° Pour les contrats de crédit aux consommateurs pour lesquels un taux débiteur fixe a été convenu dans le cadre de la
 période initiale, à la fin de laquelle un nouveau taux débiteur est établi et est ensuite périodiquement ajusté en fonction
@@ -34348,7 +34377,7 @@ valeur de l'indicateur convenu à ce moment-là.
 
 	**Modifié par**:
 
-	  - Décret n°2011-135 du 1er février 2011 - art. 1
+	  - Décret n°2012-1478 du 27 décembre 2012 - art. 1
 
 
 ##### ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION
@@ -40713,21 +40742,20 @@ recommandations.
 
 ###### Article R531-3
 
-Pour l'accomplissement des missions mentionnées à l'article R. 531-2, l'Institut national de la consommation :
+Pour l'accomplissement des missions mentionnées à l'article R. 531-2, l'Institut national de la consommation : 
 
-1. A l'égard des associations de défense des consommateurs agréées au plan national :
+1. A l'égard des associations de défense des consommateurs agréées au plan national : 
 
 a) Effectue et fournit des prestations d'appui technique aux associations de défense des consommateurs agréées au plan
 national, telles que la réalisation d'études juridiques, économiques et techniques, de dossiers pédagogiques et
 documentaires, de dossiers de synthèse et d'analyse préparatoires aux travaux du Conseil national de la consommation,
 d'actions de formation, d'essais comparatifs, d'émissions télévisées, de publications spécialisées. Il assure un accès aux
-bases de données de l'établissement.
+bases de données de l'établissement. 
 
 Le cahier des charges annuel des prestations de l'appui technique aux associations de défense des consommateurs est élaboré
 par une commission créée à cet effet et qui veille à son exécution. Cette commission est composée d'un représentant de
 chacune des organisations de consommateurs agréées au plan national, ainsi que du directeur général de l'établissement. Le
-commissaire du Gouvernement ou son représentant et le membre du corps du contrôle général économique et financier assistent
-de droit à ses travaux ;
+commissaire du Gouvernement ou son représentant et le contrôleur budgétaire assistent de droit à ses travaux ; 
 
 b) Assure un financement et fournit des prestations d'appui technique aux centres techniques régionaux de la consommation ou
 aux structures régionales ou interrégionales assimilées dans le cadre de conventions de mutualisation permettant la mise en
@@ -40737,19 +40765,19 @@ chargé de la consommation définit les conditions et les modalités d'applicati
 Dans les limites prévues par l'état prévisionnel des recettes et de ses dépenses, le directeur général de l'Institut national
 de la consommation détermine les montants des aides financières allouées aux centres techniques régionaux de la consommation
 ou aux structures régionales ou interrégionales assimilées devant être inscrits dans ces conventions ou résultant de la mise
-en œuvre des dispositions de celles-ci.A cet effet, il recueille préalablement l'avis d'un comité d'évaluation créé dans des
+en œuvre des dispositions de celles-ci. A cet effet, il recueille préalablement l'avis d'un comité d'évaluation créé dans des
 conditions et selon les modalités fixées par l'arrêté prévu à l'alinéa précédent. 
 
 Le directeur général de l'Institut national de la consommation est l'ordonnateur des subventions allouées aux centres
-techniques régionaux de la consommation ou aux structures régionales ou interrégionales assimilées.
+techniques régionaux de la consommation ou aux structures régionales ou interrégionales assimilées. 
 
 c) Recueille des informations sur les questions impliquant la défense des intérêts des consommateurs, en vue notamment de
-constituer des banques de données.
+constituer des banques de données. 
 
-2. A l'égard du public :
+2. A l'égard du public : 
 
 a) Diffuse par tout moyen approprié des informations sur les questions touchant à la consommation, les produits et les
-services susceptibles d'être utilisés par les consommateurs ;
+services susceptibles d'être utilisés par les consommateurs ; 
 
 b) Réalise tout produit, étude, essai comparatif ou service lié à ses missions.
 
@@ -40757,16 +40785,25 @@ b) Réalise tout produit, étude, essai comparatif ou service lié à ses missio
 
 	**Modifié par**:
 
-	  - Décret n°2010-801 du 13 juillet 2010 - art. 8
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 	**Cité par**:
 
 	  - Arrêté du 22 avril 2015 - art. 2 (V)
-	  - Code de la consommation - art. R531-8 (VD)
+	  - Code de la consommation - art. R531-8 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation
+	  - Code de la consommation - art. R531-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-1 (V)
+	  - Code de la consommation - art. R822-2 (V)
 
 
 ###### Article R531-4
@@ -40888,16 +40925,23 @@ président est prépondérante.
 
 Le conseil d'administration peut entendre des experts pour l'examen d'une question figurant à l'ordre du jour.
 
-Le directeur général de l'Institut national de la consommation, le commissaire du Gouvernement, le membre du corps du
-contrôle général économique et fiancier et l'agent comptable assistent avec voix consultative aux séances du conseil
-d'administration. Le directeur général peut se faire assister par tout collaborateur de son choix. Il peut se faire
-représenter en cas d'empêchement.
+Le directeur général de l'Institut national de la consommation, le commissaire du Gouvernement, le contrôleur budgétaire  et
+l'agent comptable assistent avec voix consultative aux séances du conseil d'administration. Le directeur général peut se
+faire assister par tout collaborateur de son choix. Il peut se faire représenter en cas d'empêchement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-801 du 13 juillet 2010 - art. 10
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-7 (V)
 
 
 ###### Article R531-8
@@ -40914,12 +40958,7 @@ Le conseil d'administration délibère sur :
 des prestations de l'appui technique aux organisations de consommateurs élaboré par cette commission et présenté par le
 directeur ; 
 
-5° L'état annuel des prévisions de recettes et de dépenses, ainsi que sur les états rectificatifs qui comportent soit une
-augmentation du montant global des dépenses, soit des virements de crédits entre la section des opérations en capital et la
-section de fonctionnement, entre les chapitres de matériel et les chapitres de personnel ou entre les sections prévues à
-l'article R. 533-6 et une autre affectation. Les autres états rectificatifs sont pris par le directeur après avis conforme du
-membre du corps du contrôle général économique et financier. Il en rend compte au conseil d'administration à sa plus proche
-séance ; 
+5° Le budget ;
 
 6° Les conditions générales de fixation des prix de vente des produits et des prestations de l'établissement ; 
 
@@ -40945,12 +40984,19 @@ Le conseil d'administration élabore son règlement intérieur.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1221 du 18 octobre 2010 - art. 21
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 26
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation - art. R531-3
-	  - Code de la consommation - art. R533-6
+	  - Code de la consommation - art. R531-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-8 (V)
 
 
 ###### Article R531-9
@@ -40964,18 +41010,20 @@ son choix. Il peut s'y faire représenter.
 
 Les délibérations du conseil d'administration sont exécutoires, sauf si le commissaire du Gouvernement demande la suspension
 de cette exécution dans les dix jours qui suivent la délibération. Dans ce cas, le commissaire du Gouvernement soumet cette
-délibération au ministre chargé de la consommation, qui se prononce dans un délai d'un mois après la demande de suspension.A
+délibération au ministre chargé de la consommation, qui se prononce dans un délai d'un mois après la demande de suspension. A
 défaut d'une décision de rejet expresse et motivée de la part du ministre dans ce délai, la délibération est exécutoire. 
 
 Toutefois, les délibérations relatives aux emprunts, aux prises, extensions et cessions de participations et aux créations ou
 cessions de filiales ne sont exécutoires qu'après approbation par arrêté conjoint du ministre chargé du budget, du ministre
 chargé de la consommation et, le cas échéant, du ministre chargé de l'économie. 
 
-Les délibérations relatives au compte financier et à l'affectation des résultats, aux états prévisionnels de recettes et
-dépenses, à l'acceptation ou au refus des dons et legs, aux conditions générales de recrutement, d'emploi et de rémunération
-des personnels et à la politique commerciale sont exécutoires, sauf opposition du ministre chargé de la consommation ou du
-ministre chargé du budget, quinze jours après la réception du relevé de décision par le commissaire du Gouvernement et le
-ministre chargé du budget.
+Les délibérations relatives à l'acceptation ou au refus des dons et legs, aux conditions générales de recrutement, d'emploi
+et de rémunération des personnels et à la politique commerciale sont exécutoires, sauf opposition du ministre chargé de la
+consommation ou du ministre chargé du budget, quinze jours après la réception du relevé de décision par le commissaire du
+Gouvernement et le ministre chargé du budget. 
+
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
@@ -40983,15 +41031,25 @@ ministre chargé du budget.
 
 	  - Décret n°97-298 du 27 mars 1997
 
-	**Modifié par**:
-
-	  - Décret n°2010-1221 du 18 octobre 2010 - art. 22
-
 	**Cite**:
 
+	  - Décret n°2012-1246 du 7 novembre 2012
 	  - Code de la consommation - art. L534-1
 	  - Code de la consommation - art. L534-4
 	  - Code de la consommation - art. L534-7
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 26
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-10 (V)
+	  - Code de la consommation - art. R822-9 (V)
 
 
 ###### Article R531-10
@@ -41043,65 +41101,24 @@ du conseil d'administration. Il en rend compte au conseil d'administration ;
 ###### Article R532-1
 
 Le conseil d'administration peut créer auprès de lui des comités consultatifs. Le directeur général est membre de droit de
-ces comités. Le commissaire du Gouvernement et le membre du corps du contrôle général économique et financier assistent de
-droit à leurs travaux.
+ces comités. Le commissaire du Gouvernement et le        contrôleur budgétaire assistent de droit à leurs travaux.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-801 du 13 juillet 2010 - art. 10
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-13 (V)
 
 
 #### Chapitre III : Dispositions financières et comptables.
-
-###### Article R533-1
-
-L'agent comptable de l'établissement est nommé par arrêté conjoint du ministre chargé du budget et du ministre chargé de la
-consommation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Modifié par**:
-
-	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 26
-
-
-###### Article R533-2
-
-L'Institut national de la consommation est soumis au contrôle économique et financier de l'Etat prévu par le décret n° 53-707
-du 9 août 1953 relatif au contrôle de l'Etat dans les entreprises publiques nationales et certains organismes ayant un objet
-d'ordre économique et social et par le décret n° 55-733 du 26 mai 1955 relatif au contrôle économique et financier de l'Etat.
-Un membre du corps du contrôle général économique et financier, placé sous l'autorité du ministre chargé de l'économie et des
-finances, assure le contrôle de l'établissement, selon les modalités fixées par un arrêté de ce ministre.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2005-436 2005-05-05 art. 19 JORF 10 mai 2005
-
-	**Cite**:
-
-	  - Décret n°53-707 du 9 août 1953
-	  - Décret n°55-733 du 26 mai 1955
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 26
-
 
 ###### Article R533-3
 
@@ -41129,23 +41146,30 @@ conditions prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux ré
 
 ###### Article R533-4
 
-L'Institut national de la consommation est soumis au régime financier et comptable applicable aux établissements publics à
-caractère industriel et commercial dotés d'un agent comptable défini par le décret n° 62-1587 du 29 décembre 1962 portant
-règlement général sur la comptabilité publique. Il tient une comptabilité analytique.
+L'Institut est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique. Il tient une comptabilité analytique.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°62-1587 1962-12-29
-
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012
 
 	**Modifié par**:
 
-	  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 26
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-15 (V)
 
 
 ###### Article R533-5
@@ -41186,17 +41210,25 @@ publique ou privée ;
 
 Les crédits nécessaires à la couverture des dépenses de fonctionnement hors personnel de chacune des commissions placées
 auprès de l'Institut national de la consommation pour l'accomplissement de leurs missions font l'objet d'une section
-distincte de l'état prévisionnel de ressources et de dépenses de l'établissement.
+distincte         du budget de l'établissement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1221 du 18 octobre 2010 - art. 20
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 26
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cité par**:
 
 	  - Code de la consommation - art. R531-8 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R822-17 (V)
 
 
 #### Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation
