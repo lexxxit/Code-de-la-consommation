@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-01-30
 
 # Partie législative
 
@@ -619,9 +619,9 @@ Le premier alinéa du présent article s'applique à toutes les activités visé
 également applicable aux manquements au règlement (CE) n° 1008/2008 du Parlement européen et du Conseil, du 24 septembre
 2008, établissant des règles communes pour l'exploitation de services aériens dans la Communauté. 
 
-Les règles relatives à l'obligation de renseignements par les établissements de crédit, les établissements de paiement et les
-organismes mentionnés à l'article L. 518-1 du code monétaire et financier sont fixées par l'article L. 312-1-1 et les
-sections 3 et 4 du chapitre IV du titre Ier du livre III du même code.
+Les règles relatives à l'obligation de renseignements par les établissements de crédit, les établissements de monnaie
+électronique, les établissements de paiement et les organismes mentionnés à l'article L. 518-1 du code monétaire et financier
+sont fixées par l'article L. 312-1-1 et les sections 3 et 4 du chapitre IV du titre Ier du livre III du même code.
 
 **Liens relatifs à cet article**
 
@@ -705,7 +705,7 @@ sections 3 et 4 du chapitre IV du titre Ier du livre III du même code.
 
 	**Modifié par**:
 
-	  - Loi n°2012-1270 du 20 novembre 2012 - art. 11
+	  - Loi n°2013-100 du 28 janvier 2013 - art. 23
 
 
 ###### Article L113-4
@@ -6923,9 +6923,9 @@ cette subordination constitue une pratique commerciale déloyale au sens de l'ar
 
 Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2. 
 
-Pour les établissements de crédit, les établissements de paiement et les organismes mentionnés à l'article L. 518-1 du code
-monétaire et financier, les règles relatives aux ventes subordonnées sont fixées par le 1 du I de l'article L. 312-1-2 du
-même code.
+Pour les établissements de crédit, les établissements de monnaie électronique, les établissements de paiement et les
+organismes mentionnés à l'article L. 518-1 du code monétaire et financier, les règles relatives aux ventes subordonnées sont
+fixées par le 1 du I de l'article L. 312-1-2 du même code.
 
 **Liens relatifs à cet article**
 
@@ -6935,7 +6935,7 @@ même code.
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 45
+	  - Loi n°2013-100 du 28 janvier 2013 - art. 23
 
 	**Cité par**:
 
@@ -6952,9 +6952,9 @@ même code.
 
 	**Cite**:
 
-	  - Code de la consommation - art. L113-2 (V)
+	  - Code de la consommation - art. L113-2
 	  - Code de la consommation - art. L120-1
-	  - Code monétaire et financier - art. L518-1 (V)
+	  - Code monétaire et financier - art. L518-1
 
 
 ##### Section 2 : Ventes et prestations de services sans commande préalable
@@ -17609,11 +17609,11 @@ la date de ce premier incident et celle à laquelle elle en a été informée.
 
 ###### Article L313-10
 
-Un établissement de crédit, un établissement de paiement ou un organisme mentionné au 5 de l'article L. 511-6 du code
-monétaire et financier ne peut se prévaloir d'un contrat de cautionnement d'une opération de crédit relevant des chapitres
-Ier ou II du présent titre, conclu par une personne physique dont l'engagement était, lors de sa conclusion, manifestement
-disproportionné à ses biens et revenus, à moins que le patrimoine de cette caution, au moment où celle-ci est appelée, ne lui
-permette de faire face à son obligation.
+Un établissement de crédit, un établissement de monnaie électronique, un établissement de paiement ou un organisme mentionné
+au 5 de l'article L. 511-6 du code monétaire et financier ne peut se prévaloir d'un contrat de cautionnement d'une opération
+de crédit relevant des chapitres Ier ou II du présent titre, conclu par une personne physique dont l'engagement était, lors
+de sa conclusion, manifestement disproportionné à ses biens et revenus, à moins que le patrimoine de cette caution, au moment
+où celle-ci est appelée, ne lui permette de faire face à son obligation.
 
 **Liens relatifs à cet article**
 
@@ -17624,7 +17624,7 @@ permette de faire face à son obligation.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 16
+	  - Loi n°2013-100 du 28 janvier 2013 - art. 23
 
 	**Cité par**:
 
@@ -19351,15 +19351,16 @@ son patrimoine.
 
 La commission dispose d'un délai de trois mois à compter du dépôt du dossier pour examiner la recevabilité de la demande en
 vérifiant que le demandeur se trouve dans la situation définie au premier alinéa de l'article L. 330-1, notifier au demandeur
-la décision d'irrecevabilité du dossier ou notifier au demandeur, aux créanciers, aux établissements de paiement et aux
-établissements de crédit teneurs de comptes du déposant la décision de recevabilité du dossier, procéder à son instruction et
-décider de son orientation. Si, au terme de ce délai, la commission n'a pas décidé de l'orientation du dossier, le taux
-d'intérêt applicable à tous les emprunts en cours contractés par le débiteur est, au cours des trois mois suivants, le taux
-de l'intérêt légal, sauf décision contraire de la commission ou du juge intervenant au cours de cette période. 
+la décision d'irrecevabilité du dossier ou notifier au demandeur, aux créanciers, aux établissements de paiement, aux
+établissements de monnaie électronique et aux établissements de crédit teneurs de comptes du déposant la décision de
+recevabilité du dossier, procéder à son instruction et décider de son orientation. Si, au terme de ce délai, la commission
+n'a pas décidé de l'orientation du dossier, le taux d'intérêt applicable à tous les emprunts en cours contractés par le
+débiteur est, au cours des trois mois suivants, le taux de l'intérêt légal, sauf décision contraire de la commission ou du
+juge intervenant au cours de cette période. 
 
 En cas de rejet d'un avis de prélèvement postérieur à la notification de la décision de recevabilité, l'établissement de
-crédit ou l'établissement de paiement qui tient le compte du déposant et les créanciers ne peuvent percevoir des frais ou
-commissions y afférents. 
+crédit, l'établissement de monnaie électronique ou l'établissement de paiement qui tient le compte du déposant et les
+créanciers ne peuvent percevoir des frais ou commissions y afférents. 
 
 II.-La commission dresse l'état d'endettement du débiteur après avoir, le cas échéant, fait publier un appel aux créanciers. 
 
@@ -19369,20 +19370,21 @@ intervienne à titre gratuit.
 
 Après avoir été informés par la commission de l'état du passif déclaré par le débiteur, les créanciers disposent d'un délai
 de trente jours pour fournir, en cas de désaccord sur cet état, les justifications de leurs créances en principal, intérêts
-et accessoires.A défaut, la créance est prise en compte par la commission au vu des seuls éléments fournis par le
-débiteur.L'information des créanciers peut être effectuée par télécopie ou par courrier électronique dans des conditions
-fixées par décret. Les créanciers indiquent également si les créances en cause ont donné lieu à une caution et si celle-ci a
-été actionnée. 
+et accessoires. A défaut, la créance est prise en compte par la commission au vu des seuls éléments fournis par le débiteur.
+L'information des créanciers peut être effectuée par télécopie ou par courrier électronique dans des conditions fixées par
+décret. Les créanciers indiquent également si les créances en cause ont donné lieu à une caution et si celle-ci a été
+actionnée. 
 
 Lorsque la commission constate que le remboursement d'une ou plusieurs dettes du débiteur principal est garanti par un
 cautionnement, elle informe la caution de l'ouverture de la procédure. La caution peut faire connaître par écrit à la
 commission ses observations. 
 
 Nonobstant toute disposition contraire, la commission peut obtenir communication, auprès des administrations publiques, des
-établissements de crédit, des établissements de paiement, des organismes mentionnés au 5 de l'article L. 511-6 du code
-monétaire et financier, des organismes de sécurité et de prévoyance sociale ainsi que des services chargés de centraliser les
-risques bancaires et les incidents de paiement, de tout renseignement de nature à lui donner une exacte information sur la
-situation du débiteur, l'évolution possible de celle-ci et les procédures de conciliation amiables en cours. 
+établissements de crédit, des établissements de monnaie électronique, des établissements de paiement, des organismes
+mentionnés au 5 de l'article L. 511-6 du code monétaire et financier, des organismes de sécurité et de prévoyance sociale
+ainsi que des services chargés de centraliser les risques bancaires et les incidents de paiement, de tout renseignement de
+nature à lui donner une exacte information sur la situation du débiteur, l'évolution possible de celle-ci et les procédures
+de conciliation amiables en cours. 
 
 Les collectivités territoriales et les organismes de sécurité sociale procèdent, à sa demande, à des enquêtes sociales.
 
@@ -19395,18 +19397,13 @@ préalablement à la réunion de celle-ci.
 
 III.-Si l'instruction de la demande fait apparaître que le débiteur est dans la situation irrémédiablement compromise définie
 au troisième alinéa de l'article L. 330-1 et dispose de biens autres que ceux mentionnés au 1° du même article, la
-commission, après avoir convoqué le débiteur et obtenu son accord, saisit le    juge du tribunal d'instance  aux fins
-d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire.L'absence de réponse du débiteur aux
-convocations vaut refus de cette saisine. En cas de refus du débiteur, la commission reprend sa mission dans les termes des
-articles L. 331-6, L. 331-7, L. 331-7-1 et L. 331-7-2. 
+commission, après avoir convoqué le débiteur et obtenu son accord, saisit le juge du tribunal d'instance aux fins d'ouverture
+d'une procédure de rétablissement personnel avec liquidation judiciaire. L'absence de réponse du débiteur aux convocations
+vaut refus de cette saisine. En cas de refus du débiteur, la commission reprend sa mission dans les termes des articles L.
+331-6, L. 331-7, L. 331-7-1 et L. 331-7-2. 
 
 IV.-Les décisions rendues par la commission en matière de recevabilité et d'orientation du dossier sont susceptibles de
-recours devant le    juge du tribunal d'instance .
-
-**Nota:**
-
-Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 11 de la présente loi entre en vigueur dans les conditions fixées
-par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
+recours devant le juge du tribunal d'instance .
 
 **Liens relatifs à cet article**
 
@@ -19442,7 +19439,7 @@ par un décret nécessaire à son application et au plus tard le 1er septembre 2
 
 	**Modifié par**:
 
-	  - Loi n°2010-1609 du 22 décembre 2010 - art. 11 (V)
+	  - Loi n°2013-100 du 28 janvier 2013 - art. 23
 
 	**Cite**:
 
@@ -20068,10 +20065,10 @@ situation de surendettement, sont tenus de ne pas divulguer à des tiers les inf
 cadre de la procédure instituée par le présent chapitre, à peine des sanctions prévues à l'article 226-13 du code pénal. 
 
 Les renseignements relatifs au dépôt d'un dossier de surendettement et à la situation du débiteur ne peuvent être communiqués
-aux créanciers, aux établissements de paiement et aux établissements de crédit qui tiennent les comptes de dépôt du débiteur,
-antérieurement à la décision de recevabilité du dossier, sous peine des sanctions prévues à l'article 226-13 du même code.
-Ces dispositions ne font toutefois pas obstacle à l'application des règles prévues à l'article L. 333-4 du présent code, dans
-les limites fixées à cet article.
+aux créanciers, aux établissements de paiement, aux établissements de monnaie électronique et aux établissements de crédit
+qui tiennent les comptes de dépôt du débiteur, antérieurement à la décision de recevabilité du dossier, sous peine des
+sanctions prévues à l'article 226-13 du même code. Ces dispositions ne font toutefois pas obstacle à l'application des règles
+prévues à l'article L. 333-4 du présent code, dans les limites fixées à cet article.
 
 **Liens relatifs à cet article**
 
@@ -20081,16 +20078,25 @@ les limites fixées à cet article.
 
 	**Modifié par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 42
+	  - Loi n°2013-100 du 28 janvier 2013 - art. 23
 
 	**Cité par**:
 
 	  - Ordonnance n°2013-792 du 30 août 2013 - art. 18 (V)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
 	**Cite**:
 
 	  - Code de la consommation - art. L333-4
 	  - Code pénal - art. 226-13
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L712-5 (V)
+	  - Code de la consommation - art. L721-3 (M)
 
 
 ###### Article L331-12
@@ -21047,12 +21053,13 @@ est seule habilitée à centraliser ces informations. Il est soumis à la loi n�
 l'informatique, aux fichiers et aux libertés. 
 
 Ce fichier a pour finalité de fournir aux établissements de crédit mentionnés au titre Ier du livre V du code monétaire et
-financier, aux établissements de paiement mentionnés au titre II du même livre V et aux organismes mentionnés au 5 de
-l'article L. 511-6 du même code un élément d'appréciation de la solvabilité des personnes qui sollicitent un crédit.
-Toutefois, l'inscription d'une personne physique au sein du fichier n'emporte pas interdiction de délivrer un crédit. 
+financier, aux établissements de monnaie électronique et aux établissements de paiement mentionnés au titre II du même livre
+V et aux organismes mentionnés au 5 de l'article L. 511-6 du même code un élément d'appréciation de la solvabilité des
+personnes qui sollicitent un crédit. Toutefois, l'inscription d'une personne physique au sein du fichier n'emporte pas
+interdiction de délivrer un crédit. 
 
-Le fichier peut fournir un élément d'appréciation à l'usage des établissements de crédit et des établissements de paiement
-dans leurs décisions d'attribution des moyens de paiement. 
+Le fichier peut fournir un élément d'appréciation à l'usage des établissements de crédit, des établissements de monnaie
+électronique et des établissements de paiement dans leurs décisions d'attribution des moyens de paiement. 
 
 Les informations qu'il contient peuvent également être prises en compte par les mêmes établissements et organismes mentionnés
 au deuxième alinéa pour la gestion des risques liés aux crédits souscrits par leurs clients. 
@@ -21069,9 +21076,9 @@ des sommes dues effectuée par l'établissement ou organisme à l'origine de l'i
 France de l'incident ayant entraîné la déclaration. 
 
 III.-Dès que la commission instituée à l'article L. 331-1 est saisie par un débiteur, elle en informe la Banque de France aux
-fins d'inscription au fichier. La même obligation pèse sur le greffe du    juge du tribunal d'instance  lorsque, sur recours
-de l'intéressé en application du IV de l'article L. 331-3, la situation visée à l'article L. 331-2 est reconnue par ce juge
-ou lorsque le débiteur a bénéficié de l'effacement des dettes résultant de la procédure de rétablissement personnel en
+fins d'inscription au fichier. La même obligation pèse sur le greffe du juge du tribunal d'instance lorsque, sur recours de
+l'intéressé en application du IV de l'article L. 331-3, la situation visée à l'article L. 331-2 est reconnue par ce juge ou
+lorsque le débiteur a bénéficié de l'effacement des dettes résultant de la procédure de rétablissement personnel en
 application des articles L. 332-9 ou L. 332-5. 
 
 Le fichier recense les mesures du plan conventionnel de redressement mentionnées à l'article L. 331-6. Ces mesures sont
@@ -21079,9 +21086,9 @@ communiquées à la Banque de France par la commission.L'inscription est conserv
 plan conventionnel, sans pouvoir excéder huit ans. 
 
 Le fichier recense également les mesures prises en vertu des articles L. 331-7, L. 331-7-1 et L. 331-7-2 qui sont
-communiquées à la Banque de France par la commission ou le greffe du    juge du tribunal d'instance  lorsqu'elles sont
-soumises à son homologation.L'inscription est conservée pendant toute la durée d'exécution de ces mesures, sans pouvoir
-excéder huit ans. 
+communiquées à la Banque de France par la commission ou le greffe du juge du tribunal d'instance lorsqu'elles sont soumises à
+son homologation.L'inscription est conservée pendant toute la durée d'exécution de ces mesures, sans pouvoir excéder huit
+ans. 
 
 Lorsque les mesures du plan conventionnel mentionnées à l'article L. 331-6 et celles prises en application des articles L.
 331-7, L. 331-7-1 et L. 331-7-2 sont exécutées sans incident, les informations relatives aux mentions qui ont entraîné leur
@@ -21111,11 +21118,6 @@ concernant contenues dans le fichier conformément à l'article 39 de la loi n°
 La collecte des informations contenues dans le fichier par des personnes autres que la Banque de France, les établissements
 et les organismes visés au deuxième alinéa du I du présent article est punie des peines prévues à l'article 226-18 du code
 pénal.
-
-**Nota:**
-
-Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 11 de la présente loi entre en vigueur dans les conditions fixées
-par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
 
 **Liens relatifs à cet article**
 
@@ -21164,7 +21166,7 @@ par un décret nécessaire à son application et au plus tard le 1er septembre 2
 
 	**Modifié par**:
 
-	  - Loi n°2010-1609 du 22 décembre 2010 - art. 11 (V)
+	  - Loi n°2013-100 du 28 janvier 2013 - art. 23
 
 	**Liens**:
 
@@ -22720,14 +22722,18 @@ sauf si celle-ci fait usage, par décision motivée, de la faculté qui lui a é
 
 La commission de la médiation de la consommation est chargée d'émettre des avis et de proposer des mesures de toute nature
 pour évaluer, améliorer et diffuser les pratiques de médiation non judiciaires en matière de consommation. Elle n'est
-toutefois pas compétente pour les activités mentionnées aux articles L. 133-25, L. 315-1, L. 615-2 et L. 621-19 du code
+toutefois pas compétente pour les activités mentionnées aux articles L. 133-25, L. 316-1, L. 615-2 et L. 621-19 du code
 monétaire et financier et à l'article L. 112-2 du code des assurances.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+	  - Loi n°2013-100 du 28 janvier 2013 - art. 23
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
 
 	**Cité par**:
 
@@ -22735,6 +22741,14 @@ monétaire et financier et à l'article L. 112-2 du code des assurances.
 	  - Code de la consommation - art. R531-9 (Ab)
 	  - Code de la consommation - art. R534-11 (Ab)
 	  - Code de la consommation - art. R534-13 (Ab)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L133-25
+	  - Code monétaire et financier - art. L316-1 (M)
+	  - Code monétaire et financier - art. L615-2 (Ab)
+	  - Code monétaire et financier - art. L621-19 (M)
+	  - Code des assurances - art. L112-2 (V)
 
 
 ###### Article L534-8
