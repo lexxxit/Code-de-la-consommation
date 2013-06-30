@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2013-05-30
+Version Consolidée au 2013-07-01
 
 # Partie législative
 
@@ -27236,6 +27236,40 @@ Parlement européen et du Conseil.
 	  - Code de la consommation - art. R412-42 (V)
 
 
+##### Section 24 : Produits de construction
+
+##### Sous-section 1 : Dispositions générales
+
+###### Article R214-24
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 les dispositions des articles 1er et 2, des paragraphes 1 et
+2 de l'article 4, des articles 6 et 7, des paragraphes 1 et 2 de l'article 8, de l'article 9 et des articles 11 à 16 du
+règlement (UE) n° 305/2011 du Parlement européen et du Conseil du 9 mars 2011 établissant des conditions harmonisées de
+commercialisation pour les produits de construction et abrogeant la directive 89/106/ CEE du Conseil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1489 du 27 décembre 2012 - art. 1
+
+	**Liens**:
+
+	  - DEPLACEMENT: Décret n°2013-1264 du 23 décembre 2013 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L214-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-43 (V)
+
+
 #### Chapitre V : Pouvoirs d'enquête
 
 ##### Section 1 : Autorités qualifiées.
@@ -29297,13 +29331,14 @@ L. 311-10.
 ###### Article R311-9
 
 L'acheteur qui sollicite la livraison ou la fourniture immédiate du bien ou de la prestation de services en application de
-l'article L. 311-35 doit apposer sur le contrat de vente une demande rédigée de sa main dans les termes suivants :
+l'article L. 311-35 doit apposer sur le contrat de vente une demande rédigée de sa main dans les termes suivants : 
 
-"Je demande à être livré immédiatement (ou à bénéficier immédiatement de la prestation de services).
+Je demande à être livré (e) immédiatement (ou à bénéficier immédiatement de la prestation de services). 
 
-"Je reconnais avoir été informé que cette demande a pour effet de réduire le délai légal de rétractation. Celui-ci expirera
-le jour de la livraison du bien (ou de l'exécution de la prestation), sans pouvoir être inférieur à trois jours ni supérieur
-à sept jours".
+Le délai légal de rétractation de mon contrat de crédit arrive dès lors à échéance à la date de la livraison (ou de
+l'exécution de la prestation), sans pouvoir être inférieur à trois jours ni supérieur à quatorze jours suivant sa signature. 
+
+Je suis tenu (e) par mon contrat de vente principal dès le quatrième jour suivant sa signature.
 
 **Liens relatifs à cet article**
 
@@ -29313,11 +29348,23 @@ le jour de la livraison du bien (ou de l'exécution de la prestation), sans pouv
 
 	**Modifié par**:
 
-	  - Décret n°2011-136 du 1er février 2011 - art. 6
+	  - Décret n°2012-1478 du 27 décembre 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation
+	  - Code de la consommation - art. L311-35
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R311-10 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R312-20 (V)
 
 
 ###### Article R311-10
@@ -31556,14 +31603,14 @@ vente.
 
 Informations précontractuelles européennes normalisées en matière de crédit aux consommateurs 
 
-Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager.  
+Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager. 
 
 1. Identité et coordonnées du prêteur/ de l'intermédiaire de crédit 
 
 <table>
   <tbody>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Prêteur 
 
@@ -31578,7 +31625,7 @@ Numéro de télécopieur (*)
 Adresse internet (*) 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 [Identité] 
 
@@ -31587,33 +31634,33 @@ Adresse internet (*)
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Le cas échéant 
 
 Intermédiaire de crédit 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 [Identité] 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Adresse 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Adresse électronique (*) 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Numéro de téléphone (*) 
 
@@ -31622,7 +31669,7 @@ Numéro de télécopieur (*)
 Adresse internet (*) 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 [Identité] 
 
@@ -31638,17 +31685,15 @@ Adresse internet (*)
 <table>
   <tbody>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Le type de crédit 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td align="left" valign="top">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Le montant total du crédit 
 
@@ -31656,39 +31701,33 @@ Il s'agit du plafond ou du total des sommes rendues disponibles en vertu du cont
 plafond ou du total] 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td valign="top" align="left">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Les conditions de mise à disposition des fonds 
 
 Il s'agit de la façon dont vous obtiendrez l'argent et du moment auquel vous l'obtiendrez. 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td align="left" valign="top">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 La durée du contrat de crédit 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td valign="top" align="left">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Les échéances et, le cas échéant, l'ordre dans lequel les échéances seront affectées 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 Vous devrez payer ce qui suit : 
 
@@ -31699,21 +31738,21 @@ Les intérêts et/ ou les frais seront dus de la façon suivante :
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Le montant total que vous devrez payer 
 
 Il s'agit du montant du capital emprunté majoré des intérêts et des frais éventuels liés à votre crédit. 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 [La somme du montant total du crédit et du coût total du crédit] 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Le cas échéant 
 
@@ -31725,12 +31764,10 @@ Nom du bien/ service
 Prix au comptant 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td valign="top" align="left">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 En cas de location avec option d'achat 
 
@@ -31741,12 +31778,10 @@ Description du bien concerné
 Le prix de vente final au terme de la location est de : 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td align="left" valign="top">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Le cas échéant 
 
@@ -31755,24 +31790,22 @@ Sûretés exigées
 Il s'agit d'une description de la sûreté que vous devez fournir en relation avec le contrat de crédit. 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 [Type de sûretés] 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Le cas échéant 
 
 Les remboursements n'entraînent pas un amortissement immédiat du capital. 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td align="left" valign="top">
+    </td></tr>
   </tbody>
 </table>
 
@@ -31781,12 +31814,12 @@ Les remboursements n'entraînent pas un amortissement immédiat du capital.
 <table>
   <tbody>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Le taux débiteur ou, le cas échéant, les différents taux débiteurs qui s'appliquent au contrat de crédit 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 [Indiquer le taux exprimé en % : 
 
@@ -31803,7 +31836,7 @@ prêteur.]
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Taux annuel effectif global (TAEG) 
 
@@ -31812,65 +31845,47 @@ Il s'agit du coût total exprimé en pourcentage annuel du montant total du cré
 Le TAEG vous permet de comparer différentes offres. 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 [Exprimé en %. Donner ici un exemple représentatif qui mentionne toutes les hypothèses utilisées pour calculer le taux] 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
-Est-il obligatoire pour l'obtention même du crédit ou conformément aux clauses et conditions commerciales de contracter : 
+Est-il obligatoire pour l'obtention même du crédit ou conformément aux clauses et conditions commerciales de contracter :
 
-</td>
-      <td align="center">
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-- une assurance liée au crédit ? 
-
-</td>
-      <td align="center">
-
-Oui/ non ; [si oui, préciser le type d'assurance, et  ajouter la  mention suivante : 
-
-Vous pouvez souscrire une assurance équivalente auprès de l'assureur de votre choix.] 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+- une assurance liée au crédit ?
 
 - un autre service accessoire ? 
 
 Si les coûts de ces services ne sont pas connus du prêteur, ils ne sont pas inclus dans le TAEG 
 
 Lorsque l'assurance est proposée ou exigée par le prêteur, coût de cette assurance à l'aide d'un exemple chiffré exprimé en
-euros et par mois 
+euros et par mois
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
+
+Oui/ non ; [si oui, préciser le type d'assurance, et ajouter la mention suivante :
+
+Vous pouvez souscrire une assurance équivalente auprès de l'assureur de votre choix.]
 
 Oui/ non ; [si oui, préciser le type de service accessoire] 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Montant des frais liés à l'exécution du contrat de crédit 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td valign="top" align="left">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Le cas échéant 
 
@@ -31878,67 +31893,57 @@ Montant des frais de tenue d'un (ou de plusieurs compte (s) si ce (s) compte (s)
 opérations de mise à disposition des fonds ou les opérations de paiement des échéances du crédit 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td valign="top" align="left">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Le cas échéant 
 
 Montant des frais liés à l'utilisation d'un moyen de paiement déterminé (par exemple une carte de crédit) 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td valign="top" align="left">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Le cas échéant 
 
 Montant de tout autre frais lié au contrat de crédit 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td align="left" valign="top">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Le cas échéant 
 
 Conditions dans lesquelles les frais liés au contrat de crédit susmentionnés peuvent être modifiés 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td valign="top" align="left">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Le cas échéant 
 
 Obligation de payer des frais de notaire 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td align="left" valign="top">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Frais en cas de défaillance de l'emprunteur 
 
 Les impayés risquent d'avoir de graves conséquences pour vous et de vous empêcher d'obtenir un nouveau crédit. 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Vous devrez payer [... (taux d'intérêt applicable et, le cas échéant, frais d'inexécution)] en cas de défaillance. 
 
@@ -31952,40 +31957,53 @@ Vous devrez payer [... (taux d'intérêt applicable et, le cas échéant, frais 
 <table>
   <tbody>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Droit de rétractation 
 
-Vous disposez d'un délai de quatorze jours calendaires pour revenir sur votre engagement vis-à-vis du contrat de crédit. 
+Vous disposez d'un délai de quatorze jours calendaires pour revenir sur votre engagement vis-à-vis du contrat de crédit.
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
-Oui 
+Oui
+
+(Le cas échéant) 
+
+Lorsque le contrat de crédit est un crédit affecté : 
+
+- la rétractation sur le contrat de crédit entre le premier et le septième jour met fin au contrat de vente principal ; 
+
+- si vous vous rétractez entre le huitième et le quatorzième jour, vous devez payer le bien ou la prestation de services
+acquis.
+
+Lorsque, dans le cadre d'un crédit affecté, vous demandez la livraison immédiate du bien ou de la prestation de services,
+votre droit de rétractation sur le contrat de crédit prend fin le jour de la livraison du bien ou de l'exécution de la
+prestation de services (sans pouvoir être inférieur à trois jours, ni excéder quatorze jours). Son exercice ne met fin à
+votre contrat de vente principal que dans les trois premiers jours. Au-delà, vous êtes tenu d'acquérir le bien ou la
+prestation de services.
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Remboursement anticipé 
 
 Vous avez le droit de procéder à tout moment au remboursement anticipé, total ou partiel, du crédit. 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td valign="top" align="left">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Le cas échéant 
 
 Le prêteur a droit à une indemnité en cas de remboursement anticipé. 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 [Rappel des cas où l'indemnité de remboursement peut être exigée et du mode de calcul de l'indemnité conformément aux
 dispositions de l'article L. 311-22 du code de la consommation] 
@@ -31993,18 +32011,16 @@ dispositions de l'article L. 311-22 du code de la consommation]
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Le prêteur doit, dans le cadre de la procédure d'octroi du crédit, consulter le fichier national des incidents de
 remboursement des crédits aux particuliers. 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td valign="top" align="left">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Droit à un projet de contrat de crédit 
 
@@ -32012,24 +32028,22 @@ Vous avez le droit d'obtenir gratuitement, sur demande, un exemplaire du projet 
 s'applique pas si, au moment de la demande, le prêteur n'est pas disposé à conclure le contrat de crédit avec vous. 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td align="left" valign="top">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Le délai pendant lequel le prêteur est lié par les informations précontractuelles 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Ces informations sont valables du... au... 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3">
+      <td align="left" valign="top" colspan="3">
 
 [Toutes les informations complémentaires que le prêteur souhaite donner au consommateur sont fournies dans un document
 distinct qui peut être annexé à la présente fiche] 
@@ -32046,39 +32060,35 @@ de services financiers au sens de l'article L. 121-20-8 du code de la consommati
 <table>
   <tbody>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 a) Informations relatives au prêteur 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td valign="top" align="left">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Le cas échéant 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td valign="top" align="left">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Représentant du prêteur dans l'Etat membre dans lequel vous résidez 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 [Identité] 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Adresse 
 
@@ -32091,19 +32101,19 @@ Numéro de télécopieur (*)
 Adresse internet (*) 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 [Adresse géographique à utiliser par l'emprunteur] 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Enregistrement 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 [Le registre du commerce dans lequel le prêteur est inscrit et son numéro d'enregistrement ou un moyen équivalent
 d'identification dans ce registre] 
@@ -32111,34 +32121,32 @@ d'identification dans ce registre]
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 L'autorité de surveillance 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 [Les coordonnées des autorités chargées du contrôle de l'activité soumise à autorisation] 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 b) Informations relatives au contrat de crédit 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td align="left" valign="top">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Exercice du droit de rétractation 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 [Instructions pratiques pour l'exercice du droit de rétractation indiquant, entre autres, la période pendant laquelle ce
 droit peut être exercé, l'adresse à laquelle la notification doit être envoyée par l'emprunteur et les conséquences du non-
@@ -32147,35 +32155,33 @@ exercice de ce droit]
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 La législation sur laquelle le prêteur se fonde pour établir des relations avec vous avant la conclusion du contrat de
 crédit 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td valign="top" align="left">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Clause concernant la législation applicable au contrat de crédit et/ ou la juridiction compétente 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 [Mentionner la clause pertinente ici] 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Régime linguistique 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Les informations et les conditions contractuelles seront fournies en [langue]. Avec votre accord, nous comptons communiquer
 en [langue/ langues] pendant la durée du contrat de crédit. 
@@ -32183,22 +32189,20 @@ en [langue/ langues] pendant la durée du contrat de crédit.
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 c) Informations relatives au droit de recours 
 
 </td>
-      <td align="center">
-
-</td>
-    </tr>
+      <td valign="top" align="left">
+    </td></tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Existence de procédures extrajudiciaires de réclamation et de recours et modalités d'accès à ces procédures 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
 [Existence ou non de procédures extrajudiciaires de réclamation et de recours accessibles au consommateur qui est partie au
 contrat à distance et, si de telles procédures existent, les modalités d'accès à ces dernières] 
@@ -32206,11 +32210,11 @@ contrat à distance et, si de telles procédures existent, les modalités d'acc�
 </td>
     </tr>
     <tr>
-      <td colspan="3">
+      <td align="left" colspan="3" valign="top">
 
-(*) Les informations suivies de ce signe sont facultatives pour le prêteur.
+(*) Les informations suivies de ce signe sont facultatives pour le prêteur. 
 
-Le cas échéant  : lorsque cette mention est indiquée, le prêteur doit remplir la case si l'information est pertinente pour le
+Le cas échéant : lorsque cette mention est indiquée, le prêteur doit remplir la case si l'information est pertinente pour le
 crédit ou supprimer l'information correspondante ou toute la ligne si l'information ne concerne pas le type de crédit
 envisagé. 
 
@@ -32222,6 +32226,11 @@ correspondantes.
   </tbody>
 </table>
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-1478 du 27 décembre 2012 - art. 3
 
 
 ##### ANNEXE A L'ARTICLE R311-4
