@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2013-07-28
+Version Consolidée au 2013-09-01
 
 # Partie législative
 
@@ -21488,11 +21488,11 @@ sociale et des familles est remplacée par la référence à un montant fixé pa
 b) Les huitième et neuvième alinéas de l'article L. 331-3 sont remplacés par les dispositions suivantes : 
 
 Nonobstant toute disposition contraire, la commission peut obtenir communication, auprès des administrations publiques, des
-établissements de crédit et des établissements de paiement ainsi que des services chargés de centraliser les risques
-bancaires et les incidents de paiement, de tout renseignement de nature à lui donner une exacte information sur la situation
-du débiteur, l'évolution possible de celle-ci et les procédures de conciliation amiables en cours. Elle peut obtenir
-communication de ces mêmes renseignements auprès des organismes de sécurité et de prévoyance sociale, sous réserve de leur
-accord. 
+établissements de crédit, des établissements de monnaie électronique et des établissements de paiement ainsi que des services
+chargés de centraliser les risques bancaires et les incidents de paiement, de tout renseignement de nature à lui donner une
+exacte information sur la situation du débiteur, l'évolution possible de celle-ci et les procédures de conciliation amiables
+en cours. Elle peut obtenir communication de ces mêmes renseignements auprès des organismes de sécurité et de prévoyance
+sociale, sous réserve de leur accord. 
 
 Les collectivités territoriales et les organismes de sécurité sociale peuvent procéder, à sa demande, à des enquêtes
 sociales ; 
@@ -21546,17 +21546,17 @@ première instance ou les juges délégués par lui ".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-322 du 24 mars 2011 - art. 5
+	  - Ordonnance n°2013-792 du 30 août 2013 - art. 6 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L330-1 (V)
-	  - Code de la consommation - art. L331-2 (V)
-	  - Code de la consommation - art. L331-3 (V)
-	  - Code de la consommation - art. L331-7 (V)
-	  - Code de la consommation - art. L332-6 (V)
-	  - Code de la consommation - art. L332-9 (V)
-	  - Code de la consommation - art. L333-7 (V)
+	  - Code de la consommation - art. L330-1
+	  - Code de la consommation - art. L331-2
+	  - Code de la consommation - art. L331-3
+	  - Code de la consommation - art. L331-7
+	  - Code de la consommation - art. L332-6
+	  - Code de la consommation - art. L332-9
+	  - Code de la consommation - art. L333-7
 
 
 ###### Article L334-6
@@ -21582,12 +21582,11 @@ Un décret en Conseil d'Etat fixe les conditions d'application de la présente s
 
 ###### Article L334-7
 
-I. ― En Polynésie française, les établissements mentionnés au titre Ier du livre V du code monétaire et financier, les
-établissements de paiement, et les organismes mentionnés au 5 de l'article L. 511-6 du même code déclarent à la Banque de
-France les incidents de paiement liés aux crédits accordés aux personnes physiques pour des besoins non professionnels. Ces
-déclarations sont portées, dès leur réception, sur le fichier national des incidents de remboursement des crédits aux
-particuliers prévu à l'article L. 333-4. Elles sont mises à la disposition de l'ensemble des établissements et des organismes
-ayant accès au fichier. 
+I. ― En Polynésie française, les établissements de paiement, les établissements de monnaie électronique et les organismes
+mentionnés au 5 de l'article L. 511-6 du même code déclarent à la Banque de France les incidents de paiement liés aux crédits
+accordés aux personnes physiques pour des besoins non professionnels. Ces déclarations sont portées, dès leur réception, sur
+le fichier national des incidents de remboursement des crédits aux particuliers prévu à l'article L. 333-4. Elles sont mises
+à la disposition de l'ensemble des établissements et des organismes ayant accès au fichier. 
 
 Les frais afférents à ces déclarations ne peuvent être facturés aux personnes physiques concernées. La Banque de France est
 seule habilitée à centraliser ces incidents de paiement. Les informations relatives à ces incidents sont radiées
@@ -21598,8 +21597,8 @@ de cinq ans à compter de la date d'enregistrement par la Banque de France de l'
 Le fichier a pour finalité de fournir aux établissements et aux organismes visés au premier alinéa un élément d'appréciation
 de la solvabilité des personnes qui sollicitent un crédit. 
 
-Il peut constituer un élément d'appréciation à l'usage des établissements de crédit et des établissements de paiement dans
-leurs décisions d'attribution des moyens de paiement. 
+Il peut constituer un élément d'appréciation à l'usage des établissements de crédit, des établissements de monnaie
+électronique et des établissements de paiement dans leurs décisions d'attribution des moyens de paiement. 
 
 Les informations qu'il contient peuvent également être prises en compte par les mêmes établissements et organismes pour la
 gestion des risques liés aux crédits souscrits par leurs clients. 
@@ -21673,7 +21672,7 @@ IV. ― L'article L. 333-5 est applicable en Polynésie française.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-421 du 23 mai 2013 - art. 1
+	  - Ordonnance n°2013-792 du 30 août 2013 - art. 12 (V)
 
 
 ##### Section 4 : Dispositions applicables aux îles Wallis et Futuna
