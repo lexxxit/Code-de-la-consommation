@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2013-09-01
+Version Consolidée au 2013-11-17
 
 # Partie législative
 
@@ -21582,11 +21582,12 @@ Un décret en Conseil d'Etat fixe les conditions d'application de la présente s
 
 ###### Article L334-7
 
-I. ― En Polynésie française, les établissements de paiement, les établissements de monnaie électronique et les organismes
-mentionnés au 5 de l'article L. 511-6 du même code déclarent à la Banque de France les incidents de paiement liés aux crédits
-accordés aux personnes physiques pour des besoins non professionnels. Ces déclarations sont portées, dès leur réception, sur
-le fichier national des incidents de remboursement des crédits aux particuliers prévu à l'article L. 333-4. Elles sont mises
-à la disposition de l'ensemble des établissements et des organismes ayant accès au fichier. 
+I. ― En Polynésie française, les établissements de crédit mentionnés au titre Ier du livre V du code monétaire et financier,
+les établissements de paiement, les établissements de monnaie électronique et les organismes mentionnés au 5 de l'article L.
+511-6 du même code déclarent à la Banque de France les incidents de paiement liés aux crédits accordés aux personnes
+physiques pour des besoins non professionnels. Ces déclarations sont portées, dès leur réception, sur le fichier national des
+incidents de remboursement des crédits aux particuliers prévu à l'article L. 333-4. Elles sont mises à la disposition de
+l'ensemble des établissements et des organismes ayant accès au fichier. 
 
 Les frais afférents à ces déclarations ne peuvent être facturés aux personnes physiques concernées. La Banque de France est
 seule habilitée à centraliser ces incidents de paiement. Les informations relatives à ces incidents sont radiées
@@ -21669,10 +21670,6 @@ IV. ― L'article L. 333-5 est applicable en Polynésie française.
 	**Cité par**:
 
 	  - Arrêté du 26 octobre 2010 - art. 17 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2013-792 du 30 août 2013 - art. 12 (V)
 
 
 ##### Section 4 : Dispositions applicables aux îles Wallis et Futuna
