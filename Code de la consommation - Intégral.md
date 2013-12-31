@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-01-01 00:00:01 +0100
 
 # Partie législative
 
@@ -19848,6 +19848,7 @@ au 4° de l'article L. 331-7 ou recommander les mesures prévues aux articles L.
 	  - Code de la consommation - art. L331-3-1 (VD)
 	  - Code de la consommation - art. L331-3-2 (VT)
 	  - Code de la consommation - art. L331-5 (V)
+	  - Code de la consommation - art. L333-2-1 (VT)
 	  - Code de la consommation - art. L333-4 (VT)
 	  - Code de la consommation - art. L333-7 (VT)
 	  - Code de la consommation - art. R*331-10-2 (T)
@@ -19860,14 +19861,24 @@ au 4° de l'article L. 331-7 ou recommander les mesures prévues aux articles L.
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 68 (V)
-	  - Loi n°2014-344 du 17 mars 2014 - art. 43 (M)
+	  - Loi n°2014-344 du 17 mars 2014 - art. 43 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
 	  - Code de la consommation - art. L331-7
 	  - Code de la consommation - art. L331-7-1
 	  - Code de la consommation - art. L333-1-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L732-1 (V)
+	  - Code de la consommation - art. L732-2 (V)
+	  - Code de la consommation - art. L732-3 (V)
+	  - Code de la consommation - art. L732-4 (V)
 
 
 ###### Article L331-7
@@ -19940,6 +19951,7 @@ exécutoire qu'à compter de l'homologation de ces dernières par le juge.
 	  - Code de la consommation - art. L331-5 (V)
 	  - Code de la consommation - art. L331-6 (VT)
 	  - Code de la consommation - art. L331-7-1 (VT)
+	  - Code de la consommation - art. L331-7-2 (VT)
 	  - Code de la consommation - art. L331-8 (V)
 	  - Code de la consommation - art. L331-9 (VT)
 	  - Code de la consommation - art. L332-1 (M)
@@ -19973,8 +19985,21 @@ exécutoire qu'à compter de l'homologation de ces dernières par le juge.
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 68 (V)
-	  - Loi n°2014-344 du 17 mars 2014 - art. 43 (M)
+	  - Loi n°2014-344 du 17 mars 2014 - art. 43 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L721-5 (M)
+	  - Code de la consommation - art. L733-1 (V)
+	  - Code de la consommation - art. L733-2 (V)
+	  - Code de la consommation - art. L733-3 (V)
+	  - Code de la consommation - art. L733-4 (V)
+	  - Code de la consommation - art. L733-5 (V)
+	  - Code de la consommation - art. L733-6 (V)
 
 
 ###### Article L331-7-1
