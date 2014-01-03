@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-01-01 00:00:01 +0100
+Version Consolidée au 2014-01-04
 
 # Partie législative
 
@@ -19003,21 +19003,30 @@ que ce soit et de quelque manière que ce soit, directement ou indirectement, à
 par un particulier, à l'exception des opérations de crédit mentionnées à l'article L. 311-2, doit comporter, de manière
 apparente, la mention suivante : 
 
-" Aucun versement, de quelque nature que ce soit, ne peut être exigé d'un particulier, avant l'obtention d'un ou plusieurs
-prêts d'argent. " 
+"Aucun versement, de quelque nature que ce soit, ne peut être exigé d'un particulier, avant l'obtention d'un ou plusieurs
+prêts d'argent." 
 
-Cette publicité doit indiquer le nom et l'adresse du ou des établissements de crédit ou du ou des sociétés de financement
-desquels l'intermédiaire exerce son activité.
+Cette publicité doit indiquer le nom et l'adresse de l'établissement de crédit, des établissements de crédit, de la société
+de financement ou des sociétés de financement pour le compte duquel, desquels, de laquelle ou desquelles l'intermédiaire
+exerce son activité.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 6
+	  - Loi n°2014-1 du 2 janvier 2014 - art. 18 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L322-2 (V)
 
 	**Cité par**:
 
-	  - Code de la consommation - art. L322-3 (VD)
+	  - Code de la consommation - art. L322-3 (VT)
 
 
 ###### Article L321-3
