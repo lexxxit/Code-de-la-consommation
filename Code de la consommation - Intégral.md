@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-03-19
+Version Consolidée au 2014-03-19 00:00:01 +0100
 
 # Partie législative
 
@@ -7413,14 +7413,18 @@ première nécessité" de l'électricité ou du tarif spécial de solidarité du
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 22
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
 	  - Décret n°2016-555 du 6 mai 2016 - art. 1
 	  - Code de l'énergie - art. R124-16 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-13 (VT)
 
 
 ###### Article L121-93
@@ -16406,11 +16410,12 @@ La capitalisation des intérêts est soumise aux dispositions de l'article 1154 
 	  - Code de la consommation - art. L311-26 (VT)
 	  - Code de la consommation - art. L311-4 (VT)
 	  - Code de la consommation - art. L311-48 (VT)
+	  - Code de la consommation - art. L311-49 (VT)
 	  - Code de la consommation - art. R311-5 (Ab)
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 45 (V)
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
@@ -16418,6 +16423,24 @@ La capitalisation des intérêts est soumise aux dispositions de l'article 1154 
 	  - Code de la consommation - art. L333-4
 	  - Code de la consommation - art. L333-5
 	  - Code civil - art. 1154
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L312-57 (V)
+	  - Code de la consommation - art. L312-58 (V)
+	  - Code de la consommation - art. L312-64 (V)
+	  - Code de la consommation - art. L312-65 (V)
+	  - Code de la consommation - art. L312-67 (V)
+	  - Code de la consommation - art. L312-74 (VT)
+	  - Code de la consommation - art. L312-75 (V)
+	  - Code de la consommation - art. L312-76 (V)
+	  - Code de la consommation - art. L312-77 (V)
+	  - Code de la consommation - art. L312-78 (M)
+	  - Code de la consommation - art. L312-79 (V)
+	  - Code de la consommation - art. L312-80 (V)
+	  - Code de la consommation - art. L312-81 (M)
+	  - Code de la consommation - art. L312-82 (V)
+	  - Code de la consommation - art. L312-83 (V)
 
 
 ###### Article L311-17
