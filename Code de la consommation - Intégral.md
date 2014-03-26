@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-03-19 00:00:01 +0100
+Version Consolidée au 2014-03-27
 
 # Partie législative
 
@@ -22223,14 +22223,16 @@ de prévoyance sociale ainsi que des services chargés de centraliser les risque
 tout renseignement de nature à lui donner une exacte information sur la situation du débiteur, l'évolution possible de celle-
 ci et les procédures de conciliation amiables en cours. 
 
-Les collectivités territoriales et les organismes de sécurité sociale procèdent, à sa demande, à des enquêtes sociales.
+Les collectivités territoriales et les organismes de sécurité sociale procèdent, à sa demande, à des enquêtes sociales. 
 
 A tout moment de la procédure, si la situation du débiteur l'exige, la commission l'invite à solliciter une mesure d'aide ou
 d'action sociale qui peut comprendre un programme d'éducation budgétaire, et notamment une mesure d'accompagnement social
 personnalisé, dans les conditions prévues par le livre II du code de l'action sociale et des familles. Dans chaque
-département, le conseil général et la caisse d'allocations familiales désignent, chacun pour ce qui le concerne, un
-correspondant en vue de favoriser la coordination de leurs actions avec celles de la commission et notamment de faciliter la
-mise en place des mesures d'accompagnement social ou budgétaire prévues au présent titre. 
+département, la commission de coordination des actions de prévention des expulsions locatives prévue à l'article 7-2 de la
+loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement, le conseil général et la caisse d'allocations
+familiales désignent, chacun pour ce qui le concerne, un correspondant en vue de favoriser la coordination de leurs actions
+avec celles de la commission et notamment de faciliter la mise en place des mesures d'accompagnement social ou budgétaire
+prévues au présent titre. 
 
 Lorsque le débiteur a déjà bénéficié d'une mesure de rétablissement personnel prévue aux 1° et 2° de l'article L. 330-1 et
 qu'il saisit de nouveau la commission, celle-ci peut, si elle estime que la situation du débiteur est de nouveau
@@ -22265,7 +22267,7 @@ du tribunal d'instance.
 	  - Décret n°2015-1384 du 30 octobre 2015 - art. 10 (V)
 	  - Code de la consommation - art. L331-5 (VT)
 	  - Code de la consommation - art. L332-5 (VD)
-	  - Code de la consommation - art. L333-2-1 (VD)
+	  - Code de la consommation - art. L333-2-1 (VT)
 	  - Code de la consommation - art. L333-4 (VT)
 	  - Code de la consommation - art. L334-5 (VT)
 	  - Code de la consommation - art. L334-9 (VT)
@@ -22283,17 +22285,40 @@ du tribunal d'instance.
 	  - Code de procédure civile - art. 703 (Ab)
 	  - Livre des procédures fiscales - art. L139 A (M)
 
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 68 (V)
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 70
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 71
-
 	**Cite**:
 
+	  - Loi n°90-449 du 31 mai 1990 - art. 7-2
 	  - Code de la consommation - art. L330-1
 	  - Code de la consommation - art. L331-6
 	  - Code monétaire et financier - art. L511-6
+
+	**Modifié par**:
+
+	  - Loi n°2014-366 du 24 mars 2014 - art. 27 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L712-6 (V)
+	  - Code de la consommation - art. L712-7 (V)
+	  - Code de la consommation - art. L712-8 (V)
+	  - Code de la consommation - art. L712-9 (V)
+	  - Code de la consommation - art. L721-1 (V)
+	  - Code de la consommation - art. L721-2 (V)
+	  - Code de la consommation - art. L722-12 (V)
+	  - Code de la consommation - art. L723-1 (V)
+	  - Code de la consommation - art. L733-9 (V)
+	  - Code de la consommation - art. L742-1 (V)
+	  - Code de la consommation - art. R712-10 (V)
+	  - Code de la consommation - art. R712-15 (V)
+	  - Code de la consommation - art. R712-17 (V)
+	  - Code de la consommation - art. R712-20 (V)
+	  - Code de la consommation - art. R722-2 (V)
+	  - Code de la consommation - art. R723-3 (V)
+	  - Code de la consommation - art. R723-4 (V)
 
 
 ###### Article L331-3-1
@@ -23312,21 +23337,17 @@ juge du tribunal d'instance confère force exécutoire à la recommandation, apr
 fondé. 
 
 Le rétablissement personnel sans liquidation judiciaire rendu exécutoire par le juge du tribunal d'instance entraîne
-l'effacement de toutes les dettes non professionnelles du débiteur à l'exception des dettes visées à l'article L. 333-1, de
-celles mentionnées à l'article L. 333-1-2 et des dettes dont le prix a été payé au lieu et place du débiteur par la caution
-ou le coobligé, personnes physiques. Le rétablissement personnel sans liquidation judiciaire entraîne aussi l'effacement de
-la dette résultant de l'engagement que le débiteur a donné de cautionner ou d'acquitter solidairement la dette d'un
-entrepreneur individuel ou d'une société. 
+l'effacement de toutes les dettes non professionnelles du débiteur, arrêtées à la date de l'ordonnance conférant force
+exécutoire à la recommandation, à l'exception des dettes visées à l'article L. 333-1, de celles mentionnées à l'article L.
+333-1-2 et des dettes dont le prix a été payé au lieu et place du débiteur par la caution ou le coobligé, personnes
+physiques. Le rétablissement personnel sans liquidation judiciaire entraîne aussi l'effacement de la dette résultant de
+l'engagement que le débiteur a donné de cautionner ou d'acquitter solidairement la dette d'un entrepreneur individuel ou
+d'une société. 
 
 Le greffe procède à des mesures de publicité pour permettre aux créanciers qui n'auraient pas été avisés de la recommandation
 de la commission de former tierce opposition à l'encontre de la décision du juge lui conférant force exécutoire. Les créances
 dont les titulaires n'auraient pas formé tierce opposition dans un délai de deux mois à compter de cette publicité sont
 éteintes.
-
-**Nota:**
-
-Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 11 de la présente loi entre en vigueur dans les conditions fixées
-par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
 
 **Liens relatifs à cet article**
 
@@ -23347,7 +23368,7 @@ par un décret nécessaire à son application et au plus tard le 1er septembre 2
 	  - Code de la consommation - art. L332-5-2 (VT)
 	  - Code de la consommation - art. L332-6 (Ab)
 	  - Code de la consommation - art. L332-7 (Ab)
-	  - Code de la consommation - art. L333-1-2 (VD)
+	  - Code de la consommation - art. L333-1-2 (VT)
 	  - Code de la consommation - art. L333-4 (MMN)
 	  - Code de la consommation - art. L333-7 (V)
 	  - Code de la consommation - art. R331-10-3 (Ab)
@@ -23361,11 +23382,23 @@ par un décret nécessaire à son application et au plus tard le 1er septembre 2
 
 	**Modifié par**:
 
-	  - Loi n°2010-1609 du 22 décembre 2010 - art. 11 (V)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 27 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
 	  - Code de la consommation - art. L333-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L741-1 (V)
+	  - Code de la consommation - art. L741-2 (V)
+	  - Code de la consommation - art. L741-3 (V)
+	  - Code de la consommation - art. L741-4 (V)
+	  - Code de la consommation - art. R741-2 (V)
 
 
 ###### Article L332-5-1
@@ -23383,23 +23416,23 @@ S'il constate que le débiteur se trouve dans la situation visée au 1° de l'ar
 rétablissement personnel sans liquidation judiciaire qui emporte les mêmes effets que ceux visés à l'article L. 332-5. Le
 greffe procède à des mesures de publicité pour permettre aux créanciers qui n'auraient pas été avisés de former tierce
 opposition à l'encontre de ce jugement. Les créances dont les titulaires n'auraient pas formé tierce opposition dans un délai
-de deux mois à compter de cette publicité sont éteintes.
+de deux mois à compter de cette publicité sont éteintes. Cependant, dans ce cas, les dettes sont arrêtées à la date du
+jugement prononçant le rétablissement personnel sans liquidation judiciaire.
 
 S'il constate que le débiteur se trouve dans la situation visée au 2° de l'article L. 330-1, le juge ouvre, avec l'accord du
 débiteur, une procédure de rétablissement personnel avec liquidation judiciaire.
 
 S'il constate que la situation du débiteur n'est pas irrémédiablement compromise, il renvoie le dossier à la commission.
 
-**Nota:**
-
-Loi n° 2010-1609 du 22 décembre 2010 article 43 : l'article 11 de la présente loi entre en vigueur dans les conditions fixées
-par un décret nécessaire à son application et au plus tard le 1er septembre 2011.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-1609 du 22 décembre 2010 - art. 11 (V)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 27 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
@@ -23409,17 +23442,27 @@ par un décret nécessaire à son application et au plus tard le 1er septembre 2
 
 	**Cité par**:
 
+	  - Code de la consommation - art. L333-1-2 (VT)
 	  - Code de la consommation - art. L333-4 (MMN)
 	  - Code de la consommation - art. R334-19 (Ab)
 	  - Code de la consommation - art. R334-22 (Ab)
 	  - Code de la consommation - art. R334-24 (Ab)
 	  - Code de la consommation - art. R334-29 (Ab)
 
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L741-5 (V)
+	  - Code de la consommation - art. L741-6 (V)
+	  - Code de la consommation - art. L741-7 (V)
+	  - Code de la consommation - art. R741-1 (V)
+	  - Code de la consommation - art. R741-14 (V)
+
 
 ###### Article L332-5-2
 
 Lorsque le juge d'instance statue en application de l'avant-dernier alinéa de l'article L. 330-1, le rétablissement personnel
-sans liquidation judiciaire emporte les mêmes effets que ceux mentionnés à l'article L. 332-5. 
+sans liquidation judiciaire emporte les mêmes effets que ceux mentionnés à l'article L. 332-5. Cependant, dans ce cas, les
+dettes sont arrêtées à la date du jugement prononçant le rétablissement personnel sans liquidation judiciaire.
 
 Le greffe procède à des mesures de publicité pour permettre aux créanciers qui n'ont pas été avisés du recours de former
 tierce opposition à l'encontre de ce jugement. Les créances dont les titulaires n'ont pas formé tierce opposition dans un
@@ -23433,15 +23476,26 @@ la situation du débiteur et l'évolution possible de celle-ci.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 68 (V)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 27 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L330-1
+	  - Code de la consommation - art. L330-1 (VT)
 	  - Code de la consommation - art. L331-2
 	  - Code de la consommation - art. L332-5
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L741-10 (VT)
+	  - Code de la consommation - art. L741-8 (V)
+	  - Code de la consommation - art. L741-9 (V)
+	  - Code de la consommation - art. R741-18 (V)
 
 	**Cité par**:
 
@@ -23516,7 +23570,7 @@ par un décret nécessaire à son application et au plus tard le 1er septembre 2
 S'il constate lors de l'audience d'ouverture de la procédure de rétablissement personnel avec liquidation judiciaire que le
 débiteur se trouve manifestement dans la situation définie à la seconde phrase du premier alinéa de l'article L. 332-9, le
 juge peut ouvrir et clôturer la procédure de rétablissement personnel avec liquidation judiciaire pour insuffisance d'actif
-par un même jugement. 
+par un même jugement. Le jugement emporte les mêmes effets que ceux mentionnés au deuxième alinéa de l'article L. 332-9.
 
 Le greffe procède à des mesures de publicité pour permettre aux créanciers qui n'auraient pas été convoqués à l'audience
 d'ouverture de former tierce opposition à l'encontre du jugement ; les créances dont les titulaires n'auraient pas formé
@@ -23527,16 +23581,25 @@ tierce opposition dans un délai de deux mois à compter de cette publicité son
 	**Cité par**:
 
 	  - Arrêté du 27 mars 2008 (Ab)
-	  - Code de la consommation - art. L333-1-2 (VD)
+	  - Code de la consommation - art. L333-1-2 (VT)
 	  - Code de la consommation - art. R334-72 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 45
+	  - Loi n°2014-366 du 24 mars 2014 - art. 27 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
 	  - Code de la consommation - art. L332-9
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L742-20 (V)
+	  - Code de la consommation - art. R742-54 (V)
 
 
 ###### Article L332-7
@@ -23648,10 +23711,10 @@ professionnelle, ou lorsque l'actif n'est constitué que de biens dépourvus de 
 seraient manifestement disproportionnés au regard de leur valeur vénale, le juge prononce la clôture pour insuffisance
 d'actif.
 
-La clôture entraîne l'effacement de toutes les dettes non professionnelles du débiteur, à l'exception de celles dont le prix
-a été payé au lieu et place du débiteur par la caution ou le coobligé, personnes physiques. La clôture entraîne aussi
-l'effacement de la dette résultant de l'engagement que le débiteur a donné de cautionner ou d'acquitter solidairement la
-dette d'un entrepreneur individuel ou d'une société. 
+La clôture entraîne l'effacement de toutes les dettes non professionnelles du débiteur, arrêtées à la date du jugement
+d'ouverture, à l'exception de celles dont le prix a été payé au lieu et place du débiteur par la caution ou le coobligé,
+personnes physiques. La clôture entraîne aussi l'effacement de la dette résultant de l'engagement que le débiteur a donné de
+cautionner ou d'acquitter solidairement la dette d'un entrepreneur individuel ou d'une société. 
 
 Si la situation du débiteur l'exige, le juge l'invite à solliciter une mesure d'aide ou d'action sociale qui peut comprendre
 un programme d'éducation budgétaire, notamment une mesure d'accompagnement social personnalisé, dans les conditions prévues
@@ -23661,15 +23724,25 @@ par le livre II du code de l'action sociale et des familles.
 
 	**Modifié par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 45
+	  - Loi n°2014-366 du 24 mars 2014 - art. 27 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L332-11 (VT)
 	  - Code de la consommation - art. L332-6-1 (VT)
-	  - Code de la consommation - art. L333-1-2 (VD)
+	  - Code de la consommation - art. L333-1-2 (VT)
 	  - Code de la consommation - art. L333-4 (VT)
 	  - Code de la consommation - art. L334-5 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L742-21 (V)
+	  - Code de la consommation - art. L742-22 (V)
+	  - Code de la consommation - art. L742-23 (V)
 
 
 ###### Article L332-10
