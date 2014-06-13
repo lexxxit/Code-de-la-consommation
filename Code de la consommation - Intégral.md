@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-06-14
 
 # Partie législative
 
@@ -25,17 +25,35 @@ dans le cadre de son activité commerciale, industrielle, artisanale ou libéral
 
 #### Chapitre Ier : Obligation générale d'information
 
+#### Chapitre Ier : Obligation générale d'information précontractuelle
+
 ###### Article L111-1
 
-I. - Tout professionnel vendeur de biens doit, avant la conclusion du contrat, mettre le consommateur en mesure de connaître
-les caractéristiques essentielles du bien.
+Avant que le consommateur ne soit lié par un contrat de vente de biens ou de fourniture de services, le professionnel
+communique au consommateur, de manière lisible et compréhensible, les informations suivantes : 
 
-II. - Le fabricant ou l'importateur de biens meubles doit informer le vendeur professionnel de la période pendant laquelle
-les pièces indispensables à l'utilisation des biens seront disponibles sur le marché. Cette information est obligatoirement
-délivrée au consommateur par le vendeur, avant la conclusion du contrat.
+1° Les caractéristiques essentielles du bien ou du service, compte tenu du support de communication utilisé et du bien ou
+service concerné ; 
 
-III. - En cas de litige portant sur l'application des I et II, il appartient au vendeur de prouver qu'il a exécuté ses
-obligations.
+2° Le prix du bien ou du service, en application des articles L. 113-3 et L. 113-3-1 ; 
+
+3° En l'absence d'exécution immédiate du contrat, la date ou le délai auquel le professionnel s'engage à livrer le bien ou à
+exécuter le service ; 
+
+4° Les informations relatives à son identité, à ses coordonnées postales, téléphoniques et électroniques et à ses activités,
+pour autant qu'elles ne ressortent pas du contexte, ainsi que, s'il y a lieu, celles relatives aux garanties légales, aux
+fonctionnalités du contenu numérique et, le cas échéant, à son interopérabilité, à l'existence et aux modalités de mise en
+œuvre des garanties et aux autres conditions contractuelles. La liste et le contenu précis de ces informations sont fixés par
+décret en Conseil d'Etat. 
+
+Le présent article s'applique également aux contrats portant sur la fourniture d'eau, de gaz ou d'électricité, lorsqu'ils ne
+sont pas conditionnés dans un volume délimité ou en quantité déterminée, ainsi que de chauffage urbain et de contenu
+numérique non fourni sur un support matériel. Ces contrats font également référence à la nécessité d'une consommation sobre
+et respectueuse de la préservation de l'environnement.
+
+**Nota:**
+
+Loi n° 2014-344 du 17 mars 2014 art. 34 : Ces dispositions s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
@@ -54,13 +72,14 @@ obligations.
 
 	**Modifié par**:
 
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 35
+	  - Loi n°2014-344 du 17 mars 2014 - art. 6 (V)
 
 	**Cité par**:
 
 	  - Décret n°2014-1061 du 17 septembre 2014 (V)
 	  - Code de la consommation - art. L111-2 (VT)
 	  - Code de la consommation - art. L111-3 (V)
+	  - Code de la consommation - art. L111-4 (VT)
 	  - Code de la consommation - art. L111-6 (VT)
 	  - Code de la consommation - art. L121-17 (VT)
 	  - Code de la consommation - art. L121-18 (V)
@@ -71,95 +90,87 @@ obligations.
 	  - Code de la propriété intellectuelle - art. L336-4 (V)
 	  - Code des postes et des communications électroni... - art. D98-12 (V)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L111-1 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L113-3
+
 
 ###### Article L111-2
 
-I. - Tout professionnel prestataire de services doit avant la conclusion du contrat et, en tout état de cause, lorsqu'il n'y
-pas de contrat écrit, avant l'exécution de la prestation de services, mettre le consommateur en mesure de connaître les
-caractéristiques essentielles du service.
+I.-Outre les mentions prévues à l'article L. 111-1, tout professionnel, avant la conclusion d'un contrat de fourniture de
+services et, lorsqu'il n'y a pas de contrat écrit, avant l'exécution de la prestation de services, met à la disposition du
+consommateur ou lui communique, de manière lisible et compréhensible, les informations complémentaires relatives à ses
+coordonnées, à son activité de prestation de services et aux autres conditions contractuelles, dont la liste et le contenu
+sont fixés par décret en Conseil d'Etat. Ce décret précise celles des informations complémentaires qui ne sont communiquées
+qu'à la demande du consommateur. 
 
-II. - Le professionnel prestataire de services doit mettre à la disposition du consommateur ou lui communiquer, de manière
-claire et non ambiguë, les informations suivantes :
+II.-Le I du présent article ne s'applique ni aux services mentionnés aux livres Ier à III et au titre V du livre V du code
+monétaire et financier, ni aux opérations pratiquées par les entreprises régies par le code des assurances, par les mutuelles
+et unions régies par le livre II du code de la mutualité et par les institutions de prévoyance et unions régies par le titre
+III du livre IX du code de la sécurité sociale.
 
-- nom, statut et forme juridique, adresse géographique de l'établissement, coordonnées permettant d'entrer en contact
-rapidement et de communiquer directement avec lui ;
+**Nota:**
 
-- le cas échéant, le numéro d'inscription au registre du commerce et des sociétés ou au répertoire des métiers ;
-
-- si son activité est soumise à un régime d'autorisation, le nom et l'adresse de l'autorité l'ayant délivrée ;
-
-- s'il est assujetti à la taxe sur la valeur ajoutée et identifié par un numéro individuel en application de l'article 286
-ter du code général des impôts, son numéro individuel d'identification ;
-
-- s'il est membre d'une profession réglementée, son titre professionnel, l'Etat membre dans lequel il a été octroyé ainsi que
-le nom de l'ordre ou de l'organisme professionnel auprès duquel il est inscrit ;
-
-- les conditions générales, s'il en utilise ;
-
-- le cas échéant, les clauses contractuelles relatives à la législation applicable et la juridiction compétente ;
-
-- le cas échéant, l'existence d'une garantie après-vente non imposée par la loi ;
-
-- l'éventuelle garantie financière ou assurance de responsabilité professionnelle souscrite par lui, les coordonnées de
-l'assureur ou du garant ainsi que la couverture géographique du contrat ou de l'engagement.
-
-Tout professionnel prestataire de services doit également communiquer au consommateur qui en fait la demande les informations
-complémentaires suivantes :
-
-- en ce qui concerne les professions réglementées, une référence aux règles professionnelles applicables dans l'Etat membre
-de l'Union européenne sur le territoire duquel ce professionnel est établi et aux moyens d'y avoir accès ;
-
-- des informations sur leurs activités pluridisciplinaires et leurs partenariats qui sont directement liés au service
-concerné et sur les mesures prises pour éviter les conflits d'intérêts. Ces informations figurent dans tout document
-d'information dans lequel le prestataire présente de manière détaillée ses services ;
-
-- les éventuels codes de conduite auxquels il est soumis, l'adresse électronique à laquelle ces codes peuvent être consultés
-ainsi que les versions linguistiques disponibles ;
-
-- les informations sur les conditions de recours à des moyens extrajudiciaires de règlement des litiges, lorsque ces moyens
-sont prévus par un code de conduite, un organisme professionnel ou toute autre instance.
-
-III. - Au sens du II, un régime d'autorisation s'entend de toute procédure qui a pour effet d'obliger un prestataire ou un
-destinataire à faire une démarche auprès d'une autorité compétente en vue d'obtenir un acte formel ou une décision implicite
-relative à l'accès à une activité de services ou à son exercice.
-
-IV. - Le II du présent article ne s'applique pas aux services mentionnés aux livres Ier à III et au titre V du livre V du
-code monétaire et financier ainsi qu'aux opérations pratiquées par les entreprises régies par le code des assurances, par les
-mutuelles et unions régies par le livre II du code de la mutualité et par les institutions de prévoyance et unions régies par
-le titre III du livre IX du code de la sécurité sociale.
-
-V. - En cas de litige sur l'application des I et II du présent article, il appartient au prestataire de prouver qu'il a
-exécuté ses obligations.
+Loi n° 2014-344 du 17 mars 2014 art. 34 : Ces dispositions s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 35
+	  - Loi n°2014-344 du 17 mars 2014 - art. 6 (V)
 
 	**Cité par**:
 
 	  - Décret n°2014-1061 du 17 septembre 2014 (V)
 	  - Arrêté du 17 mars 2015 (V)
-	  - Code de commerce - art. L321-3 (V)
+	  - Code de commerce - art. L321-3 (VD)
 	  - Code de commerce - art. L441-6 (V)
 	  - Code de la consommation - art. R111-2 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 286 ter
+	  - Code de la consommation - art. L111-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L111-2 (V)
+	  - Code de la consommation - art. L111-3 (M)
 
 
 ###### Article L111-3
 
-Les articles L. 111-1 et L. 111-2 s'appliquent sans préjudice des dispositions plus favorables aux consommateurs qui
-soumettent certaines activités à des règles particulières en matière d'information du consommateur.
+Le fabricant ou l'importateur de biens meubles informe le vendeur professionnel de la période pendant laquelle ou de la date
+jusqu'à laquelle les pièces détachées indispensables à l'utilisation des biens sont disponibles sur le marché. Cette
+information est délivrée obligatoirement au consommateur par le vendeur de manière lisible avant la conclusion du contrat et
+confirmée par écrit lors de l'achat du bien. 
+
+Dès lors qu'il a indiqué la période ou la date mentionnées au premier alinéa, le fabricant ou l'importateur fournit
+obligatoirement, dans un délai de deux mois, aux vendeurs professionnels ou aux réparateurs, agréés ou non, qui le demandent
+les pièces détachées indispensables à l'utilisation des biens vendus. 
+
+Un décret précise les modalités et conditions d'application du présent article.
+
+**Nota:**
+
+Loi n° 2014-344 du 17 mars 2014 art. 34 : Ces dispositions s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 35
+	  - Loi n°2014-344 du 17 mars 2014 - art. 6 (V)
 
 	**Cité par**:
 
@@ -167,9 +178,45 @@ soumettent certaines activités à des règles particulières en matière d'info
 	  - Code de la consommation - art. R111-3 (Ab)
 	  - Code de la consommation - art. R111-4 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L111-4 (V)
+
+
+###### Article L111-4
+
+I.-En cas de litige relatif à l'application des articles L. 111-1 à L. 111-3, il appartient au professionnel de prouver qu'il
+a exécuté ses obligations. 
+
+II.-Les articles L. 111-1 et L. 111-2 s'appliquent sans préjudice des dispositions particulières en matière d'information des
+consommateurs propres à certaines activités.
+
+**Nota:**
+
+Loi n° 2014-344 du 17 mars 2014 art. 34 : Ces dispositions s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
 	**Cite**:
 
-	  - Code de la consommation - art. L111-1
+	  - Code de la consommation - art. L111-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L111-3 (M)
+	  - Code de la consommation - art. L111-5 (V)
 
 
 ###### Article L111-5
@@ -203,6 +250,57 @@ loi, dont les modalités et le contenu sont fixés par décret.
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L111-6 (VT)
+
+
+###### Article L111-6
+
+Tout manquement aux articles L. 111-1 à L. 111-3 et à l'article L. 111-5 est passible d'une amende administrative dont le
+montant ne peut excéder 3 000 € pour une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans
+les conditions prévues à l'article L. 141-1-2.
+
+**Nota:**
+
+Loi n° 2014-344 du 17 mars 2014 art. 34 : Ces dispositions s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 6 (V)
+
+	**Cité par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 50 (V)
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 6
+
+	**Cite**:
+
+	  - Code de la consommation - art. L111-1 (V)
+	  - Code de la consommation - art. L111-5 (V)
+	  - Code de la consommation - art. L141-1-2 (V)
+
+
+###### Article L111-7
+
+Les dispositions du présent chapitre sont d'ordre public.
+
+**Nota:**
+
+Loi n° 2014-344 du 17 mars 2014 art. 34 : Ces dispositions s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L111-8 (V)
 
 
 #### Chapitre II : Modes de présentation et inscriptions
@@ -544,17 +642,59 @@ utiliser.
 ###### Article L112-11
 
 Sans préjudice des dispositions spécifiques relatives au mode d'indication de l'origine des denrées alimentaires,
-l'indication du pays d'origine peut être rendue obligatoire pour les produits agricoles et alimentaires et les produits de la
-mer, à l'état brut ou transformé.
+l'indication du pays d'origine est obligatoire pour les produits agricoles et alimentaires et les produits de la mer, à
+l'état brut ou transformé.
 
 La liste des produits concernés et les modalités d'application de l'indication de l'origine mentionnée au premier alinéa sont
-fixées par décret en Conseil d'Etat.
+fixées par décret en Conseil d'Etat après que la Commission européenne a déclaré compatible avec le droit de l'Union
+européenne l'obligation prévue au présent article.
+
+**Nota:**
+
+Loi n° 2014-344 du 17 mars 2014 art. 34 : Ces dispositions s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L412-4 (V)
+
+
+###### Article L112-12
+
+Sans préjudice des dispositions spécifiques à l'indication de l'origine des denrées alimentaires, l'indication du pays
+d'origine est obligatoire pour toutes les viandes et pour tous les produits agricoles et alimentaires à base de viande ou
+contenant en tant qu'ingrédient de la viande, à l'état brut ou transformé. 
+
+Les modalités d'application de l'indication de l'origine mentionnée au premier alinéa sont fixées par décret en Conseil
+d'Etat après que la Commission européenne a déclaré compatible avec le droit de l'Union européenne l'obligation prévue au
+présent article.
+
+**Nota:**
+
+Loi n° 2014-344 du 17 mars 2014 art. 34 : Ces dispositions s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2010-874 du 27 juillet 2010 - art. 3
+	  - Loi n°2014-344 du 17 mars 2014 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L412-5 (M)
 
 
 #### Chapitre III : Prix et conditions de vente
@@ -652,9 +792,9 @@ de service public."
 ###### Article L113-3
 
 Tout vendeur de produit ou tout prestataire de services doit, par voie de marquage, d'étiquetage, d'affichage ou par tout
-autre procédé approprié, informer le consommateur sur les prix, les limitations éventuelles de la responsabilité
-contractuelle et les conditions particulières de la vente, selon des modalités fixées par arrêtés du ministre chargé de
-l'économie, après consultation du Conseil national de la consommation. 
+autre procédé approprié, informer le consommateur sur les prix et les conditions particulières de la vente et de l'exécution
+des services, selon des modalités fixées par arrêtés du ministre chargé de l'économie, après consultation du Conseil national
+de la consommation. 
 
 Dans les collectivités relevant de l'article 73 de la Constitution et dans les collectivités d'outre-mer de Saint-Barthélemy,
 de Saint-Martin, de Saint-Pierre-et-Miquelon et de Wallis-et-Futuna, en cas de situation conjoncturelle où le prix de cession
@@ -668,10 +808,14 @@ Le premier alinéa du présent article s'applique à toutes les activités visé
 également applicable aux manquements au règlement (CE) n° 1008/2008 du Parlement européen et du Conseil, du 24 septembre
 2008, établissant des règles communes pour l'exploitation de services aériens dans la Communauté. 
 
-Les règles relatives à l'obligation de renseignements par    les établissements de crédit, les sociétés de financement, les
+Les règles relatives à l'obligation de renseignements par les établissements de crédit, les sociétés de financement, les
 établissements de monnaie électronique, les établissements de paiement et les organismes mentionnés à l'article L. 518-1 du
 code monétaire et financier sont fixées par l'article L. 312-1-1 et les sections 3 et 4 du chapitre IV du titre Ier du livre
 III du même code.
+
+**Nota:**
+
+Loi n° 2014-344 du 17 mars 2014 art. 34 : Ces dispositions s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
@@ -755,7 +899,77 @@ III du même code.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 6
+	  - Loi n°2014-344 du 17 mars 2014 - art. 6 (V)
+
+
+###### Article L113-3-1
+
+I. - Lorsque le prix ne peut être raisonnablement calculé à l'avance du fait de la nature du bien ou du service, le
+professionnel fournit le mode de calcul du prix et, s'il y a lieu, tous les frais supplémentaires de transport, de livraison
+ou d'affranchissement et tous les autres frais éventuels. Lorsque les frais supplémentaires ne peuvent raisonnablement être
+calculés à l'avance, le professionnel mentionne qu'ils peuvent être exigibles. 
+
+II. - Dans le cas d'un contrat à durée indéterminée ou d'un contrat assorti d'un abonnement, le prix total inclut le total
+des frais exposés pour chaque période de facturation. Lorsque de tels contrats sont facturés à un tarif fixe, le prix total
+inclut également le total des coûts mensuels. Lorsque le coût total ne peut être raisonnablement calculé à l'avance, le mode
+de calcul du prix est communiqué.
+
+**Nota:**
+
+Loi n° 2014-344 du 17 mars 2014 art. 34 : Ces dispositions s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L112-3 (V)
+	  - Code de la consommation - art. L112-4 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L113-3-2 (VT)
+	  - Code de la consommation - art. L121-17 (VT)
+	  - Code des transports - art. L3122-2 (Ab)
+
+
+###### Article L113-3-2
+
+Tout manquement à l'article L. 113-3 et aux arrêtés pris pour son application et à l'article L. 113-3-1 est passible d'une
+amende administrative dont le montant ne peut excéder 3 000 € pour une personne physique et 15 000 € pour une personne
+morale. L'amende est prononcée dans les conditions prévues à l'article L. 141-1-2.
+
+**Nota:**
+
+Loi n° 2014-344 du 17 mars 2014 art. 34 : Ces dispositions s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L113-3
+	  - Code de la consommation - art. L113-3-1
+	  - Code de la consommation - art. L141-1-2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L131-5 (V)
+	  - Code de la consommation - art. L131-6 (V)
 
 
 ###### Article L113-4
@@ -855,49 +1069,171 @@ une personne physique et 15 000 € pour une personne morale. L'amende est prono
 	  - Code de la consommation - art. L132-21 (V)
 
 
-#### Chapitre IV : Information sur les délais de livraison
+###### Article L113-8
+
+Les transporteurs aériens et les personnes physiques ou morales commercialisant des titres de transport aérien remboursent
+les taxes et redevances individualisées et affichées comme telles dans le prix du titre qu'ils ont vendu, dont l'exigibilité
+procède de l'embarquement effectif du passager, lorsque le titre n'est plus valide et n'a pas donné lieu à transport. Ce
+remboursement intervient au plus tard trente jours à compter de la date de réception de la demande, qui peut être déposée par
+tout moyen, notamment en ligne. 
+
+Le remboursement ne peut donner lieu à la facturation de frais excédant 20 % du montant remboursé. Il est gratuit lorsque la
+demande est déposée en ligne. 
+
+Les conditions générales de vente ou de transport précisent la possibilité du remboursement et ses modalités.
+
+**Nota:**
+
+Loi n° 2014-344 du 17 mars 2014 art. 34 : Ces dispositions s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 6 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2015-992 du 17 août 2015 - art. 77
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L113-9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-118 (VT)
+
+
+###### Article L113-9
+
+Tout manquement à l'article L. 113-8 est passible d'une amende administrative dont le montant ne peut excéder 3 000 € pour
+une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues à l'article L.
+141-1-2.
+
+**Nota:**
+
+Loi n° 2014-344 du 17 mars 2014 art. 34 : Ces dispositions s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 77
+
+	**Cite**:
+
+	  - Code de la consommation - art. L113-8
+	  - Code de la consommation - art. L141-1-2
+
+
+#### Chapitre IV :  Paiements supplémentaires
 
 ###### Article L114-1
 
-Dans tout contrat ayant pour objet la vente d'un bien meuble ou la fourniture d'une prestation de services à un consommateur,
-le professionnel doit, lorsque la livraison du bien ou la fourniture de la prestation n'est pas immédiate et si le prix
-convenu excède des seuils fixés par voie réglementaire, indiquer la date limite à laquelle il s'engage à livrer le bien ou à
-exécuter la prestation.
+Préalablement à la conclusion d'un contrat de vente ou de prestation de services, le professionnel s'assure du consentement
+exprès du consommateur pour tout paiement supplémentaire venant s'ajouter au prix de l'objet principal du contrat. Dans
+l'hypothèse où le paiement supplémentaire résulte d'un consentement du consommateur donné par défaut, c'est-à-dire en
+l'absence d'opposition expresse de sa part à des options payantes qu'il n'a pas sollicitées, le consommateur peut prétendre
+au remboursement des sommes versées au titre de ce paiement supplémentaire.
 
-Le consommateur peut dénoncer le contrat de vente d'un bien meuble ou de fourniture d'une prestation de services par lettre
-recommandée avec demande d'avis de réception en cas de dépassement de la date de livraison du bien ou d'exécution de la
-prestation excédant sept jours et non dû à un cas de force majeure.
+Le présent article s'applique aux contrats portant sur la fourniture d'eau, de gaz ou d'électricité lorsqu'ils ne sont pas
+conditionnés dans un volume délimité ou en quantité déterminée ainsi que sur la fourniture de chauffage urbain et de contenu
+numérique non fourni sur un support matériel.
 
-Ce contrat est, le cas échéant, considéré comme rompu à la réception, par le vendeur ou par le prestataire de services, de la
-lettre par laquelle le consommateur l'informe de sa décision, si la livraison n'est pas intervenue ou si la prestation n'a
-pas été exécutée entre l'envoi et la réception de cette lettre. Le consommateur exerce ce droit dans un délai de soixante
-jours ouvrés à compter de la date indiquée pour la livraison du bien ou l'exécution de la prestation.
+**Nota:**
 
-Sauf stipulation contraire du contrat, les sommes versées d'avance sont des arrhes, ce qui a pour effet que chacun des
-contractants peut revenir sur son engagement, le consommateur en perdant les arrhes, le professionnel en les restituant au
-double.
+Loi n° 2014-344 du 17 mars 2014 article 34 : Les présentes dispositions s'appliquent aux contrats conclus après le 13 juin
+2014.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-60 1992-01-18 art. 3-1
 	  - Loi n°92-60 du 18 janvier 1992 - art. 3 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Cité par**:
 
 	  - Arrêté du 28 juin 2000 - art. 5 (V)
+	  - Code de la consommation - art. L114-2 (VT)
 	  - Code de la consommation - art. L121-20-3 (VT)
 	  - Code de la consommation - art. R114-1 (Ab)
 	  - Code de la consommation - art. R132-2 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 18
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-17 (V)
+
+
+###### Article L114-2
+
+Tout manquement à l'article L. 114-1 est passible d'une amende administrative dont le montant ne peut excéder 3 000 € pour
+une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues à l'article L.
+141-1-2.
+
+**Nota:**
+
+Loi n° 2014-344 du 17 mars 2014 article 34 : Les présentes dispositions s'appliquent aux contrats conclus après le 13 juin
+2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 18
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L114-1 (VT)
+	  - Code de la consommation - art. L141-1-2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L132-22 (V)
+
+
+###### Article L114-3
+
+Les dispositions du présent chapitre sont d'ordre public.
+
+**Nota:**
+
+Loi n° 2014-344 du 17 mars 2014 article 34 : Les présentes dispositions s'appliquent aux contrats conclus après le 13 juin
+2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 18
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-18 (V)
 
 
 #### Chapitre V : Valorisation des produits et des services
@@ -3456,14 +3792,42 @@ lisible et intelligible que l'indication de leur prix de vente.
 
 ##### Section 2 : Ventes de biens et fournitures de prestations de services à distance
 
-##### Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers
+##### Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers
+
+##### Section 2 : Contrats conclus à distance et hors établissement
+
+##### Sous-section 1 : Définitions et champ d'application
 
 ###### Article L121-16
 
-Les dispositions de la présente sous-section s'appliquent à toute vente d'un bien ou toute fourniture d'une prestation de
-service conclue, sans la présence physique simultanée des parties, entre un consommateur et un professionnel qui, pour la
-conclusion de ce contrat, utilisent exclusivement une ou plusieurs techniques de communication à distance. Toutefois, elles
-ne s'appliquent pas aux contrats portant sur des services financiers.
+Au sens de la présente section, sont considérés comme : 
+
+1° "Contrat à distance"   tout contrat conclu entre un professionnel et un consommateur, dans le cadre d'un système organisé
+de vente ou de prestation de services à distance, sans la présence physique simultanée du professionnel et du consommateur,
+par le recours exclusif à une ou plusieurs techniques de communication à distance jusqu'à la conclusion du contrat ; 
+
+2° "Contrat hors établissement" tout contrat conclu entre un professionnel et un consommateur : 
+
+a) Dans un lieu qui n'est pas celui où le professionnel exerce son activité en permanence ou de manière habituelle, en la
+présence physique simultanée des parties, y compris à la suite d'une sollicitation ou d'une offre faite par le
+consommateur ; 
+
+b) Ou dans le lieu où le professionnel exerce son activité en permanence ou de manière habituelle ou au moyen d'une technique
+de communication à distance, immédiatement après que le consommateur a été sollicité personnellement et individuellement dans
+un lieu différent de celui où le professionnel exerce en permanence ou de manière habituelle son activité et où les parties
+étaient, physiquement et simultanément, présentes ; 
+
+c) Ou pendant une excursion organisée par le professionnel ayant pour but ou pour effet de promouvoir et de vendre des biens
+ou des services au consommateur ; 
+
+3° "Support durable" tout instrument permettant au consommateur ou au professionnel de stocker des informations qui lui sont
+adressées personnellement afin de pouvoir s'y reporter ultérieurement pendant un laps de temps adapté aux fins auxquelles les
+informations sont destinées et qui permet la reproduction à l'identique des informations stockées.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
@@ -3481,41 +3845,167 @@ ne s'appliquent pas aux contrats portant sur des services financiers.
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Modifié par**:
 
-	  - Loi n°2006-387 2006-03-31 art. 25 III, IV JORF 1 avril 2006 en vigueur le 1er décembre 2005
-	  - Loi n°2006-387 du 31 mars 2006 - art. 25 (V) JORF 1 avril 2006 en vigueur le 1er décembre 2005
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-1 (V)
 
 
-###### Article L121-17
+###### Article L121-16-1
 
-Ne sont pas soumis aux dispositions de la présente section les contrats :
+I.-Sont exclus du champ d'application de la présente section : 
 
-1° Conclus par le moyen de distributeurs automatiques ou pour des prestations fournies dans des locaux commerciaux
-automatisés ;
+1° Les contrats portant sur les services sociaux, y compris le logement social, l'aide à l'enfance et aux familles, à
+l'exception des services à la personne mentionnés à l'article L. 7231-1 du code du travail ; 
 
-2° Conclus avec les opérateurs de télécommunications pour l'utilisation des cabines téléphoniques publiques ;
+2° Les contrats portant sur les services de santé fournis par des professionnels de la santé aux patients pour évaluer,
+maintenir ou rétablir leur état de santé, y compris la prescription, la délivrance et la fourniture de médicaments et de
+dispositifs médicaux ; 
 
-3° Conclus pour la construction et la vente des biens immobiliers ou portant sur d'autres droits relatifs à des biens
-immobiliers, à l'exception de la location ;
+3° Les contrats portant sur les jeux d'argent mentionnés à l'article L. 320-1 du code de la sécurité intérieure, y compris
+les loteries, les jeux de casino et les transactions portant sur des paris ; 
 
-4° Conclus lors d'une vente aux enchères publiques.
+4° Les contrats portant sur les services financiers ; 
+
+5° Les contrats portant sur un forfait touristique, au sens de l'article L. 211-2 du code du tourisme ; 
+
+6° Les contrats portant sur les contrats d'utilisation de biens à temps partagé, les contrats de produits de vacances à long
+terme et les contrats de revente et d'échange mentionnés aux articles L. 121-60 et L. 121-61 du présent code ; 
+
+7° Les contrats rédigés par un officier public ; 
+
+8° Les contrats portant sur la fourniture de denrées alimentaires, de boissons ou d'autres biens ménagers de consommation
+courante, qui sont livrés physiquement par un professionnel lors de tournées fréquentes et régulières au domicile ou au lieu
+de résidence ou de travail du consommateur ; 
+
+9° Les contrats portant sur les services de transport de passagers, à l'exception des dispositions prévues à l'article L.
+121-19-3 ;
+
+10° Les contrats conclus au moyen de distributeurs automatiques ou de sites commerciaux automatisés ; 
+
+11° Les contrats conclus avec des opérateurs de télécommunications pour l'utilisation des cabines téléphoniques publiques ou
+aux fins d'une connexion unique par téléphone, internet ou télécopie, notamment les services et produits à valeur ajoutée
+accessibles par voie téléphonique ou par message textuel. 
+
+II.-Pour les contrats ayant pour objet la construction, l'acquisition ou le transfert de biens immobiliers, ainsi que ceux
+relatifs à des droits portant sur des biens immobiliers ou à la location de biens à usage d'habitation principale, conclus
+hors établissement, seules sont applicables les sous-sections 2, 3, 6 et 7. 
+
+III.-Les sous-sections 2, 3, 6 et 7, applicables aux relations entre consommateurs et professionnels, sont étendues aux
+contrats conclus hors établissement entre deux professionnels dès lors que l'objet de ces contrats n'entre pas dans le champ
+de l'activité principale du professionnel sollicité et que le nombre de salariés employés par celui-ci est inférieur ou égal
+à cinq.
 
 **Nota:**
 
-Ordonnance 2005-648 2005-06-06 art. 1 I 3° : Il s'agit bien de l'article L121-17 et non L121-20-17 comme il est écrit.
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-19-3 (V)
+	  - Code de la consommation - art. L121-60 (V)
+	  - Code du travail - art. L7231-1 (V)
+	  - Code du tourisme. - art. L211-2 (V)
+	  - Code de la sécurité intérieure - art. L320-1 (V)
+
+
+###### Article L121-16-2
+
+La présente section s'applique aux contrats portant sur la fourniture d'eau, de gaz ou d'électricité lorsqu'ils ne sont pas
+conditionnés dans un volume délimité ou en quantité déterminée ainsi que sur la fourniture de chauffage urbain et de contenu
+numérique non fourni sur un support matériel.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-21 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-4 (V)
+
+
+##### Sous-section 2 : Obligations d'information précontractuelle
+
+###### Article L121-17
+
+I.-Préalablement à la conclusion d'un contrat de vente ou de fourniture de services, le professionnel communique au
+consommateur, de manière lisible et compréhensible, les informations suivantes : 
+
+1° Les informations prévues aux articles L. 111-1 et L. 111-2 ; 
+
+2° Lorsque le droit de rétractation existe, les conditions, le délai et les modalités d'exercice de ce droit ainsi que le
+formulaire type de rétractation, dont les conditions de présentation et les mentions qu'il contient sont fixées par décret en
+Conseil d'Etat ; 
+
+3° Le cas échéant, le fait que le consommateur supporte les frais de renvoi du bien en cas de rétractation et, pour les
+contrats à distance, le coût de renvoi du bien lorsque celui-ci, en raison de sa nature, ne peut normalement être renvoyé par
+la poste ; 
+
+4° L'information sur l'obligation du consommateur de payer des frais lorsque celui-ci exerce son droit de rétractation d'un
+contrat de prestation de services, de distribution d'eau, de fourniture de gaz ou d'électricité et d'abonnement à un réseau
+de chauffage urbain dont il a demandé expressément l'exécution avant la fin du délai de rétractation ; ces frais sont
+calculés selon les modalités fixées à l'article L. 121-21-5 ; 
+
+5° Lorsque le droit de rétractation ne peut être exercé en application de l'article L. 121-21-8, l'information selon laquelle
+le consommateur ne bénéficie pas de ce droit ou, le cas échéant, les circonstances dans lesquelles le consommateur perd son
+droit de rétractation ; 
+
+6° Les informations relatives aux coordonnées du professionnel, le cas échéant aux coûts de l'utilisation de la technique de
+communication à distance, à l'existence de codes de bonne conduite, le cas échéant aux cautions et garanties, aux modalités
+de résiliation, aux modes de règlement des litiges et aux autres conditions contractuelles, dont la liste et le contenu sont
+fixés par décret en Conseil d'Etat. 
+
+II.-Si le professionnel n'a pas respecté ses obligations d'information concernant les frais supplémentaires mentionnés au I
+de l'article L. 113-3-1 et au 3° du I du présent article, le consommateur n'est pas tenu au paiement de ces frais. 
+
+III.-La charge de la preuve concernant le respect des obligations d'information mentionnées à la présente sous-section pèse
+sur le professionnel.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Modifié par**:
 
-	  - Loi n°2006-387 du 31 mars 2006 - art. 25 (V) JORF 1 avril 2006 en vigueur le 1er décembre 2005
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
 
 	**Cité par**:
 
@@ -3527,6 +4017,7 @@ Ordonnance 2005-648 2005-06-06 art. 1 I 3° : Il s'agit bien de l'article L121-1
 	  - Code de la consommation - art. L121-19-1 (VT)
 	  - Code de la consommation - art. L121-19-2 (VT)
 	  - Code de la consommation - art. L121-19-3 (VT)
+	  - Code de la consommation - art. L121-20 (VT)
 	  - Code de la consommation - art. L121-20-6 (VT)
 	  - Code de la consommation - art. L121-20-8 (M)
 	  - Code de la consommation - art. L121-21-1 (VT)
@@ -3537,671 +4028,22 @@ Ordonnance 2005-648 2005-06-06 art. 1 I 3° : Il s'agit bien de l'article L121-1
 	  - Code de la consommation - art. R121-1 (Ab)
 	  - Code de la consommation - art. R121-2 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L111-1
+	  - Code de la consommation - art. L113-3-1 (VT)
+	  - Code de la consommation - art. L121-21-8
+
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L121-20-8 (VT)
-
-
-###### Article L121-18
-
-Sans préjudice des informations prévues par les articles L. 111-1, L. 111-2 et L. 113-3 ainsi que de celles prévues pour
-l'application de l'article L. 214-1, l'offre de contrat doit comporter les informations suivantes : 
-
-1° Le nom du vendeur du produit ou du prestataire de service, des coordonnées téléphoniques permettant d'entrer effectivement
-en contact avec lui, son adresse ou, s'il s'agit d'une personne morale, son siège social et, si elle est différente,
-l'adresse de l'établissement responsable de l'offre ; 
-
-2° Le cas échéant, les frais de livraison ; 
-
-3° Les modalités de paiement, de livraison ou d'exécution ; 
-
-4° L'existence d'un droit de rétractation et ses limites éventuelles ou, dans le cas où ce droit ne s'applique pas, l'absence
-d'un droit de rétractation ; 
-
-5° La durée de la validité de l'offre et du prix de celle-ci ; 
-
-6° Le coût de l'utilisation de la technique de communication à distance utilisée lorsqu'il n'est pas calculé par référence au
-tarif de base ; 
-
-7° Le cas échéant, la durée minimale du contrat proposé, lorsqu'il porte sur la fourniture continue ou périodique d'un bien
-ou d'un service. 
-
-Ces informations, dont le caractère commercial doit apparaître sans équivoque, sont communiquées au consommateur de manière
-claire et compréhensible, par tout moyen adapté à la technique de communication à distance utilisée. 
-
-En cas de démarchage par téléphone ou par toute autre technique assimilable, le professionnel doit indiquer explicitement au
-début de la conversation son identité et le caractère commercial de l'appel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-60 du 18 janvier 1992 - art. 5 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 35
-
-	**Cite**:
-
-	  - Code de la consommation - art. L111-1
-	  - Code de la consommation - art. L113-3
-	  - Code de la consommation - art. L214-1
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L121-19 (V)
-	  - Code de la consommation - art. L121-20-10 (M)
-	  - Code de la consommation - art. L121-20-17 (MMN)
-	  - Code de la consommation - art. L121-20-4 (VT)
-	  - Code de la consommation - art. L121-22 (VD)
-	  - Code de la consommation - art. L121-27 (V)
-	  - Code de la consommation - art. L121-83-1 (VT)
-	  - Code de la consommation - art. R*121-1 (M)
-	  - Code des postes et des communications électroni... - art. D98-12 (V)
-
-
-###### Article L121-19
-
-I.-Le consommateur doit recevoir, par écrit ou sur un autre support durable à sa disposition, en temps utile et au plus tard
-au moment de la livraison : 
-
-1° Confirmation des informations mentionnées aux 1° à 4° de l'article L. 121-18 et de celles qui figurent en outre aux
-articles L. 111-1, L. 111-2 et L. 113-3 ainsi que de celles prévues pour l'application de l'article L. 214-1, à moins que le
-professionnel n'ait satisfait à cette obligation avant la conclusion du contrat ; 
-
-2° Une information sur les conditions et les modalités d'exercice du droit de rétractation ; 
-
-3° L'adresse de l'établissement du fournisseur où le consommateur peut présenter ses réclamations ; 
-
-4° Les informations relatives au service après vente et aux garanties commerciales ; 
-
-5° Les conditions de résiliation du contrat lorsque celui-ci est d'une durée indéterminée ou supérieure à un an. 
-
-II.-Les dispositions du présent article ne sont pas applicables aux services fournis en une seule fois au moyen d'une
-technique de communication à distance et facturés par l'opérateur de cette technique à l'exception du 3°. 
-
-III.-Les moyens de communication permettant au consommateur de suivre l'exécution de sa commande, d'exercer son droit de
-rétractation ou de faire jouer la garantie ne supportent que des coûts de communication, à l'exclusion de tout coût
-complémentaire spécifique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-60 du 18 janvier 1992 - art. 5 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 35
-
-	**Cite**:
-
-	  - Code de la consommation - art. L111-1
-	  - Code de la consommation - art. L113-3
-	  - Code de la consommation - art. L121-18
-	  - Code de la consommation - art. L214-1
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L121-20 (V)
-	  - Code de la consommation - art. L121-20-10 (M)
-	  - Code de la consommation - art. L121-20-4 (M)
-	  - Code de la consommation - art. L121-27 (M)
-	  - Code de la consommation - art. R121-1-1 (Ab)
-
-
-###### Article L121-20
-
-Le consommateur dispose d'un délai de sept jours francs pour exercer son droit de rétractation sans avoir à justifier de
-motifs ni à payer de pénalités, à l'exception, le cas échéant, des frais de retour. Le consommateur peut déroger à ce délai
-au cas où il ne pourrait se déplacer et où simultanément il aurait besoin de faire appel à une prestation immédiate et
-nécessaire à ses conditions d'existence. Dans ce cas, il continuerait à exercer son droit de rétractation sans avoir à
-justifier de motifs ni à payer de pénalités. 
-
-Le délai mentionné à l'alinéa précédent court à compter de la réception pour les biens ou de l'acceptation de l'offre pour
-les prestations de services. 
-
-Lorsque les informations prévues à l'article L. 121-19 n'ont pas été fournies, le délai d'exercice du droit de rétractation
-est porté à trois mois. Toutefois, lorsque la fourniture de ces informations intervient dans les trois mois à compter de la
-réception des biens ou de l'acceptation de l'offre, elle fait courir le délai de sept jours mentionné au premier alinéa. 
-
-Lorsque le délai de sept jours expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier jour
-ouvrable suivant.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°88-21 du 6 janvier 1988 - art. 3 (Ab)
-	  - Code de la consommation - art. L121-20-4 (M)
-	  - Code de la consommation - art. L121-22 (VT)
-	  - Code de la consommation - art. L121-34-2 (VD)
-	  - Code de la consommation - art. L121-87 (V)
-	  - Code de la consommation - art. L121-88 (V)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Modifié par**:
-
-	  - Loi n°2005-841 du 26 juillet 2005 - art. 3 () JORF 27 juillet 2005
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L121-20-9 (VT)
-
-
-###### Article L121-20-1
-
-Lorsque le droit de rétractation est exercé, le professionnel est tenu de rembourser le consommateur de la totalité des
-sommes versées, dans les meilleurs délais et au plus tard dans les trente jours suivant la date à laquelle ce droit a été
-exercé. Au-delà, la somme due est, de plein droit, productive d'intérêts au taux légal en vigueur. Ce remboursement
-s'effectue par tout moyen de paiement. Sur proposition du professionnel, le consommateur ayant exercé son droit de
-rétractation peut toutefois opter pour une autre modalité de remboursement.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2008-3 du 3 janvier 2008 - art. 31
-
-	**Abrogé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L121-20-10 (M)
-	  - Code de la consommation - art. L121-20-17 (MMN)
-	  - Code de la consommation - art. L121-20-3 (VT)
-	  - Code de la consommation - art. L121-20-4 (M)
-	  - Code de la consommation - art. R121-1-2 (Ab)
-
-
-###### Article L121-20-2
-
-Le droit de rétractation ne peut être exercé, sauf si les parties en sont convenues autrement, pour les contrats :
-
-1° De fourniture de services dont l'exécution a commencé, avec l'accord du consommateur, avant la fin du délai de sept jours
-francs ;
-
-2° De fourniture de biens ou de services dont le prix est fonction de fluctuations des taux du marché financier ;
-
-3° De fourniture de biens confectionnés selon les spécifications du consommateur ou nettement personnalisés ou qui, du fait
-de leur nature, ne peuvent être réexpédiés ou sont susceptibles de se détériorer ou de se périmer rapidement ;
-
-4° De fourniture d'enregistrements audio ou vidéo ou de logiciels informatiques lorsqu'ils ont été descellés par le
-consommateur ;
-
-5° De fourniture de journaux, de périodiques ou de magazines ;
-
-6° De service de paris ou de loteries autorisés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
-
-
-###### Article L121-20-3
-
-Le fournisseur doit indiquer, avant la conclusion du contrat, la date limite à laquelle il s'engage à livrer le bien ou à
-exécuter la prestation de services.A défaut, le fournisseur est réputé devoir délivrer le bien ou exécuter la prestation de
-services dès la conclusion du contrat. En cas de non-respect de cette date limite, le consommateur peut obtenir la résolution
-de la vente dans les conditions prévues aux deuxième et troisième alinéas de l'article L. 114-1. Il est alors remboursé dans
-les conditions de l'article L. 121-20-1.
-
-En cas de défaut d'exécution du contrat par un fournisseur résultant de l'indisponibilité du bien ou du service commandé, le
-consommateur doit être informé de cette indisponibilité et doit, le cas échéant, pouvoir être remboursé sans délai et au plus
-tard dans les trente jours du paiement des sommes qu'il a versées. Au-delà de ce terme, ces sommes sont productives
-d'intérêts au taux légal. 
-
-Toutefois, si la possibilité en a été prévue préalablement à la conclusion du contrat ou dans le contrat, le fournisseur peut
-fournir un bien ou un service d'une qualité et d'un prix équivalents. Le consommateur est informé de cette possibilité de
-manière claire et compréhensible. Les frais de retour consécutifs à l'exercice du droit de rétractation sont, dans ce cas, à
-la charge du fournisseur et le consommateur doit en être informé. 
-
-Le professionnel est responsable de plein droit à l'égard du consommateur de la bonne exécution des obligations résultant du
-contrat conclu à distance, que ces obligations soient à exécuter par le professionnel qui a conclu ce contrat ou par d'autres
-prestataires de services, sans préjudice de son droit de recours contre ceux-ci. 
-
-Toutefois, il peut s'exonérer de tout ou partie de sa responsabilité en apportant la preuve que l'inexécution ou la mauvaise
-exécution du contrat est imputable, soit au consommateur, soit au fait, imprévisible et insurmontable, d'un tiers au contrat,
-soit à un cas de force majeure.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2008-3 du 3 janvier 2008 - art. 28
-
-	**Abrogé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L114-1
-	  - Code de la consommation - art. L121-20-1
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L122-11-1 (V)
-	  - Code de la consommation - art. L122-3 (V)
-	  - Code du tourisme. - art. L211-1 (V)
-
-
-###### Article L121-20-4
-
-Les dispositions des articles L. 121-18, L. 121-19, L. 121-20 et L. 121-20-1 ne sont pas applicables aux contrats ayant pour
-objet : 
-
-1° La fourniture de biens de consommation courante réalisée au lieu d'habitation ou de travail du consommateur par des
-distributeurs faisant des tournées fréquentes et régulières ; 
-
-2° La prestation de services d'hébergement, de transport, de restauration, de loisirs qui doivent être fournis à une date ou
-selon une périodicité déterminée. 
-
-Les dispositions des articles L. 121-18 et L. 121-19 sont toutefois applicables aux contrats conclus par voie électronique
-lorsqu'ils ont pour objet la prestation des services mentionnés au 2°.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°93-949 du 26 juillet 1993
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-18
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la consommation - art. L121-18 (M)
-	  - SPEC_APPLI: Code de la consommation - art. L121-20-1 (M)
-
-
-###### Article L121-20-5
-
-Sont applicables les dispositions de l'article L. 34-5 du code des postes et communications électroniques, ci-après
-reproduites : 
-
-" Art. L. 34-5-Est interdite la prospection directe au moyen de systèmes automatisés d'appel ou de communication, d'un
-télécopieur ou de courriers électroniques utilisant les coordonnées d'une personne physique, abonné ou utilisateur, qui n'a
-pas exprimé préalablement son consentement à recevoir des prospections directes par ce moyen. 
-
-Pour l'application du présent article, on entend par consentement toute manifestation de volonté libre, spécifique et
-informée par laquelle une personne accepte que des données à caractère personnel la concernant soient utilisées à fin de
-prospection directe. 
-
-Constitue une prospection directe l'envoi de tout message destiné à promouvoir, directement ou indirectement, des biens, des
-services ou l'image d'une personne vendant des biens ou fournissant des services. 
-
-Toutefois, la prospection directe par courrier électronique est autorisée si les coordonnées du destinataire ont été
-recueillies auprès de lui, dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique,
-aux fichiers et aux libertés, à l'occasion d'une vente ou d'une prestation de services, si la prospection directe concerne
-des produits ou services analogues fournis par la même personne physique ou morale, et si le destinataire se voit offrir, de
-manière expresse et dénuée d'ambiguïté, la possibilité de s'opposer, sans frais, hormis ceux liés à la transmission du refus,
-et de manière simple, à l'utilisation de ses coordonnées au moment où elles sont recueillies et chaque fois qu'un courrier
-électronique de prospection lui est adressé au cas où il n'aurait pas refusé d'emblée une telle exploitation. 
-
-Dans tous les cas, il est interdit d'émettre, à des fins de prospection directe, des messages au moyen de systèmes
-automatisés d'appel ou de communication, télécopieurs et courriers électroniques, sans indiquer de coordonnées valables
-auxquelles le destinataire puisse utilement transmettre une demande tendant à obtenir que ces communications cessent sans
-frais autres que ceux liés à la transmission de celle-ci. Il est également interdit de dissimuler l'identité de la personne
-pour le compte de laquelle la communication est émise et de mentionner un objet sans rapport avec la prestation ou le service
-proposé. 
-
-La Commission nationale de l'informatique et des libertés veille, pour ce qui concerne la prospection directe utilisant les
-coordonnées d'un abonné ou d'une personne physique, au respect des dispositions du présent article en utilisant les
-compétences qui lui sont reconnues par la loi n° 78-17 du 6 janvier 1978 précitée. A cette fin, elle peut notamment recevoir,
-par tous moyens, les plaintes relatives aux infractions aux dispositions du présent article. 
-
-Les infractions aux dispositions du présent article sont recherchées et constatées dans les conditions fixées par les
-articles L. 450-1, L. 450-2, L. 450-3, L. 450-4, L. 450-7, L. 450-8, L. 470-1 et L. 470-5 du code de commerce. 
-
-Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application du présent article, notamment eu égard
-aux différentes technologies utilisées. "
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-17 du 6 janvier 1978
-	  - Code de commerce - art. L450-1
-	  - Code des postes et des communications électroniques - art. L34-5
-
-	**Modifié par**:
-
-	  - Ordonnance n°2011-1012 du 24 août 2011 - art. 8
-
-	**Abrogé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L121-20-10 (M)
-	  - Code de la consommation - art. L121-20-14 (VT)
-	  - Code de la consommation - art. L121-20-17 (MMN)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code des postes et des communications électroniques - art. L34-5
-
-
-###### Article L121-20-6
-
-Les règles relatives à la responsabilité du dirigeant de droit ou de fait d'un service de radiodiffusion sonore ou de
-télévision sont définies par le II de l'article 3 de la loi n° 88-21 du 6 janvier 1988 relative aux opérations de
-télépromotion avec offre de vente dites de " téléachat " reproduit ci-après : 
-
-L'article 3 II de la loi n° 88-21 du 6 janvier 1988 a été abrogé par l'article 25 de la loi n° 2000-719 du 1er août 2000
-publié au JORF du 2 août 2000 et repris dans le code de la consommation à l'article L. 121-17.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°88-21 du 6 janvier 1988 - art. 3
-	  - Loi n°2000-719 du 1 août 2000 - art. 25
-	  - Code de la consommation - art. L121-17
-
-	**Codifié par**:
-
-	  - Loi n°93-949 du 26 juillet 1993
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L121-20-15 (VT)
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-20-8 (M)
-
-
-###### Article L121-20-7
-
-Les règles relatives à la fixation des règles de programmation des émissions sont définies par l'article 2 de la loi n° 88-21
-du 6 janvier 1988 précitée reproduit ci-après :
-
-**Nota:**
-
-L'article 2 de la loi n° 88-21 du 6 janvier 1988 a été abrogé par la loi n° 2000-719 du 1er août 2000.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°88-21 du 6 janvier 1988 - art. 2
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L121-20-16 (VT)
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-20-9 (M)
-	  - Code de la consommation - art. L121-20-9 (VT)
-
-
-##### Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers
-
-###### Article L121-20-8
-
-La présente sous-section régit la fourniture de services financiers à un consommateur dans le cadre d'un système de vente ou
-de prestation de services à distance organisé par le fournisseur ou par un intermédiaire qui, pour ce contrat, utilise
-exclusivement une ou plusieurs techniques de communication à distance jusqu'à, et y compris, la conclusion du contrat.
-
-Elle s'applique aux services mentionnés aux livres Ier à III et au titre V du livre V du code monétaire et financier ainsi
-que les opérations pratiquées par les entreprises régies par le code des assurances, par les mutuelles et unions régies par
-le livre II du code de la mutualité et par les institutions de prévoyance et unions régies par le titre III du livre IX du
-code de la sécurité sociale sans préjudice des dispositions spécifiques prévues par ces codes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°93-949 du 26 juillet 1993
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
-	  - PILOTE_SUIVEUR: Code de la mutualité - art. L221-18 (V)
-	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L932-15-1 (V)
-	  - PILOTE_SUIVEUR: Code des assurances - art. L112-2-1 (VD)
-	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-17 (M)
-	  - Code de la consommation - art. L121-17 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L121-20-6 (VT)
-	  - Code de la consommation - art. L121-26 (VD)
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L123-1 (VD)
-	  - Code de la consommation - art. R121-2-1 (T)
-	  - Code des assurances - art. L112-2-1 (VD)
-	  - Code monétaire et financier - art. R519-23 (VD)
-
-
-###### Article L121-20-9
-
-Pour les contrats portant sur des services financiers comportant une première convention de service suivie d'opérations
-successives ou d'une série d'opérations distinctes, de même nature, échelonnées dans le temps, les dispositions de la
-présente sous-section ne s'appliquent qu'à la première convention de service. Pour les contrats renouvelables par tacite
-reconduction, les dispositions de la présente sous-section ne s'appliquent qu'au contrat initial. 
-
-En l'absence de première convention de service, lorsque des opérations successives ou distinctes, de même nature, échelonnées
-dans le temps, sont exécutées entre les mêmes parties, les dispositions de l'article L. 121-20-10 ne sont applicables qu'à la
-première opération. Cependant, lorsqu'aucune opération de même nature n'est effectuée pendant plus d'un an, ces dispositions
-s'appliquent à l'opération suivante, considérée comme une première opération.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°88-21 du 6 janvier 1988 - art. 2 (Ab)
-	  - Code de la consommation - art. L121-20 (T)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 du 26 juillet 1993
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
-	  - PILOTE_SUIVEUR: Code de la mutualité - art. L221-18 (V)
-	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L932-15-1 (V)
-	  - PILOTE_SUIVEUR: Code des assurances - art. L112-2-1 (VD)
-	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-20-10
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L121-20-7 (VT)
-	  - Code de la consommation - art. L121-26-1 (VD)
-
-	**Cité par**:
-
-	  - Code des assurances - art. L112-2-1 (VD)
-
-
-###### Article L121-20-10
-
-En temps utile et avant qu'il ne soit lié par un contrat, le consommateur reçoit des informations fixées par décret en
-Conseil d'Etat, portant notamment sur :
-
-1° Le nom, l'adresse professionnelle du fournisseur et, s'il y a lieu, de son représentant et de son intermédiaire ;
-
-2° Les documents d'information particuliers relatifs aux produits, instruments financiers et services proposés requis par les
-dispositions législatives et réglementaires en vigueur ou, en l'absence de tels documents, une note d'information sur chacun
-des produits, instruments financiers et services proposés et indiquant, s'il y a lieu, les risques particuliers que peuvent
-comporter les produits proposés ;
-
-3° Les conditions de l'offre contractuelle, notamment le prix total effectivement dû par le consommateur, ou, lorsqu'un prix
-exact ne peut être indiqué, la base de calcul du prix permettant au consommateur de vérifier ce dernier, les modalités selon
-lesquelles sera conclu le contrat et en particulier le lieu et la date de signature de celui-ci ;
-
-4° L'existence ou l'absence du droit de rétractation, ainsi que ses modalités d'exercice ;
-
-5° La loi applicable aux relations précontractuelles ainsi qu'au contrat, et l'existence de toute clause concernant le choix
-d'une juridiction.
-
-Les informations communiquées par le fournisseur au consommateur sur les obligations contractuelles sont conformes à la loi
-applicable au contrat en cas de conclusion de celui-ci.
-
-Ces informations, dont le caractère commercial doit apparaître sans équivoque, sont fournies de manière claire et
-compréhensible par tout moyen adapté à la technique de communication à distance utilisée.
-
-Les dispositions du présent article sont applicables sans préjudice de l'application des obligations législatives et
-réglementaires spécifiques à chaque produit, instrument financier ou service proposé.
-
-Le décret en Conseil d'Etat mentionné au premier alinéa fixe également les modalités particulières applicables en cas de
-communication par téléphonie vocale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°93-949 du 26 juillet 1993
-
-	**Modifié par**:
-
-	  - Loi n°2006-387 du 31 mars 2006 - art. 25 (V) JORF 1 avril 2006 en vigueur le 1er décembre 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
-	  - SPEC_APPLI: Code de la consommation - art. L121-18 (M)
-	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L121-20-11 (VT)
-	  - Code de la consommation - art. L121-20-13 (VT)
-	  - Code de la consommation - art. L121-20-9 (VT)
-	  - Code de la consommation - art. R121-2-1 (T)
-	  - Code de la consommation - art. R121-2-3 (T)
-	  - Code de la mutualité - art. L221-18 (V)
-	  - Code monétaire et financier - art. L343-1 (VD)
-	  - Code monétaire et financier - art. L343-2 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L121-20-17 (MMN)
-	  - Code de la consommation - art. L121-27 (VD)
-
-
-###### Article L121-20-11
-
-Le consommateur doit recevoir, par écrit ou sur un autre support durable à sa disposition et auquel il a accès en temps utile
-et avant tout engagement, les conditions contractuelles ainsi que les informations mentionnées à l'article L. 121-20-10.
-Elles sont fournies au consommateur conformément aux dispositions législatives et réglementaires spécifiques à chaque
-produit, instrument financier ou service proposé. 
-
-Le fournisseur exécute ses obligations de communication immédiatement après la conclusion du contrat, lorsque celui-ci a été
-conclu à la demande du consommateur en utilisant une technique de communication à distance ne permettant pas la transmission
-des informations précontractuelles et contractuelles sur un support papier ou sur un autre support durable. Dans ce cas et
-lorsque le contrat porte sur une opération mentionnée au premier alinéa de l'article L. 311-42, le fournisseur n'est tenu de
-communiquer au consommateur que les seules informations contractuelles. 
-
-A tout moment au cours de la relation contractuelle, le consommateur a le droit, s'il en fait la demande, de recevoir les
-conditions contractuelles sur un support papier. En outre, le consommateur a le droit de changer les techniques de
-communication à distance utilisées, à moins que cela ne soit incompatible avec le contrat à distance conclu ou avec la nature
-du service financier fourni.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 15
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
-	  - PILOTE_SUIVEUR: Code de la mutualité - art. L221-18 (V)
-	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L932-15-1 (V)
-	  - PILOTE_SUIVEUR: Code des assurances - art. L112-2-1 (VD)
-	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-20-10
-	  - Code de la consommation - art. L311-42
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L121-20-12 (T)
-	  - Code de la consommation - art. R121-2-4 (T)
-	  - Code de la mutualité - art. L221-18 (M)
-	  - Code de la sécurité sociale. - art. L932-15-1 (M)
-	  - Code de la sécurité sociale. - art. R932-2-3 (M)
-	  - Code des assurances - art. L112-2-1 (VD)
-	  - Code des assurances - art. R112-4 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L121-28 (VD)
+	  - Code de la consommation - art. L221-5 (V)
+	  - Code de la consommation - art. L221-6 (V)
+	  - Code de la consommation - art. L221-7 (V)
 
 
 ###### Article L121-20-12
@@ -4276,215 +4118,423 @@ fourniture anticipée est à la charge du vendeur qui en supporte tous les risqu
 	  - Code de la consommation - art. L121-29 (VD)
 
 
-###### Article L121-20-13
+##### Sous-section 3 : Dispositions particulières     applicables aux contrats conclus hors établissement
 
-I.-Les contrats pour lesquels s'applique le délai de rétractation mentionné à l'article L. 121-20-12 ne peuvent recevoir de
-commencement d'exécution par les parties avant l'arrivée du terme de ce délai sans l'accord du consommateur. Lorsque celui-ci
-exerce son droit de rétractation, il ne peut être tenu qu'au paiement proportionnel du service financier effectivement
-fourni, à l'exclusion de toute pénalité. 
+###### Article L121-18
 
-Le fournisseur ne peut exiger du consommateur le paiement du service mentionné au premier alinéa que s'il peut prouver que le
-consommateur a été informé du montant dû, conformément à l'article L. 121-20-10. Toutefois, il ne peut pas exiger ce paiement
-s'il a commencé à exécuter le contrat avant l'expiration du délai de rétractation sans demande préalable du consommateur. 
-
-Pour les contrats de crédit à la consommation prévus au chapitre Ier du titre Ier du livre III, même avec l'accord du
-consommateur, ils ne peuvent recevoir de commencement d'exécution durant les sept premiers jours, sauf s'agissant des
-contrats de crédit affecté mentionnés au IV de l'article L. 121-20-12, qui ne peuvent recevoir de commencement d'exécution
-durant les trois premiers jours. 
-
-II.-Le fournisseur est tenu de rembourser au consommateur dans les meilleurs délais et au plus tard dans les trente jours
-toutes les sommes qu'il a perçues de celui-ci en application du contrat, à l'exception du montant mentionné au premier alinéa
-du I. Ce délai commence à courir le jour où le fournisseur reçoit notification par le consommateur de sa volonté de se
-rétracter. Au-delà du délai de trente jours, la somme due est, de plein droit, productive d'intérêts au taux légal en
-vigueur. 
-
-Le consommateur restitue au fournisseur dans les meilleurs délais et au plus tard dans les trente jours toute somme et tout
-bien qu'il a reçus de ce dernier. Ce délai commence à courir à compter du jour où le consommateur communique au fournisseur
-sa volonté de se rétracter.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°93-949 du 26 juillet 1993
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
-	  - PILOTE_SUIVEUR: Code de la mutualité - art. L221-18 (V)
-	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L932-15-1 (V)
-	  - PILOTE_SUIVEUR: Code des assurances - art. L112-2-1 (VD)
-	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-20-10
-	  - Code de la consommation - art. L121-20-12
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L121-30 (VD)
-
-	**Cité par**:
-
-	  - Code de la consommation - art. R*121-2-1 (V)
-	  - Code de la consommation - art. R121-2-5 (T)
-	  - Code de la mutualité - art. L221-18 (M)
-	  - Code de la sécurité sociale. - art. L932-15-1 (M)
-	  - Code des assurances - art. L112-2-1 (VD)
-	  - Code monétaire et financier - art. R341-16 (M)
-
-
-###### Article L121-20-14
-
-Les dispositions de l'article L. 34-5 du code des postes et communications électroniques, reproduites à l'article L.
-121-20-5, sont applicables aux services financiers. 
-
-Les techniques de communication à distance destinées à la commercialisation de services financiers autres que celles
-mentionnées à l'article L. 34-5 du code des postes et communications électroniques ne peuvent être utilisées que si le
-consommateur n'a pas manifesté son opposition. 
-
-Les mesures prévues au présent article ne doivent pas entraîner de frais pour le consommateur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°93-949 du 26 juillet 1993
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
-	  - PILOTE_SUIVEUR: Code de la mutualité - art. L221-18 (V)
-	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L932-15-1 (V)
-	  - PILOTE_SUIVEUR: Code des assurances - art. L112-2-1 (VD)
-	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-20-5
-	  - Code des postes et des communications électroniques - art. L34-5
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L121-31 (VD)
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L123-4 (VT)
-	  - Code des assurances - art. L112-2-1 (VD)
-
-
-##### Sous-section 3 : Dispositions communes
-
-###### Article L121-20-15
-
-Lorsque les parties ont choisi la loi d'un Etat non membre de la Communauté européenne pour régir le contrat, le juge devant
-lequel est invoquée cette loi est tenu d'en écarter l'application au profit des dispositions plus protectrices de la loi de
-la résidence habituelle du consommateur assurant la transposition de la directive 97/7/CE du Parlement européen et du Conseil
-du 20 mai 1997 concernant la protection des consommateurs en matière de contrats à distance et de la directive 2002/65/CE du
-Parlement européen et du Conseil du 23 septembre 2002 concernant la commercialisation à distance de services financiers
-auprès des consommateurs, lorsque le contrat présente un lien étroit avec le territoire d'un ou plusieurs Etats membres de la
-Communauté européenne ; cette condition est présumée remplie si la résidence des consommateurs est située dans un Etat
-membre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-20-6 (M)
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L123-5 (VD)
-	  - Code des assurances - art. L112-2-1 (VD)
-	  - Code monétaire et financier - art. L341-12 (V)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de la mutualité - art. L221-18 (V)
-	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L932-15-1 (V)
-	  - PILOTE_SUIVEUR: Code des assurances - art. L112-2-1 (VD)
-	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
-
-
-###### Article L121-20-16
-
-Les dispositions de la présente section sont d'ordre public.
+Dans le cas d'un contrat conclu hors établissement, le professionnel fournit au consommateur, sur papier ou, sous réserve de
+l'accord du consommateur, sur un autre support durable, les informations prévues au I de l'article L. 121-17. Ces
+informations sont rédigées de manière lisible et compréhensible.
 
 **Nota:**
 
-Ordonnance 2005-648 2005-06-06 art. 1 I 3° : lire "L121-16" et non "L121-20-16". 
-
-La modification n'est donc pas incluse dans le présent article mais dans l'article L121-16.
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°92-60 du 18 janvier 1992 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-17
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-19 (V)
+	  - Code de la consommation - art. L121-20-10 (M)
+	  - Code de la consommation - art. L121-20-17 (MMN)
+	  - Code de la consommation - art. L121-20-4 (VT)
+	  - Code de la consommation - art. L121-22 (VT)
+	  - Code de la consommation - art. L121-27 (V)
+	  - Code de la consommation - art. L121-83-1 (VT)
+	  - Code de la consommation - art. R*121-1 (M)
+	  - Code des postes et des communications électroni... - art. D98-12 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-8 (V)
+
+
+###### Article L121-18-1
+
+Le professionnel fournit au consommateur un exemplaire du contrat conclu hors établissement, sur papier signé par les parties
+ou, avec l'accord du consommateur, sur un autre support durable, confirmant l'engagement exprès des parties. Ce contrat
+comprend, à peine de nullité, toutes les informations mentionnées au I de l'article L. 121-17. 
+
+Le contrat mentionne, le cas échéant, l'accord exprès du consommateur pour la fourniture d'un contenu numérique indépendant
+de tout support matériel avant l'expiration du délai de rétractation et, dans cette hypothèse, le renoncement de ce dernier à
+l'exercice de son droit de rétractation. 
+
+Le contrat est accompagné du formulaire type de rétractation mentionné au 2° du I de l'article L. 121-17.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-17 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-21-6 (VT)
+
+
+###### Article L121-18-2
+
+Le professionnel ne peut recevoir aucun paiement ou aucune contrepartie, sous quelque forme que ce soit, de la part du
+consommateur avant l'expiration d'un délai de sept jours à compter de la conclusion du contrat hors établissement. 
+
+Toutefois, ne sont pas soumis au premier alinéa : 
+
+1° La souscription à domicile d'un abonnement à une publication quotidienne et assimilée, au sens de l'article 39 bis du code
+général des impôts ; 
+
+2° Les contrats à exécution successive, conclus dans les conditions prévues à la présente section et proposés par un
+organisme agréé ou relevant d'une décision de l'autorité administrative, ayant pour objet la fourniture de services
+mentionnés à l'article L. 7231-1 du code du travail ; 
+
+3° Les contrats conclus au cours de réunions organisées par le vendeur à son domicile ou au domicile d'un consommateur ayant
+préalablement et expressément accepté que cette opération se déroule à son domicile ; 
+
+4° Les contrats ayant pour objet des travaux d'entretien ou de réparation à réaliser en urgence au domicile du consommateur
+et expressément sollicités par lui, dans la limite des pièces de rechange et travaux strictement nécessaires pour répondre à
+l'urgence. 
+
+Pour les contrats mentionnés aux 1° et 2° du présent article, le consommateur dispose d'un droit de résiliation du contrat à
+tout moment et sans préavis, frais ou indemnité et d'un droit au remboursement, dans un délai de quinze jours, des sommes
+versées au prorata de la durée du contrat restant à courir.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-10 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 39 bis
+	  - Code du travail - art. L7231-1
+
+
+##### Sous-section 4 : Dispositions particulières   applicables aux contrats conclus à distance
+
+###### Article L121-19
+
+Lorsque le contrat est conclu à distance, le professionnel fournit au consommateur, de manière lisible et compréhensible, les
+informations prévues au I de l'article L. 121-17 ou les met à sa disposition par tout moyen adapté à la technique de
+communication à distance utilisée.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°92-60 du 18 janvier 1992 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-17
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-20 (V)
+	  - Code de la consommation - art. L121-20-10 (M)
+	  - Code de la consommation - art. L121-20-4 (M)
+	  - Code de la consommation - art. L121-27 (M)
+	  - Code de la consommation - art. R121-1-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-11 (V)
+
+
+###### Article L121-19-1
+
+Lorsque la technique de communication à distance utilisée impose des limites d'espace ou de temps pour la présentation des
+informations, le professionnel fournit au consommateur, avant la conclusion du contrat et dans les conditions mentionnées au
+I de l'article L. 121-17, au moins les informations relatives aux caractéristiques essentielles des biens ou des services, à
+leur prix, à son identité, à la durée du contrat et au droit de rétractation. 
+
+Le professionnel transmet au consommateur les autres informations mentionnées au même I par tout autre moyen adapté à la
+technique de communication à distance utilisée.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-17
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-20 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-12 (V)
+
+
+###### Article L121-19-2
+
+Le professionnel fournit au consommateur, sur support durable, dans un délai raisonnable, après la conclusion du contrat et
+au plus tard au moment de la livraison du bien ou avant le début de l'exécution du service, la confirmation du contrat
+comprenant toutes les informations mentionnées au I de l'article L. 121-17, sauf si le professionnel les lui a déjà fournies,
+sur un support durable, avant la conclusion du contrat. Le contrat est accompagné du formulaire type de rétractation
+mentionné au 2° du même I. 
+
+Le cas échéant, le professionnel fournit au consommateur, dans les mêmes conditions et avant l'expiration du délai de
+rétractation, la confirmation de son accord exprès pour la fourniture d'un contenu numérique non présenté sur un support
+matériel et de son renoncement à l'exercice du droit de rétractation.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-17
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-21-6 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-13 (V)
+
+
+###### Article L121-19-3
+
+Pour les contrats conclus par voie électronique, le professionnel rappelle au consommateur, avant qu'il ne passe sa commande,
+de manière lisible et compréhensible, les informations relatives aux caractéristiques essentielles des biens ou des services
+qui font l'objet de la commande, à leur prix, à la durée du contrat et, s'il y a lieu, à la durée minimale des obligations de
+ce dernier au titre du contrat, telles que prévues au I de l'article L. 121-17.
+
+Le professionnel veille à ce que le consommateur, lors de sa commande, reconnaisse explicitement son obligation de paiement.
+A cette fin, la fonction utilisée par le consommateur pour valider sa commande comporte, à peine de nullité, la mention
+claire et lisible : commande avec obligation de paiement ou une formule analogue, dénuée de toute ambiguïté, indiquant que la
+passation d'une commande oblige à son paiement. 
+
+Les sites de commerce en ligne indiquent clairement et lisiblement, au plus tard au début du processus de commande, les
+moyens de paiement acceptés par le professionnel et les éventuelles restrictions de livraison.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-16-1 (VT)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-17
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-14 (V)
+	  - Code de la consommation - art. L242-2 (V)
+
+
+###### Article L121-19-4
+
+Le professionnel est responsable de plein droit à l'égard du consommateur de la bonne exécution des obligations résultant du
+contrat conclu à distance, que ces obligations soient exécutées par le professionnel qui a conclu ce contrat ou par d'autres
+prestataires de services, sans préjudice de son droit de recours contre ceux-ci. 
+
+Toutefois, il peut s'exonérer de tout ou partie de sa responsabilité en apportant la preuve que l'inexécution ou la mauvaise
+exécution du contrat est imputable soit au consommateur, soit au fait, imprévisible et insurmontable, d'un tiers au contrat,
+soit à un cas de force majeure.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L141-1-1 (VT)
+	  - Code du tourisme. - art. L211-1 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-15 (V)
+
+
+##### Sous-section 5 : Démarchage téléphonique et prospection commerciale
+
+###### Article L121-20
+
+Sans préjudice de l'article L. 121-19-1, le professionnel qui contacte un consommateur par téléphone en vue de conclure ou de
+modifier un contrat portant sur la vente d'un bien ou sur la fourniture d'un service indique au début de la conversation son
+identité, le cas échéant l'identité de la personne pour le compte de laquelle il effectue cet appel et la nature commerciale
+de celui-ci. 
+
+A la suite d'un démarchage par téléphone, le professionnel adresse au consommateur, sur papier ou sur support durable, une
+confirmation de l'offre qu'il a faite et reprenant toutes les informations mentionnées au I de l'article L. 121-17.
+
+Le consommateur n'est engagé par cette offre qu'après l'avoir signée et acceptée par écrit ou avoir donné son consentement
+par voie électronique.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°88-21 du 6 janvier 1988 - art. 3 (Ab)
+	  - Code de la consommation - art. L121-20-4 (M)
+	  - Code de la consommation - art. L121-22 (VT)
+	  - Code de la consommation - art. L121-34-2 (VT)
+	  - Code de la consommation - art. L121-87 (V)
+	  - Code de la consommation - art. L121-88 (V)
 
 	**Codifié par**:
 
 	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
-
-	  - Ordonnance n°2005-648 du 6 juin 2005 - art. 1 () JORF 7 juin 2005 en vigueur le 1er décembre 2005
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Code de la consommation - art. L121-20-7 (M)
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - PILOTE_SUIVEUR: Code de la mutualité - art. L221-18 (V)
-	  - PILOTE_SUIVEUR: Code de la sécurité sociale. - art. L932-15-1 (V)
-	  - PILOTE_SUIVEUR: Code des assurances - art. L112-2-1 (VD)
-	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
+	  - Code de la consommation - art. L121-17 (VT)
+	  - Code de la consommation - art. L121-19-1 (VT)
 
-	**Cité par**:
+	**Nouveaux textes**:
 
-	  - Code des assurances - art. L112-2-1 (VD)
+	  - Code de la consommation - art. L121-20-9 (VT)
+	  - Code de la consommation - art. L221-16 (V)
 
 
-##### Section 3 : Démarchage
+##### Sous-section 6 : Droit de rétractation applicable aux contrats conclus à distance et hors établissement
 
 ###### Article L121-21
 
-Est soumis aux dispositions de la présente section quiconque pratique ou fait pratiquer le démarchage, au domicile d'une
-personne physique, à sa résidence ou à son lieu de travail, même à sa demande, afin de lui proposer l'achat, la vente, la
-location, la location-vente ou la location avec option d'achat de biens ou la fourniture de services.
+Le consommateur dispose d'un délai de quatorze jours pour exercer son droit de rétractation d'un contrat conclu à distance, à
+la suite d'un démarchage téléphonique ou hors établissement, sans avoir à motiver sa décision ni à supporter d'autres coûts
+que ceux prévus aux articles L. 121-21-3 à L. 121-21-5. Toute clause par laquelle le consommateur abandonne son droit de
+rétractation est nulle. 
 
-Est également soumis aux dispositions de la présente section le démarchage dans les lieux non destinés à la commercialisation
-du bien ou du service proposé et notamment l'organisation par un commerçant ou à son profit de réunions ou d'excursions afin
-de réaliser les opérations définies à l'alinéa précédent.
+Le délai mentionné au premier alinéa du présent article court à compter du jour : 
+
+1° De la conclusion du contrat, pour les contrats de prestation de services et ceux mentionnés à l'article L. 121-16-2 ; 
+
+2° De la réception du bien par le consommateur ou un tiers, autre que le transporteur, désigné par lui, pour les contrats de
+vente de biens et les contrats de prestation de services incluant la livraison de biens. 
+
+Dans le cas d'une commande portant sur plusieurs biens livrés séparément ou dans le cas d'une commande d'un bien composé de
+lots ou de pièces multiples dont la livraison est échelonnée sur une période définie, le délai court à compter de la
+réception du dernier bien ou lot ou de la dernière pièce. 
+
+Pour les contrats prévoyant la livraison régulière de biens pendant une période définie, le délai court à compter de la
+réception du premier bien.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°72-1137 du 22 décembre 1972 - art. 1 (M)
 	  - Loi n°72-1137 du 22 décembre 1972 - art. 1 (Ab)
 
 	**Cité par**:
@@ -4501,29 +4551,381 @@ de réaliser les opérations définies à l'alinéa précédent.
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-16-2 (V)
+	  - Code de la consommation - art. L121-21-3 (V)
+
+
+###### Article L121-21-1
+
+Lorsque les informations relatives au droit de rétractation n'ont pas été fournies au consommateur dans les conditions
+prévues au 2° du I de l'article L. 121-17, le délai de rétractation est prolongé de douze mois à compter de l'expiration du
+délai de rétractation initial, déterminé conformément à l'article L. 121-21. 
+
+Toutefois, lorsque la fourniture de ces informations intervient pendant cette prolongation, le délai de rétractation expire
+au terme d'une période de quatorze jours à compter du jour où le consommateur a reçu ces informations.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-17
+	  - Code de la consommation - art. L121-21
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-83-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-20 (V)
+
+
+###### Article L121-21-2
+
+Le consommateur informe le professionnel de sa décision de rétractation en lui adressant, avant l'expiration du délai prévu à
+l'article L. 121-21, le formulaire de rétractation mentionné au 2° du I de l'article L. 121-17 ou toute autre déclaration,
+dénuée d'ambiguïté, exprimant sa volonté de se rétracter. 
+
+Le professionnel peut également permettre au consommateur de remplir et de transmettre en ligne, sur son site internet, le
+formulaire ou la déclaration prévus au premier alinéa du présent article. Dans cette hypothèse, le professionnel communique,
+sans délai, au consommateur un accusé de réception de la rétractation sur un support durable. 
+
+La charge de la preuve de l'exercice du droit de rétractation dans les conditions prévues au présent article pèse sur le
+consommateur.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-17
+	  - Code de la consommation - art. L121-21
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-21-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-21 (V)
+	  - Code de la consommation - art. L221-22 (V)
+
+
+###### Article L121-21-3
+
+Le consommateur renvoie ou restitue les biens au professionnel ou à une personne désignée par ce dernier, sans retard
+excessif et, au plus tard, dans les quatorze jours suivant la communication de sa décision de se rétracter conformément à
+l'article L. 121-21-2, à moins que le professionnel ne propose de récupérer lui-même ces biens. 
+
+Le consommateur ne supporte que les coûts directs de renvoi des biens, sauf si le professionnel accepte de les prendre à sa
+charge ou s'il a omis d'informer le consommateur que ces coûts sont à sa charge. Néanmoins, pour les contrats conclus hors
+établissement, lorsque les biens sont livrés au domicile du consommateur au moment de la conclusion du contrat, le
+professionnel récupère les biens à ses frais s'ils ne peuvent pas être renvoyés normalement par voie postale en raison de
+leur nature. 
+
+La responsabilité du consommateur ne peut être engagée qu'en cas de dépréciation des biens résultant de manipulations autres
+que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ces biens, sous réserve que
+le professionnel ait informé le consommateur de son droit de rétractation, conformément au 2° du I de l'article L. 121-17.
+
+**Nota:**
+
+Conformément à l'article 9 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-17
+	  - Code de la consommation - art. L121-21-2 (VT)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-21 (VT)
+	  - Code de la consommation - art. L121-21-7 (VT)
+	  - Code de la consommation - art. L121-83-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-23 (V)
+
+
+###### Article L121-21-4
+
+Lorsque le droit de rétractation est exercé, le professionnel est tenu de rembourser le consommateur de la totalité des
+sommes versées, y compris les frais de livraison, sans retard injustifié et au plus tard dans les quatorze jours à compter de
+la date à laquelle il est informé de la décision du consommateur de se rétracter. 
+
+Pour les contrats de vente de biens, à moins qu'il ne propose de récupérer lui-même les biens, le professionnel peut différer
+le remboursement jusqu'à récupération des biens ou jusqu'à ce que le consommateur ait fourni une preuve de l'expédition de
+ces biens, la date retenue étant celle du premier de ces faits. 
+
+Au-delà, les sommes dues sont de plein droit majorées du taux d'intérêt légal si le remboursement intervient au plus tard dix
+jours après l'expiration des délais fixés aux deux premiers alinéas, de 5 % si le retard est compris entre dix et vingt
+jours, de 10 % si le retard est compris entre vingt et trente jours, de 20 % si le retard est compris entre trente et
+soixante jours, de 50 % entre soixante et quatre-vingt-dix jours et de cinq points supplémentaires par nouveau mois de retard
+jusqu'au prix du produit, puis du taux d'intérêt légal. 
+
+Le professionnel effectue ce remboursement en utilisant le même moyen de paiement que celui utilisé par le consommateur pour
+la transaction initiale, sauf accord exprès du consommateur pour qu'il utilise un autre moyen de paiement et dans la mesure
+où le remboursement n'occasionne pas de frais pour le consommateur. 
+
+Le professionnel n'est pas tenu de rembourser les frais supplémentaires si le consommateur a expressément choisi un mode de
+livraison plus coûteux que le mode de livraison standard proposé par le professionnel.
+
+**Nota:**
+
+Conformément à l'article 9 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-83-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-24 (V)
+	  - Code de la consommation - art. L242-4 (V)
+
+
+###### Article L121-21-5
+
+Si le consommateur souhaite que l'exécution d'une prestation de services commence avant la fin du délai de rétractation
+mentionné à l'article L. 121-21, le professionnel recueille sa demande expresse sur papier ou sur support durable. 
+
+Le consommateur qui a exercé son droit de rétractation d'un contrat de prestation de services dont l'exécution a commencé, à
+sa demande expresse, avant la fin du délai de rétractation verse au professionnel un montant correspondant au service fourni
+jusqu'à la communication de sa décision de se rétracter ; ce montant est proportionné au prix total de la prestation convenu
+dans le contrat. 
+
+Aucune somme n'est due par le consommateur ayant exercé son droit de rétractation si sa demande expresse n'a pas été
+recueillie en application du premier alinéa du présent article ou si le professionnel n'a pas respecté l'obligation
+d'information prévue au 4° du I de l'article L. 121-17.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-17 (VT)
+	  - Code de la consommation - art. L121-83-2 (VT)
+	  - Code de la consommation - art. L121-87 (VT)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-21
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-25 (V)
+
+
+###### Article L121-21-6
+
+Le consommateur qui a exercé son droit de rétractation d'un contrat de fourniture de contenu numérique non fourni sur un
+support matériel n'est redevable d'aucune somme si : 
+
+1° Le professionnel n'a pas recueilli son accord préalable exprès pour l'exécution du contrat avant la fin du délai de
+rétractation ainsi que la preuve de son renoncement à son droit de rétractation ; 
+
+2° Le contrat ne reprend pas les mentions prévues au deuxième alinéa des articles L. 121-18-1 et L. 121-19-2.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-18-1
+	  - Code de la consommation - art. L121-19-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-26 (M)
+
+
+###### Article L121-21-7
+
+L'exercice du droit de rétractation met fin à l'obligation des parties soit d'exécuter le contrat à distance ou le contrat
+hors établissement, soit de le conclure lorsque le consommateur a fait une offre. 
+
+L'exercice du droit de rétractation d'un contrat principal à distance ou hors établissement met automatiquement fin à tout
+contrat accessoire, sans frais pour le consommateur autres que ceux prévus aux articles L. 121-21-3 à L. 121-21-5.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-21-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-27 (V)
+
+
+###### Article L121-21-8
+
+Le droit de rétractation ne peut être exercé pour les contrats : 
+
+1° De fourniture de services pleinement exécutés avant la fin du délai de rétractation et dont l'exécution a commencé après
+accord préalable exprès du consommateur et renoncement exprès à son droit de rétractation ; 
+
+2° De fourniture de biens ou de services dont le prix dépend de fluctuations sur le marché financier échappant au contrôle du
+professionnel et susceptibles de se produire pendant le délai de rétractation ; 
+
+3° De fourniture de biens confectionnés selon les spécifications du consommateur ou nettement personnalisés ; 
+
+4° De fourniture de biens susceptibles de se détériorer ou de se périmer rapidement ; 
+
+5° De fourniture de biens qui ont été descellés par le consommateur après la livraison et qui ne peuvent être renvoyés pour
+des raisons d'hygiène ou de protection de la santé ; 
+
+6° De fourniture de biens qui, après avoir été livrés et de par leur nature, sont mélangés de manière indissociable avec
+d'autres articles ; 
+
+7° De fourniture de boissons alcoolisées dont la livraison est différée au-delà de trente jours et dont la valeur convenue à
+la conclusion du contrat dépend de fluctuations sur le marché échappant au contrôle du professionnel ; 
+
+8° De travaux d'entretien ou de réparation à réaliser en urgence au domicile du consommateur et expressément sollicités par
+lui, dans la limite des pièces de rechange et travaux strictement nécessaires pour répondre à l'urgence ; 
+
+9° De fourniture d'enregistrements audio ou vidéo ou de logiciels informatiques lorsqu'ils ont été descellés par le
+consommateur après la livraison ; 
+
+10° De fourniture d'un journal, d'un périodique ou d'un magazine, sauf pour les contrats d'abonnement à ces publications ; 
+
+11° Conclus lors d'une enchère publique ; 
+
+12° De prestations de services d'hébergement, autres que d'hébergement résidentiel, de services de transport de biens, de
+locations de voitures, de restauration ou d'activités de loisirs qui doivent être fournis à une date ou à une période
+déterminée ; 
+
+13° De fourniture d'un contenu numérique non fourni sur un support matériel dont l'exécution a commencé après accord
+préalable exprès du consommateur et renoncement exprès à son droit de rétractation.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-17 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-28 (V)
+
+
+##### Sous-section 7 : Sanctions administratives
 
 ###### Article L121-22
 
-Ne sont pas soumises aux dispositions des articles L. 121-23 à L. 121-29 les activités pour lesquelles le démarchage fait
-l'objet d'une réglementation par un texte législatif particulier. 
+Tout manquement aux articles L. 121-18, L. 121-19 à L. 121-19-3 et L. 121-20 est passible d'une amende administrative dont le
+montant ne peut excéder 3 000 € pour une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans
+les conditions prévues à l'article L. 141-1-2.
 
-Ne sont pas soumis aux dispositions des articles L. 121-23 à L. 121-28 : 
+**Nota:**
 
-1° Les ventes à domicile de denrées ou de produits de consommation courante faites par des professionnels ou leurs préposés
-au cours de tournées fréquentes ou périodiques dans l'agglomération où est installé leur établissement ou dans son
-voisinage ; 
-
-2° et 3° (paragraphes abrogés). 
-
-4° Les ventes, locations ou locations-ventes de biens ou les prestations de services lorsqu'elles ont un rapport direct avec
-les activités exercées dans le cadre d'une exploitation agricole, industrielle, commerciale ou artisanale ou de toute autre
-profession.
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
@@ -4533,44 +4935,84 @@ profession.
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
-
-	**Modifié par**:
-
-	  - Loi n°95-96 du 1 février 1995 - art. 7 () JORF 2 février 1995
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Cité par**:
 
 	  - Loi n°96-603 du 5 juillet 1996 - art. 27 (Ab)
 	  - Code de commerce - art. L310-2 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
 	**Cite**:
 
-	  - Code de la consommation - art. L121-23 (V)
+	  - Code de la consommation - art. L121-18 (V)
+	  - Code de la consommation - art. L121-20 (V)
+	  - Code de la consommation - art. L141-1-2 (V)
 
+
+###### Article L121-22-1
+
+Tout manquement à la sous-section 6 de la présente section encadrant les conditions d'exercice du droit de rétractation
+reconnu au consommateur, ainsi que ses effets, est passible d'une amende administrative dont le montant ne peut excéder 15
+000 € pour une personne physique et 75 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues à
+l'article L. 141-1-2.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L141-1-2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L242-13 (V)
+
+
+##### Sous-section 8 : Sanctions pénales
 
 ###### Article L121-23
 
-Les opérations visées à l'article L. 121-21 doivent faire l'objet d'un contrat dont un exemplaire doit être remis au client
-au moment de la conclusion de ce contrat et comporter, à peine de nullité, les mentions suivantes : 
+Toute infraction aux articles L. 121-18-1 et L. 121-18-2 est punie d'une peine d'emprisonnement de deux ans et d'une amende
+de 150 000 €. 
 
-1° Noms du fournisseur et du démarcheur ; 
+Les personnes physiques déclarées coupables encourent également, à titre de peines complémentaires, l'interdiction, suivant
+les modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement. 
 
-2° Adresse du fournisseur ; 
+A l'occasion des poursuites pénales exercées contre le vendeur, le prestataire de services ou le démarcheur, le consommateur
+qui s'est constitué partie civile est recevable à demander devant la juridiction répressive une somme égale au montant des
+paiements effectués ou des effets souscrits, sans préjudice de tous dommages et intérêts. 
 
-3° Adresse du lieu de conclusion du contrat ; 
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, de
+l'infraction définie au présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 du même
+code, les peines prévues aux 2° à 9° de l'article 131-39 du même code. L'interdiction mentionnée au 2° du même article 131-39
+porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. Les peines prévues
+aux 2° à 7° dudit article ne peuvent être prononcées que pour une durée de cinq ans au plus.
 
-4° Désignation précise de la nature et des caractéristiques des biens offerts ou des services proposés ; 
+**Nota:**
 
-5° Conditions d'exécution du contrat, notamment les modalités et le délai de livraison des biens, ou d'exécution de la
-prestation de services ; 
-
-6° Prix global à payer et modalités de paiement ; en cas de vente à tempérament ou de vente à crédit, les formes exigées par
-la réglementation sur la vente à crédit, ainsi que le taux nominal de l'intérêt et le taux effectif global de l'intérêt
-déterminé dans les conditions prévues à l'article L. 313-1 ; 
-
-7° Faculté de renonciation prévue à l'article L. 121-25, ainsi que les conditions d'exercice de cette faculté et, de façon
-apparente, le texte intégral des articles L. 121-23, L. 121-24, L. 121-25 et L. 121-26.
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
@@ -4583,190 +5025,227 @@ apparente, le texte intégral des articles L. 121-23, L. 121-24, L. 121-25 et L.
 	  - Code de la consommation - art. L121-28 (V)
 	  - Code de la consommation - art. L121-33 (V)
 
-	**Anciens textes**:
-
-	  - Loi n°72-1137 1972-12-22 art. 2 al. 1 à 8
-
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-21 (V)
-	  - Code de la consommation - art. L121-25 (V)
-	  - Code de la consommation - art. L313-1 (V)
+	  - Code de la consommation - art. L121-18-1 (VT)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
 
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L242-5 (V)
+	  - Code de la consommation - art. L242-6 (V)
+	  - Code de la consommation - art. L242-7 (M)
+	  - Code de la consommation - art. L242-8 (V)
+	  - Code de la consommation - art. L242-9 (V)
+
+
+##### Sous-section 9 : Disposition applicable aux consommateurs résidant dans un Etat membre de l'Union européenne
 
 ###### Article L121-24
 
-Le contrat visé à l'article L. 121-23 doit comprendre un formulaire détachable destiné à faciliter l'exercice de la faculté
-de renonciation dans les conditions prévues à l'article L. 121-25. Un décret en Conseil d'Etat précisera les mentions devant
-figurer sur ce formulaire. 
+Nonobstant toute stipulation contraire, le consommateur ne peut être privé de la protection que lui assurent les dispositions
+prises par un Etat membre de l'Union européenne en application de la directive 2011/83/UE du Parlement européen et du Conseil
+du 25 octobre 2011 relative aux droits des consommateurs, modifiant la directive 93/13/CEE du Conseil et la directive
+1999/44/CE du Parlement européen et du Conseil et abrogeant la directive 85/577/CEE du Conseil et la directive 97/7/CE du
+Parlement européen et du Conseil, lorsque le contrat conclu à distance ou hors établissement présente un lien étroit avec le
+territoire de cet Etat.
 
-Ce contrat ne peut comporter aucune clause attributive de compétence. 
+**Nota:**
 
-Tous les exemplaires du contrat doivent être signés et datés de la main même du client.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1137 1972-12-22 art. 2 al. 9 à 11
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-23 (V)
-	  - Code de la consommation - art. L121-25 (V)
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L121-28 (M)
-	  - Code de la consommation - art. R*121-4 (M)
-	  - Code de la consommation - art. R*121-5 (M)
-
-
-###### Article L121-25
-
-Dans les sept jours, jours fériés compris, à compter de la commande ou de l'engagement d'achat, le client a la faculté d'y
-renoncer par lettre recommandée avec accusé de réception. Si ce délai expire normalement un samedi, un dimanche ou un jour
-férié ou chômé, il est prorogé jusqu'au premier jour ouvrable suivant. 
-
-Toute clause du contrat par laquelle le client abandonne son droit de renoncer à sa commande ou à son engagement d'achat est
-nulle et non avenue. 
-
-Le présent article ne s'applique pas aux contrats conclus dans les conditions prévues à l'article L. 121-27.
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1137 du 22 décembre 1972 - art. 3 (M)
-	  - Loi n°89-421 1989-06-23 art. 10 II
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 	**Codifié par**:
 
 	  - Loi n°93-949 du 26 juillet 1993
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
 	**Cité par**:
 
-	  - Code de la consommation - art. L121-23 (V)
-	  - Code de la consommation - art. L121-24 (V)
-	  - Code de la consommation - art. L121-26 (V)
 	  - Code de la consommation - art. L121-28 (M)
-	  - Code de la consommation - art. L121-87 (V)
+	  - Code de la consommation - art. L139-1 (VT)
 	  - Code de la consommation - art. R*121-4 (M)
-	  - Code de la consommation - art. R121-3 (M)
+	  - Code de la consommation - art. R*121-5 (M)
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code de la consommation - art. L121-27
+	  - Code de la consommation - art. L232-3 (V)
 
+
+##### Section 3 : Démarchage
+
+##### Section 3 : Dispositions particulières aux contrats conclus à distance portant sur des services financiers
 
 ###### Article L121-26
 
-Avant l'expiration du délai de réflexion prévu à l'article L. 121-25, nul ne peut exiger ou obtenir du client, directement ou
-indirectement, à quelque titre ni sous quelque forme que ce soit une contrepartie quelconque ni aucun engagement ni effectuer
-des prestations de services de quelque nature que ce soit. 
+La présente section régit la fourniture de services financiers à un consommateur dans le cadre d'un système de vente ou de
+prestation de services à distance organisé par le fournisseur ou par un intermédiaire qui, pour ce contrat, utilise
+exclusivement une ou plusieurs techniques de communication à distance jusqu'à, et y compris, la conclusion du contrat.
 
-Toutefois, la souscription à domicile d'abonnement à une publication quotidienne et assimilée, au sens de l'article 39 bis du
-code général des impôts, n'est pas soumise aux dispositions de l'alinéa précédent dès lors que le consommateur dispose d'un
-droit de résiliation permanent, sans frais ni indemnité, assorti du remboursement, dans un délai de quinze jours, des sommes
-versées au prorata de la durée de l'abonnement restant à courir. 
-
-En outre, les engagements ou ordres de paiement ne doivent pas être exécutés avant l'expiration du délai prévu à l'article L.
-121-25 et doivent être retournés au consommateur dans les quinze jours qui suivent sa rétractation. 
-
-Les dispositions du deuxième alinéa s'appliquent aux souscriptions à domicile proposées par les associations et entreprises
-agréées par l'Etat ayant pour objet la fourniture de services mentionnés à l'article L. 7231-1 du code du travail sous forme
-d'abonnement.
+Elle s'applique aux services mentionnés aux livres Ier à III et au titre V du livre V du code monétaire et financier ainsi
+qu'aux opérations pratiquées par les entreprises régies par le code des assurances, par les mutuelles et unions régies par le
+livre II du code de la mutualité et par les institutions de prévoyance et unions régies par le titre III du livre IX du code
+de la sécurité sociale sans préjudice des dispositions spécifiques prévues par ces codes.
 
 **Nota:**
 
-Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
-la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
-
-La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
-du travail au 1er mai 2008.
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°72-1137 du 22 décembre 1972 - art. 4 (Ab)
+	  - Code de la consommation - art. L121-20-8 (VT)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 14 (V)
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
 
 	**Cité par**:
 
 	  - Décret n°2014-1061 du 17 septembre 2014 (V)
 	  - Code de la consommation - art. Annexe à l'article R311-3 (V)
 	  - Code de la consommation - art. L121-28 (M)
+	  - Code de la consommation - art. L123-1 (VT)
 	  - Code de la consommation - art. R121-3 (MMN)
 	  - Code de la mutualité - art. L221-18 (VD)
 	  - Code de la sécurité sociale. - art. L932-15-1 (M)
 	  - Code des assurances - art. L112-2-1 (VD)
 	  - Code monétaire et financier - art. L343-1 (VD)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L222-1 (V)
+	  - Code de la consommation - art. L222-2 (V)
+
+
+###### Article L121-26-1
+
+Pour les contrats portant sur des services financiers comportant une première convention de service suivie d'opérations
+successives ou d'une série d'opérations distinctes, de même nature, échelonnées dans le temps, les dispositions de la
+présente section ne s'appliquent qu'à la première convention de service. Pour les contrats renouvelables par tacite
+reconduction, les dispositions de la présente section ne s'appliquent qu'au contrat initial. 
+
+En l'absence de première convention de service, lorsque des opérations successives ou distinctes, de même nature, échelonnées
+dans le temps, sont exécutées entre les mêmes parties, les dispositions de l'article L. 121-27 ne sont applicables qu'à la
+première opération. Cependant, lorsqu'aucune opération de même nature n'est effectuée pendant plus d'un an, ces dispositions
+s'appliquent à l'opération suivante, considérée comme une première opération.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L121-20-9 (VT)
+
 	**Cite**:
 
-	  - Code de la consommation - art. L121-25 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 39 bis (V)
-	  - Code du travail - art. L7231-1 (V)
+	  - Code de la consommation - art. L121-27
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L222-3 (V)
 
 
 ###### Article L121-27
 
-A la suite d'un démarchage par téléphone ou par tout moyen technique assimilable, le professionnel doit adresser au
-consommateur une confirmation de l'offre qu'il a faite. Le consommateur n'est engagé que par sa signature. Il bénéficie alors
-des dispositions prévues aux articles L. 121-18, L. 121-19, L. 121-20, L. 121-20-1 et L. 121-20-3.
+En temps utile et avant qu'il ne soit lié par un contrat, le consommateur reçoit des informations dont la liste est fixée par
+décret en Conseil d'Etat et portant sur : 
+
+1° L'identité et les coordonnées du professionnel et de toute personne agissant pour son compte ; 
+
+2° Les informations relatives aux produits, instruments et services financiers proposés ; 
+
+3° Le droit de rétractation ; 
+
+4° Les conditions contractuelles, notamment tarifaires, et les modalités ainsi que le lieu de conclusion du contrat ; 
+
+5° La loi applicable au contrat et la juridiction compétente.
+
+Les informations communiquées par le fournisseur au consommateur sur les obligations contractuelles sont conformes à la loi
+applicable au contrat en cas de conclusion de celui-ci.
+
+Ces informations, dont le caractère commercial doit apparaître sans équivoque, sont fournies de manière lisible et
+compréhensible par tout moyen adapté à la technique de communication à distance utilisée.
+
+Le présent article est applicable sans préjudice de l'application des obligations législatives et réglementaires spécifiques
+à chaque produit, instrument financier ou service proposé.
+
+Le décret en Conseil d'Etat mentionné au premier alinéa fixe également les modalités particulières applicables en cas de
+communication par téléphonie vocale.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°72-1137 1972-12-22 art. 2 bis
 	  - Loi n°72-1137 du 22 décembre 1972 - art. 2 bis (Ab)
+	  - Code de la consommation - art. L121-20-10 (VT)
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Modifié par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 24 () JORF 22 juin 2004
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de la consommation - art. L121-18 (V)
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L121-25 (VT)
 	  - Code de la consommation - art. L121-26-1 (VT)
 	  - Code de la consommation - art. L121-28 (VT)
+	  - Code de la consommation - art. L121-30 (VT)
 	  - Code de la consommation - art. R121-3 (MMN)
 	  - Code de la consommation - art. R121-5 (Ab)
 	  - Code de la mutualité - art. L221-18 (VD)
@@ -4774,18 +5253,33 @@ des dispositions prévues aux articles L. 121-18, L. 121-19, L. 121-20, L. 121-2
 	  - Code des assurances - art. L112-2-1 (VD)
 	  - Code monétaire et financier - art. L343-2 (VD)
 
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L222-5 (V)
+
 
 ###### Article L121-28
 
-Toute infraction aux dispositions des articles L. 121-23, L. 121-24, L. 121-25 et L. 121-26 sera punie d'une peine
-d'emprisonnement d'un an et d'une amende de 3 750 euros ou de l'une de ces deux peines seulement. 
+Le consommateur reçoit, par écrit ou sur un autre support durable à sa disposition et auquel il a accès en temps utile et
+avant tout engagement, les conditions contractuelles ainsi que les informations mentionnées à l'article L. 121-27. Elles sont
+fournies au consommateur conformément aux dispositions législatives et réglementaires spécifiques à chaque produit,
+instrument financier ou service proposé. 
 
-Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
-modalités prévues par l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
-professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
-d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
-quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
-industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement.
+Le fournisseur exécute ses obligations de communication immédiatement après la conclusion du contrat, lorsque celui-ci a été
+conclu à la demande du consommateur en utilisant une technique de communication à distance ne permettant pas la transmission
+des informations précontractuelles et contractuelles sur un support papier ou sur un autre support durable. Dans ce cas et
+lorsque le contrat porte sur une opération mentionnée au premier alinéa de l'article L. 311-42, le fournisseur n'est tenu de
+communiquer au consommateur que les seules informations contractuelles. 
+
+A tout moment au cours de la relation contractuelle, le consommateur a le droit, s'il en fait la demande, de recevoir les
+conditions contractuelles sur un support papier. En outre, le consommateur a le droit de changer les techniques de
+communication à distance utilisées, à moins que cela ne soit incompatible avec le contrat à distance conclu ou avec la nature
+du service financier fourni.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
@@ -4802,7 +5296,7 @@ industrielle ou une société commerciale. Ces interdictions d'exercice peuvent 
 	  - Code de la sécurité sociale. - art. L931-7-2 (V)
 	  - Code de la sécurité sociale. - art. L932-15-1 (M)
 	  - Code de la sécurité sociale. - art. R932-2-3 (V)
-	  - Code des assurances - art. L112-2-1 (V)
+	  - Code des assurances - art. L112-2-1 (VD)
 	  - Code des assurances - art. L322-2 (V)
 	  - Code des assurances - art. R112-4 (V)
 	  - Code monétaire et financier - art. L500-1 (V)
@@ -4810,15 +5304,24 @@ industrielle ou une société commerciale. Ces interdictions d'exercice peuvent 
 	**Anciens textes**:
 
 	  - Loi n°72-1137 du 22 décembre 1972 - art. 5 (Ab)
+	  - Code de la consommation - art. L121-20-11 (VT)
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 71
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-23 (V)
-	  - Code pénal - art. 131-27 (V)
+	  - Code de la consommation - art. L121-27
+	  - Code de la consommation - art. L311-42
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L222-6 (V)
 
 
 ###### Article L121-29
@@ -4857,27 +5360,115 @@ L'entreprise est civilement responsable des démarcheurs, même indépendants, q
 	  - Code monétaire et financier - art. R341-16 (V)
 
 
+###### Article L121-30
+
+I.-Les contrats pour lesquels s'applique le délai de rétractation mentionné à l'article L. 121-29 ne peuvent recevoir de
+commencement d'exécution par les parties avant l'arrivée du terme de ce délai sans l'accord du consommateur. Lorsque celui-ci
+exerce son droit de rétractation, il ne peut être tenu qu'au paiement proportionnel du service financier effectivement
+fourni, à l'exclusion de toute pénalité. 
+
+Le fournisseur ne peut exiger du consommateur le paiement du service mentionné au premier alinéa que s'il peut prouver que le
+consommateur a été informé du montant dû, conformément à l'article L. 121-27. Toutefois, il ne peut pas exiger ce paiement
+s'il a commencé à exécuter le contrat avant l'expiration du délai de rétractation sans demande préalable du consommateur. 
+
+Pour les contrats de crédit à la consommation prévus au chapitre Ier du titre Ier du livre III, même avec l'accord du
+consommateur, ils ne peuvent recevoir de commencement d'exécution durant les sept premiers jours, sauf s'agissant des
+contrats de crédit affecté mentionnés au IV de l'article L. 121-29, qui ne peuvent recevoir de commencement d'exécution
+durant les trois premiers jours. 
+
+II.-Le fournisseur est tenu de rembourser au consommateur dans les meilleurs délais et au plus tard dans les trente jours
+toutes les sommes qu'il a perçues de celui-ci en application du contrat, à l'exception du montant mentionné au premier alinéa
+du I. Ce délai commence à courir le jour où le fournisseur reçoit notification par le consommateur de sa volonté de se
+rétracter. Au-delà du délai de trente jours, la somme due est, de plein droit, productive d'intérêts au taux légal en
+vigueur. 
+
+Le consommateur restitue au fournisseur dans les meilleurs délais et au plus tard dans les trente jours toute somme et tout
+bien qu'il a reçus de ce dernier. Ce délai commence à courir à compter du jour où le consommateur communique au fournisseur
+sa volonté de se rétracter.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L121-20-13 (VT)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-27 (VT)
+	  - Code de la consommation - art. L121-29
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L222-13 (V)
+	  - Code de la consommation - art. L222-14 (V)
+	  - Code de la consommation - art. L222-15 (V)
+	  - Code de la consommation - art. L242-15 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R121-3 (MMN)
+	  - Code de la consommation - art. R121-6-1 (Ab)
+	  - Code de la mutualité - art. L221-18 (VD)
+	  - Code de la sécurité sociale. - art. L932-15-1 (M)
+	  - Code des assurances - art. L112-2-1 (VD)
+	  - Code monétaire et financier - art. R341-16 (V)
+
+
 ###### Article L121-31
 
-A l'occasion des poursuites pénales exercées en application de la présente section contre le vendeur, le prestataire de
-services ou le démarcheur, le client qui s'est constitué partie civile est recevable à demander devant la juridiction
-répressive une somme égale au montant des paiements effectués ou des effets souscrits, sans préjudice de tous dommages-
-intérêts.
+Les dispositions de l'article L. 34-5 du code des postes et communications électroniques sont applicables aux services
+financiers. 
+
+Les techniques de communication à distance destinées à la commercialisation de services financiers autres que celles
+mentionnées à l'article L. 34-5 du code des postes et communications électroniques ne peuvent être utilisées que si le
+consommateur n'a pas manifesté son opposition. 
+
+Les mesures prévues au présent article ne doivent pas entraîner de frais pour le consommateur.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°72-1137 1972-12-22 art. 6 al. 3
 	  - Loi n°72-1137 du 22 décembre 1972 - art. 6 (Ab)
+	  - Code de la consommation - art. L121-20-14 (VT)
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L222-16 (M)
 
 	**Cité par**:
 
@@ -4886,7 +5477,17 @@ intérêts.
 
 ###### Article L121-32
 
-Des décrets en Conseil d'Etat pourront régler, en tant que de besoin, les modalités d'application de la présente section.
+Lorsque les parties ont choisi la loi d'un Etat non membre de l'Union européenne pour régir le contrat, le juge devant lequel
+est invoquée cette loi est tenu d'en écarter l'application au profit des dispositions plus protectrices de la loi de la
+résidence habituelle du consommateur assurant la transposition de la directive 2002/65/CE du Parlement européen et du Conseil
+du 23 septembre 2002 concernant la commercialisation à distance de services financiers auprès des consommateurs, et modifiant
+les directives  90/619/CEE du Conseil, 97/7/CE et 98/27/CE, lorsque le contrat présente un lien étroit avec le territoire
+d'un ou plusieurs Etats membres de l'Union européenne.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
@@ -4897,36 +5498,33 @@ Des décrets en Conseil d'Etat pourront régler, en tant que de besoin, les moda
 	**Cité par**:
 
 	  - Loi n°89-421 du 23 juin 1989 - art. 10 (V)
+	  - Code de la consommation - art. L139-1 (VT)
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L232-4 (V)
 
 
 ###### Article L121-33
 
-Il est interdit de se rendre au domicile d'une personne physique, à sa résidence ou à son lieu de travail pour proposer la
-vente, la location ou la location-vente de documents ou matériels quelconques tendant à répondre aux mêmes besoins que des
-prestations de services pour lesquelles le démarchage est prohibé en raison de son objet par un texte particulier. 
+Les dispositions de la présente section sont d'ordre public.
 
-Toute infraction aux dispositions de l'alinéa précédent entraîne, outre la nullité de la convention, l'application des
-sanctions prévues à l'article L. 121-28. 
+**Nota:**
 
-Ne sont pas visés par les dispositions des alinéas précédents les supports matériels de connaissance des langues étrangères
-ou régionales destinés à leur libre apprentissage, sans assistance ou suivi pédagogique, dont la présentation ne fait pas
-référence à un niveau scolaire, à une activité d'enseignement, à la réussite scolaire, à une formation, à l'obtention d'un
-diplôme ou d'une situation professionnelle. Dans ce cas, le délai de réflexion de sept jours est prolongé d'un délai
-supplémentaire expirant quinze jours après la réception du produit par le client pour faire retour de ce produit pour
-remboursement. En cas d'exercice de ce droit de retour, le matériel est restitué au vendeur sans frais ou indemnités autres
-que les frais de réexpédition. Le contrat prévu à l'article L. 121-23 doit reproduire en outre le texte du présent alinéa
-concernant la faculté de résiliation de la commande. 
-
-Les résultats des tests d'aptitude à l'emploi des méthodes de langues effectués par le vendeur ou le fabricant sous le
-contrôle d'un tiers indépendant doivent être communiqués au consommateur avant la conclusion du contrat.
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
@@ -4936,39 +5534,59 @@ contrôle d'un tiers indépendant doivent être communiqués au consommateur ava
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Modifié par**:
 
-	  - Loi n°94-442 du 3 juin 1994 - art. 6 () JORF 4 juin 1994
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de la consommation - art. L121-23 (V)
-	  - Code de la consommation - art. L121-28 (V)
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L222-18 (V)
 
 
-##### Section 4 : Ventes directes
+##### Section 4 : Régime d'opposition au démarchage téléphonique
 
 ###### Article L121-34
 
-Les règles relatives aux ventes directes aux consommateurs ainsi qu'à la commercialisation des productions déclassées sont
-fixées par l'article 39 de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat reproduit ci-
-après :
+Le consommateur qui ne souhaite pas faire l'objet de prospection commerciale par voie téléphonique peut gratuitement
+s'inscrire sur une liste d'opposition au démarchage téléphonique. 
 
-Les ventes directes aux consommateurs et la commercialisation des productions déclassées pour défauts, pratiquées par les
-industriels, sont soumises à une réglementation fixée par décret.
+Il est interdit à un professionnel, directement ou par l'intermédiaire d'un tiers agissant pour son compte, de démarcher
+téléphoniquement un consommateur inscrit sur cette liste, sauf en cas de relations contractuelles préexistantes. 
+
+Lorsqu'un professionnel est amené à recueillir auprès d'un consommateur des données téléphoniques, il l'informe de son droit
+à s'inscrire sur la liste d'opposition au démarchage téléphonique. Lorsque ce recueil d'information se fait à l'occasion de
+la conclusion d'un contrat, le contrat mentionne, de manière claire et compréhensible, l'existence de ce droit pour le
+consommateur. 
+
+Est interdite la location ou la vente de fichiers contenant des données téléphoniques et comportant les coordonnées d'un ou
+plusieurs consommateurs inscrits sur la liste d'opposition au démarchage téléphonique. 
+
+Le ministre chargé de l'économie désigne par arrêté l'organisme chargé de la gestion de la liste d'opposition au démarchage
+téléphonique, après mise en concurrence, pour une durée fixée par voie réglementaire. 
+
+Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, détermine les
+modalités de fonctionnement du mécanisme d'opposition au démarchage téléphonique, les conditions dans lesquelles les
+entreprises ont accès à une version actualisée de la liste et les modalités du contrôle de l'Etat sur l'organisme
+gestionnaire. 
+
+Les interdictions prévues aux deuxième et quatrième alinéas ne s'appliquent pas à la prospection en vue de la fourniture de
+journaux, de périodiques ou de magazines. 
+
+Le présent article s'applique sans préjudice des articles 38 à 40 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés.
 
 **Nota:**
 
-L'article 39 de la loi n° 73-1193 a été abrogé par la loi n° 96-603 du 5 juillet 1996 et repris dans le code de la
-consommation à l'article L. 121-34.
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 39 (Ab)
 
 	**Anciens textes**:
 
@@ -4976,15 +5594,121 @@ consommation à l'article L. 121-34.
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
+	  - Code de la consommation - art. L121-34-1 (VT)
 	  - Code de la consommation - art. R121-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L223-1 (V)
+	  - Code de la consommation - art. L223-2 (V)
+	  - Code de la consommation - art. L223-3 (V)
+	  - Code de la consommation - art. L223-4 (V)
+	  - Code de la consommation - art. L223-5 (V)
+	  - Code de la consommation - art. L223-6 (V)
+
+
+###### Article L121-34-1
+
+Tout manquement à l'article L. 121-34 est passible d'une amende administrative dont le montant ne peut excéder 15 000 € pour
+une personne physique et 75 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues à l'article L.
+141-1-2.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-34 (VT)
+	  - Code de la consommation - art. L141-1-2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L242-16 (V)
+
+
+###### Article L121-34-1-1
+
+Les conditions de la prospection directe au moyen d'un automate d'appel, d'un télécopieur ou d'un courrier électronique sont
+prévues à l'article L. 34-5 du code des postes et des communications électroniques.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'articles 9 de ladite
+loi s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L223-7 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L34-5
+
+
+##### Section 4 bis : Interdiction des numéros masqués   en matière de démarchage téléphonique
+
+###### Article L121-34-2
+
+Lorsqu'un professionnel contacte un consommateur par téléphone dans les conditions mentionnées à l'article L. 121-20,
+l'utilisation d'un numéro masqué est interdite. 
+
+Le numéro affiché avant l'établissement de l'appel en application du premier alinéa du présent article est affecté au
+professionnel pour le compte duquel l'appel est effectué. En cas de rappel du consommateur à ce numéro, ce professionnel
+s'identifie préalablement à la facturation de toute prestation de services autre que le prix de la communication. 
+
+Un arrêté conjoint des ministres chargés de la consommation et de l'économie numérique, pris après avis de l'Autorité de
+régulation des communications électroniques et des postes, définit les tranches de numéro qui ne peuvent être utilisées comme
+identifiant d'appel par un professionnel qui joint un consommateur, en tenant compte du plafond de tarification et du format
+de ces numéros.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-20 (V)
 
 
 ##### Section 5 : Ventes ou prestations avec primes
@@ -6552,6 +7276,52 @@ caractère personnel lors de l'utilisation des services de communications élect
 	**Cité par**:
 
 	  - Code des postes et des communications électroni... - art. L33-1 (V)
+
+
+###### Article L121-83-2
+
+Dans le cas d'un contrat conclu à distance, à la suite d'un démarchage téléphonique ou hors établissement, et dont le
+consommateur a demandé l'exécution avant la fin du délai de rétractation prévu à l'article L. 121-21 et, le cas échéant, à
+l'article L. 121-21-1 du présent code, la demande de conservation du numéro prévue à l'article L. 44 du code des postes et
+des communications électroniques adressée durant ce délai à un autre opérateur auprès duquel il souscrit un nouveau contrat
+entraîne, pour le consommateur, des obligations de renvoi ou de restitution des biens dans des conditions identiques à celles
+prévues à l'article L. 121-21-3 du présent code pour l'exercice du droit de rétractation, sous réserve du délai de
+restitution, qui court à compter du portage effectif du numéro. Le consommateur verse par ailleurs à son opérateur un montant
+correspondant au service fourni dans des conditions identiques à celles prévues à l'article L. 121-21-5 pour l'exercice du
+droit de rétractation, sous réserve que le montant corresponde au service fourni jusqu'au portage effectif du numéro. Enfin,
+l'opérateur est tenu de rembourser les sommes versées dans des conditions identiques à celles prévues à l'article L.
+121-21-4, sous réserve du délai de remboursement, qui court à compter du portage effectif du numéro. Le consommateur est
+informé des conséquences d'une demande de conservation du numéro effectuée auprès d'un autre opérateur durant le délai de
+rétractation en même temps qu'il est informé de l'existence de son droit de rétractation.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
+s'appliquent aux contrats conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-21
+	  - Code de la consommation - art. L121-21-1 (VT)
+	  - Code de la consommation - art. L121-21-3
+	  - Code de la consommation - art. L121-21-4 (VT)
+	  - Code de la consommation - art. L121-21-5
+	  - Code des postes et des communications électroniques - art. L44
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-31 (V)
+	  - Code de la consommation - art. L224-32 (V)
 
 
 ###### Article L121-84
@@ -8514,18 +9284,31 @@ l'article L. 122-12 du présent code.
 
 ###### Article L123-1
 
-Les articles L. 121-20-8 à L. 121-20-16 sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles
-Wallis et Futuna.
+Les articles L. 121-26 à L. 121-33 sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et
+Futuna.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, l'article 33 s'applique aux contrats conclus après le 13
+juin 2014.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 1
+	  - Loi n°2014-344 du 17 mars 2014 - art. 33 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-20-8
+	  - Code de la consommation - art. L121-26 (VT)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L123-2 (VT)
 
 
 ###### Article L123-2
@@ -8552,70 +9335,64 @@ applicables localement.
 
 ###### Article L123-3
 
-Pour l'application du III de l'article L. 121-20-12 en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et
+Pour l'application du III de l'article L. 121-29 en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et
 Futuna : 
 
-1° Les mots : " mentionnés à l'article L. 121-60 " sont remplacés par les mots : " ou groupe de contrats, conclus à titre
+1° Les mots : "mentionnés à l'article L. 121-60" sont remplacés par les mots : "ou groupe de contrats, conclus à titre
 onéreux, par lequel un professionnel confère à un consommateur, directement ou indirectement, un droit ou un service
 d'utilisation de biens à temps partagé, ou concernant des produits de vacances à long terme, ou de revente ou d'échange de
-tels droits ou services " ; 
+tels droits ou services" ; 
 
 2° Cet alinéa est complété par un alinéa ainsi rédigé : 
 
-" Cet article ne s'applique pas non plus au contrat de souscription ou de cession de parts ou actions de sociétés
+"Cet article ne s'applique pas non plus au contrat de souscription ou de cession de parts ou actions de sociétés
 d'attribution d'immeubles en jouissance à temps partagé régi par les dispositions applicables localement relatives aux
-sociétés d'attribution d'immeubles en jouissance à temps partagé. "
+sociétés d'attribution d'immeubles en jouissance à temps partagé."
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, l'article 33 s'applique aux contrats conclus après le 13
+juin 2014.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 1
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-20-12
-
-
-###### Article L123-4
-
-Pour l'application de l'article L. 121-20-14 en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna,
-les mots : " reproduites à l'article L. 121-20-5, " sont supprimés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 1
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2014-344 du 17 mars 2014 - art. 33 (V)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
 	**Cite**:
 
-	  - Code de la consommation - art. L121-20-14
+	  - Code de la consommation - art. L121-29
 
 
 ###### Article L123-5
 
-Pour son application en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, l'article L. 121-20-15
+Pour son application en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, l'article  L. 121-32
 est ainsi rédigé : 
 
-" Art. L. 121-20-15. ― Lorsque les parties ont choisi la loi d'un Etat autre que la France pour régir le contrat, le juge
-devant lequel est invoquée cette loi est tenu d'en écarter l'application au profit des dispositions plus protectrices de la
-loi de la résidence habituelle du consommateur concernant la protection des consommateurs en matière de commercialisation à
-distance de services financiers. "
+"Art. L. 121-32. ― Lorsque les parties ont choisi la loi d'un Etat autre que la France pour régir le contrat, le juge devant
+lequel est invoquée cette loi est tenu d'en écarter l'application au profit des dispositions plus protectrices de la loi de
+la résidence habituelle du consommateur concernant la protection des consommateurs en matière de commercialisation à distance
+de services financiers."
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, l'article 33 s'applique aux contrats conclus après le 13
+juin 2014.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 1
+	  - Loi n°2014-344 du 17 mars 2014 - art. 33 (V)
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de la consommation - art. L121-20-15
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
 ### Titre III : Conditions générales des contrats
@@ -8624,17 +9401,26 @@ distance de services financiers. "
 
 ###### Article L131-1
 
-Si la chose qu'on s'est obligé à vendre est mobilière, toute somme versée d'avance sur le prix, quels que soient la nature de
-ce versement et le nom qui est donné dans l'acte, est productive, au taux légal en matière civile, d'intérêts qui courront à
-l'expiration d'un délai de trois mois à compter du versement jusqu'à réalisation ou restitution des sommes versées d'avance,
-sans préjudice de l'obligation de livrer qui reste entière.
+I. - Sauf stipulation contraire, pour tout contrat de vente ou de prestation de services conclu entre un professionnel et un
+consommateur, les sommes versées d'avance sont des arrhes, au sens de l'article 1590 du code civil. Dans ce cas, chacun des
+contractants peut revenir sur son engagement, le consommateur en perdant les arrhes, le professionnel en les restituant au
+double.
 
-Pour les prestations de services, les sommes versées d'avance portent intérêts au taux légal à l'expiration d'un délai de
-trois mois à compter du versement jusqu'à l'exécution de la prestation ou la restitution de ces sommes, sans préjudice de
-l'obligation d'exécuter la prestation.
+II. - Lorsque le contrat de vente porte sur un bien mobilier, toute somme versée d'avance sur le prix, quels que soient la
+nature de ce versement et le nom qui est donné dans l'acte, est productive, au taux légal en matière civile, d'intérêts qui
+commencent à courir à l'expiration d'un délai de trois mois à compter du versement jusqu'à la réalisation de la vente, sans
+préjudice de l'obligation de livrer, qui reste entière.
 
-Les intérêts seront déduits du solde à verser au moment de la réalisation ou seront ajoutés aux sommes versées d'avance en
-cas de restitution.
+Pour les prestations de services, les sommes versées d'avance portent intérêt au taux légal à l'expiration d'un délai de
+trois mois à compter du versement jusqu'à l'exécution de la prestation, sans préjudice de l'obligation d'exécuter la
+prestation.
+
+Les intérêts sont déduits du solde à verser au moment de la réalisation.
+
+**Nota:**
+
+Loi n° 2014-344 du 17 mars 2014 article 34 : Les présentes dispositions s'appliquent aux contrats conclus après le 13 juin
+2014.
 
 **Liens relatifs à cet article**
 
@@ -8644,11 +9430,20 @@ cas de restitution.
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+	  - Loi n°2014-344 du 17 mars 2014 - art. 20
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L214-1 (V)
+	  - Code de la consommation - art. L214-2 (V)
 
 
 ###### Article L131-2
@@ -9180,22 +9975,196 @@ australes et antarctiques françaises.
 	  - Code de la consommation - art. L137-1 (VT)
 
 
-#### Chapitre VIII : Dispositions relatives à l'outre-mer
+#### Chapitre VIII : Livraison et transfert de risque
 
 ###### Article L138-1
 
-Les articles L. 137-1 et L. 137-2 sont applicables à Mayotte, dans les îles Wallis et Futuna, en Nouvelle-Calédonie et dans
-les Terres australes et antarctiques françaises.
+Le professionnel livre le bien ou fournit le service à la date ou dans le délai indiqué au consommateur, conformément au 3°
+de l'article L. 111-1, sauf si les parties en ont convenu autrement. 
+
+A défaut d'indication ou d'accord quant à la date de livraison ou d'exécution, le professionnel livre le bien ou exécute la
+prestation sans retard injustifié et au plus tard trente jours après la conclusion du contrat. 
+
+La livraison s'entend du transfert au consommateur de la possession physique ou du contrôle du bien.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, les présentes dispositions s'appliquent aux contrats
+conclus après le 13 juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 23
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L111-1
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L138-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L216-1 (V)
+
+
+###### Article L138-2
+
+En cas de manquement du professionnel à son obligation de livraison du bien ou de fourniture du service à la date ou à
+l'expiration du délai prévus au premier alinéa de l'article L. 138-1 ou, à défaut, au plus tard trente jours après la
+conclusion du contrat, le consommateur peut résoudre le contrat, par lettre recommandée avec demande d'avis de réception ou
+par un écrit sur un autre support durable, si, après avoir enjoint, selon les mêmes modalités, le professionnel d'effectuer
+la livraison ou de fournir le service dans un délai supplémentaire raisonnable, ce dernier ne s'est pas exécuté dans ce
+délai. 
+
+Le contrat est considéré comme résolu à la réception par le professionnel de la lettre ou de l'écrit l'informant de cette
+résolution, à moins que le professionnel ne se soit exécuté entre-temps. 
+
+Néanmoins, le consommateur peut immédiatement résoudre le contrat lorsque le professionnel refuse de livrer le bien ou de
+fournir le service ou lorsqu'il n'exécute pas son obligation de livraison du bien ou de fourniture du service à la date ou à
+l'expiration du délai prévu au premier alinéa du même article L. 138-1 et que cette date ou ce délai constitue pour le
+consommateur une condition essentielle du contrat. Cette condition essentielle résulte des circonstances qui entourent la
+conclusion du contrat ou d'une demande expresse du consommateur avant la conclusion du contrat.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014,  les présentes dispositions s'appliquent aux contrats
+conclus après le 13  juin 2014.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2008-561 du 17 juin 2008 - art. 25 (V)
+	  - Loi n°2014-344 du 17 mars 2014 - art. 23
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L137-1
+	  - Code de la consommation - art. L138-1 (VT)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L138-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L216-2 (V)
+
+
+###### Article L138-3
+
+Lorsque le contrat est résolu dans les conditions prévues à l'article L. 138-2, le professionnel est tenu de rembourser le
+consommateur de la totalité des sommes versées, au plus tard dans les quatorze jours suivant la date à laquelle le contrat a
+été dénoncé. La somme versée par le consommateur est de plein droit majorée de 10 % si le remboursement intervient au plus
+tard trente jours au-delà de ce terme, de 20 % jusqu'à soixante jours et de 50 % ultérieurement.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014,  les présentes dispositions s'appliquent aux contrats
+conclus après le 13  juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 23
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L138-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L216-3 (V)
+	  - Code de la consommation - art. L241-4 (V)
+
+
+###### Article L138-4
+
+Tout risque de perte ou d'endommagement des biens est transféré au consommateur au moment où ce dernier ou un tiers désigné
+par lui, et autre que le transporteur proposé par le professionnel, prend physiquement possession de ces biens.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014,  les présentes dispositions s'appliquent aux contrats
+conclus après le 13  juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 23
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L216-4 (V)
+
+
+###### Article L138-5
+
+Lorsque le consommateur confie la livraison du bien à un transporteur autre que celui proposé par le professionnel, le risque
+de perte ou d'endommagement du bien est transféré au consommateur à la remise du bien au transporteur.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014,  les présentes dispositions s'appliquent aux contrats
+conclus après le 13  juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 23
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L216-5 (V)
+
+
+###### Article L138-6
+
+Les dispositions du présent chapitre sont d'ordre public.
+
+**Nota:**
+
+Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014,  les présentes dispositions s'appliquent aux contrats
+conclus après le 13  juin 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 23
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L216-6 (V)
 
 
 #### Chapitre IX : Droit applicable
