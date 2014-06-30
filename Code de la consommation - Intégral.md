@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-06-14
+Version Consolidée au 2014-07-01
 
 # Partie législative
 
@@ -22,8 +22,6 @@ dans le cadre de son activité commerciale, industrielle, artisanale ou libéral
 ## Livre Ier : Information des consommateurs et formation des contrats
 
 ### Titre Ier : Information des consommateurs
-
-#### Chapitre Ier : Obligation générale d'information
 
 #### Chapitre Ier : Obligation générale d'information précontractuelle
 
@@ -3790,10 +3788,6 @@ lisible et intelligible que l'indication de leur prix de vente.
 	  - Code de la consommation - art. L122-11 (V)
 
 
-##### Section 2 : Ventes de biens et fournitures de prestations de services à distance
-
-##### Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers
-
 ##### Section 2 : Contrats conclus à distance et hors établissement
 
 ##### Sous-section 1 : Définitions et champ d'application
@@ -5095,8 +5089,6 @@ s'appliquent aux contrats conclus après le 13 juin 2014.
 
 	  - Code de la consommation - art. L232-3 (V)
 
-
-##### Section 3 : Démarchage
 
 ##### Section 3 : Dispositions particulières aux contrats conclus à distance portant sur des services financiers
 
@@ -21463,115 +21455,6 @@ des sections 2, 4, 6 et 7 du chapitre II et des sections 1, 3 et 4 à 8 du prés
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L314-21 (V)
-
-
-##### Section 6 : Crédit garanti par une hypothèque rechargeable
-
-###### Article L313-14
-
-Les dispositions de la présente section s'appliquent aux opérations de crédit consenties à titre habituel par toute personne
-physique ou morale relevant soit des dispositions du chapitre Ier relatif au crédit à la consommation, soit des dispositions
-du chapitre II relatif au crédit immobilier du présent titre et garanties par une hypothèque rechargeable au sens de
-l'article 2422 du code civil.
-
-Les opérations mentionnées à l'article L. 311-16 ne peuvent donner lieu à un crédit garanti par une hypothèque rechargeable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°78-22 du 10 janvier 1978 - art. 26 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 59
-
-	**Abrogé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 46 (V)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L311-9
-	  - Code civil - art. 2422
-
-
-###### Article L313-14-1
-
-Est annexé au contrat de crédit un document intitulé "situation hypothécaire" dont un exemplaire est remis à l'emprunteur
-dans les mêmes conditions que le contrat de crédit lui-même.
-
-Ce document comporte :
-
-1° La mention de la durée de l'inscription hypothécaire ;
-
-2° L'identification du bien immobilier, objet de la garantie, et sa valeur estimée à la date de la convention constitutive
-d'hypothèque ;
-
-3° Le montant maximal garanti prévu par la convention constitutive d'hypothèque ;
-
-4° Le montant de l'emprunt initial souscrit ;
-
-5° Le cas échéant, le montant du ou des emprunts ultérieurement souscrits ;
-
-6° Une évaluation par le prêteur du coût du rechargement de l'hypothèque garantissant le ou les nouveaux crédits ;
-
-7° Une évaluation par le prêteur du coût total de l'hypothèque ;
-
-8° La mention que, sans préjudice de l'application des articles L. 311-23 et L. 311-24, s'il s'agit d'un crédit à la
-consommation, ou des articles L. 312-22 et L. 312-23, s'il s'agit d'un crédit immobilier, la défaillance de l'emprunteur peut
-entraîner la vente du bien hypothéqué selon les dispositions des articles 2464 et suivants du code civil.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 59
-
-	**Abrogé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 46 (V)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L311-30
-	  - Code de la consommation - art. L311-32
-	  - Code de la consommation - art. L312-22
-	  - Code de la consommation - art. L312-23
-	  - Code civil - art. 2464
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L313-14-2 (VT)
-
-
-###### Article L313-14-2
-
-Le fait pour le prêteur d'accorder un prêt garanti par une hypothèque rechargeable sans saisir l'emprunteur d'une offre
-préalable de crédit accompagnée d'un document satisfaisant aux conditions fixées par l'article L. 313-14-1 est puni d'une
-amende de 3 750 euros.
-
-En outre, le prêteur est déchu du droit aux intérêts et l'emprunteur n'est tenu qu'au seul remboursement du capital suivant
-l'échéancier prévu. Les sommes perçues au titre des intérêts sont restituées par le prêteur ou imputées sur le capital
-restant dû ; elles sont productives d'intérêt au taux légal du jour de leur versement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°93-949 du 26 juillet 1993
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 40 () JORF 24 mars 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 46 (V)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L313-14-1
 
 
 ##### Section 7 : Regroupement de crédits.
