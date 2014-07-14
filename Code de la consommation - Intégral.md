@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-07-01
+Version Consolidée au 2014-07-15
 
 # Partie législative
 
@@ -30029,6 +30029,112 @@ En cas de récidive, les peines d'amende prévues pour la récidive des contrave
 	  - Code de la consommation - art. L121-35 (M)
 	  - Code de la consommation - art. L122-1 (M)
 	  - Code de la consommation L121-35, L122-1, R121-8, R121-10
+
+
+##### Section 10 bis : Définition et modalités de mise en œuvre de la mention "fait maison"
+
+###### Article D121-13-1
+
+I.-Un produit brut, au sens du deuxième alinéa de l'article L. 121-82-1, est un produit alimentaire n'ayant subi aucune
+modification importante, y compris par chauffage, marinage, assemblage ou une combinaison de ces procédés. 
+
+II.-Peuvent entrer dans la composition d'un plat " fait maison " les produits qui ont été réceptionnés par le professionnel :
+
+- épluchés, à l'exception des pommes de terre, pelés, tranchés, coupés, découpés, hachés, nettoyés, désossés, dépouillés,
+décortiqués, taillés, moulus ou broyés ;
+
+- fumés, salés ;
+
+- réfrigérés, congelés, surgelés, conditionnés sous vide. 
+
+III.-Peuvent également entrer dans la composition des plats " faits maison " les produits suivants :
+
+- les salaisons, saurisseries et charcuteries, à l'exception des terrines et des pâtés ;
+
+- les fromages, les matières grasses alimentaires, la crème fraîche et le lait ;
+
+- le pain, les farines et les biscuits secs ;
+
+- les légumes et fruits secs et confits ;
+
+- les pâtes et les céréales ;
+
+- la choucroute crue et les abats blanchis ;
+
+- la levure, le sucre et la gélatine ;
+
+- les condiments, épices, aromates, concentrés, le chocolat, le café, les tisanes, thés et infusions ;
+
+- les sirops, vins, alcools et liqueurs ;
+
+- la pâte feuilletée crue ; et
+
+- sous réserve d'en informer par écrit le consommateur, les fonds blancs, bruns et fumets.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-797 du 11 juillet 2014 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 26 mars 2015 - art. (V)
+	  - Code de la consommation - art. D121-13-3 (M)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-82-1 (V)
+
+
+###### Article D121-13-2
+
+Un plat est élaboré sur place lorsqu'il est élaboré dans les locaux de l'établissement dans lequel il est proposé à la vente
+ou à la consommation. 
+
+Un plat "fait maison" peut être élaboré par le professionnel dans un lieu différent du lieu de vente ou de consommation
+uniquement : 
+
+- dans le cadre d'une activité de traiteur organisateur de réception ; 
+
+- dans le cadre d'une activité de commerce non sédentaire, notamment sur les foires, les marchés et lors de manifestations de
+plein air et de vente ambulante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-797 du 11 juillet 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+
+###### Article D121-13-3
+
+Les professionnels indiquent de manière visible par tous les consommateurs la mention suivante : " Les plats " faits maison "
+sont élaborés sur place à partir de produits bruts. " 
+
+I.-Lorsque l'ensemble des plats proposés par le professionnel est " fait maison ", la mention " fait maison " ou " maison "
+ou le logo défini par arrêté du ministre chargé du commerce peuvent figurer à un endroit unique visible par tous les
+consommateurs. Cette disposition s'applique de plein droit aux maîtres-restaurateurs. 
+
+II.-Les mentions ou le logo figurent, le cas échéant, pour chacun des plats sur les supports utilisés pour les présenter
+ainsi que sur les autres supports de commercialisation du professionnel, notamment en ligne. 
+
+III.-Un plat composé d'un produit non mentionné à l'article D. 121-13-1 peut être présenté comme " fait maison " dès lors que
+la marque du produit ou le nom du professionnel qui l'a fabriqué est expressément indiqué.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-797 du 11 juillet 2014 - art. 1
+
+	**Cite**:
+
+	  - Code de la consommation - art. D121-13-1 (V)
 
 
 ##### Section 12 : Contrats de fourniture d'électricité ou de gaz naturel
