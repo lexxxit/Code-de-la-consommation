@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-07-15
+Version Consolidée au 2014-07-26
 
 # Partie législative
 
@@ -4040,78 +4040,6 @@ s'appliquent aux contrats conclus après le 13 juin 2014.
 	  - Code de la consommation - art. L221-7 (V)
 
 
-###### Article L121-20-12
-
-I.-Le consommateur dispose d'un délai de quatorze jours calendaires révolus pour exercer son droit de rétractation, sans
-avoir à justifier de motif ni à supporter de pénalités. 
-
-Le délai pendant lequel peut s'exercer le droit de rétractation commence à courir : 
-
-1° Soit à compter du jour où le contrat à distance est conclu ; 
-
-2° Soit à compter du jour où le consommateur reçoit les conditions contractuelles et les informations, conformément à
-l'article L. 121-20-11, si cette dernière date est postérieure à celle mentionnée au 1°. 
-
-II.-Le droit de rétractation ne s'applique pas : 
-
-1° A la fourniture d'instruments financiers mentionnés à l'article L. 211-1 du code monétaire et financier ainsi qu'aux
-services de réception-transmission et exécution d'ordres pour le compte de tiers mentionnés à l'article L. 321-1 du même
-code ; 
-
-2° Aux contrats exécutés intégralement par les deux parties à la demande expresse du consommateur avant que ce dernier
-n'exerce son droit de rétractation ; 
-
-3° Aux contrats de crédit immobilier définis à l'article L. 312-2 ; 
-
-4° Aux contrats de prêts viagers hypothécaires définis à l'article L. 314-1. 
-
-III.-Le présent article ne s'applique pas aux contrats mentionnés à l'article L. 121-60. 
-
-IV.-Pour les contrats de crédit affecté définis au 9° de l'article L. 311-1 conclus selon une technique de communication à
-distance, le délai de rétractation de quatorze jours ne peut pas être réduit. 
-
-L'exercice du droit de rétractation n'emporte résolution de plein droit du contrat de vente ou de prestation de services que
-s'il intervient dans un délai de sept jours à compter de la conclusion du contrat de crédit. De plus, lorsque le
-consommateur, par une demande expresse, sollicite la livraison ou la fourniture immédiate du bien ou de la prestation de
-services, l'exercice du droit de rétractation n'emporte résolution de plein droit du contrat de vente ou de prestation de
-services que s'il intervient dans un délai de trois jours à compter de la conclusion du contrat de crédit. Toute livraison ou
-fourniture anticipée est à la charge du vendeur qui en supporte tous les risques.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 59
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
-	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-20-11
-	  - Code de la consommation - art. L121-60
-	  - Code de la consommation - art. L311-1
-	  - Code de la consommation - art. L312-2
-	  - Code de la consommation - art. L314-1
-	  - Code monétaire et financier - art. L211-1
-	  - Code monétaire et financier - art. L321-1
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L121-20-13 (VT)
-	  - Code de la consommation - art. L123-3 (VD)
-	  - Code de la consommation - art. R121-2-1 (T)
-	  - Code de la consommation - art. R121-2-2 (T)
-	  - Code de la mutualité - art. L221-18 (V)
-	  - Code monétaire et financier - art. R341-16 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L121-29 (VD)
-
-
 ##### Sous-section 3 : Dispositions particulières     applicables aux contrats conclus hors établissement
 
 ###### Article L121-18
@@ -5318,25 +5246,61 @@ s'appliquent aux contrats conclus après le 13 juin 2014.
 
 ###### Article L121-29
 
-Les dispositions du chapitre VIII du titre II du livre 1er du code de commerce sont applicables aux personnes qui effectuent
-des opérations de vente à domicile.
+I.-Le consommateur dispose d'un délai de quatorze jours calendaires révolus pour exercer son droit de rétractation, sans
+avoir à justifier de motif ni à supporter de pénalités. 
 
-L'entreprise est civilement responsable des démarcheurs, même indépendants, qui agissent pour son compte.
+Le délai pendant lequel peut s'exercer le droit de rétractation court à compter du jour où : 
+
+1° Le contrat à distance est conclu ; 
+
+2° Le consommateur reçoit les conditions contractuelles et les informations, conformément à l'article L. 121-28, si cette
+dernière date est postérieure à celle mentionnée au 1° du présent I. 
+
+II.-Le droit de rétractation ne s'applique pas : 
+
+1° A la fourniture d'instruments financiers mentionnés à l'article L. 211-1 du code monétaire et financier ainsi qu'aux
+services de réception-transmission et exécution d'ordres pour le compte de tiers mentionnés à l'article L. 321-1 du même
+code ; 
+
+2° Aux contrats exécutés intégralement par les deux parties à la demande expresse du consommateur avant que ce dernier
+n'exerce son droit de rétractation ; 
+
+3° Aux contrats de crédit immobilier définis à l'article L. 312-2 du présent code ; 
+
+4° Aux contrats de prêts viagers hypothécaires définis à l'article L. 314-1. 
+
+III.-Le présent article ne s'applique pas aux contrats mentionnés à l'article L. 121-60. 
+
+IV.-Pour les contrats de crédit affecté définis au 9° de l'article L. 311-1 conclus selon une technique de communication à
+distance, le délai de rétractation de quatorze jours ne peut pas être réduit. 
+
+L'exercice du droit de rétractation emporte résolution de plein droit du contrat de vente ou de prestation de services. 
+
+Si le bien ou la prestation de services à financer ne sont pas vendus à distance et que le consommateur, par une demande
+expresse, sollicite la livraison ou la fourniture immédiate du bien ou du service, l'exercice du droit de rétractation
+n'emporte résolution de plein droit du contrat de vente ou de prestation de services que s'il intervient dans un délai de
+trois jours à compter de la conclusion du contrat de crédit. Toute livraison ou fourniture anticipée est à la charge du
+vendeur, qui en supporte tous les risques.
+
+**Nota:**
+
+Loi n° 2014-344 du 17 mars 2014, art. 9 III : Les dispositions du présent article s'appliquent aux offres émises à compter du
+26 juillet 2014.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°72-1137 1972-12-22 art. 6 al. 1 et 2
 	  - Loi n°72-1137 du 22 décembre 1972 - art. 6 (Ab)
+	  - Code de la consommation - art. L121-20-12 (T)
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 4 (V) JORF 7 mai 2005
+	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
 
 	**Cité par**:
 
@@ -5345,11 +5309,33 @@ L'entreprise est civilement responsable des démarcheurs, même indépendants, q
 	  - Code de la consommation - art. L123-3 (VT)
 	  - Code de la consommation - art. R121-3 (MMN)
 	  - Code de la consommation - art. R121-4 (Ab)
-	  - Code de la mutualité - art. L221-18 (V)
+	  - Code de la mutualité - art. L221-18 (VD)
 	  - Code de la sécurité sociale. - art. L932-15-1 (M)
 	  - Code des assurances - art. L112-2-1 (VD)
 	  - Code monétaire et financier - art. L341-12 (VD)
 	  - Code monétaire et financier - art. R341-16 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-28
+	  - Code de la consommation - art. L121-60
+	  - Code de la consommation - art. L311-1
+	  - Code de la consommation - art. L312-2
+	  - Code de la consommation - art. L314-1
+	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. L321-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L222-10 (V)
+	  - Code de la consommation - art. L222-11 (V)
+	  - Code de la consommation - art. L222-12 (V)
+	  - Code de la consommation - art. L222-7 (M)
+	  - Code de la consommation - art. L222-9 (V)
 
 
 ###### Article L121-30
@@ -16666,22 +16652,7 @@ Pour les crédits mentionnés à l'article L. 311-16, un décret précise le con
 représentatif à l'aide duquel sont fournies les informations sur le coût du crédit. 
 
 Si le prêteur exige qu'un service accessoire soit fourni pour l'obtention du crédit, notamment une assurance, la publicité
-mentionne de façon claire, précise et visible la nécessité de contracter ce service. 
-
-Lorsqu'un prêteur propose habituellement des contrats de crédit assortis d'une proposition d'assurance facultative ayant pour
-objet la garantie de remboursement du crédit, toute publicité mentionnée au premier alinéa du présent article diffusée pour
-son compte sur ces contrats indique le coût de l'assurance, exprimé en euros et par mois, et précise si ce montant s'ajoute
-ou non à l'échéance de remboursement du crédit.
-
-**Nota:**
-
-Loi 2010-737 du 1er juillet 2010 article 61 I : Les dispositions de l'article L. 311-4 du code de la consommation résultant
-de l'article 4 de la loi n° 2010-737 ne s'appliquent qu'à compter du 1er novembre 2010 pour les catalogues de vente à
-distance.
-
-Conformément à l'article 4 du décret n° 2010-1005 du 30 août 2010, les dispositions de l'article 4 de la loi portant réforme
-du crédit à la consommation (2010-737) s'appliquent à compter du premier jour de la quatrième semaine suivant la date
-d'entrée en vigueur de cet article pour les publicités rendues publiques dans les deux mois précédant cette date.
+mentionne de façon claire, précise et visible la nécessité de contracter ce service.
 
 **Liens relatifs à cet article**
 
@@ -16691,7 +16662,6 @@ d'entrée en vigueur de cet article pour les publicités rendues publiques dans 
 
 	**Modifié par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 4
 	  - Loi n°2013-672 du 26 juillet 2013 - art. 60 (V)
 
 	**Cité par**:
@@ -16701,12 +16671,63 @@ d'entrée en vigueur de cet article pour les publicités rendues publiques dans 
 	  - Code de la consommation - art. D311-3-1 (VT)
 	  - Code de la consommation - art. L311-2 (VT)
 	  - Code de la consommation - art. L311-34 (VT)
+	  - Code de la consommation - art. L311-4-1 (VT)
 	  - Code de la consommation - art. L311-42 (VT)
 	  - Code de la consommation - art. L311-49 (VT)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
 	**Cite**:
 
-	  - Code de la consommation - art. L311-16 (V)
+	  - Code de la consommation - art. L311-16
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L312-59 (M)
+	  - Code de la consommation - art. L312-6 (V)
+
+
+###### Article L311-4-1
+
+Lorsqu'un prêteur propose habituellement des contrats de crédit assortis d'une proposition d'assurance ayant pour objet la
+garantie de remboursement du crédit, toute publicité mentionnée au premier alinéa de l'article L. 311-4 diffusée pour son
+compte sur ces contrats mentionne le coût de l'assurance, à l'aide de l'exemple représentatif mentionné au même premier
+alinéa. Ce coût est exprimé : 
+
+1° A l'exclusion de tout autre taux, en taux annuel effectif de l'assurance, qui permette la comparaison par l'emprunteur de
+ce taux avec le taux annuel effectif global du crédit ; 
+
+2° En montant total dû en euros par l'emprunteur au titre de l'assurance sur la durée totale du prêt ; 
+
+3° En euros par mois. Il est précisé si ce montant s'ajoute ou non à l'échéance de remboursement du crédit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 60 (V)
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2014-946 du 20 août 2014 - art. 7 (V)
+	  - Décret n°2014-1190 du 15 octobre 2014 (V)
+	  - Code de la consommation - art. D311-1 (Ab)
+	  - Code de la consommation - art. L311-6 (VT)
+	  - Code de la consommation - art. L313-2-1 (VT)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L311-4 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L312-7 (V)
 
 
 ###### Article L311-5
@@ -16790,7 +16811,8 @@ II.-Lorsque le consommateur sollicite la conclusion d'un contrat de crédit sur 
 la fiche d'informations mentionnée au I lui soit remise sur le lieu de vente. 
 
 III.-Lorsque le prêteur offre à l'emprunteur ou exige de lui la souscription d'une assurance, le prêteur ou l'intermédiaire
-de crédit informe l'emprunteur du coût standard de l'assurance, à l'aide d'un exemple chiffré exprimé en euros et par mois.
+de crédit informe l'emprunteur du coût de l'assurance en portant à sa connaissance les éléments mentionnés à l'article L.
+311-4-1.
 
 **Liens relatifs à cet article**
 
@@ -16800,7 +16822,6 @@ de crédit informe l'emprunteur du coût standard de l'assurance, à l'aide d'un
 
 	**Modifié par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 5
 	  - Loi n°2013-672 du 26 juillet 2013 - art. 60 (V)
 
 	**Cité par**:
@@ -16813,14 +16834,24 @@ de crédit informe l'emprunteur du coût standard de l'assurance, à l'aide d'un
 	  - Code de la consommation - art. L311-18 (VT)
 	  - Code de la consommation - art. L311-19 (VT)
 	  - Code de la consommation - art. L311-48 (VT)
+	  - Code de la consommation - art. L311-49 (VT)
 	  - Code de la consommation - art. L311-7 (VT)
 	  - Code de la consommation - art. L311-8 (VT)
 	  - Code de la consommation - art. R311-3 (Ab)
 	  - Code de la consommation - art. R313-12 (MMN)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
 	**Cite**:
 
-	  - Code de la consommation - art. L311-5 (V)
+	  - Code de la consommation - art. L311-4-1
+	  - Code de la consommation - art. L311-5 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L312-12 (V)
 
 
 ###### Article L311-7
@@ -18385,7 +18416,7 @@ Le contrat de vente ou de prestation de services est résolu de plein droit, san
 1° Si le prêteur n'a pas, dans un délai de sept jours à compter de l'acceptation du contrat de crédit par l'emprunteur,
 informé le vendeur de l'attribution du crédit ;
 
-2° Ou si l'emprunteur a, dans ce même délai de sept jours, exercé son droit de rétractation.
+2° Ou si l'emprunteur a exercé son droit de rétractation dans le délai prévu à l'article L. 311-12. 
 
 Toutefois, lorsque l'emprunteur, par une demande expresse, sollicite la livraison ou la fourniture immédiate du bien ou de la
 prestation de services, l'exercice du droit de rétractation du contrat de crédit n'emporte résolution de plein droit du
@@ -18394,19 +18425,20 @@ contrat de crédit par l'emprunteur.
 
 Le contrat n'est pas résolu si, avant l'expiration des délais mentionnés au présent article, l'acquéreur paie comptant.
 
+**Nota:**
+
+Loi n° 2014-344 du 17 mars 2014 article 9 III : Les présentes dispositions s'appliquent aux offres émises à compter du 26
+juillet 2014.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°78-22 du 10 janvier 1978 - art. 29 (Ab)
 
-	**Liens**:
-
-	  - DEPLACE: Loi n°2010-737 du 1er juillet 2010 - art. 14
-
 	**Modifié par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 14
+	  - Loi n°2014-344 du 17 mars 2014 - art. 49
 
 	**Cité par**:
 
@@ -18414,6 +18446,15 @@ Le contrat n'est pas résolu si, avant l'expiration des délais mentionnés au p
 	  - Décret n°2014-837 du 24 juillet 2014 (V)
 	  - Code de la consommation - art. L121-98 (VT)
 	  - Code de la consommation - art. L311-37 (VT)
+	  - Code de la consommation - art. L311-40 (VT)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L312-52 (V)
 
 
 ###### Article L311-37
@@ -19305,6 +19346,8 @@ Les conditions d'application du présent article sont fixées par décret en Con
 
 ##### Section 2 : Publicité
 
+##### Section 2 : Publicité et information de l'emprunteur
+
 ###### Article L312-4
 
 Toute publicité faite, reçue ou perçue en France, qui, quel que soit son support, porte sur l'un des prêts mentionnés à
@@ -19429,6 +19472,82 @@ des échéances, à des prestations sociales qui ne sont pas assurées pendant t
 	  - SPEC_APPLI: Code de la consommation L312-32 *sanctions pénales*
 
 
+###### Article L312-6-1
+
+Tout document remis à l'emprunteur préalablement à la formulation de l'offre mentionnée à l'article L. 312-7 et comportant un
+ou plusieurs éléments chiffrés sur l'assurance de groupe mentionnée au premier alinéa de l'article L. 312-9 mentionne le coût
+de cette assurance. Ce coût est exprimé : 
+
+1° A l'exclusion de tout autre taux, en taux annuel effectif de l'assurance, qui permette la comparaison par l'emprunteur de
+ce taux avec le taux effectif global annuel ; 
+
+2° En montant total en euros dû par l'emprunteur au titre de l'assurance sur la durée totale du prêt ; 
+
+3° En euros et par période, selon la périodicité de paiement. Il est précisé si ce montant s'ajoute ou non à l'échéance de
+remboursement du crédit. 
+
+Simultanément à la remise de tout document mentionné au présent article, doivent être remises la fiche standardisée
+d'information mentionnée à l'article L. 312-6-2 ainsi que la notice mentionnée au 1° de l'article L. 312-9. 
+
+Tout intermédiaire d'assurance ou organisme assureur proposant à l'emprunteur une assurance en couverture d'un crédit
+immobilier est soumis aux obligations prévues au présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 60 (V)
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2014-946 du 20 août 2014 - art. 7 (V)
+	  - Code de la consommation - art. L312-9 (VT)
+	  - Code de la consommation - art. L313-2-1 (VT)
+	  - Code de la consommation - art. L315-3 (VT)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L312-6-2
+	  - Code de la consommation - art. L312-7
+
+
+###### Article L312-6-2
+
+Une fiche standardisée d'information est remise, lors de la première simulation, à toute personne qui se voit proposer ou qui
+sollicite une assurance ayant pour objet de garantir le remboursement d'un prêt mentionné à l'article L. 312-2. Un décret en
+Conseil d'Etat fixe les modalités d'application du présent alinéa. 
+
+La fiche standardisée d'information mentionne la possibilité pour l'emprunteur de souscrire auprès de l'assureur de son choix
+une assurance dans les conditions fixées à l'article L. 312-9 et précise les types de garanties proposées. Un arrêté fixe le
+format de cette fiche ainsi que son contenu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 60 (V)
+
+	**Cité par**:
+
+	  - Décret n°2015-460 du 22 avril 2015 (V)
+	  - Arrêté du 29 avril 2015 (V)
+	  - Code de la consommation - art. L312-6-1 (VT)
+	  - Code de la consommation - art. R312-0-1 (MMN)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L312-2
+	  - Code de la consommation - art. L312-9
+
+
 ##### Section 3 : Le contrat de crédit
 
 ###### Article L312-7
@@ -19516,7 +19635,12 @@ l'article L. 312-9 ;
 6° Rappelle les dispositions de l'article L. 312-10. 
 
 Toute modification des conditions d'obtention d'un prêt dont le taux d'intérêt est fixe, notamment le montant ou le taux du
-crédit, donne lieu à la remise à l'emprunteur d'une nouvelle offre préalable.
+crédit, donne lieu à la remise à l'emprunteur d'une nouvelle offre préalable. 
+
+Dans les cas où l'emprunteur présente un autre contrat d'assurance à la place du contrat d'assurance de groupe proposé par le
+prêteur dans les conditions prévues à l'article L. 312-9, le prêteur peut émettre une offre modifiée sous réserve de l'avant-
+dernier alinéa du même article, sans que les délais mentionnés à l'article L. 312-10 ne soient prorogés ni ne courent à
+nouveau.
 
 **Nota:**
 
@@ -19537,17 +19661,26 @@ crédit, donne lieu à la remise à l'emprunteur d'une nouvelle offre préalable
 	  - ORDONNANCE n°2014-946 du 20 août 2014 - art. 7 (V)
 	  - Code de la consommation - art. L312-33 (VT)
 	  - Code de la consommation - art. L312-9 (VT)
-	  - Code de la consommation - art. L313-15 (V)
+	  - Code de la consommation - art. L313-15 (VT)
 
 	**Modifié par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 21
 	  - Loi n°2013-672 du 26 juillet 2013 - art. 60 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L312-10 (V)
-	  - Code de la consommation - art. L313-1 (V)
+	  - Code de la consommation - art. L312-10
+	  - Code de la consommation - art. L313-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L313-25 (M)
+	  - Code de la consommation - art. L313-27 (V)
+	  - Code de la consommation - art. L313-28 (V)
 
 
 ###### Article L312-9
@@ -19602,6 +19735,11 @@ paiement de frais supplémentaires, y compris les frais liés aux travaux d'anal
 L'assureur est tenu d'informer le prêteur du non-paiement par l'emprunteur de sa prime d'assurance ou de toute modification
 substantielle du contrat d'assurance.
 
+**Nota:**
+
+Conformément à l'article 54 VI de la loi n° 2014-344 du 17 mars 2014, le I de l'article 54 de la présente loi est applicable
+aux offres de prêts émises à compter du 26 juillet 2014.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -19618,20 +19756,32 @@ substantielle du contrat d'assurance.
 	  - ORDONNANCE n°2014-946 du 20 août 2014 - art. 15 (V)
 	  - ORDONNANCE n°2014-946 du 20 août 2014 - art. 7 (V)
 	  - Décret n°2015-494 du 29 avril 2015 (V)
+	  - Code de la consommation - art. L312-32-1 (VT)
+	  - Code de la consommation - art. L312-6-1 (VT)
 	  - Code de la consommation - art. L312-6-2 (VT)
 	  - Code de la consommation - art. L312-8 (VT)
 	  - Code de la consommation - art. R312-0-1 (MMN)
 	  - Code de la consommation - art. R312-1-3 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
 	**Cite**:
 
-	  - Code de la consommation - art. L312-14-1 (V)
-	  - Code de la consommation - art. L312-6-1 (VD)
+	  - Code de la consommation - art. L312-14-1
 	  - Code de la consommation - art. L312-7
-	  - Code de la consommation - art. L313-1 (V)
-	  - Code des assurances - art. L113-12 (V)
-	  - Code des assurances - art. L113-12-2 (V)
-	  - Code de la mutualité - art. L221-10 (V)
+	  - Code de la consommation - art. L313-1
+	  - Code des assurances - art. L113-12
+	  - Code de la mutualité - art. L221-10
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L313-29 (V)
+	  - Code de la consommation - art. L313-30 (M)
+	  - Code de la consommation - art. L313-31 (M)
+	  - Code de la consommation - art. L313-32 (M)
+	  - Code de la consommation - art. L313-33 (V)
 
 
 ###### Article L312-10
@@ -20981,6 +21131,37 @@ industrielle ou une société commerciale. Ces interdictions d'exercice ne peuve
 
 	  - Code de la consommation - art. L314-5 (V)
 	  - Code de la consommation - art. L341-49 (V)
+
+
+###### Article L313-2-1
+
+Un décret en Conseil d'Etat définit les modalités de calcul du taux annuel effectif de l'assurance mentionné aux articles L.
+311-4-1 et L. 312-6-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 60 (V)
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2014-946 du 20 août 2014 - art. 7 (V)
+	  - Décret n°2014-1190 du 15 octobre 2014 (V)
+	  - Code de la consommation - art. L315-5 (VT)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L311-4-1 (VT)
+	  - Code de la consommation - art. L312-6-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L314-4 (VT)
 
 
 ##### Sous-section 2 : Le taux d'usure
@@ -36812,342 +36993,345 @@ Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de rem
 <table>
   <tbody>
     <tr>
-      <td align="left" valign="top">
+      <td width="221" valign="top">
 
-Prêteur 
+Prêteur
 
-Adresse 
+Adresse
 
-Numéro de téléphone (*) 
+Numéro de téléphone (*)
 
-Adresse électronique (*) 
+Adresse électronique (*)
 
-Numéro de télécopieur (*) 
+Numéro de télécopieur (*)
 
-Adresse internet (*) 
-
-</td>
-      <td valign="top" align="left">
-
-[Identité] 
-
-[Adresse géographique à utiliser par l'emprunteur] 
+Adresse internet (*)
 
 </td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
+      <td valign="top" width="221">
 
-Le cas échéant 
+[Identité]
 
-Intermédiaire de crédit 
-
-</td>
-      <td valign="top" align="left">
-
-[Identité] 
+[Adresse géographique à utiliser par l'emprunteur]
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" width="221">
 
-Adresse 
+Le cas échéant
+
+Intermédiaire de crédit
 
 </td>
-      <td align="left" valign="top">
+      <td width="221" valign="top">
 
-Adresse électronique (*) 
+[Identité]
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
 
-Numéro de téléphone (*) 
-
-Numéro de télécopieur (*) 
-
-Adresse internet (*) 
+Adresse
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" width="221">
 
-[Identité] 
+Adresse électronique (*)
 
-[Adresse géographique à utiliser par l'emprunteur] 
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="221">
+
+Numéro de téléphone (*)
+
+Numéro de télécopieur (*)
+
+Adresse internet (*)
+
+</td>
+      <td width="221" valign="top">
+
+[Identité]
+
+[Adresse géographique à utiliser par l'emprunteur]
 
 </td>
     </tr>
   </tbody>
 </table>
+
+.
 
 2. Description des principales caractéristiques du crédit 
 
 <table>
   <tbody>
     <tr>
-      <td align="left" valign="top">
+      <td width="221" valign="top">
 
-Le type de crédit 
+Le type de crédit
 
 </td>
-      <td align="left" valign="top">
+      <td width="221" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td valign="top" width="221">
 
-Le montant total du crédit 
+Le montant total du crédit
 
 Il s'agit du plafond ou du total des sommes rendues disponibles en vertu du contrat de crédit [indiquer s'il s'agit du
-plafond ou du total] 
+plafond ou du total]
 
 </td>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
 
-Les conditions de mise à disposition des fonds 
+Les conditions de mise à disposition des fonds
 
-Il s'agit de la façon dont vous obtiendrez l'argent et du moment auquel vous l'obtiendrez. 
+Il s'agit de la façon dont vous obtiendrez l'argent et du moment auquel vous l'obtiendrez.
 
 </td>
-      <td align="left" valign="top">
+      <td width="221" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td valign="top" width="221">
 
-La durée du contrat de crédit 
+La durée du contrat de crédit
 
 </td>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" width="221">
 
-Les échéances et, le cas échéant, l'ordre dans lequel les échéances seront affectées 
+Les échéances et, le cas échéant, l'ordre dans lequel les échéances seront affectées
 
 </td>
-      <td valign="top" align="left">
+      <td valign="top" width="221">
 
-Vous devrez payer ce qui suit : 
+Vous devrez payer ce qui suit :
 
-[Le montant, le nombre et la fréquence des échéances que l'emprunteur doit verser] 
+[Le montant, le nombre et la fréquence des échéances que l'emprunteur doit verser]
 
-Les intérêts et/ ou les frais seront dus de la façon suivante : 
+Les intérêts et/ou les frais seront dus de la façon suivante :
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td width="221" valign="top">
 
-Le montant total que vous devrez payer 
+Le montant total que vous devrez payer
 
-Il s'agit du montant du capital emprunté majoré des intérêts et des frais éventuels liés à votre crédit. 
+Il s'agit du montant du capital emprunté majoré des intérêts et des frais éventuels liés à votre crédit.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" width="221">
 
-[La somme du montant total du crédit et du coût total du crédit] 
+[La somme du montant total du crédit et du coût total du crédit]
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
 
-Le cas échéant 
+Le cas échéant
 
 Le crédit est consenti sous la forme d'un délai de paiement pour un bien ou un service ou il est lié à la fourniture de bien
-(s) ou de service (s) déterminé (s) : 
+(s) ou de service (s) déterminé (s) :
 
-Nom du bien/ service 
+Nom du bien/service
 
-Prix au comptant 
+Prix au comptant
 
 </td>
-      <td valign="top" align="left">
+      <td valign="top" width="221">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td width="221" valign="top">
 
-En cas de location avec option d'achat 
+En cas de location avec option d'achat
 
-Le contrat a pour objet la location de : 
+Le contrat a pour objet la location de :
 
-Description du bien concerné 
+Description du bien concerné
 
-Le prix de vente final au terme de la location est de : 
+Le prix de vente final au terme de la location est de :
 
 </td>
-      <td align="left" valign="top">
+      <td width="221" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td valign="top" width="221">
 
-Le cas échéant 
+Le cas échéant
 
-Sûretés exigées 
+Sûretés exigées
 
-Il s'agit d'une description de la sûreté que vous devez fournir en relation avec le contrat de crédit. 
+Il s'agit d'une description de la sûreté que vous devez fournir en relation avec le contrat de crédit.
 
 </td>
-      <td align="left" valign="top">
+      <td width="221" valign="top">
 
-[Type de sûretés] 
+[Type de sûretés]
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
 
-Le cas échéant 
+Le cas échéant
 
-Les remboursements n'entraînent pas un amortissement immédiat du capital. 
+Les remboursements n'entraînent pas un amortissement immédiat du capital.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" width="221">
     </td></tr>
   </tbody>
 </table>
 
-3. Coût du crédit 
+3. Coût du crédit
 
 <table>
   <tbody>
     <tr>
-      <td valign="top" align="left">
+      <td valign="top" width="221">
 
-Le taux débiteur ou, le cas échéant, les différents taux débiteurs qui s'appliquent au contrat de crédit 
+Le taux débiteur ou, le cas échéant, les différents taux débiteurs qui s'appliquent au contrat de crédit
 
 </td>
-      <td align="left" valign="top">
+      <td width="221" valign="top">
 
-[Indiquer le taux exprimé en % : 
+[Indiquer le taux exprimé en % :
 
 Préciser la nature du taux : fixe ou variable (avec l'indice ou le taux de référence applicable au taux débiteur initial) ou
-révisable 
+révisable
 
 Préciser les périodes, conditions et procédures d'adaptation du taux débiteur ou de chaque taux s'il y a plusieurs taux
-débiteurs. 
+débiteurs.
 
-Lorsque le taux est révisable, indiquer la période de validité du taux (ou : taux en vigueur au...) et la fréquence de
-modification du taux (ou l'information selon laquelle le taux sera/ peut être modifié en cours de contrat par décision du
-prêteur.] 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-Taux annuel effectif global (TAEG) 
-
-Il s'agit du coût total exprimé en pourcentage annuel du montant total du crédit. 
-
-Le TAEG vous permet de comparer différentes offres. 
-
-</td>
-      <td valign="top" align="left">
-
-[Exprimé en %. Donner ici un exemple représentatif qui mentionne toutes les hypothèses utilisées pour calculer le taux] 
+Lorsque le taux est révisable, indiquer la période de validité du taux (ou : taux en vigueur au..) et la fréquence de
+modification du taux (ou l'information selon laquelle le taux sera/peut être modifié en cours de contrat par décision du
+prêteur.]
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" width="221">
+
+Taux annuel effectif global (TAEG)
+
+Il s'agit du coût total exprimé en pourcentage annuel du montant total du crédit.
+
+Le TAEG vous permet de comparer différentes offres.
+
+</td>
+      <td valign="top" width="221">
+
+[Exprimé en %. Donner ici un exemple représentatif qui mentionne toutes les hypothèses utilisées pour calculer le taux]
+
+</td>
+    </tr>
+    <tr>
+      <td width="221" valign="top">
 
 Est-il obligatoire pour l'obtention même du crédit ou conformément aux clauses et conditions commerciales de contracter :
 
 - une assurance liée au crédit ?
 
-- un autre service accessoire ? 
+- un autre service accessoire ?
 
-Si les coûts de ces services ne sont pas connus du prêteur, ils ne sont pas inclus dans le TAEG 
+Si les coûts de ces services ne sont pas connus du prêteur, ils ne sont pas inclus dans le TAEG.
 
-Lorsque l'assurance est proposée ou exigée par le prêteur, coût de cette assurance à l'aide d'un exemple chiffré exprimé en
-euros et par mois
+Lorsque l'assurance est proposée ou exigée par le prêteur, coût de cette assurance exprimé à l'aide d'un exemple chiffré en
+taux annuel effectif de l'assurance, en montant total dû en euro et par mois sur la base de la cotisation mensuelle la plus
+élevée.
 
 </td>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
 
-Oui/ non ; [si oui, préciser le type d'assurance, et ajouter la mention suivante :
+Oui/non [si oui, préciser le type d'assurance, et ajouter la mention suivante :
 
 Vous pouvez souscrire une assurance équivalente auprès de l'assureur de votre choix.]
 
-Oui/ non ; [si oui, préciser le type de service accessoire] 
+Oui/non [si oui, préciser le type de service accessoire].
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
 
-Montant des frais liés à l'exécution du contrat de crédit 
+Montant des frais liés à l'exécution du contrat de crédit
 
 </td>
-      <td valign="top" align="left">
+      <td valign="top" width="221">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
 
-Le cas échéant 
+Le cas échéant
 
-Montant des frais de tenue d'un (ou de plusieurs compte (s) si ce (s) compte (s) est (sont) nécessaire (s) pour les
-opérations de mise à disposition des fonds ou les opérations de paiement des échéances du crédit 
+Montant des frais de tenue d'un (ou de plusieurs compte(s) si ce(s) compte(s) est (sont) nécessaire(s) pour les opérations de
+mise à disposition des fonds ou les opérations de paiement des échéances du crédit
 
 </td>
-      <td valign="top" align="left">
+      <td valign="top" width="221">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" width="221">
 
-Le cas échéant 
+Le cas échéant
 
-Montant des frais liés à l'utilisation d'un moyen de paiement déterminé (par exemple une carte de crédit) 
+Montant des frais liés à l'utilisation d'un moyen de paiement déterminé (par exemple une carte de crédit)
 
 </td>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td valign="top" width="221">
 
-Le cas échéant 
+Le cas échéant
 
-Montant de tout autre frais lié au contrat de crédit 
+Montant de tout autre frais lié au contrat de crédit
 
 </td>
-      <td align="left" valign="top">
+      <td width="221" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td valign="top" width="221">
 
-Le cas échéant 
+Le cas échéant
 
-Conditions dans lesquelles les frais liés au contrat de crédit susmentionnés peuvent être modifiés 
+Conditions dans lesquelles les frais liés au contrat de crédit susmentionnés peuvent être modifiés
 
 </td>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
 
-Le cas échéant 
+Le cas échéant
 
-Obligation de payer des frais de notaire 
+Obligation de payer des frais de notaire
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" width="221">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
 
-Frais en cas de défaillance de l'emprunteur 
+Frais en cas de défaillance de l'emprunteur
 
-Les impayés risquent d'avoir de graves conséquences pour vous et de vous empêcher d'obtenir un nouveau crédit. 
+Les impayés risquent d'avoir de graves conséquences pour vous et de vous empêcher d'obtenir un nouveau crédit.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" width="221">
 
-Vous devrez payer [... (taux d'intérêt applicable et, le cas échéant, frais d'inexécution)] en cas de défaillance. 
+Vous devrez payer [.. (taux d'intérêt applicable et, le cas échéant, frais d'inexécution)] en cas de défaillance.
 
 </td>
     </tr>
@@ -37159,43 +37343,37 @@ Vous devrez payer [... (taux d'intérêt applicable et, le cas échéant, frais 
 <table>
   <tbody>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Droit de rétractation 
 
-Vous disposez d'un délai de quatorze jours calendaires pour revenir sur votre engagement vis-à-vis du contrat de crédit.
+Vous disposez d'un délai de quatorze jours calendaires pour revenir sur votre engagement vis-à-vis du contrat de crédit. 
 
 </td>
-      <td align="left" valign="top">
-
-Oui
+      <td align="left" valign="top">Oui. 
 
 (Le cas échéant) 
 
-Lorsque le contrat de crédit est un crédit affecté : 
-
-- la rétractation sur le contrat de crédit entre le premier et le septième jour met fin au contrat de vente principal ; 
-
-- si vous vous rétractez entre le huitième et le quatorzième jour, vous devez payer le bien ou la prestation de services
-acquis.
+Lorsque le contrat de crédit est un crédit affecté, la rétractation sur le contrat de crédit entre le premier et le
+quatorzième jour met fin au contrat de vente ou de prestation de services. 
 
 Lorsque, dans le cadre d'un crédit affecté, vous demandez la livraison immédiate du bien ou de la prestation de services,
 votre droit de rétractation sur le contrat de crédit prend fin le jour de la livraison du bien ou de l'exécution de la
 prestation de services (sans pouvoir être inférieur à trois jours, ni excéder quatorze jours). Son exercice ne met fin à
 votre contrat de vente principal que dans les trois premiers jours. Au-delà, vous êtes tenu d'acquérir le bien ou la
-prestation de services.
+prestation de services. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Remboursement anticipé 
 
 Vous avez le droit de procéder à tout moment au remboursement anticipé, total ou partiel, du crédit. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -37205,7 +37383,7 @@ Le cas échéant
 Le prêteur a droit à une indemnité en cas de remboursement anticipé. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 [Rappel des cas où l'indemnité de remboursement peut être exigée et du mode de calcul de l'indemnité conformément aux
 dispositions de l'article L. 311-22 du code de la consommation] 
@@ -37213,7 +37391,7 @@ dispositions de l'article L. 311-22 du code de la consommation]
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Le prêteur doit, dans le cadre de la procédure d'octroi du crédit, consulter le fichier national des incidents de
 remboursement des crédits aux particuliers. 
@@ -37230,10 +37408,10 @@ Vous avez le droit d'obtenir gratuitement, sur demande, un exemplaire du projet 
 s'applique pas si, au moment de la demande, le prêteur n'est pas disposé à conclure le contrat de crédit avec vous. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Le délai pendant lequel le prêteur est lié par les informations précontractuelles 
 
@@ -37255,170 +37433,168 @@ distinct qui peut être annexé à la présente fiche]
   </tbody>
 </table>
 
-5. Le cas échéant, informations complémentaires en cas de vente à distance 
-
-de services financiers au sens de l'article L. 121-20-8 du code de la consommation 
+5. Le cas échéant, informations complémentaires en cas de vente à distance de services financiers au sens de l'article L.
+121-26 du code de la consommation 
 
 <table>
   <tbody>
     <tr>
-      <td align="left" valign="top">
+      <td width="221" valign="top">
 
-a) Informations relatives au prêteur 
+a) Informations relatives au prêteur
 
 </td>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
 
-Le cas échéant 
+Le cas échéant
 
 </td>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td width="221" valign="top">
 
-Représentant du prêteur dans l'Etat membre dans lequel vous résidez 
+Représentant du prêteur dans l'Etat membre dans lequel vous résidez
 
 </td>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
 
-[Identité] 
+[Identité]
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
 
-Adresse 
+Adresse
 
-Numéro de téléphone (*) 
+Numéro de téléphone (*)
 
-Adresse électronique (*) 
+Adresse électronique (*)
 
-Numéro de télécopieur (*) 
+Numéro de télécopieur (*)
 
-Adresse internet (*) 
+Adresse internet (*)
 
 </td>
-      <td align="left" valign="top">
+      <td width="221" valign="top">
 
-[Adresse géographique à utiliser par l'emprunteur] 
+[Adresse géographique à utiliser par l'emprunteur]
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
 
-Enregistrement 
+Enregistrement
 
 </td>
-      <td valign="top" align="left">
+      <td valign="top" width="221">
 
 [Le registre du commerce dans lequel le prêteur est inscrit et son numéro d'enregistrement ou un moyen équivalent
-d'identification dans ce registre] 
+d'identification dans ce registre]
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
 
-L'autorité de surveillance 
+L'autorité de surveillance
 
 </td>
-      <td valign="top" align="left">
+      <td valign="top" width="221">
 
-[Les coordonnées des autorités chargées du contrôle de l'activité soumise à autorisation] 
+[Les coordonnées des autorités chargées du contrôle de l'activité soumise à autorisation]
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" width="221">
 
-b) Informations relatives au contrat de crédit 
+b) Informations relatives au contrat de crédit
 
 </td>
-      <td align="left" valign="top">
+      <td width="221" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" width="221">
 
-Exercice du droit de rétractation 
+Exercice du droit de rétractation
 
 </td>
-      <td valign="top" align="left">
+      <td valign="top" width="221">
 
 [Instructions pratiques pour l'exercice du droit de rétractation indiquant, entre autres, la période pendant laquelle ce
 droit peut être exercé, l'adresse à laquelle la notification doit être envoyée par l'emprunteur et les conséquences du non-
-exercice de ce droit] 
+exercice de ce droit]
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
 
-La législation sur laquelle le prêteur se fonde pour établir des relations avec vous avant la conclusion du contrat de
-crédit 
+La législation sur laquelle le prêteur se fonde pour établir des relations avec vous avant la conclusion du contrat de crédit
 
 </td>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" width="221">
 
-Clause concernant la législation applicable au contrat de crédit et/ ou la juridiction compétente 
+Clause concernant la législation applicable au contrat de crédit et/ou la juridiction compétente
 
 </td>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
 
-[Mentionner la clause pertinente ici] 
+[Mentionner la clause pertinente ici]
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td width="221" valign="top">
 
-Régime linguistique 
+Régime linguistique
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" width="221">
 
 Les informations et les conditions contractuelles seront fournies en [langue]. Avec votre accord, nous comptons communiquer
-en [langue/ langues] pendant la durée du contrat de crédit. 
+en [langue/langues] pendant la durée du contrat de crédit.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" width="221">
 
-c) Informations relatives au droit de recours 
+c) Informations relatives au droit de recours
 
 </td>
-      <td valign="top" align="left">
+      <td valign="top" width="221">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td valign="top" width="221">
 
-Existence de procédures extrajudiciaires de réclamation et de recours et modalités d'accès à ces procédures 
+Existence de procédures extrajudiciaires de réclamation et de recours et modalités d'accès à ces procédures
 
 </td>
-      <td valign="top" align="left">
+      <td width="221" valign="top">
 
 [Existence ou non de procédures extrajudiciaires de réclamation et de recours accessibles au consommateur qui est partie au
-contrat à distance et, si de telles procédures existent, les modalités d'accès à ces dernières] 
+contrat à distance et, si de telles procédures existent, les modalités d'accès à ces dernières]
 
 </td>
     </tr>
     <tr>
-      <td align="left" colspan="3" valign="top">
+      <td colspan="2" valign="top" width="442">
 
-(*) Les informations suivies de ce signe sont facultatives pour le prêteur. 
+(*) Les informations suivies de ce signe sont facultatives pour le prêteur.
 
 Le cas échéant : lorsque cette mention est indiquée, le prêteur doit remplir la case si l'information est pertinente pour le
 crédit ou supprimer l'information correspondante ou toute la ligne si l'information ne concerne pas le type de crédit
-envisagé. 
+envisagé.
 
 [Indications entre crochets] : ces explications sont destinées au prêteur et doivent être remplacées par les informations
 correspondantes.
@@ -37428,11 +37604,23 @@ correspondantes.
   </tbody>
 </table>
 
+.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1478 du 27 décembre 2012 - art. 3
+	  - Décret n°2014-837 du 24 juillet 2014 - art. 1
+	  - Décret n°2014-837 du 24 juillet 2014 - art. 2
+	  - Décret n°2014-837 du 24 juillet 2014 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-26
 
 
 ##### ANNEXE A L'ARTICLE R311-4
