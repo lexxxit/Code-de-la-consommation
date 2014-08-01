@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-07-26
+Version Consolidée au 2014-08-02
 
 # Partie législative
 
@@ -2890,6 +2890,47 @@ aux 2° à 7° dudit article ne peuvent être prononcées que pour une durée de
 	  - Code pénal - art. 131-39
 
 
+#### Chapitre VII : Transparence sur les conditions sociales de fabrication d'un produit
+
+###### Article L117-1
+
+Le fabricant, le producteur ou le distributeur d'un bien commercialisé en France transmet au consommateur qui en fait la
+demande et qui a connaissance d'éléments sérieux mettant en doute le fait que ce bien a été fabriqué dans des conditions
+respectueuses des conventions internationales relatives aux droits humains fondamentaux toute information dont il dispose
+portant sur un des éléments ci-après : origine géographique des matériaux et composants utilisés dans la fabrication,
+contrôles de qualité et audits, organisation de la chaîne de production et identité, implantation géographique et qualités du
+fabricant, de ses sous-traitants et fournisseurs. 
+
+Lorsque le fabricant, le producteur ou le distributeur ne possède pas l'information demandée, il est tenu d'en informer le
+consommateur à l'origine de la demande. 
+
+Si la transmission au consommateur d'une information, en application du premier alinéa, est de nature à compromettre
+gravement les intérêts stratégiques ou industriels du fabricant, du producteur ou du distributeur concerné par la demande,
+celui-ci peut décider de ne pas la transmettre à condition d'en motiver les raisons. 
+
+La liste des conventions mentionnées au premier alinéa est précisée par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 93
+
+	**Cité par**:
+
+	  - Décret n°2015-295 du 16 mars 2015 (V)
+	  - Code de la consommation - art. D117-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L113-1 (V)
+	  - Code de la consommation - art. L113-2 (V)
+
+
 ### Titre II : Pratiques commerciales
 
 #### Chapitre préliminaire :  Pratiques commerciales déloyales
@@ -3150,13 +3191,13 @@ Le présent article est applicable aux pratiques qui visent les professionnels.
 
 ###### Article L121-2
 
-Les                 agents de la concurrence, de la consommation et de la répression des fraudes, ceux de la direction
-générale de l'alimentation du ministère de l'agriculture et ceux du service de métrologie au ministère de l'industrie sont
-habilités à constater, au moyen de procès-verbaux sur l'ensemble du territoire national les pratiques commerciales
-trompeuses. Ils peuvent exiger du responsable d'une pratique commerciale la mise à leur disposition ou la communication de
-tous les éléments propres à justifier les allégations, indications ou présentations inhérentes à cette pratique. Ils peuvent
-également exiger de l'annonceur, de l'agence de publicité ou du responsable du support la mise à leur disposition des
-messages publicitaires diffusés. 
+Les agents de la concurrence, de la consommation et de la répression des fraudes, ceux de la direction générale de
+l'alimentation du ministère de l'agriculture et ceux du service de métrologie au ministère de l'industrie sont habilités à
+constater, au moyen de procès-verbaux sur l'ensemble du territoire national les pratiques commerciales trompeuses. Ils
+peuvent exiger du responsable d'une pratique commerciale la mise à leur disposition ou la communication de tous les éléments
+propres à justifier les allégations, indications ou présentations inhérentes à cette pratique, y compris lorsque ces éléments
+sont détenus par un fabricant implanté hors du territoire national. Ils peuvent également exiger de l'annonceur, de l'agence
+de publicité ou du responsable du support la mise à leur disposition des messages publicitaires diffusés. 
 
 Les procès-verbaux sur l'ensemble du territoire national dressés en application du présent article sont transmis au procureur
 de la République.
@@ -3169,18 +3210,27 @@ de la République.
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 94
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 93
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L541-34 (V)
-	  - Code de la consommation - art. L121-12 (V)
+	  - Code de la consommation - art. L121-12 (VT)
 	  - Code de la consommation - art. L121-15-3 (V)
 	  - Code de la consommation - art. L121-7 (VT)
 	  - Code de la consommation - art. L121-82 (VT)
 	  - Code du travail - art. L311-4-2 (AbD)
 	  - Code du travail - art. L5333-1 (VD)
 	  - Code du travail applicable à Mayotte. - art. L326-34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L511-20 (V)
+	  - Code de la consommation - art. L512-15 (V)
 
 
 ###### Article L121-3
@@ -19343,8 +19393,6 @@ Les conditions d'application du présent article sont fixées par décret en Con
 
 	  - Code de la consommation - art. L313-64 (VD)
 
-
-##### Section 2 : Publicité
 
 ##### Section 2 : Publicité et information de l'emprunteur
 
