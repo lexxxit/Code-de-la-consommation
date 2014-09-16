@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-08-24
+Version Consolidée au 2014-09-17
 
 # Partie législative
 
