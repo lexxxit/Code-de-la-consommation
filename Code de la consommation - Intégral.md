@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-09-17
+Version Consolidée au 2014-09-18
 
 # Partie législative
 
@@ -5996,6 +5996,21 @@ Tout manquement aux articles L. 121-36 à L. 121-38 est passible d'une amende ad
 
 	  - Code de la consommation - art. L121-36
 	  - Code de la consommation - art. L141-1-2
+
+
+##### Section 7 : Achats par l'intermédiaire    des opérateurs de communications électroniques
+
+###### Article L121-49
+
+Tout manquement aux articles L. 121-42 à L. 121-47 est passible d'une amende administrative dont le montant ne peut excéder 3
+000 € pour une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues à
+l'article L. 141-1-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 145 (M)
 
 
 ##### Section 8 : Publicité et pratiques commerciales concernant les préparations pour nourrissons
