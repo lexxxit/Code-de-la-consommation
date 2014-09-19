@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-09-18
+Version Consolidée au 2014-09-20
 
 # Partie législative
 
@@ -27978,6 +27978,128 @@ des organisations de consommateurs, du personnel de l'établissement ainsi que d
 
 ### Titre Ier : Information des consommateurs
 
+#### Chapitre Ier : Obligation générale d'information précontractuelle
+
+###### Article R111-1
+
+Pour l'application du 4° de l'article L. 111-1, le professionnel communique au consommateur les informations suivantes : 
+
+a) Son nom ou sa dénomination sociale, l'adresse géographique de son établissement et, si elle est différente, celle du siège
+social, son numéro de téléphone et son adresse électronique ; 
+
+b) Les modalités de paiement, de livraison et d'exécution du contrat ainsi que les modalités prévues par le professionnel
+pour le traitement des réclamations ; 
+
+c) S'il y a lieu, l'existence et les modalités d'exercice de la garantie légale de conformité mentionnée aux articles L.
+211-4 à L. 211-13 du présent code et de celle des défauts de la chose vendue dans les conditions prévues aux articles 1641 à
+1648 et 2232du code civil ainsi que, le cas échéant, de la garantie commerciale et du service après-vente au sens
+respectivement des articles L. 211-15 et L. 211-19 du présent code ; 
+
+d) S'il y a lieu, la durée du contrat ou, s'il s'agit d'un contrat à durée indéterminée ou à tacite reconduction, les
+conditions de sa résiliation ; 
+
+e) S'il y a lieu, toute interopérabilité pertinente du contenu numérique avec certains matériels ou logiciels dont le
+professionnel a ou devrait raisonnablement avoir connaissance ainsi que les fonctionnalités du contenu numérique, y compris
+les mesures de protection technique applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1061 du 17 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L111-1
+	  - Code de la consommation - art. L211-15
+	  - Code de la consommation - art. L211-4
+	  - Code civil - art. 1641
+	  - Code civil - art. 2232
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R111-1 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R111-2 (Ab)
+
+
+###### Article R111-2
+
+I.-Pour l'application du I de l'article L. 111-2, outre les informations prévues à l'article R. 111-1, le professionnel
+communique au consommateur ou met à sa disposition les informations suivantes : 
+
+a) Le statut et la forme juridique de l'entreprise ; 
+
+b) Les coordonnées permettant d'entrer en contact rapidement et de communiquer directement avec lui ; 
+
+c) Le cas échéant, le numéro d'inscription au registre du commerce et des sociétés ou au répertoire des métiers ; 
+
+d) Si son activité est soumise à un régime d'autorisation, le nom et l'adresse de l'autorité ayant délivré l'autorisation ; 
+
+e) S'il est assujetti à la taxe sur la valeur ajoutée et identifié par un numéro individuel en application de l'article 286
+ter du code général des impôts, son numéro individuel d'identification ; 
+
+f) S'il est membre d'une profession réglementée, son titre professionnel, l'Etat membre dans lequel il a été octroyé ainsi
+que, le cas échéant, le nom de l'ordre ou de l'organisme professionnel auprès duquel il est inscrit ; 
+
+g) Les conditions générales, s'il en utilise ; 
+
+h) Le cas échéant, les clauses contractuelles relatives à la législation applicable et la juridiction compétente ; 
+
+i) L'éventuelle garantie financière ou assurance de responsabilité professionnelle souscrite par lui, les coordonnées de
+l'assureur ou du garant ainsi que la couverture géographique du contrat ou de l'engagement. 
+
+II.-En outre, tout professionnel prestataire de services doit également communiquer au consommateur qui en fait la demande
+les informations complémentaires suivantes : 
+
+a) Lorsque le prix n'est pas déterminé au préalable par le prestataire pour un type de service donné, le prix du service ou,
+lorsqu'un prix exact ne peut pas être indiqué, la méthode de calcul permettant au destinataire de vérifier ce dernier, ou un
+devis suffisamment détaillé ; 
+
+b) En ce qui concerne les professions réglementées, une référence aux règles professionnelles applicables dans l'Etat membre
+de l'Union européenne sur le territoire duquel ce professionnel est établi et aux moyens d'y avoir accès ; 
+
+c) Des informations sur ses activités pluridisciplinaires et ses partenariats qui sont directement liés au service concerné
+et sur les mesures prises pour éviter les conflits d'intérêts. Ces informations figurent dans tout document d'information
+dans lequel le prestataire présente de manière détaillée ses services ; 
+
+d) Les éventuels codes de conduite auxquels il est soumis, l'adresse électronique à laquelle ces codes peuvent être consultés
+ainsi que les versions linguistiques disponibles ; 
+
+e) Les informations sur les conditions de recours à des moyens extrajudiciaires de règlement des litiges, lorsque ces moyens
+sont prévus par un code de conduite, un organisme professionnel ou toute autre instance. 
+
+III.-Au sens du d du I, un régime d'autorisation s'entend de toute procédure qui a pour effet d'obliger un prestataire ou un
+destinataire à faire une démarche auprès d'une autorité compétente en vue d'obtenir un acte formel ou une décision implicite
+relative à l'accès à une activité de services ou à son exercice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1061 du 17 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L111-2
+	  - Code de la consommation - art. R111-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R111-2 (V)
+	  - Code de la consommation - art. R111-3 (V)
+
+
 #### Chapitre II : Modes de présentation et inscriptions
 
 ###### Article R112-1
@@ -29533,33 +29655,6 @@ repris dans le code du commerce à l'article L. 410-2.
 	  - Code du tourisme. - art. R231-1-4 (V)
 
 
-#### Chapitre IV : Information sur les délais de livraison
-
-###### Article R114-1
-
-Les contrats conclus entre professionnels et consommateurs ayant pour objet la vente d'un bien meuble ou la fourniture d'une
-prestation de services dont le prix convenu est supérieur à 500 euros sont soumis aux dispositions de l'article L. 114-1
-lorsque la livraison du bien ou la fourniture de la prestation n'est pas immédiate.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Modifié par**:
-
-	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1061 du 17 septembre 2014 - art. 7
-
-	**Cite**:
-
-	  - Code de la consommation - art. L114-1
-
-
 #### Chapitre V : Valorisation des produits et des services
 
 ##### Section 4 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer
@@ -29656,34 +29751,11 @@ Le non-respect des dispositions de l'article R. 115-2 est puni des peines prévu
 
 #### Chapitre Ier : Pratiques commerciales réglementées
 
-##### Section 2 : Ventes de biens et fournitures de prestations de services à distance
-
-##### Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers.
+##### Section 2 : Contrats conclus à distance et hors établissement
 
 ###### Article R121-1
 
-Est punie de la peine d'amende prévue pour les contraventions de la cinquième classe la violation des dispositions de
-l'article L. 121-18.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Modifié par**:
-
-	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur 1e 1er décembre 2005
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-18 (M)
-
-
-###### Article R121-1-1
-
-Est punie de la peine d'amende prévue pour les contraventions de la cinquième classe la violation des dispositions de
-l'article L. 121-19.
+Le formulaire type de rétractation mentionné au 2° de l'article L. 121-17 figure en annexe au présent article.
 
 **Liens relatifs à cet article**
 
@@ -29693,65 +29765,79 @@ l'article L. 121-19.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur 1e 1er décembre 2005
+	  - Décret n°2014-1061 du 17 septembre 2014 - art. 2
 
 	**Abrogé par**:
 
-	  - Décret n°2014-1061 du 17 septembre 2014 - art. 2
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-19
+	  - Code de la consommation - art. L121-17
 
+	**Nouveaux textes**:
 
-###### Article R121-1-2
-
-Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le refus du vendeur de rembourser, dans
-les conditions fixées à l'article L. 121-20-1, le produit retourné par l'acheteur, lorsque celui-ci dispose d'un droit de
-rétractation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Modifié par**:
-
-	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur 1e 1er décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1061 du 17 septembre 2014 - art. 2
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-20-1
+	  - Code de la consommation - art. R221-1 (V)
 
 
 ###### Article R121-2
 
-I. - En cas de récidive des infractions prévues aux articles R. 121-1, R. 121-1-1 et R. 121-1-2, la peine d'amende prévue
-pour la récidive des contraventions de la cinquième classe est applicable.
+I.-En application du 6° du I de l'article L. 121-17, le professionnel communique au consommateur les informations
+suivantes : 
+
+a) L'adresse géographique où le professionnel est établi ainsi que son numéro de téléphone, son numéro de télécopieur et son
+adresse électronique ainsi que, le cas échéant, l'adresse géographique et l'identité du professionnel pour le compte duquel
+il agit ; 
+
+b) Si elle diffère de l'adresse fournie conformément au a, l'adresse géographique du siège commercial du professionnel et, le
+cas échéant, celle du professionnel pour le compte duquel il agit à laquelle le consommateur peut adresser une éventuelle
+réclamation ; 
+
+c) Le coût de l'utilisation de la technique de communication à distance pour la conclusion du contrat, lorsque ce coût est
+calculé sur une base autre que le tarif de base ; 
+
+d) L'existence de codes de conduite applicables et, le cas échéant, les modalités pour en obtenir une copie ; 
+
+e) Le cas échéant, la durée minimale des obligations contractuelles du consommateur ; 
+
+f) Le cas échéant, l'existence d'une caution ou d'autres garanties financières à payer ou à fournir par le consommateur à la
+demande du professionnel ainsi que les conditions y afférentes ; 
+
+g) La possibilité, le cas échéant, de recourir à une procédure extrajudiciaire de règlement des litiges à laquelle le
+professionnel est soumis et les modalités d'accès à celle-ci. 
+
+II.-Les informations relatives au droit de rétractation mentionnées aux 2°, 3° et 4° de l'article L. 121-17 peuvent être
+fournies au moyen de l'avis d'information type figurant en annexe au présent article dûment complété. 
+
+III.-En cas d'enchères publiques, les informations relatives à l'identité et aux coordonnées du professionnel peuvent être
+remplacées par des renseignements équivalents concernant le commissaire-priseur de ventes volontaires.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-671 du 18 juin 2010 - art. 5
+	  - Décret n°2014-1061 du 17 septembre 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation
-	  - Code pénal - art. 121-2
-	  - Code pénal - art. 131-41
+	  - Code de la consommation - art. L121-17
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R221-2 (V)
+	  - Code de la consommation - art. R221-3 (V)
+	  - Code de la consommation - art. R221-4 (V)
 
 
-##### Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers
+##### Section 3 : Dispositions particulières aux contrats conclus à distance portant sur des services financiers
 
-###### Article R121-2-1
+###### Article R121-3
 
-I.-Pour l'application de l'article L. 121-20-10, le fournisseur communique au consommateur des informations concernant : 
+I.-Pour l'application de l'article L. 121-27, le fournisseur communique au consommateur des informations concernant : 
 
 1° Son identité : l'identité, l'activité principale, l'adresse géographique à laquelle le fournisseur de services financiers
 est établi, ainsi que toute autre adresse nécessaire au suivi des relations entre le consommateur et le fournisseur. Lorsque
@@ -29763,9 +29849,16 @@ Lorsque le fournisseur est inscrit au registre du commerce et des sociétés, il
 d'immatriculation. En outre, les personnes soumises à agrément communiquent au consommateur les coordonnées des autorités
 chargées de leur contrôle. 
 
-2° Le service financier : le fournisseur informe le consommateur du prix total dû, y compris l'ensemble des commissions,
-charges et dépenses y afférentes et toutes les taxes acquittées par l'intermédiaire du fournisseur. Le fournisseur informe
-également le consommateur de l'existence de toute autre taxe ou frais qui ne sont pas acquittés ou facturés par lui. 
+2° Le service financier : le fournisseur communique au consommateur les documents d'information particuliers relatifs aux
+produits, instruments financiers et services proposés requis par les dispositions législatives et réglementaires en vigueur
+ou, en l'absence de tels documents, une note d'information sur chacun des produits, instruments financiers et services
+proposés et indiquant, s'il y a lieu, les risques particuliers qu'ils peuvent comporter. Il informe le consommateur du prix
+total dû, y compris l'ensemble des commissions, charges et dépenses y afférentes et toutes les taxes acquittées par
+l'intermédiaire du fournisseur. Le fournisseur informe également le consommateur de l'existence de toute autre taxe ou frais
+qui ne sont pas acquittés ou facturés par lui. 
+
+Il précise les modalités selon lesquelles sera conclu le contrat, et en particulier le lieu et la date de signature de celui-
+ci. 
 
 Le cas échéant, le fournisseur précise au consommateur, d'une part, que le service financier est lié à des instruments qui
 impliquent des risques particuliers du fait de leurs spécificités ou des opérations à exécuter ou dont le prix dépend de
@@ -29777,16 +29870,16 @@ valables, des modes de paiement et d'exécution et enfin, s'il y a lieu, de l'ex
 pour le consommateur afférent à l'utilisation de la technique de communication à distance. 
 
 3° Le contrat à distance : le fournisseur informe le consommateur de l'existence du droit de rétractation mentionné à
-l'article L. 121-20-12, de sa durée, des conséquences pécuniaires éventuelles de sa mise en oeuvre, ainsi que de l'adresse à
+l'article L. 121-29, de sa durée, des conséquences pécuniaires éventuelles de sa mise en oeuvre, ainsi que de l'adresse à
 laquelle le consommateur doit notifier sa décision. En cas d'absence d'un tel droit, le fournisseur en informe le
 consommateur ainsi que des conséquences de cette absence. 
 
-Pour les contrats pour lesquels s'applique le délai de rétractation mentionné à l'article L. 121-20-12, le fournisseur
-informe le consommateur du fait que, sauf accord exprès de ce dernier, le contrat ne peut commencer à être exécuté qu'à
-l'expiration du délai de rétractation. Pour les contrats de crédit à la consommation prévus au chapitre Ier du titre Ier du
-livre III, le fournisseur informe le consommateur du fait que, même avec son accord, le contrat ne peut commencer à être
-exécuté durant les sept premiers jours, sauf s'agissant des contrats de crédit affecté, qui ne peuvent commencer à être
-exécutés durant les trois premiers jours. 
+Pour les contrats pour lesquels s'applique le délai de rétractation mentionné à l'article L. 121-29, le fournisseur informe
+le consommateur du fait que, sauf accord exprès de ce dernier, le contrat ne peut commencer à être exécuté qu'à l'expiration
+du délai de rétractation. Pour les contrats de crédit à la consommation prévus au chapitre Ier du titre Ier du livre III, le
+fournisseur informe le consommateur du fait que, même avec son accord, le contrat ne peut commencer à être exécuté durant les
+sept premiers jours, sauf s'agissant des contrats de crédit affecté, qui ne peuvent commencer à être exécutés durant les
+trois premiers jours. 
 
 Le fournisseur informe le consommateur des droits contractuels que peuvent avoir les parties de résilier le contrat, sans
 omettre les éventuelles pénalités imposées par le contrat dans ce cas. 
@@ -29797,11 +29890,12 @@ Le consommateur est informé de la langue ou des langues qui seront utilisées e
 contractuelle, ainsi que de la langue ou des langues dans lesquelles le contrat sera rédigé. La langue utilisée durant la
 relation contractuelle est choisie en accord avec le consommateur. 
 
-4° Les recours : le fournisseur informe le consommateur de l'existence ou de l'absence de procédures extrajudiciaires de
-réclamation et de recours accessibles et, si de telles procédures existent, de leurs modalités d'exercice. Le consommateur
-est également informé de l'existence de fonds de garantie ou d'autres mécanismes d'indemnisation, tels que les mécanismes
-d'indemnisation des déposants, des investisseurs et des cautions, respectivement mentionnés aux articles L. 312-4, L. 313-50
-et L. 322-1 du code monétaire et financier. 
+4° Les recours : le fournisseur informe le consommateur de la loi applicable aux relations précontractuelles et au contrat
+ainsi que de l'existence de toute clause concernant le choix d'une juridiction. Il l'informe de l'existence ou de l'absence
+de procédures extrajudiciaires de réclamation et de recours accessibles et, si de telles procédures existent, de leurs
+modalités d'exercice. Le consommateur est également informé de l'existence de fonds de garantie ou d'autres mécanismes
+d'indemnisation, tels que les mécanismes d'indemnisation des déposants, des investisseurs et des cautions, respectivement
+mentionnés aux articles L. 312-4, L. 313-50 et L. 322-1 du code monétaire et financier. 
 
 5° En cas de communication par téléphonie vocale, l'identité du fournisseur et le caractère commercial de l'appel dont le
 fournisseur a pris l'initiative sont indiqués sans équivoque au début de toute conversation avec le consommateur. 
@@ -29819,53 +29913,54 @@ consommateur de vérifier ce dernier ;
 d) L'indication de l'existence éventuelle d'autres taxes ou frais qui ne sont pas acquittés par l'intermédiaire du
 fournisseur ou facturés par lui ; 
 
-e) L'existence ou l'absence du droit de rétractation mentionné à l'article L. 121-20-12 et, si ce droit existe, sa durée et
-les modalités de son exercice, y compris des informations sur le montant que le consommateur peut être tenu de payer en vertu
-de l'article L. 121-20-13. 
+e) L'existence ou l'absence du droit de rétractation mentionné à l'article L. 121-29 et, si ce droit existe, sa durée et les
+modalités de son exercice, y compris des informations sur le montant que le consommateur peut être tenu de payer en vertu de
+l'article L. 121-30. 
 
 Le fournisseur informe le consommateur sur, d'une part, le fait que d'autres informations peuvent être fournies sur demande
 et, d'autre part, la nature de ces informations. 
 
 II.-Lorsqu'un service de paiement défini au II de l'article L. 314-2 du code monétaire et financier est fourni dans les
-conditions prévues à l'article L. 121-20-8 du présent code, le fournisseur communique au consommateur, sans préjudice des
+conditions prévues à l'article L. 121-26 du présent code, le fournisseur communique au consommateur, sans préjudice des
 informations précisées par les dispositions législatives et réglementaires particulières à ce service, les informations
 prévues à la deuxième phrase du premier alinéa du 2° du I, aux deuxième et troisième alinéas du 2° du I, aux premier et
 deuxième alinéas du 3° du I, à la deuxième phrase du premier alinéa du 4° du I et, le cas échéant, au 5° du I.
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
+	**Codifié par**:
 
-	  - Arrêté du 12 novembre 2004 - art. 314-23 (V)
-	  - Code de la consommation - art. R123-1 (Ab)
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Modifié par**:
 
-	  - Décret n°2010-257 du 12 mars 2010 - art. 5
+	  - Décret n°2014-1061 du 17 septembre 2014 - art. 3
 
-	**Liens**:
+	**Cité par**:
 
-	  - TRANSFERE: Décret n°2014-1061 du 17 septembre 2014 - art. 3
+	  - Décret n°2016-607 du 13 mai 2016 - art.
+	  - Code de la consommation - art. R121-5 (Ab)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-20-10
-	  - Code de la consommation - art. L121-20-12
-	  - Code de la consommation - art. L121-20-8
+	  - Code de la consommation - art. L121-26
+	  - Code de la consommation - art. L121-27
+	  - Code de la consommation - art. L121-29
+	  - Code de la consommation - art. L121-30
 	  - Code monétaire et financier - art. L312-4
 	  - Code monétaire et financier - art. L313-50
 	  - Code monétaire et financier - art. L314-2
 	  - Code monétaire et financier - art. L322-1
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de la consommation - art. R121-3 (V)
+	  - Code de la consommation - art. R121-2-1 (T)
 
 
-###### Article R121-2-2
+###### Article R121-4
 
 Lorsque l'acte par lequel le consommateur a communiqué au fournisseur sa volonté de se rétracter a été envoyé sur un support
-papier ou sur un autre support durable avant l'expiration du délai mentionné à l'article L. 121-20-12, le consommateur est
+papier ou sur un autre support durable avant l'expiration du délai mentionné à l'article L. 121-29, le consommateur est
 réputé avoir respecté ce délai.
 
 **Liens relatifs à cet article**
@@ -29874,347 +29969,119 @@ réputé avoir respecté ce délai.
 
 	  - Décret n°97-298 du 27 mars 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur le 1er décembre 2005
+	  - Décret n°2014-1061 du 17 septembre 2014 - art. 3
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TRANSFERE: Décret n°2014-1061 du 17 septembre 2014 - art. 3
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-20-12
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. R121-4 (Ab)
-
-
-###### Article R121-2-3
-
-Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait de ne pas communiquer au
-consommateur les informations mentionnées aux 1°, 2°, 3° et 5° de l'article R. 121-2-1 et celles mentionnées au 5° de
-l'article L. 121-20-10 ou de les lui communiquer sans faire apparaître de manière claire le caractère commercial de sa
-démarche.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur le 1er décembre 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2014-1061 du 17 septembre 2014 - art. 3
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation
-	  - Code de la consommation - art. L121-20-10
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. R121-5 (Ab)
-
-
-###### Article R121-2-4
-
-Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait de ne pas communiquer au
-consommateur, dans les conditions prévues à l'article L. 121-20-11, les informations mentionnées à cet article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Créé par**:
-
-	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur le 1er décembre 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2014-1061 du 17 septembre 2014 - art. 3
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-20-11
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. R121-6 (Ab)
-
-
-###### Article R121-2-5
-
-Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait de ne pas rembourser le
-consommateur dans les conditions fixées au II de l'article L. 121-20-13.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°2005-1450 du 25 novembre 2005 - art. 1 () JORF 26 novembre 2005 en vigueur le 1er décembre 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2014-1061 du 17 septembre 2014 - art. 3
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-20-13
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. R121-6-1 (Ab)
-
-
-##### Section 3 : Démarchage
-
-###### Article R121-3
-
-Le formulaire détachable destiné à faciliter l'exercice de la faculté de renonciation prévu à l'article L. 121-25 fait partie
-de l'exemplaire du contrat laissé au client. 
-
-Il doit pouvoir en être facilement séparé. 
-
-Sur l'exemplaire du contrat, doit figurer la mention : 
-
-" Si vous annulez votre commande, vous pouvez utiliser le formulaire détachable ci-contre ".
-
-**Liens relatifs à cet article**
+	  - Code de la consommation - art. L121-29
 
 	**Anciens textes**:
 
-	  - Décret n°73-784 du 9 août 1973 - art. 1 (Ab)
+	  - Code de la consommation - art. R121-2-2 (T)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Cité par**:
-
-	  - Décret n°2016-607 du 13 mai 2016 - art.
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-25 (Ab)
-
-
-###### Article R121-4
-
-Le formulaire prévu à l'article L. 121-24 comporte, sur une face, l'adresse exacte et complète à laquelle il doit être
-envoyé.
-
-Son envoi à cette adresse dans le délai de sept jours prévu à l'article L. 121-25 a pour effet d'annuler la commande sans que
-le vendeur puisse invoquer une erreur dans le libellé de ladite adresse, telle qu'elle figure sur le formulaire détachable,
-ou un défaut de qualité du signataire de l'avis de réception, à cette adresse, de l'envoi recommandé exigé par l'article L.
-121-25 pour la dénonciation du contrat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-784 du 9 août 1973 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-24 (V)
-	  - Code de la consommation - art. L121-25 (V)
+	  - Code de la consommation - art. R222-4 (V)
 
 
 ###### Article R121-5
 
-Le formulaire prévu à l'article L. 121-24 comporte, sur son autre face, les mentions successives ci-après en caractères très
-lisibles :
-
-1° En tête, la mention "Annulation de commande" (en gros caractères), suivie de la référence "Code de la consommation,
-articles L. 121-23 à L. 121-26" ;
-
-2° Puis, sous la rubrique "Conditions", les instructions suivantes, énoncées en lignes distinctes :
-
-"Compléter et signer ce formulaire" ;
-
-"L'envoyer par lettre recommandée avec avis de réception" (ces derniers mots doivent être soulignés dans le formulaire ou
-figurer en caractères gras) ;
-
-"Utiliser l'adresse figurant au dos" ;
-
-"L'expédier au plus tard le septième jour à partir du jour de la commande ou, si ce délai expire normalement un samedi, un
-dimanche ou un jour férié ou chômé, le premier jour ouvrable suivant" (soulignés ou en caractères gras dans le formulaire) ;
-
-3° Et, après un espacement, la phrase :
-
-"Je soussigné, déclare annuler la commande ci-après", suivie des indications suivantes, à raison d'une seule par ligne :
-
-"Nature du bien ou du service commandé...".
-
-"Date de la commande...".
-
-"Nom du client...".
-
-"Adresse du client...".
-
-4° Enfin, suffisamment en évidence, les mots :
-
-"Signature du client...".
+Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait de ne pas communiquer au
+consommateur les informations mentionnées aux 1°, 2°, 3° et 5° de l'article R. 121-3 et celles mentionnées au 5° de l'article
+L. 121-27 ou de les lui communiquer sans faire apparaître de manière claire le caractère commercial de sa démarche.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-784 du 9 août 1973 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-24 (V)
-	  - Code de la consommation L121-24, L121-23 à L121-26
-
-
-###### Article R121-6
-
-Le vendeur ne peut porter sur le formulaire que les mentions prévues aux articles R. 121-4 et R. 121-5, ainsi que des
-références d'ordre comptable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-784 du 9 août 1973 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Cite**:
-
-	  - Code de la consommation R121-4, R121-5
-
-
-##### Section 5 : Ventes ou prestations avec primes
-
-###### Article R121-8
-
-La valeur maximale des échantillons, objets et services visés au deuxième alinéa de l'article L. 121-35 est déterminée en
-fonction du prix de vente net, toutes taxes comprises, des produits, des biens ou des services faisant l'objet de la vente
-dans les conditions suivantes : 7 % du prix net défini ci-dessus si celui-ci est inférieur ou égal à 80 euros ; 5 euros plus
-1 % du prix net défini ci-dessus si celui-ci est supérieur à 80 euros.
-
-Cette valeur ne doit en aucun cas dépasser 60 euros et s'entend, toutes taxes comprises, départ production pour des objets
-produits en France, et franco et dédouanés à la frontière française pour les objets importés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Modifié par**:
-
-	  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1061 du 17 septembre 2014 - art. 7
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-35
-
-
-###### Article R121-9
-
-Ne sont pas considérés comme primes :
-
-1° Le conditionnement habituel du produit, les biens, produits ou prestations de services qui sont indispensables à
-l'utilisation normale du produit, du bien ou du service faisant l'objet de la vente ;
-
-2° Les prestations de service après-vente et les facilités de stationnement offertes par les commerçants à leurs clients ;
-
-3° Les prestations de services attribuées gratuitement si ces prestations ne font pas ordinairement l'objet d'un contrat à
-titre onéreux et sont dépourvues de valeur marchande.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-1309 du 29 décembre 1986 - art. 24 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1061 du 17 septembre 2014 - art. 7
-
-
-###### Article R121-10
-
-Les objets mentionnés à l'article R. 121-8 doivent être marqués d'une manière apparente et indélébile du nom, de la
-dénomination de la marque, du sigle ou du logo de la personne intéressée à l'opération de publicité.
-
-Les échantillons visés au même article doivent porter la mention : "Echantillon gratuit ne peut être vendu", inscrite de
-manière lisible, indélébile et apparente à la présentation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-1309 du 29 décembre 1986 - art. 25 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°97-298 du 27 mars 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2014-1061 du 17 septembre 2014 - art. 3
 
 	**Abrogé par**:
 
-	  - Décret n°2014-1061 du 17 septembre 2014 - art. 7
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation
+	  - Code de la consommation - art. L121-27
+	  - Code de la consommation - art. R121-3 (V)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R121-2-3 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R242-1 (V)
+
+
+###### Article R121-6
+
+Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait de ne pas communiquer au
+consommateur, dans les conditions prévues à l'article L. 121-28, les informations mentionnées à cet article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Modifié par**:
+
+	  - Décret n°2014-1061 du 17 septembre 2014 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-28
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R121-2-4 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R242-2 (V)
+
+
+###### Article R121-6-1
+
+Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait de ne pas rembourser le
+consommateur dans les conditions fixées au II de l'article L. 121-30.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1061 du 17 septembre 2014 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-30
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R121-2-5 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R242-3 (V)
 
 
 ##### Section 6 : Loteries publicitaires
@@ -35909,6 +35776,158 @@ Arrêté n° 86-65-A du 18 décembre 1986 concernant les entreprises de manutent
 	**Codifié par**:
 
 	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+
+##### ANNEXE A L'ARTICLE R121-1
+
+###### Article Annexe à l'article R121-1
+
+MODÈLE DE FORMULAIRE DE RÉTRACTATION
+
+(Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat.)
+
+A l'attention de [le professionnel insère ici son nom, son adresse géographique et, lorsqu'ils sont disponibles, son numéro
+de télécopieur et son adresse électronique] : 
+
+Je/nous (*) vous notifie/notifions (*) par la présente ma/notre (*) rétractation du contrat portant sur la vente du bien (*)/
+pour la prestation de services (*) ci-dessous :
+
+Commandé le (*)/reçu le (*) : 
+
+Nom du (des) consommateur(s) : 
+
+Adresse du (des) consommateur(s) : 
+
+Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur papier) : 
+
+Date : 
+
+(*) Rayez la mention inutile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1061 du 17 septembre 2014 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+
+##### ANNEXE A L'ARTICLE R121-2
+
+###### Article Annexe à l'article R121-2
+
+INFORMATIONS CONCERNANT L'EXERCICE DU DROIT DE RÉTRACTATION
+
+Droit de rétractation
+
+Vous avez le droit de vous rétracter du présent contrat sans donner de motif dans un délai de quatorze jours.
+
+Le délai de rétractation expire quatorze jours après le jour (1).
+
+Pour exercer le droit de rétractation, vous devez nous notifier (2) votre décision de rétractation du présent contrat au
+moyen d'une déclaration dénuée d'ambiguïté (par exemple, lettre envoyée par la poste, télécopie ou courrier électronique).
+Vous pouvez utiliser le modèle de formulaire de rétractation mais ce n'est pas obligatoire (3).
+
+Pour que le délai de rétractation soit respecté, il suffit que vous transmettiez votre communication relative à l'exercice du
+droit de rétractation avant l'expiration du délai de rétractation.
+
+Effets de rétractation
+
+En cas de rétractation de votre part du présent contrat, nous vous rembourserons tous les paiements reçus de vous, y compris
+les frais de livraison (à l'exception des frais supplémentaires découlant du fait que vous avez choisi, le cas échéant, un
+mode de livraison autre que le mode moins coûteux de livraison standard proposé par nous) sans retard excessif et, en tout
+état de cause, au plus tard quatorze jours à compter du jour où nous sommes informés de votre décision de rétractation du
+présent contrat. Nous procéderons au remboursement en utilisant le même moyen de paiement que celui que vous aurez utilisé
+pour la transaction initiale, sauf si vous convenez expressément d'un moyen différent ; en tout état de cause, ce
+remboursement n'occasionnera pas de frais pour vous (4).
+
+(5)
+
+(6)
+
+Instructions à suivre pour remplir les informations :
+
+(1) Insérez l'un des passages suivants entre guillemets : 
+
+a) S'il s'agit d'un contrat de service ou d'un contrat portant sur la fourniture d'eau, de gaz ou d'électricité lorsqu'ils ne
+sont pas conditionnés dans un volume délimité ou en quantité déterminée, de chauffage urbain ou d'un contenu numérique non
+fourni sur un support matériel : "de la conclusion du contrat." ;
+
+b) S'il s'agit d'un contrat de vente : "où vous-même, ou un tiers autre que le transporteur et désigné par vous, prend
+physiquement possession du bien. " ;
+
+c) S'il s'agit d'un contrat portant sur plusieurs biens commandés par le consommateur au moyen d'une seule commande et si ces
+biens sont livrés séparément : "où vous-même, ou un tiers autre que le transporteur et désigné par vous, prend physiquement
+possession du dernier bien." ;
+
+d) S'il s'agit d'un contrat portant sur la livraison d'un bien en plusieurs lots ou pièces : "où vous-même, ou un tiers autre
+que le transporteur et désigné par vous, prend physiquement possession du dernier lot ou de la dernière pièce." ;
+
+e) S'il s'agit d'un contrat portant sur la livraison régulière de biens pendant une période de temps déterminée : "où vous-
+même, ou un tiers autre que le transporteur et désigné par vous, prend physiquement possession du premier bien." ;
+
+(2) Insérez votre nom, votre adresse géographique et, lorsqu'ils sont disponibles, votre numéro de téléphone, votre numéro de
+télécopieur et votre adresse électronique.
+
+(3) Si vous donnez au consommateur la faculté de remplir et de transmettre électroniquement les informations sur sa
+rétractation du contrat sur votre site internet, insérez le texte suivant : "Vous pouvez également remplir et transmettre le
+modèle de formulaire de rétractation ou toute autre déclaration dénuée d'ambiguïté sur notre site internet [insérer l'adresse
+du site internet]. Si vous utilisez cette option, nous vous enverrons sans délai un accusé de réception de la rétractation
+sur un support durable (par exemple, par courriel). "
+
+(4) S'il s'agit d'un contrat de vente dans le cadre duquel vous n'avez pas proposé de récupérer le bien en cas de
+rétractation, insérez le texte suivant : "Nous pouvons différer le remboursement jusqu'à ce que nous ayons reçu le bien ou
+jusqu'à ce que vous ayez fourni une preuve d'expédition du bien, la date retenue étant celle du premier de ces faits."
+
+(5) Si le consommateur a reçu des biens dans le cadre du contrat :
+
+a) Insérez :
+
+" Nous récupérerons le bien " ; ou
+
+" Vous devrez renvoyer ou rendre le bien, à nous-mêmes ou à … [insérer le nom et l'adresse géographique, le cas échéant, de
+la personne habilitée par vous à réceptionner le bien] sans retard excessif et, en tout état de cause, au plus tard quatorze
+jours après que vous nous aurez communiqué votre décision de rétractation du présent contrat. Ce délai est réputé respecté si
+vous renvoyez le bien avant l'expiration du délai de quatorze jours. "
+
+b) Insérez :
+
+" Nous prendrons en charge les frais de renvoi du bien." ;
+
+"Vous devrez prendre en charge les frais directs de renvoi du bien. " ;
+
+Si, dans le cas d'un contrat à distance, vous ne proposez pas de prendre en charge les frais de renvoi du bien et que le
+bien, en raison de sa nature, ne peut normalement être renvoyé par la poste : "Vous devrez prendre en charge les frais
+directs de renvoi du bien, … EUR [insérer le montant]." ; ou, si le coût de renvoi du bien ne peut raisonnablement être
+calculé à l'avance : "Vous devrez prendre en charge les frais directs de renvoi du bien. Ces frais sont estimés à un maximum
+d'environ … EUR [insérer le montant]." ; ou
+
+Si, dans le cas d'un contrat hors établissement, le bien, en raison de sa nature, ne peut normalement être renvoyé par la
+poste et a été livré au domicile du consommateur au moment de la conclusion du contrat : "Nous récupérerons le bien à nos
+propres frais." et
+
+c) Insérez : "Votre responsabilité n'est engagée qu'à l'égard de la dépréciation du bien résultant de manipulations autres
+que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ce bien."
+
+(6) Dans le cas d'un contrat de prestation de services ou de fourniture d'eau, de gaz ou d'électricité lorsqu'ils ne sont pas
+conditionnés dans un volume délimité ou en quantité déterminée, ou de chauffage urbain, insérez le texte suivant : "Si vous
+avez demandé de commencer la prestation de services ou la fourniture d'eau/de gaz/d'électricité/de chauffage urbain
+[supprimer les mentions inutiles] pendant le délai de rétractation, vous devrez nous payer un montant proportionnel à ce qui
+vous a été fourni jusqu'au moment où vous nous avez informé de votre rétractation du présent contrat, par rapport à
+l'ensemble des prestations prévues par le contrat. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1061 du 17 septembre 2014 - art.
 
 	**Abrogé par**:
 
