@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-09-20
+Version Consolidée au 2014-10-01
 
 # Partie législative
 
@@ -8662,6 +8662,222 @@ commerce est porté à dix jours.
 	  - Code de la consommation - art. L224-65 (V)
 
 
+##### Section 17 : Contrats relatifs au gaz de pétrole liquéfié
+
+
+
+
+###### Article L121-106
+
+La présente section s'applique aux contrats souscrits par un consommateur ayant pour objet la fourniture de gaz de pétrole
+liquéfié en vrac, la mise à disposition ou la vente de matériels de stockage de gaz de pétrole liquéfié en vrac d'un poids
+supérieur à 50 kilogrammes ou l'entretien de tels matériels.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 24 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-107 (VT)
+	  - Code de la consommation - art. L121-108 (VT)
+	  - Code de la consommation - art. L121-109 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-17 (V)
+
+
+###### Article L121-107
+
+Les contrats mentionnés à l'article L. 121-106 sont écrits, le consommateur n'étant engagé que par sa signature. Ces contrats
+doivent préciser au moins les informations suivantes sous une forme claire, détaillée et aisément accessible : 
+
+1° L'identité du professionnel, ses adresses postale et électronique, ses coordonnées téléphoniques ainsi que celles de son
+site internet s'il en dispose ; 
+
+2° La description des produits et des services contractuels et les délais nécessaires pour en assurer la livraison ou la
+prestation ; 
+
+3° Les prix des produits et services contractuels à la date d'entrée en vigueur du contrat ; 
+
+4° Si le contrat comprend une clause portant sur la modification de prix, la mention des règles sur la base desquelles cette
+modification peut intervenir ainsi que les moyens par lesquels le consommateur obtient une information complète sur l'état
+actualisé de l'ensemble des prix mentionnés au 3° ; 
+
+5° Si le contrat prévoit la vente de la citerne au début ou en cours de vie du contrat, le prix initial de vente de la
+citerne en début de contrat et, le cas échéant, lorsque le contrat prévoit la vente de la citerne en cours de vie du contrat,
+un tableau présentant le prix de vente dégressif de la citerne en fonction de la durée du contrat négociée avec le client ; 
+
+6° La durée du contrat ainsi que ses conditions de reconduction, modification et résiliation ; 
+
+7° L'identité du propriétaire de la citerne ; 
+
+8° Les modalités de règlement amiable des litiges ; 
+
+9° Les modalités de facturation et de paiement proposées ; 
+
+10° Les conditions de la responsabilité contractuelle du professionnel et de remboursement ou de compensation en cas d'erreur
+de facturation ou de retard de livraison ; 
+
+11° Le montant des sommes à payer à l'expiration du contrat ou en cas de résiliation anticipée, notamment, le cas échéant,
+les frais de retrait ou de neutralisation de la citerne. 
+
+Au terme du contrat, le professionnel est tenu d'informer le consommateur propriétaire ou futur propriétaire du matériel de
+stockage du gaz de pétrole liquéfié des obligations qui lui incombent quant à l'entretien et à la maintenance dudit matériel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 24 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-106
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-18 (V)
+	  - Code de la consommation - art. L224-20 (V)
+
+
+###### Article L121-108
+
+La durée des contrats mentionnés à l'article L. 121-106 ne peut excéder cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 24 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-106
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-19 (V)
+
+
+###### Article L121-109
+
+Tout professionnel proposant les contrats mentionnés à l'article L. 121-106 est tenu à une obligation d'information du
+consommateur sur la sécurité pendant la durée d'exécution du contrat, dans des conditions définies par arrêté conjoint des
+ministres chargés de la consommation, de l'énergie et de la sécurité des équipements sous pression.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 24 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-106 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-21 (V)
+
+
+###### Article L121-110
+
+Tout projet de modification des conditions contractuelles à l'initiative du professionnel est communiqué par écrit par ce
+professionnel au consommateur au moins un mois avant son entrée en vigueur, assorti de l'information, énoncée de manière
+claire, précise et visible, selon laquelle ce dernier peut, tant qu'il n'a pas expressément accepté les nouvelles conditions,
+résilier le contrat, sans pénalité de résiliation et sans droit à dédommagement, jusque dans un délai de trois mois après
+l'entrée en vigueur de la modification.
+
+Pour les contrats à durée déterminée ne comportant pas de clause déterminant précisément les hypothèses pouvant entraîner une
+modification contractuelle ou de clause portant sur la modification du prix, le consommateur peut exiger l'application des
+conditions initiales jusqu'au terme de la durée contractuelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 24 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-22 (V)
+
+
+###### Article L121-111
+
+Toute somme versée d'avance par le consommateur au professionnel doit lui être restituée, sous réserve du paiement des
+factures restant dues, au plus tard dans un délai de trente jours à compter du paiement de la dernière facture.
+
+Les sommes versées par le consommateur au titre d'un dépôt de garantie lui sont restituées par le professionnel au plus tard
+dans un délai de trente jours à compter de la reprise par ce dernier de l'objet garanti, qui est effectuée au plus tard dans
+un délai de trois mois à compter de la résiliation du contrat.
+
+A défaut, les sommes dues par le professionnel mentionnées aux deux premiers alinéas sont de plein droit majorées de moitié.
+
+En cas de transaction portant sur la propriété immobilière où la citerne est installée, le professionnel ne peut subordonner
+la restitution des sommes versées par le consommateur au titre d'un dépôt de garantie à la souscription d'un contrat par le
+nouveau propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 24 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-23 (V)
+	  - Code de la consommation - art. L242-17 (V)
+
+
+###### Article L121-112
+
+La présente section est d'ordre public. Elle est applicable aux consommateurs et aux non-professionnels.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 24 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-24 (V)
+	  - Code de la consommation - art. L224-25 (V)
+
+
 #### Chapitre II : Pratiques commerciales illicites
 
 ##### Section 1 : Refus et subordination de vente ou de prestation de services
@@ -10324,7 +10540,8 @@ contrat et le livret d'accueil, et de l'article L. 347-1 du code de l'action soc
 11° De l'article 6 de la loi n° 89-421 du 23 juin 1989 relative à l'information et à la protection des consommateurs ainsi
 qu'à diverses pratiques commerciales ; 
 
-12° Du dernier alinéa du I de l'article L. 112-6 du code monétaire et financier ; 
+12° Du dernier alinéa du I de l'article    L. 112-6 et des sections 1 à 3 du chapitre VIII du titre IV du livre V du code
+monétaire et financier ; 
 
 13° Des deux premiers alinéas de l'article L. 213-2 du code de la route ; 
 
@@ -10474,7 +10691,7 @@ législation en matière de protection des consommateurs.
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 76
+	  - Ordonnance n°2014-559 du 30 mai 2014 - art. 21
 
 
 ###### Article L141-1-1
@@ -34916,6 +35133,51 @@ mois.
 
 #### Chapitre II : Crédit immobilier
 
+##### Section 1 : Champ d'application
+
+###### Article R312-0
+
+I.-Avant l'émission de l'offre d'un prêt mentionné à l'article L. 312-3-1, le prêteur informe l'emprunteur des risques
+inhérents à ce type de prêt, notamment de change. Il délivre à l'emprunteur un document d'information comportant deux
+simulations décrivant l'impact sur les échéances, la durée du prêt et le coût total du crédit d'une variation défavorable
+pour l'emprunteur de 10 % et 20 % du taux de change par rapport à celui constaté le jour de la proposition. Ces simulations
+sont calculées à partir du taux de change constaté le jour de la remise du document ou à défaut le dernier jour ouvré
+précédant et qui a servi à déterminer les échéances, la durée du prêt et le coût total du crédit. 
+
+Ce document d'information mentionne le caractère indicatif des simulations qu'il comporte. Il précise également si l'offre
+sera assortie ou non de la possibilité de convertir le crédit en un prêt en euros et, dans l'hypothèse où cette faculté est
+prévue, indique ses conditions et modalités précises. 
+
+II.-L'offre de prêt ne peut être adressée qu'à l'emprunteur supportant le risque de change ayant déclaré sur l'honneur qu'il
+perçoit plus de la moitié de ses revenus annuels dans la devise d'emprunt ou qu'il détient, au moment de la signature de ce
+contrat, un patrimoine, financier ou immobilier, dans cette même devise, au moins égal à 20 % de l'emprunt considéré. Cette
+déclaration est jointe au contrat de prêt. 
+
+III.-Le risque de change supporté par l'emprunteur est établi lorsque la variation du taux de change affecte le montant des
+échéances, la durée du prêt ou le coût total du crédit qu'il acquitte. Lorsque l'emprunteur a souscrit une assurance ou un
+contrat financier le garantissant contre le risque de change, le risque de change n'est pas considéré comme supporté par
+l'emprunteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-544 du 26 mai 2014 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 29 avril 2015 - art. 1 (VD)
+	  - Code de la consommation - art. R315-2 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L312-3-1
+
+
 ##### Section 3 : Le contrat de crédit
 
 ###### Article R312-1
@@ -45460,6 +45722,725 @@ l'association.
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. R622-10 (V)
+
+
+#### Chapitre III : Action de groupe 
+
+
+
+##### Section 1 : Dispositions préliminaires 
+
+###### Article R423-1
+
+L'action de groupe prévue par l'article L. 423-1 est exercée conformément aux dispositions du code de procédure civile, sous
+réserve des dispositions qui suivent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L423-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-1 (V)
+
+
+###### Article R423-2
+
+Le tribunal de grande instance territorialement compétent est celui du lieu où demeure le défendeur. 
+
+Le tribunal de grande instance de Paris est compétent lorsque le défendeur demeure à l'étranger ou n'a ni domicile ni
+résidence connus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-2 (V)
+
+
+###### Article R423-3
+
+Outre les mentions prescrites aux articles 56 et 752 du code de procédure civile, l'assignation expose expressément, à peine
+de nullité, les cas individuels présentés par l'association au soutien de son action. 
+
+Copie de l'arrêté d'agrément pris en application des dispositions de l'article R. 411-2 est jointe à l'assignation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R411-2 (Ab)
+	  - Code de procédure civile - art. 56
+	  - Code de procédure civile - art. 752
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-3 (V)
+
+
+###### Article R423-4
+
+La demande est formée, instruite et jugée selon les règles applicables à la procédure ordinaire en matière contentieuse
+devant le tribunal de grande instance. 
+
+L'appel est jugé selon la procédure prévue à l'article 905 du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-4 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 905
+
+
+###### Article R423-5
+
+Les professions judiciaires réglementées auxquelles appartient la personne que les associations peuvent s'adjoindre
+conformément à l'article L. 423-9 sont :
+
+- les avocats ;
+
+- les huissiers de justice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L423-9
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-5 (V)
+
+
+##### Section 2 : Jugement sur la responsabilité
+
+###### Article R423-6
+
+Le jugement qui retient la responsabilité du ou des professionnels concernés fixe le délai dans lequel les mesures de
+publicité doivent être mises en œuvre par le ou les professionnels concernés et à l'expiration duquel elles le seront par la
+ou les associations aux frais de ce ou ces professionnels.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-7 (V)
+
+
+###### Article R423-7
+
+Ce jugement renvoie l'affaire à la mise en état pour la suite de la procédure. Il indique la date de l'audience à laquelle
+seront examinées, en application du second alinéa de l'article L. 423-12, les demandes d'indemnisation auxquelles le
+professionnel n'aura pas fait droit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L423-12
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R423-20 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-8 (V)
+
+
+##### Section 3 : Action de groupe simplifiée
+
+###### Article R423-8
+
+Le jugement prévu à l'article L. 423-10, après avoir déterminé les critères d'identification des membres du groupe, précise
+le délai et les modalités d'information, d'acceptation et d'indemnisation des consommateurs concernés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L423-10
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-11 (V)
+
+
+###### Article R423-9
+
+Les mesures d'information individuelle prévues à l'alinéa 2 de l'article L. 423-10 auxquelles le professionnel doit procéder
+doivent comporter, outre les mentions éventuellement prescrites par le jugement : 
+
+1° La reproduction du dispositif de la décision ; 
+
+2° Les coordonnées du professionnel auprès duquel chaque consommateur peut accepter l'indemnisation et de l'association qui
+doit en être informée ; 
+
+3° La forme, le contenu et le délai de l'acceptation de l'indemnisation dans les termes du jugement ainsi que l'indication
+que celle-ci vaut mandat aux fins d'indemnisation au profit de l'association auprès de laquelle le consommateur a manifesté
+son acceptation ou qu'il a informée de celle-ci ou, en cas de défaillance, au profit de l'association qui lui aura été
+substituée ; 
+
+4° L'indication que le consommateur qui a accepté l'indemnisation dans les termes du jugement ne pourra plus agir
+individuellement à l'encontre du professionnel concerné en réparation du préjudice indemnisé dans le cadre de l'action de
+groupe mais qu'il pourra toujours agir en indemnisation de ses autres préjudices ; 
+
+5° L'indication qu'à défaut d'acceptation selon les modalités et délai requis le consommateur ne sera plus recevable à
+obtenir une indemnisation dans le cadre de l'action de groupe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L423-10
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-12 (V)
+
+
+###### Article R423-10
+
+L'acceptation du consommateur est adressée par tout moyen permettant d'en accuser la réception, auprès du professionnel et de
+l'association requérante ou, en cas de pluralité, de l'une d'elles, selon le délai et les modalités déterminées par le juge.
+Elle contient les nom, prénoms, domicile du consommateur ainsi que, le cas échéant, une adresse électronique à laquelle les
+informations relatives à la procédure peuvent lui être envoyées. Elle mentionne expressément le montant de l'indemnisation
+acceptée, eu égard aux termes du jugement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R423-11 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-13 (V)
+
+
+###### Article R423-11
+
+Les consommateurs membres du groupe qui n'ont pas exprimé leur acceptation dans le délai et selon les modalités fixés par le
+juge en application de l'alinéa 2 de l'article L. 423-10 et dans les conditions prévues par l'article R. 423-10 ne sont plus
+recevables à demander leur indemnisation dans le cadre de l'action de groupe et ne sont pas représentés par l'association
+requérante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L423-10
+	  - Code de la consommation - art. R423-10 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-14 (V)
+
+
+###### Article R423-12
+
+Les dispositions de l'article R. 423-17 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R423-17
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-15 (V)
+
+
+##### Section 4 : Mise en œuvre du jugement, réparation des préjudices et exécution forcée
+
+##### Paragraphe 1 : Mesures d'information des consommateurs
+
+###### Article R423-13
+
+Les mesures d'information ordonnées en application de l'article L. 423-4 comportent, outre les mentions éventuellement
+prescrites par le jugement : 
+
+1° La reproduction du dispositif de la décision ; 
+
+2° Les coordonnées de la personne auprès de laquelle chaque consommateur manifeste son adhésion au groupe et éventuellement
+de l'association qui doit en être informée ; 
+
+3° La forme, le contenu et le délai de cette adhésion ainsi que l'indication que celle-ci vaut mandat aux fins
+d'indemnisation au profit de l'association requérante auprès de laquelle le consommateur a manifesté son adhésion au groupe
+ou qu'il a informée de son adhésion, ou, en cas de défaillance de celle-ci, au profit de celle qui lui aura été substituée ; 
+
+4° L'indication que, à défaut d'adhésion reçue selon les modalités et dans le délai prévus par le jugement, le consommateur
+défaillant ne sera plus recevable à obtenir une indemnisation dans le cadre de l'action de groupe ; 
+
+5° L'indication que le consommateur ne pourra plus agir individuellement à l'encontre du professionnel concerné en réparation
+du préjudice déjà indemnisé dans le cadre de l'action de groupe mais qu'il pourra toujours agir en indemnisation de ses
+autres préjudices ; 
+
+6° L'indication que les consommateurs doivent produire tout document utile au soutien de leur demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L423-4
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-16 (V)
+
+
+##### Paragraphe 2 : Adhésion au groupe
+
+###### Article R423-14
+
+L'adhésion au groupe est faite par tout moyen permettant d'en accuser la réception, selon les modalités déterminées par le
+juge. Elle contient notamment les nom, prénoms, domicile du consommateur ainsi que, le cas échéant, une adresse électronique
+à laquelle il accepte de recevoir les informations relatives à la procédure. Elle précise le montant demandé en réparation du
+préjudice invoqué, eu égard aux dispositions du jugement sur la responsabilité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R423-16 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-17 (V)
+
+
+###### Article R423-15
+
+En cas de pluralité d'associations requérantes, le consommateur manifeste son adhésion auprès de l'association de son choix
+ou l'en informe en cas d'adhésion auprès du professionnel. L'association concernée reçoit ainsi mandat aux fins
+d'indemnisation. 
+
+Lorsque l'adhésion est faite auprès du professionnel, le consommateur en informe l'association requérante ou, en cas de
+pluralité d'associations, celle qu'il a choisie en application de l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-18 (V)
+
+
+###### Article R423-16
+
+Les consommateurs susceptibles d'appartenir au groupe qui n'y ont pas adhéré dans le délai fixé par le juge en application de
+l'article L. 423-5 et dans les conditions prévues par l'article R. 423-14 ne sont plus recevables à demander leur
+indemnisation dans le cadre de l'action de groupe et ne sont pas représentés par l'association requérante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L423-5
+	  - Code de la consommation - art. R423-14 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-19 (V)
+
+
+###### Article R423-17
+
+Le mandat aux fins d'indemnisation donné à l'association par l'effet de l'adhésion du consommateur au groupe vaut pouvoir
+d'accomplir au nom de celui-ci tous actes de procédure et diligences en vue d'obtenir la réparation du préjudice individuel
+subi par lui et entrant dans le champ de l'action de groupe introduite par cette association, notamment pour l'exercice des
+voies de recours. 
+
+Il emporte avance par l'association de toutes les dépenses et frais liés à la procédure et représentation des consommateurs
+lors du déroulement d'éventuelles mesures d'instruction. 
+
+Le consommateur peut mettre un terme au mandat à tout moment. Il doit en informer l'association par tout moyen permettant
+d'en accuser la réception et celle-ci en avise le professionnel sans délais. La révocation du mandat emporte renonciation à
+l'adhésion au groupe. 
+
+Le consommateur qui n'a pas été indemnisé par le professionnel et qui n'a pas fourni les documents utiles au soutien de sa
+demande avant l'expiration du délai fixé par le juge pour le saisir des demandes d'indemnisation auxquelles le professionnel
+n'a pas fait droit est réputé renoncer à son adhésion.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R423-12 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-20 (V)
+	  - Code de la consommation - art. R623-21 (V)
+	  - Code de la consommation - art. R623-22 (V)
+
+
+##### Paragraphe 3 : Réparation des préjudices et règlement des différends
+
+
+###### Article R423-18
+
+Chaque association ouvre auprès de la Caisse des dépôts et consignations un compte spécifique au groupe des consommateurs
+défini par le juge en application de l'article L. 423-3. 
+
+Toute somme reçue au titre de l'article L. 423-6 est immédiatement déposée par l'association qui agit sur le fondement de
+l'article L. 423-1 sur le compte ouvert conformément à l'alinéa précédent. 
+
+L'association titulaire est seule habilitée, sous sa responsabilité, à procéder aux mouvements sur chaque compte et à le
+clôturer. 
+
+La tenue des comptes ouverts conformément au premier alinéa peut donner lieu à des frais de gestion perçus par la Caisse des
+dépôts et consignations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L423-1
+	  - Code de la consommation - art. L423-3
+	  - Code de la consommation - art. L423-6
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-23 (V)
+	  - Code de la consommation - art. R623-24 (V)
+
+
+###### Article R423-19
+
+Les difficultés qui s'élèvent au cours de la mise en œuvre du jugement sur la responsabilité sont, en application de l'alinéa
+1er de l'article L. 423-12, soumises au juge de la mise en état avant l'expiration du délai fixé pour l'indemnisation des
+consommateurs. Ce délai est suspendu jusqu'à la décision du juge de la mise en état. 
+
+L'ordonnance du juge de la mise en état n'est pas susceptible d'appel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L423-12
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-25 (V)
+
+
+##### Paragraphe 4 : Liquidation judiciaire et réparation forcée des préjudices
+
+###### Article R423-20
+
+Les demandes d'indemnisation auxquelles le professionnel n'a pas fait droit sont portées devant le tribunal de grande
+instance, en vue de l'audience fixée en application de l'article R. 423-7, dans les formes prévues pour les demandes
+incidentes et dans le délai fixé par le juge pour le saisir, conformément à l'article L. 423-7. 
+
+S'il n'a été saisi d'aucune demande d'indemnisation dans le délai fixé en application du second alinéa de l'article L. 423-7,
+le juge constate l'extinction de l'instance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L423-7
+	  - Code de la consommation - art. R423-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-26 (V)
+	  - Code de la consommation - art. R623-27 (V)
+
+
+###### Article R423-21
+
+L'association représentant les consommateurs en application de l'article L. 423-13 est réputée créancière au sens des
+articles L. 111-1 et L. 111-2 du code des procédures civiles d'exécution pour l'exécution forcée du jugement rendu sur le
+fondement du second alinéa de l'article L. 423-12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L423-12
+	  - Code de la consommation - art. L423-13
+	  - Code des procédures civiles d'exécution - art. L111-1
+	  - Code des procédures civiles d'exécution - art. L111-2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-28 (V)
+
+
+###### Article R423-22
+
+Dans tous les actes relatifs à la liquidation judiciaire des préjudices et à l'exécution forcée du jugement, l'association
+précise, outre les mentions prévues par la loi, à peine de nullité, l'identité des consommateurs pour le compte de qui elle
+agit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-29 (V)
+
+
+##### Section 7 : Dispositions diverses
+
+
+###### Article R423-23
+
+La demande d'une association de défense des consommateurs agréée tendant à ce que celle-ci soit substituée dans les droits de
+l'association requérante en application des dispositions de l'article L. 423-24 est faite par voie de demande incidente. 
+
+Le juge statue, à la demande de l'association qui l'en saisit, sur le transfert de tout ou partie de la provision qui aura pu
+être allouée en application des dispositions de l'article L. 423-8. 
+
+La décision qui rejette la demande de substitution n'est pas susceptible de recours. 
+
+La substitution emporte transfert du mandat donné par les consommateurs à l'association substituée. L'association défaillante
+est tenue de remettre les pièces ainsi que les fonds détenus, le cas échéant pour le compte de consommateurs, à l'association
+qui lui est substituée qui en accuse réception. Tant que cette remise n'a pas lieu, l'association défaillante n'est pas
+déchargée de ses obligations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L423-24
+	  - Code de la consommation - art. L423-8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R623-30 (V)
+	  - Code de la consommation - art. R623-31 (V)
+	  - Code de la consommation - art. R623-32 (V)
+	  - Code de la consommation - art. R623-33 (V)
+
+
+##### Section 8 : Dispositions relatives aux outre-mer
+
+###### Article R423-24
+
+Les dispositions du présent chapitre sont applicables dans les îles Wallis et Futuna dans leur rédaction résultant du décret
+n° 2014-1081 du 24 septembre 2014 relatif à l'action de groupe en matière de consommation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+
+###### Article R423-25
+
+Pour l'application du présent chapitre dans les îles Wallis et Futuna, les références au tribunal de grande instance sont
+remplacées par les références au tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1081 du 24 septembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
 ### Titre III : Reconnaissance spécifique des associations
