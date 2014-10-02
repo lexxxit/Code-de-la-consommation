@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-10-01
+Version Consolidée au 2014-10-03
 
 # Partie législative
 
@@ -10532,6 +10532,8 @@ passagers voyageant par mer ou par voie de navigation intérieure et modifiant l
 8° Du règlement (UE) n° 181/2011 du Parlement européen et du Conseil, du 16 février 2011, concernant les droits des passagers
 dans le transport par autobus et autocar et modifiant le règlement (CE) n° 2006/2004 ; 
 
+8° bis Des articles L. 3121-11-2 et L. 3122-2 du code des transports ;
+
 9° Des articles L. 311-4, L. 311-6, L. 311-7, de l'avant-dernier alinéa de l'article L. 313-1-2, en ce qui concerne le
 contrat et le livret d'accueil, et de l'article L. 347-1 du code de l'action sociale et des familles ; 
 
@@ -10540,7 +10542,7 @@ contrat et le livret d'accueil, et de l'article L. 347-1 du code de l'action soc
 11° De l'article 6 de la loi n° 89-421 du 23 juin 1989 relative à l'information et à la protection des consommateurs ainsi
 qu'à diverses pratiques commerciales ; 
 
-12° Du dernier alinéa du I de l'article    L. 112-6 et des sections 1 à 3 du chapitre VIII du titre IV du livre V du code
+12° Du dernier alinéa du I de l'article L. 112-6 et des sections 1 à 3 du chapitre VIII du titre IV du livre V du code
 monétaire et financier ; 
 
 13° Des deux premiers alinéas de l'article L. 213-2 du code de la route ; 
@@ -10691,7 +10693,7 @@ législation en matière de protection des consommateurs.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2014-559 du 30 mai 2014 - art. 21
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 13
 
 
 ###### Article L141-1-1
@@ -29837,10 +29839,6 @@ prestation de services à des prix fixés en violation des décrets pris en appl
 l'ordonnance n° 45-1483 du 30 juin 1945 et maintenus en vigueur à titre transitoire par l'article 61 de l'ordonnance du 1er
 décembre 1986 ci-dessus mentionnée, figurant en annexe au présent code.
 
-Les mêmes peines sont applicables en cas d'infraction aux arrêtés prévus à l'article L. 113-3 fixant les modalités
-d'information du consommateur sur les prix et conditions particulières de vente ainsi qu'aux arrêtés ayant le même objet pris
-en application de l'ordonnance n° 45-1483 du 30 juin 1945.
-
 En cas de récidive, les peines d'amende prévues pour la récidive des contraventions de la cinquième classe sont applicables.
 
 **Nota:**
@@ -29852,18 +29850,18 @@ repris dans le code du commerce à l'article L. 410-2.
 
 	**Cite**:
 
-	  - Ordonnance 45-1483 1945-06-30
-	  - Ordonnance 86-1243 1986-12-01 art. 1, art. 61
-	  - Code de la consommation - art. L113-1 (V)
-	  - Code de la consommation - art. L113-3 (M)
+	  - Ordonnance n°45-1483 du 30 juin 1945
+	  - Ordonnance n°86-1243 du 1 décembre 1986
+	  - Code de la consommation - art. L113-1
+	  - Code de la consommation - art. L113-3
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Modifié par**:
 
-	  - Décret n°99-513 du 16 juin 1999 - art. 1 () JORF 23 juin 1999
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 38
 
 	**Cité par**:
 
@@ -30367,16 +30365,15 @@ Les lots mis en jeu figurant dans l'inventaire prévus par l'article L. 121-37 s
 
 ###### Article R121-13
 
-Sont punis des peines d'amende prévues pour les contraventions de la 5e classe :
+Sont punis des peines d'amende prévues pour les contraventions de la 5e classe : 
 
-1° Les ventes ou offres de vente, les prestations de services ou offres de telles prestations faites avec primes aux
-consommateurs ou acheteurs, prohibées par l'article L. 121-35 ;
+1° Abrogé ; 
 
-2° Les refus ou subordinations à conditions, de ventes ou de prestations de services, interdits par l'article L. 122-1 ;
+2° Les refus ou subordinations à conditions, de ventes ou de prestations de services, interdits par l'article L. 122-1 ; 
 
-3° La violation des règles sur la valeur des échantillons fixées à l'article R. 121-8 ;
+3° Abrogé ; 
 
-4° La violation des règles de marquage des objets publicitaires définies à l'article R. 121-10.
+4° Abrogé. 
 
 En cas de récidive, les peines d'amende prévues pour la récidive des contraventions de la 5e classe sont applicables.
 
@@ -30384,17 +30381,24 @@ En cas de récidive, les peines d'amende prévues pour la récidive des contrave
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Modifié par**:
 
-	  - Décret n°99-513 du 16 juin 1999 - art. 3 () JORF 23 juin 1999
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 38
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-35 (M)
-	  - Code de la consommation - art. L122-1 (M)
-	  - Code de la consommation L121-35, L122-1, R121-8, R121-10
+	  - Code de la consommation - art. L122-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R132-1 (V)
+	  - Code de la consommation - art. R132-2 (V)
 
 
 ##### Section 10 bis : Définition et modalités de mise en œuvre de la mention "fait maison"
@@ -31026,6 +31030,44 @@ auxquelles le non-professionnel ou le consommateur a subordonné son engagement 
 	  - Code de la consommation - art. R212-4 (V)
 
 
+###### Article R132-2-2
+
+La publicité prévue au second alinéa de l'article L. 132-2 peut être effectuée par voie de presse, par voie électronique ou
+par voie d'affichage. La diffusion et l'affichage peuvent être ordonnés cumulativement. 
+
+La diffusion ou l'affichage peut porter sur tout ou partie de la mesure d'injonction, ou prendre la forme d'un communiqué
+informant le public des motifs et du dispositif de cette mesure. 
+
+La diffusion de la mesure d'injonction peut être faite au Journal officiel de la République française, par une ou plusieurs
+autres publications de presse, ou par un ou plusieurs services de communication au public par voie électronique. Les
+publications ou les services de communication au public par voie électronique chargés de cette diffusion sont désignés dans
+la mesure d'injonction. Ils ne peuvent s'opposer à cette diffusion. 
+
+L'affichage s'effectue dans les lieux et pour la durée indiqués par la mesure d'injonction ; il ne peut excéder deux mois. En
+cas de suppression, dissimulation ou lacération des affiches apposées, il est de nouveau procédé à l'affichage. 
+
+Les modalités de la publicité sont précisées dans la mesure d'injonction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L132-2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R521-2 (V)
+	  - Code de la consommation - art. R521-3 (V)
+
+
 #### Chapitre IV : Remise des contrats
 
 ###### Article R134-1
@@ -31065,75 +31107,66 @@ En cas de récidive, les peines d'amendes prévues pour la récidive des contrav
 
 ###### Article R141-1
 
-Les règles relatives aux procès-verbaux prévus à l'article L. 450-2 du code de commerce sont fixées à l'article 31 du décret
-n° 86-1309 du 29 décembre 1986 reproduit ci-après :
-
-L'article 31 du décret n° 86-1309 du 29 décembre 1986 a été abrogé par l'article 50 du décret n° 2002-689 du 30 avril 2002.
+Les procès-verbaux prévus au V de l'article L. 141-1 et au III de l'article L. 141-1-2 énoncent la nature, la date et le lieu
+des constatations ou des contrôles effectués. Ils sont signés par un agent habilité à constater les infractions ou les
+manquements aux obligations mentionnées aux I à III de l'article L. 141-1.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°86-1309 du 29 décembre 1986 - art. 31 (Ab)
-	  - Décret n°2002-689 2002-04-30 art. 50
-	  - Code de commerce. - art. L450-2 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°86-1309 du 29 décembre 1986 - art. 31 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L141-1
+	  - Code de la consommation - art. L141-1-2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-1 (V)
 
 
 ###### Article R141-2
 
-Les règles relatives aux procès-verbaux prévus à l'article L. 450-4 du code de commerce sont fixées à l'article 32 du décret
-n° 86-1309 du 29 décembre 1986 reproduit ci-après :
-
-L'article 32 du décret n° 86-1309 du 29 décembre 1986 a été abrogé par l'article 50 du décret n° 2002-689 du 30 avril 2002.
+Les règles applicables aux procès-verbaux relatifs aux visites effectuées dans les conditions de l'
+article L. 450-4 du code de commerce 
+sont fixées à l'article R. 450-2 du même code.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°86-1309 du 29 décembre 1986 - art. 32 (Ab)
-	  - Décret n°2002-689 2002-04-30 art. 50
-	  - Code de commerce. - art. L450-4 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°86-1309 du 29 décembre 1986 - art. 32 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de commerce - art. L450-4
+	  - Code de commerce - art. R450-2
 
 
 ###### Article R141-3
 
-I.-L'autorité administrative mentionnée à l'article L. 141-2 est, dans le cadre de leurs compétences respectives, le chef du
-service national des enquêtes au sein de la direction générale de la concurrence, de la consommation et de la répression des
-fraudes, le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou le
-directeur de la direction départementale chargée de la protection des populations. 
-
-Pour l'application du présent article dans les départements et régions d'outre-mer et dans le Département de Mayotte, les
-références au "directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi" et au
-"directeur de la direction départementale chargée de la protection des populations" sont remplacées par la référence au
-"directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi".
-
-Pour l'application du présent article à Saint-Pierre-et-Miquelon, la référence au "directeur de la direction départementale
-chargée de la protection des populations" est remplacée par la référence au "directeur de la cohésion sociale, du travail, de
-l'emploi et de la population". 
+I.-L'autorité administrative mentionnée à l'article L. 141-2 est le chef du service national des enquêtes de la direction
+générale de la concurrence, de la consommation et de la répression des fraudes, le directeur régional des entreprises, de la
+concurrence, de la consommation, du travail et de l'emploi ou le directeur de la direction départementale chargée de la
+protection des populations ou leur représentant nommément désigné. 
 
 II.-L'autorité administrative mentionnée au I transmet la proposition de transaction au procureur de la République dans un
 délai de trois mois à compter de la clôture du procès-verbal de constatation de l'infraction. Cette proposition précise la
@@ -31144,7 +31177,7 @@ III.-Lorsque le procureur de la République a donné son accord sur la propositi
 mentionnée au I notifie cette dernière en double exemplaire à l'auteur de l'infraction. Cette notification comporte une
 mention précisant que si la personne ne paie pas, dans le délai imparti, la somme indiquée dans la proposition ou qu'elle ne
 satisfait pas aux autres obligations le cas échéant souscrites par elle, le procureur de la République décidera, sauf élément
-nouveau, d'engager les poursuites à son égard.
+nouveau, d'engager les poursuites à son égard. 
 
 L'auteur de l'infraction dispose d'un mois, à compter de cette notification, pour y répondre. En cas d'acceptation, l'auteur
 de l'infraction retourne à l'autorité administrative un exemplaire signé de la proposition. 
@@ -31158,7 +31191,11 @@ proposition, au terme du délai imparti, ou n'aurait pas satisfait aux autres ob
 
 	**Modifié par**:
 
-	  - Décret n°2012-839 du 29 juin 2012 - art. 1
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
@@ -31167,33 +31204,43 @@ proposition, au terme du délai imparti, ou n'aurait pas satisfait aux autres ob
 	**Cité par**:
 
 	  - Code de la consommation - art. R143-1 (Ab)
+	  - Code de la consommation - art. R143-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R523-1 (V)
+	  - Code de la consommation - art. R523-2 (V)
+	  - Code de la consommation - art. R523-3 (V)
+	  - Code de la consommation - art. R523-4 (V)
 
 
 ###### Article R141-4
 
-L'autorité administrative mentionnée au VI de l'article L. 141-1 est, dans le cadre de leurs compétences respectives, le chef
-du service national des enquêtes au sein de la direction générale de la concurrence, de la consommation et de la répression
-des fraudes, le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou le
-directeur de la direction départementale chargée de la protection des populations.
-
-Pour l'application du présent article dans les départements et régions d'outre-mer et dans le Département de Mayotte, les
-références au "directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi" et au
-"directeur de la direction départementale chargée de la protection des populations" sont remplacées par la référence au
-"directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi".
-
-Pour l'application du présent article à Saint-Pierre-et-Miquelon, la référence au "directeur de la direction départementale
-chargée de la protection des populations" est remplacée par la référence au "directeur de la cohésion sociale, du travail, de
-l'emploi et de la population".
+L'autorité administrative mentionnée aux VIII et IX de l'article L. 141-1 ainsi qu'à l'article L. 141-1-1 est le chef du
+service national des enquêtes de la direction générale de la concurrence, de la consommation et de la répression des fraudes,
+le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou le directeur de la
+direction départementale chargée de la protection des populations ou leur représentant nommément désigné.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-839 du 29 juin 2012 - art. 2
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 6
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
 	  - Code de la consommation - art. L141-1
+	  - Code de la consommation - art. L141-1-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R521-1 (V)
+	  - Code de la consommation - art. R524-1 (V)
+	  - Code de la consommation - art. R525-2 (V)
 
 	**Cité par**:
 
@@ -31202,17 +31249,74 @@ l'emploi et de la population".
 
 ###### Article R141-5
 
-Lorsqu'elle agit en application du VI de l'article L. 141-1, l'autorité administrative est dispensée de ministère d'avocat.
+Lorsqu'elle agit en application des VIII et IX de l'article L. 141-1 ainsi que du quatrième alinéa de l'article L. 141-1-1,
+l'autorité administrative est dispensée de ministère d'avocat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-634 du 3 mai 2012 - art. 21
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 7
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
 	  - Code de la consommation - art. L141-1
+	  - Code de la consommation - art. L141-1-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R525-3 (V)
+
+
+###### Article R141-6
+
+I.-L'autorité administrative mentionnée à l'article L. 141-1-2 est le directeur général de la concurrence, de la consommation
+et de la répression des fraudes, le chef du service national des enquêtes de la direction générale de la concurrence, de la
+consommation et de la répression des fraudes, le directeur régional des entreprises, de la concurrence, de la consommation,
+du travail et de l'emploi ou le directeur de la direction départementale chargée de la protection des populations ou leur
+représentant nommément désigné. 
+
+II.-La publication prévue au V de l'article L. 141-1-2 s'effectue par voie de presse, par voie électronique ou par voie
+d'affichage. La diffusion et l'affichage peuvent être ordonnés cumulativement. 
+
+La publication peut porter sur l'intégralité ou sur une partie de la décision, ou prendre la forme d'un communiqué informant
+le public des motifs et du dispositif de cette décision. 
+
+La diffusion de la décision est faite au Journal officiel de la République française, par une ou plusieurs autres
+publications de presse, ou par un ou plusieurs services de communication au public par voie électronique. Les publications ou
+les services de communication au public par voie électronique chargés de cette diffusion sont désignés dans la décision. Ils
+ne peuvent s'opposer à cette diffusion. 
+
+L'affichage s'effectue dans les lieux et pour la durée indiqués par la décision ; il ne peut excéder deux mois. 
+
+En cas de suppression, dissimulation ou lacération des affiches apposées, il est de nouveau procédé à l'affichage. 
+
+Les modalités de la publication sont précisées dans la décision prononçant l'amende. 
+
+III.-Le ministre chargé de la consommation est l'ordonnateur compétent pour émettre les titres de perception afférents aux
+sanctions prononcées en application de l'article L. 141-1-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 8
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L141-1-2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R522-1 (V)
 
 
 #### Chapitre II : Procédures civiles simplifiées
@@ -31386,150 +31490,55 @@ pour l'aide juridique par le requérant qui justifie l'avoir acquitée au titre 
 	  - Code de procédure civile - art. 97
 
 
+#### Chapitre III : Dispositions relatives à l'outre-mer
+
+###### Article R143-1
+
+Pour l'application des articles R. 141-3, R. 141-4 et R. 141-6 dans les départements et régions d'outre-mer et dans le
+Département de Mayotte, les références au directeur régional des entreprises, de la concurrence, de la consommation, du
+travail et de l'emploi et au directeur de la direction départementale chargée de la protection des populations sont
+remplacées par la référence au directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 9
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R141-3
+
+
+###### Article R143-2
+
+Pour l'application des articles R. 141-3, R. 141-4 et R. 141-6 à Saint-Pierre-et-Miquelon, les références au directeur
+régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et au directeur de la direction
+départementale chargée de la protection des populations sont remplacées par la référence au directeur de la cohésion sociale,
+du travail, de l'emploi et de la population.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 9
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R141-3 (Ab)
+
+
 ## Livre II : Qualité des produits et des services
 
 ### Titre Ier : Conformité
-
-#### Chapitre Ier : Dispositions générales.
-
-##### Section 2 : Dispositions particulières aux garanties conventionnelles.
-
-###### Article R211-1
-
-Les dispositions des articles R. 211-2 et R. 211-3 s'appliquent aux écrits constatant les contrats conclus entre
-professionnels et non-professionnels ou consommateurs et concernant la garantie et le service après-vente des appareils
-portés sur une liste fixée par arrêté des ministres de la consommation, de la justice, de l'industrie, du commerce et de
-l'artisanat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-1045 du 22 décembre 1987 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1109 du 30 septembre 2014 - art. 38
-
-	**Cite**:
-
-	  - Code de la consommation
-
-
-###### Article R211-2
-
-La présentation des écrits doit être conforme au tableau annexé au présent code dont toutes les rubriques doivent être
-remplies.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-1045 du 22 décembre 1987 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1109 du 30 septembre 2014 - art. 38
-
-
-###### Article R211-3
-
-Sera puni de la peine d'amende prévue pour les contraventions de la troisième classe celui qui aura contrevenu aux
-dispositions de l'article R. 211-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-1045 du 22 décembre 1987 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1109 du 30 septembre 2014 - art. 38
-
-	**Cite**:
-
-	  - Code de la consommation
-
-
-###### Article R211-4
-
-Dans les contrats conclus entre des professionnels, d'une part, et, d'autre part, des non-professionnels ou des
-consommateurs, le professionnel ne peut garantir contractuellement la chose à livrer ou le service à rendre sans mentionner
-clairement que s'applique, en tout état de cause, la garantie légale qui oblige le vendeur professionnel à garantir
-l'acheteur contre toutes les conséquences des défauts ou vices cachés de la chose vendue ou du service rendu.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-464 1978-03-24 art. 4 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1109 du 30 septembre 2014 - art. 38
-
-
-###### Article R211-5
-
-Sera puni de la peine d'amende prévue pour les contraventions de la cinquième classe le professionnel qui aura inséré dans un
-contrat conclu avec un non-professionnel ou consommateur une clause établie en contravention aux dispositions de l'article R.
-211-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-464 1978-03-24 art. 4 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1109 du 30 septembre 2014 - art. 38
-
-	**Cite**:
-
-	  - Code de la consommation
-
 
 #### Chapitre IV : Mesures d'application.
 
@@ -32843,22 +32852,26 @@ ne font pas obstacle à ce que la preuve desdites infractions puisse être étab
 
 ##### Section 2 : Recherche et constatation.
 
-###### Article D215-16
+###### Article R215-2
 
-Le remboursement des frais exposés pour la recherche et la constatation des infractions au livre II du présent code et des
-textes pris pour son application est effectué à l'appui d'un titre de perception unique émis par le préfet et recouvré par le
-comptable de la direction générale des finances publiques conformément aux dispositions prévues aux articles 23 à 28 et 112 à
-124 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
+Les agents mentionnés à l'article L. 215-1 procèdent à des contrôles élémentaires dans le but d'identifier les marchandises
+ou de déceler leur éventuelle non-conformité aux caractéristiques qu'elles doivent posséder. 
 
-Ce titre précisera, par poste de dépense, les coûts indiqués par l'agent verbalisateur mentionné à l'article L. 215-1 et
-faisant l'objet de la demande de remboursement. 
+Ils peuvent recueillir, sur convocation ou sur place, les déclarations de toute personne susceptible d'apporter des éléments
+utiles à leurs constatations. Ils en dressent procès-verbal. Ils peuvent joindre à l'appui de leurs constatations des
+spécimens d'emballages ou d'étiquetages. 
 
-Les postes de dépenses sont : 
+Ils peuvent procéder à la prise d'un échantillon de la marchandise ou un exemplaire de celle-ci destiné à servir de pièce à
+conviction. Cette prise d'échantillon donne lieu à un procès-verbal. 
 
-a) Les prélèvements et le transport des échantillons, dont le montant est fixé forfaitairement à 220 Euros TTC ; 
+La quantité du produit rendue inutilisable, dont la non-conformité à la réglementation n'a pas été établie, fait l'objet d'un
+remboursement dans les conditions fixées à l'article R. 215-9. 
 
-b) Les analyses et essais, dont le montant est établi sur la base des coûts de revient supportés par le service auquel
-appartient l'agent verbalisateur.
+Le propriétaire ou détenteur de la marchandise ou, le cas échéant, le représentant de l'entreprise de transport peut faire
+insérer au procès-verbal toute déclaration qu'il juge utile. Il est invité à signer le procès-verbal. En cas de refus,
+mention en est faite par l'agent verbalisateur. 
+
+Ils peuvent également opérer des prélèvements dans les conditions fixées par les articles ci-après.
 
 **Liens relatifs à cet article**
 
@@ -32866,50 +32879,29 @@ appartient l'agent verbalisateur.
 
 	  - Décret n°97-298 du 27 mars 1997
 
-	**Cite**:
-
-	  - Décret n°2012-1246 du 7 novembre 2012 - art. 23
-	  - Code de la consommation - art. L215-1
-
 	**Modifié par**:
 
-	  - Décret n°2014-552 du 27 mai 2014 - art. 4
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 11
 
 	**Abrogé par**:
 
-	  - Décret n°2014-1109 du 30 septembre 2014 - art. 38
-
-
-###### Article R215-2
-
-Les fonctionnaires et agents énumérés à l'article L. 215-1 procèdent à des contrôles élémentaires, dans le but d'identifier
-les marchandises ou de déceler leur éventuelle non-conformité aux caractéristiques qu'elles doivent posséder. Ils dressent
-procès-verbal de leurs constatations ; ils peuvent y joindre des spécimens d'emballages ou d'étiquetages ainsi qu'un
-échantillon de la marchandise destinés à servir de pièces à conviction. La quantité du produit rendue inutilisable, dont la
-non-conformité à la réglementation n'a pas été établie, fait l'objet d'un remboursement sur la base de la valeur estimée par
-l'agent verbalisateur ou, à défaut, déclarée par le propriétaire ou le détenteur de la marchandise dans les conditions fixées
-à l'article R. 215-9.
-
-Ils peuvent en outre opérer des prélèvements dans les conditions fixées par les articles ci-après.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Modifié par**:
-
-	  - Décret n°2007-1480 du 16 octobre 2007 - art. 1 () JORF 18 octobre 2007
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation - art. L215-1 (M)
-	  - Code de la consommation - art. R*215-9 (M)
+	  - Code de la consommation - art. L215-1
+	  - Code de la consommation - art. R*215-9
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L512-12 (V)
+	  - Code de la consommation - art. R512-1 (V)
+	  - Code de la consommation - art. R512-2 (V)
+	  - Code de la consommation - art. R512-3 (V)
+	  - Code de la consommation - art. R512-7 (V)
 
 	**Anciens textes**:
 
-	  - Décret n°1919-01-22 art. 5 bis
 	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 5 bis (Ab)
 
 
@@ -32954,25 +32946,49 @@ d'information nécessaires à l'accomplissement de cette mission.
 	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
+###### Article R215-3-1
+
+Lorsque les agents constatent des infractions ou manquements dans les conditions prévues au II de l'article L. 215-3-4, ils
+dressent un procès-verbal dans lequel sont mentionnées les modalités de consultation et d'utilisation du site internet,
+notamment : 
+
+1° Les noms, qualité et résidence administrative de l'agent verbalisateur ; 
+
+2° L'identité d'emprunt sous laquelle le contrôle a été conduit ; 
+
+3° La date et l'heure du contrôle ; 
+
+4° Les modalités de connexion au site et de recueil des informations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 12
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-3-4
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-8 (V)
+
+
 ###### Article R215-4
 
-Sauf dans les cas prévus aux articles R. 215-12 à R. 215-15 tout prélèvement comporte au moins trois échantillons, l'un
+Sauf dans les cas prévus aux articles R. 215-12 à R. 215-17 tout prélèvement comporte au moins trois échantillons, l'un
 destiné au laboratoire pour analyse, les deux autres éventuellement destinés aux experts.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la consommation R215-12 à R215-15
-
-	**Anciens textes**:
-
-	  - Décret n°1919-01-22 art. 10
-	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 10 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Cité par**:
 
@@ -32980,7 +32996,23 @@ destiné au laboratoire pour analyse, les deux autres éventuellement destinés 
 
 	**Modifié par**:
 
-	  - Décret n°2007-1480 du 16 octobre 2007 - art. 1 () JORF 18 octobre 2007
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R*215-12
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-17 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 10 (Ab)
 
 
 ###### Article R215-5
@@ -33034,11 +33066,10 @@ connaissements comme expéditeurs et destinataires ;
 
 ###### Article R215-6
 
-Le procès-verbal mentionné à l'article précédent doit en outre contenir un exposé succinct des circonstances dans lesquelles
-le prélèvement a été effectué, relater les marques et étiquettes apposées sur les enveloppes ou récipients, l'importance du
-lot de marchandises échantillonnées, ainsi que toutes les indications jugées utiles pour établir l'authenticité des
-échantillons prélevés, l'identité de la marchandise et la dénomination exacte sous laquelle cette dernière était détenue ou
-mise en vente.
+Le procès-verbal mentionné à l'article précédent doit en outre contenir un exposé succinct des modalités de prélèvement,
+relater les marques et étiquettes apposées sur les enveloppes ou récipients, l'importance du lot de marchandises
+échantillonnées, ainsi que toutes les indications jugées utiles pour établir l'authenticité des échantillons prélevés,
+l'identité de la marchandise et la dénomination exacte sous laquelle cette dernière était détenue ou mise en vente.
 
 Le propriétaire ou détenteur de la marchandise ou, le cas échéant, le représentant de l'entreprise de transport peut en outre
 faire insérer au procès-verbal toutes les déclarations qu'il juge utiles. Il est invité à signer le procès-verbal ; en cas de
@@ -33049,45 +33080,62 @@ prélèvement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1919-01-22 art. 11 al. 3 à al. 5
-
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Modifié par**:
 
-	  - Décret n°2005-1701 du 27 décembre 2005 - art. 1 () JORF 30 décembre 2005
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 14
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-11 (V)
 
 
 ###### Article R215-7
 
-Les prélèvements doivent être effectués de telle sorte que les trois échantillons soient, autant que possible, identiques.
+Les prélèvements doivent être effectués de telle sorte que les échantillons soient, autant que possible, identiques.
 
 A cet effet, des arrêtés du ministre chargé de l'économie et des finances peuvent déterminer, pour chaque produit ou
 marchandise, la quantité à prélever, les procédés à employer pour obtenir des échantillons homogènes, ainsi que les
 précautions à prendre pour le transport et la conservation des échantillons.
 
+Le détenteur du produit communique à l'agent verbalisateur toute information sur les risques éventuels liés aux prélèvements
+et les mesures qu'il convient de mettre en œuvre pour les réaliser en toute sécurité. 
+
+Le détenteur met à disposition de l'agent le matériel nécessaire et les équipements de protection individuelle adéquats. 
+
+Lorsque la nature du produit ou de la marchandise le justifie, l'échantillonnage peut être réalisé, à la demande de l'agent
+verbalisateur, par le détenteur du produit.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1919-01-22 art. 12
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Modifié par**:
-
-	  - Décret n°2005-1701 du 27 décembre 2005 - art. 1 () JORF 30 décembre 2005
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Cité par**:
 
 	  - Arrêté du 29 novembre 2007 (VT)
 	  - Code de la consommation - art. R215-10 (Ab)
+	  - Code de la consommation - art. R215-11 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 15
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-12 (V)
 
 
 ###### Article R215-8
@@ -33104,7 +33152,7 @@ effectué en cours de route, les noms et adresses des expéditeurs et destinatai
 
 4° Le numéro d'ordre du prélèvement ;
 
-5° Le numéro d'identification attribué par le service administratif ;
+5° Abrogé ;
 
 6° La signature de l'agent verbalisateur.
 
@@ -33112,138 +33160,164 @@ effectué en cours de route, les noms et adresses des expéditeurs et destinatai
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Modifié par**:
 
-	  - Décret n°2005-1701 du 27 décembre 2005 - art. 1 () JORF 30 décembre 2005
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 38
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cité par**:
 
 	  - Code de la consommation - art. R215-15 (Ab)
 	  - Code de la consommation - art. R218-1 (Ab)
 	  - Code de la consommation - art. R218-5 (Ab)
+	  - Code de la consommation - art. R218-6 (Ab)
 	  - Code des postes et des communications électroni... - art. R20-20 (V)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Décret n°1919-01-22 art. 13
+	  - Code de la consommation - art. R512-13 (V)
 
 
 ###### Article R215-9
 
-Aussitôt après avoir scellé les échantillons, l'agent verbalisateur, s'il est en présence du propriétaire ou détenteur de la
-marchandise, l'invite à déclarer la valeur des échantillons prélevés. Le propriétaire ou le détenteur pourra justifier cette
-valeur à l'aide de ses documents comptables.
+Lors du prélèvement, un récépissé est remis au propriétaire ou détenteur de la marchandise. Il fait mention de la nature et
+des quantités d'échantillons prélevés. 
 
-Le procès-verbal mentionne la valeur déclarée par le propriétaire ou le détenteur et, dans le cas où l'agent verbalisateur
-estime que cette valeur est exagérée, l'estimation faite par cet agent.
+En cas de prélèvement en cours de route, le récépissé est remis au représentant de l'entreprise de transport. 
 
-Un récépissé est remis au propriétaire ou détenteur de la marchandise ; il y est fait mention de la nature et des quantités
-d'échantillons prélevés, de la valeur déclarée et, dans le cas prévu à l'alinéa ci-dessus, de l'estimation faite par l'agent.
-
-En cas de prélèvement en cours de route, le représentant de l'entreprise de transport reçoit pour sa décharge un récépissé
-indiquant la nature et la quantité des marchandises prélevées ainsi que la valeur estimée par l'agent.
+Les échantillons dont la non-conformité à la règlementation n'a pas été établie sont remboursés d'après leur valeur le jour
+du prélèvement toutes taxes comprises. Toutefois, si le propriétaire déclare renoncer au remboursement, il en est fait
+mention dans le procès-verbal de prélèvement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Modifié par**:
 
-	  - Décret n°2007-1480 du 16 octobre 2007 - art. 1 () JORF 18 octobre 2007
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 16
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cité par**:
 
-	  - Code de la consommation - art. R215-12 (M)
+	  - Code de la consommation - art. R215-12 (Ab)
 	  - Code de la consommation - art. R215-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-11 (V)
+	  - Code de la consommation - art. R512-14 (V)
 
 	**Anciens textes**:
 
-	  - Décret n°1919-01-22 art. 14
 	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 14 (Ab)
 
 
 ###### Article R215-10
 
-L'un des échantillons est laissé au propriétaire ou détenteur du produit. Si celui-ci refuse de conserver ledit échantillon
-en dépôt, mention de ce refus est faite au procès-verbal.
+L'un au moins des échantillons est laissé au propriétaire ou détenteur du produit. 
 
-Sous aucun prétexte, il ne doit modifier l'état de l'échantillon qui lui est confié. Les mesures de garantie qui pourront
-être imposées, à cet égard, seront fixées par l'un des arrêtés ministériels prévus à l'article R. 215-7.
+Sous aucun prétexte, il ne doit modifier l'état des échantillons qui lui sont confiés. Les mesures de garantie qui pourront
+être imposées, à cet égard, seront fixées par l'un des arrêtés ministériels prévus à l'article R. 215-7. 
+
+Toutefois, si le propriétaire ou le détenteur ne dispose pas des moyens de conserver le ou les échantillons dans des
+conditions de nature à permettre la contre-expertise, les échantillons sont conservés dans un endroit désigné par l'agent
+verbalisateur, mention en est faite au procès-verbal.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la consommation R215-7
-
-	**Anciens textes**:
-
-	  - Décret n°1919-01-22 art. 15
-
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 17
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R215-7
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R217-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-15 (V)
 
 
 ###### Article R215-11
 
-Le procès-verbal et les échantillons, à l'exception de celui que le propriétaire ou détenteur du produit a pu conserver en
-dépôt, sont immédiatement déposés, par l'agent verbalisateur, au service administratif qui enregistre le prélèvement.
+Le procès-verbal et, le cas échéant, les échantillons sont déposés par l'agent verbalisateur au service administratif qui
+enregistre le prélèvement. 
 
-Des arrêtés ministériels pourront autoriser l'envoi des échantillons à tout autre service administratif.
+Des arrêtés ministériels pourront autoriser l'envoi des échantillons à tout autre service administratif. 
 
 Le service administratif qui reçoit ce dépôt l'enregistre, inscrit le numéro d'identification sur le procès-verbal et
-l'étiquette que porte chaque échantillon joint à ce procès-verbal. Dans les moindres délais, il transmet l'un de ces
-échantillons au laboratoire compétent.
+l'étiquette que porte chaque échantillon joint à ce procès-verbal. Les échantillons nécessaires aux analyses ou aux essais
+sont adressés au laboratoire compétent. 
 
-L'autre échantillon ou, dans le cas prévu par le premier alinéa de l'article R. 215-10, les deux autres échantillons sont
-conservés par le service administratif.
+Les autres échantillons sont conservés par le service administratif. 
 
-Toutefois, si la nature des denrées ou produits exige des mesures spéciales de conservation, les échantillons sont envoyés au
-laboratoire, où des mesures sont prises conformément aux arrêtés prévus à l'article R. 215-7.
+Toutefois, si la nature des denrées ou produits exige des mesures spéciales de conservation, les échantillons peuvent être
+envoyés au laboratoire, où des mesures sont prises conformément aux arrêtés prévus à l'article R. 215-7.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1918-01-22 art. 16
-
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Modifié par**:
 
-	  - Décret n°2005-1701 du 27 décembre 2005 - art. 1 () JORF 30 décembre 2005
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 18
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R215-14 (Ab)
 
 	**Cite**:
 
-	  - Code de la consommation R215-7, R215-10
+	  - Code de la consommation - art. R215-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-16 (V)
 
 
 ###### Article R215-12
 
 Dans le cas des produits rapidement altérables mentionnés à l'article L. 215-15, un récépissé remis au propriétaire ou au
-détenteur de l'objet dans les conditions prévues à l'article R. 215-9 mentionne la valeur de la quantité du produit rendue
-inutilisable.
+détenteur du produit dans les conditions prévues à l'article R. 215-9 mentionne la quantité du produit rendue inutilisable. 
 
 Le produit placé sous scellés est déposé par l'agent dans un lieu propre à en assurer autant que possible la conservation. Il
-peut être laissé à la garde de son propriétaire ou de son détenteur.
+peut être laissé à la garde de son propriétaire ou de son détenteur. 
 
 En vue de l'expertise éventuelle prévue à l'article L. 215-15, l'agent verbalisateur invite le propriétaire ou le détenteur
-de l'objet à choisir un expert et un suppléant sur les listes officielles, ou à s'en rapporter à un expert unique requis par
-le procureur de la République ou désigné par le juge d'instruction.
+du produit à choisir un expert et un suppléant sur les listes officielles, ou à s'en rapporter à un expert unique requis par
+le procureur de la République ou désigné par le juge d'instruction. 
 
-L'agent verbalisateur consigne dans le procès-verbal les déclarations du propriétaire ou du détenteur de l'objet relatives à
-l'expertise.
+L'agent verbalisateur consigne dans le procès-verbal les déclarations du propriétaire ou du détenteur du produit relatives à
+l'expertise. 
 
 Ce procès-verbal est transmis sans délai au procureur de la République.
 
@@ -33251,21 +33325,29 @@ Ce procès-verbal est transmis sans délai au procureur de la République.
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Modifié par**:
 
-	  - Décret n°2007-1480 du 16 octobre 2007 - art. 1 () JORF 18 octobre 2007
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 19
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation - art. L215-15 (M)
-	  - Code de la consommation - art. R*215-9 (M)
+	  - Code de la consommation - art. L215-15
+	  - Code de la consommation - art. R215-9 (Ab)
 
 	**Cité par**:
 
 	  - Code de la consommation - art. R*215-13 (M)
 	  - Code de la consommation - art. R215-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-19 (V)
 
 	**Anciens textes**:
 
@@ -33274,17 +33356,18 @@ Ce procès-verbal est transmis sans délai au procureur de la République.
 
 ###### Article R215-13
 
-Lorsqu'en raison de leur valeur, de leur nature ou de la trop faible quantité de produit, l'objet ou la marchandise ne
-peuvent pas faire l'objet d'un prélèvement en trois échantillons, ils sont mis en totalité sous scellés.
+Lorsqu'en raison de sa valeur, de sa nature ou de la trop faible quantité de produit, la marchandise ne peut pas faire
+l'objet d'un prélèvement en plusieurs échantillons mais seulement en un échantillon, et que la contre-expertise ne peut pas
+être réalisée sur cet échantillon, il est mis en totalité sous scellés. 
 
 Le procès-verbal de prélèvement, l'objet ou la marchandise sous scellés ainsi que toutes les pièces utiles sont adressés au
 procureur de la République. Toutefois, cet objet ou cette marchandise sous scellés peuvent être laissés en dépôt à son
 détenteur ou à son propriétaire. Le procureur de la République notifie à l'auteur présumé de l'infraction que ceux-ci vont
 être soumis à expertise et l'informe de ce qu'il a trois jours francs pour faire connaître s'il entend user de son droit de
-désigner un expert.
+désigner un expert. 
 
 Si l'auteur présumé exerce ce droit dans ce délai, le procureur de la République ou le juge d'instruction procède à la
-nomination simultanée de deux experts conformément aux dispositions de l'article L. 215-15.
+nomination simultanée de deux experts conformément aux dispositions de l'article L. 215-15. 
 
 A défaut ou si l'intéressé déclare, avant l'expiration du délai prévu au deuxième alinéa, s'en rapporter aux conclusions de
 l'expert désigné par le procureur de la République ou le juge d'instruction, ceux-ci peuvent désigner un expert
@@ -33294,15 +33377,23 @@ immédiatement.
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Modifié par**:
 
-	  - Décret n°2005-1701 du 27 décembre 2005 - art. 1 () JORF 30 décembre 2005
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 20
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation - art. L215-15 (M)
+	  - Code de la consommation - art. L215-15
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-20 (V)
 
 
 ###### Article R215-14
@@ -33393,28 +33484,96 @@ Les échantillons scellés sont conservés par le laboratoire.
 	  - Décret n°1919-01-22 du 22 janvier 1919 - art. 36 (Ab)
 
 
-##### Section 4 : Expertises.
+###### Article R215-16
 
-###### Article R215-18
+Lorsqu'en raison de leur valeur, de leur nature, de la trop faible quantité disponible, du poids ou du volume du produit ou
+des échantillons destinés à l'analyse ou à l'essai, la marchandise ne peut pas faire l'objet d'un prélèvement en trois
+échantillons, le prélèvement est réalisé en deux échantillons. 
 
-La compétence de chaque laboratoire d'Etat admis à procéder à l'analyse ou aux essais des échantillons est fixée par un
-arrêté du ministre chargé de l'économie et des finances. Lorsque le laboratoire d'Etat relève de l'autorité d'un autre
-ministre, l'arrêté est pris conjointement par ce ministre et le ministre chargé de l'économie et des finances.
+Lors de l'expertise mentionnée à l'article L. 215-12, les experts procèdent en commun à l'examen du second échantillon.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-1194 1997-12-19 art. 1 *décisions administratives individuelles*
-	  - SPEC_APPLI: Décret n°99-1233 1999-12-31 art. 4 *modalités d'application - dispositions transitoires*
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Modifié par**:
 
-	  - Décret n°99-1233 du 31 décembre 1999 - art. 1 () JORF 4 janvier 2000
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 21
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-12
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L512-46 (V)
+	  - Code de la consommation - art. R512-18 (V)
+
+
+###### Article R215-17
+
+Lorsqu'un produit est rapidement altérable ou lorsqu'il s'agit d'une marchandise qui, en raison de sa valeur, de sa nature ou
+de la trop faible quantité du produit, n'a pu faire l'objet d'un prélèvement en plusieurs échantillons, mais qu'il peut être
+procédé à la contre-expertise sur l'échantillon utilisé pour la première analyse ou le premier essai, le prélèvement est
+réalisé en un échantillon. 
+
+Dès que l'analyse ou l'essai le permet, la marchandise ou ses parties destinées à l'expertise mentionnée à l'article L.
+215-12 sont placées sous scellés et munies d'une étiquette portant les indications suivantes : 
+
+a) Numéro d'identification de l'échantillon ; 
+
+b) Numéro attribué par le laboratoire ; 
+
+c) Nom et signature de l'analyste. 
+
+L'échantillon scellé est conservé par le laboratoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Modifié par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 21
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-12
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-21 (V)
+
+
+##### Section 4 : Expertises.
+
+###### Article R215-18
+
+La compétence de chaque laboratoire d'Etat admis à procéder à l'analyse ou aux essais des échantillons est fixée par un
+arrêté du ministre chargé de l'économie. Lorsque le laboratoire d'Etat relève de l'autorité d'un autre ministre, l'arrêté est
+pris conjointement par ce ministre et le ministre chargé de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Modifié par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 22
 
 	**Cité par**:
 
@@ -33425,41 +33584,63 @@ ministre, l'arrêté est pris conjointement par ce ministre et le ministre charg
 	  - Code de la consommation - art. R215-20 (Ab)
 	  - Code de la consommation - art. R218-3 (Ab)
 	  - Code de la consommation - art. R218-5 (Ab)
+	  - Code de la consommation - art. R218-6 (Ab)
 	  - Code de la santé publique - art. L1413-5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-31 (V)
 
 
 ###### Article R215-18-1
 
 Des laboratoires autres que ceux prévus à l'article R. 215-18 peuvent être admis à procéder aux analyses ou aux essais, sous
-réserve d'être agréés. Le ministre chargé de l'économie et des finances fixe par arrêté les conditions d'agrément des
-laboratoires qui apportent la preuve de leur aptitude à effectuer les analyses ou essais conformément aux normes en vigueur
-et qui présentent des garanties de confidentialité, d'impartialité et d'indépendance envers toute entreprise ou groupe
-d'entreprises exerçant une activité de production, d'importation ou de commercialisation de produits ou de biens dans le
-domaine analytique pour lequel l'agrément est sollicité. Il accorde l'agrément par arrêté.
+réserve d'être agréés. Le ministre chargé de l'économie fixe par arrêté les conditions d'agrément des laboratoires qui
+apportent la preuve de leur aptitude à effectuer les analyses ou essais conformément aux normes en vigueur et qui présentent
+des garanties de confidentialité, d'impartialité et d'indépendance envers toute entreprise ou groupe d'entreprises exerçant
+une activité de production, d'importation ou de commercialisation de produits ou de biens dans le domaine analytique pour
+lequel l'agrément est sollicité. Il accorde l'agrément par arrêté. 
 
 Les laboratoires agréés sont soumis, à tout moment, au contrôle du respect des conditions de l'agrément, sur pièces et sur
-place, par la direction générale de la concurrence, de la consommation et de la répression des fraudes.
+place, par le service commun des laboratoires du ministère chargé de l'économie. 
 
-Lorsque le laboratoire ne remplit plus une ou plusieurs des conditions exigées pour l'agrément, il doit en informer le
-directeur général de la concurrence, de la consommation et de la répression des fraudes sans délai. En cas de non-respect des
-conditions exigées pour l'agrément, le ministre chargé de l'économie et des finances peut suspendre ou retirer l'agrément.
+Lorsque le laboratoire ne remplit plus une ou plusieurs des conditions exigées pour l'agrément, il doit en informer le chef
+du service commun des laboratoires du ministère chargé de l'économie sans délai. En cas de non-respect des conditions exigées
+pour l'agrément, le ministre chargé de l'économie peut suspendre ou retirer l'agrément.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°99-1233 du 31 décembre 1999 - art. 2 () JORF 4 janvier 2000
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Cité par**:
 
 	  - Arrêté du 18 novembre 2009 (Ab)
 	  - Arrêté du 2 septembre 2013 (Ab)
 	  - Code de la consommation - art. R215-18-3 (Ab)
+	  - Code de la consommation - art. R215-20 (Ab)
 	  - Code de la santé publique - art. L1413-5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 23
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R215-18
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-32 (V)
 
 
 ###### Article R215-18-2
@@ -33490,6 +33671,31 @@ assister d'un expert de son choix.
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. R512-33 (V)
+
+
+###### Article R215-18-3
+
+Les laboratoires, autres que ceux prévus à l'article R. 215-18-1, exerçant leurs activités dans un autre Etat membre de
+l'Union européenne ou partie à l'accord sur l'Espace économique européen sont admis à procéder à l'analyse ou aux essais des
+échantillons prélevés dans le cadre d'une action de coopération européenne associant plusieurs Etats membres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 24
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R215-18-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-34 (V)
 
 
 ###### Article R215-19
@@ -33532,12 +33738,12 @@ Les laboratoires peuvent se faire assister de tout spécialiste de leur choix.
 ###### Article R215-20
 
 Le laboratoire d'Etat, mentionné à l'article R. 215-18, dresse, dès l'achèvement de ses travaux, ou dès la réception des
-résultats des analyses ou essais confiés aux laboratoires admis à procéder à l'expertise en vertu des articles R. 215-18-1 et
-R. 215-18-2, un rapport où sont consignés et interprétés les résultats de l'examen et des analyses auxquels cet échantillon a
-donné lieu.
+résultats des analyses ou essais confiés aux laboratoires admis à procéder à l'expertise en vertu des articles R. 215-18-1 à
+R. 215-18-3, un rapport où sont consignés et interprétés les résultats de l'examen et des analyses auxquels cet échantillon a
+donné lieu. 
 
-Lorsqu'il est fait appel à un laboratoire relevant des articles R. 215-18-1 ou R. 215-18-2, ses rapports d'analyses ou essais
-sont joints au rapport du laboratoire d'Etat.
+Lorsqu'il est fait appel à un laboratoire relevant des articles R. 215-18-1 à R. 215-18-3, ses rapports d'analyses ou essais
+sont joints au rapport du laboratoire d'Etat. 
 
 Le rapport du laboratoire d'Etat est adressé au service administratif qui a enregistré le prélèvement.
 
@@ -33545,11 +33751,24 @@ Le rapport du laboratoire d'Etat est adressé au service administratif qui a enr
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Modifié par**:
 
-	  - Décret n°2005-1701 du 27 décembre 2005 - art. 1 () JORF 30 décembre 2005
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 25
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R215-18
+	  - Code de la consommation - art. R215-18-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-36 (V)
 
 
 ###### Article R215-21
@@ -33666,6 +33885,97 @@ de ce troisième prélèvement sur le laboratoire compétent qui a déjà examin
 	  - Décret n°1919-01-22 art. 23 bis
 
 
+##### Section 5 : Opérations de visite et de saisie et commissions rogatoires.
+
+###### Article R215-24
+
+L'ordonnance mentionnée à l'article L. 215-18 indique les voies et délais de recours dont dispose l'occupant des lieux ou son
+représentant. 
+
+Les procès-verbaux relatent le déroulement de la visite et consignent les constatations effectuées. Ils sont dressés sur-le-
+champ. Ils comportent l'inventaire des pièces et documents saisis. 
+
+Ces procès-verbaux sont signés par les agents mentionnés au I de l'article L. 215-18, par l'officier de police judiciaire
+chargé d'assister aux opérations ainsi que, selon le cas, par l'occupant des lieux, son représentant ou les deux témoins
+requis conformément au V de l'article L. 215-18. 
+
+Une copie du procès-verbal est remise à l'occupant des lieux ou à son représentant. En leur absence, la copie du procès-
+verbal est adressée, après la visite, au responsable de l'entreprise ou de l'organisme concerné par lettre recommandée avec
+demande d'avis de réception. Les pièces et documents saisis ne peuvent être opposés aux intéressés qu'après qu'ils ont été
+mis en mesure d'en prendre connaissance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 26
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-18
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-39 (V)
+	  - Code de la consommation - art. R512-40 (V)
+	  - Code de la consommation - art. R512-41 (V)
+	  - Code de la consommation - art. R512-42 (V)
+
+
+##### Section 6 : Actions juridictionnelles
+
+###### Article R215-25
+
+L'autorité administrative mentionnée aux articles L. 215-20 et L. 215-21 est le directeur général de la concurrence, de la
+consommation et de la répression des fraudes, le chef du service national des enquêtes de la direction générale de la
+concurrence, de la consommation et de la répression des fraudes, le directeur régional des entreprises, de la concurrence, de
+la consommation, du travail et de l'emploi ou le directeur de la direction départementale chargée de la protection des
+populations ou leur représentant nommément désigné.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 27
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-20
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R219-3 (Ab)
+	  - Code de la consommation - art. R219-4 (Ab)
+
+
+###### Article R215-26
+
+Lorsqu'elle agit en application des articles L. 215-20 et L. 215-21, l'autorité administrative est dispensée de ministère
+d'avocat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 27
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L215-20
+
+
 #### Chapitre VI : Dispositions communes.
 
 ###### Article R216-2
@@ -33706,19 +34016,10 @@ article, les administrations compétentes doivent en informer aussitôt le préf
 
 ###### Article R216-3
 
-I.-L'autorité administrative mentionnée à l'article L. 216-11 est, dans le cadre de leurs compétences respectives, le chef du
-service national des enquêtes au sein de la direction générale de la concurrence, de la consommation et de la répression des
-fraudes, le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou le
-directeur de la direction départementale chargée de la protection des populations. 
-
-Pour l'application du présent article dans les départements et régions d'outre-mer et dans le Département de Mayotte, les
-références au "directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi" et au
-"directeur de la direction départementale chargée de la protection des populations" sont remplacées par la référence au
-"directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi".
-
-Pour l'application du présent article à Saint-Pierre-et-Miquelon, la référence au "directeur de la direction départementale
-chargée de la protection des populations" est remplacée par la référence au "directeur de la cohésion sociale, du travail, de
-l'emploi et de la population". 
+I.-L'autorité administrative mentionnée à l'article L. 216-11 est le chef du service national des enquêtes de la direction
+générale de la concurrence, de la consommation et de la répression des fraudes, le directeur régional des entreprises, de la
+concurrence, de la consommation, du travail et de l'emploi ou le directeur de la direction départementale chargée de la
+protection des populations ou leur représentant nommément désigné. 
 
 II.-L'autorité administrative mentionnnée au I transmet la proposition de transaction au procureur de la République dans un
 délai de trois mois à compter de la clôture du procès-verbal de constatation de l'infraction. Cette proposition précise la
@@ -33743,7 +34044,11 @@ proposition, au terme du délai imparti, ou n'aurait pas satisfait aux autres ob
 
 	**Modifié par**:
 
-	  - Décret n°2012-839 du 29 juin 2012 - art. 3
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 28
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
@@ -33752,6 +34057,14 @@ proposition, au terme du délai imparti, ou n'aurait pas satisfait aux autres ob
 	**Cité par**:
 
 	  - Code de la consommation - art. R219-3 (Ab)
+	  - Code de la consommation - art. R219-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R523-1 (V)
+	  - Code de la consommation - art. R523-2 (V)
+	  - Code de la consommation - art. R523-3 (V)
+	  - Code de la consommation - art. R523-4 (V)
 
 
 #### Chapitre VII : Dispositions particulières.
@@ -33796,6 +34109,30 @@ La récidive de cette contravention est réprimée conformément aux articles 13
 	  - Code pénal - art. 132-15
 
 
+###### Article R217-2
+
+Est puni de la peine prévue pour les contraventions de la 5e classe le fait pour un détenteur de produit de ne pas avoir
+conservé un échantillon laissé à sa garde en application de l'article R. 215-10 ou d'en avoir modifié l'état.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 29
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R215-10 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R531-1 (V)
+
+
 #### Chapitre VIII : Mesures de police administrative
 
 ###### Article R218-1
@@ -33835,6 +34172,303 @@ Ce prélèvement ne donne lieu à aucun paiement à la charge de l'Etat.
 	**Anciens textes**:
 
 	  - Décret n°1919-01-22 art. 35
+
+
+###### Article R218-2
+
+Sauf dans les cas prévus aux articles R. 218-5 et R. 218-6, tout prélèvement effectué en application de l'article L. 218-1-2
+comporte au moins trois échantillons. Il donne lieu à l'établissement d'un rapport dans les conditions prévues aux articles
+R. 215-5 et R. 215-6. 
+
+Tout échantillon prélevé est mis sous scellés. Ces scellés retiennent une étiquette d'identification portant les indications
+mentionnées à l'article R. 215-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 30
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L218-1-2
+	  - Code de la consommation - art. R215-5
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-25 (V)
+
+
+###### Article R218-3
+
+L'un des échantillons est acheminé par le propriétaire ou le détenteur, à ses frais, à l'un des laboratoires mentionnés aux
+articles R. 215-18 et R. 215-18-1, désigné par l'agent verbalisateur. 
+
+Les autres échantillons sont laissés à la garde du propriétaire ou du détenteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 30
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R215-18
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-26 (V)
+
+
+###### Article R218-4
+
+Le service dont dépend l'agent verbalisateur informe le propriétaire ou le détenteur des échantillons des résultats d'analyse
+de l'échantillon. 
+
+Si l'analyse a établi que l'échantillon n'est pas conforme à la réglementation, le détenteur est informé qu'il peut faire
+réaliser, à ses frais, une contre-analyse par un laboratoire présentant des garanties d'indépendance, de compétence et
+d'impartialité. Celui-ci vérifie, avant toute analyse, l'intégrité du scellé apposé sur l'échantillon qu'il a reçu. Le
+laboratoire procède à l'analyse dans le respect de la réglementation applicable. 
+
+Si la contre-analyse infirme le résultat de la première analyse, le détenteur peut faire réaliser à ses frais une analyse du
+troisième échantillon par le laboratoire national de référence, au sens du  règlement (CE) n° 882/2004 du Parlement européen
+et du Conseil du 29 avril 2004 relatif aux contrôles officiels effectués pour s'assurer de la conformité avec la législation
+sur les aliments pour animaux et les denrées alimentaires et avec les dispositions relatives à la santé animale et au bien-
+être des animaux, compétent dans le domaine d'analyse considéré. 
+
+Le résultat de cette dernière analyse est le seul pris en compte pour décider des mesures consécutives au contrôle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 30
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R218-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-27 (V)
+
+
+###### Article R218-5
+
+Pour le contrôle des teneurs en mycotoxines contenues dans les denrées alimentaires, le prélèvement ne comporte qu'un
+échantillon. Il donne lieu à l'établissement d'un rapport dans les conditions prévues aux articles R. 215-5 et R. 215-6. 
+
+Tout échantillon prélevé est mis sous scellés. Ces scellés retiennent une étiquette d'identification portant les indications
+mentionnées à l'article R. 215-8. 
+
+L'échantillon est acheminé par le propriétaire ou le détenteur, à ses frais, à un des laboratoires mentionnés aux articles R.
+215-18 et R. 215-18-1, désigné par l'agent verbalisateur. 
+
+Le laboratoire prépare à partir de cet échantillon des échantillons destinés à l'analyse conformément aux dispositions de
+l'article R. 215-15. 
+
+Si l'analyse établit que l'échantillon n'est pas conforme à la réglementation, le détenteur est informé qu'il peut faire
+réaliser, à ses frais, une contre-analyse par un laboratoire présentant des garanties d'indépendance, de compétence et
+d'impartialité. Si la contre-analyse infirme le résultat de la première analyse, les dispositions de l'article R. 218-4
+s'appliquent. 
+
+L'un des échantillons détenus par le laboratoire est alors adressé, aux frais du détenteur, au laboratoire qu'il désigne. 
+
+Ce laboratoire vérifie, avant toute analyse, l'intégrité du scellé apposé sur l'échantillon qu'il a reçu. Il procède à
+l'analyse dans le respect des dispositions de la réglementation applicable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 30
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R215-15 (Ab)
+	  - Code de la consommation - art. R215-18
+	  - Code de la consommation - art. R215-5
+	  - Code de la consommation - art. R215-8
+	  - Code de la consommation - art. R218-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-28 (V)
+
+
+###### Article R218-6
+
+Lorsqu'un produit est rapidement altérable, lorsque sa valeur, sa nature, la trop faible quantité de produit ou la faible
+prévalence et la répartition du danger le justifie, le prélèvement est réalisé en un échantillon. Il donne lieu à
+l'établissement d'un rapport dans les conditions prévues aux articles R. 215-5 et R. 215-6. 
+
+Tout échantillon prélevé est mis sous scellés. Ces scellés retiennent une étiquette d'identification portant les indications
+mentionnées à l'article R. 215-8.
+
+L'échantillon est acheminé par le propriétaire ou le détenteur, à ses frais, à un des laboratoires mentionnés aux articles R.
+215-18 à R. 215-18-1 désigné par l'agent verbalisateur. 
+
+Si l'analyse établit que l'échantillon n'est pas conforme à la réglementation, le propriétaire ou le détenteur est informé
+qu'il peut demander, à ses frais, un examen documentaire, par un expert présentant des garanties d'indépendance, de
+compétence et d'impartialité. 
+
+Si l'expert est en désaccord avec les conclusions du laboratoire, le propriétaire ou le détenteur peut, à ses frais, demander
+un nouvel avis au laboratoire national de référence, au sens du règlement (CE) n° 882/2004 du Parlement européen et du
+Conseil du 29 avril 2004 relatif aux contrôles officiels effectués pour s'assurer de la conformité avec la législation sur
+les aliments pour animaux et les denrées alimentaires et avec les dispositions relatives à la santé animale et au bien-être
+des animaux, compétent dans le domaine d'analyse considéré.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 30
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R215-18 (Ab)
+	  - Code de la consommation - art. R215-5 (Ab)
+	  - Code de la consommation - art. R215-8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R512-29 (V)
+
+
+#### Chapitre IX : Sanctions administratives
+
+###### Article R219-1
+
+L'autorité administrative mentionnée à l'article L. 218-5-6 est le préfet, ou, à Paris, le préfet de police, du département
+du lieu d'implantation de l'établissement dans lequel le responsable de la mise sur le marché, ou le responsable de la non-
+conformité du produit, exerce son activité professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 31
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L218-5-6
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R522-7 (V)
+
+
+###### Article R219-2
+
+Le préfet ou, à Paris, le préfet de police informe par écrit l'intéressé de la non-conformité à la réglementation du produit
+prélevé établie par l'analyse ou l'essai ainsi que de la sanction qu'il encourt. Une copie du rapport d'analyse ou d'essai
+est jointe au courrier. L'intéressé est mis à même de présenter ses observations, écrites ou orales, dans le délai d'un mois,
+le cas échéant, assisté d'un conseil ou représenté par un mandataire de son choix. 
+
+Au terme de cette procédure, l'intéressé est informé de la décision motivée qui indique les voies et délais de recours. 
+
+La sanction est égale, dans la limite de 10 000 euros, au montant cumulé : 
+
+a) Des frais de prélèvement et de transport fixés forfaitairement à 220 euros TTC, par prélèvement ; 
+
+b) Des frais d'analyse ou d'essai supportés par le laboratoire d'Etat. 
+
+Le recouvrement est effectué à l'appui d'un titre de perception unique émis par le préfet et recouvré par le comptable public
+compétent, conformément aux dispositions prévues aux articles 23 à 28 et 112 à 124 du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 31
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R522-8 (V)
+	  - Code de la consommation - art. R522-9 (V)
+	  - Code de la consommation - art. R531-3 (V)
+
+
+#### Chapitre X : Dispositions relatives aux régions et départements d'outre-mer, au Département de Mayotte et à Saint-Pierre-et-Miquelon
+
+###### Article R219-3
+
+Pour l'application des articles R. 215-25 et R. 216-3 dans les départements et régions d'outre-mer et dans le Département de
+Mayotte, les références au directeur régional des entreprises, de la concurrence, de la consommation, du travail et de
+l'emploi et au directeur de la direction départementale chargée de la protection des populations sont remplacées par la
+référence au directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 31
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R215-25
+	  - Code de la consommation - art. R216-3
+
+
+###### Article R219-4
+
+Pour l'application des articles R. 215-25 et R. 216-3 à Saint-Pierre-et-Miquelon, les références au directeur régional des
+entreprises, de la concurrence, de la consommation, du travail et de l'emploi et au directeur de la direction départementale
+chargée de la protection des populations sont remplacées par la référence au directeur de la cohésion sociale, du travail, de
+l'emploi et de la population.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1109 du 30 septembre 2014 - art. 31
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R215-25 (Ab)
+	  - Code de la consommation - art. R216-3 (Ab)
 
 
 ### Titre II : Sécurité
@@ -33924,34 +34558,6 @@ Les infractions aux décisions mentionnées à l'article L. 221-11 sont punies d
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. R452-3 (V)
-
-
-###### Article R223-3
-
-Est puni de la peine d'amende prévue pour les contraventions de la 4e classe le fait de ne pas respecter, en méconnaissance
-des dispositions d'un arrêté pris en application de l'article L. 221-6 :
-
-1° Les mesures d'urgence prescrites pour faire cesser le danger grave ou immédiat présenté par le service ;
-
-2° La mesure de suspension de la prestation de service.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°2005-1701 du 27 décembre 2005 - art. 5 () JORF 30 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1109 du 30 septembre 2014 - art. 38
-
-	**Cite**:
-
-	  - Code de la consommation - art. L221-6
 
 
 ###### Article R223-4
