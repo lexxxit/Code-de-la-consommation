@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-10-03
+Version Consolidée au 2014-10-15
 
 # Partie législative
 
@@ -28092,19 +28092,27 @@ intellectuelle en cas de divulgation d'informations relevant du secret de fabric
 
 ###### Article L541-1
 
-La politique publique de l'alimentation est définie à l'article L. 230-1 du code rural et de la pêche maritime. 
+La politique publique de l'alimentation est définie à l'article L. 1 du code rural et de la pêche maritime. 
 
 Le programme national relatif à la nutrition et à la santé est défini à l'article L. 3231-1 du code de la santé publique.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-874 du 27 juillet 2010 - art. 1 (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 39
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. D824-3 (V)
 
 	**Cite**:
 
-	  - Code rural - art. L230-1
+	  - Code rural - art. L1
 	  - Code de la santé publique - art. L3231-1
 
 
