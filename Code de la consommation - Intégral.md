@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-10-15
+Version Consolidée au 2014-10-20
 
 # Partie législative
 
@@ -35436,6 +35436,40 @@ Le montant de l'indemnité est majoré des taxes fiscales applicables.
 	**Cite**:
 
 	  - Code de la consommation - art. L311-25
+
+
+###### Article D311-8-1
+
+Le crédit renouvelable mentionné à l'article L. 311-16 est considéré comme inactif si, pendant un an à compter de la date de
+la souscription ou de la date de dernière reconduction, le contrat de crédit ou tout moyen de paiement associé n'a fait
+l'objet d'aucune utilisation. Le document annexé mentionné au dixième alinéa de l'article L. 311-16 est envoyé au plus tard
+trois mois avant la date d'expiration du délai d'un an.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2014-1199 du 17 octobre 2014, ces dispositions s'appliquent à compter de l'entrée en
+vigueur du présent décret aux contrats souscrits à compter du 19 mars 2014. Les contrats en cours à la date du 19 mars 2014
+sont soumis aux règles prévues à l'article L. 311-16 du code de la consommation dans sa rédaction résultant de la loi du 17
+mars 2014 susvisée ainsi qu'à l'article 1er du présent décret au plus tard à compter de leur première reconduction
+intervenant à partir du 1er juillet 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1199 du 17 octobre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. D312-31 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L311-16
 
 
 ##### Section 6 : Les crédits affectés
