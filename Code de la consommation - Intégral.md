@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-10-20
+Version Consolidée au 2014-11-06
 
 # Partie législative
 
@@ -36279,27 +36279,27 @@ compte de cette phase d'épargne.
 
 ###### Article D313-6
 
-Les taux effectifs moyens qui ont été pratiqués au cours d'un trimestre civil par les établissements de crédit pour les
-catégories d'opérations de même nature comportant des risques analogues, telles que définies par l'arrêté du ministre chargé
-de l'économie et des finances prévu par l'article L. 313-3, sont calculés par la Banque de France. Le ministre chargé de
-l'économie et des finances fait procéder à la publication au Journal officiel de la République française de ces taux ainsi
-que des seuils de l'usure correspondant qui serviront de référence pour le trimestre suivant ; il procède, le cas échéant,
-aux corrections des taux observés, conformément aux dispositions du deuxième alinéa de l'article D. 313-7.
+Les taux effectifs moyens qui ont été pratiqués au cours d'un trimestre civil par les  établissements de crédit et les
+sociétés de financement pour les catégories d'opérations de même nature comportant des risques analogues, telles que définies
+par l'arrêté du ministre chargé de l'économie et des finances prévu par l'article L. 313-3, sont calculés par la Banque de
+France. Le ministre chargé de l'économie et des finances fait procéder à la publication au Journal officiel de la République
+française de ces taux ainsi que des seuils de l'usure correspondant qui serviront de référence pour le trimestre suivant ; il
+procède, le cas échéant, aux corrections des taux observés, conformément aux dispositions du deuxième alinéa de l'article D.
+313-7.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-506 1990-06-25 art. 1
 	  - Décret n°90-506 du 25 juin 1990 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2014-1316 du 3 novembre 2014 - art. 8
 
 	**Cité par**:
 
@@ -36308,13 +36308,18 @@ aux corrections des taux observés, conformément aux dispositions du deuxième 
 	  - Décret n°2015-1362 du 27 octobre 2015 - art. 8 (V)
 	  - Code de la consommation - art. D313-9 (Ab)
 
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
 	**Cite**:
 
-	  - Code de la consommation - art. D313-7 (V)
-	  - Code de la consommation - art. L313-3 (V)
+	  - Code de la consommation - art. D313-7
+	  - Code de la consommation - art. L313-3
 
 	**Nouveaux textes**:
 
+	  - Code de la consommation - art. D314-15 (V)
 	  - Code monétaire et financier - art. D313-2 (M)
 
 	**Liens**:
@@ -36325,30 +36330,33 @@ aux corrections des taux observés, conformément aux dispositions du deuxième 
 ###### Article D313-7
 
 La Banque de France procède chaque trimestre à une enquête, portant sur les prêts en euros, destinée à collecter auprès des
-établissements de crédit les données nécessaires au calcul des taux effectifs moyens. Ce calcul est effectué selon une
-moyenne arithmétique simple des taux effectifs globaux observés. Les prêts dont les taux sont réglementés, administrés ou
-bonifiés par l'Etat ne sont pas pris en compte. Pour ce qui concerne les entreprises, les prêts ne sont pas pris en compte
-pour le calcul du taux effectif moyen lorsqu'ils sont supérieurs à des montants définis par arrêté du ministre chargé de
-l'économie et des finances.
+établissements de crédit et des sociétés de financement les données nécessaires au calcul des taux effectifs moyens. Ce
+calcul est effectué selon une moyenne arithmétique simple des taux effectifs globaux observés. Les prêts dont les taux sont
+réglementés, administrés ou bonifiés par l'Etat ne sont pas pris en compte. Pour ce qui concerne les entreprises, les prêts
+ne sont pas pris en compte pour le calcul du taux effectif moyen lorsqu'ils sont supérieurs à des montants définis par arrêté
+du ministre chargé de l'économie et des finances. 
 
-En cas de variation d'une ampleur exceptionnelle du coût des ressources des établissements de crédit, les taux effectifs
-moyens observés par la Banque de France peuvent être corrigés pour tenir compte de cette variation. Ces taux sont publiés au
-plus tard dans les quarante-cinq jours suivant la constatation de cette variation.
+En cas de variation d'une ampleur exceptionnelle du coût des ressources des  établissements de crédit et des sociétés de
+financement, les taux effectifs moyens observés par la Banque de France peuvent être corrigés pour tenir compte de cette
+variation. Ces taux sont publiés au plus tard dans les quarante-cinq jours suivant la constatation de cette variation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-506 1990-06-25 art. 2
 	  - Décret n°90-506 du 25 juin 1990 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
 	**Modifié par**:
 
-	  - Décret n°2005-1007 du 2 août 2005 - art. 4 (V) JORF 25 août 2005
+	  - Décret n°2014-1316 du 3 novembre 2014 - art. 8
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cité par**:
 
@@ -36357,6 +36365,7 @@ plus tard dans les quarante-cinq jours suivant la constatation de cette variatio
 
 	**Nouveaux textes**:
 
+	  - Code de la consommation - art. D314-16 (V)
 	  - Code monétaire et financier - art. D313-2 (M)
 
 	**Liens**:
@@ -36367,26 +36376,30 @@ plus tard dans les quarante-cinq jours suivant la constatation de cette variatio
 ###### Article D313-8
 
 Les prêteurs doivent porter à la connaissance des emprunteurs les seuils de l'usure correspondant aux prêts qu'ils leur
-proposent. Les établissements de crédit tiennent cette information à la disposition de leur clientèle comme pour les
-conditions générales de banque visées à l'article R. 312-1 du code monétaire et financier.
+proposent. Les  établissements de crédit et les sociétés de financement tiennent cette information à la disposition de leur
+clientèle comme pour les conditions générales de banque visées à l'article R. 312-1 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-506 1990-06-25 art. 3
 	  - Décret n°90-506 du 25 juin 1990 - art. 3 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+	  - Décret n°97-298 du 27 mars 1997
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+	  - Décret n°2014-1316 du 3 novembre 2014 - art. 8
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Nouveaux textes**:
 
+	  - Code de la consommation - art. D314-17 (V)
 	  - Code monétaire et financier - art. D313-2 (M)
 
 	**Liens**:
@@ -36395,7 +36408,7 @@ conditions générales de banque visées à l'article R. 312-1 du code monétair
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. R312-1 (V)
+	  - Code monétaire et financier - art. R312-1
 
 
 ##### Section 3 : Rémunération du vendeur
@@ -41755,24 +41768,32 @@ de la lettre recommandée.
 
 ###### Article R331-8-4
 
-I. - Lorsqu'il est prévu que la commission de surendettement envoie un courrier par lettre simple, celle-ci peut également le
+I.-Lorsqu'il est prévu que la commission de surendettement envoie un courrier par lettre simple, celle-ci peut également le
 transmettre par télécopie ou par voie électronique. Dans ce cas, le procédé technique utilisé doit assurer l'authentification
 de l'émetteur ainsi que l'intégrité du message. 
 
-II. - Lorsqu'il est prévu que la commission de surendettement envoie un courrier par lettre recommandée avec demande d'avis
-de réception, celle-ci peut également le transmettre par télécopie ou par voie électronique. Dans ce cas, le procédé
-technique utilisé doit assurer l'authentification de l'émetteur ainsi que l'intégrité du message et permettre de vérifier la
-réception du message par son destinataire à une date certaine. 
+II.-Lorsqu'il est prévu que la commission de surendettement envoie un courrier par lettre recommandée avec demande d'avis de
+réception, celle-ci peut également le transmettre par télécopie ou par voie électronique. Dans ce cas, le procédé technique
+utilisé doit assurer l'authentification de l'émetteur ainsi que l'intégrité du message et permettre de vérifier la réception
+du message par son destinataire à une date certaine. 
 
-III. - L'usage de la transmission par télécopie ou par voie électronique est ouvert de plein droit à la commission pour ses
-envois aux établissements de crédit ou aux comptables publics de l'Etat. Il est subordonné à l'accord préalable écrit de ses
-autres correspondants.
+III.-L'usage de la transmission par télécopie ou par voie électronique est ouvert de plein droit à la commission pour ses
+envois aux  établissements de crédit, aux sociétés de financement ou aux comptables publics de l'Etat. Il est subordonné à
+l'accord préalable écrit de ses autres correspondants.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
+	  - Décret n°2014-1315 du 3 novembre 2014 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R712-19 (V)
 
 
 ##### Section 2 : Le juge du tribunal d'instance
