@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-12-13
+Version Consolidée au 2014-12-18
 
 # Partie législative
 
@@ -17721,20 +17721,26 @@ La capitalisation des intérêts est soumise aux dispositions de l'article 1154 
 
 ###### Article L311-17
 
-Lorsque le crédit renouvelable mentionné à l'article L. 311-16 est assorti de l'usage d'une carte ouvrant droit à des
-avantages commerciaux et promotionnels, le bénéfice de ces avantages ne peut être subordonné à l'utilisation à crédit de la
-carte. Dans ce cas, le prêteur ou l'intermédiaire de crédit a l'obligation de proposer au consommateur la possibilité de
-payer au comptant avec cette carte. L'utilisation du crédit résulte de l'accord exprès du consommateur exprimé lors du
-paiement avec la carte ou dans un délai raisonnable, à réception de l'état actualisé de l'exécution du contrat de crédit
-prévu à l'article L. 311-26. 
+Lorsque le crédit renouvelable mentionné à l'article L. 311-16 est assorti d'une carte ouvrant droit à des avantages de toute
+nature, le bénéfice de ces avantages ne peut être subordonné au paiement à crédit. Dans ce cas, le prêteur ou l'intermédiaire
+de crédit a l'obligation de proposer au consommateur la possibilité de payer au comptant avec cette carte. L'utilisation du
+crédit résulte de l'accord exprès du consommateur exprimé lors du paiement ou dans un délai raisonnable, à réception de
+l'état actualisé à l'exécution du contrat de crédit prévu à l'article L. 311-26.
 
-La publicité portant sur les avantages commerciaux et promotionnels ouverts par la carte mentionnée au premier alinéa du
-présent article indique à l'emprunteur les modalités selon lesquelles cette carte offre la possibilité de payer au comptant
-ou à crédit et l'informe des modalités d'utilisation du crédit. 
+Les enseignes de distribution proposant un programme comportant des avantages de toute nature et incluant un crédit
+renouvelable proposent par ailleurs au consommateur un autre programme comportant des avantages de toute nature non liés à un
+crédit.
+
+La publicité portant sur les avantages de toute nature ouverts par la carte mentionnée au premier alinéa du présent article
+indique à l'emprunteur les modalités selon lesquelles cette carte permet de payer comptant ou à crédit et l'informe des
+modalités d'utilisation du crédit.
 
 Outre les informations obligatoires prévues à l'article L. 311-18, le contrat de crédit indique à l'emprunteur les modalités
 selon lesquelles cette carte offre la possibilité de payer au comptant ou à crédit et l'informe des modalités d'utilisation
 du crédit.
+
+Pour l'application du présent article, est assimilé à une carte tout moyen de paiement dématérialisé accessoire à un crédit
+renouvelable.
 
 **Liens relatifs à cet article**
 
@@ -17742,25 +17748,28 @@ du crédit.
 
 	  - Loi n°78-22 du 10 janvier 1978 - art. 7 (Ab)
 
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 7
-
-	**Modifié par**:
-
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 7
-
 	**Cité par**:
 
 	  - Décret n°2011-457 du 26 avril 2011 - art. 1 (V)
 	  - Code de la consommation - art. L311-35 (VT)
+	  - Code de la consommation - art. L311-48 (VT)
 	  - Code de la consommation - art. L311-49 (VT)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la consommation - art. L311-16 (V)
-	  - Code de la consommation - art. L311-18 (V)
-	  - Code de la consommation - art. L311-26 (V)
+	  - Loi n°2014-344 du 17 mars 2014 - art. 47
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L312-60 (V)
+	  - Code de la consommation - art. L312-63 (V)
+	  - Code de la consommation - art. L312-66 (V)
+	  - Code de la consommation - art. L312-68 (V)
+	  - Code de la consommation - art. L312-69 (V)
 
 
 ###### Article L311-17-1
@@ -28326,8 +28335,6 @@ relative à l'accès à une activité de services ou à son exercice.
 	  - Code de la consommation - art. R111-2 (V)
 	  - Code de la consommation - art. R111-3 (V)
 
-
-#### Chapitre II : Modes de présentation et inscriptions
 
 #### Chapitre II : Modes de présentation et inscriptions
 
