@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-12-18
+Version Consolidée au 2014-12-22
 
 # Partie législative
 
@@ -3685,14 +3685,17 @@ Un décret en Conseil d'Etat précise en tant que de besoin les modalités d'app
 
 Est, en outre, interdite toute publicité portant : 
 
-1° Sur une opération commerciale soumise à autorisation au titre soit des articles L. 310-1, L. 310-2, L. 310-3, L. 310-4 et
-L. 310-7 du code de commerce, soit des articles L. 720-5 et L. 720-10 du même code, et qui n'a pas fait l'objet de cette
-autorisation ; 
+1° Sur une opération commerciale soumise à autorisation ou à déclaration au titre soit des articles L. 310-1 à L. 310-4 et L.
+310-7 du code de commerce, soit des articles L. 752-1 et L. 752-16 du même code, et qui n'a pas fait l'objet de cette
+autorisation ou de cette déclaration ; 
 
 2° Sur une opération commerciale dont la réalisation nécessite l'emploi de personnel salarié requérant une autorisation au
 titre du chapitre Ier du titre II du livre II du code du travail et réalisée sans l'obtention préalable de cette
-autorisation, ou qui est en infraction avec les articles 41 a et 41 b, 105 a à 105 i du code des professions applicable dans
-les départements de la Moselle, du Bas-Rhin et du Haut-Rhin ; 
+autorisation, ou qui est en infraction avec les articles 41 
+  _a_ et 41 
+  _b_, 105 
+  _a_ à 105 
+  _i_ du code des professions applicable dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin ; 
 
 3° Sur une opération commerciale réalisée ou devant être réalisée en infraction avec les dispositions de l'article L. 3132-29
 du code du travail ; 
@@ -3716,17 +3719,26 @@ L'amende est prononcée dans les conditions prévues à l'article L. 141-1-2 du 
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 114
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
 	  - Code de commerce - art. L310-1
 	  - Code de commerce - art. L310-7
-	  - Code de commerce - art. L720-10
-	  - Code de commerce - art. L720-5
+	  - Code de commerce - art. L752-1
+	  - Code de commerce - art. L752-16
 	  - Code de commerce - art. L762-2
 	  - Code de la consommation - art. L141-1-2
 	  - Code du travail - art. L3132-29
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-22 (V)
+	  - Code de la consommation - art. L132-24 (V)
 
 
 ###### Article L121-15-1
@@ -4140,9 +4152,9 @@ s'appliquent aux contrats conclus après le 13 juin 2014.
 
 ###### Article L121-18-1
 
-Le professionnel fournit au consommateur un exemplaire du contrat conclu hors établissement, sur papier signé par les parties
-ou, avec l'accord du consommateur, sur un autre support durable, confirmant l'engagement exprès des parties. Ce contrat
-comprend, à peine de nullité, toutes les informations mentionnées au I de l'article L. 121-17. 
+Le professionnel fournit au consommateur un exemplaire daté du contrat conclu hors établissement, sur papier signé par les
+parties ou, avec l'accord du consommateur, sur un autre support durable, confirmant l'engagement exprès des parties. Ce
+contrat comprend, à peine de nullité, toutes les informations mentionnées au I de l'article L. 121-17. 
 
 Le contrat mentionne, le cas échéant, l'accord exprès du consommateur pour la fourniture d'un contenu numérique indépendant
 de tout support matériel avant l'expiration du délai de rétractation et, dans cette hypothèse, le renoncement de ce dernier à
@@ -4157,17 +4169,27 @@ s'appliquent aux contrats conclus après le 13 juin 2014.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-17 (V)
+	  - Code de la consommation - art. L121-17
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L121-21-6 (VT)
+	  - Code de la consommation - art. L121-23 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-9 (V)
+	  - Code de la consommation - art. L242-1 (V)
 
 
 ###### Article L121-18-2
@@ -4489,14 +4511,23 @@ Le délai mentionné au premier alinéa du présent article court à compter du 
 1° De la conclusion du contrat, pour les contrats de prestation de services et ceux mentionnés à l'article L. 121-16-2 ; 
 
 2° De la réception du bien par le consommateur ou un tiers, autre que le transporteur, désigné par lui, pour les contrats de
-vente de biens et les contrats de prestation de services incluant la livraison de biens. 
+vente de biens et les contrats de prestation de services incluant la livraison de biens. Le consommateur peut exercer son
+droit de rétractation à compter de la conclusion du contrat. 
 
 Dans le cas d'une commande portant sur plusieurs biens livrés séparément ou dans le cas d'une commande d'un bien composé de
 lots ou de pièces multiples dont la livraison est échelonnée sur une période définie, le délai court à compter de la
 réception du dernier bien ou lot ou de la dernière pièce. 
 
 Pour les contrats prévoyant la livraison régulière de biens pendant une période définie, le délai court à compter de la
-réception du premier bien.
+réception du premier bien. 
+
+Lorsque le contrat ayant pour objet l'acquisition ou le transfert d'un bien immobilier est précédé d'un contrat préliminaire
+prévu à l'article L. 261-15 du code de la construction et de l'habitation ou d'une promesse synallagmatique ou unilatérale de
+vente, conclus hors établissement, le délai de rétractation court à compter de la conclusion de ce contrat préliminaire ou de
+cette promesse. 
+
+Pour les contrats ayant pour objet la construction de biens immobiliers, le délai de rétractation court à compter de leur
+conclusion.
 
 **Nota:**
 
@@ -4527,12 +4558,13 @@ s'appliquent aux contrats conclus après le 13 juin 2014.
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-16-2 (V)
-	  - Code de la consommation - art. L121-21-3 (V)
+	  - Code de la consommation - art. L121-16-2
+	  - Code de la consommation - art. L121-21-3
+	  - Code de la construction et de l'habitation. - art. L261-15 (V)
 
 
 ###### Article L121-21-1
@@ -4890,9 +4922,9 @@ s'appliquent aux contrats conclus après le 13 juin 2014.
 
 ###### Article L121-22
 
-Tout manquement aux articles L. 121-18, L. 121-19 à L. 121-19-3 et L. 121-20 est passible d'une amende administrative dont le
-montant ne peut excéder 3 000 € pour une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans
-les conditions prévues à l'article L. 141-1-2.
+Tout manquement aux articles L. 121-17, L. 121-18, L. 121-19 à L. 121-19-3 et L. 121-20 est passible d'une amende
+administrative dont le montant ne peut excéder 3 000 € pour une personne physique et 15 000 € pour une personne morale.
+L'amende est prononcée dans les conditions prévues à l'article L. 141-1-2.
 
 **Nota:**
 
@@ -4916,13 +4948,23 @@ s'appliquent aux contrats conclus après le 13 juin 2014.
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-18 (V)
-	  - Code de la consommation - art. L121-20 (V)
-	  - Code de la consommation - art. L141-1-2 (V)
+	  - Code de la consommation - art. L121-18 (VT)
+	  - Code de la consommation - art. L121-20
+	  - Code de la consommation - art. L141-1-2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L242-10 (V)
+	  - Code de la consommation - art. L242-11 (V)
+	  - Code de la consommation - art. L242-12 (V)
 
 
 ###### Article L121-22-1
@@ -5066,6 +5108,27 @@ s'appliquent aux contrats conclus après le 13 juin 2014.
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L232-3 (V)
+
+
+##### Sous-section 10 : Dispositions communes
+
+###### Article L121-25
+
+Les dispositions de la présente section sont d'ordre public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-29 (V)
 
 
 ##### Section 3 : Dispositions particulières aux contrats conclus à distance portant sur des services financiers
@@ -5721,22 +5784,31 @@ s'identifie préalablement à la facturation de toute prestation de services aut
 Un arrêté conjoint des ministres chargés de la consommation et de l'économie numérique, pris après avis de l'Autorité de
 régulation des communications électroniques et des postes, définit les tranches de numéro qui ne peuvent être utilisées comme
 identifiant d'appel par un professionnel qui joint un consommateur, en tenant compte du plafond de tarification et du format
-de ces numéros.
+de ces numéros. 
 
-**Nota:**
-
-Conformément à l'article 34 de la loi n° 2014-344 du 17 mars 2014, ces dispositions introduites par l'article 9 de ladite loi
-s'appliquent aux contrats conclus après le 13 juin 2014.
+Tout manquement au présent article est passible d'une amende administrative dont le montant ne peut excéder 3 000 € pour une
+personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues à l'article L.
+141-1-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 9 (V)
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-20 (V)
+	  - Code de la consommation - art. L121-20 (VT)
+	  - Code de la consommation - art. L141-1-2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L221-17 (V)
+	  - Code de la consommation - art. L242-14 (V)
 
 
 ##### Section 5 : Ventes ou prestations avec primes
@@ -5813,9 +5885,10 @@ dépôt sont fixées au 2 du I de l'article L. 312-1-2 du code monétaire et fin
 
 ###### Article L121-36
 
-Les pratiques commerciales mises en œuvre par les professionnels sous la forme d'opérations promotionnelles tendant à faire
-naître l'espérance d'un gain, quelles que soient les modalités de tirage au sort ou d'intervention d'un élément aléatoire,
-sont régies par la présente section.
+Les pratiques commerciales mises en œuvre par les professionnels à l'égard des consommateurs, sous la forme d'opérations
+promotionnelles tendant à l'attribution d'un gain ou d'un avantage de toute nature par la voie d'un tirage au sort, quelles
+qu'en soient les modalités, ou par l'intervention d'un élément aléatoire, sont licites dès lors qu'elles ne sont pas
+déloyales au sens de l'article L. 120-1.
 
 **Liens relatifs à cet article**
 
@@ -5829,7 +5902,19 @@ sont régies par la présente section.
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L120-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-20 (V)
 
 	**Cité par**:
 
@@ -5839,178 +5924,39 @@ sont régies par la présente section.
 	  - Code de la sécurité intérieure - art. L322-2-2 (M)
 
 
-###### Article L121-36-1
-
-Pour la participation aux opérations mentionnées à l'article L. 121-36, sont autorisés les frais d'affranchissement ainsi que
-les frais de communication ou de connexion non surtaxés, qui peuvent être mis à la charge des consommateurs, dès lors que la
-possibilité pour les participants d'en obtenir le remboursement est prévue par le règlement de l'opération et que ceux-ci en
-sont préalablement informés. 
-
-Lorsque la participation des consommateurs aux pratiques mentionnées au premier alinéa du présent article est conditionnée à
-une obligation d'achat, ces pratiques commerciales ne sont illicites que dans la mesure où elles revêtent un caractère
-déloyal au sens de l'article L. 120-1.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
-
-	**Cite**:
-
-	  - Code de la consommation - art. L120-1
-	  - Code de la consommation - art. L121-36
-
-
-###### Article L121-37
-
-Lorsque les opérations mentionnées à l'article L. 121-36 sont réalisées par voie d'écrit et donnent lieu à un tirage au sort,
-quelles qu'en soient les modalités, le bulletin de participation à ces opérations doit être distinct de tout bon de commande
-de bien ou de service. Les documents présentant l'opération publicitaire ne doivent pas être de nature à susciter la
-confusion avec un document administratif ou bancaire libellé au nom du destinataire ou avec une publication de la presse
-d'information. 
-
-Ils comportent un inventaire lisible des lots mis en jeu précisant, pour chacun d'eux, leur nature, leur nombre exact et leur
-valeur commerciale. 
-
-Ils reproduisent également la mention suivante : " Le règlement des opérations est adressé, à titre gratuit, à toute personne
-qui en fait la demande ". Ils précisent l'adresse à laquelle peut être envoyée cette demande ainsi que le nom de l'officier
-ministériel auprès de qui ledit règlement a été déposé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-421 du 23 juin 1989 - art. 5 (MMN)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 du 26 juillet 1993
-
-	**Modifié par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-36
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L121-39 (Ab)
-	  - Code de la consommation - art. R121-12 (Ab)
-
-
-###### Article L121-38
-
-Le règlement des opérations ainsi qu'un exemplaire des documents adressés au public doivent être déposés auprès d'un officier
-ministériel qui s'assure de leur régularité. Le règlement mentionné ci-dessus est adressé, à titre gratuit, à toute personne
-qui en fait la demande.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-421 1989-06-23 art. 5 al. 7
-	  - Loi n°89-421 du 23 juin 1989 - art. 5 (MMN)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 1993-07-26
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L121-37 (V)
-
-
-###### Article L121-39
-
-Un décret en Conseil d'Etat précise, en tant que de besoin, les conditions de présentation des documents mentionnés au
-premier alinéa de l'article L. 121-37.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-421 1989-06-23 art. 5 al. 6
-	  - Loi n°89-421 du 23 juin 1989 - art. 5 (MMN)
-
-	**Créé par**:
-
-	  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-	**Codifié par**:
-
-	  - Loi n°93-949 du 26 juillet 1993
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-37 (Ab)
-
-
-###### Article L121-41
-
-Tout manquement aux articles L. 121-36 à L. 121-38 est passible d'une amende administrative dont le montant ne peut excéder
-15 000 € pour une personne physique et 75 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues
-à l'article L. 141-1-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-421 du 23 juin 1989 - art. 5 (MMN)
-
-	**Codifié par**:
-
-	  - Loi n°93-949 du 26 juillet 1993
-
-	**Modifié par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 114
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
-
-	**Cite**:
-
-	  - Code de la consommation - art. L121-36
-	  - Code de la consommation - art. L141-1-2
-
-
 ##### Section 7 : Achats par l'intermédiaire    des opérateurs de communications électroniques
 
 ###### Article L121-49
 
 Tout manquement aux articles L. 121-42 à L. 121-47 est passible d'une amende administrative dont le montant ne peut excéder 3
 000 € pour une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues à
-l'article L. 141-1-2.
+l'article L. 141-1-2. 
+
+Les manquements à la présente section sont recherchés et constatés dans les conditions prévues au I de l'article L. 141-1.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 145 (M)
+	  - Loi n°2014-344 du 17 mars 2014 - art. 145 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-42
+	  - Code de la consommation - art. L141-1
+	  - Code de la consommation - art. L141-1-2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L242-21 (V)
 
 
 ##### Section 8 : Publicité et pratiques commerciales concernant les préparations pour nourrissons
@@ -7904,7 +7850,7 @@ suivantes :
 sociétés ou tout document équivalent pour les sociétés situées hors de France et pour les opérateurs qui ne sont pas inscrits
 au registre du commerce et des sociétés ; 
 
-2° Le numéro de téléphone et, le cas échéant, l'adresse électronique du fournisseur ; 
+2° Les coordonnées téléphoniques et électroniques du fournisseur ; 
 
 3° La description des produits et des services proposés ; 
 
@@ -7965,8 +7911,7 @@ d'information prévue au 4° du I de l'article L. 121-17.
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 10
-	  - Loi n°2014-344 du 17 mars 2014 - art. 138
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
 
 	**Cité par**:
 
@@ -7977,9 +7922,9 @@ d'information prévue au 4° du I de l'article L. 121-17.
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-17 (V)
-	  - Code de la consommation - art. L121-21 (V)
-	  - Code de la consommation - art. L121-21-5 (V)
+	  - Code de la consommation - art. L121-17
+	  - Code de la consommation - art. L121-21
+	  - Code de la consommation - art. L121-21-5
 	  - Code de l'action sociale et des familles - art. L115-3
 
 
@@ -8361,25 +8306,28 @@ Sans préjudice des informations précontractuelles prévues au premier alinéa 
 dans les foires et les salons mentionnent l'absence de délai de rétractation, en des termes clairs et lisibles, dans un
 encadré apparent. 
 
-Les modalités de mise en œuvre du présent article sont fixées par arrêté du ministre chargé de l'économie. 
-
-Tout manquement au présent article est passible d'une amende administrative dont le montant ne peut excéder 3 000 € pour une
-personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues à l'article L.
-141-1-2.
+Les modalités de mise en œuvre du présent article sont fixées par arrêté du ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 24 (V)
 
 	**Cité par**:
 
 	  - Arrêté du 2 décembre 2014 - art. 2 (VD)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la consommation - art. L141-1-2 (V)
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-59 (V)
+	  - Code de la consommation - art. L224-60 (V)
+	  - Code de la consommation - art. L224-61 (V)
+	  - Code de la consommation - art. L224-62 (V)
 
 
 ###### Article L121-98
@@ -8419,6 +8367,31 @@ est productive d'intérêts, de plein droit, au taux de l'intérêt légal major
 
 	  - Code de la consommation - art. L311-1
 	  - Code de la consommation - art. L311-36
+
+
+###### Article L121-98-1
+
+Tout manquement à la présente section est passible d'une amende administrative dont le montant ne peut excéder 3 000 € pour
+une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues à l'article L.
+141-1-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L242-23 (M)
+
+	**Cite**:
+
+	  - Code rural - art. L141-1-2
 
 
 ##### Section 15 : Contrats d'achat de métaux précieux
@@ -8878,6 +8851,50 @@ La présente section est d'ordre public. Elle est applicable aux consommateurs e
 	  - Code de la consommation - art. L224-25 (V)
 
 
+###### Article L121-113
+
+Les manquements à la présente section sont recherchés et constatés dans les conditions prévues au I de l'article L. 141-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L141-1
+
+
+###### Article L121-114
+
+Tout manquement à la présente section est passible d'une amende administrative dont le montant ne peut excéder 3 000 € pour
+une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues à l'article L.
+141-1-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L141-1-2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L242-18 (V)
+
+
 #### Chapitre II : Pratiques commerciales illicites
 
 ##### Section 1 : Refus et subordination de vente ou de prestation de services
@@ -8941,10 +8958,6 @@ Il est interdit d'exiger le paiement immédiat ou différé de biens ou de servi
 de biens, d'exiger leur renvoi ou leur conservation, sans que ceux-ci aient fait l'objet d'une commande préalable du
 consommateur. 
 
-Le premier alinéa du présent article s'applique aux contrats portant sur la fourniture d'eau, de gaz ou d'électricité
-lorsqu'ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée ainsi que sur la fourniture de
-chauffage urbain et de contenu numérique non fourni sur support matériel.
-
 La violation de cette interdiction est punie des peines prévues aux articles L. 122-12 à L. 122-14. 
 
 Tout contrat conclu consécutivement à la mise en œuvre de la pratique commerciale illicite visée au premier alinéa du présent
@@ -8953,6 +8966,10 @@ article est nul et de nul effet.
 Le professionnel doit, en outre, restituer les sommes qu'il aurait indûment perçues sans engagement exprès et préalable du
 consommateur. Ces sommes sont productives d'intérêts au taux légal calculé à compter de la date du paiement indu et
 d'intérêts au taux légal majoré de moitié à compter de la demande de remboursement faite par le consommateur.
+
+Le présent article s'applique également aux contrats portant sur la fourniture d'eau, de gaz ou d'électricité lorsqu'ils ne
+sont pas conditionnés dans un volume délimité ou en quantité déterminée ainsi que sur la fourniture de chauffage urbain et de
+contenu numérique non fourni sur support matériel.
 
 **Liens relatifs à cet article**
 
@@ -8966,8 +8983,18 @@ d'intérêts au taux légal majoré de moitié à compter de la demande de rembo
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 138
-	  - Loi n°2014-344 du 17 mars 2014 - art. 19
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-12 (V)
+	  - Code de la consommation - art. L132-16 (V)
+	  - Code de la consommation - art. L132-17 (V)
+	  - Code de la consommation - art. L132-18 (V)
 
 	**Cite**:
 
@@ -8975,7 +9002,7 @@ d'intérêts au taux légal majoré de moitié à compter de la demande de rembo
 
 	**Cité par**:
 
-	  - Code de la consommation - art. L122-4 (M)
+	  - Code de la consommation - art. L122-4 (VT)
 
 
 ###### Article L122-4
@@ -10477,15 +10504,16 @@ I.-Sont recherchés et constatés, dans les conditions fixées par les articles 
 
 1° Le chapitre préliminaire du titre II du livre Ier ; 
 
-2° Les sections 1,2,3,8,9 et 12 du chapitre Ier du titre II du livre Ier ; 
+2° Les sections 1 à 4 
+  _bis_, 8, 9, 12 et 15 du chapitre Ier du titre II du livre Ier ; 
 
-3° Les sections 3,4 et 5 du chapitre II du titre II du livre Ier ; 
+3° Les sections 3 à 6 du chapitre II du titre II du livre Ier ; 
 
 4° Le chapitre Ier du titre Ier du livre III ; 
 
 5° Le chapitre II du titre Ier du livre III ; 
 
-6° Les sections 1,3,6 et 7 du chapitre III du titre Ier du livre III ; 
+6° Les sections 1, 3, 6 et 7 du chapitre III du titre Ier du livre III ; 
 
 7° La section 7 du chapitre IV du titre Ier du livre III ; 
 
@@ -10494,9 +10522,9 @@ I.-Sont recherchés et constatés, dans les conditions fixées par les articles 
 II.-Sont recherchés et constatés, dans les mêmes conditions qu'au I, à l'exception des pouvoirs d'enquête de l'article L.
 450-4 du code de commerce, les infractions ou manquements aux dispositions suivantes du présent code : 
 
-1° Les chapitre Ier, III et IV du titre Ier du livre Ier ; 
+1° Les chapitres Ier, III et IV du titre Ier du livre Ier ; 
 
-2° Les sections 5,6,11 et 14 du chapitre Ier du titre II du livre Ier ; 
+2° Les sections 5, 6, 11 et 14 du chapitre Ier du titre II du livre Ier ; 
 
 3° Les sections 1 et 2 du chapitre II du titre II du livre Ier ; 
 
@@ -10516,7 +10544,7 @@ certaines opérations portant sur les immeubles et les fonds de commerce ;
 2° De l'article 4 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de
 la loi n° 86-1290 du 23 décembre 1986 ; 
 
-3° Des sections 1 et 2 du chapitre Ier du titre Ier du livre II du code du tourisme ; 
+3° Des sections 1 à 6 du chapitre Ier du titre Ier du livre II du code du tourisme ; 
 
 4° Du titre II de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique ; 
 
@@ -10693,7 +10721,7 @@ législation en matière de protection des consommateurs.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1104 du 1er octobre 2014 - art. 13
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
 
 
 ###### Article L141-1-1
@@ -21480,13 +21508,6 @@ consécutifs, en cas de :
 
 - modifications de la définition des opérations de même nature mentionnées au premier alinéa. 
 
-Un comité, présidé par le gouverneur de la Banque de France, est chargé de suivre et d'analyser, notamment au regard du mode
-de fixation des taux de l'usure, le niveau et l'évolution des taux d'intérêt des prêts aux particuliers. Le comité examine
-également les modalités de financement des établissements de crédit et des sociétés de financement et analyse le niveau,
-l'évolution et les composantes de leurs marges. Outre le gouverneur de la Banque de France, le comité comprend un député, un
-sénateur et le directeur général du Trésor. Il se réunit à l'initiative de son président au moins une fois par semestre. Il
-établit un rapport annuel qui est remis au Parlement et au Gouvernement. 
-
 Les dispositions du présent article et celles des articles L. 313-4 à L. 313-6 ne sont pas applicables aux prêts accordés à
 une personne physique agissant pour ses besoins professionnels ou à une personne morale se livrant à une activité
 industrielle, commerciale, artisanale, agricole ou professionnelle non commerciale.
@@ -21504,7 +21525,7 @@ industrielle, commerciale, artisanale, agricole ou professionnelle non commercia
 	  - Arrêté du 24 août 2006 - art. 1 (VD)
 	  - Arrêté du 22 mars 2011 (V)
 	  - Code de la consommation - art. D313-6 (Ab)
-	  - Code de la consommation - art. L313-5 (V)
+	  - Code de la consommation - art. L313-5 (VT)
 	  - Code de la consommation - art. L313-6 (Ab)
 	  - Code monétaire et financier - art. D313-2 (V)
 	  - Code monétaire et financier - art. D548-1 (V)
@@ -21514,20 +21535,28 @@ industrielle, commerciale, artisanale, agricole ou professionnelle non commercia
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 51
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 28
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L312-1
+	  - Code de la consommation - art. L312-1 (VT)
 	  - Code de la consommation - art. L313-4
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L314-6 (V)
+	  - Code de la consommation - art. L314-7 (V)
+	  - Code de la consommation - art. L314-8 (V)
+	  - Code de la consommation - art. L314-9 (V)
+	  - Code monétaire et financier - art. L313-5 (VT)
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L313-5 (M)
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L313-5 (VT)
 
 
 ###### Article L313-4
