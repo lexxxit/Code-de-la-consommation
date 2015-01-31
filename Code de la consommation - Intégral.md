@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-01-15
+Version Consolidée au 2015-02-01
 
 # Partie législative
 
@@ -30664,15 +30664,27 @@ janvier 2002 modifié établissant les principes généraux et les prescriptions
 instituant l'Autorité européenne de sécurité des aliments et fixant des procédures relatives à la sécurité des denrées
 alimentaires.
 
+4° Les dispositions des articles 2 et 3 du règlement d'exécution (UE) n° 931/2011 de la Commission du 19 septembre 2011
+relatif aux exigences de traçabilité définies par le règlement (CE) n° 178/2002 du Parlement européen et du Conseil en ce qui
+concerne les denrées alimentaires d'origine animale.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1489 du 11 décembre 2014 - art. 2
+	  - Décret n°2015-89 du 28 janvier 2015 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
 	  - Code de la consommation - art. L214-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-18 (V)
 
 
 ##### Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires 
@@ -30754,9 +30766,9 @@ animale produits à partir d'organismes génétiquement modifiés et modifiant l
 Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
 
 1° Les dispositions des articles 1er à 5 de l'article 7, de l'article 8, de l'article 9, des paragraphes 1 et 2 de l'article
-10, des paragraphes 1, 2, 4 et 5 de l'article 11 et des articles 12 à 16 du règlement (CE) n° 110 / 2008 du Parlement
-européen et du Conseil du 15 janvier 2008 modifié concernant la définition, la présentation, l'étiquetage et la protection
-des indications géographiques des boissons spiritueuses et abrogeant le règlement (CEE) n° 1576 / 89 et ses annexes ;
+10, des paragraphes 1, 2, 4 et 5 de l'article 11 et des articles 12 à 16 du règlement (CE) n° 110/2008 du Parlement européen
+et du Conseil du 15 janvier 2008 modifié concernant la définition, la présentation, l'étiquetage et la protection des
+indications géographiques des boissons spiritueuses et abrogeant le règlement (CEE) n° 1576 / 89 et ses annexes ;
 
 2° Les dispositions des articles 1er, 2 et 3 des paragraphes 1 à 3 de l'article 4, du paragraphe 1 de l'article 5, des
 paragraphes 1 à 3 de l'article 6, de l'article 7, des paragraphes 1 à 8 de l'article 8, de l'article 11 du règlement (CEE) n°
@@ -30764,30 +30776,37 @@ paragraphes 1 à 3 de l'article 6, de l'article 7, des paragraphes 1 à 8 de l'a
 définition, à la désignation et à la présentation des vins aromatisés, des boissons aromatisées à base de vin et des
 cocktails aromatisés à base de produits vitivinicoles et ses annexes ;
 
-3°  Les dispositions des articles 113 quinquies, 118 bis, 118 ter, 118  quaterdecies, 118 duovicies, 118 tervicies, 118
-quatervicies, 118  quinvicies, 118 sexvicies, 118 septvicies, 118 septvicies bis, 120 bis,  120 ter, 120 quater, 158 bis, 185
-ter, 185 quater du règlement (CE) n° 1234/2007 du Conseil du 22 octobre 2007 modifié pour les produits définis à la partie
-VII de l'annexe I de ce règlement (règlement " OCM unique ”) ; 
+3° Les dispositions des articles 78, 80, 81, 82, 90, 92, 93, 103, 112, 113, 117 à 121, 147, 223 et de l'annexe VII, partie II
+"Catégories de produits de la vigne" du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013
+portant organisation commune des marchés des produits agricoles pour les produits définis à la partie XII de l'annexe I de ce
+règlement ; 
 
-4° Les dispositions des articles 2,7,8,9,11,21,22,23,26,30,34,36,38,39,40,41,42,43,45,46 et 48 du règlement (CE) n° 436/2009
-de la Commission du 26 mai 2009 portant modalités d'application du règlement (CE) n° 479/2008 du  Conseil en ce qui concerne
-le casier viticole, les déclarations  obligatoires et l'établissement des informations pour le suivi du  marché, les
-documents accompagnant les transports des produits et les  registres à tenir dans le secteur vitivinicole ; 
+4° Les dispositions des articles 2, 7, 8, 9, 11, 21, 22, 23, 26, 30, 34, 36, 38, 39, 40, 41, 42, 43, 45, 46 et 48 du
+règlement (CE) n° 436/2009 de la Commission du 26 mai 2009 portant modalités d'application du règlement (CE) n° 479/2008 du
+Conseil en ce qui concerne le casier viticole, les déclarations obligatoires et l'établissement des informations pour le
+suivi du marché, les documents accompagnant les transports des produits et les registres à tenir dans le secteur
+vitivinicole ; 
 
-5° Les dispositions des articles 1er, 3,4,5,6,7,8,9,10,11,12 et 13 du règlement (CE) n° 606/2009 de la Commission du 10
-juillet 2009 fixant certaines modalités d'application du règlement (CE) n° 479/2008 du  Conseil en ce qui concerne les
-catégories de produits de la vigne, les  pratiques œnologiques et les restrictions qui s'y appliquent ; 
+5° Les dispositions des articles 1er, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 et 13 du règlement (CE) n° 606/2009 de la Commission du
+10 juillet 2009 fixant certaines modalités d'application du règlement (CE) n° 479/2008 du Conseil en ce qui concerne les
+catégories de produits de la vigne, les pratiques œnologiques et les restrictions qui s'y appliquent ; 
 
-6° Les dispositions des articles 1er, 19,43,49,50,51,52,53,54,55,56,57,58,60,61,62,63,64,65,66,67,68 et 69 de l'annexe XVII
-du règlement (CE) n° 607/2009 de la Commission du 14 juillet 2009 fixant certaines modalités d'application du règlement (CE)
-n° 479/2008 du  Conseil en ce qui concerne les appellations d'origine protégées et les  indications géographiques protégées,
-les mentions traditionnelles,  l'étiquetage et la présentation de certains produits du secteur  vitivinicole.
+6° Les dispositions des articles 1er, 19, 43, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 60, 61, 62, 63, 64, 65, 66, 67, 68 et
+69 de l'annexe XVII du règlement (CE) n° 607/2009 de la Commission du 14 juillet 2009 fixant certaines modalités
+d'application du règlement (CE) n° 479/2008 du Conseil en ce qui concerne les appellations d'origine protégées et les
+indications géographiques protégées, les mentions traditionnelles, l'étiquetage et la présentation de certains produits du
+secteur vitivinicole ;
+
+7° Les dispositions des articles 2 et 5 et de l'article 22 du règlement d'exécution (UE) n° 716/2013 de la Commission du 25
+juillet 2013 portant modalités d'application du règlement (CE) n° 110/2008 du Parlement européen et du Conseil concernant la
+définition, la désignation, la présentation, l'étiquetage et la protection des indications géographiques des boissons
+spiritueuses.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-655 du 4 mai 2012 - art. 26
+	  - Décret n°2015-89 du 28 janvier 2015 - art. 3
 
 	**Cite**:
 
@@ -30903,30 +30922,37 @@ n° 1881 / 2006 du 19 décembre 2006 modifié et son annexe.
 
 ###### Article R214-9
 
-Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
+Constituent les mesures d'exécution prévues à l'article L. 214-1 :
 
-1° Les dispositions des articles 113 et 113 bis du règlement (CE) n° 1234 / 2007 du Conseil du 22 octobre 2007 modifié
-portant organisation commune des marchés dans le secteur agricole et dispositions spécifiques en ce qui concerne certains
-produits de ce secteur (règlement " OCM unique ”) et ses annexes ;
+1° Les dispositions des articles 74, 75 et 76 du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17
+décembre 2013 portant organisation commune des marchés des produits agricoles pour les produits définis aux parties IX à XI
+de l'annexe I de ce règlement ; 
 
-2° Les dispositions des articles 3 à 6 et du paragraphe 4 de l'article 10 du règlement (CE) n° 1580 / 2007 de la Commission
-du 21 décembre 2007 modifié portant modalités d'application des règlements (CE) n° 2200 / 96, (CE) n° 2201 / 96 et (CE) n°
-1182 / 2007 du Conseil dans le secteur des fruits et légumes et ses annexes ;
+2° Les dispositions des articles 4 à 7 et du paragraphe 4 de l'article 11 et du paragraphe 3 de l'article 17 du règlement
+d'exécution (UE) n° 543/2011 de la Commission du 7 juin 2011 modifié portant modalités d'application du règlement (CE) n°
+1234/2007 du Conseil en ce qui concerne les secteurs des fruits et légumes et des fruits et légumes transformés ; 
 
-3° Les dispositions de l'article 1er et des annexes du règlement (CE) n° 2257 / 94 de la Commission du 16 septembre 1994
-modifié fixant des normes de qualité pour les bananes, modifié par le règlement (CE) n° 228 / 2006 du 9 février 2006, ainsi
-que celles de l'article 5 et du paragraphe 1 de l'article 7 du règlement (CE) n° 2898 / 95 de la Commission du 15 décembre
-1995 portant dispositions relatives au contrôle du respect des normes de qualité dans le secteur de la banane et ses annexes.
+3° Les dispositions de l'article 1er et de l'annexe I du règlement d'exécution (UE) n° 1333/2011 de la Commission du 19
+décembre 2011 modifié fixant des normes de commercialisation pour les bananes, des dispositions relatives au contrôle du
+respect de ces normes de commercialisation et des exigences relatives aux communications dans le secteur de la banane.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-255 du 9 mars 2011 - art. 9
+	  - Décret n°2015-89 du 28 janvier 2015 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
 	  - Code de la consommation - art. L214-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-25 (V)
 
 
 ##### Section 10 : Huile d'olive et olives de table 
@@ -30935,12 +30961,13 @@ que celles de l'article 5 et du paragraphe 1 de l'article 7 du règlement (CE) n
 
 Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
 
-1° Les dispositions des articles 1er à 7 du règlement (CE) n° 1019 / 2002 de la Commission du 13 juin 2002 modifié relatif
-aux normes de commercialisation de l'huile d'olive ;
+1° Les dispositions des articles 1er à 7 du règlement d'exécution (UE) n° 29/2012 de la Commission du 13 janvier 2012 modifié
+relatif aux normes de commercialisation de l'huile d'olive ; 
 
-2° Les dispositions de l'article 118 et de l'annexe XVI "descriptions et définitions des huiles d'olive et des huiles de
-grignon d'olive visées à l'article 118” du règlement (CE) n° 1234 / 2007 du Conseil du 22 octobre 2007 modifié pour les
-produits définis à la partie VII de l'annexe I de ce règlement (règlement "OCM unique”) ;
+2° Les dispositions de l'article 78 et de l'annexe VII, partie VIII "Descriptions et définitions des huiles d'olive et huiles
+de grignons d'olive" du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant
+organisation commune des marchés des produits agricoles pour les produits définis à la partie VII de l'annexe I de ce
+règlement ;
 
 3° Les dispositions des articles 1er et 7 du règlement (CEE) n° 2568 / 91 de la Commission du 11 juillet 1991 modifié relatif
 aux caractéristiques des huiles d'olive et des huiles de grignons d'olive ainsi qu'aux méthodes d'analyse y afférentes et de
@@ -30950,11 +30977,19 @@ ses annexes.
 
 	**Modifié par**:
 
-	  - Décret n°2011-255 du 9 mars 2011 - art. 10
+	  - Décret n°2015-89 du 28 janvier 2015 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
 	  - Code de la consommation - art. L214-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-26 (V)
 
 
 ##### Section 11 : Œufs et viande de volaille 
@@ -30965,23 +31000,24 @@ ses annexes.
 
 Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
 
-1° Les dispositions de l'article 116 et de l'annexe XIV "normes de commercialisation des produits des secteurs des œufs et de
-la viande de volaille visées à l'article 116” du règlement (CE) n° 1234 / 2007 du Conseil du 22 octobre 2007 modifié pour les
-produits définis aux parties XIX et XX de l'annexe I de ce règlement (règlement "OCM unique”) ;
+1° Les dispositions de l'article 78 et de l'annexe VII, partie V "Produits du secteur de la viande de volaille" et partie VI
+"Œufs de poule de l'espèce Gallus gallus" du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17 décembre
+2013 portant organisation commune des marchés des produits agricoles pour les produits définis aux parties XIX et XX de
+l'annexe I de ce règlement ;
 
 2° Les dispositions des articles 1er à 4, des paragraphes 1 et 3 de l'article 5, des articles 6 et 7, des paragraphes 1 et 5
-de l'article 8, des articles 9 à 23 et 26 à 30 et de l'article 33 du règlement (CE) n° 589 / 2008 de la Commission du 23 juin
-2008 modifié portant modalités d'application du règlement (CE) n° 1234 / 2007 du Conseil en ce qui concerne les normes de
+de l'article 8, des articles 9 à 23 et 26 à 30 et de l'article 33 du règlement (CE) n° 589/2008 de la Commission du 23 juin
+2008 modifié portant modalités d'application du règlement (CE) n° 1234/2007 du Conseil en ce qui concerne les normes de
 commercialisation applicables aux œufs et de ses annexes ;
 
-3° Les dispositions des articles 1er et 3 à 7 du règlement (CE) n° 617 / 2008 de la Commission du 27 juin 2008 portant
-modalités d'application du règlement (CE) n° 1234 / 2007 du Conseil en ce qui concerne les normes de commercialisation pour
-les œufs à couver et les poussins de volailles de basse-cour ; 
+3° Les dispositions des articles 1er et 3 à 7 du règlement (CE) n° 617/2008 de la Commission du 27 juin 2008 portant
+modalités d'application du règlement (CE) n° 1234/2007 du Conseil en ce qui concerne les normes de commercialisation pour les
+œufs à couver et les poussins de volailles de basse-cour ; 
 
 4° Les dispositions des articles 1er à 7, des paragraphes 3 et 5 de l'article 8, paragraphes 1 à 12 de l'article 9, de
 l'article 10, des paragraphes 1 à 3 de l'article 11, du paragraphe 6 de l'article 16 et de l'article 20 du règlement (CE) n°
-543 / 2008 de la Commission du 16 juin 2008 modifié portant modalités d'application du règlement (CE) n° 1234 / 2007 du
-Conseil en ce qui concerne les normes de commercialisation pour la viande de volaille et ses annexes ;
+543/2008 de la Commission du 16 juin 2008 modifié portant modalités d'application du règlement (CE) n° 1234/2007 du Conseil
+en ce qui concerne les normes de commercialisation pour la viande de volaille et ses annexes ;
 
 5° Les dispositions des articles 1er et 2, du paragraphe 3 du chapitre Ier et celles du V du chapitre II de la section X
 "Œufs et ovoproduits" de l'annexe III du règlement (CE) n° 853/2004 du Parlement et du Conseil du 29 avril 2004 modifié
@@ -30991,11 +31027,19 @@ fixant des règles spécifiques d'hygiène applicable à des denrées alimentair
 
 	**Modifié par**:
 
-	  - Décret n°2011-255 du 9 mars 2011 - art. 11
+	  - Décret n°2015-89 du 28 janvier 2015 - art. 6
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
 	  - Code de la consommation - art. L214-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-27 (V)
 
 
 ##### Section 12 : Produits laitiers, colostrum et matières grasses laitières ou non
@@ -31004,24 +31048,22 @@ fixant des règles spécifiques d'hygiène applicable à des denrées alimentair
 
 Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
 
-1° Les dispositions de l'article 114 et de l'annexe XII "définitions et dénominations relatives au lait et aux produits
-laitiers visées à l'article 114, au paragraphe 1" et XIII "commercialisation du lait destiné à la consommation humaine visé à
-l'article 114, paragraphe 2" du règlement (CE) n° 1234 / 2007 du Conseil du 22 octobre 2007 modifié pour les produits définis
-à la partie XVI de l'annexe I de ce règlement (règlement "OCM unique") ;
+1° Les dispositions de l'article 78 et de l'annexe VII, parties III "Lait et produits laitiers" et IV "Lait destiné à la
+consommation humaine relevant du code NC 0401" du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17
+décembre 2013 portant organisation commune des marchés des produits agricoles pour les produits définis à la partie XVI de
+l'annexe I de ce règlement ;
 
-2° Les dispositions de l'article 115 et de l'annexe XV "normes de commercialisation applicables aux matières grasses
-tartinables visées à l'article 115" du règlement (CE) n° 1234 / 2007 du Conseil du 22 octobre 2007 modifié (règlement "OCM
-unique") ;
+2° Les dispositions des articles 75 et 78 et de l'annexe VII, partie VII "Matières grasses tartinables" du règlement (UE) n°
+1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits
+agricoles ;
 
 3° Les dispositions des articles 1er à 3 du règlement (CE) n° 445 / 2007 de la Commission du 23 avril 2007 portant certaines
-modalités d'application du règlement (CE) n° 2991 / 94 du Conseil établissant des normes pour les matières grasses
-tartinables et de ses annexes ; 
+modalités d'application du règlement (CE) n° 2991/94 du Conseil établissant des normes pour les matières grasses tartinables
+et de ses annexes ; 
 
-4° Les dispositions de l'article 119 du règlement (CE) n° 1234 / 2007 du Conseil du 22 octobre 2007 modifié relatives à
-l'utilisation des caséines et des caséinates dans la fabrication du fromage (règlement "OCM unique", ainsi que celles du
-paragraphe 1 de l'article 2 et de l'article 3 du règlement (CE) n° 760 / 2008 de la Commission du 31 juillet 2008 portant
-modalités d'application du règlement (CE) n° 1234 / 2007 du Conseil en ce qui concerne les autorisations pour l'utilisation
-de caséines et caséinates dans la fabrication de fromages (règlement "OCM unique") ;
+4° Les dispositions ainsi que celles du paragraphe 1 de l'article 2 et de l'article 3 du règlement (CE) n° 760/2008 de la
+Commission du 31 juillet 2008 portant modalités d'application du règlement (CE) n° 1234/2007 du Conseil en ce qui concerne
+les autorisations pour l'utilisation de caséines et caséinates dans la fabrication de fromages (règlement "OCM unique") ;
 
 5° Les dispositions des points 1 et 2 du chapitre IV, les 1 et 2 de la section IX "Lait cru, colostrum, produits laitiers et
 produits à base de colostrum" de l'annexe III du règlement (CE) n° 853/2004 du Parlement et du Conseil du 29 avril 2004
@@ -31031,11 +31073,19 @@ modifié fixant des règles spécifiques d'hygiène applicable à des denrées a
 
 	**Modifié par**:
 
-	  - Décret n°2011-255 du 9 mars 2011 - art. 12
+	  - Décret n°2015-89 du 28 janvier 2015 - art. 7
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
 	  - Code de la consommation - art. L214-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-28 (V)
 
 
 ##### Section 13 : Produits de la pêche 
@@ -31049,24 +31099,25 @@ modifié fixant des règles spécifiques d'hygiène applicable à des denrées a
 
 Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
 
-1° Les dispositions des articles 1er à 7 bis du règlement (CEE) n° 2136 / 89 du Conseil des Communautés européennes du 21
-juin 1989 modifié portant fixation de normes communes de commercialisation pour les conserves de sardines ;
+1° Les dispositions des articles 1er à 7 bis du règlement (CEE) n° 2136/89 du Conseil des Communautés européennes du 21 juin
+1989 modifié portant fixation de normes communes de commercialisation pour les conserves de sardines ;
 
-2° Les dispositions des articles 2 à 6 du règlement (CE) n° 1536 / 92 du Conseil du 9 juin 1992 portant fixation de normes
+2° Les dispositions des articles 2 à 6 du règlement (CE) n° 1536/92 du Conseil du 9 juin 1992 portant fixation de normes
 communes de commercialisation pour les conserves de thon et de bonite ; 
 
 3° Les dispositions de l'article 1er, des paragraphes 1 et 2 de l'article 2, des articles 3 à 5, des points 2 à 5 de
 l'article 6, du point 1 de l'article 7, des paragraphes 1 à 3 de l'article 8 et celles de l'article 11 du règlement (CE) n°
-2406 / 96 du Conseil du 26 novembre 1996 modifié fixant des normes communes de commercialisation pour certains produits de la
+2406/96 du Conseil du 26 novembre 1996 modifié fixant des normes communes de commercialisation pour certains produits de la
 pêche ;
 
-4° Les dispositions de l'article 1er, du paragraphe 2 de l'article 2 et du paragraphe 1 de l'article 4 du règlement (CE) n°
-104 / 2000 du Conseil du 17 décembre 1999 modifié portant organisation commune des marchés dans le secteur des produits de la
-pêche et de l'aquaculture ;
+4° Les dispositions de l'article 1er, de l'article 2 et de l'article 5, du paragraphe 1 des articles 34, 35, 37 à 39 et de
+l'annexe I du règlement (UE) n° 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013 portant organisation
+commune des marchés dans le secteur des produits de la pêche et de l'aquaculture, modifiant les règlements (CE) n° 1184/2006
+et (CE) n° 1224/2009 du Conseil et abrogeant le règlement (CE) n° 104/2000 du Conseil ;
 
-5° Les dispositions de l'article 1er, des articles 3 à 6 et de l'article 8 du règlement (CE) n° 2065 / 2001 de la Commission
-du 22 octobre 2001 modifié établissant les modalités d'application du règlement (CE) n° 104 / 2000 du Conseil en ce qui
-concerne l'information du consommateur dans le secteur des produits de la pêche et de l'aquaculture et de son annexe ;
+5° Les dispositions de l'article 1er, des articles 3 à 6 et de l'article 8 du règlement (CE) n° 2065/2001 de la Commission du
+22 octobre 2001 modifié établissant les modalités d'application du règlement (CE) n° 104/2000 du Conseil en ce qui concerne
+l'information du consommateur dans le secteur des produits de la pêche et de l'aquaculture et de son annexe ;
 
 6° Les dispositions des articles 1er et 2, du point 2 du chapitre VII et du point 1 de la section VII "Mollusques bivalves
 vivants" de l'annexe III du règlement (CE) n° 853/2004 du Parlement et du Conseil du 29 avril 2004 modifié fixant des règles
@@ -31084,11 +31135,19 @@ dispositions de l'article 7 de ce règlement.
 
 	**Modifié par**:
 
-	  - Décret n°2011-255 du 9 mars 2011 - art. 13
+	  - Décret n°2015-89 du 28 janvier 2015 - art. 8
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
 	  - Code de la consommation - art. L214-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-29 (V)
 
 
 ##### Section 14 : Viandes bovine, ovine et porcine 
@@ -31100,66 +31159,77 @@ dispositions de l'article 7 de ce règlement.
 Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
 
 1° Les dispositions des articles 11 et 12, des paragraphes 1, 2 et 5 de l'article 13, de l'article 14, de l'article 15,
-paragraphes 1 et 4 de l'article 16 et du paragraphe 1 de l'article 17 du règlement (CE) n° 1760 / 2000 du Parlement européen
-et du Conseil du 17 juillet 2000 modifié établissant un système d'identification et d'enregistrement des bovins et concernant
-l'étiquetage de la viande bovine et des produits à base de viande bovine et abrogeant le règlement (CE) n° 820 / 97 du
-Conseil du 17 juillet 2000 ; 
+paragraphes 1 et 4 de l'article 16 et du paragraphe 1 de l'article 17 du règlement (CE) n° 1760/2000 du Parlement européen et
+du Conseil du 17 juillet 2000 modifié établissant un système d'identification et d'enregistrement des bovins et concernant
+l'étiquetage de la viande bovine et des produits à base de viande bovine et abrogeant le règlement (CE) n° 820/97 du Conseil
+du 17 juillet 2000 ; 
 
-2° Les dispositions des articles 1er à 5 quater et du paragraphe 3 de l'article 6 du règlement (CE) n° 1825 / 2000 de la
-Commission du 25 août 2000 modifié portant modalités d'application du règlement (CE) n° 1760 / 2000 du Parlement européen et
-du Conseil en ce qui concerne l'étiquetage de la viande bovine et des produits à base de viande bovine ; 
+2° Les dispositions des articles 1er à 5 quater et du paragraphe 3 de l'article 6 du règlement (CE) n° 1825/2000 de la
+Commission du 25 août 2000 modifié portant modalités d'application du règlement (CE) n° 1760/2000 du Parlement européen et du
+Conseil en ce qui concerne l'étiquetage de la viande bovine et des produits à base de viande bovine ; 
 
-3° Les dispositions de l'article 113 ter et de l'annexe XI bis "commercialisation des viandes issues de bovins âgés de douze
-mois au plus conformément aux dispositions de l'article 113 ter” du règlement (CE) n° 1234 / 2007 du Conseil du 22 octobre
-2007 modifié (règlement "OCM unique”), ainsi que celles des articles 1er à 3, des paragraphes 1 et 2 de l'article 4, de
-l'article 5 et des paragraphes 1 et 3 de l'article 7 du règlement (CE) n° 566 / 2008 de la Commission du 18 juin 2008 portant
-modalités d'application du règlement (CE) n° 1234 / 2007 du Conseil en ce qui concerne la commercialisation des viandes
-issues de bovins âgés de douze mois au plus ; 
+3° Les dispositions de l'article 78 et de l'annexe VII, partie I "Définitions, dénominations et dénominations de vente des
+produits visés à l'article 78 du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant
+organisation commune des marchés des produits agricoles", ainsi que celles des articles 1er à 3, des paragraphes 1 et 2 de
+l'article 4, de l'article 5 et des paragraphes 1 et 3 de l'article 7 du règlement (CE) n° 566 / 2008 de la Commission du 18
+juin 2008 portant modalités d'application du règlement (CE) n° 1234/2007 du Conseil en ce qui concerne la commercialisation
+des viandes issues de bovins âgés de douze mois au plus ; 
 
-4° Les dispositions du paragraphe 1 de l'article 42 et de l'annexe V "grilles communautaires de classement des carcasses
-visées à l'article 42” à l'exception des paragraphes IV du A, III du B et IV du C du règlement (CE) n° 1234 / 2007 du Conseil
-du 22 octobre 2007 modifié (règlement OCM unique), ainsi que celles des articles 1er, des paragraphes 1, 3 et 4 de l'article
-2, des articles 3 et 6, des paragraphes 1 et 2 de l'article 7, de l'article 10, du paragraphe 1 de l'article 20, des
-paragraphes 1, 3 et 5 de l'article 21, des paragraphes 1 et 2 de l'article 22, des paragraphes 1, 2, 3 et 5 de l'article 23
-des articles 28 et 29 et des paragraphes 1 à 3 de l'article 30 du règlement (CE) n° 1249 / 2008 de la Commission du 10
-décembre 2008 portant modalités d'application des grilles communautaires de classement des carcasses de bovins, de porcins et
-d'ovins et de la communication des prix y afférents.
+4° Les dispositions de l'article 10 et de l'annexe IV "Grilles utilisées dans l'Union pour le classement des carcasses visées
+à l'article 10" à l'exception des paragraphes IV du A, III du B et IV du C du règlement (UE) n° 1308/2013 du Parlement
+européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles , ainsi que celles
+des articles 1er, des paragraphes 1, 3 et 4 de l'article 2, des articles 3 et 6, des paragraphes 1 et 2 de l'article 7, de
+l'article 10, du paragraphe 1 de l'article 20, des paragraphes 1, 3 et 5 de l'article 21, des paragraphes 1 et 2 de l'article
+22, des paragraphes 1, 2, 3 et 5 de l'article 23 des articles 28 et 29 et des paragraphes 1 à 3 de l'article 30 du règlement
+(CE) n° 1249 / 2008 de la Commission du 10 décembre 2008 portant modalités d'application des grilles communautaires de
+classement des carcasses de bovins, de porcins et d'ovins et de la communication des prix y afférents.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-255 du 9 mars 2011 - art. 14
+	  - Décret n°2015-89 du 28 janvier 2015 - art. 9
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
 	  - Code de la consommation - art. L214-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-30 (V)
 
 
 ##### Section 14 bis : Viande hachée et produits à base de viande
 
 ###### Article R214-14-1
 
-Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
-
-1° Les dispositions de l'article 4 du règlement (CE) n° 1162/2009 de la Commission du 30 novembre 2009 portant dispositions
-d'application transitoires des règlements du Parlement européen et du Conseil (CE) n° 853/2004, (CE) n° 854/2004 et (CE) n°
-882/2004 ; 
-
-2° Les dispositions des articles 1er et 2, du chapitre II, du point 2 du chapitre IV de la section V "Viandes hachées,
-préparations de viandes et viandes séparées mécaniquement (VSM)", du point 1 de la section VI "Produits à base de viande" de
-l'annexe III du règlement (CE) n° 853/2004 du Parlement et du Conseil du 29 avril 2004 modifié fixant des règles spécifiques
-d'hygiène applicable à des denrées alimentaires d'origine animale.
+Constituent les mesures d'exécution prévues à l'article L. 214-1 les dispositions des articles 1er et 2, du chapitre II, du
+point 2 du chapitre IV de la section V " Viandes hachées, préparations de viandes et viandes séparées mécaniquement (VSM) ",
+du point 1 de la section VI " Produits à base de viande " de l'annexe III du règlement (CE) n° 853/2004 du Parlement et du
+Conseil du 29 avril 2004 modifié fixant des règles spécifiques d'hygiène applicable à des denrées alimentaires d'origine
+animale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-255 du 9 mars 2011 - art. 15
+	  - Décret n°2015-89 du 28 janvier 2015 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
 	  - Code de la consommation - art. L214-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-31 (V)
 
 
 ##### Section 14 ter : Collagènes et gélatine
@@ -31203,24 +31273,25 @@ d'hygiène applicable à des denrées alimentaires d'origine animale.
 
 Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
 
-1° Les dispositions des articles 1er, 2, 8 et des paragraphes 1 et 4 de l'article 13 du règlement (CE) n° 510 / 2006 du
-Conseil du 20 mars 2006 relatif à la protection des indications géographiques et des appellations d'origine des produits
-agricoles et des denrées alimentaires et ses annexes, modifié par le règlement (CE) n° 1791 / 2006 du 20 novembre 2006 et le
-règlement (CE) n° 417 / 2008 du 8 mai 2008, ainsi que celles de l'article 14 du règlement (CE) n° 1898 / 2006 de la
-Commission du 14 décembre 2006 portant modalités d'application du règlement (CE) n° 510 / 2006 du Conseil relatif à la
-protection des indications géographiques et des appellations d'origine des produits agricoles et des denrées alimentaires et
-de ses annexes ; 
+1° Les dispositions des articles 2, 3 et 5, du paragraphe 1 de l'article 7, des paragraphes 1 à 6 de l'article 12, des
+paragraphes 1 et 2 de l'article 13, des paragraphes 1 et 3 de l'article 15, des articles 17 et 18, du paragraphe 1 de
+l'article 19, des paragraphes 1 à 3 de l'article 23, du paragraphe 1 de l'article 24, de l'article 29, des paragraphes 1 et 2
+de l'article 31, du paragraphe 1 de l'article 33, du paragraphe 1 de l'article 44 du règlement (UE) n° 1151/2012 du Parlement
+européen et du Conseil du 21 novembre 2012 relatif aux systèmes de qualité applicables aux produits agricoles et
+alimentaires ; 
 
-2° Les dispositions des articles 1er et 2, des paragraphes 1 et 2 de l'article 13, de l'article 12 et du paragraphe 2 de
-l'article 17 du règlement (CE) n° 509 / 2006 du Conseil du 20 mars 2006 relatif aux spécialités traditionnelles garanties des
-produits agricoles et des denrées alimentaires ainsi que celles de l'article 9 du règlement (CE) n° 1216 / 2007 de la
-Commission du 18 octobre 2007 établissant les modalités d'application du règlement (CE) n° 509 / 2006 du Conseil relatif aux
-spécialités traditionnelles garanties des produits agricoles et des denrées alimentaires et de ses annexes ; 
+2° Les dispositions des articles 1er à 6 du règlement délégué (UE) n° 665/2014 de la Commission du 11 mars 2014 complétant le
+règlement (UE) n° 1151/2012 du Parlement européen et du Conseil en ce qui concerne les conditions d'utilisation de la mention
+de qualité facultative "produit de montagne" ;
 
-3° Les dispositions de l'article 2, de l'article 3, du paragraphe 2 de l'article 9 et du paragraphe 1 de l'article 10 du
+3° Les dispositions du paragraphe 2 de l'article 4, de l'article 5, de l'article 13 et de l'annexe X du règlement d'exécution
+(UE) n° 668/2014 de la Commission du 13 juin 2014 portant modalités d'application du règlement (UE) n° 1151/2012 du Parlement
+européen et du Conseil relatif aux systèmes de qualité applicables aux produits agricoles et alimentaires ;
+
+4° Les dispositions de l'article 2, de l'article 3, du paragraphe 2 de l'article 9 et du paragraphe 1 de l'article 10 du
 règlement (CE) n° 66/2010 du Parlement européen et du Conseil du 25 novembre 2009 établissant le label écologique de l'UE ;
 
-4° Les dispositions des articles 1er, 2, des paragraphes 1 à 3, de l'article 9, de l'article 10, de l'article 11 des
+5° Les dispositions des articles 1er, 2, des paragraphes 1 à 3, de l'article 9, de l'article 10, de l'article 11 des
 paragraphes 1 et 2 de l'article 12, des paragraphes 1 et 2 de l'article 13, du paragraphe 1 de l'article 14, du paragraphe 1
 de l'article 15, du paragraphe 1 de l'article 17, des paragraphes 1 à 4 de l'article 18, de l'article 19, des paragraphes 1
 et 2 de l'article 20, des paragraphes 1 à 4 de l'article 23, des paragraphes 1 et 2 de l'article 24, des paragraphes 1 et 2
@@ -31229,7 +31300,7 @@ paragraphe 1 de l'article 32, du paragraphe 1 de l'article 33 du règlement (CE)
 modifié relatif à la production biologique et à l'étiquetage des produits biologiques et abrogeant le règlement (CEE) n°
 2092/91, et son annexe ;
 
-5° Les dispositions des articles 1er à 44, des paragraphes 1 à 3 de l'article 45, de l'article 46, de l'article 46 bis, des
+6° Les dispositions des articles 1er à 44, des paragraphes 1 à 3 de l'article 45, de l'article 46, de l'article 46 bis, des
 articles 57 à 66, de l'article 68, de l'article 69, de l'article 72, de l'article 73, de l'article 73 ter, des articles 75 à
 79, 79 ter, des articles 81 et 83, des articles 87 et 89 du règlement n° 889/2008 de la Commission du 5 septembre 2008
 modifié portant modalités d'application du règlement (CE) n° 834/2007 du Conseil relatif à la production biologique et à
@@ -31240,7 +31311,7 @@ annexes.
 
 	**Modifié par**:
 
-	  - Décret n°2011-255 du 9 mars 2011 - art. 16
+	  - Décret n°2015-89 du 28 janvier 2015 - art. 11
 
 	**Cite**:
 
@@ -31314,34 +31385,45 @@ au moyen d'un thermomètre visible.
 
 Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
 
-1° Les dispositions des articles 1er à 5 et 15 à 17 du règlement (CE) n° 1935 / 2004 du Parlement européen et du Conseil du
-27 octobre 2004 concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires et abrogeant
-les directives 80 / 590 / CEE et 89 / 109 / CEE ; 
+1° Les dispositions des articles 1er à 5 et 15 à 17 du règlement (CE) n° 1935/2004 du Parlement européen et du Conseil du 27
+octobre 2004 concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires et abrogeant les
+directives 80/590/CEE et 89/109/CEE ; 
 
-2° Les dispositions des articles 1er à 5 du règlement (CE) n° 1895 / 2005 de la Commission du 18 novembre 2005 concernant la
+2° Les dispositions des articles 1er à 5 du règlement (CE) n° 1895/2005 de la Commission du 18 novembre 2005 concernant la
 limitation de l'utilisation de certains dérivés époxydiques dans les matériaux et objets destinés à entrer en contact avec
 des denrées alimentaires ; 
 
-3° Les dispositions des articles 1er à 7 du règlement (CE) n° 2023 / 2006 de la Commission du 22 décembre 2006 modifié
-relatif aux bonnes pratiques de fabrication des matériaux et objets destinés à entrer en contact avec des denrées
-alimentaires et de son annexe ;
+3° Les dispositions des articles 1er à 7 du règlement (CE) n° 2023/2006 de la Commission du 22 décembre 2006 modifié relatif
+aux bonnes pratiques de fabrication des matériaux et objets destinés à entrer en contact avec des denrées alimentaires et de
+son annexe ;
 
-4° Les dispositions des articles 2 et 3 du règlement (CE) n° 282 / 2008 de la Commission du 27 mars 2008 relatif aux
-matériaux et aux objets en matière plastique recyclée destinés à entrer en contact avec des denrées alimentaires et modifiant
-le règlement (CE) n° 2023 / 2006 ; 
+4° Les dispositions des articles 2 et 3 du règlement (CE) n° 282/2008 de la Commission du 27 mars 2008 relatif aux matériaux
+et aux objets en matière plastique recyclée destinés à entrer en contact avec des denrées alimentaires et modifiant le
+règlement (CE) n° 2023/2006 ; 
 
-5° Les dispositions des articles 4, 5 et 11 à 13 du règlement (CE) n° 450 / 2009 de la Commission du 29 mai 2009 concernant
-les matériaux et aux objets actifs et intelligents destinés à entrer en contact avec des denrées alimentaires.
+5° Les dispositions des articles 4, 5 et 11 à 13 du règlement (CE) n° 450/2009 de la Commission du 29 mai 2009 concernant les
+matériaux et aux objets actifs et intelligents destinés à entrer en contact avec des denrées alimentaires ;
+
+6° Les dispositions des articles 2 à 6 et 8 à 19 du règlement (UE) n° 10/2011 de la Commission du 14 janvier 2011 concernant
+les matériaux et objets en matière plastique destinés à entrer en contact avec des denrées alimentaires.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-255 du 9 mars 2011 - art. 18
+	  - Décret n°2015-89 du 28 janvier 2015 - art. 12
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
 	  - Code de la consommation - art. L214-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-38 (V)
 
 
 ##### Section 19 : Engrais 
