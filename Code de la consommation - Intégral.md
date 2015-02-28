@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-02-01
+Version Consolidée au 2015-03-01
 
 # Partie législative
 
@@ -28370,6 +28370,70 @@ relative à l'accès à une activité de services ou à son exercice.
 	  - Code de la consommation - art. R111-3 (V)
 
 
+###### Article R111-3
+
+En application du premier alinéa de l'article L. 111-3, l'information délivrée par le fabricant ou l'importateur de biens
+meubles au vendeur professionnel, portant sur la période pendant laquelle ou la date jusqu'à laquelle les pièces détachées
+indispensables à l'utilisation d'un bien sont disponibles, doit figurer sur tout document commercial ou sur tout support
+durable accompagnant la vente de biens meubles. 
+
+Cette information est portée à la connaissance du consommateur par le vendeur, de manière visible et lisible, avant la
+conclusion de la vente, sur tout support adapté. Elle figure, également, sur le bon de commande s'il existe, ou sur tout
+autre support durable constatant ou accompagnant la vente.
+
+**Nota:**
+
+Aux termes de l'article 2 du décret n° 2014-1482 du 9 décembre 2014, ces dispositions ne s'appliquent qu'aux biens mis pour
+la première fois sur le marché à compter du 1er mars 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1482 du 9 décembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. D111-4 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L111-3
+
+
+###### Article R111-4
+
+L'obligation de fourniture des pièces détachées visée au second alinéa de l'article L. 111-3 est mise en œuvre sans préjudice
+de l'application des règles de concurrence relatives aux réseaux et accords de distribution sélective et exclusive.
+
+**Nota:**
+
+Aux termes de l'article 2 du décret n° 2014-1482 du 9 décembre 2014, ces dispositions ne s'appliquent qu'aux biens mis pour
+la première fois sur le marché à compter du 1er mars 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1482 du 9 décembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. D111-5 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L111-3
+
+
 #### Chapitre II : Modes de présentation et inscriptions
 
 ###### Article R112-10
@@ -30797,7 +30861,7 @@ d'application du règlement (CE) n° 479/2008 du Conseil en ce qui concerne les 
 indications géographiques protégées, les mentions traditionnelles, l'étiquetage et la présentation de certains produits du
 secteur vitivinicole ;
 
-7° Les dispositions des articles 2 et 5 et de l'article 22 du règlement d'exécution (UE) n° 716/2013 de la Commission du 25
+7° Les dispositions des articles 2 à 5 et de l'article 22 du règlement d'exécution (UE) n° 716/2013 de la Commission du 25
 juillet 2013 portant modalités d'application du règlement (CE) n° 110/2008 du Parlement européen et du Conseil concernant la
 définition, la désignation, la présentation, l'étiquetage et la protection des indications géographiques des boissons
 spiritueuses.
@@ -30808,9 +30872,17 @@ spiritueuses.
 
 	  - Décret n°2015-89 du 28 janvier 2015 - art. 3
 
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
 	**Cite**:
 
 	  - Code de la consommation - art. L214-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-21 (V)
 
 
 ##### Section 6 :  Additifs, enzymes et arômes  destinés à l'alimentation humaine
