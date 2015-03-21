@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-03-19
+Version Consolidée au 2015-03-22
 
 # Partie législative
 
@@ -25774,8 +25774,8 @@ Il est institué une commission de surendettement des particuliers à Mayotte. C
 l'Etat à Mayotte, président, et le directeur local des finances publiques de Mayotte, vice-président. Chacune de ces
 personnes peut se faire représenter, par un seul et même délégué, dans des conditions fixées par décret. La commission
 comprend également le représentant local de la Banque de France, qui en assure le secrétariat, un représentant des services
-fiscaux désigné par le président du conseil général, ainsi que deux personnalités choisies par le représentant de l'Etat à
-Mayotte, la première sur proposition de l'Association française des établissements de crédit et des entreprises
+fiscaux désigné par le président du conseil départemental, ainsi que deux personnalités choisies par le représentant de
+l'Etat à Mayotte, la première sur proposition de l'Association française des établissements de crédit et des entreprises
 d'investissement et la seconde sur proposition des associations familiales ou de consommateurs ou, à défaut, désignée en
 raison de sa compétence en matière de consommation ou d'action familiale.
 
@@ -25795,7 +25795,7 @@ La commission adopte un règlement intérieur rendu public.
 
 	**Modifié par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 55
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Cité par**:
 
@@ -25803,6 +25803,10 @@ La commission adopte un règlement intérieur rendu public.
 	  - Décret n°2016-393 du 31 mars 2016 - art. 4 (V)
 	  - Code de la consommation - art. R336-1 (V)
 	  - Code des procédures civiles d'exécution - art. R612-7 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
 ###### Article L334-2
