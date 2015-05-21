@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-05-08
+Version Consolidée au 2015-05-22
 
 # Partie législative
 
@@ -29488,6 +29488,232 @@ consommateur dans les conditions fixées au II de l'article L. 121-30.
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. R242-3 (V)
+
+
+##### Section 4 : Démarchage téléphonique
+
+###### Article R121-7
+
+Le ministre chargé de l'économie est autorisé à créer un traitement automatisé de données à caractère personnel portant sur
+les informations contenues dans la liste d'opposition au démarchage téléphonique prévue à l'article L. 121-34. 
+
+La mise en œuvre et la gestion de ce traitement automatisé sont confiées à un organisme de droit public ou de droit privé
+désigné dans les conditions prévues à l'article L. 121-34, pour une durée maximale de cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-556 du 19 mai 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-34
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R121-7-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R223-1 (V)
+
+
+###### Article R121-7-1
+
+Ce traitement automatisé a pour finalité d'assurer la collecte, l'enregistrement, la conservation, la gestion et la mise à
+jour des numéros de téléphone des consommateurs qui ne souhaitent pas faire l'objet d'un démarchage par voie téléphonique, et
+de permettre aux entreprises qui procèdent au démarchage téléphonique de bénéficier de ces fichiers actualisés en voyant
+exclure ces consommateurs de leurs fichiers de prospection par l'organisme mentionné à l'article R. 121-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-556 du 19 mai 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R223-2 (V)
+
+
+###### Article R121-7-2
+
+Les informations nominatives qui peuvent être portées sur la liste d'opposition sont exclusivement le ou les numéros de
+téléphone désignés par le consommateur accompagnés de la date et de l'heure d'inscription. 
+
+Le consommateur qui désire s'inscrire sur cette liste peut y procéder par voie électronique ou par tout autre moyen. Une
+confirmation de son inscription fait l'objet d'un récépissé d'inscription qui lui est communiqué par l'organisme dans les
+mêmes formes que celles de l'inscription. Ce récépissé précise la durée de l'inscription ainsi que la date à laquelle elle
+devient effective au plus tard dans les trente jours de la délivrance du récépissé. 
+
+Cette inscription est valable pour une durée maximale de trois ans. L'organisme informe le consommateur au moins trois mois
+avant l'échéance de son inscription sur la liste des modalités lui permettant de la renouveler. 
+
+Le consommateur peut se désinscrire à tout moment de la liste par voie électronique ou par tout autre moyen. Une confirmation
+de sa désinscription indiquant sa date de prise d'effet lui est délivrée dans les mêmes formes que celles de sa
+désinscription.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-556 du 19 mai 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R223-3 (V)
+
+
+###### Article R121-7-3
+
+L'organisme mentionné à l'article R. 121-7 est seul habilité à collecter, enregistrer, conserver, modifier ou traiter les
+informations portées sur la liste d'opposition au démarchage téléphonique. 
+
+Il est également seul habilité à mettre à jour cette liste en fonction des inscriptions, des désinscriptions et des
+changements de coordonnées que les consommateurs lui communiquent, à recevoir de la part des professionnels leurs fichiers de
+prospection commerciale et à procéder aux opérations de mise en conformité desdits fichiers avec ladite liste. 
+
+Il lui est interdit de communiquer les informations mentionnées à l'article R. 121-7-2 et d'utiliser la liste d'opposition à
+des fins commerciales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-556 du 19 mai 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R121-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R223-4 (V)
+
+
+###### Article R121-7-4
+
+La redevance versée à l'organisme mentionné à l'article R. 121-7 par les professionnels comprend une part fixe et une part
+variable. 
+
+1° La part fixe correspond au coût des frais annuels d'ouverture et de gestion du dossier ouvert pour chaque professionnel
+qui sollicite les services de l'organisme ; 
+
+2° La part variable correspond aux charges de l'organisme liées à la collecte, l'enregistrement, la conservation, la gestion
+des numéros de téléphone des consommateurs tels que prévus à l'article R. 121-7-1 et à l'utilisation de la liste d'opposition
+par le professionnel. Son montant est calculé en fonction du nombre et de la taille de ses fichiers ainsi que du nombre de
+consultations de l'organisme afin que celui-ci les vérifie ou les actualise. 
+
+Un arrêté du ministre chargé de l'économie fixe le montant de la part fixe et le taux de la part variable de la redevance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-556 du 19 mai 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R223-5 (V)
+
+
+###### Article R121-7-5
+
+Le professionnel qui exerce à titre habituel une activité de démarchage téléphonique saisit de manière régulière, et au moins
+mensuellement, l'organisme mentionné à l'article R. 121-7 aux fins de s'assurer de la conformité de ses fichiers de
+prospection commerciale avec la liste des oppositions au démarchage. Le professionnel qui a accessoirement recours au
+démarchage téléphonique consulte cet organisme avant toute campagne de démarchage téléphonique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-556 du 19 mai 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R223-6 (V)
+
+
+###### Article R121-7-6
+
+Les agents mentionnés au VII de l'article L. 141-1 peuvent obtenir gratuitement de l'organisme toute information utile pour
+vérifier le respect par le professionnel de ses obligations au titre de l'application de l'article L. 121-34.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-556 du 19 mai 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+
+###### Article R121-7-7
+
+Hormis le cas où le consommateur s'est désinscrit, les données contenues dans la liste d'opposition sont conservées par
+l'organisme pendant une durée de trois ans à compter de l'expiration de la période d'inscription.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-556 du 19 mai 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R223-7 (V)
+
+
+###### Article R121-7-8
+
+Un représentant du Gouvernement est désigné par arrêté du ministre chargé de l'économie auprès de l'organisme afin de
+vérifier le respect par celui-ci des obligations légales et contractuelles mises à sa charge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-556 du 19 mai 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R223-8 (V)
 
 
 ##### Section 6 : Loteries publicitaires
