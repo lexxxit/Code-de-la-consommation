@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-05-22
+Version Consolidée au 2015-06-06
 
 # Partie législative
 
@@ -12273,8 +12273,10 @@ la proportion de ceux de ces éléments dont l'emploi n'est admis par les lois e
 
 Sont considérés, au regard de la récidive, comme une même infraction, les délits prévus et réprimés par : 
 
-― les articles L. 115-3, L. 115-16, L. 115-18, L. 115-20, L. 115-22, L. 115-24, L. 115-26, L. 115-30, L. 121-6, L. 121-14, L.
-213-1 à L. 213-2-1, L. 213-3, L. 213-4, L. 214-1 à L. 214-3 et L. 217-1 à L. 217-11 du présent code ; 
+― les articles L. 115-3, L. 115-16, L. 115-18, L. 115-20, L. 115-22, 
+L. 115-24, L. 115-26, L. 115-30, L. 121-6, L. 121-14, 
+L. 213-1 à L. 213-2-1, L. 213-3, L. 213-4, 
+L. 214-1 à L. 214-3 et L. 217-1 à L. 217-11 du présent code ; 
 
 ― les articles L. 716-9 à L. 716-11 du code de la propriété intellectuelle ; 
 
@@ -12288,8 +12290,7 @@ L. 5424-3, L. 5424-6, L. 5424-11, L. 5431-2, L. 5431-5, L. 5431-6, L. 5431-7, L.
 L. 5461-3 et L. 5462-3 du code de la santé publique ; 
 
 ― les articles L. 237-1, L. 237-2, L. 237-3, L. 253-15 à L. 253-17, L. 254-9, 
-L. 255-8, 
-L. 671-9 et L. 671-10 du code rural et de la pêche maritime ; 
+L. 255-18, L. 671-9 et L. 671-10 du code rural et de la pêche maritime ; 
 
 ― la loi du 30 décembre 1931 tendant à réprimer la fraude dans le commerce de l'essence de térébenthine et des produits
 provenant des végétaux résineux ; 
@@ -12325,15 +12326,33 @@ vente du cuir et des produits ouvrés en cuir ;
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-1427 du 19 décembre 2012 - art. 21
+	  - ORDONNANCE n°2015-615 du 4 juin 2015 - art. 2
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L716-9
+	  - Code de la consommation - art. L115-16
+	  - Code de la consommation - art. L115-18 (VT)
+	  - Code de la consommation - art. L115-20 (VT)
+	  - Code de la consommation - art. L115-22 (VT)
+	  - Code de la consommation - art. L115-24 (VT)
+	  - Code de la consommation - art. L115-26 (VT)
+	  - Code de la consommation - art. L115-3 (VT)
+	  - Code de la consommation - art. L115-30 (VT)
+	  - Code de la consommation - art. L121-14 (VT)
+	  - Code de la consommation - art. L121-6 (VT)
+	  - Code de la consommation - art. L213-1 (VT)
+	  - Code de la consommation - art. L213-3 (VT)
+	  - Code de la consommation - art. L214-1
+	  - Code de la consommation - art. L217-1
 	  - Code rural - art. L237-1
 	  - Code rural - art. L253-15
 	  - Code rural - art. L254-9
-	  - Code rural - art. L255-8
+	  - Code rural - art. L255-18
 	  - Code rural - art. L671-9
 	  - Code de la santé publique - art. L1343-2
 	  - Code de la santé publique - art. L4212-1
@@ -12347,6 +12366,10 @@ vente du cuir et des produits ouvrés en cuir ;
 	  - Code de la santé publique - art. L5442-1
 	  - Code de la santé publique - art. L5461-3
 	  - Code de la santé publique - art. L5462-3
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L455-2 (V)
 
 
 ###### Article L213-6
@@ -12921,7 +12944,8 @@ de la direction générale des finances publiques ;
 
 2° Les inspecteurs du travail ; 
 
-3° Les agents mentionnés aux 1° à 7° de l'article L. 231-2 et à l'article L. 250-2 du code rural et de la pêche maritime ; 
+3° Les agents mentionnés aux 1° à 6° et au dernier tiret du dernier alinéa du I de l'article L. 205-1 du code rural et de la
+pêche maritime ; 
 
 4° Les agents mentionnés à l'article L. 1312-1 du code de la santé publique, qui disposent à cet effet des pouvoirs prévus
 aux articles L. 1421-2 à L. 1421-3 du même code ; 
@@ -13040,7 +13064,7 @@ administrations publiques et des entreprises de transports.
 	  - Code de la consommation - art. L218-4 (M)
 	  - Code de la consommation - art. L218-5 (VT)
 	  - Code de la consommation - art. L218-5-1 (VT)
-	  - Code de la consommation - art. L218-7 (V)
+	  - Code de la consommation - art. L218-7 (VT)
 	  - Code de la consommation - art. R215-2 (Ab)
 	  - Code de la consommation - art. R215-3 (Ab)
 	  - Code de la santé publique - art. L1338-4 (V)
@@ -13084,7 +13108,7 @@ administrations publiques et des entreprises de transports.
 	  - Code rural ancien - art. 263-1 (Ab)
 	  - Code rural et de la pêche maritime - art. L202-6 (V)
 	  - Code rural et de la pêche maritime - art. L253-14 (V)
-	  - Code rural et de la pêche maritime - art. L254-11 (M)
+	  - Code rural et de la pêche maritime - art. L254-11 (V)
 	  - Code rural et de la pêche maritime - art. L255-17 (V)
 	  - Code rural et de la pêche maritime - art. L644-4 (Ab)
 	  - Code rural et de la pêche maritime - art. R661-50 (VD)
@@ -13092,7 +13116,19 @@ administrations publiques et des entreprises de transports.
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 102
+	  - ORDONNANCE n°2015-616 du 4 juin 2015 - art. 9
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L511-11 (M)
+	  - Code de la consommation - art. L511-22 (M)
+	  - Code de la consommation - art. L511-3 (V)
+	  - Code de la consommation - art. L512-4 (V)
+	  - Code de la consommation - art. L512-50 (V)
 
 	**Anciens textes**:
 
@@ -13100,15 +13136,15 @@ administrations publiques et des entreprises de transports.
 
 	**Cite**:
 
-	  - Code des postes et des communications électroni... - art. L40 (V)
+	  - Code des postes et des communications électroniques - art. L40
 	  - Code de procédure pénale
+	  - Code rural - art. L205-1
 	  - Code rural - art. L231-2
-	  - Code rural - art. L250-2
-	  - Code de la santé publique - art. L1312-1 (V)
-	  - Code de la santé publique - art. L1421-2 (V)
-	  - Code de la santé publique - art. L5146-2 (V)
-	  - Code de la santé publique - art. L5313-1 (V)
-	  - Code de l'environnement - art. L172-1 (V)
+	  - Code de la santé publique - art. L1312-1
+	  - Code de la santé publique - art. L1421-2
+	  - Code de la santé publique - art. L5146-2
+	  - Code de la santé publique - art. L5313-1
+	  - Code de l'environnement - art. L172-1
 
 
 ###### Article L215-1-1
