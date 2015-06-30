@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-06-06
+Version Consolidée au 2015-07-01
 
 # Partie législative
 
@@ -1065,6 +1065,30 @@ une personne physique et 15 000 € pour une personne morale. L'amende est prono
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L132-21 (V)
+
+
+###### Article L113-7
+
+Tout exploitant de parc de stationnement affecté à un usage public applique au consommateur, pour les stationnements d'une
+durée inférieure à douze heures et payés à la durée, une tarification par pas de quinze minutes au plus.
+
+**Nota:**
+
+Conformément à l'article 6 VI de la loi n° 2014-344 du 17 mars 2014, l'article L. 113-7 entre en vigueur le 1er juillet 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 6 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2015-992 du 17 août 2015 - art. 77
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L121-116 (VT)
 
 
 ###### Article L113-8
@@ -28476,242 +28500,6 @@ la première fois sur le marché à compter du 1er mars 2015.
 
 #### Chapitre II : Modes de présentation et inscriptions
 
-###### Article R112-10
-
-Lorsque les denrées alimentaires préemballées sont destinées à être présentées au consommateur final ou aux collectivités,
-les mentions prévues aux articles R. 112-9 et R. 112-9-1 sont portées sur le préemballage ou sur une étiquette liée à celui-
-ci. Les mentions énumérées aux 1°, 4° et 5° de l'article R. 112-9 et au 1° de l'article R. 112-9-1 sont regroupées dans le
-même champ visuel.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°91-187 du 19 février 1991 - art. 17 (V)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
-
-	**Modifié par**:
-
-	  - Décret n°2005-944 du 2 août 2005 - art. 7 () JORF 6 août 2005 en vigueur le 25 novembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
-
-	**Cite**:
-
-	  - Code de la consommation
-
-
-###### Article R112-11
-
-Lorsque les denrées alimentaires préemballées sont commercialisées à un stade antérieur à la vente au consommateur final ou
-lorsqu'elles sont destinées à être livrées aux "collectivités", pour y être préparées, transformées, fractionnées ou
-débitées, les mentions prévues à l'article R. 112-9, à l'exception de l'indication du lot, et celles prévues à l'article R.
-112-9-1 peuvent ne figurer que sur les fiches, bons de livraison ou documents commerciaux lorsque ceux-ci accompagnent les
-denrées alimentaires auxquelles ils se rapportent ou lorsqu'ils ont été envoyés avant la livraison ou en même temps qu'elle.
-Ces documents doivent être détenus sur les lieux d'utilisation ou de stockage des denrées alimentaires auxquelles ils se
-réfèrent. Dans ce cas, les mentions prévues aux 1°, 5° et 6° de l'article R. 112-9 sont portées en outre sur l'emballage
-extérieur dans lequel lesdites denrées sont présentées lors de la commercialisation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
-
-	**Modifié par**:
-
-	  - Décret n°2005-944 du 2 août 2005 - art. 9 () JORF 6 août 2005 en vigueur le 25 novembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
-
-	**Cite**:
-
-	  - Code de la consommation
-
-	**Cité par**:
-
-	  - Code de la consommation - art. R112-12 (Ab)
-	  - Code de la consommation - art. R112-13 (Ab)
-	  - Code de la consommation - art. R112-15 (Ab)
-
-
-###### Article R112-12
-
-Dans le cas des ventes par correspondance, les catalogues, brochures, prospectus ou annonces faisant connaître au
-consommateur les produits offerts à la vente et lui permettant d'effectuer directement sa commande doivent comporter les
-mentions prévues aux 1°, 2°, 4° et 8° de l'article R. 112-9 et au 11° de l'article R. 112-9-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
-
-	**Modifié par**:
-
-	  - Décret n°2005-944 du 2 août 2005 - art. 10 () JORF 6 août 2005 en vigueur le 25 novembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
-
-	**Cite**:
-
-	  - Code de la consommation
-
-
-###### Article R112-13
-
-Des arrêtés du ministre chargé de la consommation, du ministre de l'agriculture et des autres ministres intéressés fixent, en
-tant que de besoin, les modalités pratiques d'application des articles R. 112-9 à R. 112-12, notamment en ce qui concerne
-l'utilisation de signes conventionnels.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°84-1147 du 7 décembre 1984 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
-
-	**Cite**:
-
-	  - Code de la consommation
-
-
-###### Article R112-14
-
-La dénomination de vente d'une denrée alimentaire est celle fixée par la réglementation en vigueur en matière de répression
-des fraudes ou, à défaut, par d'autres réglementations ou par les usages commerciaux. En l'absence de réglementations ou
-d'usages, cette dénomination doit consister en une description de la denrée alimentaire et, si nécessaire, de son
-utilisation. La description doit être suffisamment précise pour permettre à l'acheteur d'en connaître la nature réelle et de
-la distinguer des produits avec lesquels elle pourrait être confondue.
-
-Dans tous les cas, la dénomination de vente doit être indépendante de la marque de commerce ou de fabrique ou de la
-dénomination de fantaisie.
-
-Chaque fois que l'omission de cette indication est de nature à créer une confusion dans l'esprit de l'acheteur, la
-dénomination de vente comporte une indication de l'état physique dans lequel se trouve la denrée alimentaire ou du traitement
-spécifique qu'elle a subi, tels que, notamment : en poudre, lyophilisé, surgelé, congelé, décongelé, pasteurisé, stérilisé,
-reconstitué, concentré, fumé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Créé par**:
-
-	  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
-
-
-###### Article R112-15
-
-La liste des ingrédients est constituée par l'énumération de tous les ingrédients de la denrée alimentaire dans l'ordre
-décroissant de leur importance pondérale au moment de leur mise en oeuvre.
-
-Elle est précédée d'une mention appropriée comportant le mot : "ingrédient".
-
-Toutefois :
-
-1° L'eau ajoutée et les ingrédients volatils sont indiqués dans la liste en fonction de leur importance pondérale dans le
-produit fini. La quantité d'eau ajoutée comme ingrédient dans une denrée alimentaire est déterminée en soustrayant de la
-quantité totale du produit fini la quantité totale des autres ingrédients mis en oeuvre.
-
-L'indication de l'eau n'est cependant pas exigée :
-
-a) Lorsque l'eau est utilisée lors du processus de fabrication, uniquement pour permettre la reconstitution dans son état
-d'origine d'un ingrédient utilisé sous forme concentrée ou déshydratée ;
-
-b) Lorsqu'elle sert de liquide de couverture qui n'est normalement pas consommé ;
-
-c) Lorsque cette quantité n'excède pas 5 % en poids du produit fini ;
-
-2° Les ingrédients utilisés sous une forme concentrée ou déshydratée et reconstitués pendant la fabrication peuvent être
-indiqués dans la liste des ingrédients en fonction de leur importance pondérale avant la concentration ou la déshydratation ;
-
-3° Lorsqu'il s'agit d'aliments concentrés ou déshydratés, auxquels il faut ajouter de l'eau, l'énumération peut se faire
-selon l'ordre des proportions dans le produit reconstitué, pourvu que la liste des ingrédients soit accompagnée d'une mention
-telle que "Ingrédients du produit reconstitué" ou "Ingrédients du produit prêt à la consommation" ;
-
-4° Lorsque des fruits, des légumes ou des champignons, dont aucun ne prédomine en poids de manière significative et qui sont
-utilisés en proportions susceptibles de varier, sont utilisés en mélange comme ingrédients dans une denrée alimentaire, ils
-peuvent être regroupés dans la liste des ingrédients sous la désignation "fruits", "légumes" ou "champignons" suivie de la
-mention "en proportion variable", immédiatement suivie de l'énumération des fruits, légumes ou champignons présents. Dans ce
-cas, le mélange est indiqué dans la liste des ingrédients, en fonction du poids de l'ensemble des fruits, légumes ou
-champignons présents ;
-
-5° Dans le cas des mélanges d'épices ou de plantes aromatiques, dont aucun ne prédomine en poids de manière significative,
-ces ingrédients peuvent être énumérés selon un ordre différent sous réserve que la liste des ingrédients soit accompagnée
-d'une mention telle que "en proportion variable" ;
-
-6° Les ingrédients intervenant pour moins de 2 % dans le produit fini peuvent être énumérés dans un ordre différent à la
-suite des autres ingrédients ;
-
-7° Lorsque des ingrédients similaires et substituables entre eux sont susceptibles d'être utilisés dans la fabrication ou la
-préparation d'une denrée alimentaire sans en altérer la composition, la nature ou la valeur perçue, et pour autant qu'ils
-interviennent pour moins de 2 % dans le produit fini, leur désignation dans la liste des ingrédients peut être réalisée à
-l'aide de la mention "contient ... et/ou ..." dans le cas où l'un au moins, parmi deux ingrédients au plus, est présent dans
-le produit fini. Cette disposition ne s'applique pas aux additifs ni aux ingrédients énumérés à l'annexe IV du présent
-chapitre ou provenant d'un ingrédient énuméré à cette même annexe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la consommation annexe
-
-	**Codifié par**:
-
-	  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2005-944 2005-08-02 art. 27 : Spécificité d'application
-
-	**Modifié par**:
-
-	  - Décret n°2005-944 du 2 août 2005 - art. 11 () JORF 6 août 2005 en vigueur le 25 novembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
-
-
 ##### Section 1 : Produit bénéficiant d'une reconnaissance d'appellation d'origine, d'indication géographique protégée ou spécialité traditionnelle garantie
 
 
@@ -28940,10 +28728,14 @@ commercialisées sur le territoire national sont rédigées en langue française
 
 ###### Article R112-7
 
-Toute denrée alimentaire présentée non préemballée sur les lieux de vente au consommateur final est munie sur elle-même ou à
-proximité immédiate, sans risque de confusion, d'une affiche, d'un écriteau ou de tout autre moyen approprié comportant sa
-dénomination au sens de l'article 17 du règlement (UE) n° 2011/1169 et, le cas échéant, les autres mentions obligatoires qui
-l'accompagnent.
+Lorsque l'indication de la quantité est prévue par la réglementation du droit de l'Union ou nationale, elle est exprimée sous
+forme de quantité nette.
+
+Pour les escargots préparés en coquille et les huîtres, l'indication de la quantité peut être exprimée en nombre d'unités,
+accompagnée de l'indication du calibre. Pour les moules en coquille, préparées ou non, l'indication de la quantité peut être
+exprimée en unité de volume.
+
+Ces dispositions s'appliquent aux produits préemballés ou non préemballés.
 
 **Liens relatifs à cet article**
 
@@ -28953,7 +28745,15 @@ l'accompagnent.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1489 du 11 décembre 2014 - art. 1
+	  - Décret n°2015-447 du 17 avril 2015 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-8 (V)
 
 	**Cité par**:
 
@@ -28989,6 +28789,211 @@ prescrites dans leur étiquetage.
 
 	  - Code de la consommation - art. R412-10 (V)
 	  - Code de la consommation - art. R412-9 (V)
+
+
+##### Section 4 : Dispositions relatives aux denrées non préemballées
+
+##### Sous-section 1 : Dénomination de vente
+
+###### Article R112-10
+
+La dénomination, au sens du règlement (UE) n° 1169/2011 du Parlement européen et du Conseil du 25 octobre 2011, de toute
+denrée alimentaire, présentée non préemballée sur les lieux de vente au consommateur final, et, le cas échéant, les autres
+mentions obligatoires qui doivent l'accompagner, sont indiquées sur la denrée elle-même, ou à proximité de celle-ci, de façon
+qu'il n'existe aucune incertitude quant à la denrée à laquelle elles se rapportent.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°91-187 du 19 février 1991 - art. 17 (V)
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Modifié par**:
+
+	  - Décret n°2015-447 du 17 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-11 (V)
+
+
+##### Sous-section 2 : Information relative à la présence de substances ou produits provoquant des allergies ou intolérances
+
+###### Article R112-11
+
+L'utilisation dans la fabrication ou la préparation d'une denrée alimentaire de tout ingrédient ou auxiliaire technologique
+ou dérivé d'une substance ou d'un produit énuméré à l'annexe II du règlement (UE) n° 1169/2011 du Parlement européen et du
+Conseil du 25 octobre 2011 provoquant des allergies ou des intolérances, et encore présent dans le produit fini, même sous
+une forme modifiée, est portée à la connaissance du consommateur final et des établissements de restauration selon les
+modalités fixées par la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Modifié par**:
+
+	  - Décret n°2015-447 du 17 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R112-12 (Ab)
+	  - Code de la consommation - art. R112-13 (Ab)
+	  - Code de la consommation - art. R112-14 (Ab)
+	  - Code de la consommation - art. R112-15 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-12 (V)
+
+
+###### Article R112-12
+
+L'information mentionnée à l'article R. 112-11 est indiquée sur la denrée elle-même ou à proximité de celle-ci de façon qu'il
+n'existe aucune incertitude quant à la denrée à laquelle elle se rapporte, lorsqu'une denrée alimentaire est : 
+
+1° Présentée non préemballée sur les lieux de vente au consommateur final et aux collectivités au sens du d du paragraphe 2
+de l'article 2 du règlement (UE) n° 1169/2011 du Parlement européen et du Conseil du 25 octobre 2011 ; 
+
+2° Emballée sur les lieux de vente à la demande du consommateur ; 
+
+3° Préemballée en vue de sa vente immédiate.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Modifié par**:
+
+	  - Décret n°2015-447 du 17 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R112-11
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-13 (V)
+
+
+###### Article R112-13
+
+Dans les lieux où sont proposés des repas à consommer sur place, sont portés à la connaissance du consommateur, sous forme
+écrite, de façon lisible et visible des lieux où est admis le public : 
+
+1° Soit l'information mentionnée à l'article R. 112-11 elle-même ; 
+
+2° Soit les modalités selon lesquelles l'information mentionnée à l'article R. 112-11 est tenue à sa disposition. 
+
+Dans ce dernier cas, le consommateur est mis en mesure d'accéder directement et librement à l'information mentionnée à
+l'article R. 112-11, disponible sous forme écrite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Modifié par**:
+
+	  - Décret n°2015-447 du 17 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R112-11
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-14 (V)
+
+
+###### Article R112-14
+
+L'information mentionnée à l'article R. 112-11 n'est pas requise lors de la fourniture du repas, lorsque, dans le cadre de la
+restauration collective, un dispositif permet à un consommateur d'indiquer, avant toute consommation, qu'il refuse de
+consommer un ou des ingrédients ou auxiliaires technologiques ou dérivés d'une substance ou d'un produit énuméré à l'annexe
+II du règlement (UE) n° 1169/2011 du Parlement européen et du Conseil du 25 octobre 2011 qui peuvent être utilisés dans la
+fabrication ou la préparation d'une denrée alimentaire et être présents dans le produit fini, même sous forme modifiée. 
+
+Pendant un délai de trois ans après la fourniture du dernier repas, le fournisseur des repas conserve le document attestant
+du refus manifesté par le consommateur. 
+
+On entend par " restauration collective " au sens du présent article : l'activité de restauration hors foyer caractérisée par
+la fourniture de repas à une collectivité de consommateurs réguliers, liée par accord ou par contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Modifié par**:
+
+	  - Décret n°2015-447 du 17 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R112-11 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-15 (V)
+
+
+###### Article R112-15
+
+Chaque livraison de denrées alimentaires à des établissements de restauration est accompagnée d'un document portant
+l'information mentionnée à l'article R. 112-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-298 du 27 mars 1997
+
+	**Modifié par**:
+
+	  - Décret n°2015-447 du 17 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R112-11
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-16 (V)
 
 
 #### Chapitre III : Prix et conditions de vente
@@ -31699,22 +31704,29 @@ paragraphe 1 de l'article 32, du paragraphe 1 de l'article 33 du règlement (CE)
 modifié relatif à la production biologique et à l'étiquetage des produits biologiques et abrogeant le règlement (CEE) n°
 2092/91, et son annexe ;
 
-6° Les dispositions des articles 1er à 44, des paragraphes 1 à 3 de l'article 45, de l'article 46, de l'article 46 bis, des
-articles 57 à 66, de l'article 68, de l'article 69, de l'article 72, de l'article 73, de l'article 73 ter, des articles 75 à
-79, 79 ter, des articles 81 et 83, des articles 87 et 89 du règlement n° 889/2008 de la Commission du 5 septembre 2008
-modifié portant modalités d'application du règlement (CE) n° 834/2007 du Conseil relatif à la production biologique et à
-l'étiquetage des produits biologiques en ce qui concerne la production biologique, l'étiquetage et les contrôles, et ses
-annexes.
+6° Les dispositions des articles 1er à 44, des paragraphes 1 à 3 de l'article 45, des articles 46 et 46 bis, des articles 57
+à 66, des articles 68 et 69, des articles 72 et 73, de l'article 73 ter, des articles 75 à 79, de l'article 79 ter, des
+articles 81 et 83 et des articles 87 et 89 du règlement (CE) n° 889/2008 de la Commission du 5 septembre 2008 modifié portant
+modalités d'application du règlement (CE) n° 834/2007 du Conseil relatif à la production biologique et à l'étiquetage des
+produits biologiques en ce qui concerne la production biologique, l'étiquetage et les contrôles, et ses annexes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-89 du 28 janvier 2015 - art. 11
+	  - Décret n°2015-447 du 17 avril 2015 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
 	  - Code de la consommation - art. L214-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R412-33 (V)
 
 
 ##### Section 16 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux, d'origine végétale et animale
