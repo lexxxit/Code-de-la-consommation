@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-08-08
+Version Consolidée au 2015-08-19
 
 # Partie législative
 
@@ -1144,92 +1144,6 @@ une personne physique et 15 000 € pour une personne morale. L'amende est prono
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L132-21 (V)
-
-
-###### Article L113-7
-
-Tout exploitant de parc de stationnement affecté à un usage public applique au consommateur, pour les stationnements d'une
-durée inférieure à douze heures et payés à la durée, une tarification par pas de quinze minutes au plus.
-
-**Nota:**
-
-Conformément à l'article 6 VI de la loi n° 2014-344 du 17 mars 2014, l'article L. 113-7 entre en vigueur le 1er juillet 2015.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 6 (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2015-992 du 17 août 2015 - art. 77
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L121-116 (VT)
-
-
-###### Article L113-8
-
-Les transporteurs aériens et les personnes physiques ou morales commercialisant des titres de transport aérien remboursent
-les taxes et redevances individualisées et affichées comme telles dans le prix du titre qu'ils ont vendu, dont l'exigibilité
-procède de l'embarquement effectif du passager, lorsque le titre n'est plus valide et n'a pas donné lieu à transport. Ce
-remboursement intervient au plus tard trente jours à compter de la date de réception de la demande, qui peut être déposée par
-tout moyen, notamment en ligne. 
-
-Le remboursement ne peut donner lieu à la facturation de frais excédant 20 % du montant remboursé. Il est gratuit lorsque la
-demande est déposée en ligne. 
-
-Les conditions générales de vente ou de transport précisent la possibilité du remboursement et ses modalités.
-
-**Nota:**
-
-Loi n° 2014-344 du 17 mars 2014 art. 34 : Ces dispositions s'appliquent aux contrats conclus après le 13 juin 2014.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 6 (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2015-992 du 17 août 2015 - art. 77
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L113-9 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L121-118 (VT)
-
-
-###### Article L113-9
-
-Tout manquement à l'article L. 113-8 est passible d'une amende administrative dont le montant ne peut excéder 3 000 € pour
-une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues à l'article L.
-141-1-2.
-
-**Nota:**
-
-Loi n° 2014-344 du 17 mars 2014 art. 34 : Ces dispositions s'appliquent aux contrats conclus après le 13 juin 2014.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 6 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 77
-
-	**Cite**:
-
-	  - Code de la consommation - art. L113-8
-	  - Code de la consommation - art. L141-1-2
 
 
 #### Chapitre IV :  Paiements supplémentaires
@@ -9006,6 +8920,95 @@ une personne physique et 15 000 € pour une personne morale. L'amende est prono
 	  - Code de la consommation - art. L242-18 (V)
 
 
+##### Section 19 : Automobile et transport de personnes
+
+###### Article L121-116
+
+Tout exploitant de parc de stationnement affecté à un usage public applique au consommateur, pour les stationnements d'une
+durée inférieure à douze heures et payés à la durée, une tarification par pas de quinze minutes au plus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 77 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L113-7 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-68 (V)
+
+
+###### Article L121-118
+
+Les transporteurs aériens et les personnes physiques ou morales commercialisant des titres de transport aérien remboursent
+les taxes et redevances individualisées et affichées comme telles dans le prix du titre qu'ils ont vendu, dont l'exigibilité
+procède de l'embarquement effectif du passager, lorsque le titre n'est plus valide et n'a pas donné lieu à transport. Ce
+remboursement intervient au plus tard trente jours à compter de la date de réception de la demande, qui peut être déposée par
+tout moyen, notamment en ligne. 
+
+Le remboursement ne peut donner lieu à la facturation de frais excédant 20 % du montant remboursé. Il est gratuit lorsque la
+demande est déposée en ligne. 
+
+Les conditions générales de vente ou de transport précisent la possibilité du remboursement et ses modalités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 77 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L113-8 (T)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L123-6 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-66 (V)
+
+
+###### Article L121-119
+
+Tout manquement aux articles L. 121-117 et L. 121-118 est passible d'une amende administrative dont le montant ne peut
+excéder 3 000 € pour une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les conditions
+prévues à l'article L. 141-1-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 77 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-117 (VT)
+	  - Code de la consommation - art. L141-1-2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L242-24 (V)
+	  - Code de la consommation - art. L242-25 (V)
+
+
 #### Chapitre II : Pratiques commerciales illicites
 
 ##### Section 1 : Refus et subordination de vente ou de prestation de services
@@ -9790,6 +9793,34 @@ juin 2014.
 	**Abrogé par**:
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
+###### Article L123-6
+
+L'article L. 121-118 n'est pas applicable en Guadeloupe, en Guyane, en Martinique, à La Réunion, à Mayotte, à Saint-
+Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 77 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Loi n°2017-203 du 21 février 2017 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-118 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L251-1 (M)
 
 
 ### Titre III : Conditions générales des contrats
@@ -12456,6 +12487,33 @@ la proportion de ceux de ces éléments dont l'emploi n'est admis par les lois e
 	  - Code de la consommation - art. L451-3 (V)
 	  - Code de la consommation - art. L451-4 (V)
 	  - Code de la consommation - art. L451-5 (V)
+
+
+##### Section 2 bis : Obsolescence programmée
+
+###### Article L213-4-1
+
+I.-L'obsolescence programmée se définit par l'ensemble des techniques par lesquelles un metteur sur le marché vise à réduire
+délibérément la durée de vie d'un produit pour en augmenter le taux de remplacement. 
+
+II.-L'obsolescence programmée est punie d'une peine de deux ans d'emprisonnement et de 300 000 € d'amende. 
+
+III.-Le montant de l'amende peut être porté, de manière proportionnée aux avantages tirés du manquement, à 5 % du chiffre
+d'affaires moyen annuel, calculé sur les trois derniers chiffres d'affaires annuels connus à la date des faits.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 99
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L441-2 (V)
 
 
 ##### Section 3 : Récidive légale
@@ -22380,19 +22438,32 @@ Les dispositions des chapitres Ier et II et des sections 2 à 8 du chapitre III 
 
 ###### Article L314-1
 
-Le prêt viager hypothécaire est un contrat par lequel un établissement de crédit ou un établissement financier consent à une
-personne physique un prêt sous forme d'un capital ou de versements périodiques, garanti par une hypothèque constituée sur un
-bien immobilier de l'emprunteur à usage exclusif d'habitation et dont le remboursement-principal et intérêts capitalisés
+I. - Le prêt viager hypothécaire est un contrat par lequel un établissement de crédit ou un établissement financier consent à
+une personne physique un prêt sous forme d'un capital ou de versements périodiques, garanti par une hypothèque constituée sur
+un bien immobilier de l'emprunteur à usage exclusif d'habitation et dont le remboursement-principal et intérêts capitalisés
 annuellement ne peut être exigé qu'au décès de l'emprunteur ou lors de l'aliénation ou du démembrement de la propriété de
 l'immeuble hypothéqué s'ils surviennent avant le décès. 
 
 Son régime est déterminé par les dispositions du présent chapitre.
 
+Ce contrat peut également prévoir le même dispositif avec un remboursement périodique des seuls intérêts. 
+
+II.-Un établissement de crédit, un établissement financier ou une société de tiers-financement mentionnée au 8 de l'article
+L. 511-6 du code monétaire et financier peuvent procéder au financement de travaux de rénovation au moyen d'un prêt avance
+mutation garanti par une hypothèque constituée à hauteur du montant initial du prêt augmenté des intérêts capitalisés
+annuellement et dont le remboursement ne peut être exigé que lors de la mutation du bien. Le remboursement des intérêts peut
+faire l'objet d'un remboursement progressif, selon une périodicité convenue.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 68
+	  - Loi n°2015-992 du 17 août 2015 - art. 25
+	  - Loi n°2015-992 du 17 août 2015 - art. 24
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
@@ -22400,8 +22471,17 @@ Son régime est déterminé par les dispositions du présent chapitre.
 	  - Code civil - art. 2434 (V)
 	  - Code de la consommation - art. L121-20-12 (T)
 	  - Code de la consommation - art. L121-29 (VT)
-	  - Code de la consommation - art. L314-3 (M)
+	  - Code de la consommation - art. L314-3 (VT)
 	  - Code monétaire et financier - art. R519-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L315-1 (V)
+	  - Code de la consommation - art. L315-2 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L511-6
 
 
 ###### Article L314-2
@@ -22433,30 +22513,30 @@ A peine de nullité, le prêt viager hypothécaire ne peut être destiné à fin
 ###### Article L314-3
 
 Toute publicité faite, reçue ou perçue en France qui, quel que soit son support, porte sur une opération de prêt viager
-hypothécaire défini à l'article L. 314-1, est loyale et informative.
+hypothécaire défini au I de l'article L. 314-1, est loyale et informative. 
 
-A ce titre, elle doit mentionner :
+A ce titre, elle doit mentionner : 
 
 1° L'identité du prêteur, la nature de l'opération proposée, son coût total et le taux effectif global, à l'exclusion de tout
-autre taux, calculé par tranches de cinq ans, ainsi que les perceptions forfaitaires ;
+autre taux, calculé par tranches de cinq ans, ainsi que les perceptions forfaitaires ; 
 
-2° Les modalités du terme de l'opération proposée.
+2° Les modalités du terme de l'opération proposée. 
 
-Elle reproduit les deux premiers alinéas de l'article L. 314-7.
+Elle reproduit les deux premiers alinéas de l'article L. 314-7. 
 
 Lorsque la publicité est écrite et quel qu'en soit le support, les informations relatives à la nature de l'opération, aux
 conditions de détermination du taux effectif global et, s'il s'agit d'un taux promotionnel, à la période durant laquelle ce
 taux s'applique, doivent figurer dans une taille de caractères au moins aussi importante que celle utilisée pour indiquer
 toute autre information relative aux caractéristiques du financement et s'inscrire dans le corps principal du texte
-publicitaire.
+publicitaire. 
 
-Sont interdites dans toute publicité :
+Sont interdites dans toute publicité : 
 
 1° La mention qu'un prêt peut être octroyé sans élément d'information permettant d'apprécier la situation financière et
-patrimoniale de l'emprunteur ;
+patrimoniale de l'emprunteur ; 
 
 2° L'indication de la ressource supplémentaire qu'offre le prêt si elle n'est suivie d'une information sur les modalités du
-terme de l'opération telles que prévues par les articles L. 314-13 et L. 314-14.
+terme de l'opération telles que prévues par les articles L. 314-13 et L. 314-14. 
 
 L'offre préalable de crédit doit être distincte de tout support ou document publicitaire.
 
@@ -22464,22 +22544,32 @@ L'offre préalable de crédit doit être distincte de tout support ou document p
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+	  - Loi n°2015-992 du 17 août 2015 - art. 25
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L314-1 (V)
-	  - Code de la consommation - art. L314-13 (V)
-	  - Code de la consommation - art. L314-14 (V)
-	  - Code de la consommation - art. L314-7 (V)
+	  - Code de la consommation - art. L314-1 (VT)
+	  - Code de la consommation - art. L314-13
+	  - Code de la consommation - art. L314-7
 
 	**Cité par**:
 
-	  - Code de la consommation - art. L314-16 (V)
+	  - Code de la consommation - art. L314-16 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L315-4 (V)
+	  - Code de la consommation - art. L315-5 (V)
+	  - Code de la consommation - art. L315-6 (V)
+	  - Code de la consommation - art. L315-7 (V)
 
 
 ###### Article L314-4
@@ -22518,31 +22608,37 @@ Une opération de prêt viager hypothécaire ne peut faire l'objet d'un démarch
 
 ###### Article L314-5
 
-L'opération de prêt viager hypothécaire est conclue dans les termes d'une offre préalable comportant les mentions suivantes :
+L'opération de prêt viager hypothécaire est conclue dans les termes d'une offre préalable comportant les mentions
+suivantes : 
 
-1° L'identité des parties et la date d'acceptation de l'offre ;
+1° L'identité des parties et la date d'acceptation de l'offre ; 
 
-2° La désignation exacte du bien hypothéqué, conforme aux exigences de la publicité foncière ;
+2° La désignation exacte du bien hypothéqué, conforme aux exigences de la publicité foncière ; 
 
 3° La valeur du bien hypothéqué estimée par un expert choisi par les parties et les frais afférents à l'expertise mis à la
-charge de l'emprunteur ;
+charge de l'emprunteur ; 
 
-4° La nature du prêt ;
+4° La nature du prêt ; 
 
-5° Les modalités du prêt et, notamment, les dates et les conditions de mise à disposition des fonds ;
+5° Les modalités du prêt et, notamment, les dates et les conditions de mise à disposition des fonds ; 
 
 6° En cas de versements échelonnés du capital, l'échéancier des versements périodiques distinguant la part du capital de
 celle des intérêts accumulés sur ces sommes durant la durée prévisionnelle du prêt et permettant à l'emprunteur de connaître
-le moment où il aura épuisé l'actif net de son logement ;
+le moment où il aura épuisé l'actif net de son logement ; 
 
 7° Lorsque le capital est versé en une seule fois, un état des intérêts accumulés sur ces sommes durant la durée
-prévisionnelle du prêt, permettant à l'emprunteur de connaître le moment où il aura épuisé l'actif net de son logement ;
+prévisionnelle du prêt, permettant à l'emprunteur de connaître le moment où il aura épuisé l'actif net de son logement ; 
 
 8° A partir d'exemples représentatifs établis en fonction d'hypothèses relatives, notamment, à la durée du prêt, le coût
 global du crédit, le taux effectif global défini conformément à l'article L. 313-1 ainsi que, s'il y a lieu, les modalités de
-l'indexation ;
+l'indexation ; 
 
-9° La durée de validité de l'offre.
+9° La durée de validité de l'offre ; 
+
+10° En cas de remboursement périodique des intérêts, l'échéancier des versements périodiques d'intérêts pour les prêts dont
+le taux d'intérêt est fixe, ou la simulation de l'impact d'une variation du taux sur les mensualités d'intérêts pour les
+prêts dont le taux d'intérêt est variable. Cette simulation ne constitue pas un engagement du prêteur à l'égard de
+l'emprunteur quant à l'évolution effective des taux d'intérêt pendant le prêt et à son impact sur les mensualités. 
 
 L'offre reproduit les dispositions des articles L. 314-6 à L. 314-9 et L. 314-13.
 
@@ -22550,22 +22646,30 @@ L'offre reproduit les dispositions des articles L. 314-6 à L. 314-9 et L. 314-1
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+	  - Loi n°2015-992 du 17 août 2015 - art. 24
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L313-1 (M)
-	  - Code de la consommation - art. L314-13 (V)
-	  - Code de la consommation L313-1, L314-6 à L314-9, L314-13
+	  - Code de la consommation - art. L313-1
+	  - Code de la consommation - art. L314-13
+	  - Code de la consommation - art. L314-6
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L314-15 (VT)
-	  - Code de la consommation - art. L314-16 (V)
+	  - Code de la consommation - art. L314-16 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L315-9 (M)
 
 
 ###### Article L314-6
@@ -22638,13 +22742,15 @@ l'emprunteur, sa validité et sa prise d'effet sont subordonnées à celle du co
 
 ###### Article L314-8
 
-L'emprunteur doit apporter à l'immeuble hypothéqué tous les soins      raisonnables. 
+L'emprunteur doit apporter à l'immeuble hypothéqué tous les soins raisonnables. 
 
 Ainsi qu'il est dit à l'article 1188 du code civil, le débiteur ne peut plus réclamer le bénéfice du terme lorsque, par son
 fait, il a diminué la valeur de la sûreté qu'il avait donnée par le contrat à son créancier. 
 
 Le débiteur perd également le bénéfice du terme lorsqu'il change l'affectation du bien hypothéqué ou lorsqu'il refuse au
-créancier l'accès de l'immeuble hypothéqué pour s'assurer de son bon état d'entretien et de conservation.
+créancier l'accès de l'immeuble hypothéqué pour s'assurer de son bon état d'entretien et de conservation ou, en cas de prêt
+viager hypothécaire à versement périodique d'intérêts, lorsqu'il est défaillant dans le versement d'une ou de plusieurs
+échéances d'intérêts.
 
 **Liens relatifs à cet article**
 
@@ -22654,7 +22760,7 @@ créancier l'accès de l'immeuble hypothéqué pour s'assurer de son bon état d
 
 	**Modifié par**:
 
-	  - Loi n°2014-873 du 4 août 2014 - art. 26
+	  - Loi n°2015-992 du 17 août 2015 - art. 24
 
 	**Cite**:
 
@@ -22881,6 +22987,32 @@ Les dispositions du présent article s'appliquent également au démembrement de
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L315-21 (V)
+
+
+###### Article L314-14-1
+
+En cas de défaillance de l'emprunteur sur le remboursement périodique des intérêts, le prêteur peut exiger le remboursement
+immédiat des intérêts échus mais non payés. Lorsque le prêteur est amené à demander la résolution du contrat, il peut exiger
+le remboursement immédiat du capital versé, ainsi que le paiement des intérêts échus. Jusqu'au règlement effectif, les sommes
+restant dues produisent des intérêts de retard à un taux égal au taux du prêt. En outre, le prêteur peut demander à
+l'emprunteur défaillant une indemnité qui, sans préjudice de l'application des articles 1152 et 1231 du code civil, ne peut
+excéder un montant qui, dépendant de la durée restant à courir du contrat, est fixé suivant un barème déterminé par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 24
+
+	**Cité par**:
+
+	  - Décret n°2015-1849 du 29 décembre 2015 - art. 2 (V)
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 7 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1152 (M)
+	  - Code civil - art. 1231 (M)
 
 
 ##### Section 7 : Sanctions
@@ -25806,7 +25938,7 @@ l'informatique, aux fichiers et aux libertés.
 
 Ce fichier a pour finalité de fournir aux établissements de crédit et aux sociétés de financement mentionnés au titre Ier du
 livre V du code monétaire et financier, aux établissements de monnaie électronique et aux établissements de paiement
-mentionnés au titre II du même livre V et aux organismes mentionnés au 5 de l'article L. 511-6 du même code un élément
+mentionnés au titre II du même livre V et aux organismes mentionnés aux 5 et 8 de l'article L. 511-6 du même code un élément
 d'appréciation de la solvabilité des personnes qui sollicitent un crédit. Toutefois, l'inscription d'une personne physique au
 sein du fichier n'emporte pas interdiction de délivrer un crédit. 
 
@@ -25814,7 +25946,11 @@ Le fichier peut fournir un élément d'appréciation à l'usage des établisseme
 électronique et des établissements de paiement dans leurs décisions d'attribution des moyens de paiement. 
 
 Les informations qu'il contient peuvent également être prises en compte par les entreprises mentionnées au deuxième alinéa
-pour la gestion des risques liés aux crédits souscrits par leurs clients. 
+pour la gestion des risques liés aux crédits souscrits par leurs clients.
+
+L'organisme de caution mentionné à l'article 26-7 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété
+des immeubles bâtis peut consulter le fichier mentionné au présent article, pour les copropriétaires participant à l'emprunt
+mentionné à l'article 26-4 de cette même loi.  
 
 II.-Les entreprises mentionnées au deuxième alinéa du I sont tenus de déclarer à la Banque de France, dans des conditions
 précisées par arrêté, les incidents de paiement caractérisés définis par l'arrêté mentionné à l'article L. 333-5. Dès la
@@ -25917,8 +26053,7 @@ mentionnées au deuxième alinéa du I du présent article est punie des peines 
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 68 (V)
-	  - Loi n°2014-344 du 17 mars 2014 - art. 43 (M)
+	  - Loi n°2015-992 du 17 août 2015 - art. 23
 
 	**Liens**:
 
