@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-08-19 00:00:01 +0200
+Version Consolidée au 2015-08-22
 
 # Partie législative
 
@@ -10660,7 +10660,7 @@ I.-Sont recherchés et constatés, dans les conditions fixées par les articles 
 1° Le chapitre préliminaire du titre II du livre Ier ; 
 
 2° Les sections 1 à 4 
-  _bis_, 8, 9, 12 et 15 du chapitre Ier du titre II du livre Ier ; 
+  _bis_, 8,9,12 et 15 du chapitre Ier du titre II du livre Ier ; 
 
 3° Les sections 3 à 6 du chapitre II du titre II du livre Ier ; 
 
@@ -10668,21 +10668,21 @@ I.-Sont recherchés et constatés, dans les conditions fixées par les articles 
 
 5° Le chapitre II du titre Ier du livre III ; 
 
-6° Les sections 1, 3, 6 et 7 du chapitre III du titre Ier du livre III ; 
+6° Les sections 1,3,6 et 7 du chapitre III du titre Ier du livre III ; 
 
 7° La section 7 du chapitre IV du titre Ier du livre III ; 
 
 8° Le chapitre II du titre II du livre III. 
 
 Les agents habilités peuvent procéder à des prélèvements d'échantillons. La section 4 du chapitre V du titre Ier du livre II
-du présent code et les textes pris pour son application s'appliquent à ces prélèvements.
+du présent code et les textes pris pour son application s'appliquent à ces prélèvements. 
 
 II.-Sont recherchés et constatés, dans les mêmes conditions qu'au I, à l'exception des pouvoirs d'enquête de l'article L.
 450-4 du code de commerce, les infractions ou manquements aux dispositions suivantes du présent code : 
 
 1° Les chapitres Ier, III et IV du titre Ier du livre Ier ; 
 
-2° Les sections 5, 6, 11 et 14 du chapitre Ier du titre II du livre Ier ; 
+2° Les sections 5,6,11 et 14 du chapitre Ier du titre II du livre Ier ; 
 
 3° Les sections 1 et 2 du chapitre II du titre II du livre Ier ; 
 
@@ -10690,7 +10690,9 @@ II.-Sont recherchés et constatés, dans les mêmes conditions qu'au I, à l'exc
 
 5° Les chapitres Ier, III, IV, VI et VIII du titre III du livre Ier ; 
 
-6° Le chapitre Ier du titre Ier du livre II. 
+6° Le chapitre Ier du titre Ier du livre II ; 
+
+7° Le chapitre VI du titre V du livre Ier. 
 
 III.-Sont recherchés et constatés, dans les conditions fixées au I, les infractions ou manquements aux dispositions : 
 
@@ -10720,12 +10722,12 @@ passagers voyageant par mer ou par voie de navigation intérieure et modifiant l
 8° Du règlement (UE) n° 181/2011 du Parlement européen et du Conseil, du 16 février 2011, concernant les droits des passagers
 dans le transport par autobus et autocar et modifiant le règlement (CE) n° 2006/2004 ; 
 
-8° bis Des articles L. 3121-11-2 et L. 3122-2 du code des transports ;
+8° bis Des articles L. 3121-11-2 et L. 3122-2 du code des transports ; 
 
 9° Des articles L. 311-4, L. 311-6, L. 311-7, de l'avant-dernier alinéa de l'article L. 313-1-2, en ce qui concerne le
 contrat et le livret d'accueil, et de l'article L. 347-1 du code de l'action sociale et des familles ; 
 
-10° Des articles L. 271-1, L. 271-2 et L. 271-6 du code de la construction et de l'habitation ;
+10° Des articles L. 271-1, L. 271-2 et L. 271-6 du code de la construction et de l'habitation ; 
 
 11° De l'article 6 de la loi n° 89-421 du 23 juin 1989 relative à l'information et à la protection des consommateurs ainsi
 qu'à diverses pratiques commerciales ; 
@@ -10740,12 +10742,12 @@ concernant les paiements transfrontaliers dans la Communauté et abrogeant le r�
 
 15° Du d du 3, du 8 de l'article 5 et des articles 8 et 16 du règlement (UE) n° 260/2012 du Parlement européen et du Conseil,
 du 14 mars 2012, établissant des exigences techniques et commerciales pour les virements et les prélèvements en euros et
-modifiant le règlement (CE) n° 924/2009 ;
+modifiant le règlement (CE) n° 924/2009 ; 
 
 16° De l'article L. 165-9 du code de la sécurité sociale. 
 
-III bis. - Sont recherchés et constatés, dans les conditions fixées au II du présent article, les manquements aux
-dispositions :
+III bis.-Sont recherchés et constatés, dans les conditions fixées au II du présent article, les manquements aux
+dispositions : 
 
 1° Du troisième alinéa de l'article 10 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions
 judiciaires et juridiques, dans le respect du secret professionnel mentionné à l'article 66-5 de la même loi ; 
@@ -10753,7 +10755,7 @@ judiciaires et juridiques, dans le respect du secret professionnel mentionné à
 2° Du deuxième alinéa de l'article 15 de l'ordonnance du 10 septembre 1817 qui réunit, sous la dénomination d'Ordre des
 avocats au Conseil d'Etat et à la Cour de cassation, l'ordre des avocats aux conseils et le collège des avocats à la Cour de
 cassation, fixe irrévocablement, le nombre des titulaires, et contient des dispositions pour la discipline intérieure de
-l'Ordre, dans le respect du secret professionnel mentionné à l'article 15-2 de la même ordonnance.
+l'Ordre, dans le respect du secret professionnel mentionné à l'article 15-2 de la même ordonnance. 
 
 IV.-Le secret professionnel ne peut être opposé aux agents agissant dans le cadre des pouvoirs qui leur sont conférés par le
 présent article. 
@@ -10823,21 +10825,24 @@ législation en matière de protection des consommateurs.
 	**Cite**:
 
 	  - Loi n°70-9 du 2 janvier 1970
+	  - Loi n°71-1130 du 31 décembre 1971 - art. 10 (V)
 	  - Loi n°78-17 du 6 janvier 1978
 	  - Loi n°86-1290 du 23 décembre 1986
 	  - Loi n°89-421 du 23 juin 1989 - art. 6
 	  - Loi n°89-462 du 6 juillet 1989 - art. 4
 	  - Loi n°2004-575 du 21 juin 2004
 	  - Code de commerce - art. L450-1
-	  - Code de commerce - art. L450-3 (V)
+	  - Code de commerce - art. L450-3
 	  - Code de commerce - art. L450-7
 	  - Code monétaire et financier - art. L112-6
+	  - Code de la sécurité sociale. - art. L165-9 (V)
 	  - Code de l'action sociale et des familles - art. L311-4
 	  - Code de l'action sociale et des familles - art. L311-6
 	  - Code de l'action sociale et des familles - art. L313-1-2
 	  - Code de l'action sociale et des familles - art. L347-1
-	  - Code de la construction et de l'habitation. - art. L271-6
 	  - Code de la route. - art. L213-2
+	  - Code des transports - art. L3121-11-2 (V)
+	  - Code des transports - art. L3121-2 (V)
 
 	**Cité par**:
 
@@ -10895,12 +10900,7 @@ législation en matière de protection des consommateurs.
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 210
-	  - Loi n°2015-990 du 6 août 2015 - art. 29
-	  - Loi n°2015-990 du 6 août 2015 - art. 40
-	  - Loi n°2015-990 du 6 août 2015 - art. 44
-	  - Loi n°2015-990 du 6 août 2015 - art. 51 (V)
-	  - Loi n°2015-990 du 6 août 2015 - art. 58
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
 
 
 ###### Article L141-1-1
@@ -11246,6 +11246,826 @@ l'ordonnance n° 2011-1875 du 15 décembre 2011.
 	**Abrogé par**:
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
+### Titre V : Médiation des litiges de la consommation
+
+
+
+
+
+
+
+#### Chapitre Ier : Définitions et champ d'application 
+
+###### Article L151-1
+
+Au sens du présent titre, on entend par : 
+
+a) “ Professionnel ” : toute personne physique ou toute personne morale, qu'elle soit publique ou privée, qui agit, y compris
+par l'intermédiaire d'une personne agissant en son nom ou pour son compte, aux fins qui entrent dans le cadre de son activité
+commerciale, industrielle, artisanale ou libérale ; 
+
+b) “ Litige national ” : un litige de nature contractuelle entre un consommateur et un professionnel portant sur l'exécution
+d'un contrat de vente ou de fourniture de services, lorsqu'au moment de sa conclusion, le consommateur réside dans le même
+Etat membre que celui du lieu d'établissement du professionnel ; 
+
+c) “ Litige transfrontalier ” : un litige de nature contractuelle entre un consommateur et un professionnel portant sur
+l'exécution d'un contrat de vente ou de fourniture de services, lorsqu'au moment de sa conclusion le consommateur réside dans
+un Etat membre autre que celui du lieu d'établissement du professionnel ; 
+
+d) “ Contrat de vente ” : tout contrat au sens de l'article 1582 du code civil, ainsi que tout contrat ayant à la fois pour
+objet la vente d'un bien et la fourniture d'un service, conclu entre un professionnel et un consommateur ; 
+
+e) “ Contrat de prestation de services ” : tout contrat ayant pour objet la fourniture d'un service par le professionnel en
+contrepartie duquel le consommateur s'engage à payer le prix ; 
+
+f) “ Médiation des litiges de la consommation ” : un processus de médiation conventionnelle, tel que défini à l'article 21 de
+la loi n° 95-125 du 8 février 1995 relative à l'organisation des juridictions et de la procédure civile, pénale et
+administrative ou un autre processus de médiation conventionnelle prévu par la loi ; 
+
+g) “ Médiateur de la consommation ” : la personne physique ou la personne morale accomplissant une mission de médiation
+conventionnelle ; 
+
+h) “ Médiateur public ” : médiateur désigné par une autorité publique dans les conditions fixées par la loi, laquelle
+détermine également son statut, son champ de compétences dans le domaine des litiges prévus au présent titre et ses modalités
+d'intervention.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 21
+	  - Code civil - art. 1582
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L151-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L611-1 (V)
+
+
+###### Article L151-2
+
+La médiation de la consommation s'applique à un litige national ou transfrontalier entre un consommateur et un professionnel.
+Elle est régie par les dispositions du présent titre ainsi que, dans la mesure où elles ne leur sont pas contraires, par
+celles du chapitre Ier du titre II de la loi du 8 février 1995 mentionnée à l'article L. 151-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°95-125 du 8 février 1995
+	  - Code de la consommation - art. L151-1 (VT)
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L611-2 (V)
+
+
+###### Article L151-3
+
+La médiation des litiges de la consommation ne s'applique pas : 
+
+a) Aux litiges entre professionnels ; 
+
+b) Aux réclamations portées par le consommateur auprès du service clientèle du professionnel ; 
+
+c) Aux négociations directes entre le consommateur et le professionnel ; 
+
+d) Aux tentatives de conciliation ou de médiation ordonnées par un tribunal saisi du litige de consommation ; 
+
+e) Aux procédures introduites par un professionnel contre un consommateur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L611-3 (V)
+
+
+###### Article L151-4
+
+Ne sont pas considérés comme des litiges de consommation, au sens du présent titre, les litiges concernant : 
+
+a) Les services d'intérêt général non économiques ; 
+
+b) Les services de santé fournis par des professionnels de la santé aux patients pour évaluer, maintenir ou rétablir leur
+état de santé, y compris la prescription, l'administration et la fourniture de médicaments et de dispositifs médicaux ; 
+
+c) Les prestataires publics de l'enseignement supérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L611-4 (V)
+
+
+#### Chapitre II : Le processus de médiation des litiges de la consommation 
+
+
+
+
+
+
+###### Article L152-1
+
+Tout consommateur a le droit de recourir gratuitement à un médiateur de la consommation en vue de la résolution amiable du
+litige qui l'oppose à un professionnel. A cet effet, le professionnel garantit au consommateur le recours effectif à un
+dispositif de médiation de la consommation. 
+
+Le professionnel peut mettre en place son propre dispositif de médiation de la consommation ou proposer au consommateur le
+recours à tout autre médiateur de la consommation répondant aux exigences du présent titre. 
+
+Lorsqu'il existe un médiateur de la consommation dont la compétence s'étend à l'ensemble des entreprises d'un domaine
+d'activité économique dont il relève, le professionnel permet toujours au consommateur d'y recourir. 
+
+Un décret en Conseil d'Etat précise les modalités selon lesquelles le processus de médiation est mis en œuvre.
+
+**Nota:**
+
+Ordonnance n° 2015-1033 du 20 aoput 2015, article 7 : Les professionnels disposent d'un délai de deux mois à compter de la
+publication du décret mentionné à l'article L. 152-1 du code de la consommation dans sa rédaction issue de la présente
+ordonnance pour se conformer à l'ensemble des dispositions de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L612-1 (V)
+
+
+###### Article L152-2
+
+Un litige ne peut être examiné par le médiateur de la consommation lorsque : 
+
+a) Le consommateur ne justifie pas avoir tenté, au préalable, de résoudre son litige directement auprès du professionnel par
+une réclamation écrite selon les modalités prévues, le cas échéant, dans le contrat ; 
+
+b) La demande est manifestement infondée ou abusive ; 
+
+c) Le litige a été précédemment examiné ou est en cours d'examen par un autre médiateur ou par un tribunal ; 
+
+d) Le consommateur a introduit sa demande auprès du médiateur dans un délai supérieur à un an à compter de sa réclamation
+écrite auprès du professionnel ; 
+
+e) Le litige n'entre pas dans son champ de compétence. 
+
+Le consommateur est informé par le médiateur, dans un délai de trois semaines à compter de la réception de son dossier, du
+rejet de sa demande de médiation.
+
+**Nota:**
+
+Conformément à l'article 7 de l'ordonnance n° 2015-1033 du 20 août 2015, les professionnels disposent d'un délai de deux mois
+à compter de la publication du décret mentionné à l'article L. 152-1 du code de la consommation dans sa rédaction issue de la
+présente ordonnance pour se conformer à l'ensemble des dispositions de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. L122-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L612-2 (V)
+
+
+###### Article L152-3
+
+La médiation des litiges de consommation est soumise à l'obligation de confidentialité prévue par l'article 21-3 de la loi n°
+95-125 du 8 février 1995 relative à l'organisation des juridictions et de la procédure civile, pénale et administrative.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 21-3
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L612-3 (V)
+
+
+###### Article L152-4
+
+Est interdite toute clause ou convention obligeant le consommateur, en cas de litige, à recourir obligatoirement à une
+médiation préalablement à la saisine du juge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L612-4 (V)
+
+
+###### Article L152-5
+
+Lorsqu'un médiateur public est compétent pour procéder à la médiation d'un litige de consommation, ce litige ne peut donner
+lieu à d'autres procédures de médiation conventionnelle, au sens du présent titre, sous réserve de l'existence d'une
+convention, notifiée à la commission d'évaluation et de contrôle de la médiation mentionnée à l'article L. 155-1, qui
+répartit les litiges entre les médiateurs concernés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L612-5 (V)
+
+
+#### Chapitre III : Le statut du médiateur de la consommation 
+
+
+
+###### Article L153-1
+
+Le médiateur de la consommation accomplit sa mission avec diligence et compétence, en toute indépendance et impartialité,
+dans le cadre d'une procédure transparente, efficace et équitable. 
+
+Il établit chaque année un rapport sur son activité. 
+
+Il satisfait aux conditions suivantes : 
+
+a) Posséder des aptitudes dans le domaine de la médiation ainsi que de bonnes connaissances juridiques, notamment dans le
+domaine de la consommation ; 
+
+b) Etre nommé pour une durée minimale de trois années ; 
+
+c) Etre rémunéré sans considération du résultat de la médiation ; 
+
+d) Ne pas être en situation de conflit d'intérêts et le cas échéant le signaler. 
+
+Il est inscrit sur la liste des médiateurs notifiée à la Commission européenne. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L153-3 (VT)
+	  - Code de la consommation - art. L154-1 (VT)
+	  - Code de la consommation - art. L155-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L613-1 (V)
+
+
+###### Article L153-2
+
+Lorsqu'il est employé ou rémunéré exclusivement par le professionnel, le médiateur de la consommation satisfait aux
+conditions supplémentaires suivantes : 
+
+a) Il est désigné, selon une procédure transparente, par un organe collégial mis en place par l'entreprise, comprenant des
+représentants d'associations de consommateurs agréées et des représentants du professionnel, ou relevant d'une instance
+nationale consultative dans le domaine de la consommation ou propre à un secteur d'activité dans des conditions fixées par
+décret ; 
+
+b) A l'issue de son mandat, le médiateur a l'interdiction de travailler pendant au moins trois ans pour le professionnel qui
+l'a employé ou pour la fédération à laquelle ce professionnel est affilié ; 
+
+c) Aucun lien hiérarchique ou fonctionnel entre le professionnel et le médiateur ne peut exister pendant l'exercice de sa
+mission de médiation. Le médiateur est clairement séparé des organes opérationnels du professionnel et dispose d'un budget
+distinct et suffisant pour l'exécution de ses missions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2015-1607 du 7 décembre 2015 (V)
+	  - Code de la consommation - art. D153-2 (Ab)
+	  - Code de la consommation - art. D511-1 (Ab)
+	  - Code monétaire et financier - art. L614-1 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L613-2 (V)
+
+
+###### Article L153-3
+
+Lorsque le médiateur de la consommation est employé ou rémunéré exclusivement par un organisme ou une fédération
+professionnelle, il répond aux exigences prévues par l'article L. 153-1 et dispose d'un budget distinct et suffisant pour
+mener à bien sa mission, hormis le cas où il appartient à un organe collégial, composé à parité de représentants
+d'associations de consommateurs agréés et de représentants des professionnels.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L153-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L613-3 (V)
+
+
+#### Chapitre IV : Les obligations de communication du médiateur de la consommation
+
+###### Article L154-1
+
+Tout médiateur de la consommation met en place un site internet consacré à la médiation et fournissant un accès direct aux
+informations relatives au processus de médiation. Ce site permet aux consommateurs de déposer en ligne une demande de
+médiation accompagnée des documents justificatifs. Sur demande, ces informations peuvent être mises à disposition sur un
+autre support durable. 
+
+La liste de ces informations et le rapport annuel mentionné à l'article L. 153-1 sont mis à la disposition du public et
+communiqués par le médiateur, dans les conditions et selon les modalités fixées par décret en Conseil d'Etat. 
+
+Les parties doivent toujours avoir la possibilité de recourir à la médiation par voie postale. 
+
+Le médiateur fournit sur son site internet un lien électronique vers la plate-forme européenne de résolution en ligne des
+litiges prévue par le règlement (UE) n° 524/2013 du Parlement européen et du Conseil du 21 mai 2013 relatif au règlement en
+ligne des litiges de consommation et modifiant le règlement (CE) n° 2006/2004 et la directive 2009/22/ CE.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L153-1
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L157-1 (VT)
+	  - Code de la consommation - art. R154-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L614-1 (V)
+	  - Code de la consommation - art. L614-2 (V)
+	  - Code de la consommation - art. L614-3 (V)
+	  - Code de la consommation - art. L614-4 (V)
+
+
+###### Article L154-2
+
+Le médiateur de la consommation communique à la commission d'évaluation et de contrôle de la médiation de la consommation
+mentionnée à l'article L. 155-1 les informations relatives à ses compétences, son organisation et son activité dont la liste
+est fixée par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L614-5 (V)
+
+
+#### Chapitre V : La commission d'évaluation et de contrôle de la médiation de la consommation
+
+###### Article L155-1
+
+Il est créé auprès du ministre chargé de l'économie une commission d'évaluation et de contrôle de la médiation de la
+consommation. 
+
+Cette commission est composée d'un conseiller d'Etat, d'un conseiller à la Cour de cassation en activité ou honoraire, de
+personnalités qualifiées, de représentants d'associations de consommateurs agréées au plan national et de représentants
+d'organisations professionnelles. 
+
+Les membres sont nommés par arrêté du ministre chargé de l'économie pour une durée de trois ans renouvelable, sur proposition
+du vice-président du Conseil d'Etat pour le conseiller d'Etat et sur proposition du premier président de la Cour de cassation
+pour le conseiller à la Cour de cassation. 
+
+Un président et un vice-président sont choisis entre le conseiller d'Etat et le conseiller à la Cour de cassation. 
+
+Des suppléants sont désignés en nombre égal et dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L155-3 (VT)
+	  - Code de la consommation - art. R154-3 (Ab)
+	  - Code de la consommation - art. R155-1 (Ab)
+	  - Code monétaire et financier - art. L316-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R615-1 (V)
+	  - Code de la consommation - art. R615-2 (V)
+
+
+###### Article L155-2
+
+La commission d'évaluation et de contrôle de la médiation de la consommation a pour mission : 
+
+a) D'établir et de mettre à jour la liste des médiateurs, y compris les médiateurs publics, qui satisfont aux exigences
+prévues par les articles L. 153-1 à L. 153-3 ; 
+
+b) De procéder à la notification des médiateurs inscrits sur ladite liste auprès de la Commission européenne ; 
+
+c) D'évaluer leur activité de médiation et d'en contrôler la régularité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L153-1 (VT)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L155-5 (VT)
+	  - Code de la consommation - art. R154-1 (Ab)
+	  - Code de la consommation - art. R154-3 (Ab)
+	  - Code de la consommation - art. R155-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L615-1 (V)
+
+
+###### Article L155-3
+
+Si un médiateur ne satisfait pas aux conditions exigées, la commission d'évaluation et de contrôle de la médiation de la
+consommation refuse son inscription sur la liste prévue par l'article L. 155-1. S'il est déjà inscrit et qu'il ne répond plus
+à ces conditions ou ne respecte pas les obligations lui incombant, la commission peut décider du retrait de l'intéressé de
+cette liste. 
+
+La décision prononçant le refus d'inscription ou le retrait de la liste est prise dans des conditions et suivant la procédure
+fixées par décret en Conseil d'Etat. Elle est motivée et notifiée à l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L155-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L615-2 (V)
+
+
+###### Article L155-4
+
+La commission d'évaluation et de contrôle de la médiation de la consommation peut être saisie par le ministre chargé de
+l'économie, par le ministre chargé de la consommation, par l'Autorité de contrôle prudentiel et de résolution, par les
+associations de consommateurs agréées, par les organisations professionnelles de toute pratique de médiation ou de toute
+condition d'exercice de l'activité de médiateur considérée comme contraire aux dispositions du présent titre. Elle peut
+également se saisir d'office. 
+
+La commission rend son avis dans un délai maximal de trois mois à compter de sa saisine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L615-3 (V)
+
+
+###### Article L155-5
+
+La commission d'évaluation et de contrôle de la médiation de la consommation peut faire appel à des rapporteurs appartenant
+aux services de l'Etat en charge des secteurs d'activité concernés pour l'instruction des dossiers nécessaires à
+l'établissement de la liste des médiateurs notifiée à la Commission européenne, ainsi que pour leur évaluation, conformément
+à l'article L. 155-2. 
+
+A cette même fin, la commission d'évaluation et de contrôle de la médiation de la consommation peut également saisir, pour
+avis, les autorités publiques indépendantes et les autorités administratives indépendantes, dans les domaines d'activité où
+elles interviennent. 
+
+Dans l'exercice de ses missions, la commission d'évaluation et de contrôle de la médiation de la consommation coopère avec
+ses homologues étrangers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L155-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R615-4 (V)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L612-1 (V)
+
+
+###### Article L155-6
+
+Un décret pris en Conseil d'Etat précise la composition, l'organisation, les moyens et les modalités de fonctionnement de la
+commission d'évaluation et de contrôle de la médiation de la consommation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L615-4 (V)
+
+
+#### Chapitre VI : L'information et l'assistance du consommateur 
+
+
+
+###### Article L156-1
+
+Tout professionnel communique au consommateur, selon des modalités fixées par décret pris en Conseil d'Etat, les coordonnées
+du ou des médiateurs compétents dont il relève. Le professionnel est également tenu de fournir cette même information au
+consommateur, dès lors qu'un litige n'a pas pu être réglé dans le cadre d'une réclamation préalable directement introduite
+auprès de ses services.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L156-3 (VT)
+	  - Code de la consommation - art. R156-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L616-1 (V)
+
+
+###### Article L156-2
+
+Le cas échéant, il informe en outre le consommateur des dispositions prises pour mettre en œuvre l'article 14 du règlement
+(UE) n° 524/2013 du Parlement européen et du Conseil du 21 mai 2013 relatif au règlement en ligne des litiges de consommation
+et modifiant le règlement (CE) n° 2006/2004 et la directive 2009/22/ CE.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L157-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L616-2 (V)
+
+
+###### Article L156-3
+
+Tout manquement aux articles L. 156-1 et L. 156-2 est passible d'une amende administrative dont le montant ne peut excéder 3
+000 € pour une personne physique et 15 000 € pour une personne morale dans les conditions prévues à l'article L. 141-1-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L141-1-2
+	  - Code de la consommation - art. L156-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L641-1 (V)
+
+
+###### Article L156-4
+
+En cas de litige transfrontalier, tout consommateur bénéficie, selon des modalités fixées par décret pris en Conseil d'Etat,
+de l'assistance et des informations nécessaires pour être orienté vers l'entité de règlement extrajudiciaire des litiges de
+consommation compétente dans un autre Etat membre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L616-3 (V)
+
+
+#### Chapitre VII : Dispositions relatives à l'outre-mer 
+
+###### Article L157-1
+
+Pour l'application de l'article L. 154-1 à Saint-Barthélemy et à Saint-Pierre-et-Miquelon, les mots : “ le règlement (UE) n°
+524/2013 du Parlement européen et du Conseil du 21 mai 2013 relatif au règlement en ligne des litiges de consommation et
+modifiant le règlement (CE) n° 2006/2004 et la directive 2009/22/ CE ” sont remplacés par les mots : “ les règles en vigueur
+en métropole en vertu des dispositions du règlement (UE) n° 524/2013 du Parlement européen et du Conseil du 21 mai 2013
+relatif au règlement en ligne des litiges de consommation et modifiant le règlement (CE) n° 2006/2004 et la directive
+2009/22/ CE ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L154-1 (VT)
+
+
+###### Article L157-2
+
+Pour l'application de l'article L. 156-2 à Saint-Barthélemy et à Saint-Pierre-et-Miquelon, les mots : “ l'article 14 du
+règlement (UE) n° 524/2013 du Parlement européen et du Conseil du 21 mai 2013 relatif au règlement en ligne des litiges de
+consommation et modifiant le règlement (CE) n° 2006/2004 et la directive 2009/22/ CE ” sont remplacés par les mots : “ les
+règles en vigueur en métropole en vertu des dispositions de l'article 14 du règlement (UE) n° 524/2013 du Parlement européen
+et du Conseil du 21 mai 2013 relatif au règlement en ligne des litiges de consommation et modifiant le règlement (CE) n°
+2006/2004 et la directive 2009/22/ CE. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L156-2 (VT)
 
 
 ## Livre II : Conformité et sécurité des produits et des services
@@ -28524,58 +29344,38 @@ sauf si celle-ci fait usage, par décision motivée, de la faculté qui lui a é
 	  - Code de la consommation - art. R534-8 (Ab)
 
 
-###### Article L534-7
+###### Article L534-8
 
-La commission de la médiation de la consommation est chargée d'émettre des avis et de proposer des mesures de toute nature
-pour évaluer, améliorer et diffuser les pratiques de médiation non judiciaires en matière de consommation. Elle n'est
-toutefois pas compétente pour les activités mentionnées aux articles L. 133-25, L. 316-1, L. 615-2 et L. 621-19 du code
-monétaire et financier et à l'article L. 112-2 du code des assurances.
+Les commissions mentionnées aux articles L. 534-1 et L. 534-4 assurent la diffusion des informations, avis et recommandations
+qu'elles estiment nécessaires de porter à la connaissance du public. Les informations, avis et recommandations diffusés par
+la commission mentionnée à l'article L. 534-1 ne peuvent contenir aucune indication de nature à permettre l'identification de
+situations individuelles.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-100 du 28 janvier 2013 - art. 23
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
 
 	**Abrogé par**:
 
-	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
-
-	**Cité par**:
-
-	  - Code de la consommation - art. R531-4 (Ab)
-	  - Code de la consommation - art. R531-9 (Ab)
-	  - Code de la consommation - art. R534-11 (Ab)
-	  - Code de la consommation - art. R534-13 (Ab)
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L133-25
-	  - Code monétaire et financier - art. L316-1 (M)
-	  - Code monétaire et financier - art. L615-2 (Ab)
-	  - Code monétaire et financier - art. L621-19 (M)
-	  - Code des assurances - art. L112-2 (V)
+	  - Code de la consommation - art. L534-1
+	  - Code de la consommation - art. L534-4
 
+	**Nouveaux textes**:
 
-###### Article L534-8
-
-Les commissions mentionnées aux articles L. 534-1, L. 534-4 et L. 534-7 assurent la diffusion des informations, avis et
-recommandations qu'elles estiment nécessaires de porter à la connaissance du public. Les informations, avis et
-recommandations diffusés par la commission mentionnée à l'article L. 534-1 ne peuvent contenir aucune indication de nature à
-permettre l'identification de situations individuelles.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+	  - Code de la consommation - art. L822-9 (M)
 
 
 ###### Article L534-9
 
-Les commissions mentionnées aux articles L. 534-1, L. 534-4 et L. 534-7 peuvent se faire communiquer tous les renseignements
-ou consulter sur place tous les documents qu'elles estiment utiles à l'accomplissement de leurs missions respectives, sans
-que puissent leur être opposés les articles 226-13 et 226-14 du code pénal et L. 1227-1 du code du travail. 
+Les commissions mentionnées aux articles L. 534-1 et L. 534-4 peuvent se faire communiquer tous les renseignements ou
+consulter sur place tous les documents qu'elles estiment utiles à l'accomplissement de leurs missions respectives, sans que
+puissent leur être opposés les articles 226-13 et 226-14 du code pénal et L. 1227-1 du code du travail. 
 
 Les présidents de ces commissions peuvent, par décision motivée, procéder ou faire procéder par les membres des commissions
 ou les agents de l'Institut national de la consommation désignés par le directeur général de celui-ci à la convocation ou à
@@ -28591,9 +29391,24 @@ utiles et porte à la connaissance de la commission les informations obtenues.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L534-1
+	  - Code de la consommation - art. L534-4
+	  - Code pénal - art. 226-13
+	  - Code du travail - art. L1227-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L822-10 (M)
 
 	**Cité par**:
 
@@ -28602,16 +29417,31 @@ utiles et porte à la connaissance de la commission les informations obtenues.
 
 ###### Article L534-10
 
-Les membres et le personnel des commissions mentionnées aux articles L. 534-1, L. 534-4 et L. 534-7 sont astreints au secret
+Les membres et le personnel des commissions mentionnées aux articles L. 534-1 et L. 534-4 sont astreints au secret
 professionnel pour les faits, actes et renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions, dans
 les conditions et sous les peines prévues à l'article 226-13 du code pénal ou à l'article L. 621-1 du code de la propriété
 intellectuelle en cas de divulgation d'informations relevant du secret de fabrication ou d'affaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 62
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L621-1
+	  - Code de la consommation - art. L534-1 (VT)
+	  - Code de la consommation - art. L534-4 (VT)
+	  - Code pénal - art. 226-13
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L822-11 (M)
 
 	**Cité par**:
 
