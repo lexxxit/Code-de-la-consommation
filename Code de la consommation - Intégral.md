@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-08-22
+Version Consolidée au 2015-10-01
 
 # Partie législative
 
@@ -36695,6 +36695,65 @@ l'emprunteur.
 	  - Code de la consommation - art. L312-3-1
 
 
+##### Section 2 : Publicité et information de l'emprunteur
+
+###### Article R312-0-1
+
+I.-La fiche standardisée d'information mentionnée à l'article L. 312-6-2 énonce de manière claire et lisible les principales
+caractéristiques de l'assurance ayant pour objet de garantir le remboursement d'un prêt soumis aux dispositions du chapitre
+II du titre Ier du livre III du présent code. 
+
+II.-Cette fiche spécifie notamment : 
+
+1° La définition et la description des types de garanties proposées au titre de l'assurance à l'emprunteur ; 
+
+2° Le cas échéant, les caractéristiques des garanties minimales exigées par le prêteur pour l'octroi du prêt immobilier ; 
+
+3° Les types de garanties que l'emprunteur envisage de choisir parmi les garanties mentionnées au 1° et la part du capital
+emprunté à couvrir ; 
+
+4° Une estimation personnalisée du coût de la solution d'assurance envisagée, sur la base des éléments connus lors de la
+remise de la fiche, portant sur les éléments suivants : 
+
+a) Le coût en euros et par période selon la périodicité de paiement ; 
+
+b) Le coût total de l'assurance en euros sur la durée envisagée du prêt ; 
+
+c) Le taux annuel effectif de l'assurance relatif à la totalité du prêt, défini à l'article R. 313-5-2 ; 
+
+5° La mention de la possibilité pour l'emprunteur de souscrire une assurance ayant pour objet de garantir le remboursement
+d'un prêt auprès de l'assureur de son choix mentionnée à l'article L. 312-9 et les conditions et délais dans lesquels elle
+peut s'exercer. 
+
+III.-Une fiche est remise à chaque emprunteur ou co-emprunteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-460 du 22 avril 2015 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 29 avril 2015 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L312-6-2
+	  - Code de la consommation - art. L312-9
+	  - Code de la consommation - art. R313-5-2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R313-10 (V)
+	  - Code de la consommation - art. R313-8 (V)
+	  - Code de la consommation - art. R313-9 (V)
+
+
 ##### Section 3 : Le contrat de crédit
 
 ###### Article R312-1
@@ -36764,6 +36823,102 @@ en vue duquel le prêt a été demandé n'est pas conclu, est limité à 0,75 % 
 	**Cité par**:
 
 	  - Code de la consommation - art. R315-2 (Ab)
+
+
+###### Article R312-1-2
+
+Lorsque l'emprunteur souhaite faire usage de la faculté de substitution du contrat d'assurance prévue à l'article L. 312-9
+avant l'émission de l'offre de prêt mentionnée à l'article L. 312-7, le prêteur et l'assureur délégué échangent les
+informations suivantes :
+
+1° Le prêteur transmet à l'assureur délégué, par l'intermédiaire du candidat à l'emprunt, pour chacun des prêts concernés,
+les informations suivantes :
+
+a) Le capital initial ;
+
+b) La durée initiale exprimée en mois ;
+
+c) Le taux d'intérêt nominal et sa nature fixe ou variable ;
+
+d) Les tableaux d'amortissement, le cas échéant prévisionnels, ou les informations suivantes, le cas échéant
+prévisionnelles : le nombre, le montant et la périodicité des échéances de remboursement du crédit et, le cas échéant, la
+durée et la nature des différés d'amortissement et les paliers d'échéances ;
+
+e) Le montant des frais, commissions ou rémunérations mentionnés au premier alinéa de l'article L. 313-1 ;
+
+f) La date souhaitée de la prise d'effet des garanties ;
+
+g) Les types de garanties exigées et la part du capital emprunté à couvrir pour l'octroi du prêt, garantie par garantie ;
+
+h) Le rappel des critères servant à apprécier l'équivalence du niveau de garantie mentionnée à l'article L. 312-9, par type
+de garanties exigées, après analyse de la situation personnelle du candidat à l'emprunt ;
+
+2° Après que l'assureur délégué s'est engagé à accorder sa garantie, celui-ci transmet au prêteur, par l'intermédiaire de
+l'emprunteur, pour chacun des prêts concernés, les informations suivantes :
+
+a) Les informations nécessaires au calcul du taux effectif global du crédit sur la base des garanties exigées par le prêteur
+mentionnées au g et au h du 1°, la quotité assurée par tête et par type de garantie et le montant assuré par type de
+garantie ;
+
+b) Le coût total en euros sur la durée du prêt des garanties exigées par le prêteur au titre de l'assurance, nécessaire au
+calcul du taux effectif global du crédit, ainsi que l'échéancier des primes d'assurance ;
+
+c) La date d'effet, le cas échéant prévisionnelle, des garanties et la date de cessation de ces garanties ;
+
+3° Le prêteur et l'assureur délégué transmettent ces informations en mentionnant leurs coordonnées et, pour les personnes
+inscrites au répertoire national mentionné à l'article R. 123-220 du code de commerce, leur numéro SIREN ;
+
+4° Lorsque des informations relevant du 1° ou du 2° sont remises à l'emprunteur par un intermédiaire mentionné à l'article L.
+519-1 du code monétaire et financier, ce dernier indique les mentions prévues à l'article R. 519-24 du même code. Lorsque ces
+informations sont remises par un intermédiaire mentionné à l'article L. 511-1 du code des assurances, ce dernier indique les
+mentions prévues à l'article R. 520-3 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-494 du 29 avril 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. R123-220
+	  - Code monétaire et financier - art. L519-1
+	  - Code des assurances - art. L511-1
+
+
+###### Article R312-1-3
+
+Lorsque l'emprunteur souhaite faire usage de la faculté de substitution du contrat d'assurance prévue à l'article L. 312-9
+après l'émission de l'offre de prêt mentionnée à l'article L. 312-7, l'emprunteur transmet à l'assureur de son choix l'offre
+de prêt émise ou le contrat de crédit. 
+
+Une fois que l'assureur délégué s'est engagé à accorder sa garantie, le contrat d'assurance mentionne notamment, prêt par
+prêt, les garanties exigées par le prêteur au titre de l'assurance, la quotité assurée par tête et par type de garantie, le
+montant du capital assuré par type de garantie, le coût définitif des garanties exigées par le prêteur mentionnées au b du 2°
+de l'article R. 312-1-2 et les dates d'effet et de cessation des garanties. 
+
+En cas d'acceptation par le prêteur, celui-ci notifie à l'emprunteur, dans les conditions prévues à l'article L. 312-9,
+l'offre modifiée mentionnée à l'article L. 312-8 ou l'avenant au contrat de crédit mentionné au sixième alinéa de l'article
+L. 312-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-494 du 29 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L312-7
+	  - Code de la consommation - art. L312-9
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R313-24 (V)
 
 
 ##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur
@@ -41648,13 +41803,23 @@ suivantes :
 
 " 1° Le deuxième alinéa de l'article R. 312-3 n'est pas applicable en Nouvelle-Calédonie et en Polynésie française ; 
 
+1° bis Pour l'application de l'article R. 312-0-1, les mots : "en euros" sont remplacés par les mots : "en francs CFP". 
+
 " 2° A l'article R. 312-1-1, les mots : " 150 euros " sont remplacés par les mots : " 17 900 F CFP ". "
+
+3° A l'article R. 312-1-2 :
+
+a) Pour son application en Nouvelle-Calédonie, la mention du numéro "SIREN" est remplacée par celle du numéro "RIDET" ;
+
+b) Pour son application en Polynésie française, la mention du numéro "SIREN" est remplacée par celle du numéro "TAHITI" ;
+
+c) Pour son application en Nouvelle-Calédonie et en Polynésie française, la seconde phrase du 4° est supprimée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1195 du 26 octobre 2012 - art. 3
+	  - Décret n°2015-494 du 29 avril 2015 - art. 2 (VD)
 
 	**Cite**:
 
