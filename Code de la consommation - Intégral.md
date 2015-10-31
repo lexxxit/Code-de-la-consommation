@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-10-16
+Version Consolidée au 2015-11-01
 
 # Partie législative
 
@@ -32265,6 +32265,626 @@ du travail, de l'emploi et de la population.
 	  - Code de la consommation - art. R141-3 (Ab)
 
 
+### Titre V : Médiation des litiges de la consommation
+
+#### Chapitre II : Le processus de médiation des litiges de la consommation
+
+
+###### Article R152-1
+
+La médiation des litiges de la consommation satisfait aux exigences suivantes :
+
+a) Elle est aisément accessible par voie électronique ou par courrier simple à toutes les parties, consommateur ou
+professionnel ;
+
+b) Elle est gratuite pour le consommateur à l'exception des frais prévus aux c et d ;
+
+c) Les parties ont la faculté, à leur charge, de se faire représenter par un avocat ou de se faire assister par toute
+personne de leur choix à tous les stades de la médiation ;
+
+d) Chaque partie peut également solliciter l'avis d'un expert, dont les frais sont à sa charge. En cas de demande conjointe
+d'expertise, les frais sont partagés entre les parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R155-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R612-1 (V)
+
+
+###### Article R152-2
+
+Dès réception des documents sur lesquels est fondée la demande du consommateur, le médiateur de la consommation notifie aux
+parties par voie électronique ou par courrier simple sa saisine. Cette notification rappelle aux parties qu'elles peuvent à
+tout moment se retirer du processus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R152-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R612-2 (V)
+
+
+###### Article R152-3
+
+Le médiateur communique, à la demande de l'une des parties, tout ou partie des pièces du dossier.
+
+Le médiateur peut recevoir les parties ensemble ou séparément. A défaut d'accord amiable entre elles, il leur propose une
+solution pour régler le litige.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R612-3 (V)
+
+
+###### Article R152-4
+
+Le médiateur, en faisant connaître aux parties la solution qu'il propose, leur rappelle, par courrier simple ou par voie
+électronique :
+
+a) Qu'elles sont libres d'accepter ou de refuser sa proposition de solution ;
+
+b) Que la participation à la médiation n'exclut pas la possibilité d'un recours devant une juridiction ;
+
+c) Que la solution peut être différente de la décision qui serait rendue par un juge.
+
+Le médiateur précise également quels sont les effets juridiques de l'acceptation de la proposition de solution et fixe un
+délai d'acceptation ou de refus de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R612-4 (V)
+
+
+###### Article R152-5
+
+L'issue de la médiation intervient, au plus tard, dans un délai de quatre-vingt-dix jours à compter de la date de la
+notification mentionnée à l'article R. 152-2. Le médiateur peut prolonger ce délai, à tout moment, en cas de litige complexe.
+Il en avise immédiatement les parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R152-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R612-5 (V)
+
+
+#### Chapitre III : Le statut du médiateur de la consommation
+
+###### Article R153-1
+
+Le médiateur de la consommation informe sans délai les parties de la survenance de toute circonstance susceptible d'affecter
+son indépendance, son impartialité ou de nature à créer un conflit d'intérêts ainsi que de leur droit de s'opposer à la
+poursuite de sa mission. Si l'une des parties refuse en conséquence de poursuivre la médiation, il est mis fin à la mission
+du médiateur. Lorsque le médiateur est une personne morale, il est pourvu au remplacement de la personne physique chargée
+d'accomplir la mission de médiation.
+
+Le médiateur ne peut recevoir aucune instruction des parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R613-1 (V)
+
+
+#### Chapitre IV : Les obligations de communication du médiateur de la consommation
+
+
+###### Article R154-1
+
+Le site internet du médiateur de la consommation mentionné à l'article L. 154-1 comprend les informations suivantes : 
+
+a) Les adresses postale et électronique du médiateur ; 
+
+b) La mention de son inscription sur la liste des médiateurs établie conformément à l'article L. 155-2 ; 
+
+c) La décision de sa nomination et la durée de son mandat ; 
+
+d) Ses diplômes ou son parcours professionnel ; 
+
+e) Son appartenance, le cas échéant, à des réseaux de médiateurs de litiges transfrontaliers ; 
+
+f) Les types de litiges relevant de sa compétence ; 
+
+g) La référence aux dispositions législatives et réglementaires relatives à la médiation des litiges de consommation ; 
+
+h) Les cas dans lesquels un litige ne peut faire l'objet d'une médiation, conformément à l'article L. 152-2 ; 
+
+i) La liste des langues utilisées pour la médiation ; 
+
+j) Le lien vers le site internet de la Commission européenne dédié à la médiation de la consommation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L154-1
+	  - Code de la consommation - art. L155-2
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R154-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R614-1 (V)
+
+
+###### Article R154-2
+
+Le médiateur met également à la disposition du public sur son site internet ou communique sur demande son rapport annuel
+d'activité comprenant les informations suivantes :
+
+a) Le nombre de litiges dont il a été saisi et leur objet ;
+
+b) Les questions les plus fréquemment rencontrées dans les litiges qui lui sont soumis et ses recommandations afin de les
+éviter ;
+
+c) La proportion de litiges qu'il a refusé de traiter et l'évaluation en pourcentage des différents motifs de refus ;
+
+d) Le pourcentage des médiations interrompues et les causes principales de cette interruption ;
+
+e) La durée moyenne nécessaire à la résolution des litiges ;
+
+f) S'il est connu, le pourcentage des médiations qui sont exécutées ;
+
+g) L'existence de la coopération au sein de réseaux de médiateurs de litiges transfrontaliers ;
+
+h) Pour les médiateurs rémunérés ou employés exclusivement par un professionnel, le pourcentage des solutions proposées en
+faveur du consommateur ou du professionnel ainsi que le pourcentage des litiges résolus à l'amiable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R154-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R614-2 (V)
+
+
+###### Article R154-3
+
+Toute personne physique ou morale qui souhaite être inscrite sur la liste des médiateurs prévue à l'article L. 155-2
+communique à la commission d'évaluation et de contrôle de la médiation mentionnée à l'article L. 155-1, outre les
+informations prévues aux c à i de l'article R. 154-1 : 
+
+a) Ses coordonnées et l'adresse de son site internet ; 
+
+b) Une déclaration de motivation justifiant sa désignation comme médiateur de la consommation ; 
+
+c) Les informations sur sa structure et les modalités de financement de son activité de médiateur de la consommation ainsi
+que, lorsqu'il existe, une entité regroupant plusieurs médiateurs, les modalités de financement de cette entité, le niveau de
+rémunération et la durée du mandat de chacun d'entre eux ; 
+
+d) Une description du déroulement interne de la médiation. 
+
+Le médiateur notifie sans délai à la commission toute modification de ces informations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L155-1
+	  - Code de la consommation - art. L155-2
+	  - Code de la consommation - art. R154-1 (Ab)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R155-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R614-3 (V)
+
+
+###### Article R154-4
+
+Le médiateur de la consommation transmet également à la commission d'évaluation et de contrôle de la médiation de la
+consommation les informations nécessaires à l'évaluation de son activité, et ce, au moins tous les deux ans. Ces informations
+comprennent au minimum, outre celles figurant à l'article R. 154-2 : 
+
+a) Une description des formations suivies en matière de médiation ; 
+
+b) Une évaluation de l'efficacité de la médiation et des moyens envisageables pour améliorer ses résultats.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R154-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R614-4 (V)
+
+
+#### Chapitre V : La commission d'évaluation et de contrôle de la médiation de la consommation
+
+
+###### Article R155-1
+
+La commission d'évaluation et de contrôle de la médiation de la consommation est composée en application de l'article L.
+155-1 : 
+
+a) D'un conseiller d'Etat ; 
+
+b) D'un conseiller à la Cour de cassation en activité ou honoraire ; 
+
+c) De quatre personnalités qualifiées dans le domaine juridique ou en matière de médiation ; 
+
+d) De deux représentants des associations de consommateurs agréées au plan national ; et 
+
+e) De deux représentants d'organisations professionnelles. 
+
+Les dispositions de l'article 74 de la loi n° 2014-873 du 4 août 2014 pour l'égalité réelle entre les femmes et les hommes et
+du décret n° 2015-354 du 27 mars 2015 relatif à l'égal accès des femmes et des hommes aux commissions et instances
+consultatives ou délibératives placées auprès du Premier ministre, des ministres ou de la Banque de France sont applicables à
+la commission d'évaluation et de contrôle de la médiation de la consommation. Un arrêté du ministre chargé de l'économie
+nomme le président et le vice-président de la commission parmi les membres mentionnés aux a et b. 
+
+Le président et le vice-président de la commission bénéficient d'une indemnité forfaitaire annuelle dont le montant est fixé
+par arrêté conjoint des ministres chargés de l'économie et du budget. Les autres membres de la commission bénéficient d'une
+indemnité dont le taux par séance est fixé par arrêté conjoint des mêmes ministres. 
+
+Les membres de la commission peuvent se faire rembourser leurs frais de déplacement dans les conditions fixées par le décret
+n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements
+temporaires des personnels civils de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2006-781 du 3 juillet 2006
+	  - Loi n°2014-873 du 4 août 2014 - art. 74
+	  - Décret n°2015-354 du 27 mars 2015
+	  - Code de la consommation - art. L155-1
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R615-1 (V)
+	  - Code de la consommation - art. R615-2 (V)
+	  - Code de la consommation - art. R615-3 (V)
+
+
+###### Article R155-2
+
+La commission examine les candidatures des personnes souhaitant être inscrites sur la liste des médiateurs de la consommation
+au vu des informations communiquées en application de l'article R. 154-3 et décide de leur inscription sur cette liste.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. R154-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R615-5 (V)
+
+
+###### Article R155-3
+
+La commission notifie à la Commission européenne, en application de l'article L. 155-2, la liste des médiateurs de la
+consommation en précisant que ces derniers satisfont aux exigences de qualité et remplissent les conditions prévues aux
+articles R. 152-1 à R. 152-5. La liste précise pour chaque médiateur : 
+
+a) Ses coordonnées et l'adresse de son site internet ; 
+
+b) La liste des langues utilisées pour la médiation ; 
+
+c) Les types de litiges relevant de sa compétence. 
+
+Toute modification des informations transmises est notifiée, sans délai, à la Commission européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L155-2
+	  - Code de la consommation - art. R152-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R615-6 (V)
+
+
+###### Article R155-4
+
+La commission évalue régulièrement les médiateurs afin de vérifier qu'ils répondent toujours aux conditions et exigences de
+qualité propres à l'exercice de la mission de médiateur de la consommation. Si elle estime qu'un médiateur ne satisfait plus
+à ces exigences, elle avise ce dernier, par décision motivée, des manquements constatés et lui demande de se mettre en
+conformité dans un délai de trois mois à compter de la date de sa décision. A l'expiration de ce délai, la commission statue
+sur le retrait du médiateur de la liste.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R615-7 (V)
+
+
+###### Article R155-5
+
+La commission met à la disposition du public la liste actualisée des médiateurs sur son site internet et fournit le lien vers
+le site internet de la Commission européenne consacré à la médiation de la consommation ainsi que le lien vers le site
+internet du Centre européen des consommateurs France. Cette liste est également publiée au Bulletin officiel de la
+concurrence, de la consommation et de la répression des fraudes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R615-8 (V)
+
+
+###### Article R155-6
+
+La commission publie sur son site internet, tous les quatre ans, un rapport sur l'évolution et le fonctionnement des
+médiations de la consommation et le communique à la Commission européenne. Ce rapport contient :
+
+a) Le recensement des bonnes pratiques des médiateurs ;
+
+b) Les dysfonctionnements des processus de médiation relevés à l'aide de statistiques ;
+
+c) Des recommandations en vue de l'amélioration du fonctionnement effectif des médiations et de l'efficacité des médiateurs.
+
+Par exception, un premier rapport est publié dans un délai de deux ans à compter de la première réunion de ses membres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R615-9 (V)
+
+
+###### Article R155-7
+
+La commission peut entendre toute personne et se faire communiquer tout document en vue de l'accomplissement de sa mission.
+
+Son secrétariat est assuré par la direction générale de la concurrence, de la consommation et de la répression des fraudes.
+Il est chargé d'assister la commission dans ses travaux, de recueillir les demandes des personnes souhaitant être inscrites
+sur la liste des médiateurs et d'informer ces dernières des décisions rendues par la commission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R615-10 (V)
+
+
+###### Article R155-8
+
+La commission ne peut régulièrement délibérer qu'en présence de son président ou de son vice-président et d'au moins trois de
+ses membres. Les séances de cette commission ne sont pas publiques.
+
+La commission se prononce à la majorité des voix des membres présents. Le président de séance a voix prépondérante en cas de
+partage égal des voix.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R615-11 (V)
+
+
+#### Chapitre VI : L'information et l'assistance du consommateur
+
+
+
+
+
+
+###### Article R156-1
+
+En application de l'article L. 156-1, le professionnel communique au consommateur les coordonnées du ou des médiateurs de la
+consommation dont il relève, en inscrivant ces informations de manière visible et lisible sur son site internet, sur ses
+conditions générales de vente ou de service, sur ses bons de commande ou sur tout autre support adapté. Il y mentionne
+également l'adresse du site internet du ou de ces médiateurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L156-1
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R616-1 (V)
+
+
+###### Article R156-2
+
+Le site internet de la commission d'évaluation et de contrôle de la médiation de la consommation comporte toutes informations
+utiles pour le consommateur en cas de litige de consommation transfrontalier. Il fournit notamment les coordonnées du Centre
+européen des consommateurs France et des indications relatives aux modalités de l'assistance dont les consommateurs peuvent
+bénéficier en vue du règlement extrajudiciaire de tels litiges.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1382 du 30 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R616-2 (V)
+
+
 ## Livre II : Qualité des produits et des services
 
 ### Titre Ier : Conformité
@@ -49620,84 +50240,6 @@ Ces observations sont annexées au rapport avec les remarques qu'elles appellent
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. R822-27 (V)
-
-
-##### Section 3 : La commission de la médiation de la consommation
-
-
-###### Article R534-11
-
-La commission de la médiation de la consommation instituée à l'article L. 534-7 comprend, outre son président, douze membres
-répartis de la manière suivante : 
-
-1° Cinq représentants des consommateurs ; 
-
-2° Cinq représentants des professionnels ; 
-
-3° Deux personnalités qualifiées ayant une expérience en matière de médiation ou issues du monde universitaire. 
-
-Le président et les membres de la commission sont nommés par arrêté du ministre chargé de la consommation pour un mandat de
-trois ans renouvelable une fois. 
-
-Un vice-président est désigné sur proposition de la commission. 
-
-La commission ne peut régulièrement délibérer qu'en présence de son président ou de son remplaçant et d'au moins six autres
-de ses membres. 
-
-Lorsque la commission évalue les pratiques de médiation, tout membre de la commission qui participe ou a participé à ces
-pratiques en tant que médiateur ou collaborateur permanent d'un médiateur s'abstient de participer aux délibérations. 
-
-Le directeur général de l'Institut national de la consommation ou son représentant peut participer aux séances de la
-commission de la médiation de la consommation. Il ne prend pas part aux votes sur les avis et recommandations.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2010-1221 du 18 octobre 2010 - art. 16
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1382 du 30 octobre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la consommation - art. L534-7
-
-
-###### Article R534-12
-
-La commission peut être saisie : 
-
-1° Par le ministre chargé de la consommation ; 
-
-2° Par toute association de défense des consommateurs disposant de l'agrément prévu à l'article L. 411-1 ; 
-
-3° Par tout membre du collège des professionnels du Conseil national de la consommation. 
-
-La commission peut se saisir d'office. 
-
-La commission ne peut examiner aucun litige relatif à la consommation. 
-
-Lorsqu'elle décide de ne pas donner suite à une saisine, la commission en informe son auteur. 
-
-Le président peut désigner un rapporteur parmi les membres de la commission pour l'instruction d'une affaire. Le rapporteur
-peut également être désigné dans les conditions prévues au II de l'article R. 534-17.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2010-1221 du 18 octobre 2010 - art. 16
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1382 du 30 octobre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la consommation - art. L411-1
-	  - Code de la consommation - art. R534-17
 
 
 ##### Section 4 : Dispositions communes aux commissions   placées auprès de l'Institut national de la consommation
