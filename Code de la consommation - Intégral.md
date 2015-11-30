@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-11-01
+Version Consolidée au 2015-12-01
 
 # Partie législative
 
@@ -42438,33 +42438,32 @@ Futuna.
 
 ###### Article R315-2
 
-Le chapitre II du présent titre est applicable en Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations
-suivantes : 
+I.-Le chapitre II du présent titre est applicable en Nouvelle-Calédonie et en Polynésie française, sous réserve des
+adaptations prévues au II. 
 
-" 1° Le deuxième alinéa de l'article R. 312-3 n'est pas applicable en Nouvelle-Calédonie et en Polynésie française ; 
+II.-1° Pour l'application de l'article R. 312-0, au deuxième alinéa de cet article, après le mot : " euros ", sont ajoutés
+les mots : " ou en francs CFP " ; 
 
-1° bis Pour l'application de l'article R. 312-0-1, les mots : "en euros" sont remplacés par les mots : "en francs CFP". 
+2° Pour l'application de l'article R. 312-3 le deuxième alinéa de cet article n'est pas applicable en Nouvelle-Calédonie et
+en Polynésie française ; 
 
-" 2° A l'article R. 312-1-1, les mots : " 150 euros " sont remplacés par les mots : " 17 900 F CFP ". "
-
-3° A l'article R. 312-1-2 :
-
-a) Pour son application en Nouvelle-Calédonie, la mention du numéro "SIREN" est remplacée par celle du numéro "RIDET" ;
-
-b) Pour son application en Polynésie française, la mention du numéro "SIREN" est remplacée par celle du numéro "TAHITI" ;
-
-c) Pour son application en Nouvelle-Calédonie et en Polynésie française, la seconde phrase du 4° est supprimée.
+3° A l'article R. 312-1-1, les mots : " 150 euros " sont remplacés par les mots : " 17 900 F CFP ".
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-494 du 29 avril 2015 - art. 2 (VD)
+	  - Décret n°2015-707 du 22 juin 2015 - art. 20
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation - art. R312-1-1
-	  - Code de la consommation - art. R312-3
+	  - Code de la consommation - art. R312-0 (Ab)
+	  - Code de la consommation - art. R312-1-1 (Ab)
+	  - Code de la consommation - art. R312-3 (MMN)
 
 
 ##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier
@@ -42508,17 +42507,23 @@ applicable localement
 
 ###### Article R315-5
 
-Le chapitre III du présent titre, à l'exception de son article R. 313-10, est applicable dans les îles Wallis et Futuna. "
+Le chapitre III du présent titre, à l'exception de ses articles R. 313-5-2 et R. 313-10, est applicable dans les îles Wallis
+et Futuna.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1195 du 26 octobre 2012 - art. 3
+	  - Décret n°2015-707 du 22 juin 2015 - art. 17 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation - art. R313-10
+	  - Code de la consommation - art. R313-10 (Ab)
+	  - Code de la consommation - art. R313-5-2 (Ab)
 
 
 ##### Section 4 : Prêt viager hypothécaire
@@ -46756,9 +46761,9 @@ Un poste téléphonique permettant l'accès au service téléphonique fixe.
 
 ###### Article R336-4
 
-I.-Les dispositions du chapitre préliminaire et des chapitres Ier à V du présent titre, à l'exception des articles R. 331-1,
-R. 331-3, R. 334-48 à R. 334-60 et R. 335-4, sont applicables aux îles Wallis et Futuna sous réserve des adaptations prévues
-au II. 
+I.-Les dispositions du chapitre préliminaire et des chapitres Ier à V du titre III, à l'exception des articles R. 331-1, R.
+331-3, R. 331-13, R. 334-48 à R. 334-60 et R. 335-4, sont applicables dans les îles Wallis et Futuna, sous réserve des
+adaptations prévues au II et au III. 
 
 II.-Pour l'application du présent titre dans les îles Wallis et Futuna : 
 
@@ -46767,8 +46772,8 @@ peut se faire représenter par l'un de ses adjoints ;
 
 2° Les références au préfet sont remplacées par les références à l'administrateur supérieur des îles Wallis et Futuna ; 
 
-3° Les références au responsable départemental de la direction générale des finances publiques chargé de la gestion publique
-sont remplacées par les références au payeur des îles Wallis et Futuna ; 
+3° Les références au : "directeur départemental des finances publiques" sont remplacées par les références au : "directeur
+des finances publiques des îles Wallis et Futuna" ;  
 
 4° Les références au tribunal d'instance sont remplacées par les références au tribunal de première instance ; 
 
@@ -46866,24 +46871,26 @@ collectivité où il réside ".
 
 	**Modifié par**:
 
-	  - Décret n°2011-741 du 28 juin 2011 - art. 1
+	  - Décret n°2015-707 du 22 juin 2015 - art. 17 (VD)
 
 	**Cite**:
 
-	  - Code de la consommation - art. R331-1 (V)
-	  - Code de la consommation - art. R331-2 (V)
-	  - Code de la consommation - art. R331-3 (V)
-	  - Code de la consommation - art. R331-4 (V)
-	  - Code de la consommation - art. R331-5 (V)
-	  - Code de la consommation - art. R331-6 (V)
-	  - Code de la consommation - art. R331-7 (V)
-	  - Code de la consommation - art. R331-7-2 (V)
-	  - Code de la consommation - art. R332-1 (V)
-	  - Code de la consommation - art. R334-1 (V)
-	  - Code de la consommation - art. R334-23 (V)
-	  - Code de la consommation - art. R334-48 (V)
-	  - Code de la consommation - art. R334-67 (V)
-	  - Code de la consommation - art. R335-4 (V)
+	  - Code de la consommation - art. L334-8
+	  - Code de la consommation - art. R331-1
+	  - Code de la consommation - art. R331-13
+	  - Code de la consommation - art. R331-2
+	  - Code de la consommation - art. R331-3
+	  - Code de la consommation - art. R331-4
+	  - Code de la consommation - art. R331-5
+	  - Code de la consommation - art. R331-6
+	  - Code de la consommation - art. R331-7
+	  - Code de la consommation - art. R331-7-2
+	  - Code de la consommation - art. R332-1
+	  - Code de la consommation - art. R334-1
+	  - Code de la consommation - art. R334-23
+	  - Code de la consommation - art. R334-48
+	  - Code de la consommation - art. R334-67
+	  - Code de la consommation - art. R335-4
 
 
 ##### Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin
