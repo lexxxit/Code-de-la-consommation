@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-12-01
+Version Consolidée au 2015-12-10
 
 # Partie législative
 
@@ -32407,6 +32407,30 @@ Il en avise immédiatement les parties.
 
 #### Chapitre III : Le statut du médiateur de la consommation
 
+###### Article D153-2
+
+L'organe collégial qui procède à la désignation des médiateurs relevant des dispositions de l'article L. 153-2 est composé
+paritairement d'au moins deux représentants d'associations de consommateurs agréées et d'au moins deux représentants du
+professionnel. 
+
+Les associations de consommateurs agréées qui participent à la désignation de ces médiateurs ne peuvent être membres de la
+Commission d'évaluation et de contrôle de la médiation de la consommation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1607 du 7 décembre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L153-2
+
+
 ###### Article R153-1
 
 Le médiateur de la consommation informe sans délai les parties de la survenance de toute circonstance susceptible d'affecter
@@ -48476,11 +48500,13 @@ consommation.
 
 ###### Article D511-1
 
-Le Conseil national de la consommation est un organisme consultatif placé auprès du ministre chargé de la consommation.
+Le Conseil national de la consommation est un organisme consultatif placé auprès du ministre chargé de la consommation. 
 
 Il a pour objet de permettre le débat et la concertation entre les pouvoirs publics, les représentants des associations de
 défense des consommateurs et les représentants des organisations professionnelles ainsi que des entreprises assurant des
-missions de service public, pour tout ce qui a trait aux problèmes de la consommation.
+missions de service public, pour tout ce qui a trait aux problèmes de la consommation. 
+
+Il a également pour mission de permettre la désignation des médiateurs relevant des dispositions de l'article L. 153-2.
 
 **Liens relatifs à cet article**
 
@@ -48499,7 +48525,19 @@ missions de service public, pour tout ce qui a trait aux problèmes de la consom
 
 	**Modifié par**:
 
-	  - Décret n°2015-23 du 12 janvier 2015 - art. 1
+	  - Décret n°2015-1607 du 7 décembre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. D821-1 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L153-2
 
 
 ###### Article D511-2
