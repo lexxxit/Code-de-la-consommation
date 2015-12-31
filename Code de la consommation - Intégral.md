@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-12-30
+Version Consolidée au 2016-01-01
 
 # Partie législative
 
@@ -1052,6 +1052,53 @@ Loi n° 2014-344 du 17 mars 2014 art. 34 : Ces dispositions s'appliquent aux con
 
 	  - Code de la consommation - art. L131-5 (V)
 	  - Code de la consommation - art. L131-6 (V)
+
+
+###### Article L113-3-3
+
+I.-Tout professionnel peut demander à l'autorité administrative chargée de la concurrence et de la consommation de prendre
+formellement position sur la conformité aux articles L. 113-3 et L. 113-3-1 et aux mesures réglementaires prises pour leur
+application, des modalités de l'information sur les prix de vente au consommateur qu'il envisage de mettre en place. 
+
+Cette prise de position formelle a pour objet de prémunir le demandeur d'un changement d'appréciation de l'autorité
+administrative qui serait de nature à l'exposer à la sanction administrative prévue à l'article L. 113-3-2. 
+
+II.-L'autorité administrative prend formellement position sur cette demande dans un délai fixé par décret en Conseil d'Etat. 
+
+Le silence gardé par l'autorité administrative à l'issue de ce délai vaut rejet de cette demande. 
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent II, notamment le contenu, les modalités de dépôt
+et d'avis de réception de la demande. 
+
+III.-La garantie prend fin : 
+
+1° A la date à laquelle la situation du professionnel n'est plus identique à celle présentée dans la demande ; les modalités
+de constatation de cette situation et d'information du professionnel sont précisées par décret en Conseil d'Etat ; 
+
+2° A la date à laquelle est intervenue une modification dans la législation ou la réglementation applicable de nature à
+affecter la validité de la garantie ; 
+
+3° A compter du jour où l'autorité administrative notifie au professionnel la modification de son appréciation. Cette
+notification fait l'objet d'une information préalable du professionnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2015-1628 du 10 décembre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L112-5 (V)
+	  - Code de la consommation - art. L112-6 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L113-3 (VT)
 
 
 ###### Article L113-4
@@ -8949,6 +8996,39 @@ durée inférieure à douze heures et payés à la durée, une tarification par 
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L224-68 (V)
+
+
+###### Article L121-117
+
+Tout professionnel qui commercialise des prestations d'entretien ou de réparation de véhicules automobiles permet aux
+consommateurs d'opter pour l'utilisation, pour certaines catégories de pièces de rechange, de pièces issues de l'économie
+circulaire à la place de pièces neuves. 
+
+Un décret en Conseil d'Etat établit la liste des catégories de pièces concernées et précise la définition des pièces issues
+de l'économie circulaire, au sens du présent article. Il définit également les conditions dans lesquelles le professionnel
+n'est pas tenu de proposer ces pièces du fait de leur indisponibilité ou d'autres motifs légitimes. 
+
+Les modalités d'information du consommateur sont arrêtées dans les conditions prévues à l'article L. 113-3. 
+
+En cas de litige, il appartient au professionnel de prouver qu'il a exécuté ses obligations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 77 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-119 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-67 (V)
 
 
 ###### Article L121-118
@@ -24786,8 +24866,8 @@ Le montant des remboursements résultant de l'application des articles L. 331-6,
 conditions précisées par décret, par référence à la quotité saisissable du salaire telle qu'elle résulte des articles L.
 3252-2 et L. 3252-3 du code du travail, de manière à ce qu'une partie des ressources nécessaire aux dépenses courantes du
 ménage lui soit réservée par priorité. Cette part de ressources ne peut être inférieure, pour le ménage en cause, au montant
-forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles. Elle intègre le montant des
-dépenses de logement, d'électricité, de gaz, de chauffage, d'eau, de nourriture et de scolarité, de garde et de déplacements
+forfaitaire mentionné à l'article L. 262-2 du code de l'action sociale et des familles. Elle intègre le montant des dépenses
+de logement, d'électricité, de gaz, de chauffage, d'eau, de nourriture et de scolarité, de garde et de déplacements
 professionnels ainsi que les frais de santé. Les conditions de prise en compte et d'appréciation de ces dépenses par le
 règlement intérieur de chaque commission sont précisées par voie réglementaire. La part des ressources nécessaire aux
 dépenses courantes est fixée par la commission et mentionnée dans le plan conventionnel de redressement prévu à l'article L.
@@ -24808,7 +24888,7 @@ en vue d'éviter la cession de la résidence principale.
 	  - Code de la consommation - art. L331-12 (Ab)
 	  - Code de la consommation - art. L331-3 (V)
 	  - Code de la consommation - art. L332-1 (M)
-	  - Code de la consommation - art. L332-2 (V)
+	  - Code de la consommation - art. L332-2 (VT)
 	  - Code de la consommation - art. L332-3 (VT)
 	  - Code de la consommation - art. L332-5-1 (VT)
 	  - Code de la consommation - art. L332-5-2 (VT)
@@ -24825,7 +24905,11 @@ en vue d'éviter la cession de la résidence principale.
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 69 (V)
+	  - Loi n°2015-994 du 17 août 2015 - art. 59
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
@@ -24834,6 +24918,13 @@ en vue d'éviter la cession de la résidence principale.
 	  - Code de la consommation - art. L331-7
 	  - Code du travail - art. L3252-2
 	  - Code de l'action sociale et des familles - art. L262-2
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L712-1 (V)
+	  - Code de la consommation - art. L731-1 (V)
+	  - Code de la consommation - art. L731-2 (V)
+	  - Code de la consommation - art. L731-3 (V)
 
 
 ###### Article L331-3
@@ -26512,7 +26603,7 @@ Sauf accord du créancier, sont exclues de toute remise, de tout rééchelonneme
 énumérés à l'article L. 114-12 du code de la sécurité sociale. 
 
 L'origine frauduleuse de la dette est établie soit par une décision de justice, soit par une sanction prononcée par un
-organisme de sécurité sociale dans les conditions prévues aux articles L. 114-17 et L. 162-1-14 du même code. 
+organisme de sécurité sociale dans les conditions prévues aux articles L. 114-17 et L. 114-17-1 du même code. 
 
 Les amendes prononcées dans le cadre d'une condamnation pénale sont exclues de toute remise, de tout rééchelonnement ou
 effacement.
@@ -26529,7 +26620,11 @@ effacement.
 
 	**Modifié par**:
 
-	  - Loi n°2011-1906 du 21 décembre 2011 - art. 116
+	  - Loi n°2015-1702 du 21 décembre 2015 - art. 59
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cité par**:
 
@@ -26537,11 +26632,15 @@ effacement.
 	  - Code de la consommation - art. L333-7 (Ab)
 	  - Code de la consommation - art. R*333-4 (Ab)
 
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L711-4 (M)
+
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. L114-12
-	  - Code de la sécurité sociale. - art. L114-17 (V)
-	  - Code de la sécurité sociale. - art. L162-1-14 (V)
+	  - Code de la sécurité sociale. - art. L114-17
+	  - Code de la sécurité sociale. - art. L162-1-14
 
 
 ###### Article L333-1-1
@@ -27183,8 +27282,8 @@ L'article L. 330-1, les articles L. 331-2 à L. 333-5, à l'exclusion de la dern
 331-7, de la dernière phrase du 2° de l'article L. 331-7-1 et de la dernière phrase de l'article L. 332-9 ainsi que l'article
 L. 333-7 sont applicables en Nouvelle-Calédonie, sous les réserves suivantes : 
 
-a) A l'article L. 331-2, la référence au montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action
-sociale et des familles est remplacée par la référence à un montant fixé par le représentant de l'Etat ; 
+a) A l'article L. 331-2, la référence au montant forfaitaire mentionné à l'article L. 262-2 du code de l'action sociale et
+des familles est remplacée par la référence à un montant fixé par le représentant de l'Etat ; 
 
 b) Les huitième et neuvième alinéas de l'article L. 331-3 sont remplacés par les dispositions suivantes : 
 
@@ -27247,7 +27346,11 @@ instance ou les juges délégués par lui".
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 68 (V)
+	  - Loi n°2015-994 du 17 août 2015 - art. 59
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
@@ -27255,7 +27358,7 @@ instance ou les juges délégués par lui".
 	  - Code de la consommation - art. L331-2
 	  - Code de la consommation - art. L331-3
 	  - Code de la consommation - art. L331-7
-	  - Code de la consommation - art. L332-6
+	  - Code de la consommation - art. L332-6 (VT)
 	  - Code de la consommation - art. L332-9
 	  - Code de la consommation - art. L333-7
 
@@ -27422,8 +27525,8 @@ La commission adopte un règlement intérieur rendu public.
 
 L'article L. 330-1, les articles L. 331-2 à L. 333-5, à l'exclusion de la troisième phrase du huitième alinéa de l'article L.
 331-7 et de la troisième phrase du 2° de l'article L. 331-7-1 ainsi que l'article L. 333-7 sont applicables aux îles Wallis
-et Futuna, sous réserve de remplacer à l'article L. 331-2 la référence au montant forfaitaire mentionné au 2° de l'article L.
-262-2 du code de l'action sociale et des familles par la référence à un montant fixé par l'administrateur supérieur. 
+et Futuna, sous réserve de remplacer à l'article L. 331-2 la référence au montant forfaitaire mentionné à l'article L. 262-2
+du code de l'action sociale et des familles par la référence à un montant fixé par l'administrateur supérieur. 
 
 Pour l'application de ces dispositions : 
 
@@ -27443,17 +27546,21 @@ d) La dernière phrase du septième alinéa du II de l'article L. 331-3 n'est pa
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-946 du 20 août 2014 - art. 23 (V)
+	  - Loi n°2015-994 du 17 août 2015 - art. 59
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 	**Cite**:
 
 	  - Code de la consommation - art. L330-1
-	  - Code de la consommation - art. L331-1
+	  - Code de la consommation - art. L331-1 (VT)
 	  - Code de la consommation - art. L331-2
 	  - Code de la consommation - art. L331-3
 	  - Code de la consommation - art. L331-7
 	  - Code de la consommation - art. L331-7-1
-	  - Code de la consommation - art. L333-7
+	  - Code de la consommation - art. L333-7 (VT)
 	  - Code de l'action sociale et des familles - art. L262-2
 
 
@@ -31495,6 +31602,108 @@ En cas de récidive des infractions prévues aux articles R. 121-14 à R. 121-20
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. R242-15 (V)
+
+
+##### Section 13 : Contrats d'achat de métaux précieux
+
+###### Article R121-22
+
+La mention de la date prévue au 5° de l'article L. 121-101 comporte le jour, le mois et l'année ainsi que l'heure de la
+signature du contrat. 
+
+Sur le contrat figure la mention suivante : 
+
+" Si vous souhaitez exercer votre droit de rétraction dans les 24 heures à compter de la signature du contrat, vous pouvez
+utiliser le formulaire détachable prévu à cet effet ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1295 du 15 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-101
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R224-4 (V)
+
+
+###### Article R121-23
+
+Le formulaire détachable est conforme au formulaire type qui figure en annexe au présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1295 du 15 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R224-5 (V)
+
+
+###### Article R121-24
+
+Le formulaire détachable comporte, sur une face, l'adresse complète du professionnel-acheteur à laquelle il doit être remis
+ou adressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1295 du 15 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R224-6 (V)
+
+
+###### Article R121-25
+
+Pour exercer son droit de rétractation prévu à l'article L. 121-102, le consommateur-vendeur :
+
+- remet au professionnel en main propre le formulaire détachable, au plus tard 24 heures à compter du jour et de l'heure de
+la signature du contrat ; ou
+
+- adresse au professionnel ce formulaire, par un moyen permettant d'attester de la date et de l'heure de l'envoi, au plus
+tard 24 heures à compter du jour et de l'heure de la signature du contrat. 
+
+Si le délai de 24 heures expire normalement un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier
+jour ouvrable suivant, à la même heure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1295 du 15 octobre 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-102
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R224-7 (V)
 
 
 #### Chapitre II : Pratiques commerciales illicites
@@ -38684,6 +38893,70 @@ l'ensemble des prestations prévues par le contrat. "
 	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
+##### ANNEXE À L'ARTICLE R121-23
+
+
+###### Article Annexe à l'article R121-23
+
+FORMULAIRE TYPE DE RÉTRACTATION
+
+(La taille de caractère utilisée ne peut être inférieure à une taille de caractère de corps 12)
+
+(Veuillez compléter et utiliser le présent formulaire uniquement si vous souhaitez vous rétracter du contrat)
+
+A l'attention de [le professionnel insère ici son nom, l'adresse géographique à laquelle le formulaire doit être envoyé et,
+lorsqu'ils sont disponibles, son numéro de télécopieur et son adresse électronique] :
+
+Je/Nous (*) vous notifie/notifions (*) par la présente ma/notre (*) rétractation du contrat conclu le : (indiquer la date) et
+ayant pour objet la vente du (des) bien(s) suivant(s) :
+
+[indiquer le(s) bien(s) objet(s) du contrat]
+
+Nom du (des) consommateur(s)-vendeur(s)
+
+Adresse du (des) consommateur(s)-vendeur(s)
+
+Signature du (des) consommateur(s)-vendeur(s)
+
+Date
+
+(*) Rayez la mention inutile 
+
+L'article L. 121-102 du code de la consommation prévoit que l'exécution des obligations contractuelles incombant aux parties
+est suspendue jusqu'à l'expiration du délai de rétractation de 24 heures. En conséquence, après signature du contrat, le
+consommateur-vendeur ne remet pas au professionnel-acheteur l'objet qu'il souhaite vendre avant l'expiration de ce délai et
+le professionnel-acheteur ne lui verse pas le prix de l'achat prévu par le contrat avant le même terme.
+
+Conformément à l'article R. 121-25 du même code, pour exercer son droit de rétractation prévu à l'article L. 121-102, le
+consommateur-vendeur :
+
+- remet au professionnel en main propre le formulaire détachable, au plus tard 24 heures à compter du jour et de l'heure de
+la signature du contrat ;
+
+- ou adresse au professionnel ce formulaire, par un moyen permettant d'attester de la date et de l'heure de l'envoi, au plus
+tard 24 heures à compter du jour et de l'heure de la signature du contrat.
+
+Si le délai de 24 heures expire normalement un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier
+jour ouvrable suivant, à la même heure.
+
+L'envoi ou la remise du formulaire au professionnel et dans le délai imparti a pour effet d'annuler l'opération d'achat. A
+défaut, le contrat est conclu définitivement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1295 du 15 octobre 2015 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-102 (V)
+
+
 ##### ANNEXE A L'ARTICLE R211-2 
 
 ###### Article Annexe à l'article R211-2
@@ -44092,8 +44365,8 @@ ou recommandées en cours se poursuivent.
 Pour l'application des articles L. 331-6, L. 331-7 et L. 331-7-1, la part des ressources mensuelles du débiteur à affecter à
 l'apurement de ses dettes est calculée, dans les conditions prévues à l'article L. 331-2, par référence au barème prévu à
 l'article R. 3252-2 du code du travail. Toutefois, cette somme ne peut excéder la différence entre le montant des ressources
-mensuelles réelles de l'intéressé et le montant forfaitaire du revenu de solidarité active mentionné au 2° de l'article L.
-262-2 du code de l'action sociale et des familles applicable au foyer du débiteur. 
+mensuelles réelles de l'intéressé et le montant forfaitaire du revenu de solidarité active mentionné à l'article L. 262-2 du
+code de l'action sociale et des familles applicable au foyer du débiteur. 
 
 La part de ressources réservée par priorité au débiteur est déterminée au regard de l'ensemble des dépenses courantes du
 ménage, qui intègre les dépenses mentionnées à l'article L. 331-2. 
@@ -44111,21 +44384,31 @@ susvisé
 
 	**Modifié par**:
 
-	  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+	  - Décret n°2015-1709 du 21 décembre 2015 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation - art. L331-2 (V)
-	  - Code de la consommation - art. L331-7 (V)
-	  - Code de la consommation - art. L331-7-1 (V)
-	  - Code du travail - art. R3252-2 (V)
-	  - Code de l'action sociale et des familles - art. L262-2 (V)
+	  - Code de la consommation - art. L331-2
+	  - Code de la consommation - art. L331-7
+	  - Code de la consommation - art. L331-7-1
+	  - Code du travail - art. R3252-2
+	  - Code de l'action sociale et des familles - art. L262-2
 	  - Code de l'action sociale et des familles - art. L331-6
 
 	**Cité par**:
 
 	  - Code de la consommation - art. R336-1 (Ab)
-	  - Code de la consommation - art. R336-4 (VD)
+	  - Code de la consommation - art. R336-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. R731-1 (V)
+	  - Code de la consommation - art. R731-2 (V)
+	  - Code de la consommation - art. R731-3 (V)
 
 
 ##### Section 2 : Le plan conventionnel
@@ -46740,7 +47023,7 @@ matière de consommation ou d'action familiale ".
 
 3° Au premier alinéa de l'article R. 331-5 : 
 
-a) Les mots : " du 3° de l'article L. 331-1 " sont remplacés par les mots : " de l'article L. 334-1 ; 
+a) Les  mots : " du 3° de l'article L. 331-1 " sont remplacés par les mots : " de l'article L. 334-1 ; 
 
 b) Les mots : " et son suppléant " sont supprimés ; 
 
@@ -46781,9 +47064,8 @@ départements d'outre-mer ".
 9° A l'article R. 332-1, les mots : " dans le département où siège la commission " sont remplacés par les mots : " à Mayotte
 ". 
 
-10° A l'article R. 334-1, les mots : " forfaitaire du revenu de solidarité active mentionné au 2° de l'article L. 262-2 du
-code de l'action sociale et des familles applicable au foyer du débiteur " sont remplacés par les mots : " fixé par le préfet
-". 
+10° A l'article R. 334-1, les mots : " forfaitaire du revenu de solidarité active mentionné à l'article L. 262-2 du code de
+l'action sociale et des familles applicable au foyer du débiteur " sont remplacés par les mots : " fixé par le préfet ". 
 
 11° A l'article R. 334-23, les mots : " le numéro du département de sa résidence " sont remplacés par les mots : " la
 collectivité où il réside ". 
@@ -46794,24 +47076,28 @@ collectivité où il réside ".
 
 	**Modifié par**:
 
-	  - Décret n°2011-741 du 28 juin 2011 - art. 1
+	  - Décret n°2011-338 du 29 mars 2011 - art. 17 (V)
+	  - Décret n°2015-1709 du 21 décembre 2015 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
-	  - Code de la consommation - art. L334-1 (V)
-	  - Code de la consommation - art. R331-1 (V)
-	  - Code de la consommation - art. R331-2 (V)
-	  - Code de la consommation - art. R331-3 (V)
-	  - Code de la consommation - art. R331-4 (V)
-	  - Code de la consommation - art. R331-5 (V)
-	  - Code de la consommation - art. R331-6 (V)
-	  - Code de la consommation - art. R331-7 (V)
-	  - Code de la consommation - art. R331-7-2 (V)
-	  - Code de la consommation - art. R332-1 (V)
-	  - Code de la consommation - art. R334-1 (V)
-	  - Code de la consommation - art. R334-23 (V)
-	  - Code de la consommation - art. R334-67 (V)
-	  - Code de la consommation - art. R335-4 (V)
+	  - Code de la consommation - art. R331-1
+	  - Code de la consommation - art. R331-2
+	  - Code de la consommation - art. R331-3
+	  - Code de la consommation - art. R331-4
+	  - Code de la consommation - art. R331-5
+	  - Code de la consommation - art. R331-6
+	  - Code de la consommation - art. R331-7
+	  - Code de la consommation - art. R331-7-2
+	  - Code de la consommation - art. R332-1
+	  - Code de la consommation - art. R334-1
+	  - Code de la consommation - art. R334-23
+	  - Code de la consommation - art. R334-67
+	  - Code de la consommation - art. R335-4
 
 
 ##### Section 2 : Dispositions applicables en Nouvelle-Calédonie
@@ -46844,7 +47130,7 @@ sont remplacées par les références au trésorier-payeur général de la Nouve
 5° Les mots : "Bulletin officiel des annonces civiles et commerciales" sont remplacés par les mots : "Journal officiel de la
 Nouvelle-Calédonie" ; 
 
-6° Les références aux dispositions du  code du travail sont remplacées par les références aux dispositions applicables
+6° Les références aux dispositions du code du travail sont remplacées par les références aux dispositions applicables
 localement ayant le même objet ; 
 
 7° Les références au "juge du tribunal d'instance" ou au "juge" sont remplacées par les références au "président du tribunal
@@ -46936,8 +47222,8 @@ b) Les mots : "par ordonnance" sont supprimés.
 
 11° A l'article R. 334-1 : 
 
-a) Les mots : "forfaitaire du revenu de solidarité active mentionné au 2° de l'article L. 262-2 du code de l'action sociale
-et des familles applicable au foyer du débiteur" sont remplacés par les mots : " fixé par le représentant de l'Etat " ; 
+a) Les mots : "forfaitaire du revenu de solidarité active mentionné à l'article L. 262-2 du code de l'action sociale et des
+familles applicable au foyer du débiteur" sont remplacés par les mots : " fixé par le représentant de l'Etat " ; 
 
 b) Les mots : "du barème fixé par son règlement intérieur" sont remplacés par les mots : "d'un barème établi par la
 commission" ; 
@@ -46984,7 +47270,11 @@ jugement prévu" sont remplacés par les mots : "de la décision prévue".
 
 	**Modifié par**:
 
-	  - Décret n°2011-741 du 28 juin 2011 - art. 1
+	  - Décret n°2015-1709 du 21 décembre 2015 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
 ###### Article R336-3
@@ -47057,7 +47347,7 @@ peut se faire représenter par l'un de ses adjoints ;
 2° Les références au préfet sont remplacées par les références à l'administrateur supérieur des îles Wallis et Futuna ; 
 
 3° Les références au : "directeur départemental des finances publiques" sont remplacées par les références au : "directeur
-des finances publiques des îles Wallis et Futuna" ;  
+des finances publiques des îles Wallis et Futuna" ; 
 
 4° Les références au tribunal d'instance sont remplacées par les références au tribunal de première instance ; 
 
@@ -47106,7 +47396,7 @@ a) Les mots : " du 3° de l'article L. 331-1 " sont remplacés par les mots : " 
 
 b) Les mots : " et son suppléant " sont supprimés ; 
 
-c) Les mots : " Ils peuvent être choisies " sont remplacés par les mots : " Elle peut être choisie " ; 
+c) Les mots : " Ils peuvent être choisies " sont remplacés par les mots : " Elle peut être choisie  " ; 
 
 d) Les mots : " du département, de la caisse d'allocations familiales ou de la caisse de mutualité sociale agricole " sont
 remplacés par les mots : " des îles Wallis et Futuna ou de la caisse de compensation des prestations familiales ". 
@@ -47142,9 +47432,9 @@ mer ".
 9° A l'article R. 332-1, les mots : " dans le département où siège la commission " sont remplacés par les mots : " dans les
 îles Wallis et Futuna ". 
 
-10° A l'article R. 334-1, les mots : " forfaitaire du revenu de solidarité active mentionné au 2° de l'article L. 262-2 du
-code de l'action sociale et des familles applicable au foyer du débiteur " sont remplacés par les mots : " fixé par
-l'administrateur supérieur des îles Wallis et Futuna ". 
+10° A l'article R. 334-1, les mots : " forfaitaire du revenu de solidarité active mentionné à l'article L. 262-2 du code de
+l'action sociale et des familles applicable au foyer du débiteur " sont remplacés par les mots : " fixé par l'administrateur
+supérieur des îles Wallis et Futuna ". 
 
 11° A l'article R. 334-23, les mots : " le numéro du département de sa résidence " sont remplacés par les mots : " la
 collectivité où il réside ". 
@@ -47155,25 +47445,29 @@ collectivité où il réside ".
 
 	**Modifié par**:
 
-	  - Décret n°2015-707 du 22 juin 2015 - art. 17 (VD)
+	  - Décret n°2015-1709 du 21 décembre 2015 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cite**:
 
 	  - Code de la consommation - art. L334-8
 	  - Code de la consommation - art. R331-1
-	  - Code de la consommation - art. R331-13
-	  - Code de la consommation - art. R331-2
+	  - Code de la consommation - art. R331-13 (Ab)
+	  - Code de la consommation - art. R331-2 (Ab)
 	  - Code de la consommation - art. R331-3
-	  - Code de la consommation - art. R331-4
+	  - Code de la consommation - art. R331-4 (Ab)
 	  - Code de la consommation - art. R331-5
 	  - Code de la consommation - art. R331-6
-	  - Code de la consommation - art. R331-7
-	  - Code de la consommation - art. R331-7-2
+	  - Code de la consommation - art. R331-7 (Ab)
+	  - Code de la consommation - art. R331-7-2 (Ab)
 	  - Code de la consommation - art. R332-1
-	  - Code de la consommation - art. R334-1
+	  - Code de la consommation - art. R334-1 (Ab)
 	  - Code de la consommation - art. R334-23
-	  - Code de la consommation - art. R334-48
-	  - Code de la consommation - art. R334-67
+	  - Code de la consommation - art. R334-48 (Ab)
+	  - Code de la consommation - art. R334-67 (Ab)
 	  - Code de la consommation - art. R335-4
 
 
