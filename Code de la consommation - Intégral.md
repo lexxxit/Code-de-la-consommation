@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-01-28
 
 # Partie législative
 
@@ -768,6 +768,35 @@ Loi n° 2014-344 du 17 mars 2014 art. 34 : Ces dispositions s'appliquent aux con
 	**Nouveaux textes**:
 
 	  - Code de la consommation - art. L412-5 (M)
+
+
+###### Article L112-13
+
+Les conditions dans lesquelles la déclaration nutritionnelle obligatoire prévue par le règlement (UE) n° 1169/2011 du
+Parlement européen et du Conseil, du 25 octobre 2011, concernant l'information des consommateurs sur les denrées
+alimentaires, modifiant les règlements (CE) n° 1924/2006 et (CE) n° 1925/2006 du Parlement européen et du Conseil et
+abrogeant la directive 87/250/ CEE de la Commission, la directive 90/496/ CEE du Conseil, la directive 1999/10/ CE de la
+Commission, la directive 2000/13/ CE du Parlement européen et du Conseil, les directives 2002/67/ CE et 2008/5/ CE de la
+Commission et le règlement (CE) n° 608/2004 de la Commission peut être accompagnée d'une présentation ou d'une expression
+complémentaire sont fixées à l'article L. 3232-8 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 14
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L412-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L3232-8
 
 
 #### Chapitre III : Prix et conditions de vente
@@ -10745,7 +10774,7 @@ I.-Sont recherchés et constatés, dans les conditions fixées par les articles 
 1° Le chapitre préliminaire du titre II du livre Ier ; 
 
 2° Les sections 1 à 4 
-  _bis_, 8, 9, 12 et 15 du chapitre Ier du titre II du livre Ier ; 
+  _bis_, 8,9,12 et 15 du chapitre Ier du titre II du livre Ier ; 
 
 3° Les sections 3 à 6 du chapitre II du titre II du livre Ier ; 
 
@@ -10753,7 +10782,7 @@ I.-Sont recherchés et constatés, dans les conditions fixées par les articles 
 
 5° Le chapitre II du titre Ier du livre III ; 
 
-6° Les sections 1, 3, 6 et 7 du chapitre III du titre Ier du livre III ; 
+6° Les sections 1,3,6 et 7 du chapitre III du titre Ier du livre III ; 
 
 7° La section 7 du chapitre IV du titre Ier du livre III ; 
 
@@ -10767,7 +10796,7 @@ II.-Sont recherchés et constatés, dans les mêmes conditions qu'au I, à l'exc
 
 1° Les chapitres Ier, III et IV du titre Ier du livre Ier ; 
 
-2° Les sections 5, 6, 11 et 14 du chapitre Ier du titre II du livre Ier ; 
+2° Les sections 5,6,11 et 14 du chapitre Ier du titre II du livre Ier ; 
 
 3° Les sections 1 et 2 du chapitre II du titre II du livre Ier ; 
 
@@ -10830,7 +10859,10 @@ concernant les paiements transfrontaliers dans la Communauté et abrogeant le r�
 du 14 mars 2012, établissant des exigences techniques et commerciales pour les virements et les prélèvements en euros et
 modifiant le règlement (CE) n° 924/2009 ; 
 
-16° De l'article L. 165-9 du code de la sécurité sociale. 
+16° De l'article L. 165-9 du code de la sécurité sociale ; 
+
+17° Des articles L. 1111-3 et L. 1111-3-2 à L. 1111-3-5 du code de la santé publique et des dispositions complémentaires
+prises pour leur application. 
 
 III bis.-Sont recherchés et constatés, dans les conditions fixées au II du présent article, les manquements aux
 dispositions : 
@@ -10910,33 +10942,37 @@ législation en matière de protection des consommateurs.
 
 	**Cite**:
 
-	  - Loi n°65-557 du 10 juillet 1965 - art. 18-1 A (V)
+	  - Loi n°65-557 du 10 juillet 1965 - art. 18-1 A
 	  - Loi n°70-9 du 2 janvier 1970
 	  - Loi n°71-1130 du 31 décembre 1971 - art. 10
-	  - Loi n°71-1130 du 31 décembre 1971 - art. 66-5 (V)
-	  - Loi n°78-17 du 6 janvier 1978 (V)
+	  - Loi n°71-1130 du 31 décembre 1971 - art. 66-5
+	  - Loi n°78-17 du 6 janvier 1978
 	  - Loi n°86-1290 du 23 décembre 1986
-	  - Loi n°89-421 du 23 juin 1989 - art. 6
-	  - Loi n°89-462 du 6 juillet 1989 - art. 4 (V)
+	  - Loi n°89-421 du 23 juin 1989 - art. 6 (VT)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 4
 	  - Loi n°2004-575 du 21 juin 2004
+	  - Loi n°2004-575 du 21 juin 2004 - art. 6
+	  - Ordonnance du 10 septembre 1817 - art. 15
 	  - Code de commerce - art. L450-1
 	  - Code de commerce - art. L450-3
 	  - Code de commerce - art. L450-7
-	  - Code des postes et des communications électroni... - art. L32 (V)
-	  - Code monétaire et financier - art. L112-6 (V)
-	  - Code de la sécurité sociale. - art. L165-9 (V)
-	  - Code de l'action sociale et des familles - art. L311-4 (V)
-	  - Code de l'action sociale et des familles - art. L311-4-1 (V)
-	  - Code de l'action sociale et des familles - art. L314-10-1 (V)
-	  - Code de l'action sociale et des familles - art. L314-10-2 (V)
-	  - Code de l'action sociale et des familles - art. L342-1 (V)
-	  - Code de l'action sociale et des familles - art. L342-2 (V)
-	  - Code de l'action sociale et des familles - art. L347-1 (V)
-	  - Code de la construction et de l'habitation. - art. L271-1 (V)
-	  - Code de la construction et de l'habitation. - art. L271-2 (V)
-	  - Code de la construction et de l'habitation. - art. L271-6 (V)
-	  - Code de la route. - art. L213-2 (V)
-	  - Code des transports - art. L3121-11-2 (V)
+	  - Code des postes et des communications électroniques - art. L32
+	  - Code monétaire et financier - art. L112-6
+	  - Code de la santé publique - art. L1111-3
+	  - Code de la santé publique - art. L1111-3-2
+	  - Code de la sécurité sociale. - art. L165-9
+	  - Code de l'action sociale et des familles - art. L311-4
+	  - Code de l'action sociale et des familles - art. L311-4-1
+	  - Code de l'action sociale et des familles - art. L314-10-1
+	  - Code de l'action sociale et des familles - art. L314-10-2
+	  - Code de l'action sociale et des familles - art. L342-1
+	  - Code de l'action sociale et des familles - art. L347-1
+	  - Code de la construction et de l'habitation. - art. L271-1
+	  - Code de la construction et de l'habitation. - art. L271-2
+	  - Code de la construction et de l'habitation. - art. L271-6
+	  - Code de la route. - art. L213-2
+	  - Code des transports - art. L3121-11-2
+	  - Code des transports - art. L3122-2
 
 	**Cité par**:
 
@@ -10994,7 +11030,48 @@ législation en matière de protection des consommateurs.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1776 du 28 décembre 2015 - art. 59
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 217
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L511-10 (V)
+	  - Code de la consommation - art. L511-2 (V)
+	  - Code de la consommation - art. L511-21 (V)
+	  - Code de la consommation - art. L511-3 (V)
+	  - Code de la consommation - art. L511-4 (M)
+	  - Code de la consommation - art. L511-6 (M)
+	  - Code de la consommation - art. L511-7 (M)
+	  - Code de la consommation - art. L511-8 (V)
+	  - Code de la consommation - art. L511-9 (V)
+	  - Code de la consommation - art. L512-10 (V)
+	  - Code de la consommation - art. L512-11 (V)
+	  - Code de la consommation - art. L512-13 (V)
+	  - Code de la consommation - art. L512-14 (V)
+	  - Code de la consommation - art. L512-16 (V)
+	  - Code de la consommation - art. L512-17 (V)
+	  - Code de la consommation - art. L512-2 (V)
+	  - Code de la consommation - art. L512-23 (V)
+	  - Code de la consommation - art. L512-3 (V)
+	  - Code de la consommation - art. L512-4 (V)
+	  - Code de la consommation - art. L512-5 (V)
+	  - Code de la consommation - art. L512-6 (V)
+	  - Code de la consommation - art. L512-7 (V)
+	  - Code de la consommation - art. L512-8 (V)
+	  - Code de la consommation - art. L512-9 (V)
+	  - Code de la consommation - art. L521-1 (V)
+	  - Code de la consommation - art. L521-2 (V)
+	  - Code de la consommation - art. L524-1 (V)
+	  - Code de la consommation - art. L524-2 (V)
+	  - Code de la consommation - art. L524-3 (V)
+	  - Code de la consommation - art. L524-4 (V)
+	  - Code de la consommation - art. L525-1 (V)
+	  - Code de la consommation - art. L531-1 (V)
+	  - Code de la consommation - art. L532-1 (V)
+	  - Code de la consommation - art. R525-1 (V)
 
 
 ###### Article L141-1-1
