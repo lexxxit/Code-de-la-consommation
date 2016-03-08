@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-01-28
+Version Consolidée au 2016-03-09
 
 # Partie législative
 
@@ -30474,11 +30474,15 @@ promouvoir des biens, produits, ou prestations de services à des prix fixés en
 
 - des textes réglementaires pris en application de l'article L. 410-2 du code de commerce reproduit à l'article L. 113-1, ou
 de ceux ayant le même objet pris en application de l'ordonnance n° 45-1483 du 30 juin 1945 et maintenus en vigueur à titre
-transitoire par l'article 61 de l'ordonnance n° 86-1243 du 1er décembre 1986, figurant en annexe au présent code ;
-
-- de l'article L. 3122-2 du code des transports. 
+transitoire par l'article 61 de l'ordonnance n° 86-1243 du 1er décembre 1986, figurant en annexe au présent code.
 
 En cas de récidive, les peines d'amende prévues pour la récidive des contraventions de la cinquième classe sont applicables.
+
+**Nota:**
+
+Conseil d'Etat, décisions N
+  <sup>os</sup> 388213, 388343, 388357 du 9 mars 2016 (ECLI:FR:CESSR:2016:388213.20160309), article 1er : Le troisième alinéa
+de l'article R. 113-1 du code de la consommation est annulé.
 
 **Liens relatifs à cet article**
 
@@ -30490,13 +30494,13 @@ En cas de récidive, les peines d'amende prévues pour la récidive des contrave
 	  - Code de la consommation - art. L113-1
 	  - Code des transports - art. L3122-2
 
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
 	**Modifié par**:
 
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
+	  - Décision du 9 mars 2016, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 	**Cité par**:
 
