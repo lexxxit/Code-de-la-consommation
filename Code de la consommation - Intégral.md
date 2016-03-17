@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-03-09
+Version Consolidée au 2016-03-18
 
 # Partie législative
 
@@ -6026,6 +6026,241 @@ déloyales au sens de l'article L. 120-1.
 
 
 ##### Section 7 : Achats par l'intermédiaire    des opérateurs de communications électroniques
+
+###### Article L121-42
+
+L'opérateur de communications électroniques, au sens du 6° de l'article L. 32 du code des postes et des communications
+électroniques, exploitant un numéro à valeur ajoutée, son abonné auquel ce numéro est affecté et, s'il est différent, le
+fournisseur du produit ou du service à valeur ajoutée mettent gratuitement à la disposition des consommateurs un outil
+accessible en ligne permettant d'identifier, à partir du numéro d'appel ou de message textuel, le nom du produit ou du
+service accessible à ce numéro d'appel ou de message textuel, la description sommaire du produit ou du service, le nom du
+fournisseur, son site internet, s'il existe, l'adresse du fournisseur ainsi que l'adresse ou le numéro de téléphone auxquels
+le consommateur peut adresser ses réclamations.
+
+L'outil mentionné au premier alinéa permet aux consommateurs d'obtenir les informations prévues au même alinéa pendant une
+période qui ne peut être inférieure à douze mois à compter de la date d'achat du produit ou du service. Il est mis à la
+disposition des consommateurs sous la forme d'un accès unique dédié aux numéros d'appel et d'un accès unique dédié aux
+numéros de messages textuels.
+
+L'opérateur en relation contractuelle avec le consommateur l'informe, sur son site internet, de l'existence de cet outil et
+des moyens permettant d'y accéder.
+
+Les abonnés et les fournisseurs de produits ou de services à valeur ajoutée concernés ne peuvent s'opposer à la communication
+et à la publication par des tiers des informations mentionnées au premier alinéa en vue de constituer l'outil mentionné au
+même alinéa.
+
+L'opérateur mentionné au premier alinéa prévoit, dans le contrat avec l'abonné auquel il affecte un numéro à valeur ajoutée,
+sous peine de résiliation, que l'abonné l'informe de toute modification concernant son identité et son adresse, lesquelles
+doivent figurer dans le contrat.
+
+Ce même contrat prévoit également, sous peine de la suspension de l'accès aux numéros concernés, qui peut être suivie de la
+résiliation du contrat en cas de récidive, que l'abonné fournit à l'opérateur mentionné au premier alinéa les informations
+prévues à ce même alinéa et informe l'opérateur de toute modification avec un préavis suffisant afin que l'outil soit mis à
+jour. La description du produit ou du service doit permettre à l'opérateur de s'assurer qu'il ne fait pas partie de ceux que
+l'opérateur exclut, le cas échéant, au titre de ses règles déontologiques.
+
+Un mécanisme de signalement impose à l'opérateur de vérifier les renseignements présents dans l'outil afin de procéder en cas
+d'inexactitude à la suspension de l'accès au numéro et, le cas échéant, à la résiliation prévues au sixième alinéa.
+
+Le présent article s'applique sans préjudice des autres causes légales ou contractuelles de suspension ou de résiliation,
+notamment déontologiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 145 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (VD)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-43 (VD)
+	  - Code de la consommation - art. L121-44 (VD)
+	  - Code de la consommation - art. L121-45 (VD)
+	  - Code de la consommation - art. L121-46 (VD)
+	  - Code de la consommation - art. L121-49 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-43 (V)
+	  - Code de la consommation - art. L224-44 (V)
+	  - Code de la consommation - art. L224-45 (V)
+	  - Code de la consommation - art. L224-46 (V)
+	  - Code de la consommation - art. L224-47 (V)
+	  - Code de la consommation - art. L224-48 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L32
+
+
+###### Article L121-43
+
+Les coûts de mise en place et de fonctionnement de l'outil prévu à l'article L. 121-42 sont mutualisés par les professionnels
+mentionnés au premier alinéa du même article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 145 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (VD)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-42
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-49 (V)
+
+
+###### Article L121-44
+
+Tout fournisseur de produit ou de service à valeur ajoutée mentionné au premier alinéa de l'article L. 121-42 conserve,
+pendant un délai minimal de cinq ans après la cessation des relations contractuelles, les coordonnées de tout prestataire
+cocontractant associé à la promotion du produit ou du service.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 145 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (VD)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-42
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-50 (V)
+
+
+###### Article L121-45
+
+Tout fournisseur d'un service téléphonique au public, au sens du 7° de l'article L. 32 du code des postes et des
+communications électroniques, propose aux consommateurs avec lesquels il est en relation contractuelle un dispositif leur
+permettant de signaler, par messages textuels, les appels et messages textuels non sollicités émis par des professionnels et
+le numéro de téléphone de leurs émetteurs. 
+
+Ce dispositif peut être mutualisé par plusieurs des fournisseurs mentionnés au premier alinéa du présent article. 
+
+Les fournisseurs mentionnés au même premier alinéa agrègent les signalements par numéro des émetteurs des appels et messages
+textuels non sollicités ainsi que par numéro auquel le consommateur est invité à envoyer un message textuel ou qu'il est
+incité à appeler. Les opérateurs mentionnés au premier alinéa de l'article L. 121-42 sont informés des numéros les
+concernant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 145 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (VD)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-42
+	  - Code des postes et des communications électroniques - art. L32
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L121-46 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-51 (V)
+	  - Code de la consommation - art. L224-52 (V)
+
+
+###### Article L121-46
+
+Les modalités du mécanisme de signalement prévu à l'article L. 121-42 et les modalités selon lesquelles les opérateurs sont
+informés des numéros les concernant en application de l'article L. 121-45 sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 145 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (VD)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-42
+	  - Code de la consommation - art. L121-45
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-53 (V)
+
+
+###### Article L121-47
+
+Tout fournisseur d'un service téléphonique au public, au sens du 7° de l'article L. 32 du code des postes et des
+communications électroniques, propose au consommateur une option gratuite permettant de bloquer les communications à
+destination de certaines tranches de numéros à valeur ajoutée. Ces tranches de numéros sont définies par un arrêté conjoint
+des ministres chargés de la consommation et de l'économie numérique, pris après avis de l'Autorité de régulation des
+communications électroniques et des postes, qui tient compte du plafond de tarification et du format de ces numéros.
+
+**Nota:**
+
+Conformément à l'article 145 IV de la loi n° 2014-344 du 17 mars 2014, l'article L. 121-47 est applicable au plus tôt dix-
+huit mois après l'entrée en vigueur de l'arrêté qu'il prévoit et au plus tard deux ans après la promulgation de la présente
+loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 145 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-54 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L32
+
+
+###### Article L121-48
+
+La présente section est applicable aux consommateurs et aux non-professionnels.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 145 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L224-55 (V)
+
 
 ###### Article L121-49
 
@@ -12472,26 +12707,36 @@ postérieurement à son entrée en vigueur.
 
 ###### Article L211-7
 
-Les défauts de conformité qui apparaissent dans un délai de six mois à partir de la délivrance du bien sont présumés exister
-au moment de la délivrance, sauf preuve contraire.
+Les défauts de conformité qui apparaissent dans un délai de vingt-quatre mois à partir de la délivrance du bien sont présumés
+exister au moment de la délivrance, sauf preuve contraire.
+
+Pour les biens vendus d'occasion, la durée mentionnée au premier alinéa du présent article est ramenée à six mois
 
 Le vendeur peut combattre cette présomption si celle-ci n'est pas compatible avec la nature du bien ou le défaut de
 conformité invoqué.
 
 **Nota:**
 
-Ordonnance 2005-136 2005-02-17 art. 5 : Les dispositions de la présente ordonnance s'appliquent aux contrats conclus
-postérieurement à son entrée en vigueur.
+Loi n° 2014-344 du 17 mars 2014, article 15-II : ces dispositions entrent en vigueur deux ans après la publication de la
+présente loi.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°93-949 1993-07-26
+	  - Loi n°93-949 du 26 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-136 du 17 février 2005 - art. 1 () JORF 18 février 2005
+	  - Loi n°2014-344 du 17 mars 2014 - art. 15 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L217-7 (V)
 
 
 ###### Article L211-8
