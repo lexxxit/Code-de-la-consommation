@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-03-25
+Version Consolidée au 2016-05-21
 
 # Partie réglementaire nouvelle
 
@@ -38874,6 +38874,36 @@ En cas de récidive, la peine d'amende prévue pour la récidive des contraventi
 
 	  - Code de la consommation - art. R341-24 (V)
 	  - Code de la consommation - art. R341-25 (V)
+
+
+##### Section 3 bis : Formation du prêteur et de l'intermédiaire
+
+###### Article D313-10-5
+
+La formation professionnelle mentionnée au 2° de l'article D. 313-10-2 ainsi que la formation continue mentionnée à l'article
+D. 313-10-4 : 
+
+1° Ont pour objet de permettre d'acquérir, préalablement à l'entrée dans la profession, et de maintenir en cours d'activité,
+des compétences en matière juridique, économique et financière. Les compétences acquises dans ce cadre et leurs mises à jour
+font l'objet d'un contrôle à l'issue de la formation ; 
+
+2° Donnent lieu à la délivrance d'un livret et d'une attestation datée et signée par la personne responsable de la formation
+et mentionnant les rubriques de la formation suivie. Le livret comprend en annexe les résultats du contrôle des compétences
+effectué à l'issue de la formation. L'attestation et le livret sont remis à leur titulaire à l'issue de la formation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-622 du 19 mai 2016 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. D314-26 (V)
 
 
 ##### Section 7 :  Regroupement de crédits
