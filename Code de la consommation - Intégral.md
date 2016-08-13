@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-07-01
+Version Consolidée au 2016-08-14
 
 # Partie législative nouvelle
 
@@ -54647,13 +54647,14 @@ du ministre chargé de la consommation.
 
 ###### Article D824-2
 
-Le Conseil est consulté sur la définition de la politique alimentaire et donne des avis sur les questions qui s'y rapportent.
+Le Conseil est consulté sur la définition de la politique publique de l'alimentation et donne des avis sur les questions qui
+s'y rapportent.
 
 II peut, en particulier, être consulté sur les grandes orientations de la politique relative :
 
 1° A l'adaptation de la consommation aux besoins nutritionnels ;
 
-2° A la sécurité alimentaire des consommateurs ;
+2° A la sécurité alimentaire et à la sécurité sanitaire des aliments ;
 
 3° A la qualité des denrées alimentaires ;
 
@@ -54675,9 +54676,13 @@ qui le constituent ou par son président.
 
 	  - Décret n°2016-884 du 29 juin 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-884 du 29 juin 2016 - art.
+	  - Décret n°2016-1107 du 11 août 2016 - art. 1
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. D541-2 (Ab)
 
 
 ###### Article D824-3
@@ -54710,24 +54715,30 @@ Le programme national relatif à la nutrition et à la santé est défini à l'a
 
 Le Conseil national de l'alimentation comprend :
 
-1° Quarante-neuf membres répartis en sept collèges :
+1° Cinquante-cinq membres répartis en huit collèges :
 
 a) Le collège constitué de neuf représentants des associations nationales de défense des consommateurs ou d'usagers ;
 
 b) Le collège constitué de neuf représentants des producteurs agricoles ;
 
-c) Le collège constitué de neuf représentants de la transformation, dont un représentant de l'artisanat ;
+c) Le collège constitué de neuf représentants de la transformation, dont au moins un représentant de l'artisanat ;
 
-d) Le collège constitué de trois représentants de la distribution ;
+d) Le collège constitué de quatre représentants de la distribution, dont au moins un représentant du commerce de gros ;
 
 e) Le collège constitué de six représentants de la restauration ;
 
 f) Le collège constitué de cinq représentants des syndicats de salariés de l'agriculture, de l'agroalimentaire et de la
 distribution des produits alimentaires ;
 
-g) Le collège constitué de huit personnalités désignées en raison de leurs compétences en matière d'alimentation ;
+g) Le collège constitué de trois représentants d'associations : une association mettant en œuvre l'aide alimentaire habilitée
+au niveau national en application de l'article L. 230-6 du code rural et de la pêche maritime, une association représentant
+les usagers du système de santé agréée au niveau national en application de l'article L. 1114-1 du code de la santé publique
+et une association de protection de l'environnement agréée au niveau national en application de l'article L. 141-1 du code de
+l'environnement ;
 
-2° Huit membres de droit :
+h) Le collège constitué de dix personnalités désignées en raison de leur compétence en matière d'alimentation ; 
+
+2° Neuf membres de droit :
 
 a) Le directeur de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, ou son
 représentant ;
@@ -54738,17 +54749,44 @@ c) Le directeur de l'Institut national de la santé et de la recherche médicale
 
 d) Le directeur de l'Institut français de recherche pour l'exploitation de la mer, ou son représentant ;
 
-e) Le directeur de l'Institut national de la consommation, ou son représentant ;
+e) Le directeur général de l'Agence de l'environnement et de la maîtrise de l'énergie, ou son représentant ; 
 
-f) Le président de l'Association des maires de France, ou son représentant ;
+f) Le directeur de l'Institut national de la consommation, ou son représentant ;
 
-g) Le président de l'Association des départements de France, ou son représentant ;
+g) Le président de l'Association des maires de France, ou son représentant ;
 
-h) Le président de l'Association des régions de France, ou son représentant.
+h) Le président de l'Association des départements de France, ou son représentant ;
 
-En outre, assistent de plein droit aux séances du conseil, et participent aux débats avec voix consultative, les
-représentants des ministres chargés respectivement de la recherche, de l'industrie, de l'agriculture, de la santé, de la
-consommation, de l'éducation nationale, de la pêche, du commerce et de l'artisanat, de l'économie et de l'emploi.
+i) Le président de l'Association des régions de France, ou son représentant.
+
+En outre, assistent de plein droit aux séances du conseil et participent aux débats avec voix consultative les représentants
+des ministres chargés : 
+
+- de l'agriculture ; 
+
+- de la cohésion sociale ; 
+
+- du commerce et de l'artisanat ; 
+
+- de la consommation ; 
+
+- de l'économie ; 
+
+- de l'éducation nationale ; 
+
+- de l'emploi ; 
+
+- de l'environnement ; 
+
+- de l'industrie ; 
+
+- de l'outre-mer ; 
+
+- de la pêche ; 
+
+- de la recherche ; 
+
+- de la santé.
 
 **Liens relatifs à cet article**
 
@@ -54756,9 +54794,13 @@ consommation, de l'éducation nationale, de la pêche, du commerce et de l'artis
 
 	  - Décret n°2016-884 du 29 juin 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-884 du 29 juin 2016 - art.
+	  - Décret n°2016-1107 du 11 août 2016 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. D541-3 (Ab)
 
 	**Cité par**:
 
@@ -54767,11 +54809,8 @@ consommation, de l'éducation nationale, de la pêche, du commerce et de l'artis
 
 ###### Article D824-5
 
-Les membres des collèges a à f mentionnés au 1° de l'article D. 824-4 sont nommés, sur proposition des organisations les plus
-représentatives, par arrêté conjoint des ministres chargés de l'agriculture, de la santé et de la consommation. 
-
-Ceux du collège g mentionné au 1° du même article sont nommés par arrêté conjoint des ministres chargés de l'agriculture, de
-la santé et de la consommation. 
+Les membres des collèges a à h mentionnés au 1° de l'article D. 824-4 sont nommés, par arrêté conjoint des ministres chargés
+de l'agriculture, de la santé et de la consommation.
 
 Leur mandat de trois ans est renouvelable.
 
@@ -54781,13 +54820,17 @@ Leur mandat de trois ans est renouvelable.
 
 	  - Décret n°2016-884 du 29 juin 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-884 du 29 juin 2016 - art.
+	  - Décret n°2016-1107 du 11 août 2016 - art. 3
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. D541-4 (Ab)
 
 	**Cite**:
 
-	  - Code de la consommation - art. D824-4 (V)
+	  - Code de la consommation - art. D824-4
 
 	**Cité par**:
 
