@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-08-14
+Version Consolidée au 2016-08-17
 
 # Partie législative nouvelle
 
@@ -6649,7 +6649,11 @@ règlement.
 
 ###### Article L224-11
 
-Le fournisseur d'électricité ou de gaz naturel facture, au moins une fois par an, en fonction de l'énergie consommée.
+Le fournisseur d'électricité ou de gaz naturel facture, au moins une fois par an, en fonction de l'énergie consommée. Aucune
+consommation d'électricité ou de gaz naturel antérieure de plus de quatorze mois au dernier relevé ou autorelevé ne peut être
+facturée, sauf en cas de défaut d'accès au compteur, d'absence de transmission par le consommateur d'un index relatif à sa
+consommation réelle, après un courrier adressé au client par le gestionnaire de réseau par lettre recommandée avec demande
+d'avis de réception, ou de fraude.
 
 **Liens relatifs à cet article**
 
@@ -6660,10 +6664,6 @@ Le fournisseur d'électricité ou de gaz naturel facture, au moins une fois par 
 	**Créé par**:
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-91, alinéa 1 (Ab)
 
 	**Cité par**:
 
