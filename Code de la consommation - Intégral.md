@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-08-17
+Version Consolidée au 2016-10-01
 
 # Partie législative nouvelle
 
@@ -14337,15 +14337,9 @@ existante qui ne sont pas garantis par une hypothèque ou une sûreté réelle c
 
 ###### Article L313-3
 
-Toute publicité faite, reçue ou perçue en France, qui, quel que soit son support, porte sur l'un des prêts mentionnés à
-l'article L. 313-1, précise :
-
-1° L'identité du prêteur, la nature et l'objet du prêt ;
-
-2° Si elle comporte un ou plusieurs éléments chiffrés, la durée de l'opération proposée ainsi que le coût total et le taux
-effectif global annuel du crédit, à l'exclusion de tout autre taux.
-
-Toutes les mentions obligatoires sont présentées de manière parfaitement lisible et compréhensible par le consommateur.
+Tout document publicitaire mis à disposition de l'emprunteur portant sur l'une des opérations visées à l'article L. 313-1
+mentionne que l'emprunteur dispose d'un délai de réflexion de dix jours, que la vente est subordonnée à l'obtention du prêt
+et que, si celui-ci n'est pas obtenu, le vendeur doit lui rembourser les sommes versées.
 
 **Liens relatifs à cet article**
 
@@ -14353,13 +14347,13 @@ Toutes les mentions obligatoires sont présentées de manière parfaitement lisi
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de la consommation - art. L312-4 (Ab)
+	  - Code de la consommation - art. L313-1 (VD)
 
 	**Cité par**:
 
@@ -14369,11 +14363,19 @@ Toutes les mentions obligatoires sont présentées de manière parfaitement lisi
 
 ###### Article L313-4
 
-Tout document publicitaire ou tout document d'information remis à l'emprunteur et portant sur l'une des opérations visées à
-l'article L. 313-1 mentionne que l'emprunteur dispose d'un délai de réflexion de dix jours, que la vente est subordonnée à
-l'obtention du prêt et que si celui-ci n'est pas obtenu, le vendeur lui rembourse les sommes versées.
+Toute publicité faite, reçue ou perçue en France, qui, quel que soit son support, porte sur l'un des prêts mentionnés à
+l'article L. 313-1, précise l'identité du prêteur ou de l'intermédiaire de crédit, la nature et l'objet du prêt. Lorsque
+cette publicité comporte un taux d'intérêt ou des chiffres relatifs au coût du crédit pour l'emprunteur, elle précise
+également de façon claire, concise et visible les informations complémentaires sur les caractéristiques du crédit, fournies,
+le cas échéant, à l'aide d'un exemple représentatif. 
+
+Un décret en Conseil d'Etat fixe la liste et les modalités de présentation de ces informations.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
 	**Cité par**:
 
@@ -14381,83 +14383,60 @@ l'obtention du prêt et que si celui-ci n'est pas obtenu, le vendeur lui rembour
 	  - Code de la consommation - art. R313-1 (VD)
 	  - Code de la consommation - art. R313-2 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
 
-	**Créé par**:
+	**Cite**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L312-5 (Ab)
+	  - Code de la consommation - art. L313-1 (VD)
 
 
 ###### Article L313-5
 
-Est interdite toute publicité assimilant les mensualités de remboursement à des loyers ou faisant référence, pour le calcul
-des échéances, à des prestations sociales qui ne sont pas assurées pendant toute la durée du contrat.
+Il est interdit dans toute communication publicitaire et commerciale : 
+
+1° D'assimiler les mensualités de remboursement à des loyers ou faisant référence, pour le calcul des échéances, à des
+prestations sociales qui ne sont pas assurées pendant toute la durée du contrat ; 
+
+2° De faire figurer toute formulation susceptible de faire naître chez le consommateur de fausses attentes concernant la
+disponibilité ou le coût d'un crédit.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
 	**Cité par**:
 
 	  - Loi n°65-557 du 10 juillet 1965 - art. 26-5 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Créé par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L312-6 (Ab)
+	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
 
 
-##### Section 3 : Information précontractuelle de l'emprunteur
-
-##### Sous-section 2 : Information relative à l'assurance-emprunteur
+##### Sous-section 2 : Informations générales
 
 ###### Article L313-6
 
-Tout document remis à l'emprunteur préalablement à la formulation de l'offre mentionnée à l'article L. 313-9 et comportant un
-ou plusieurs éléments chiffrés sur l'assurance de groupe mentionnée au premier alinéa de l'article L. 313-14 mentionne le
-coût de cette assurance.
+Le prêteur assure la disponibilité permanente des informations générales, claires et compréhensibles, sur les contrats de
+crédit visés à l'article L. 313-1. L'intermédiaire de crédit assure également la disponibilité permanente des mêmes
+informations. Ces dernières sont délivrées sur papier, sur tout autre support durable ou sous forme électronique. Elles sont
+facilement accessibles et sont fournies gratuitement à l'emprunteur. 
 
-Ce coût est exprimé :
-
-1° A l'exclusion de tout autre taux, en taux annuel effectif de l'assurance, qui permette la comparaison par l'emprunteur de
-ce taux avec le taux effectif global annuel ;
-
-2° En montant total en euros dû par l'emprunteur au titre de l'assurance sur la durée totale du prêt ;
-
-3° En euros et par période, selon la périodicité de paiement. Il est précisé si ce montant s'ajoute ou non à l'échéance de
-remboursement du crédit.
-
-Simultanément à la remise de tout document mentionné au présent article, doivent être remises la fiche standardisée
-d'information mentionnée à l'article L. 313-8 ainsi que la notice mentionnée au 1° de l'article L. 313-14.
+Un décret en Conseil d'Etat détermine la liste et le contenu de ces informations générales.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
 
-	**Créé par**:
+	**Cite**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-351 du 25 mars 2016 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L313-8 (VD)
+	  - Code de la consommation - art. L313-1 (VD)
 
 	**Cité par**:
 
@@ -14466,10 +14445,31 @@ d'information mentionnée à l'article L. 313-8 ainsi que la notice mentionnée 
 	  - Code de la consommation - art. R313-3 (VD)
 
 
+##### Section 3 : Information précontractuelle de l'emprunteur
+
+##### Sous-section 1 : Fiche d'information standardisée européenne
+
 ###### Article L313-7
 
-Tout intermédiaire d'assurance ou organisme assureur au sens du code des assurances proposant à l'emprunteur une assurance en
-couverture d'un crédit immobilier est soumis aux obligations prévues à l'article L. 313-6.
+Au plus tard lors de l'émission de l'offre de crédit, le prêteur ou l'intermédiaire de crédit communique à l'emprunteur, par
+écrit ou sur un autre support durable, sous la forme d'une fiche d'information standardisée européenne, les informations
+personnalisées permettant à l'emprunteur de comparer les différentes offres de crédit disponibles sur le marché, d'évaluer
+leurs implications et de se déterminer en toute connaissance de cause sur l'opportunité de conclure un contrat de crédit. 
+
+Un décret en Conseil d'Etat fixe la liste et le contenu des informations devant figurer dans cette fiche d'information
+standardisée européenne à fournir pour l'offre de crédit ainsi que les conditions de sa présentation. 
+
+Toutes les informations complémentaires que le prêteur souhaite donner à l'emprunteur sont fournies dans un document distinct
+de la fiche mentionnée au présent article. 
+
+L'ensemble des informations fourni en application du présent article l'est gratuitement.
+
+**Nota:**
+
+(1) Aux termes de l'ordonnance n° 2016-351 du 25 mars 2016, article 13 III : L'article L. 313-7, dans sa rédaction issue de
+la présente ordonnance, entre en vigueur le 1er octobre 2016, à l'exception de la mention, au sein de la fiche d'information
+standardisée européenne mentionnée à l'article L. 313-7, de la rémunération de l'intermédiaire de crédit, applicable à
+compter du 1er janvier 2017 au plus tard, selon les modalités précisées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -14477,13 +14477,9 @@ couverture d'un crédit immobilier est soumis aux obligations prévues à l'arti
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-351 du 25 mars 2016 - art. 3
+	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
 
 	**Cité par**:
 
@@ -14501,11 +14497,8 @@ couverture d'un crédit immobilier est soumis aux obligations prévues à l'arti
 	  - Code de la consommation - art. R314-3 (VD)
 	  - Code de la consommation - art. R341-20 (V)
 
-	**Nouveaux textes**:
 
-	  - Code de la consommation - art. L313-9 (V)
-	  - Code de la consommation - art. L313-9 (VD)
-
+##### Sous-section 2 : Information relative à l'assurance-emprunteur
 
 ###### Article L313-8
 
@@ -14614,6 +14607,52 @@ format de cette fiche ainsi que son contenu sont fixés par arrêté.
 ##### Section 4 : Explications fournies à l'emprunteur et évaluation de sa solvabilité
 
 ##### Sous-section 1 : Explications adéquates et mise en garde 
+
+###### Article L313-11
+
+Le prêteur ou l'intermédiaire de crédit fournit gratuitement à l'emprunteur les explications adéquates lui permettant de
+déterminer si le ou les contrats de crédit proposés et les éventuels services accessoires sont adaptés à ses besoins et à sa
+situation financière. 
+
+Ces explications comprennent notamment : 
+
+1° Les informations contenues dans la fiche d'information standardisée européenne mentionnée à l'article L. 313-7, ainsi que,
+pour les intermédiaires de crédit, les obligations d'information prévues en application de l'article L. 519-4-1 du code
+monétaire et financier ; 
+
+2° Les principales caractéristiques du ou des crédits et services accessoires proposés ; 
+
+3° Les effets spécifiques que le ou les crédits et services accessoires proposés peuvent avoir sur l'emprunteur, y compris
+les conséquences d'un défaut de paiement de l'emprunteur, notamment en cas de réalisation des garanties. Lorsque la garantie
+est constituée par un cautionnement accordé par un organisme de cautionnement professionnel, le prêteur informe l'emprunteur
+de la nature, des bénéficiaires et des conditions dans lesquelles celle-ci peut être actionnée et des conséquences pour
+l'emprunteur ; 
+
+4° S'agissant des éventuels services accessoires liés au contrat de crédit, l'indication de la possibilité ou non de résilier
+chaque composante séparément et les implications d'une telle procédure pour l'emprunteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L313-13 (VD)
+	  - Code de la consommation - art. L341-24 (VD)
+	  - Code de la consommation - art. L341-27 (VD)
+	  - Code de la consommation - art. L341-31 (VD)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L313-7 (VD)
+	  - Code monétaire et financier - art. L519-4-1 (VD)
+
 
 ###### Article L313-12
 
@@ -14949,36 +14988,6 @@ procédures qui s'y rapportent en matière d'octroi de prêts mentionnés au 2°
 
 
 ##### Section 5 : Formation du contrat de crédit
-
-###### Article L313-11
-
-Le modèle de l'offre mentionnée aux articles L. 313-9 et L. 313-10 est fixé par arrêté du ministre chargé de l'économie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Créé par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2016-351 du 25 mars 2016 - art. 3
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L313-13 (VD)
-	  - Code de la consommation - art. L341-24 (VD)
-	  - Code de la consommation - art. L341-27 (VD)
-	  - Code de la consommation - art. L341-31 (VD)
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L313-26 (VD)
-
 
 ###### Article L313-24
 
@@ -16138,41 +16147,42 @@ Les dispositions de l'article L. 314-20 sont applicables aux contrats soumis aux
 	  - Code de la consommation - art. L314-20 (VD)
 
 
-##### Section 9 : Crédit libellé en devise étrangère à l'Union européenne
+##### Section 9 : Prêts libellés dans une devise autre que l'euro
 
-###### Article L313-49
+###### Article L313-64
 
-Les emprunteurs, personnes physiques n'agissant pas pour des besoins professionnels, ne peuvent contracter de prêts libellés
-dans une devise étrangère à l'Union européenne remboursables en monnaie nationale que s'ils déclarent percevoir
-principalement leurs revenus ou détenir un patrimoine dans cette devise au moment de la signature du contrat de prêt, excepté
-si le risque de change n'est pas supporté par l'emprunteur.
+Les emprunteurs ne peuvent contracter de prêts libellés dans une devise autre que l'euro, remboursables en euros ou dans la
+devise concernée, que s'ils déclarent percevoir principalement leurs revenus ou détenir un patrimoine dans cette devise au
+moment de la signature du contrat de prêt, excepté si le risque de change n'est pas supporté par l'emprunteur. 
 
-Ils sont informés des risques inhérents à un tel contrat de prêt et les possibilités éventuelles de conversion des
-remboursements en monnaie nationale en cours de prêt leur sont précisées avant l'émission de l'offre de prêt. 
+Au plus tard à l'émission de l'offre de prêt, le prêteur informe l'emprunteur des risques inhérents à un tel contrat de prêt
+et des possibilités éventuelles de conversion des remboursements en euros en cours de prêt leur sont précisées. 
 
-Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
 	**Créé par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Modifié par**:
 
 	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
 
 	**Liens**:
 
-	  - TRANSFERE: Ordonnance n°2016-351 du 25 mars 2016 - art. 3
+	  - RECTIFICATION: Ordonnance n°2016-351 du 25 mars 2016, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de la consommation - art. L313-64 (VD)
+	  - Code de la consommation - art. L312-3-1 (Ab)
+	  - Code de la consommation - art. L313-49 (VD)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L341-25 (VD)
+	  - Code de la consommation - art. L341-26 (VD)
+	  - Code de la consommation - art. L341-32 (VD)
+	  - Code de la consommation - art. R313-14 (V)
+	  - Code de la consommation - art. R313-30 (VD)
+	  - Code de la consommation - art. R313-4 (VD)
 
 
 #### Chapitre IV : Dispositions communes au crédit à la consommation et au crédit immobilier
@@ -16187,11 +16197,16 @@ Les conditions d'application du présent article sont fixées par décret en Con
 ###### Article L314-1
 
 Dans tous les cas, pour la détermination du taux effectif global du prêt, comme pour celle du taux effectif pris comme
-référence, sont ajoutés aux intérêts les frais, commissions ou rémunérations de toute nature, directs ou indirects, y compris
-ceux qui sont payés ou dus à des intermédiaires intervenus de quelque manière que ce soit dans l'octroi du prêt, même si ces
-frais, commissions ou rémunérations correspondent à des débours réels.
+référence, sont ajoutés aux intérêts les frais, les taxes, les commissions ou rémunérations de toute nature, directs ou
+indirects, supportés par l'emprunteur et connus du prêteur à la date d'émission de l'offre de crédit ou de l'avenant au
+contrat de crédit, ou dont le montant peut être déterminé à ces mêmes dates, et qui constituent une condition pour obtenir le
+crédit ou pour l'obtenir aux conditions annoncées.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
 	**Cité par**:
 
@@ -16211,13 +16226,13 @@ frais, commissions ou rémunérations correspondent à des débours réels.
 	  - Code de la consommation - art. R314-12 (VD)
 	  - Code monétaire et financier - art. L313-17 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 4
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Code de la consommation - art. L313-1 (VT)
 
 	**Liens**:
 
@@ -16226,13 +16241,8 @@ frais, commissions ou rémunérations correspondent à des débours réels.
 
 ###### Article L314-2
 
-Pour l'application des articles L. 313-3 à L. 313-13, les charges liées aux garanties dont les crédits sont éventuellement
-assortis ainsi que les honoraires d'officiers ministériels ne sont pas compris dans le taux effectif global défini à
-l'article L. 314-1, lorsque leur montant ne peut être indiqué avec précision antérieurement à la conclusion définitive du
-contrat.
-
-Pour les prêts qui font l'objet d'un amortissement échelonné, le taux effectif global doit être calculé en tenant compte des
-modalités de l'amortissement de la créance.
+Pour les contrats de crédit qui prévoient un amortissement échelonné, le taux effectif global doit être calculé en tenant
+compte des modalités de l'amortissement de la créance.
 
 **Liens relatifs à cet article**
 
@@ -16240,13 +16250,13 @@ modalités de l'amortissement de la créance.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 4
 
 	**Anciens textes**:
 
-	  - Code de la consommation - art. L313-1, alinéas 2 et 4 (VT)
+	  - Code de la consommation - art. L313-1 (VT)
 
 	**Liens**:
 
@@ -16255,8 +16265,8 @@ modalités de l'amortissement de la créance.
 
 ###### Article L314-3
 
-Pour les contrats de crédit entrant dans le champ d'application du chapitre II du présent titre, le taux effectif global, qui
-est dénommé " Taux annuel effectif global ", ne comprend pas les frais d'acte notarié.
+Pour les contrats de crédit entrant dans le champ d'application des chapitres II et III du présent titre, le taux effectif
+global est dénommé "    Taux annuel effectif global ".
 
 **Liens relatifs à cet article**
 
@@ -16264,13 +16274,13 @@ est dénommé " Taux annuel effectif global ", ne comprend pas les frais d'acte 
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 4
 
 	**Anciens textes**:
 
-	  - Code de la consommation - art. L313-1, alinéa 3 (VT)
+	  - Code de la consommation - art. L313-1 (VT)
 
 	**Cité par**:
 
@@ -16284,8 +16294,9 @@ est dénommé " Taux annuel effectif global ", ne comprend pas les frais d'acte 
 
 ###### Article L314-4
 
-Les conditions d'application des dispositions des articles L. 314-1à L. 314-3 ainsi que des modalités de calcul du taux
-annuel effectif de l'assurance mentionné aux articles L. 312-7 et L. 313-6 sont déterminées par décret en Conseil d'Etat.
+Un décret en Conseil d'Etat précise les conditions d'application des articles L. 314-1 à L. 314-3 et notamment les modalités
+de détermination de l'assiette et de calcul du taux effectif global, ainsi que les modalités de calcul du taux annuel
+effectif de l'assurance mentionné aux articles L. 312-7 et L. 313-8.
 
 **Liens relatifs à cet article**
 
@@ -16293,14 +16304,19 @@ annuel effectif de l'assurance mentionné aux articles L. 312-7 et L. 313-6 sont
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de la consommation - art. L312-7 (VD)
+	  - Code de la consommation - art. L313-8 (VD)
+	  - Code de la consommation - art. L314-1 (VD)
 
 	**Anciens textes**:
 
-	  - Code de la consommation - art. L313-1, alinéa 5 (VT)
-	  - Code de la consommation - art. L313-2-1 (Ab)
+	  - Code de la consommation - art. L313-1 (VT)
 
 	**Liens**:
 
@@ -16784,8 +16800,8 @@ article 2321 du code civil
 ###### Article L314-20
 
 L'exécution des obligations du débiteur peut être, notamment en cas de licenciement, suspendue par ordonnance du juge
-d'instance dans les conditions prévues aux articles 1244-1 à 1244-3 du code civil. L'ordonnance peut décider que, durant le
-délai de grâce, les sommes dues ne produiront point intérêt. 
+d'instance dans les conditions prévues à l'article 1343-5 du code civil. L'ordonnance peut décider que, durant le délai de
+grâce, les sommes dues ne produiront point intérêt. 
 
 En outre, le juge peut déterminer dans son ordonnance les modalités de paiement des sommes qui seront exigibles au terme du
 délai de suspension, sans que le dernier versement puisse excéder de plus de deux ans le terme initialement prévu pour le
@@ -16793,17 +16809,9 @@ remboursement du prêt ; il peut cependant surseoir à statuer sur ces modalité
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Créé par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L313-12 (Ab)
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 	**Cité par**:
 
@@ -16811,7 +16819,7 @@ remboursement du prêt ; il peut cependant surseoir à statuer sur ces modalité
 
 	**Cite**:
 
-	  - Code civil - art. 1244-1 (VT)
+	  - Code civil - art. 1343-5 (VD)
 
 
 ##### Section 5 : Lettre de change et billets à ordre
@@ -36470,6 +36478,115 @@ chapitre III du titre II du livre II de la deuxième partie du code général de
 	  - Code général des collectivités territoriales (V)
 
 
+##### Section 9 : Services accessibles par l'intermédiaire des opérateurs de communications électroniques 
+
+
+###### Article D224-17
+
+L'accès unique dédié aux numéros d'appel et l'accès unique dédié aux numéros de messages textuels par lesquels est mis à
+disposition l'outil mentionné au premier alinéa de l'article L. 224-43 donnent au consommateur la possibilité de signaler et
+de décrire précisément et avec concision, pour un numéro d'appel ou de message textuel : 
+
+1° Une inexactitude sur les informations présentes dans l'outil ; 
+
+2° Une préoccupation sur la déontologie du service associé ; 
+
+3° Un problème relatif au contact auquel le consommateur doit pouvoir adresser ses réclamations.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1238 du 20 septembre 2016, les dispositions des 2° et 3° de l'article D. 224-17
+entrent en vigueur le 1er janvier 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1238 du 20 septembre 2016 - art. 1
+
+
+###### Article D224-18
+
+L'outil mentionné au premier alinéa de l'article L. 224-43 permet aux opérateurs de communications électroniques, au sens du
+6° de l'article L. 32 du code des postes et des communications électroniques, exploitant un ou plusieurs numéros à valeur
+ajoutée, d'être informés quotidiennement, pour chaque numéro les concernant : 
+
+1° Des signalements relatifs à une inexactitude des informations figurant dans l'outil ; 
+
+2° Des signalements relatifs à une préoccupation sur la déontologie du service associé ; 
+
+3° Des signalements relatifs à un problème avec le contact auquel le consommateur doit pouvoir adresser ses réclamations.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1238 du 20 septembre 2016, les dispositions des 2° et 3° de l'article D. 224-18
+entrent en vigueur le 1er janvier 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1238 du 20 septembre 2016 - art. 1
+
+
+###### Article D224-19
+
+Les opérateurs de communications électroniques, au sens du 6° de l'article L. 32 du code des postes et des communications
+électroniques, exploitant un ou plusieurs numéros à valeur ajoutée, sont informés quotidiennement par les fournisseurs d'un
+service téléphonique au public, au sens du 7° de l'article L. 32 du code des postes et des communications électroniques, des
+signalements adressés au dispositif prévu à l'article L. 224-51 pour chaque numéro les concernant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1238 du 20 septembre 2016 - art. 1
+
+
+###### Article D224-20
+
+Un arrêté du ministre chargé de la consommation fixe, en tant que de besoin, les modalités selon lesquelles les signalements
+mentionnés aux articles D. 224-2 et D. 224-3 peuvent être volontairement mis à disposition de l'autorité administrative
+chargée de la concurrence et de la consommation, de l'Autorité de régulation des communications électroniques et des postes,
+du service national de police judiciaire chargé de la lutte contre la cybercriminalité et des opérateurs de communications
+électroniques, au sens du 7° de l'article L. 32 du code des postes et des communications électroniques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1238 du 20 septembre 2016 - art. 1
+
+
+###### Article D224-21
+
+Sans que cela s'oppose à l'application volontaire d'éventuelles règles plus contraignantes et à la mise en œuvre d'actions
+complémentaires, décidées par lui-même ou par un organisme professionnel, chaque opérateur de communications électroniques,
+au sens du 6° de l'article L. 32 du code des postes et des communications électroniques, exploitant un ou plusieurs numéros à
+valeur ajoutée, vérifie les informations présentes dans l'outil mentionné au premier alinéa de l'article L. 224-43 pour tout
+numéro dont les nombres de signalements mentionnés aux articles D. 224-18 et D. 224-19 dépassent un ou plusieurs seuils fixés
+chaque année par arrêté du ministre chargé de la consommation, après consultation de l'organisme professionnel le plus
+représentatif du secteur des services à valeur ajoutée. Ces seuils peuvent varier notamment en fonction du tarif du numéro et
+prendre en compte les nombres d'appels adressés au numéro d'appel ou de messages adressés au numéro de message textuel. 
+
+L'arrêté prévu au premier alinéa précise également : 
+
+1° Les modalités du cumul éventuel du nombre de signalements et selon quelle périodicité le calcul permettant d'évaluer le
+dépassement des seuils est effectué ; 
+
+2° En fonction du tarif du numéro, le délai suivant la réalisation de la vérification prévue au premier alinéa, pendant
+lequel les contrôles sur un même numéro ne sont plus obligatoires ; 
+
+3° Dans quel délai, après le dépassement d'un ou plusieurs des seuils, intervient la vérification des informations présentes
+dans l'outil prévue au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1238 du 20 septembre 2016 - art. 1
+
+
 ### Titre IV : SANCTIONS
 
 #### Chapitre II : Règles de formation et d'exécution de certains contrats
@@ -38271,7 +38388,353 @@ l'exécution homologuant les mesures prévues à l'article L. 733-7.
 
 #### Chapitre III : Crédit immobilier
 
+##### Section 1 : Publicité et informations générales
+
+##### Sous-section unique :  Publicité et informations générales
+
+##### Paragraphe 1 : Publicité
+
+###### Article R313-1
+
+Les informations complémentaires mentionnées à l'article L. 313-4 sont les suivantes : 
+
+1° Le taux débiteur et sa nature fixe, variable ou révisable, ou une combinaison des deux, ainsi que les informations
+relatives à tous les frais compris dans le coût total du crédit pour l'emprunteur ; 
+
+2° Le montant total du crédit ; 
+
+3° Le taux annuel effectif global du crédit mentionné à l'article L. 314-3. Toutefois, lorsque la conclusion d'un contrat
+portant sur un service accessoire, notamment une assurance, est obligatoire pour obtenir le crédit ou pour l'obtenir aux
+conditions annoncées et que le coût de ce service ne peut être déterminé préalablement, l'obligation de conclure ce contrat
+est mentionnée avec le taux annuel effectif global ; 
+
+4° La durée du contrat de crédit ; 
+
+5° Le montant total dû par l'emprunteur ; 
+
+6° Le montant et le nombre des échéances ; 
+
+7° Le cas échéant, un avertissement relatif aux éventuelles fluctuations du taux de change susceptibles de modifier le
+montant dû par l'emprunteur ; 
+
+8° Le cas échéant, le fait que le contrat sera garanti par une hypothèque ou une autre sûreté comparable ou par un droit lié
+à un bien immobilier à usage d'habitation.
+
+**Nota:**
+
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 313-1 à R. 313-7 du code de la
+consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Cite**:
+
+	  - Code de la consommation - art. L313-4 (VT)
+	  - Code de la consommation - art. L314-3 (VT)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R312-0 (MMN)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R313-2 (VD)
+
+
+###### Article R313-2
+
+Les informations figurant aux 1° à 6° de l'article R. 313-1 sont fournies à l'aide de l'exemple représentatif mentionné à
+l'article L. 313-4. Cet exemple répond aux caractéristiques suivantes : 
+
+1° Un montant total du crédit accordé égal à 50 000 euros ou à un multiple de cette somme qui ne peut excéder 500 000
+euros ; 
+
+2° Une durée de remboursement égale à cinq ans ou à un multiple de cette durée qui ne peut excéder trente ans. 
+
+Le montant total du crédit et la durée de remboursement choisis par le prêteur correspondent au mieux aux caractéristiques du
+contrat de crédit dont il fait la publicité. 
+
+Lorsque la publicité mentionne un taux promotionnel ou des modalités spéciales d'utilisation qui dérogent au fonctionnement
+normal du crédit concerné, applicables à titre temporaire, l'exemple représentatif illustre les conditions normales
+d'exécution du contrat de crédit. En cas de taux variable, l'exemple représentatif indique, en plus des indications prévues
+au 1° de l'article R. 313-1, si le taux débiteur est ou non plafonné. 
+
+La publicité indique que l'exemple représentatif a une valeur d'exemple. Cet exemple est présenté dans une taille de
+caractère au moins aussi importante que celle utilisée pour les informations mentionnées à l'article R. 313-1.
+
+**Nota:**
+
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 313-1 à R. 313-7 du code de la
+consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Cite**:
+
+	  - Code de la consommation - art. L313-4 (VD)
+	  - Code de la consommation - art. R313-1 (VD)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R312-0-0 (MMN)
+
+
+##### Paragraphe 2 : Informations générales
+
+###### Article R313-3
+
+Les informations générales mentionnées à l'article L. 313-6 sont les suivantes : 
+
+1° L'identité du prêteur, ou le cas échéant de l'intermédiaire de crédit, et l'adresse géographique de la partie qui fournit
+les informations ; 
+
+2° La nature, la destination et la durée possibles des crédits proposés ; 
+
+3° Les types de taux débiteur proposés et leur nature fixe, variable ou révisable, ou une combinaison des deux, ainsi qu'un
+bref exposé des caractéristiques d'un taux fixe et d'un taux variable ou révisable, y compris de leurs implications pour
+l'emprunteur ; 
+
+4° Les formes de sûreté réelle ou personnelle possibles pour garantir le contrat de crédit. Le cas échéant, le prêteur ou
+l'intermédiaire de crédit fournit à l'emprunteur des informations expliquant la nature juridique, les bénéficiaires, le
+fonctionnement et les effets de cette sûreté réelle ou personnelle ; 
+
+5° Le cas échéant, dans le cas où des prêts en devises autres que l'euro sont proposés, l'indication de la ou des devises
+ainsi qu'un avertissement relatif aux éventuelles fluctuations du taux de change susceptibles de modifier le montant dû par
+l'emprunteur ; 
+
+6° Un exemple représentatif du montant total du crédit, du coût total du crédit pour l'emprunteur, du montant total dû par
+l'emprunteur et du taux annuel effectif global ; 
+
+7° L'indication d'autres coûts éventuels supportés par l'emprunteur en lien avec le contrat de crédit qui ne sont pas compris
+dans le coût total du crédit ; 
+
+8° L'éventail des différentes modalités de remboursement possibles, y compris le nombre, la périodicité et le montant des
+versements réguliers ; 
+
+9° Les conditions directement liées à un remboursement anticipé ; 
+
+10° Le cas échéant, la nécessité de faire expertiser le bien concerné, l'identité du responsable chargé de veiller à la
+réalisation de cette expertise ainsi que les coûts qui en découlent éventuellement pour l'emprunteur ; 
+
+11° L'indication des services accessoires que l'emprunteur est obligé de souscrire pour obtenir le crédit ou pour l'obtenir
+aux conditions annoncées et, le cas échéant, la précision que les services peuvent être acquis auprès d'un fournisseur autre
+que le prêteur ; 
+
+12° Un avertissement général relatif aux éventuelles conséquences du non-respect par l'emprunteur des obligations liées au
+contrat de crédit. 
+
+L'intermédiaire de crédit agissant en vertu d'un mandat délivré par le client, conformément au second alinéa de l'article L.
+519-2 du code monétaire et financier, n'est pas tenu de délivrer l'information mentionnée au 6°.
+
+**Nota:**
+
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 313-1 à R. 313-7 du code de la
+consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Cite**:
+
+	  - Code de la consommation - art. L313-6 (VD)
+	  - Code monétaire et financier - art. L519-2 (V)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R312-0-0-1 (MMN)
+
+
 ##### Section 2 : Information précontractuelle de l'emprunteur
+
+##### Sous-section 1 : Fiche d'informations standardisées européenne
+
+###### Article R313-4
+
+Les informations personnalisées que le prêteur ou l'intermédiaire de crédit communique à l'emprunteur sous la forme de la
+fiche mentionnée à l'article L. 313-7 dont le modèle est annexé au présent code, portent sur : 
+
+1° Le prêteur ; 
+
+2° L'intermédiaire de crédit, le cas échéant ; 
+
+3° Les principales caractéristiques du prêt ; 
+
+4° Le taux d'intérêt et les autres frais ; 
+
+5° Le nombre et la périodicité de chaque versement ; 
+
+6° Le montant de chaque versement ; 
+
+7° L'échéancier indicatif, le cas échéant ; 
+
+8° Les obligations supplémentaires ; 
+
+9° Le remboursement anticipé ; 
+
+10° Les caractéristiques variables ; 
+
+11° Les autres droits de l'emprunteur ; 
+
+12° Les réclamations ; 
+
+13° Les conséquences pour l'emprunteur du non-respect de ses engagements ; 
+
+14° Le cas échéant, des informations complémentaires ; 
+
+15° Les autorités habilitées à assurer le contrôle du respect de la réglementation applicable. 
+
+Le cas échéant, la fiche mentionnée au premier alinéa peut comporter l'information relative aux différents contrats de crédit
+composant une opération de financement. 
+
+Les informations prévues aux 3° et 6° comportent, le cas échéant, les avertissements sur les risques de change encourus pour
+tout prêt souscrit dans une devise autre que l'euro, dans les conditions de l'article L. 313-64 et pour tout prêt souscrit en
+euro, par un emprunteur percevant ses revenus ou détenant un patrimoine dans une devise autre que l'euro, ou ne résidant pas
+en France. 
+
+Lorsque l'emprunteur est exposé à une fluctuation du taux de change, un exemple illustrant l'incidence d'une fluctuation de
+20 % du taux de change figure dans cette fiche. Lorsqu'un plafond limite cette fluctuation à un montant inférieur à 20 %, le
+montant maximal que l'emprunteur aura à rembourser est indiqué. Ces exemples sont calculés à partir du dernier taux de change
+publié la veille du jour de l'émission de la fiche d'information mentionnée au premier alinéa ou, à défaut, le dernier jour
+ouvré précédent, et qui a servi à déterminer les échéances, la durée du prêt et le coût total du crédit. 
+
+Le prêteur précise également si l'offre sera assortie ou non de la possibilité de convertir le crédit dans une autre monnaie
+et, dans l'hypothèse où cette faculté est prévue, indique ses conditions et modalités précises.
+
+**Nota:**
+
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 313-1 à R. 313-7 du code de la
+consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Cite**:
+
+	  - Code de la consommation - art. L313-64 (VD)
+	  - Code de la consommation - art. L313-7 (VD)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R312-0-0-2 (MMN)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R313-30 (VD)
+	  - Code de la consommation - art. R313-5 (VD)
+
+
+###### Article R313-5
+
+L'ensemble des informations mentionnées à l'article R. 313-4 est présenté, sur un support papier ou sur un autre support
+durable, sous la forme d'un document unique, conformément à la fiche d'information standardisée européenne mentionnée à
+l'article L. 313-7 dont le modèle est annexé au présent code.
+
+**Nota:**
+
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 313-1 à R. 313-7 du code de la
+consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Cite**:
+
+	  - Code de la consommation - art. L313-7 (VD)
+	  - Code de la consommation - art. R313-4 (VD)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R312-0-0-3 (MMN)
+
+
+###### Article R313-6
+
+Lorsque le contrat de crédit permet des adaptations du taux débiteur, cette possibilité et ses effets possibles sur les
+montants dus et sur le taux annuel effectif global sont mentionnés dans la fiche d'information standardisée européenne
+mentionnée à l'article L. 313-7. A cette fin, un taux annuel effectif global supplémentaire illustrant les risques éventuels
+liés à une augmentation substantielle du taux débiteur est communiqué à l'emprunteur. Lorsque le taux débiteur n'est pas
+plafonné, ces informations sont assorties d'un avertissement rappelant que le coût total du crédit pour l'emprunteur, indiqué
+par le taux annuel effectif global, peut évoluer. 
+
+Cette disposition ne s'applique pas aux contrats de crédit pour lesquels le taux débiteur est fixé pour une période initiale
+de cinq ans au moins, au terme de laquelle une négociation est menée sur le taux débiteur afin de convenir d'un nouveau taux
+fixe pour une nouvelle période. Dans ce cas, un taux annuel effectif global illustratif supplémentaire est prévu dans la
+fiche d'information standardisée européenne.
+
+**Nota:**
+
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 313-1 à R. 313-7 du code de la
+consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Cite**:
+
+	  - Code de la consommation - art. L313-7 (VD)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R312-0-0-4 (MMN)
+
+
+###### Article R313-7
+
+Les informations exigées en application des articles R. 222-1 et R. 222-2 du présent code et R. 341-16 du code monétaire et
+financier qui figurent dans la fiche d'information standardisée européenne sont réputées fournies lors de la remise de cette
+fiche. 
+
+Toute autre information complémentaire, mentionnée au troisième alinéa de l'article L. 313-7, qui est fournie à l'emprunteur
+par le prêteur ou l'intermédiaire de crédit, notamment en cas d'application des articles mentionnés au précédent alinéa ou
+des articles R. 314-19 à R. 314-21, peut être jointe en annexe à la fiche d'information standardisée européenne.
+
+**Nota:**
+
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 313-1 à R. 313-7 du code de la
+consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.
+
+A compter de cette date, la fiche d'information standardisée européenne mentionnée à l'article L. 313-7 du même code est
+présentée conformément au modèle type annexé à l'article R. 313-4 du même code, hormis la mention des informations relatives
+au mode de rémunération de l'intermédiaire de crédit figurant au 4° de la section 2 de ce modèle, qui est applicable à
+compter du 1er janvier 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Cite**:
+
+	  - Code de la consommation - art. L313-7 (VD)
+	  - Code de la consommation - art. R222-1 (V)
+	  - Code de la consommation - art. R314-19 (V)
+	  - Code monétaire et financier - art. R341-16 (V)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R312-0-0-5 (MMN)
+
 
 ##### Sous-section 2 : Information relative à l'assurance emprunteur
 
@@ -38978,6 +39441,93 @@ capital du bien à effectuer jusqu'à la date prévue du transfert de propriét�
 	  - Code de la consommation - art. R312-4 (Ab)
 
 
+##### Section 7 : Prêts libellés dans une devise autre que l'euro
+
+###### Article R313-30
+
+Dans les conditions prévues par l'article R. 313-4, les risques inhérents et les conditions d'octroi des prêts mentionnés à
+l'article L. 313-64, sont communiqués à l'emprunteur dans la fiche d'information standardisée européenne mentionnée à
+l'article L. 313-7.
+
+**Nota:**
+
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 313-30 à R. 313-32 du code de la
+consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Cite**:
+
+	  - Code de la consommation - art. L313-64 (VD)
+	  - Code de la consommation - art. L313-7 (VD)
+	  - Code de la consommation - art. R313-4 (VD)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R312-5 (MMN)
+
+
+###### Article R313-31
+
+L'offre de prêt ne peut être adressée qu'à l'emprunteur supportant le risque de change ayant déclaré sur l'honneur qu'il
+perçoit plus de la moitié de ses revenus annuels dans la devise d'emprunt ou qu'il détient, au moment de la signature de ce
+contrat, un patrimoine, financier ou immobilier, dans cette même devise, au moins égal à 20 % de l'emprunt considéré. Cette
+déclaration est jointe au contrat de prêt.
+
+Le risque de change supporté par l'emprunteur est établi lorsque la variation du taux de change affecte le montant des
+échéances, la durée du prêt ou le coût total du crédit qu'il acquitte. Lorsque l'emprunteur a souscrit une assurance ou un
+contrat financier le garantissant contre le risque de change sur toute la durée du contrat, le risque de change n'est pas
+considéré comme supporté par l'emprunteur.
+
+**Nota:**
+
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 313-30 à R. 313-32 du code de la
+consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R312-6 (MMN)
+
+
+###### Article R313-32
+
+Une fois le prêt conclu, le prêteur avertit régulièrement l'emprunteur, sur papier ou sur un autre support durable, au moins
+lorsque la valeur du montant total restant dû payable par l'emprunteur ou des versements réguliers varie de plus de 20 % de
+ce qu'elle serait si le taux de change entre la monnaie du contrat de crédit et l'euro au moment de la conclusion du contrat
+de crédit était appliqué. Ce même avertissement informe l'emprunteur d'une augmentation du montant dû, le cas échéant du
+droit qui lui est ouvert de convertir ce montant en euro et des conditions pour ce faire ainsi que de tout autre mécanisme
+applicable pour limiter le risque de change auquel il est exposé.
+
+Lorsque le contrat de crédit prévoit la possibilité pour l'emprunteur de convertir le contrat de crédit en euro, le taux de
+change auquel la conversion est effectuée est celui du marché applicable le jour de la demande de conversion, sauf
+disposition contraire figurant dans le contrat de crédit.
+
+**Nota:**
+
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 313-30 à R. 313-32 du code de la
+consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R312-7 (MMN)
+
+
 ##### Section 8 : Procédure
 
 ###### Article R313-33
@@ -39004,6 +39554,196 @@ Le tribunal d'instance connaît des actions nées de l'application des articles 
 ##### Section 1 : Taux d'intérêt
 
 ##### Sous-section 1 : Taux effectif global
+
+###### Article R314-1
+
+Le calcul du taux effectif global repose sur l'hypothèse que le contrat de crédit restera valable pendant la durée convenue
+et que le prêteur et l'emprunteur rempliront leurs obligations selon les conditions et dans les délais précisés dans le
+contrat de crédit. Pour les contrats de crédit comportant des clauses qui permettent des adaptations du taux d'intérêt et, le
+cas échéant, des frais entrant dans le taux effectif global mais ne pouvant pas faire l'objet d'une quantification au moment
+du calcul, le taux effectif global est calculé en partant de l'hypothèse que le taux d'intérêt et les autres frais resteront
+fixes par rapport au niveau initial et s'appliqueront jusqu'au terme du contrat de crédit.
+
+**Nota:**
+
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 314-1 à R. 314-5 du code de la
+consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Cité par**:
+
+	  - Code de la consommation - art. Annexe à l'article R313-4 (VD)
+	  - Code de la consommation - art. R314-11 (V)
+	  - Code de la consommation - art. R314-12 (VD)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R313-1-0 (MMN)
+
+
+###### Article R314-2
+
+Pour les opérations de crédit destinées à financer les besoins d'une activité professionnelle ou destinées à des personnes
+morales de droit public, le taux effectif global est un taux annuel, proportionnel au taux de période, à terme échu et
+exprimé pour cent unités monétaires. Le taux de période et la durée de la période doivent être expressément communiqués à
+l'emprunteur.
+
+Le taux de période est calculé actuariellement, à partir d'une période unitaire correspondant à la périodicité des versements
+effectués par l'emprunteur. Il assure, selon la méthode des intérêts composés, l'égalité entre, d'une part, les sommes
+prêtées et, d'autre part, tous les versements dus par l'emprunteur au titre de ce prêt, en capital, intérêts et frais divers,
+ces éléments étant, le cas échéant, estimés.
+
+Lorsque la périodicité des versements est irrégulière, la période unitaire est celle qui correspond au plus petit intervalle
+séparant deux versements. Le plus petit intervalle de calcul ne peut cependant être inférieur à un mois.
+
+Lorsque les versements sont effectués avec une fréquence autre qu'annuelle, le taux effectif global est obtenu en multipliant
+le taux de période par le rapport entre la durée de l'année civile et celle de la période unitaire. Le rapport est calculé,
+le cas échéant, avec une précision d'au moins une décimale.
+
+Si le crédit prend la forme d'une ouverture de droits de tirage destinée à financer les besoins d'une activité
+professionnelle, le taux effectif global est calculé sur la totalité des droits mis à la disposition du client.
+
+Les charges liées aux garanties dont les crédits sont éventuellement assortis ainsi que les honoraires d'officiers
+ministériels ne sont pas compris dans le taux effectif global défini ci-dessus, lorsque leur montant ne peut être indiqué
+avec précision antérieurement à la conclusion définitive du contrat.
+
+**Nota:**
+
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 314-1 à R. 314-5 du code de la
+consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R313-1-0-1 (MMN)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R314-3 (VD)
+
+
+###### Article R314-3
+
+Pour toutes les opérations de crédit autres que celles mentionnées à l'article R. 314-2, le taux annuel effectif global
+mentionné à l'article L. 314-3 est calculé à terme échu, exprimé pour cent unités monétaires, selon la méthode d'équivalence
+définie par la formule figurant en annexe au présent code. La durée de la période doit être expressément communiquée à
+l'emprunteur. 
+
+Le taux annuel effectif global est calculé actuariellement et assure, selon la méthode des intérêts composés, l'égalité
+entre, d'une part, les sommes prêtées et, d'autre part, tous les versements dus par l'emprunteur au titre de ce prêt pour le
+remboursement du capital et le paiement du coût total du crédit au sens du 7° de l'article L. 311-1 ces éléments étant, le
+cas échéant, estimés. 
+
+Pour les contrats de crédit pour lesquels un taux débiteur fixe a été convenu dans le cadre de la période initiale d'au moins
+cinq ans, à la fin de laquelle une négociation est menée sur le taux débiteur afin de convenir d'un nouveau taux fixe pour
+une nouvelle période, le calcul du taux annuel effectif global illustratif supplémentaire figurant dans la fiche
+d'information standardisée européenne mentionnée à l'article L. 313-7 couvre uniquement la période initiale à taux fixe et se
+fonde sur l'hypothèse selon laquelle, au terme de la période à taux débiteur fixe, le capital restant est remboursé.
+
+**Nota:**
+
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 314-1 à R. 314-5 du code de la
+consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Cite**:
+
+	  - Code de la consommation - art. L311-1 (MMN)
+	  - Code de la consommation - art. L313-7 (VD)
+	  - Code de la consommation - art. L314-3 (VD)
+	  - Code de la consommation - art. R314-2 (VD)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R312-3 (V)
+	  - Code de la consommation - art. R314-7 (V)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R313-1-0-2 (MMN)
+
+
+###### Article R314-4
+
+Sont compris dans le taux annuel effectif global du prêt, lorsqu'ils sont nécessaires pour obtenir le crédit ou pour
+l'obtenir aux conditions annoncées, notamment :
+
+1° Les frais de dossier ;
+
+2° Les frais payés ou dus à des intermédiaires intervenus de quelque manière que ce soit dans l'octroi du prêt, même si ces
+frais, commissions ou rémunérations correspondent à des débours réels ;
+
+3° Les coûts d'assurance et de garanties obligatoires ;
+
+4° Les frais d'ouverture et de tenue d'un compte donné, d'utilisation d'un moyen de paiement permettant d'effectuer à la fois
+des opérations et des prélèvements à partir de ce compte ainsi que les autres frais liés aux opérations de paiement ;
+
+5° Le coût de l'évaluation du bien immobilier, hors frais d'enregistrement liés au transfert de propriété du bien immobilier.
+
+**Nota:**
+
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 314-1 à R. 314-5 du code de la
+consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R313-1-0-3 (MMN)
+
+
+###### Article R314-5
+
+Ne sont pas compris dans le taux annuel effectif global : 
+
+1° Les frais liés à l'acquisition des immeubles mentionnés au a du 1° de l'article L. 313-1 tels que les taxes y afférentes,
+les frais d'acte notarié établis en application de la section 3 du chapitre Ier du titre IV bis du livre IV de la partie
+Arrêtés du code de commerce ; 
+
+2° Les frais à la charge de l'emprunteur en cas de non-respect de l'une de ses obligations prévues dans le contrat de
+crédit. 
+
+Des hypothèses complémentaires figurent en annexe au présent code pour le calcul du taux annuel effectif global.
+
+**Nota:**
+
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 314-1 à R. 314-5 du code de la
+consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Cite**:
+
+	  - Code de commerce -  Section 3 : Tarifs des notaires  (V)
+	  - Code de la consommation - art. L313-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R313-1-0-4 (MMN)
+
 
 ###### Article R314-6
 
@@ -39183,6 +39923,47 @@ composés en capitalisant le taux périodique sur une durée d'un an.
 	**Anciens textes**:
 
 	  - Code de la consommation - art. R313-5-1 (Ab)
+
+
+###### Article R314-12
+
+Le taux annuel effectif de l'assurance mentionné à l'article L. 313-8 est égal à la différence entre : 
+
+1° Le taux annuel effectif global défini à l'article L. 314-1, calculé conformément aux articles R. 314-1 à R. 314-10 en
+prenant comme hypothèse que l'assurance proposée ayant pour objet le remboursement du crédit est intégralement exigée par le
+prêteur, d'une part, et ; 
+
+2° Le taux annuel effectif global défini à l'article L. 314-1, calculé conformément aux articles R. 314-1 à R. 314-10 en
+prenant comme hypothèse qu'aucune assurance n'est exigée par le prêteur, d'autre part. 
+
+Pour les besoins du calcul du taux annuel effectif de l'assurance, la méthode employée est la même que celle employée pour le
+calcul du taux annuel effectif global, c'est-à-dire soit la méthode d'actualisation des flux, soit la méthode des intérêts
+composés en capitalisant le taux périodique sur une durée d'un an.
+
+**Nota:**
+
+Décret n° 2016-884 du 29 juin 2016, article 11 II : Les dispositions des articles R. 314-1 à R. 314-5 du code de la
+consommation, dans leur rédaction résultant du présent décret, entrent en vigueur le 1er octobre 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Cite**:
+
+	  - Code de la consommation - art. L313-8 (MMN)
+	  - Code de la consommation - art. L314-1 (VT)
+	  - Code de la consommation - art. R314-1 (VD)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. R313-5-2 (MMN)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R313-9 (V)
 
 
 ###### Article R314-13
@@ -55050,6 +55831,282 @@ ainsi que leur composition.
 
 ## Annexes
 
+###### Article Annexe à  l'article R314-3
+
+PARTIE I : Equation de base traduisant l'équivalence des prêts, d'une part, et des remboursements et charges, d'autre part. 
+
+L'équation de base, qui définit le taux annuel effectif global (TAEG), exprime sur base annuelle l'égalité entre, d'une part,
+la somme des valeurs actualisées des utilisations du crédit et, d'autre part, la somme des valeurs actualisées des montants
+des remboursements et paiements des frais, soit : 
+
+Vous pouvez consulter l'image dans le fac-similé du JO 
+
+n º 0151 du 30/06/2016, texte n º 62 
+
+https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000032797752
+
+- Signification des lettres et symboles :
+
+- X est le TAEG ;
+
+- m désigne le numéro d'ordre de la dernière utilisation effectuée sur le crédit ;
+
+- k désigne le numéro d'ordre de la dernière utilisation effectuée sur le crédit, donc 1 ≤ k ≤ m ;
+
+- Ck est le montant de la dernière utilisation effectuée sur le crédit numéro k ;
+
+- tk désigne l'intervalle de temps, exprimé en années et fractions d'année, entre la date de la première utilisation
+effectuée sur le crédit et la date de chacune des utilisations suivantes effectuées, donc t 1 = 0 ;
+
+- m'est le numéro d'ordre du dernier remboursement ou paiement de frais ;
+
+- l est le numéro d'ordre d'un remboursement ou paiement de frais ;
+
+- Dl est le montant d'un remboursement ou paiement de frais ;
+
+- sl est l'intervalle de temps, exprimé en années et fractions d'années, entre la date de la première utilisation effectuée
+sur le crédit et la date de chaque remboursement ou paiement de frais. 
+
+PARTIE II-Calcul du Taux annuel effectif global (TAEG) pour les crédits encadrés par les articles L. 312-1 et suivants. 
+
+Remarques 
+
+a) Les sommes versées de part et d'autre à différents moments ne sont pas nécessairement égales et ne sont pas nécessairement
+versées à des intervalles égaux ; 
+
+b) La date initiale est celle du premier prêt ; 
+
+c) L'écart entre les dates utilisées pour le calcul du TAEG, ainsi que pour celui du taux débiteur, est exprimé en années ou
+en fractions d'années. Une année compte 365 jours, ou, pour les années bissextiles, 366 jours, 52 semaines ou 12 mois
+normalisés. Un mois normalisé compte 30,416 66 jours (c'est-à-dire 365/12), que l'année soit bissextile ou non ; 
+
+d) Le résultat du calcul est exprimé avec une exactitude d'au moins une décimale. Lorsque le chiffre est arrondi à une
+décimale particulière, la règle suivante est d'application : si le chiffre de la décimale suivant cette décimale particulière
+est supérieur ou égal à 5, le chiffre de cette décimale particulière sera augmenté de 1. 
+
+Hypothèses 
+
+Le calcul du taux annuel effectif global se fait, le cas échéant, conformément aux hypothèses suivantes : 
+
+1° Si un contrat de crédit laisse au consommateur le libre choix quant au mode d'utilisation du crédit, le montant total du
+crédit est réputé entièrement et immédiatement utilisé ; 
+
+2° Si un contrat de crédit laisse en général au consommateur le libre choix quant au mode d'utilisation du crédit, mais
+prévoit parmi les divers modes d'utilisation une limite quant au montant et à la durée, le montant du crédit est réputé
+utilisé à la date la plus proche prévue dans le contrat et conformément à ces limites de mode d'utilisation ; 
+
+3° Si un contrat de crédit offre au consommateur différentes possibilités quant au mode d'utilisation du crédit, assorties de
+frais ou de taux débiteurs différents, le montant total du crédit est réputé utilisé au taux débiteur le plus élevé et avec
+les frais les plus élevés dans la catégorie d'opérations la plus fréquemment utilisée dans ce type de contrat de crédit ; 
+
+4° En cas de facilité de découvert, le montant total du crédit est réputé utilisé en totalité et pour la durée totale du
+contrat de crédit. Si la durée de la facilité de découvert n'est pas connue, le taux annuel effectif global est calculé en
+partant de l'hypothèse que la durée du crédit est de trois mois ; 
+
+5° En cas de contrat de crédit sans durée fixe, y compris les crédits qui doivent être remboursés en totalité dans ou après
+un délai donné mais qui, une fois remboursés, sont disponibles pour une nouvelle utilisation, et autre qu'une facilité de
+découvert : 
+
+a) Le crédit est réputé être octroyé pour une durée d'un an à partir de la date d'utilisation initiale, et le paiement final
+effectué par le consommateur liquide le solde du capital, les intérêts et les autres frais éventuels ; 
+
+b) Le capital est supposé être remboursé par le consommateur en mensualités égales, le remboursement débutant un mois après
+la date de l'utilisation initiale. Toutefois, dans les cas où le capital doit être remboursé en totalité uniquement, en un
+seul versement, à l'intérieur de chaque période de paiement, les utilisations et les remboursements successifs de la totalité
+du capital par le consommateur sont supposés être effectués sur la durée d'un an. Les intérêts et autres frais sont appliqués
+conformément à ces utilisations et remboursements du capital, d'une part, et aux dispositions du contrat de crédit, d'autre
+part ; 
+
+6° En cas de contrats de crédit autres que les découverts et les contrats de crédits sans durée fixe visés dans les
+hypothèses des points 4° et 5° : 
+
+a) Si la date ou le montant d'un remboursement de capital devant être effectué par le consommateur ne peuvent être établis,
+le remboursement est réputé être effectué à la date la plus proche prévue dans le contrat de crédit et pour le montant le
+plus bas prévu dans le contrat ; 
+
+b) Si la date de conclusion du contrat de crédit n'est pas connue, la date d'utilisation initiale est réputée être la date
+qui correspond à l'intervalle le plus court entre cette date et la date du premier paiement que le consommateur doit
+effectuer ; 
+
+7° Si la date ou le montant d'un paiement devant être effectué par le consommateur ne peuvent être établis sur la base du
+contrat de crédit ou des hypothèses exposées aux points 4°, 5° ou 6°, le paiement est réputé être effectué aux dates et
+conditions requises par le prêteur et, lorsque celles-ci ne sont pas connues : 
+
+a) Les frais d'intérêts sont payés en même temps que les remboursements du capital ; 
+
+b) Les frais autres que d'intérêts, exprimés sous la forme d'une somme unique, sont payés à la date de conclusion du contrat
+de crédit ; 
+
+c) Les frais autres que d'intérêts, exprimés sous la forme de paiements multiples, sont payés à intervalles réguliers, à
+partir de la date du premier remboursement du capital, et si le montant de ces paiements n'est pas connu, les montants sont
+réputés égaux ; 
+
+d) Le paiement final liquide le solde du capital, les intérêts et les autres frais éventuels ; 
+
+8° Si le plafond du crédit n'a pas encore été arrêté, le plafond est supposé être de 1 500 € ; 
+
+9° Si des taux débiteurs et des frais différents sont proposés pendant une période limitée ou pour un montant limité, le taux
+débiteur et les frais sont réputés être le taux le plus élevé pendant la durée totale du contrat de crédit ; 
+
+10° Pour les contrats de crédit aux consommateurs pour lesquels un taux débiteur fixe a été convenu dans le cadre de la
+période initiale, à la fin de laquelle un nouveau taux débiteur est établi et est ensuite périodiquement ajusté en fonction
+d'un indicateur convenu, le calcul du taux annuel effectif global part de l'hypothèse que, à compter de la fin de la période
+à taux débiteur fixe, le taux débiteur est le même qu'au moment du calcul du taux annuel effectif global, en fonction de la
+valeur de l'indicateur convenu à ce moment-là. 
+
+PARTIE III-Calcul du Taux annuel effectif global (TAEG) pour les crédits encadrés par les articles L. 313-1 et suivants. 
+
+Remarques 
+
+a) Les sommes versées de part et d'autre à différents moments ne sont pas nécessairement égales et ne sont pas nécessairement
+versées à des intervalles égaux ; 
+
+b) La date initiale est celle de la première utilisation du crédit ; 
+
+c) L'écart entre les dates utilisées pour le calcul du TAEG, ainsi que pour celui du taux débiteur, est exprimé en années ou
+en fractions d'années. Une année compte 365 jours, ou, pour les années bissextiles, 366 jours, 52 semaines ou 12 mois
+normalisés. Un mois normalisé compte 30,416 66 jours (c'est-à-dire 365/12), que l'année soit bissextile ou non. 
+
+Lorsque l'écart entre les dates utilisées pour le calcul ne peut être exprimé en nombre entier de semaines, de mois ou
+d'années, il est exprimé en nombre entier de l'une de ces périodes en combinaison avec un nombre de jours. En cas
+d'utilisation de jours : 
+
+i) chaque jour est compté, y compris les weekends et les jours fériés ; 
+
+ii) l'intervalle de temps est calculé par périodes normalisées et ensuite par jours en remontant jusqu'à la date du prêt
+initial ; 
+
+iii) la durée en jours est obtenue en excluant le premier jour et en incluant le dernier et elle est exprimée en années en
+divisant le nombre obtenu par le nombre de jours (365 ou 366) de l'année complète en remontant du dernier jour au même jour
+de l'année précédente ; 
+
+d) Le résultat du calcul est exprimé avec une exactitude d'au moins une décimale. Lorsque le chiffre est arrondi à une
+décimale particulière, la règle suivante est d'application : si le chiffre de la décimale suivant cette décimale particulière
+est supérieur ou égal à 5, le chiffre de cette décimale particulière sera augmenté de 1 ; 
+
+e) On peut réécrire l'équation en n'utilisant qu'une seule sommation et en utilisant la notion de flux (A k), qui seront
+positifs ou négatifs, c'est-à-dire respectivement payés ou perçus aux périodes 1 à n exprimées en années, soit : 
+
+Vous pouvez consulter l'image dans le fac-similé du JO 
+
+n º 0151 du 30/06/2016, texte n º 62 
+
+https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000032797752 
+
+S étant le solde des flux actualisés et dont la valeur sera nulle si on veut conserver l'équivalence des flux. 
+
+Hypothèses 
+
+Le calcul du taux annuel effectif global se fait, le cas échéant, conformément aux hypothèses suivantes : 
+
+1° Si un contrat de crédit laisse au consommateur le libre choix quant au mode d'utilisation du crédit, le montant total du
+crédit est réputé entièrement et immédiatement utilisé ; 
+
+2° Si un contrat de crédit offre au consommateur différentes possibilités quant au mode d'utilisation du crédit, assorties de
+frais ou de taux débiteurs différents, le montant total du crédit est réputé utilisé au taux débiteur le plus élevé et avec
+les frais les plus élevés dans la catégorie d'opérations la plus fréquemment utilisée dans ce type de contrat de crédit ; 
+
+3° Si un contrat de crédit laisse en général au consommateur le libre choix quant au mode d'utilisation du crédit, mais
+prévoit parmi les divers modes d'utilisation une limite quant au montant et à la durée, le montant du crédit est réputé
+utilisé à la date la plus proche prévue dans le contrat et conformément à ces limites de mode d'utilisation ; 
+
+4° Si des taux débiteurs et des frais différents sont proposés pendant une période limitée ou pour un montant limité, le taux
+débiteur et les frais les plus élevés sont réputés être le taux débiteur et les frais pendant la durée totale du contrat de
+crédit ; 
+
+5° Pour les contrats de crédit pour lesquels un taux débiteur fixe a été convenu dans le cadre de la période initiale, à la
+fin de laquelle un nouveau taux débiteur est établi et est ensuite périodiquement ajusté en fonction d'un indicateur ou d'un
+taux de référence interne convenu, le calcul du TAEG part de l'hypothèse que, à la fin de la période à taux débiteur fixe, le
+taux débiteur est le même qu'au moment du calcul du TAEG, en fonction de la valeur, à ce moment-là, de l'indicateur ou du
+taux de référence interne convenu, sans être inférieur, cependant, au taux débiteur fixe ; 
+
+6° Si le plafond du crédit n'a pas encore été arrêté, le plafond est supposé être de 170 000 EUR. En cas de contrats de
+crédit, autres que les cautionnements ou les garanties, dont le but n'est pas d'acquérir ou de conserver un droit de
+propriété sur un bien immobilier ou un terrain, de découverts, de cartes de crédit, ce plafond est supposé être de 1 500
+EUR ; 
+
+7° En cas de contrats de crédit autres que les découverts, les crédits ponts ou relais, les contrats de crédit en fonds
+partagés, les cautionnements ou les garanties et les crédits à durée indéterminée visés dans les hypothèses des points 9°,
+10°, 11°, 12° et 13° : 
+
+i) si la date ou le montant d'un remboursement de capital devant être effectué par le consommateur ne peuvent être établis,
+le remboursement est réputé être effectué à la date la plus proche prévue dans le contrat de crédit et pour le montant le
+plus bas prévu dans le contrat ; 
+
+ii) si l'intervalle entre la date d'utilisation initiale et celle du premier paiement devant être effectué par le
+consommateur ne peut pas être établi, il est supposé être l'intervalle le plus court ; 
+
+8° Si la date ou le montant d'un paiement devant être effectué par le consommateur ne peuvent être établis sur la base du
+contrat de crédit ou des hypothèses exposées aux points 7°, 9°, 10°, 11°, 12°, et 13°, le paiement est réputé être effectué
+aux dates et aux conditions requises par le prêteur et, lorsque celles-ci ne sont pas connues ; 
+
+i) les frais d'intérêts sont payés en même temps que les remboursements du capital ; 
+
+ii) les frais autres que d'intérêts, exprimés sous la forme d'une somme unique, sont payés à la date de conclusion du contrat
+de crédit ; 
+
+iii) les frais autres que d'intérêts, exprimés sous la forme de paiements multiples, sont payés à intervalles réguliers, à
+partir de la date du premier remboursement du capital, et si le montant de ces paiements n'est pas connu, les montants sont
+réputés égaux ; 
+
+iv) le paiement final liquide le solde du capital, les intérêts et les autres frais éventuels ; 
+
+9° En cas de facilité de découvert, le montant total du crédit est réputé utilisé en totalité et pour la durée totale du
+contrat de crédit. Si la durée de la facilité de découvert n'est pas connue, on calcule le TAEG en partant de l'hypothèse que
+la durée du crédit est de trois mois ; 
+
+10° En cas de crédit pont ou relais, le montant total du crédit est réputé utilisé en totalité et pour la durée totale du
+contrat de crédit. Si la durée du contrat de crédit n'est pas connue, on calcule le TAEG en partant de l'hypothèse que la
+durée du crédit est de douze mois ; 
+
+11° En cas de contrat de crédit à durée indéterminée, autre qu'une facilité de découvert ou un crédit pont ou relais : 
+
+i) en cas de contrats de crédit dont le but est d'acquérir ou de conserver des droits de propriété sur un bien immobilier, le
+crédit est réputé être octroyé pour une durée de vingt ans à partir de la date d'utilisation initiale, et le paiement final
+effectué par le consommateur liquide le solde du capital, les intérêts et les autres frais éventuels ; en cas de contrats de
+crédit dont le but n'est pas d'acquérir ou de conserver des droits de propriété sur un bien immobilier ou dont les
+utilisations sont effectuées au moyen de cartes de crédit, cette durée est d'un an ; 
+
+ii) le capital est supposé être remboursé par le consommateur en mensualités égales, le remboursement débutant un mois après
+la date de l'utilisation initiale. Toutefois, dans les cas où le capital doit être remboursé en totalité uniquement, en un
+seul versement, à l'intérieur de chaque période de paiement, les utilisations et les remboursements successifs de la totalité
+du capital par le consommateur sont supposés être effectués sur la durée d'un an. Les intérêts et autres frais sont appliqués
+conformément à ces utilisations et remboursements du capital, d'une part, et aux dispositions du contrat de crédit, d'autre
+part. 
+
+Aux fins du présent point, on entend, par contrat de crédit à durée indéterminée, un contrat de crédit sans durée fixe, y
+compris les crédits qui doivent être remboursés en totalité dans ou après un délai donné mais qui, une fois remboursés, sont
+disponibles pour une nouvelle utilisation ; 
+
+12° En cas d'engagements conditionnels ou de garanties, le montant total du crédit est réputé utilisé en totalité en une fois
+à celle des dates suivantes qui intervient le plus tôt : 
+
+i) la dernière date d'utilisation autorisée en vertu du contrat de crédit susceptible de faire intervenir l'engagement
+conditionnel ou la garantie ; ou 
+
+ii) en cas de contrat de crédit renouvelable, à la fin de la période initiale préalablement à la reconduction du contrat ; 
+
+13° En cas de contrats de crédit en fonds partagés : 
+
+i) les paiements effectués par les consommateurs sont réputés intervenir à la (ou aux) dernière (s) date (s) autorisée (s) en
+vertu du contrat de crédit ; 
+
+ii) le pourcentage d'accroissement de la valeur du bien immobilier qui garantit le contrat de crédit en fonds partagés, ainsi
+que le taux de tout indice d'inflation visé dans le contrat, sont supposés égaux à la valeur la plus élevée entre le taux
+d'inflation cible de la banque centrale en vigueur et le niveau d'inflation dans l'Etat membre où le bien immobilier est
+situé au moment de la conclusion du contrat de crédit ou à 0 % si ces pourcentages sont négatifs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Codifié par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+
 ###### Article Annexe à l'article D312-26
 
 Document d'information 
@@ -56730,6 +57787,787 @@ correspondantes.</td>
 	  - Code de la consommation - art. L222-1 (V)
 
 
+###### Article Annexe à l'article R313-4
+
+Informations précontractuelles européennes normalisées en matière de crédit immobilier
+
+FICHE D'INFORMATION STANDARDISÉE EUROPÉENNE (FISE)
+
+PARTIE A
+
+Le texte du modèle ci-après est reproduit tel quel dans la FISE. Les indications entre crochets sont remplacées par les
+informations correspondantes. Le prêteur ou, le cas échéant, l'intermédiaire de crédit trouvent en partie B les instructions
+sur la manière de compléter la FISE.
+
+La mention le cas échéant signifie que le prêteur donne l'information requise si elle est pertinente pour le contrat de
+crédit. Lorsque l'information n'est pas pertinente, le prêteur supprime la rubrique ou l'ensemble de la section en question
+(par exemple, si la section est sans objet). En cas de suppression de la section entière, les autres sections de la FISE sont
+renumérotées en conséquence.
+
+Les informations ci-dessous sont communiquées sous la forme d'un seul et unique document. La police est clairement lisible.
+Des caractères gras ou plus grands ou un arrière-plan différent sont utilisés pour les informations à mettre en évidence.
+Toutes les mises en garde applicables sont mises en évidence.
+
+Modèle de FISE
+
+Fiche d'information standardisée européenne relative
+
+aux contrats de crédit immobilier (FISE)
+
+<table>
+  <tbody>
+    <tr>
+      <td align="left">
+
+(Introduction)</td>
+    </tr>
+    <tr>
+      <td>
+
+Ce document a été établi pour [nom du consommateur] le [date du jour].
+
+Ce document a été établi sur la base des informations que vous avez fournies à ce stade et des conditions en vigueur sur le
+marché financier.
+
+Les informations ci-dessous restent valables jusqu'au [date de validité], (le cas échéant) à l'exception du taux d'intérêt et
+des autres frais. Au-delà de cette date, elles sont susceptibles de changer en fonction de l'évolution du marché.
+
+(Le cas échéant) Ce document n'oblige pas [nom du prêteur] à vous accorder un prêt.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+1° Prêteur</td>
+    </tr>
+    <tr>
+      <td>
+
+[Nom]
+
+[Numéro de téléphone]
+
+[Adresse géographique]
+
+(Facultatif) [Adresse électronique]
+
+(Facultatif) [Numéro de télécopieur]
+
+(Facultatif) [Adresse web]
+
+(Facultatif) [Personne/ point de contact]
+
+(Le cas échéant, des informations sur l'éventuelle fourniture de services de conseil :) [(Après avoir évalué vos besoins et
+votre situation, nous vous recommandons de contracter ce crédit immobilier/ Nous ne vous recommandons pas de contracter un
+crédit immobilier en particulier. Toutefois, sur la base des réponses que vous avez apportées à certaines questions, nous
+vous adressons des informations concernant ce crédit immobilier pour que vous puissiez prendre votre propre décision)]
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2° (Le cas échéant) Intermédiaire de crédit</td>
+    </tr>
+    <tr>
+      <td>
+
+[Nom]
+
+[Numéro de téléphone]
+
+[Adresse géographique]
+
+(Facultatif) [Adresse électronique]
+
+(Facultatif) [Numéro de télécopieur]
+
+(Facultatif) [Adresse web]
+
+(Facultatif) [Personne/ point de contact]
+
+(Le cas échéant [informations sur l'éventuelle fourniture de conseils]) [(Après avoir évalué vos besoins et votre situation,
+nous vous recommandons de contracter ce crédit immobilier/ Nous ne vous recommandons pas de contracter un crédit immobilier
+en particulier. Toutefois, sur la base des réponses que vous avez apportées à certaines questions, nous vous adressons des
+informations concernant ce crédit immobilier pour que vous puissiez prendre votre propre décision)]
+
+[Rémunération]
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+3° Principales caractéristiques du prêt</td>
+    </tr>
+    <tr>
+      <td>
+
+Montant et monnaie du prêt à accorder : [valeur] [monnaie]
+
+(Le cas échéant) Ce prêt n'est pas en [monnaie nationale de l'emprunteur].
+
+(Le cas échéant) La valeur de votre prêt en [monnaie nationale de l'emprunteur] pourrait changer.
+
+(Le cas échéant) Par exemple, si la valeur [de la monnaie nationale de l'emprunteur] baisse de 20 % par rapport à [la monnaie
+du prêt], la valeur de votre prêt atteindra [montant dans la monnaie nationale de l'emprunteur]. Cette augmentation pourrait
+être plus importante si la valeur [de la monnaie nationale de l'emprunteur] baisse de plus de 20 %.
+
+(Le cas échéant) La valeur maximale de votre prêt sera de [indiquer le montant dans la monnaie nationale de l'emprunteur].
+(Le cas échéant) Vous recevrez un avertissement si le montant du crédit atteint [indiquer le montant dans la monnaie
+nationale de l'emprunteur]. (Le cas échéant) Vous aurez la possibilité de [indiquer le droit de renégocier le prêt en monnaie
+étrangère ou le droit de le convertir en [monnaie concernée] et les conditions].
+
+Durée du prêt : [durée]
+
+[Type de prêt]
+
+[Type de taux d'intérêt applicable]
+
+Montant total à rembourser :
+
+Cela signifie que vous rembourserez [montant] pour chaque [unité monétaire] emprunté.
+
+(Le cas échéant) [Ce prêt/ Cette partie du prêt] est un prêt sans remboursement de capital. Le montant de [indiquer le
+montant du prêt sans remboursement de capital] est à payer à la fin de la période couverte par le prêt.
+
+(Le cas échéant) Valeur du bien estimé pour préparer cette fiche d'information : [indiquer le montant]
+
+(Le cas échéant) Montant maximal de prêt disponible par rapport à la valeur du bien [indiquer le ratio] ou Valeur minimale du
+bien requise pour emprunter le montant illustré [indiquer le montant]
+
+(Le cas échéant) [Garantie]
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+4° Taux d'intérêt et autres frais</td>
+    </tr>
+    <tr>
+      <td>
+
+Le taux annuel effectif global (TAEG) est le coût total du prêt exprimé en pourcentage annuel. Le TAEG est indiqué pour vous
+aider à comparer différentes offres.
+
+Le TAEG applicable à votre prêt est de [TAEG].
+
+Il comprend :
+
+Taux d'intérêt [valeur en pourcentage ou, le cas échéant, indication d'un taux de référence et d'une valeur en pourcentage de
+la marge du prêteur]
+
+[Autres composantes du TAEG]
+
+Frais payables une seule fois :
+
+(Le cas échéant) Vous devrez acquitter des frais pour inscrire l'hypothèque. [Indiquer le montant des frais s'il est connu ou
+la base de calcul.]
+
+Frais payables régulièrement :
+
+(Le cas échéant) Ce TAEG est calculé sur la base d'hypothèses concernant le taux d'intérêt.
+
+(Le cas échéant) Comme [une partie de] votre prêt est un prêt à taux variable, le TAEG effectif pourrait être différent de ce
+TAEG si le taux d'intérêt de votre prêt change. Par exemple, si le taux d'intérêt atteint [hypothèse décrite dans la partie
+B], le TAEG pourrait passer à [indiquer le TAEG illustratif correspondant à l'hypothèse].
+
+(Le cas échéant) Veuillez noter que ce TAEG est calculé sur la base d'un taux d'intérêt restant au niveau fixé pour la
+période initiale pendant toute la durée du contrat.
+
+(Le cas échéant) Les frais suivants ne sont pas connus par le prêteur et ne sont donc pas pris en compte dans le TAEG :
+[Frais]
+
+(Le cas échéant) Vous devrez acquitter des frais pour inscrire l'hypothèque.
+
+Veuillez-vous assurer que vous avez pris connaissance de tous les frais et taxes annexes liés à votre prêt.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+5° Nombre et périodicité des versements</td>
+    </tr>
+    <tr>
+      <td>
+
+Périodicité des versements : [périodicité]
+
+Nombre de versements : [nombre]
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+6° Montant de chaque versement</td>
+    </tr>
+    <tr>
+      <td>
+
+[montant] [monnaie]
+
+Vos revenus peuvent fluctuer. Veuillez vous assurer que vous pourrez toujours faire face à vos versements [périodicité] dans
+le cas où vos revenus diminueraient.
+
+(Le cas échéant) Comme [ce prêt/ une partie de ce prêt] est un prêt sans remboursement du capital, vous devrez prendre des
+dispositions séparées aux fins du remboursement de [indiquer le montant du prêt sans remboursement du capital] qui sera dû à
+la fin du prêt. Veillez à ajouter tout paiement supplémentaire dont vous devrez vous acquitter en plus du montant des
+versements indiqué ici.
+
+(Le cas échéant) Le taux d'intérêt applicable à [une partie de] ce prêt peut fluctuer. Par conséquent, le montant de vos
+versements peut augmenter ou diminuer. Par exemple, si le taux d'intérêt atteint [hypothèse décrite dans la partie B], vos
+versements pourraient atteindre [indiquer le montant des versements correspondant à l'hypothèse].
+
+(Le cas échéant) La valeur du montant que vous devez payer en [monnaie nationale de l'emprunteur] chaque [périodicité des
+versements] peut fluctuer. (Le cas échéant) Vos paiements pourraient atteindre [indiquer le montant maximal dans la monnaie
+nationale de l'emprunteur] chaque [indiquer la période]. (Le cas échéant) Par exemple, si la valeur de [la monnaie nationale
+de l'emprunteur] baisse de 20 % par rapport à [la monnaie de l'emprunt] vous devrez payer [indiquer le montant dans la
+monnaie nationale de l'emprunteur] supplémentaire chaque [indiquer la période]. Vos paiements pourraient augmenter beaucoup
+plus que dans cet exemple.
+
+(Le cas échéant) Le taux de change utilisé pour convertir en [monnaie nationale de l'emprunteur] votre versement libellé en
+[monnaie dans laquelle le prêt est libellé] sera le taux publié par [nom de l'institution publiant le taux de change] le
+[date] ou sera calculé le [date], en utilisant [indiquer le nom de la valeur de référence ou de la méthode de calcul].
+
+(Le cas échéant) [Détails sur les produits d'épargne liés, les prêts à intérêts différés]
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+7° (Le cas échéant) Échéancier indicatif</td>
+    </tr>
+    <tr>
+      <td>
+
+Cet échéancier montre le montant à verser tous les [périodicité].
+
+Les versements (colonne n° [numéro de la colonne]) correspondent à la somme des intérêts à payer (colonne n° [numéro de la
+colonne]), le cas échéant, du capital payé (colonne n° [numéro de la colonne]), et, le cas échéant, des autres frais (colonne
+n° [numéro de la colonne]). (Le cas échéant), les frais de la colonne autres frais sont les suivants : [liste des frais]. Le
+capital restant dû (colonne n° [numéro de la colonne]) est le montant restant à rembourser après chaque versement.
+
+[Tableau]
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+8° Obligations supplémentaires</td>
+    </tr>
+    <tr>
+      <td>
+
+L'emprunteur doit respecter les obligations suivantes pour bénéficier des conditions de prêt décrites dans ce document.
+
+[Obligations]
+
+(Le cas échéant) Veuillez noter que les conditions de prêt décrites dans ce document (y compris le taux d'intérêt) peuvent
+changer si ces obligations ne sont pas respectées.
+
+(Le cas échéant) Veuillez prendre note des conséquences éventuelles d'une suppression ultérieure de l'un des services
+auxiliaires liés au prêt.
+
+[Conséquences]
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+9° Remboursement anticipé</td>
+    </tr>
+    <tr>
+      <td>
+
+Vous avez la possibilité de rembourser totalement ou partiellement ce prêt par anticipation.
+
+(Le cas échéant) [Conditions]
+
+(Le cas échéant) Frais de sortie : [indiquer le montant ou, si ce n'est pas possible, la méthode de calcul]
+
+(Le cas échéant) Si vous décidez de rembourser ce prêt par anticipation, veuillez nous contacter pour établir le montant
+exact des frais de sortie à ce moment-là.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+10° Caractéristiques variables</td>
+    </tr>
+    <tr>
+      <td>
+
+(Le cas échéant) [Informations sur la portabilité/ subrogation] Vous avez la possibilité de transférer ce prêt à un autre
+[prêteur] [ou] [à l'égard d'un autre bien]. [Indiquer les conditions]
+
+(Le cas échéant) Vous n'avez pas la possibilité de transférer ce prêt à un autre [prêteur] [ou] [à l'égard d'un autre bien].
+
+(Le cas échéant) Caractéristiques supplémentaires : [explication des caractéristiques supplémentaires visées à la partie B
+et, éventuellement, des autres caractéristiques offertes par le prêteur dans le cadre du contrat de crédit qui ne sont pas
+mentionnées dans les sections précédentes].
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+11° Autres droits de l'emprunteur</td>
+    </tr>
+    <tr>
+      <td>
+
+(Le cas échéant) vous disposez de [durée du délai de réflexion] après le [début du délai de réflexion] pour réfléchir avant
+de vous engager à contracter ce prêt. (Le cas échéant) Une fois que vous aurez reçu du prêteur le contrat de crédit, vous ne
+pourrez pas l'accepter avant la fin [durée du délai de réflexion].</td>
+    </tr>
+    <tr>
+      <td>
+
+12° Réclamations</td>
+    </tr>
+    <tr>
+      <td>
+
+Si vous avez une réclamation, veuillez contacter [indiquer le point de contact et la source d'information sur la procédure].
+
+(Le cas échéant) Délai maximal pour traiter la réclamation [durée]
+
+(Le cas échéant) [Si nous n'avons pas résolu la réclamation à votre satisfaction au niveau interne], vous pouvez également
+contacter : [indiquer le nom de l'organisme extérieur chargé du règlement des réclamations et recours extrajudiciaires] (Le
+cas échéant) ou vous pouvez contacter le réseau FIN-NET pour obtenir les coordonnées de l'organisme correspondant dans votre
+pays.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+13° Non-respect des engagements liés au prêt : conséquences pour l'emprunteur</td>
+    </tr>
+    <tr>
+      <td>
+
+[Types de non-respect]
+
+[Conséquences financières et/ ou juridiques]
+
+Si vous rencontrez des difficultés à vous acquitter de vos versements [périodicité], veuillez nous contacter immédiatement
+pour étudier les solutions envisageables.
+
+(Le cas échéant) En dernier ressort, votre logement peut être saisi si vous ne vous acquittez pas de vos remboursements.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+(Le cas échéant) 14. Informations complémentaires</td>
+    </tr>
+    <tr>
+      <td>
+
+(Le cas échéant) [Indication de la législation applicable au contrat de crédit]
+
+(Lorsque le prêteur a l'intention d'utiliser une langue différente de la langue de la FISE) Les informations et les
+conditions contractuelles seront fournies en [langue]. Avec votre accord, nous comptons communiquer en [langue/ langues]
+pendant toute la durée du contrat de crédit.
+
+[Insérer la mention concernant le droit à recevoir ou à se voir proposer, le cas échéant, un projet de contrat de crédit]
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+15° Autorité de surveillance</td>
+    </tr>
+    <tr>
+      <td>
+
+Ce prêteur est surveillé par [nom (s) et adresse web de l'autorité ou des autorités de surveillance].
+
+(Le cas échéant) Cet intermédiaire de crédit est surveillé par [nom et adresse web de l'autorité de surveillance].
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+PARTIE B
+
+Instructions pour compléter la FISE
+
+La FISE est complétée en suivant les instructions ci-après.
+
+Section Introduction
+
+La date de validité est dûment mise en évidence. Aux fins de la présente section, on entend par date de validité la période
+pendant laquelle l'information, par exemple le taux débiteur, figurant dans la FISE ne sera pas modifiée et s'appliquera si
+le prêteur décide d'octroyer le crédit durant cette période. Lorsque le calcul du taux débiteur applicable et des autres
+frais dépend des résultats de la vente d'obligations sous-jacentes, le taux débiteur final et les autres frais pourraient
+être différents de ce qui est indiqué. Dans ce cas seulement, il est stipulé que la date de validité ne s'applique pas au
+taux débiteur et aux autres frais, en ajoutant la mention à l'exception du taux d'intérêt et des autres frais.
+
+Section 1. Prêteur
+
+1° Le nom, le numéro de téléphone et l'adresse géographique du prêteur sont les coordonnées que le consommateur peut utiliser
+pour toute future correspondance ;
+
+2° Les informations sur l'adresse électronique, le numéro de télécopieur, l'adresse web et la personne ou le point de contact
+sont facultatives ;
+
+3° Conformément aux articles R. 222-1 à R. 222-3 du code de la consommation, lorsque la transaction est proposée à distance,
+le prêteur indique, le cas échéant, le nom et l'adresse géographique de son représentant dans l'Etat membre de résidence du
+consommateur]. Le numéro de téléphone, l'adresse électronique et l'adresse web du représentant du prestataire de crédit sont
+facultatifs ;
+
+4° Si la section 2 n'est pas applicable, le prêteur fait savoir au consommateur si des services de conseil sont fournis et
+sur quelle base, en suivant la formulation de la partie A.
+
+(Le cas échéant) Section 2. Intermédiaire de crédit
+
+Informations sur le produit fournies au consommateur par un intermédiaire de crédit :
+
+1° Le nom, le numéro de téléphone et l'adresse géographique de l'intermédiaire de crédit sont les coordonnées que le
+consommateur peut utiliser pour toute future correspondance ;
+
+2° Les informations sur l'adresse électronique, le numéro de télécopieur, l'adresse web et la personne ou le point de contact
+sont facultatives ;
+
+3° L'intermédiaire de crédit indique au consommateur si des services de conseil sont fournis et sur quelle base, en suivant
+la formulation de la partie A ;
+
+4° Des explications concernant le mode de rémunération de l'intermédiaire de crédit. S'il perçoit une commission de la part
+d'un prêteur, le montant et, si celui-ci est différent du nom figurant dans la section 1, le nom du prêteur sont indiqués.
+
+Section 3. Principales caractéristiques du prêt
+
+1° Cette section explique clairement les principales caractéristiques du crédit, y compris la valeur et la monnaie ainsi que
+les risques potentiels associés au taux débiteur, y compris les risques mentionnés au point 8, et la structure de
+l'amortissement ;
+
+2° Si la monnaie du crédit n'est pas la monnaie nationale du consommateur, le prêteur indique que le consommateur sera averti
+régulièrement, au moins si le taux de change varie de plus de 20 %, qu'il aura le droit, le cas échéant, de convertir la
+monnaie du contrat de crédit ou la possibilité de renégocier les conditions et tout autre arrangement à la disposition du
+consommateur en vue de limiter son exposition au risque de change. Lorsque le contrat de crédit contient une disposition en
+vue de limiter le risque de change, le prêteur indique le montant maximal que le consommateur aurait à rembourser. Lorsque le
+contrat de crédit ne comporte aucune disposition, pour limiter le risque de change auquel le consommateur est exposé à une
+fluctuation du taux de change inférieure à 20 %, le prêteur fournit un exemple de l'effet qu'aurait sur la valeur du prêt une
+baisse de de 20 % de la valeur de la monnaie nationale du consommateur par rapport à la monnaie du crédit ;
+
+3° La durée du crédit est exprimée en années ou en mois, selon que l'une ou l'autre unité est la plus appropriée. Si la durée
+du crédit est susceptible de varier pendant la durée du contrat, le prêteur explique quand et à quelles conditions cette
+variation peut survenir. Si le crédit est à durée indéterminée, par exemple dans le cas d'une carte de crédit avec garantie,
+le prêteur l'indique clairement ;
+
+4° Le type de crédit devrait être clairement indiqué (par exemple, crédit hypothécaire, prêt au logement). La description du
+type de crédit indique clairement comment le capital et les intérêts sont remboursés sur la durée du prêt (c'est-à-dire la
+structure d'amortissement), en précisant si le contrat de crédit porte sur le remboursement du capital ou si le crédit
+contracté au titre dudit contrat est un crédit sans remboursement du capital, ou un mélange des deux ;
+
+5° Si le crédit est, en totalité ou en partie, un crédit sans remboursement du capital, une mention indiquant clairement ce
+fait figure en évidence à la fin de cette section en suivant la formulation de la partie A ;
+
+6° Cette section précise si le taux débiteur est fixe ou variable, le cas échéant, si le taux variable est ou non plafonné
+ainsi que les périodes pendant lesquelles il restera fixe, la fréquence des révisions du taux et les limites éventuelles de
+variation du taux débiteur (plafonds et planchers, par exemple).
+
+La formule utilisée pour réviser le taux débiteur et ses différentes composantes (par exemple, le taux de référence ou les
+écarts de taux d'intérêt) sont expliquées. Le prêteur précise, par exemple sur son site web, où trouver d'autres informations
+sur les indices ou les taux utilisés dans la formule (par exemple, l'Euribor ou le taux de référence de la banque centrale) ;
+
+7° Si différents taux débiteurs s'appliquent en fonction des circonstances, les informations portent sur tous les taux
+applicables ;
+
+8° Le montant total à rembourser correspond au montant total dû par le consommateur. Il est calculé en additionnant le
+montant du prêt et le coût total du prêt pour le consommateur. Si le taux débiteur n'est pas fixe pendant la durée du
+contrat, il convient de préciser que ce montant est donné à titre indicatif et peut varier, en particulier en fonction des
+variations du taux débiteur ;
+
+9° Lorsque le prêt est garanti par une hypothèque sur le bien immobilier, par une autre sûreté comparable ou par un droit lié
+à un bien immobilier, le prêteur attire l'attention du consommateur sur ce fait. Le cas échéant, le prêteur indique la valeur
+estimée du bien immobilier ou une autre sûreté utilisée aux fins de préparer cette fiche d'information ;
+
+10° Le prêteur indique, le cas échéant :
+
+a) Le montant maximal de prêt disponible par rapport à la valeur du bien, qui est le ratio montant à financer/ valeur du bien
+(ratio hypothécaire). Ce ratio est accompagné d'un exemple montrant en valeur absolue le montant maximal pouvant être
+emprunté pour la valeur d'un bien particulier ; ou ;
+
+b) La valeur minimale du bien requise par le prêteur pour prêter le montant illustré ;
+
+11° Lorsque les crédits sont des crédits en plusieurs parties (par exemple, des prêts en partie à taux fixe, en partie à taux
+variable), cette information figure dans l'indication du type de crédit, et les informations requises sont mentionnées pour
+chaque partie du crédit.
+
+Section 4. Taux d'intérêt et autres frais
+
+1° Le taux d'intérêt correspond au taux débiteur ou aux taux débiteurs ;
+
+2° Le taux débiteur est indiqué sous forme de pourcentage. Si le taux débiteur est variable et fondé sur un taux de
+référence, le prêteur peut indiquer le taux débiteur en annonçant un taux de référence et une valeur en pourcentage de sa
+marge. Le prêteur indique toutefois la valeur du taux de référence valide le jour de l'émission de la FISE.
+
+Si le taux débiteur est variable, l'information comprend : a) les hypothèses utilisées pour le calcul du TAEG ; b) le cas
+échéant, les plafonds et les seuils applicables ; et c) un avertissement indiquant que la variabilité pourrait affecter le
+niveau réel du TAEG. Pour attirer l'attention du consommateur, la taille de caractère utilisée pour l'avertissement est plus
+grande et figure en évidence dans la partie principale de la FISE. L'avertissement est accompagné d'un exemple indicatif sur
+le TAEG. Lorsque le taux débiteur est plafonné, l'exemple suppose que le taux débiteur s'élève dans les plus brefs délais au
+niveau le plus élevé prévu dans le contrat de crédit. En l'absence de plafond, l'exemple présente le TAEG au taux débiteur le
+plus élevé au cours des vingt dernières années au moins ou, si les données sous-jacentes pour le calcul du taux débiteur sont
+disponibles pour une période de moins de vingt ans, la période la plus longue pour laquelle ces données sont disponibles, sur
+la base de la valeur la plus élevée de tout taux de référence extérieur utilisé pour le calcul du taux débiteur le cas
+échéant, ou de la valeur la plus élevée d'un taux de référence fixé par une autorité compétente ou par l'ABE lorsque le
+prêteur n'utilise pas un taux de référence extérieur. Cette exigence ne s'applique pas aux contrats de crédit dont le taux
+débiteur est fixé pour une période initiale de plusieurs années et peut ensuite être fixé pour une nouvelle période après
+négociation entre le prêteur et le consommateur. Dans le cas des contrats de crédit dont le taux débiteur est fixé pour une
+période initiale de plusieurs années et peut ensuite être fixé pour une nouvelle période après négociation entre le prêteur
+et le consommateur, l'information comprend un avertissement indiquant que le TAEG est calculé sur la base du taux débiteur de
+la période initiale. L'avertissement est accompagné d'un exemple de TAEG supplémentaire calculé conformément à l'article R.
+314-1 du code de la consommation. Lorsque les crédits sont des crédits en plusieurs parties (par exemple, en partie à taux
+fixe, en partie à taux variable), les informations sont mentionnées pour chaque partie du crédit ;
+
+3° Dans la section Autres composantes du TAEG, il convient d'énumérer tous les autres frais inclus dans le TAEG, y compris
+les frais non récurrents, tels que les frais administratifs, et les frais réguliers, tels que les frais administratifs
+annuels. Le prêteur dresse la liste des frais en les classant par catégorie (frais à payer de manière non récurrente, frais à
+payer régulièrement et inclus dans les versements, frais à payer régulièrement mais non inclus dans les versements), en
+indiquant leur montant et en précisant à qui et quand ils devront être payés. Il n'est pas nécessaire d'inclure les frais
+encourus pour non-respect des obligations contractuelles. Lorsque ce montant n'est pas connu, le prêteur donne si possible
+une indication du montant ou, à défaut, explique le mode de calcul du montant et précise que ce montant n'est donné qu'à
+titre indicatif. Dans le cas où certains frais ne sont pas inclus dans le TAEG parce que le prêteur ne les connaît pas, il
+convient d'attirer l'attention sur ce fait.
+
+Si le consommateur a indiqué au prêteur un ou plusieurs éléments du crédit qu'il privilégie, tels que la durée du contrat de
+crédit et le montant total du crédit, le prêteur tient, si possible, compte de ces éléments ; si un contrat de crédit offre
+au consommateur différentes possibilités quant au mode d'utilisation du crédit, assorties de frais ou de taux débiteurs
+différents, et que le prêteur applique l'hypothèse de l'annexe, partie II, relative au TAEG il indique que d'autres modes
+d'utilisation existant pour ce type de crédit peuvent avoir pour conséquence un TAEG plus élevé. Lorsque les modes
+d'utilisation du crédit sont prises en compte pour le calcul du TAEG, le prêteur attire l'attention sur les frais liés aux
+autres modalités d'utilisation qui ne sont pas nécessairement celles utilisées dans le calcul du TAEG ;
+
+4° Si l'inscription de l'hypothèque ou d'une autre sûreté comparable donne lieu au paiement de frais, cette information
+figure dans cette section avec le montant, s'il est connu, ou, si ce n'est pas possible, la base de détermination de ce
+montant. Si les frais sont connus et inclus dans le TAEG, l'existence et le montant des frais sont mentionnés dans la
+rubrique Frais payables en une seule fois. Si les frais ne sont pas connus du prêteur et ne sont donc pas pris en compte dans
+le TAEG, leur existence est clairement mentionnée sur la liste des frais qui ne sont pas connus du prêteur. Dans les deux
+cas, la formulation type de la partie A est utilisée à la rubrique correspondante.
+
+Section 5. Nombre et périodicité des versements
+
+1° Si les versements sont effectués à intervalles réguliers, leur périodicité (par exemple, mensuelle) est précisée. si la
+fréquence des versements est irrégulière, ce fait est clairement expliqué au consommateur ;
+
+2° Le nombre de versements indiqué porte sur toute la durée du prêt.
+
+Section 6. Montant de chaque versement
+
+1° La monnaie du crédit et la monnaie des versements sont indiquées clairement ;
+
+2° Lorsque le montant des versements est susceptible de changer pendant la durée du crédit, le prêteur précise pendant quelle
+période le montant initial des versements reste inchangé, et quand et avec quelle périodicité il changera par la suite ;
+
+3° Lorsque le crédit est, en totalité ou en partie, un crédit sans remboursement du capital, une mention l'indiquant
+clairement figure en évidence à la fin de cette section, en suivant la formulation de la partie A.
+
+Si le consommateur est tenu de contracter un produit d'épargne lié comme condition pour obtenir un crédit sans remboursement
+du capital garanti par une hypothèque ou une sûreté comparable, le montant et la périodicité des paiements sont indiqués ;
+
+4° Lorsque le taux débiteur est variable, l'information le mentionne, en suivant la formulation de la partie A, et fournit un
+exemple de montant maximal de versement. Lorsqu'il existe un plafond, l'exemple précise quel sera le montant des versements
+si le taux débiteur atteint ce plafond. En l'absence de plafond, c'est l'hypothèse la plus défavorable qui illustre le niveau
+des versements au taux débiteur le plus élevé au cours des vingt dernières années, ou, si les données sous-jacentes pour le
+calcul du taux débiteur sont disponibles pour une période de moins de vingt ans, la période la plus longue pour laquelle ces
+données sont disponibles, sur la base de la valeur la plus élevée de tout taux de référence extérieur utilisé pour le calcul
+du taux débiteur le cas échéant ou de la valeur la plus élevée d'un taux de référence fixé par une autorité compétente ou par
+l'ABE lorsque le prêteur n'utilise pas un taux de référence extérieur. L'exigence de fournir un exemple à titre indicatif ne
+s'applique pas aux contrats de crédit dont le taux débiteur est fixé pour une période initiale de plusieurs années et peut
+ensuite être fixé pour une nouvelle période après négociation entre le prêteur et le consommateur. Lorsque les crédits sont
+des crédits en plusieurs parties (par exemple, en partie à taux fixe, en partie à taux variable), les informations sont
+mentionnées pour chaque partie du crédit, et pour le total ;
+
+5° (Le cas échéant) Lorsque la monnaie du prêt n'est pas la monnaie nationale du consommateur ou lorsque le crédit est indexé
+sur une monnaie qui n'est pas la monnaie nationale du consommateur, le prêteur donne un exemple chiffré montrant clairement
+l'impact que des variations du taux de change applicable peuvent avoir sur le montant des versements, en suivant la
+formulation de la partie A. Cet exemple s'appuie sur une réduction de 20 % de la valeur de la monnaie nationale du
+consommateur, accompagné d'une mention visible indiquant que les versements pourraient augmenter davantage que le montant
+supposé dans cet exemple. Lorsqu'un plafond limite l'augmentation à un montant inférieur à 20 %, le montant maximal des
+versements dans la monnaie du consommateur est indiqué, sans mentionner la possibilité de nouvelles augmentations ;
+
+6° Lorsque le crédit est, en totalité ou en partie, un crédit à taux variable et que le point 3 s'applique, l'exemple visé au
+point 5 est fourni sur la base du montant de versement visé au point 1 ;
+
+7° Lorsque la monnaie dans laquelle sont libellés les versements est différente de la monnaie du crédit ou que le montant de
+chaque versement exprimé dans la monnaie nationale du consommateur dépend du montant correspondant dans une autre monnaie,
+cette section indique la date à laquelle le taux de change applicable est calculé et le taux de change ou la base sur
+laquelle il sera calculé ainsi que la fréquence de leur ajustement. Le cas échéant, les indications fournies comprennent
+notamment le nom de l'institution qui publie le taux de change applicable ;
+
+8° Lorsque le crédit est un crédit à intérêts différés dont les intérêts dus ne sont pas intégralement remboursés par les
+versements et s'ajoutent au montant total du crédit restant dû, les explications suivantes sont fournies : comment et quand
+les intérêts différés s'ajoutent au crédit en tant qu'apport de trésorerie ; et quelles sont les conséquences pour le
+consommateur au niveau du restant de la dette.
+
+Section 7. Échéancier indicatif
+
+1° Cette section est ajoutée lorsque le crédit est un crédit à intérêts différés, dont les intérêts dus ne sont pas
+intégralement remboursés par les versements et s'ajoutent au montant total du crédit restant dû, ou lorsque le taux débiteur
+est fixé pour la durée du contrat de crédit.
+
+Lorsque le consommateur a le droit de recevoir un tableau d'amortissement révisé, ce droit est mentionné avec les conditions
+dans lesquelles le consommateur peut l'exercer ;
+
+2° Le tableau à inclure dans cette section comprend les colonnes suivantes : échéance (par exemple, 1er mois, 2e mois, 3e
+mois), montant du versement, intérêt à payer par versement, autres frais inclus dans le versement (le cas échéant), capital
+remboursé par versement et capital restant dû après chaque versement ;
+
+3° Pour la première année de remboursement, l'information est fournie pour chaque versement échelonné, et un sous-total
+correspondant à la fin de cette première année est fourni pour chacune des colonnes. Pour les années suivantes, les
+informations peuvent être fournies sur une base annuelle. Une ligne supplémentaire est ajoutée à la fin du tableau pour
+indiquer le total de chaque colonne. Le coût total du crédit payé par le consommateur (qui correspond au total de la colonne
+montant du versement) est dûment mis en évidence et indiqué comme tel.
+
+Section 8. Obligations supplémentaires
+
+1° Dans cette section, le prêteur mentionne les obligations telles que celles d'assurer le bien immobilier, de souscrire une
+assurance-vie, de verser un salaire sur un compte du prêteur ou d'acquérir un autre produit ou service. pour chaque
+obligation, le prêteur précise auprès de qui et dans quel délai elle doit être remplie ;
+
+2° Le prêteur précise la durée de l'obligation, par exemple le terme du contrat de crédit. Le prêteur précise, pour chaque
+obligation, tous les frais payables par le consommateur qui ne sont pas compris dans le TAEG ;
+
+3° Le prêteur indique si le consommateur est tenu de souscrire à des services auxiliaires pour obtenir le crédit aux
+conditions mentionnées et, dans l'affirmative, si le consommateur est tenu d'y souscrire auprès du prestataire indiqué par le
+prêteur ou si ces services peuvent être achetés auprès d'un prestataire choisi par le consommateur. Si cette possibilité est
+subordonnée au respect de certaines caractéristiques minimales par les services auxiliaires, ces caractéristiques sont
+décrites dans cette section.
+
+Si le contrat de crédit est lié à d'autres produits, le prêteur mentionne les caractéristiques essentielles de ces autres
+produits et indique clairement si le consommateur a le droit de résilier le contrat de crédit ou les produits liés
+séparément, dans quelles conditions et avec quelles conséquences ainsi que, le cas échéant, les conséquences éventuelles
+d'une suppression des services auxiliaires requis dans le cadre du contrat de crédit.
+
+Section 9. Remboursement anticipé
+
+1° Le prêteur précise les conditions auxquelles le consommateur peut rembourser le crédit par anticipation, entièrement ou
+partiellement ;
+
+2° Dans la section sur les frais de sortie, le prêteur attire l'attention du consommateur sur tout frais de sortie ou tout
+autre frais payable au titre de remboursement anticipé en vue d'indemniser le prêteur et, le cas échéant, il en indique le
+montant. Si le montant de l'indemnisation dépend de plusieurs facteurs, tels que le montant remboursé ou le taux d'intérêt en
+vigueur au moment du remboursement anticipé, le prêteur indique comment est calculée l'indemnisation et indique le montant
+maximal des frais ou, si ce n'est pas possible, il fournit un exemple indicatif afin d'informer le consommateur du niveau
+possible de l'indemnisation dans plusieurs scénarios différents.
+
+Section 10. Caractéristiques variables
+
+1° Le cas échéant, le prêteur explique la possibilité de transférer le crédit à un autre prêteur ou à l'égard d'un autre bien
+immobilier ainsi que les conditions relatives à ce transfert ;
+
+2° (Le cas échéant) Caractéristiques supplémentaires : lorsque le produit contient l'une des caractéristiques répertoriées au
+point 5, la présente section doit en dresser la liste et fournir une brève explication des aspects suivants : les
+circonstances dans lesquelles le consommateur peut utiliser cette caractéristique ; les conditions liées à la
+caractéristique ; si le fait que la caractéristique fait partie du crédit garanti par une hypothèque ou une garantie
+comparable signifie que le consommateur perd une protection réglementaire ou autre généralement associée à la
+caractéristique ; l'entreprise fournissant la caractéristique (si celle-ci est différente du prêteur) ;
+
+3° Si la caractéristique prévoit un crédit supplémentaire, alors la présente section doit indiquer au consommateur : le
+montant total du crédit (y compris le crédit garanti par l'hypothèque ou la garantie comparable) ; si le crédit
+supplémentaire est sécurisé ou non ; les taux débiteurs concernés et si la caractéristique est réglementée ou non. Ce montant
+de crédit supplémentaire est inclus dans l'évaluation initiale de solvabilité ou, s'il ne l'est pas, cette section précise
+que la disponibilité du montant supplémentaire est subordonnée à une nouvelle évaluation de la capacité de remboursement du
+consommateur ;
+
+4° Si la caractéristique suppose un mécanisme d'épargne, le taux d'intérêt adéquat doit être expliqué ;
+
+5° Les caractéristiques supplémentaires possibles sont les suivantes : Trop payés/ Moins payés [paiements supérieurs ou
+inférieurs au versement normalement requis par la structure d'amortissement] ; Dispense temporaire de remboursement [périodes
+pendant lesquelles le consommateur n'est pas tenu d'effectuer des paiements] ; Réemprunt [possibilité pour le consommateur
+d'emprunter à nouveau des fonds déjà prélevés et remboursés] ; Emprunt supplémentaire disponible sans autre approbation ;
+Emprunt supplémentaire sécurisé ou non sécurisé [conformément au point 3 ci-dessus] ; Carte de crédit ; Compte courant lié ;
+et Compte épargne lié ;
+
+6° Le prêteur peut inclure toutes les autres caractéristiques offertes par le prêteur dans le cadre du contrat de crédit qui
+ne sont pas mentionnées dans les sections précédentes.
+
+Section 11. Autres droits de l'emprunteur.
+
+1° Le prêteur donne des précisions sur le (s) droit (s) de rétractation ou de réflexion et, le cas échéant, les autres droits
+existants tels que la portabilité (y compris la subrogation), sur les conditions auxquelles ce ou ces droits sont soumis, sur
+la procédure à suivre par le consommateur afin de les exercer, et notamment l'adresse où est envoyée la demande de
+rétractation, ainsi que sur les frais correspondants, s'il y a lieu ;
+
+2° Lorsque le consommateur dispose d'un délai de réflexion ou d'un droit de rétractation, cette faculté est clairement
+mentionnée ;
+
+3° Conformément au 3° de l'article R. 222-1 du code de la consommation, lorsque la transaction est proposée à distance, le
+consommateur est informé de l'existence ou de l'absence d'un droit de rétractation.
+
+Section 12. Réclamations
+
+1° Cette section indique le point de contact interne [nom du service responsable] et le moyen de le contacter en cas de
+réclamation [adresse géographique] ou [numéro de téléphone] ou [la personne de contact] : [coordonnées du contact] ainsi
+qu'un lien vers la procédure de réclamation sur la page appropriée d'un site internet ou une source d'information similaire ;
+
+2° Elle indique le nom de l'organisme extérieur chargé du règlement des réclamations et recours extrajudiciaires et lorsque
+le recours à la procédure de réclamation interne est une condition préalable à l'accès à cet organisme, elle l'indique en
+suivant la formulation de la partie A ;
+
+3° Dans le cas d'un contrat de crédit avec un consommateur résidant dans un autre Etat membre, le prêteur mentionne
+l'existence du réseau FIN-NET (http :// ec. europa. eu/ internal _ market/ fin-net/ index _ fr. htm).
+
+Section 13. Non-respect des engagements liés au prêt : conséquences pour l'emprunteur
+
+1° Si le non-respect, par le consommateur, de l'une quelconque des obligations liées à son prêt peut avoir pour lui des
+conséquences financières ou juridiques, le prêteur décrit dans cette section les principales situations possibles (retard ou
+défaut de paiement, ou encore non-respect des obligations énoncées à la section 8, obligations supplémentaires, par exemple)
+et indique où des informations supplémentaires pourraient être obtenues ;
+
+2° Pour chacun de ces cas, le prêteur précise, en termes clairs et aisément compréhensibles, les sanctions ou les
+conséquences auxquelles l'emprunteur s'expose. Les conséquences les plus graves sont mises en évidence ;
+
+3° Lorsque le bien immobilier utilisé pour garantir le crédit peut être restitué ou transféré au prêteur si le consommateur
+ne respecte pas ses obligations, cette section comprend une mention à ce sujet, en suivant la formulation de la partie A.
+
+Section 14. Informations complémentaires
+
+1° En cas de vente à distance, cette section comprend toute rubrique précisant la loi applicable au contrat de crédit et/ ou
+la juridiction compétente ;
+
+2° Lorsque le prêteur a l'intention de communiquer avec le consommateur pendant la durée de validité du contrat dans une
+autre langue que celle de la FISE, ce fait est mentionné et la langue de communication est indiquée. Ce point est sans
+préjudice du dernier alinéa du 3° de l'article R. 222-1 du code de la consommation ;
+
+3° Le prêteur ou l'intermédiaire de crédit indique le droit du consommateur à recevoir un exemplaire du projet de contrat de
+crédit, au moins après qu'une offre engageant le prêteur a été fournie.
+
+Section 15. Autorité de surveillance
+
+1° La ou les autorités compétentes pour la surveillance du stade précontractuel de l'activité de prêt sont indiquées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Codifié par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Cite**:
+
+	  - Code de la consommation - art. R222-1 (V)
+	  - Code de la consommation - art. R314-1 (VD)
+
+
 ###### Article Annexe à l'article R313-8
 
 (Arrêté 29 avril 2015-assurance emprunteur)
@@ -57516,90 +59354,6 @@ dans le montant total de l'opération de regroupement envisagée.
 	**Cite**:
 
 	  - Code de la consommation - art. R314-20 (V)
-
-
-# Partie législative
-
-## Livre III : Endettement
-
-### Titre Ier : Crédit
-
-#### Chapitre III : Dispositions communes aux chapitres Ier et II
-
-##### Section 1 : Le taux d'intérêt
-
-##### Sous-section 1 : Le taux effectif global
-
-###### Article L313-1
-
-Dans tous les cas, pour la détermination du taux effectif global du prêt, comme pour celle du taux effectif pris comme
-référence, sont ajoutés aux intérêts les frais, commissions ou rémunérations de toute nature, directs ou indirects, y compris
-ceux qui sont payés ou dus à des intermédiaires intervenus de quelque manière que ce soit dans l'octroi du prêt, même si ces
-frais, commissions ou rémunérations correspondent à des débours réels.
-
-Toutefois, pour l'application des articles L. 312-4 à L. 312-8, les charges liées aux garanties dont les crédits sont
-éventuellement assortis ainsi que les honoraires d'officiers ministériels ne sont pas compris dans le taux effectif global
-défini ci-dessus, lorsque leur montant ne peut être indiqué avec précision antérieurement à la conclusion définitive du
-contrat.
-
-Pour les contrats de crédit entrant dans le champ d'application du chapitre Ier du présent titre, le taux effectif global,
-qui est dénommé "Taux annuel effectif global", ne comprend pas les frais d'acte notarié.
-
-En outre, pour les prêts qui font l'objet d'un amortissement échelonné, le taux effectif global doit être calculé en tenant
-compte des modalités de l'amortissement de la créance.
-
-Un décret en Conseil d'Etat déterminera les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°65-557 du 10 juillet 1965 - art. 26-5 (M)
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 16
-	  - Décret n°2010-1005 du 30 août 2010 - art. 3 (V)
-	  - Loi n°2014-844 du 29 juillet 2014 - art. 2 (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 AP (P)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 AU (P)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 AV (P)
-	  - Code de la consommation - art. L121-23 (V)
-	  - Code de la consommation - art. L312-8 (VT)
-	  - Code de la consommation - art. L312-9 (VT)
-	  - Code de la consommation - art. L313-2 (VT)
-	  - Code de la consommation - art. L314-5 (VT)
-	  - Code de la consommation - art. L315-5 (VT)
-	  - Code de la consommation - art. R313-5-1 (Ab)
-	  - Code de la consommation - art. R313-5-2 (MMN)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZ (V)
-	  - Code monétaire et financier - art. L312-1-1 (M)
-	  - Code monétaire et financier - art. L313-17 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°66-1010 du 28 décembre 1966 - art. 3 (Ab)
-	  - Loi n°79-596 du 13 juillet 1979 - art. 37 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 12
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L314-1 (VD)
-	  - Code de la consommation - art. L314-2 (VD)
-	  - Code de la consommation - art. L314-2 (VT)
-	  - Code de la consommation - art. L314-3 (VD)
-	  - Code de la consommation - art. L314-3 (VT)
-	  - Code de la consommation - art. L314-4 (VD)
-	  - Code de la consommation - art. L314-4 (VT)
-	  - Code monétaire et financier - art. L313-4 (VT)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L313-4 (VD)
 
 
 # Partie réglementaire
