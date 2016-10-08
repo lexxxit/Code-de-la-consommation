@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-10-09
 
 # Partie législative nouvelle
 
@@ -275,46 +275,122 @@ réglementaires nécessaires à l'application de l'article L. 111-7 du code de l
 
 ###### Article L111-7
 
-Sans préjudice des obligations d'information prévues à l'article 19 de la loi n° 2004-575 du 21 juin 2004 pour la confiance
-dans l'économie numérique, toute personne dont l'activité consiste à mettre en relation, par voie électronique, plusieurs
-parties en vue de la vente d'un bien, de la fourniture d'un service ou de l'échange ou du partage d'un bien ou d'un service
-est tenue de délivrer une information loyale, claire et transparente sur les conditions générales d'utilisation du service
-d'intermédiation et sur les modalités de référencement, de classement et de déréférencement des offres mises en ligne. 
+I.-Est qualifiée d'opérateur de plateforme en ligne toute personne physique ou morale proposant, à titre professionnel, de
+manière rémunérée ou non, un service de communication au public en ligne reposant sur : 
 
-Lorsque seuls des consommateurs ou des non-professionnels sont mis en relation, la personne mentionnée au premier alinéa est
-également tenue de fournir une information loyale, claire et transparente sur la qualité de l'annonceur et les droits et
-obligations des parties en matière civile et fiscale. 
+1° Le classement ou le référencement, au moyen d'algorithmes informatiques, de contenus, de biens ou de services proposés ou
+mis en ligne par des tiers ; 
 
-Lorsque des professionnels, vendeurs ou prestataires de services sont mis en relation avec des consommateurs, la personne
-mentionnée au premier alinéa est également tenue de mettre à leur disposition un espace leur permettant de communiquer aux
-consommateurs les informations prévues à l'article L. 221-6. 
+2° Ou la mise en relation de plusieurs parties en vue de la vente d'un bien, de la fourniture d'un service ou de l'échange ou
+du partage d'un contenu, d'un bien ou d'un service. 
 
-Le contenu de ces informations et leurs modalités de communication sont fixés par décret.
+II.-Tout opérateur de plateforme en ligne est tenu de délivrer au consommateur une information loyale, claire et transparente
+sur : 
+
+1° Les conditions générales d'utilisation du service d'intermédiation qu'il propose et sur les modalités de référencement, de
+classement et de déréférencement des contenus, des biens ou des services auxquels ce service permet d'accéder ; 
+
+2° L'existence d'une relation contractuelle, d'un lien capitalistique ou d'une rémunération à son profit, dès lors qu'ils
+influencent le classement ou le référencement des contenus, des biens ou des services proposés ou mis en ligne ; 
+
+3° La qualité de l'annonceur et les droits et obligations des parties en matière civile et fiscale, lorsque des consommateurs
+sont mis en relation avec des professionnels ou des non-professionnels. 
+
+Un décret précise les conditions d'application du présent article en tenant compte de la nature de l'activité des opérateurs
+de plateforme en ligne. 
+
+Ce décret précise, par ailleurs, pour tout opérateur de plateforme en ligne dont l'activité consiste en la fourniture
+d'informations permettant la comparaison des prix et des caractéristiques de biens et de services proposés par des
+professionnels, les informations communiquées aux consommateurs portant sur les éléments de cette comparaison et ce qui
+relève de la publicité au sens de l'article 20 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie
+numérique. 
+
+Ce décret fixe également les modalités selon lesquelles, lorsque des professionnels, vendeurs ou prestataires de services
+sont mis en relation avec des consommateurs, l'opérateur de plateforme en ligne met à leur disposition un espace leur
+permettant de communiquer aux consommateurs les informations prévues aux articles L. 221-5 et L. 221-6.
+
+**Nota:**
+
+Conformément à l'article 44 II de la loi n° 2016-1321 du 7 octobre 2016, à compter de l'entrée en vigueur des mesures
+réglementaires nécessaires à l'application de l'article L. 111-7 du code de la consommation, dans sa rédaction résultant du
+1° du I du présent article, les articles L. 111-6 et L. 131-3 du même code sont abrogés.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 19 (V)
-	  - Code de la consommation - art. L221-6 (V)
+	  - Loi n°2004-575 du 21 juin 2004 - art. 20
+	  - Code de la consommation - art. L221-5 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 49 (V)
 
 	**Cité par**:
 
 	  - Loi n°2017-261 du 1er mars 2017 - art. 24 (V)
 	  - Code de la consommation - art. L111-7-1 (V)
-	  - Code de la consommation - art. L131-4 (VD)
+	  - Code de la consommation - art. L131-4 (V)
 
-	**Anciens textes**:
 
-	  - Code de la consommation - art. L111-5-1 (Ab)
+###### Article L111-7-1
+
+Les opérateurs de plateformes en ligne dont l'activité dépasse un seuil de nombre de connexions défini par décret élaborent
+et diffusent aux consommateurs des bonnes pratiques visant à renforcer les obligations de clarté, de transparence et de
+loyauté mentionnées à l'article L. 111-7. 
+
+L'autorité administrative compétente peut procéder à des enquêtes dans les conditions prévues à l'article L. 511-6 afin
+d'évaluer et de comparer les pratiques des opérateurs de plateformes en ligne mentionnées au premier alinéa du présent
+article. Elle peut, à cette fin, recueillir auprès de ces opérateurs les informations utiles à l'exercice de cette mission.
+Elle diffuse périodiquement les résultats de ces évaluations et de ces comparaisons et rend publique la liste des plateformes
+en ligne qui ne respectent pas leurs obligations au titre de l'article L. 111-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 50
+
+	**Cite**:
+
+	  - Code de la consommation - art. L111-7 (V)
+	  - Code de la consommation - art. L511-6 (V)
+
+
+###### Article L111-7-2
+
+Sans préjudice des obligations d'information prévues à l'article 19 de la loi n° 2004-575 du 21 juin 2004 pour la confiance
+dans l'économie numérique et aux articles L. 111-7 et L. 111-7-1 du présent code, toute personne physique ou morale dont
+l'activité consiste, à titre principal ou accessoire, à collecter, à modérer ou à diffuser des avis en ligne provenant de
+consommateurs est tenue de délivrer aux utilisateurs une information loyale, claire et transparente sur les modalités de
+publication et de traitement des avis mis en ligne.
+
+Elle précise si ces avis font ou non l'objet d'un contrôle et, si tel est le cas, elle indique les caractéristiques
+principales du contrôle mis en œuvre.
+
+Elle affiche la date de l'avis et ses éventuelles mises à jour.
+
+Elle indique aux consommateurs dont l'avis en ligne n'a pas été publié les raisons qui justifient son rejet.
+
+Elle met en place une fonctionnalité gratuite qui permet aux responsables des produits ou des services faisant l'objet d'un
+avis en ligne de lui signaler un doute sur l'authenticité de cet avis, à condition que ce signalement soit motivé.
+
+Un décret, pris après avis de la Commission nationale de l'informatique et des libertés, fixe les modalités et le contenu de
+ces informations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 19
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 52
 
 
 ###### Article L111-8
@@ -572,6 +648,39 @@ que soit le mode de règlement choisi.
 	**Cite**:
 
 	  - Code des postes et des communications électroni... - art. L32 (MMN)
+
+
+###### Article L112-8
+
+Les entreprises dont le chiffre d'affaires est supérieur à un seuil défini par décret rendent le numéro de téléphone destiné
+à recueillir l'appel d'un consommateur en vue d'obtenir la bonne exécution d'un contrat conclu avec un professionnel ou le
+traitement d'une réclamation accessible aux personnes sourdes, malentendantes, sourdaveugles et aphasiques par la mise à
+disposition d'un service de traduction simultanée écrite et visuelle défini au IV de l'article 105 de la loi n° 2016-1321 du
+7 octobre 2016 pour une République numérique, sans surcoût pour les utilisateurs finals et à la charge des entreprises
+concernées. 
+
+Les services d'accueil téléphonique concernés sont accessibles directement ou, à défaut, par l'intermédiaire d'une plateforme
+en ligne dédiée délivrant le service de traduction simultanée écrite et visuelle. L'accessibilité est soit assurée
+directement par l'entreprise, soit confiée par elle, sous sa responsabilité, à un opérateur spécialisé qui en assure la mise
+en œuvre et l'exécution.
+
+**Nota:**
+
+Loi n° 2016-1321 du 7 octobre 2016, article 105-V : Au plus tard dix ans après la promulgation de la présente loi, et selon
+des modalités définies par le décret, le service de traduction fonctionne aux horaires d'ouverture des services clients.
+
+Aux termes de l'article 6 III du décret n° 2017-875 du 9 mai 2017, les dispositions du III de l'article 105 de la loi du 7
+octobre 2016 entrent en vigueur deux ans après la promulgation de cette loi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 105
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 105
 
 
 #### Chapitre III : Information sur les conditions sociales de fabrication des produits
@@ -2072,6 +2181,26 @@ le cahier des charges est établi sont définies par décret en Conseil d'Etat.
 	  - Code de la consommation - art. L121-82-2 (Ab)
 
 
+##### Sous-section 5 : Appellation de coffre-fort numérique
+
+###### Article L122-22
+
+Le fournisseur qui se prévaut d'une offre de service de coffre-fort numérique défini aux 1° à 5° de l'article L. 137 du code
+des postes et des communications électroniques et qui ne respecte pas les obligations qui y sont énoncées est passible des
+sanctions prévues aux articles L. 132-2 et L. 132-3 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 87
+
+	**Cite**:
+
+	  - Code de la consommation - art. L132-2 (V)
+	  - Code des postes et des communications électroni... - art. L137 (V)
+
+
 ### Titre III : SANCTIONS
 
 #### Chapitre Ier : Information des consommateurs
@@ -2171,9 +2300,9 @@ réglementaires nécessaires à l'application de l'article L. 111-7 du code de l
 
 ###### Article L131-4
 
-Tout manquement aux obligations d'information mentionnées à l'article L. 111-7 en matière d'activité de mise en relation par
-voie électronique est passible d'une amende administrative dont le montant ne peut excéder 75 000 euros pour une personne
-physique et 375 000 euros pour une personne morale. 
+Tout manquement aux obligations d'information mentionnées à l'article L. 111-7 et à l'article L. 111-7-2 est passible d'une
+amende administrative dont le montant ne peut excéder 75 000 euros pour une personne physique et 375 000 euros pour une
+personne morale. 
 
 Cette amende est prononcée dans les conditions prévues au chapitre II du titre II du livre V.
 
@@ -2183,17 +2312,14 @@ Cette amende est prononcée dans les conditions prévues au chapitre II du titre
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L111-6-1, sanction-plateformes (Ab)
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 49 (V)
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 52
 
 	**Cite**:
 
-	  - Code de la consommation - art. L111-7 (VD)
+	  - Code de la consommation - art. L111-7 (V)
 
 
 ##### Section 2 : Information sur les prix et conditions de vente
@@ -7210,6 +7336,12 @@ les informations suivantes sous une forme claire, détaillée et aisément acces
 
 2° Les services offerts, leur niveau de qualité et le délai nécessaire pour en assurer la prestation ;
 
+2° bis Les explications prévues au d du 1 de l'article 4 du règlement (UE) 2015/2120 du Parlement européen et du Conseil du
+25 novembre 2015 établissant des mesures relatives à l'accès à un internet ouvert et modifiant la directive 2002/22/CE
+concernant le service universel et les droits des utilisateurs au regard des réseaux et services de communications
+électroniques et le règlement (UE) n° 531/2012 concernant l'itinérance sur les réseaux publics de communications mobiles à
+l'intérieur de l'Union ;
+
 3° Le détail des tarifs pratiqués, notamment les frais de résiliation et les frais de portabilité des numéros et autres
 identifiants, les moyens par lesquels des informations actualisées sur l'ensemble des tarifs applicables et des frais de
 maintenance peuvent être obtenues et les modes de paiement proposés ainsi que leurs conditions ;
@@ -7222,7 +7354,10 @@ n'est pas atteint ;
 6° La possibilité de recourir à un médiateur de la consommation dans les conditions prévues au titre Ier du livre VI ;
 
 7° Les procédures mises en place par le fournisseur pour mesurer et orienter le trafic de manière à éviter de saturer ou
-sursaturer une ligne du réseau et sur leurs conséquences en matière de qualité du service ;
+sursaturer une ligne du réseau et sur leurs conséquences en matière de qualité du service, de protection de la vie privée et
+des données à caractère personnel, ainsi que l'impact des limitations de volume, de débits ou d'autres paramètres sur la
+qualité de l'accès à internet, en particulier l'utilisation de contenus, d'applications et de services, y compris ceux
+bénéficiant d'une qualité optimisée ;
 
 8° Les services après-vente fournis, ainsi que les modalités permettant de contacter ces services ;
 
@@ -7243,28 +7378,29 @@ communications électroniques, pris après avis du Conseil national de la consom
 communications électroniques et des postes mentionnée à l'article L. 130 du code des postes et des communications
 électroniques.
 
+**Nota:**
+
+Conformément à l'article 53 II de la loi n° 2016-1321 du 7 octobre 2016, l'article L224-30 dans sa rédaction résultant du I,
+est applicable aux contrats conclus ou reconduits après la publication de la présente loi.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 53 (V)
 
 	**Cité par**:
 
 	  - Loi n°2016-1321 du 7 octobre 2016 - art. 53 (V)
 	  - Code de la consommation - art. L224-27 (VD)
 
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-83 (Ab)
-
 	**Cite**:
 
-	  - Code des postes et des communications électroni... - art. L130 (M)
+	  - Code des postes et des communications électroniques - art. L130
 
 
 ###### Article L224-31
@@ -59354,145 +59490,5 @@ dans le montant total de l'opération de regroupement envisagée.
 	**Cite**:
 
 	  - Code de la consommation - art. R314-20 (V)
-
-
-# Partie réglementaire
-
-## Livre III : Endettement
-
-### Titre Ier : Crédit
-
-#### Chapitre III : Dispositions communes
-
-##### Annexes
-
-##### ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION
-
-###### Article Annexe à l'article R313-1
-
-Equation de base traduisant l'équivalence des prêts, d'une part, et des remboursements et charges, d'autre part.
-
-(Formule non reproduite, voir Journal officiel du 11 juin 2002 p. 10357 à l'adresse suivante : http://www.legifrance.gouv.fr/
-jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20020611&numTexte=6&pageDebut=10357&pageFin=10358).
-
-Signification des lettres et symboles :
-
-K est le numéro d'ordre d'un prêt ;
-
-K' est le numéro d'ordre d'un remboursement ou d'un paiement de charges ;
-
-AK est le montant du prêt n° K ;
-
-A'K' est le montant du remboursement ou du paiement de charges n° K' ;
-
-(somme) est le signe indiquant une somme ;
-
-m est le numéro d'ordre du dernier prêt ;
-
-m' est le numéro d'ordre du dernier remboursement ou du dernier paiement de charges ;
-
-tK est l'intervalle, exprimé en années et fractions d'années, entre la date du prêt n° 1 et celle des prêts ultérieurs n° 2 à
-m ;
-
-tK' est l'intervalle, exprimé en années et fractions d'années, entre la date du prêt n° 1 et celles des remboursements ou
-paiements de charges n° 1 à m' ;
-
-i est le taux effectif global qui peut être calculé (soit par l'algèbre, soit par approximations successives, soit par un
-programme d'ordinateur) lorsque les autres termes de l'équation sont connus, par le contrat ou autrement.
-
-Remarques
-
-a) Les sommes versées de part et d'autre à différents moments ne sont pas nécessairement égales et ne sont pas nécessairement
-versées à des intervalles égaux.
-
-b) La date initiale est celle du premier prêt.
-
-c) L'écart entre les dates utilisées pour le calcul est exprimé en années ou en fractions d'années. Une année compte 365
-jours, ou, pour les années bissextiles, 366 jours, 52 semaines ou 12 mois normalisés. Un mois normalisé compte 30,416 66
-jours (c'est-à-dire 365/12), que l'année soit bissextile ou non.
-
-d) Le résultat du calcul est exprimé avec une exactitude d'au moins une décimale. Lorsque le chiffre est arrondi à une
-décimale particulière, la règle suivante est d'application : si le chiffre de la décimale suivant cette décimale particulière
-est supérieur ou égal à 5, le chiffre de cette décimale particulière sera augmenté de 1.
-
-Hypothèses
-
-Le calcul du taux annuel effectif global se fait, le cas échéant, conformément aux hypothèses suivantes :
-
-1° Si un contrat de crédit laisse au consommateur le libre choix quant au mode d'utilisation du crédit, le montant total du
-crédit est réputé entièrement et immédiatement utilisé ;
-
-2° Si un contrat de crédit laisse en général au consommateur le libre choix quant au mode d'utilisation du crédit, mais
-prévoit parmi les divers modes d'utilisation une limite quant au montant et à la durée, le montant du crédit est réputé
-utilisé à la date la plus proche prévue dans le contrat et conformément à ces limites de mode d'utilisation ;
-
-3° Si un contrat de crédit offre au consommateur différentes possibilités quant au mode d'utilisation du crédit, assorties de
-frais ou de taux débiteurs différents, le montant total du crédit est réputé utilisé au taux débiteur le plus élevé et avec
-les frais les plus élevés dans la catégorie d'opérations la plus fréquemment utilisée dans ce type de contrat de crédit ;
-
-4° En cas de facilité de découvert, le montant total du crédit est réputé utilisé en totalité et pour la durée totale du
-contrat de crédit. Si la durée de la facilité de découvert n'est pas connue, le taux annuel effectif global est calculé en
-partant de l'hypothèse que la durée du crédit est de trois mois ;
-
-5° En cas de contrat de crédit sans durée fixe, y compris les crédits qui doivent être remboursés en totalité dans ou après
-un délai donné mais qui, une fois remboursés, sont disponibles pour une nouvelle utilisation, et autre qu'une facilité de
-découvert :
-
-a) Le crédit est réputé être octroyé pour une durée d'un an à partir de la date d'utilisation initiale, et le paiement final
-effectué par le consommateur liquide le solde du capital, les intérêts et les autres frais éventuels ;
-
-b) Le capital est supposé être remboursé par le consommateur en mensualités égales, le remboursement débutant un mois après
-la date de l'utilisation initiale. Toutefois, dans les cas où le capital doit être remboursé en totalité uniquement, en un
-seul versement, à l'intérieur de chaque période de paiement, les utilisations et les remboursements successifs de la totalité
-du capital par le consommateur sont supposés être effectués sur la durée d'un an. Les intérêts et autres frais sont appliqués
-conformément à ces utilisations et remboursements du capital, d'une part, et aux dispositions du contrat de crédit, d'autre
-part ;
-
-6° En cas de contrats de crédit autres que les découverts et les contrats de crédits sans durée fixe visés dans les
-hypothèses des points 4° et 5° :
-
-a) Si la date ou le montant d'un remboursement de capital devant être effectué par le consommateur ne peuvent être établis,
-le remboursement est réputé être effectué à la date la plus proche prévue dans le contrat de crédit et pour le montant le
-plus bas prévu dans le contrat ;
-
-b) Si la date de conclusion du contrat de crédit n'est pas connue, la date d'utilisation initiale est réputée être la date
-qui correspond à l'intervalle le plus court entre cette date et la date du premier paiement que le consommateur doit
-effectuer.
-
-7° Si la date ou le montant d'un paiement devant être effectué par le consommateur ne peuvent être établis sur la base du
-contrat de crédit ou des hypothèses exposées aux points 4°, 5° ou 6°, le paiement est réputé être effectué aux dates et
-conditions requises par le prêteur et, lorsque celles-ci ne sont pas connues :
-
-a) Les frais d'intérêts sont payés en même temps que les remboursements du capital ;
-
-b) Les frais autres que d'intérêts, exprimés sous la forme d'une somme unique, sont payés à la date de conclusion du contrat
-de crédit ;
-
-c) Les frais autres que d'intérêts, exprimés sous la forme de paiements multiples, sont payés à intervalles réguliers, à
-partir de la date du premier remboursement du capital, et si le montant de ces paiements n'est pas connu, les montants sont
-réputés égaux ;
-
-d) Le paiement final liquide le solde du capital, les intérêts et les autres frais éventuels ;
-
-8° Si le plafond du crédit n'a pas encore été arrêté, le plafond est supposé être de 1 500 € ;
-
-9° Si des taux débiteurs et des frais différents sont proposés pendant une période limitée ou pour un montant limité, le taux
-débiteur et les frais sont réputés être le taux le plus élevé pendant la durée totale du contrat de crédit ;
-
-10° Pour les contrats de crédit aux consommateurs pour lesquels un taux débiteur fixe a été convenu dans le cadre de la
-période initiale, à la fin de laquelle un nouveau taux débiteur est établi et est ensuite périodiquement ajusté en fonction
-d'un indicateur convenu, le calcul du taux annuel effectif global part de l'hypothèse que, à compter de la fin de la période
-à taux débiteur fixe, le taux débiteur est le même qu'au moment du calcul du taux annuel effectif global, en fonction de la
-valeur de l'indicateur convenu à ce moment-là.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°97-298 du 27 mars 1997
-
-	**Modifié par**:
-
-	  - Décret n°2012-1478 du 27 décembre 2012 - art. 1
 
 
