@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-10-10
+Version Consolidée au 2016-10-26
 
 # Partie législative nouvelle
 
@@ -21164,6 +21164,30 @@ l'exploitant responsable du manquement sont définies par décret.
 	  - Code de la consommation - art. L216-12 (Ab)
 
 
+#### Chapitre V : Dispositions relatives aux aéronefs circulant sans personne à bord
+
+###### Article L425-1
+
+Les fabricants ou importateurs d'aéronefs circulant sans personne à bord incluent dans les emballages de leurs produits ainsi
+que dans les emballages de leurs pièces détachées une notice d'information relative à l'usage de ces aéronefs. Cette notice
+rappelle les principes et les règles à respecter pour utiliser ces appareils en conformité avec la législation et la
+réglementation applicables. 
+
+L'obligation définie au premier alinéa s'impose au vendeur d'un aéronef d'occasion. 
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1428 du 24 octobre 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L463-1 (VD)
+
+
 ### Titre III : VALORISATION DES PRODUITS ET SERVICES
 
 #### Chapitre Ier : Appellations d'origine
@@ -23420,6 +23444,40 @@ provenant des végétaux résineux ;
 	**Cité par**:
 
 	  - Code monétaire et financier - art. L500-1 (V)
+
+
+### Titre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER
+
+#### Chapitre Ier : Dispositions relatives à Wallis-et-Futuna
+
+###### Article L461-1
+
+L'article L. 425-1 est applicable à Wallis-et-Futuna dans sa rédaction résultant de la loi n° 2016-1428 du 24 octobre 2016
+relative au renforcement de la sécurité de l'usage des drones civils.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1428 du 24 octobre 2016 - art. 6
+
+
+#### Chapitre II : Dispositions relatives aux Terres australes et antarctiques françaises
+
+###### Article L462-1
+
+L'article L. 425-1 est applicable dans les Terres australes et antarctiques françaises dans sa rédaction résultant de la loi
+n° 2016-1428 du 24 octobre 2016 relative au renforcement de la sécurité de l'usage des drones civils.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1428 du 24 octobre 2016 - art. 6
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L462-2 (VD)
 
 
 ## Livre V : POUVOIRS D'ENQUÊTE ET SUITES DONNÉES AUX CONTRÔLES
