@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-10-26
+Version Consolidée au 2016-11-20
 
 # Partie législative nouvelle
 
@@ -29372,11 +29372,10 @@ L'adhésion au groupe ne vaut ni n'implique adhésion à l'association requéran
 
 ###### Article L623-10
 
-Toute somme reçue par l'association requérante au titre de l'indemnisation des consommateurs lésés est immédiatement versée
-en compte de dépôt à la Caisse des dépôts et consignations ou sur un compte ouvert, par l'avocat auquel elle a fait appel en
-application de l'article L. 623-13, auprès de la caisse des règlements pécuniaires des avocats du barreau dont il dépend. 
-
-Ce compte ne peut faire l'objet de mouvements en débit que pour le versement des sommes dues aux intéressés.
+Sous réserve des dispositions législatives relatives au maniement des fonds des professions judiciaires réglementées, toute
+somme reçue au titre de l'indemnisation des personnes lésées membres du groupe est immédiatement versée sur un compte ouvert
+auprès de la Caisse des dépôts et consignations. Celui-ci ne peut faire l'objet de mouvements en débit que pour le règlement
+de l'affaire qui est à l'origine du dépôt.
 
 **Liens relatifs à cet article**
 
@@ -29384,17 +29383,13 @@ Ce compte ne peut faire l'objet de mouvements en débit que pour le versement de
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L423-6 (Ab)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 84
 
 	**Cite**:
 
-	  - Code de la consommation - art. L623-13 (VD)
+	  - Code de la consommation - art. L623-13
 
 	**Cité par**:
 
@@ -33506,6 +33501,8 @@ constituant sa résidence principale.
 
 #### Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire
 
+#### Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire
+
 ###### Article L743-1
 
 Les dettes effacées en application des dispositions des articles L. 741-3, L. 741-7, L. 741-8 et L. 742-21 valent
@@ -33549,13 +33546,9 @@ renvoyer le dossier à la commission.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L332-12 (Ab)
+	  - DEPLACE: Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 	**Cité par**:
 
