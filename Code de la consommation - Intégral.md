@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-11-20
+Version Consolidée au 2016-12-11
 
 # Partie législative nouvelle
 
@@ -2201,6 +2201,41 @@ sanctions prévues aux articles L. 132-2 et L. 132-3 du présent code.
 	  - Code des postes et des communications électroni... - art. L137 (V)
 
 
+##### Sous-section 6 : Investissement locatif ouvrant droit à une réduction d'impôt
+
+###### Article L122-23
+
+Toute publicité relative à une opération d'acquisition de logement destiné à la location et susceptible de bénéficier des
+dispositions prévues aux articles 199 tervicies, 199 sexvicies et 199 novovicies du code général des impôts : 
+
+1° Permet raisonnablement de comprendre les risques afférents à l'investissement ; 
+
+2° Comporte une mention indiquant que le non-respect des engagements de location entraîne la perte du bénéfice des
+incitations fiscales, qui doit : 
+
+a) Figurer dans une taille de caractères au moins aussi importante que celle utilisée pour indiquer toute autre information
+relative aux caractéristiques de l'investissement ; 
+
+b) S'inscrire dans le corps principal du texte publicitaire. 
+
+Tout manquement aux dispositions du présent article est passible d'une amende administrative dont le montant ne peut excéder
+100 000 €. 
+
+L'amende est prononcée dans les conditions prévues au chapitre II du titre II du livre V du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 78
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 199 novovicies (V)
+	  - Code général des impôts, CGI. - art. 199 sexvicies (V)
+	  - Code général des impôts, CGI. - art. 199 tervicies (V)
+
+
 ### Titre III : SANCTIONS
 
 #### Chapitre Ier : Information des consommateurs
@@ -3203,8 +3238,7 @@ Cette amende est prononcée dans les conditions prévues au chapitre II du titre
 
 ###### Article L132-27
 
-Le fait de méconnaître les dispositions des articles L. 122-17 et L. 122-18 est puni d'un emprisonnement de deux ans et d'une
-amende de 300 000 euros. 
+Le fait de méconnaître les dispositions des articles L. 122-17 et L. 122-18 est puni d'une amende de 300 000 euros.
 
 Le montant de l'amende peut être porté, de manière proportionnée aux avantages tirés du délit, à 10 % du chiffre d'affaires
 moyen annuel, calculé sur les trois derniers chiffres d'affaires annuels connus à la date des faits.
@@ -3215,17 +3249,13 @@ moyen annuel, calculé sur les trois derniers chiffres d'affaires annuels connus
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-82, partiel sanctions principales  (Ab)
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 132
 
 	**Cite**:
 
-	  - Code de la consommation - art. L122-17 (VD)
+	  - Code de la consommation - art. L122-17
 
 	**Cité par**:
 
@@ -6157,6 +6187,80 @@ Les mesures prévues au présent article ne doivent pas entraîner de frais pour
 	**Cite**:
 
 	  - Code des postes et des communications électroni... - art. L34-5 (M)
+
+
+###### Article L222-16-1
+
+La publicité, directe ou indirecte, adressée par voie électronique à des clients susceptibles d'être non professionnels,
+notamment des clients potentiels, relative à la fourniture de services d'investissement portant sur les contrats financiers
+définis à l'article L. 533-12-7 du code monétaire et financier est interdite. 
+
+Est passible d'une amende administrative dont le montant ne peut excéder 100 000 € : 
+
+1° Tout annonceur, à l'exception des prestataires de services d'investissement mentionnés au même article L. 533-12-7 et des
+conseillers en investissements financiers mentionnés à l'article L. 541-9-1 du même code, qui diffuse ou fait diffuser une
+publicité interdite en application du présent article ; 
+
+2° Tout intermédiaire réalisant, pour le compte d'un annonceur, une prestation ayant pour objet l'édition d'une publicité
+interdite en application du présent article ; 
+
+3° Tout prestataire qui fournit à un annonceur des services de conseil en plan média ou de préconisation de support d'espace
+publicitaire pour une publicité interdite en application du présent article ; 
+
+4° Tout acheteur d'espace publicitaire réalisant, pour le compte d'un annonceur, une prestation ayant pour objet la diffusion
+d'une publicité interdite en application du présent article ; 
+
+5° Tout vendeur d'espace publicitaire, en qualité de support ou de régie, réalisant une prestation ayant pour objet la
+diffusion d'une publicité interdite en application du présent article, sans préjudice des dispositions prévues au I de
+l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique ; 
+
+6° Toute personne diffusant une publicité interdite en application du présent article. 
+
+L'amende est prononcée dans les conditions prévues au chapitre II du titre II du livre V du présent code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 6 (V)
+	  - Code monétaire et financier - art. L533-12-7 (V)
+	  - Code monétaire et financier - art. L541-9-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 75
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L252-1 (VD)
+
+
+###### Article L222-16-2
+
+Toute opération de parrainage ou de mécénat est interdite lorsqu'elle a pour objet ou pour effet la publicité, directe ou
+indirecte, en faveur de services d'investissement portant sur les contrats financiers définis à l'article L. 533-12-7 du code
+monétaire et financier. 
+
+Tout manquement aux dispositions du présent article est passible d'une amende administrative dont le montant ne peut excéder
+100 000 €. 
+
+L'amende est prononcée dans les conditions prévues au chapitre II du titre II du livre V du présent code.
+
+**Nota:**
+
+LOI n°2016-1691 du 9 décembre 2016, article 77-II : L'exécution des contrats en cours au 1er juillet 2016 relatifs à toute
+opération mentionnée au premier alinéa de l'article L. 222-16-2 du code de la consommation est poursuivie jusqu'au 30 juin
+2017 au plus tard.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 77 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L533-12-7 (V)
 
 
 ###### Article L222-17
@@ -15168,7 +15272,7 @@ modalités de l'indexation ;
 exigées, qui conditionnent la conclusion du prêt ; 
 
 7° Mentionne que l'emprunteur peut souscrire auprès de l'assureur de son choix une assurance dans les conditions fixées aux
-articles L. 313-29 et L. 313-30 ; 
+articles L. 313-29 et L. 313-30 et précise les documents que doit contenir la demande de substitution ; 
 
 8° Fait état des conditions requises pour un transfert éventuel du prêt à une tierce personne ; 
 
@@ -15177,23 +15281,23 @@ articles L. 313-29 et L. 313-30 ;
 Le cas échéant, l'information relative aux différents contrats de crédit composant une opération de financement peut figurer
 dans l'offre.
 
+**Nota:**
+
+Conformément au II de l'article 82 de la loi n° 2016-1691 du 9 décembre 2016, le 7° du présent article, dans sa rédaction
+issue du I dudit article de ladite loi, s'applique aux offres formulées à compter du 1er janvier 2017.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L312-, alinéas 1 à 10  (Ab)
-	  - Code de la consommation - art. L313-10 (MMN)
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 82 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L313-24 (VD)
-	  - Code de la consommation - art. L313-29 (VD)
-	  - Code de la consommation - art. L313-34 (VD)
-	  - Code de la consommation - art. L314-1 (VD)
+	  - Code de la consommation - art. L313-24
+	  - Code de la consommation - art. L313-29
+	  - Code de la consommation - art. L313-34
+	  - Code de la consommation - art. L314-1
 
 	**Cité par**:
 
@@ -20312,13 +20416,19 @@ européenne l'obligation prévue au présent article.
 
 ###### Article L412-5
 
-Sans préjudice des dispositions spécifiques relatives à l'indication de l'origine des denrées alimentaires, l'indication du
-pays d'origine est obligatoire pour toutes les viandes et pour tous les produits agricoles et alimentaires à base de viande
-ou contenant en tant qu'ingrédient de la viande, à l'état brut ou transformé.
+Sans préjudice des dispositions spécifiques relatives à l'indication de  l'origine des denrées alimentaires, l'indication de
+l'origine est rendue  obligatoire pour le lait, ainsi que pour le lait utilisé en tant  qu'ingrédient dans les produits
+laitiers et pour les viandes utilisées  en tant qu'ingrédient dans les produits transformés, à titre  expérimental à compter
+de la publication de la loi n° 2016-1691 du 9  décembre 2016 relative à la transparence, à la lutte contre la  corruption et
+à la modernisation de la vie économique et jusqu'au 31  décembre 2018. 
 
-Les modalités d'application de l'indication de l'origine mentionnée au premier alinéa sont fixées par décret en Conseil
-d'Etat après que la Commission européenne a déclaré compatible avec le droit de l'Union européenne l'obligation prévue au
-présent article.
+Les modalités d'application de  l'indication de l'origine mentionnée au premier alinéa sont fixées par  décret en Conseil
+d'Etat et conformément à la procédure définie à  l'article 45 du règlement (UE) n° 1169/2011 du Parlement européen et du
+Conseil du 25 octobre 2011 concernant l'information des consommateurs  sur les denrées alimentaires, modifiant les règlements
+(CE) n° 1924/2006  et (CE) n° 1925/2006 du Parlement européen et du Conseil et abrogeant  la directive 87/250/ CEE de la
+Commission, la directive 90/496/ CEE du  Conseil, la directive 1999/10/ CE de la Commission, la directive  2000/13/ CE du
+Parlement européen et du Conseil, les directives 2002/67/  CE et 2008/5/ CE de la Commission et le règlement (CE) n° 608/2004
+de  la Commission.
 
 **Liens relatifs à cet article**
 
@@ -20326,13 +20436,9 @@ présent article.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L112-12 (Ab)
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 111
 
 
 ###### Article L412-6
@@ -23720,13 +23826,13 @@ voyageant par mer ou par voie de navigation intérieure ;
 5° Du règlement (UE) n° 181/2011 du Parlement européen et du Conseil du 16 février 2011 concernant les droits des passagers
 dans le transport par autobus et autocar et modifiant le règlement (CE) n° 2006/2004 ;
 
-6° Du d du 3, du 8 de l'article 5 et des articles 8 et 16 du règlement (UE) n° 260/2012 du Parlement européen et du Conseil,
-du 14 mars 2012 modifié, établissant des exigences techniques et commerciales pour les virements et les prélèvements en euros
-et modifiant le règlement (CE) n° 924/2009 ;
+6° Du d du 3, du 8 de l'article 5 et des articles 8, 9 et 16 du règlement (UE) n° 260/2012 du Parlement européen et du
+Conseil, du 14 mars 2012 modifié, établissant des exigences techniques et commerciales pour les virements et les prélèvements
+en euros et modifiant le règlement (CE) n° 924/2009 ;
 
-7° De l'article L. 347-1 du code de l'action sociale et des familles et des articles L. 311-4, L. 311-4-1, L. 314-10-1, L.
+7° De l'article L. 347-1 du code de l'action sociale et des familles   et des articles L. 311-4, L. 311-4-1, L. 314-10-1, L.
 314-10-2, L. 342-1, L. 342-2, L. 342-3 et L. 342-4 du même code en ce qui concerne les manquements précisément énumérés aux
-articles L. 314-14 et L. 342-5 de ce code;
+articles L. 314-14 et L. 342-5 de ce code ;
 
 8° Des articles L. 271-1, L. 271-2 et L. 271-6 du code de la construction et de l'habitation ;
 
@@ -23740,21 +23846,24 @@ prises pour leur application ;
 
 12° Des trois premiers alinéas de l'article L. 213-2 du code de la route ;
 
-13° De l'article L. 165-9 du code de la sécurité sociale ;
+13° De l'article L. 165-9 du code de la sécurité sociale  ;
 
 14° Des articles L. 3121-11-2 et L. 3122-2 du code des transports ;
 
 15° Du chapitre Ier du titre Ier du livre II du code du tourisme ;
 
-16° De l'article 18-1 A de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis ;
+16° De l'article 18-1 A de la loi n° 65-557 du 10 juillet 1965  fixant le statut de la copropriété des immeubles bâtis ;
 
 17° Du titre I de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines
 opérations portant sur les immeubles et les fonds de commerce ;
 
-18° De l'article 4 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de
-la loi n° 86-1290 du 23 décembre 1986 ;
+18° De l'article 4 de la loi n° 89-462 du 6 juillet 1989  tendant à améliorer les rapports locatifs et portant modification
+de la loi n° 86-1290 du 23 décembre 1986 ;
 
-19° Du titre II de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique.
+19° Du titre II de la loi n° 2004-575 du 21 juin 2004  pour la confiance dans l'économie numérique ;
+
+20° Du règlement (UE) n° 2015/751 du Parlement européen et du Conseil du 29 avril 2015 relatif aux commissions d'interchange
+pour les opérations de paiement liées à une carte.
 
 Ils disposent à cet effet des pouvoirs définis à la section 1, aux sous-sections 1 à 5 de la section 2 ainsi qu'à la section
 3 du chapitre II du présent titre et peuvent mettre en œuvre les mesures prévues à la section 1 du chapitre Ier du titre II.
@@ -23763,20 +23872,20 @@ Ils disposent à cet effet des pouvoirs définis à la section 1, aux sous-secti
 
 	**Cite**:
 
-	  - Loi n°65-557 du 10 juillet 1965 - art. 18-1 A (M)
-	  - Loi n°86-1290 du 23 décembre 1986 (V)
-	  - Loi n°89-462 du 6 juillet 1989 - art. 4 (M)
-	  - Loi n°2004-575 du 21 juin 2004 -  TITRE II : DU COMMERCE ÉLECTRONIQUE (V)
-	  - Code pénal (V)
-	  - Code de la santé publique - art. L1111-3 (V)
-	  - Code de la sécurité sociale. - art. L165-9 (V)
-	  - Code de l'action sociale et des familles - art. L347-1 (V)
-	  - Code de la construction et de l'habitation. - art. L271-1 (T)
-	  - Code de la construction et de l'habitation. - art. L271-2 (M)
-	  - Code de la construction et de l'habitation. - art. L271-6 (M)
-	  - Code de la route. - art. L213-2 (M)
-	  - Code des transports - art. L3121-11-2 (V)
-	  - Code des transports - art. L3122-2 (M)
+	  - Loi n°65-557 du 10 juillet 1965 - art. 18-1 A
+	  - Loi n°86-1290 du 23 décembre 1986
+	  - Loi n°89-462 du 6 juillet 1989 - art. 4
+	  - Loi n°2004-575 du 21 juin 2004
+	  - Code pénal
+	  - Code de la santé publique - art. L1111-3
+	  - Code de la sécurité sociale. - art. L165-9
+	  - Code de l'action sociale et des familles - art. L347-1
+	  - Code de la construction et de l'habitation. - art. L271-1
+	  - Code de la construction et de l'habitation. - art. L271-2
+	  - Code de la construction et de l'habitation. - art. L271-6
+	  - Code de la route. - art. L213-2
+	  - Code des transports - art. L3121-11-2
+	  - Code des transports - art. L3122-2
 
 	**Cité par**:
 
@@ -23799,13 +23908,9 @@ Ils disposent à cet effet des pouvoirs définis à la section 1, aux sous-secti
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L141-1, III (Ab)
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 71
 
 
 ###### Article L511-8
@@ -27298,9 +27403,7 @@ L'autorité administrative informe préalablement cette dernière, lors de la pr
 ###### Article L522-7
 
 Lorsque, à l'occasion d'une même procédure ou de procédures séparées, plusieurs sanctions administratives ont été prononcées
-à l'encontre du même auteur pour des manquements en concours passibles d'amendes dont le montant maximal excède 3 000 euros
-pour une personne physique et 15 000 euros pour une personne morale, ces sanctions s'exécutent cumulativement, dans la limite
-du maximum légal le plus élevé.
+à l'encontre du même auteur pour des manquements en concours,  ces sanctions s'exécutent cumulativement.
 
 **Liens relatifs à cet article**
 
@@ -27308,13 +27411,9 @@ du maximum légal le plus élevé.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L141-1-2, VII (Ab)
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 123 (V)
 
 
 ###### Article L522-8
@@ -31562,9 +31661,11 @@ La commission peut également demander au juge de suspendre les mesures d'expuls
 
 #### Chapitre Ier : Détermination de la capacité de remboursement
 
+#### Chapitre Ier : Détermination du montant des remboursements
+
 ###### Article L731-1
 
-Pour l'application des dispositions des articles L. 732-1, L. 733-1 ou L. 733-7, la capacité de remboursement est fixée, dans
+Pour l'application des dispositions des articles L. 732-1, L. 733-1 ou L. 733-7, le montant des remboursements est fixé, dans
 des conditions précisées par décret en Conseil d'Etat, par référence à la quotité saisissable du salaire telle qu'elle
 résulte des articles L. 3252-2 et L. 3252-3 du code du travail, de manière à ce que la part des ressources nécessaire aux
 dépenses courantes du ménage lui soit réservée par priorité.
@@ -31575,21 +31676,17 @@ dépenses courantes du ménage lui soit réservée par priorité.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L331-2, alinéa 2, 1ère phrase (Ab)
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 66 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L732-1 (VD)
-	  - Code de la consommation - art. L733-1 (VD)
-	  - Code de la consommation - art. L733-7 (VD)
-	  - Code du travail - art. L3252-2 (V)
-	  - Code du travail - art. L3252-3 (M)
+	  - Code de la consommation - art. L732-1
+	  - Code de la consommation - art. L733-1
+	  - Code de la consommation - art. L733-7
+	  - Code du travail - art. L3252-2
+	  - Code du travail - art. L3252-3
 
 	**Cité par**:
 
@@ -33498,8 +33595,6 @@ constituant sa résidence principale.
 	  - Code de la consommation - art. L771-3 (VD)
 	  - Code de la consommation - art. R742-57 (V)
 
-
-#### Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire
 
 #### Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire
 
