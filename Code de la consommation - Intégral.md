@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-12-11
+Version Consolidée au 2016-12-28
 
 # Partie législative nouvelle
 
@@ -31659,8 +31659,6 @@ La commission peut également demander au juge de suspendre les mesures d'expuls
 
 ### Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT
 
-#### Chapitre Ier : Détermination de la capacité de remboursement
-
 #### Chapitre Ier : Détermination du montant des remboursements
 
 ###### Article L731-1
@@ -37729,7 +37727,7 @@ sans frais, à tout moment durant toute la durée du contrat ;
 7° Une rubrique sur les informations relatives au traitement des litiges, qui mentionne notamment, dans l'ordre choisi par le
 prêteur : 
 
-a) La procédure de la médiation mentionnée à l'article L. 315-1 du code monétaire et financier et ses modalités d'accès ; 
+a) La procédure de la médiation mentionnée à l'article L. 316-1 du code monétaire et financier et ses modalités d'accès ; 
 
 b) Les dispositions de l'article R. 312-35 ; 
 
@@ -37742,24 +37740,20 @@ administrative chargée de la concurrence et de la consommation.
 
 	  - Décret n°2016-884 du 29 juin 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-884 du 29 juin 2016 - art.
+	  - Décret n°2016-1844 du 23 décembre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de la consommation - art. L312-24 (V)
-	  - Code de la consommation - art. L312-25 (V)
-	  - Code de la consommation - art. L312-26 (V)
-	  - Code de la consommation - art. L312-28 (V)
-	  - Code de la consommation - art. L312-34 (V)
-	  - Code de la consommation - art. R312-35 (V)
-	  - Code monétaire et financier - art. L315-1 (T)
-	  - Code monétaire et financier - art. L612-1 (V)
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. R311-5, I, sauf 2ème alinéa du e) du 2° (Ab)
+	  - Code de la consommation - art. L312-24
+	  - Code de la consommation - art. L312-25
+	  - Code de la consommation - art. L312-26
+	  - Code de la consommation - art. L312-28
+	  - Code de la consommation - art. L312-34
+	  - Code de la consommation - art. R312-35
+	  - Code monétaire et financier - art. L316-1
+	  - Code monétaire et financier - art. L612-1
 
 	**Cité par**:
 
@@ -56073,9 +56067,9 @@ https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000032797752
 
 - m désigne le numéro d'ordre de la dernière utilisation effectuée sur le crédit ;
 
-- k désigne le numéro d'ordre de la dernière utilisation effectuée sur le crédit, donc 1 ≤ k ≤ m ;
+- k désigne le numéro d'ordre d'une utilisation effectuée sur le crédit, donc 1 ≤ k ≤ m ;
 
-- Ck est le montant de la dernière utilisation effectuée sur le crédit numéro k ;
+- Ck est le montant  de l'utilisation effectuée sur le crédit numéro k ;
 
 - tk désigne l'intervalle de temps, exprimé en années et fractions d'année, entre la date de la première utilisation
 effectuée sur le crédit et la date de chacune des utilisations suivantes effectuées, donc t 1 = 0 ;
@@ -56320,13 +56314,13 @@ situé au moment de la conclusion du contrat de crédit ou à 0 % si ces pourcen
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2016-884 du 29 juin 2016 - art.
-
 	**Codifié par**:
 
 	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-1844 du 23 décembre 2016 - art. 2
 
 
 ###### Article Annexe à l'article D312-26
