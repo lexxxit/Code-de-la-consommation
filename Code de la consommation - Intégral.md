@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-12-28
+Version Consolidée au 2016-12-30
 
 # Partie législative nouvelle
 
@@ -36805,6 +36805,129 @@ dans l'outil prévue au premier alinéa.
 	**Créé par**:
 
 	  - Décret n°2016-1238 du 20 septembre 2016 - art. 1
+
+
+##### Section 10 : Entretien et réparation automobiles
+
+###### Article R224-22
+
+Le professionnel qui commercialise des prestations d'entretien ou de réparation de voitures particulières et de camionnettes
+définies à l'article R. 311-1 du code de la route permet au consommateur d'opter pour l'utilisation de pièces de rechange
+issues de l'économie circulaire à la place de pièces neuves dans les conditions prévues aux articles R. 224-23 à R. 224-25.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1890 du 27 décembre 2016 - art. 7
+
+	**Cite**:
+
+	  - Code de la consommation - art. R224-23 (V)
+	  - Code de la route. - art. R311-1
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R224-24 (V)
+	  - Code de la consommation - art. R224-25 (V)
+
+
+###### Article R224-23
+
+Les dispositions de l'article R. 224-22 ne s'appliquent pas dans les cas suivants : 
+
+1° Lorsque le véhicule fait l'objet de prestations d'entretien ou de réparation réalisées à titre gratuit, ou sous garanties
+contractuelles, ou dans le cadre d'actions de rappel conformément aux dispositions de l'article R. 321-14-1 du code de la
+route ; 
+
+2° Lorsque les pièces issues de l'économie circulaire ne sont pas disponibles dans un délai compatible avec le délai
+d'immobilisation du véhicule qui est mentionné sur le document contractuel signé entre le professionnel et son client relatif
+à la nature des prestations d'entretien ou de réparation à réaliser ; 
+
+3° Lorsque le professionnel mentionné à l'article R. 224-22 estime que les pièces de rechange automobiles issues de
+l'économie circulaire sont susceptibles de présenter un risque important pour l'environnement, la santé publique ou la
+sécurité routière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1890 du 27 décembre 2016 - art. 7
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R224-22 (V)
+
+	**Cite**:
+
+	  - Code de la route. - art. R321-14-1
+
+
+###### Article R224-24
+
+I.-Pour l'application des dispositions de l'article R. 224-22, on entend par pièces issues de l'économie circulaire : 
+
+1° Les composants et éléments qui sont commercialisés par les centres de traitement de véhicules hors d'usage (VHU) agréés
+mentionnés au 3° de l'article R. 543-155 du code de l'environnement ou par des installations autorisées conformément aux
+dispositions de l'article R. 543-161 du même code, après avoir été préparés en vue de leur réutilisation au sens des
+dispositions de l'article L. 541-1-1 de ce code ; 
+
+2° Les composants et éléments remis en état conformément aux spécifications du fabricant commercialisés sous la mention “
+échange standard ” telle que définie à l'article 4 du décret n° 78-993 du 4 octobre 1978 pris pour l'application de la loi du
+1er août 1905 sur les fraudes et falsifications en matière de produits ou de services en ce qui concerne les véhicules
+automobiles. 
+
+II.-Les composants et éléments énumérés au I sont commercialisés sous réserve de respecter la réglementation spécifique les
+régissant, ainsi que l'obligation générale de sécurité définie par l'article L. 421-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°78-993 du 4 octobre 1978 - art. 4 (V)
+	  - Code de la consommation - art. L421-3
+	  - Code de la consommation - art. R224-22
+	  - Code de l'environnement - art. L541-1-1
+	  - Code de l'environnement - art. R543-155
+	  - Code de l'environnement - art. R543-161
+
+	**Créé par**:
+
+	  - Décret n°2016-1890 du 27 décembre 2016 - art. 7
+
+
+###### Article R224-25
+
+Les catégories de pièces de rechange automobiles issues de l'économie circulaire concernées par les dispositions de l'article
+R. 224-22 sont les suivantes : 
+
+1° Les pièces de carrosserie amovibles ; 
+
+2° Les pièces de garnissage intérieur et de la sellerie ; 
+
+3° Les vitrages non collés ; 
+
+4° Les pièces optiques ; 
+
+5° Les pièces mécaniques ou électroniques, à l'exception de celles faisant partie : 
+
+a) Des trains roulants, 
+
+b) Des éléments de la direction, 
+
+c) Des organes de freinage, 
+
+d) Des éléments de liaison au sol qui sont assemblés, soumis à usure mécanique et non démontables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1890 du 27 décembre 2016 - art. 7
+
+	**Cite**:
+
+	  - Code de la consommation - art. R224-22
 
 
 ### Titre IV : SANCTIONS
