@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-12-31
+Version Consolidée au 2017-01-01
 
 # Partie législative nouvelle
 
@@ -17134,6 +17134,57 @@ de vente.
 
 
 ##### Section 7 : Formation du prêteur et de l'intermédiaire
+
+###### Article L314-24
+
+Les prêteurs et les intermédiaires de crédit veillent à ce que le personnel placé sous leur autorité possède et maintienne à
+jour des connaissances et compétences appropriées concernant l'élaboration, la proposition et l'octroi des contrats de crédit
+mentionnés à l'article L. 313-1, la fourniture de service de conseil mentionné aux articles L. 313-13 et L. 313-14 ainsi que,
+le cas échéant, l'activité d'intermédiation. 
+
+Lorsque la conclusion d'un contrat de crédit implique la souscription de services accessoires, un niveau suffisant de
+connaissance de ces services et de compétence pour leur fourniture est exigé. 
+
+Les modalités d'application du présent article sont fixées par décret.
+
+**Nota:**
+
+Ordonnance n° 2016-351 du 25 mars 2016, article 13 V : L'article L. 314-24 du code de la consommation, dans sa rédaction
+issue de la présente ordonnance, entre en vigueur selon les modalités précisées par décret :
+
+a) Au plus tard le 1er janvier 2017, s'agissant des dispositions relatives aux connaissances et compétences exigées à
+l'entrée en fonction des personnels des prêteurs ;
+
+b) Au plus tard le 20 mars 2017, s'agissant des dispositions applicables en matière de formation continue des personnels des
+prêteurs ;
+
+c) Au plus tard le 21 mars 2019, s'agissant de l'exigence supplémentaire d'une formation professionnelle pour la prise en
+compte de l'expérience professionnelle à l'entrée en fonction des personnels prêteurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 13 (V)
+	  - Décret n°2016-622 du 19 mai 2016 - art. 4 (Ab)
+	  - Code de la consommation - art. D314-22 (V)
+	  - Code de la consommation - art. L351-5 (VD)
+	  - Code de la consommation - art. L351-6 (VD)
+	  - Code de la consommation - art. R341-26 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de la consommation - art. L313-1 (VD)
+	  - Code de la consommation - art. L313-13 (VD)
+
 
 ###### Article L314-25
 
@@ -40630,6 +40681,48 @@ pourrait rencontrer s'il souhaitait néanmoins poursuivre l'opération sans en c
 
 
 ##### Section 3 : Formation du prêteur et de l'intermédiaire
+
+###### Article D314-22
+
+Les personnels concernés par l'obligation de compétence professionnelle mentionnée à l'article L. 314-24 sont les personnes
+physiques qui travaillent pour le prêteur et qui exercent directement des activités d'élaboration, de proposition, d'octroi
+ou de conseil en matière de contrats de crédit mentionnés à l'article L. 313-1, ainsi que les personnes physiques qui
+dirigent ou encadrent directement les personnes précitées. 
+
+Les personnels concernés des intermédiaires de crédit s'entendent au sens de l'article R. 519-15 du code monétaire et
+financier. 
+
+Toutefois l'obligation de compétence professionnelle mentionnée à l'article L. 314-24 ne s'applique pas aux personnels
+employés dans le cadre d'un contrat de formation en alternance prévu aux articles L. 6221-1 et L. 6325-1 du code du travail
+pendant la durée de ce contrat, sous réserve qu'ils ne participent aux activités mentionnées au premier alinéa qu'en présence
+et sous la direction d'un salarié ayant la formation ou l'expérience professionnelle requise.
+
+**Nota:**
+
+Décret n° 2016-884 du 29 juin 2016, article 11 III : Les dispositions de l'article D. 314-22 du code de la consommation, dans
+sa rédaction issue du présent décret, entrent en vigueur le 1er janvier 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-884 du 29 juin 2016 - art.
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. D313-10-1 (MMN)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. D314-23 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L313-1 (MMN)
+	  - Code de la consommation - art. L314-24 (VD)
+	  - Code monétaire et financier - art. R519-15 (V)
+	  - Code du travail - art. L6221-1 (V)
+
 
 ###### Article D314-23
 
