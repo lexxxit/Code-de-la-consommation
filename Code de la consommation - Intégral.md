@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2017-01-22
+Version Consolidée au 2017-02-04
 
 # Partie législative nouvelle
 
@@ -55304,16 +55304,16 @@ Le conseil d'administration règle par ses délibérations les affaires du labor
 
 2° Le programme des activités de l'établissement ; 
 
-3° Les conditions de délivrance par le laboratoire de certificats de qualification ; 
+3° Les conditions de délivrance par le laboratoire de certificats de qualification ;
 
-4° L'état annuel des prévisions de recettes et de dépenses et, le cas échéant, les états rectificatifs en cours d'année ; 
+4° Le budget et, le cas échéant, les budgets rectificatifs en cours d'année ;
 
 5° Les comptes de chaque exercice et l'affectation des résultats ; 
 
 6° Les emprunts ; 
 
 7° Les acquisitions, échanges et aliénations de biens immobiliers ainsi que les prises et cessions à bail d'une durée
-supérieure à trois ans ; 
+supérieure à trois ans ;
 
 8° Les prises, extensions et cessions de participations financières ; 
 
@@ -55325,12 +55325,12 @@ l'approbation au directeur général ;
 11° Les conditions générales de recrutement, d'emploi et de rémunération du personnel ; 
 
 12° Le programme de relations internationales de l'établissement et des négociations pouvant conduire à la conclusion
-d'arrangements administratifs internationaux ; 
+d'arrangements administratifs internationaux ;
 
 13° Le rapport annuel d'activité de l'établissement ; 
 
 14° Les suites à donner aux résultats des travaux du laboratoire dans les domaines intéressant notamment la santé et la
-sécurité des consommateurs, la qualité et la durabilité des biens, la protection de l'environnement ; 
+sécurité des consommateurs, la qualité et la durabilité des biens, la protection de l'environnement ;
 
 15° La création et la composition des comités d'orientation scientifique et technique prévu par l'article R. 823-12 ; 
 
@@ -55338,26 +55338,22 @@ sécurité des consommateurs, la qualité et la durabilité des biens, la protec
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°78-280 du 10 mars 1978 - art. 7 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2016-884 du 29 juin 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-884 du 29 juin 2016 - art.
+	  - Décret n°2017-125 du 1er février 2017 - art. 1
 
 	**Cité par**:
 
-	  - Code de la consommation - art. R823-10 (M)
+	  - Code de la consommation - art. R823-10 (V)
 	  - Code de la consommation - art. R823-8 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. R823-12 (V)
+	  - Code de la consommation - art. R823-12
 
 
 ###### Article R823-8
@@ -55415,35 +55411,32 @@ son autorité.
 
 ###### Article R823-10
 
-Les délibérations du conseil d'administration portant sur les objets mentionnés aux 4°, 5°, 6°, 7°, 8°, 10°, 11° et 16° de
-l'article R. 823-7 ne sont exécutoires qu'après avoir été approuvées par le ministre chargé de l'industrie et le ministre
-chargé de l'économie. Les autres délibérations sont exécutoires de plein droit si le commissaire du Gouvernement mentionné à
-l'article R. 823-9 n'y a pas fait opposition dans les dix jours qui suivent, soit la réunion du conseil s'il a assisté à
-celle-ci, soit la réception du procès-verbal de la séance. 
+Les délibérations du conseil d'administration portant sur les objets mentionnés aux 6°, 7°, 8°, 10°, 11° et 16° de l'article
+R. 823-7 ne sont exécutoires qu'après avoir été approuvées par le ministre chargé de l'industrie et le ministre chargé du
+budget. Les délibérations mentionnées aux 4° et 5° sont exécutoires dans les conditions prévues par le titre III du décret n°
+2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. Les autres délibérations sont exécutoires
+de plein droit si le commissaire du Gouvernement mentionné à l'article R. 823-9 n'y a pas fait opposition dans les dix jours
+qui suivent, soit la réunion du conseil s'il a assisté à celle-ci, soit la réception du procès-verbal de la séance. 
 
 Dans le cas où il forme opposition, le commissaire du Gouvernement en réfère immédiatement au ministre chargé de l'industrie
-qui se prononce dans un délai d'un mois. A défaut de décision expresse dans ce délai, la délibération est exécutoire. 
+qui se prononce dans un délai d'un mois. A défaut de décision expresse dans ce délai, la délibération est exécutoire.
 
 Le conseil est informé de l'opposition du commissaire du Gouvernement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°78-280 du 10 mars 1978 - art. 9 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2016-884 du 29 juin 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-884 du 29 juin 2016 - art.
+	  - Décret n°2017-125 du 1er février 2017 - art. 1
 
 	**Cite**:
 
 	  - Code de la consommation - art. R823-7 (V)
-	  - Code de la consommation - art. R823-9 (V)
+	  - Code de la consommation - art. R823-9
 
 
 ###### Article R823-11
@@ -55616,65 +55609,31 @@ privés ;
 
 ###### Article R823-16
 
-Le laboratoire est soumis au régime financier et comptable défini par les textes généraux applicables aux établissements
-publics à caractère industriel et commercial dotés d'un agent comptable et en particulier par le 
-décret n° 2012-1246 du 7 novembre 2012
-relatif à la gestion budgétaire et comptable publique.
+Le laboratoire est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique, à l'exception des 1° et 2° de l'article 175 et des articles 178 à 185, 204 à 208 et
+220 à 228.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-280 du 10 mars 1978 - art. 15 (Ab)
 
 	**Cite**:
 
-	  - Décret n°2012-1246 du 7 novembre 2012 (V)
+	  - Décret n°2012-1246 du 7 novembre 2012
 
 	**Codifié par**:
 
 	  - Décret n°2016-884 du 29 juin 2016 - art.
 
-	**Créé par**:
-
-	  - Décret n°2016-884 du 29 juin 2016 - art.
-
-
-###### Article R823-17
-
-L'agent comptable est nommé par arrêté conjoint du ministre chargé de l'économie et du ministre chargé de l'industrie. Il est
-mis fin à ses fonctions dans les mêmes conditions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-280 du 10 mars 1978 - art. 16 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2016-884 du 29 juin 2016 - art.
-
-	**Créé par**:
-
-	  - Décret n°2016-884 du 29 juin 2016 - art.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2017-125 du 1er février 2017 - art. 1
 
 
 ###### Article R823-18
 
-Des régies de dépenses et de recettes peuvent être créées par arrêté conjoint du ministre chargé de l'industrie et du
-ministre de l'économie dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes
-et aux régies d'avances des organismes publics.
+Des régies de recettes et des régies d'avances peuvent être instituées dans l'établissement dans les conditions prévues par
+le décret n° 92-681 du 20 juillet 1992relatif aux régies de recettes et aux régies d'avances des organismes publics.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-280 du 10 mars 1978 - art. 17 (Ab)
 
 	**Cite**:
 
@@ -55684,9 +55643,9 @@ et aux régies d'avances des organismes publics.
 
 	  - Décret n°2016-884 du 29 juin 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-884 du 29 juin 2016 - art.
+	  - Décret n°2017-125 du 1er février 2017 - art. 1
 
 
 ###### Article R823-19
