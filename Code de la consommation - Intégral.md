@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2017-02-04
+Version Consolidée au 2017-02-22
 
 # Partie législative nouvelle
 
@@ -22220,12 +22220,12 @@ remplacement.
 
 #### Chapitre Ier : Conformité
 
-##### Section 1 : Falsifications
+##### Section 1 : Obligation générale de conformité
 
 ###### Article L451-1
 
-La violation des interdictions prévues à l'article L. 413-1 est punie d'une peine d'emprisonnement de deux ans et d'une
-amende de 300 000 euros.
+Le fait pour l'opérateur de ne pas procéder à l'information prévue à l'article L. 411-2 est puni d'une peine d'un an
+d'emprisonnement et de 150 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -22233,25 +22233,13 @@ amende de 300 000 euros.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2017-203 du 21 février 2017 - art. 11
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L213-3, I (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 11
 
 	**Cite**:
 
-	  - Code de la consommation - art. L413-1 (VD)
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L451-1-1 (V)
+	  - Code de la consommation - art. L411-2
 
 	**Cité par**:
 
@@ -22260,6 +22248,8 @@ amende de 300 000 euros.
 	  - Code de la consommation - art. L455-2 (VD)
 	  - Code monétaire et financier - art. L500-1 (V)
 
+
+##### Section 1 : Falsifications
 
 ###### Article L451-2
 
