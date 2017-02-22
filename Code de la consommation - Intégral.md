@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2017-02-22
+Version Consolidée au 2017-02-23
 
 # Partie législative nouvelle
 
@@ -10,8 +10,7 @@ Pour l'application du présent code, on entend par :
 - consommateur : toute personne physique qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale,
 industrielle, artisanale, libérale ou agricole ;
 
-- non-professionnel : toute personne morale qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale,
-industrielle, artisanale, libérale ou agricole ;
+- non-professionnel : toute personne morale qui n'agit pas à des fins professionnelles ;
 
 - professionnel : toute personne physique ou morale, publique ou privée, qui agit à des fins entrant dans le cadre de son
 activité commerciale, industrielle, artisanale, libérale ou agricole, y compris lorsqu'elle agit au nom ou pour le compte
@@ -19,13 +18,13 @@ d'un autre professionnel.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
 	**Codifié par**:
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+
+	**Modifié par**:
+
+	  - Loi n°2017-203 du 21 février 2017 - art. 3
 
 
 ## Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES
@@ -454,9 +453,6 @@ Les dispositions de l'article L. 112-1 s'appliquent à toutes les activités de 
 compris celles qui sont le fait de personnes publiques, notamment dans le cadre de conventions de délégation de service
 public ainsi qu'aux prestations mentionnées au titre IV bis du livre IV du code de commerce. 
 
-Elles sont également applicables en cas de manquements au règlement (CE) n° 1008/2008 du Parlement européen et du Conseil du
-24 septembre 2008 établissant des règles communes pour l'exploitation de services aériens dans la Communauté. 
-
 Les règles relatives à l'obligation de renseignements du public par les établissements de crédit, les sociétés de
 financement, les établissements de monnaie électronique, les établissements de paiement et les organismes mentionnés à
 l'article L. 518-1 du code monétaire et financier sont fixées par l'article L. 312-1-1 du même code.
@@ -467,20 +463,16 @@ l'article L. 518-1 du code monétaire et financier sont fixées par l'article L.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Loi n°2017-203 du 21 février 2017 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code de commerce -  TITRE IV BIS : De certains tarifs réglementés (V)
-	  - Code de la consommation - art. L112-1 (V)
-	  - Code monétaire et financier - art. L312-1-1 (V)
-	  - Code monétaire et financier - art. L518-1 (M)
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L113-3, alinéas 3 et 4, partiel-info précontractuelle (Ab)
+	  - Code de commerce
+	  - Code de la consommation - art. L112-1
+	  - Code monétaire et financier - art. L312-1-1
+	  - Code monétaire et financier - art. L518-1
 
 
 ###### Article L112-3
@@ -888,8 +880,8 @@ Lorsque le moyen de communication utilisé impose des limites d'espace ou de tem
 informations substantielles ont été omises, de tenir compte de ces limites ainsi que de toute mesure prise par le
 professionnel pour mettre ces informations à la disposition du consommateur par d'autres moyens.
 
-Dans toute communication commerciale constituant une invitation commerciale et destinée au consommateur mentionnant le prix
-et les caractéristiques du bien ou du service proposé, sont considérées comme substantielles les informations suivantes :
+Dans toute communication commerciale constituant une invitation à l'achat et destinée au consommateur mentionnant le prix et
+les caractéristiques du bien ou du service proposé, sont considérées comme substantielles les informations suivantes :
 
 1° Les caractéristiques principales du bien ou du service ;
 
@@ -909,18 +901,14 @@ qu'elles sont différentes de celles habituellement pratiquées dans le domaine 
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Loi n°2017-203 du 21 février 2017 - art. 5
 
 	**Cité par**:
 
 	  - Code de commerce - art. L442-2 (V)
 	  - Code de commerce - art. L442-3 (V)
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-1, II (Ab)
 
 
 ###### Article L121-4
@@ -1032,7 +1020,8 @@ un Etat membre de l'Union européenne autre que celui dans lequel le produit ou 
 
 ###### Article L121-5
 
-Les dispositions des articles L. 121-2 et L. 121-4 sont également applicables aux pratiques qui visent les professionnels.
+Les dispositions des articles L. 121-2 à L. 121-4  sont également applicables aux pratiques qui visent les professionnels et
+les non-professionnels.
 
 **Liens relatifs à cet article**
 
@@ -1040,19 +1029,14 @@ Les dispositions des articles L. 121-2 et L. 121-4 sont également applicables a
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-1, III (Ab)
-	  - Code de la consommation - art. L121-1-1, alinéa 27 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 6
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-2 (V)
-	  - Code de la consommation - art. L121-4 (V)
+	  - Code de la consommation - art. L121-2
+	  - Code de la consommation - art. L121-4
 
 
 ##### Sous-section 2 : Pratiques commerciales agressives
@@ -3669,8 +3653,9 @@ mettre gratuitement un terme au contrat, à tout moment à compter de la date de
 
 Les avances effectuées après la dernière date de reconduction ou, s'agissant des contrats à durée indéterminée, après la date
 de transformation du contrat initial à durée déterminée, sont dans ce cas remboursées dans un délai de trente jours à compter
-de la date de résiliation, déduction faite des sommes correspondant, jusqu'à celle-ci, à l'exécution du contrat. Les
-dispositions du présent article s'appliquent sans préjudice de celles qui soumettent légalement certains contrats à des
+de la date de résiliation, déduction faite des sommes correspondant, jusqu'à celle-ci, à l'exécution du contrat.
+
+Les dispositions du présent article s'appliquent sans préjudice de celles qui soumettent légalement certains contrats à des
 règles particulières en ce qui concerne l'information du consommateur.
 
 **Liens relatifs à cet article**
@@ -3679,13 +3664,9 @@ règles particulières en ce qui concerne l'information du consommateur.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L136-1, alinéas 1, 2, hors sanction et 3 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 7
 
 	**Cité par**:
 
@@ -5513,7 +5494,8 @@ support matériel n'est redevable d'aucune somme si :
 1° Le professionnel n'a pas recueilli son accord préalable exprès pour l'exécution du contrat avant la fin du délai de
 rétractation ainsi que la preuve de son renoncement à son droit de rétractation ; 
 
-2° Le contrat ne reprend pas les mentions prévues au deuxième alinéa des articles L. 221-9 et L. 221-13.
+2° Le contrat ne reprend pas les mentions prévues au troisième alinéa de l'article L. 221-9 et au second alinéa de l'article
+L. 221-13.
 
 **Liens relatifs à cet article**
 
@@ -5521,18 +5503,14 @@ rétractation ainsi que la preuve de son renoncement à son droit de rétractati
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-21-6 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 7
 
 	**Cite**:
 
-	  - Code de la consommation - art. L221-13 (VD)
-	  - Code de la consommation - art. L221-9 (VD)
+	  - Code de la consommation - art. L221-13
+	  - Code de la consommation - art. L221-9
 
 
 ###### Article L221-27
@@ -5861,8 +5839,8 @@ du service financier fourni.
 
 ###### Article L222-7
 
-Le consommateur dispose d'un délai de quatorze jours pour exercer son droit de rétractation, sans avoir à justifier de motif
-ni à supporter de pénalités. 
+Le consommateur dispose d'un délai de quatorze jours calendaires révolus pour exercer son droit de rétractation, sans avoir à
+justifier de motif ni à supporter de pénalités. 
 
 Le délai pendant lequel peut s'exercer le droit de rétractation court à compter du jour où : 
 
@@ -5877,19 +5855,15 @@ dernière date est postérieure à celle mentionnée au 1°.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-29, I (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 7
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L222-10 (VD)
 	  - Code de la consommation - art. L222-13 (VD)
-	  - Code de la consommation - art. L222-8 (VD)
+	  - Code de la consommation - art. L222-8 (V)
 	  - Code de la consommation - art. L252-1 (VD)
 	  - Code de la consommation - art. R222-1 (V)
 	  - Code de la consommation - art. R222-2 (V)
@@ -5898,22 +5872,17 @@ dernière date est postérieure à celle mentionnée au 1°.
 
 	**Cite**:
 
-	  - Code de la consommation - art. L222-6 (VD)
+	  - Code de la consommation - art. L222-6
 
 
 ###### Article L222-8
 
-Conformément au règlement n° 1182/71/ CEE du Conseil du 3 juin 1971 portant détermination des règles applicables aux délais,
-aux dates et aux termes : 
+Le délai mentionné à l'article L. 222-7 court à compter du jour où : 
 
-1° Le jour où le contrat est conclu ou le jour où le consommateur reçoit les documents mentionnés au 2° de l'article L. 222-7
-n'est pas compté dans le délai ; 
+1° Le contrat à distance est conclu ; 
 
-2° Le délai commence à courir au début de la première heure du premier jour et prend fin à l'expiration de la dernière heure
-du dernier jour du délai ; 
-
-3° Si ce délai expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier jour ouvrable
-suivant.
+2° Le consommateur reçoit les conditions contractuelles et les informations conformément à l'article L. 222-6, si cette
+dernière date est postérieure à celle mentionnée au 1° du présent article.
 
 **Liens relatifs à cet article**
 
@@ -5921,13 +5890,14 @@ suivant.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Loi n°2017-203 du 21 février 2017 - art. 7
 
 	**Cite**:
 
-	  - Code de la consommation - art. L222-7 (VD)
+	  - Code de la consommation - art. L222-6
+	  - Code de la consommation - art. L222-7 (V)
 
 	**Cité par**:
 
@@ -6159,6 +6129,8 @@ sa volonté de se rétracter.
 	  - Code de la consommation - art. R242-3 (V)
 
 
+##### Section 5 : Dispositions particulières
+
 ###### Article L222-16
 
 Les dispositions de l'article L. 34-5 du code des postes et communications électroniques sont applicables aux services
@@ -6176,17 +6148,13 @@ Les mesures prévues au présent article ne doivent pas entraîner de frais pour
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-31 (Ab)
+	  - DEPLACE: Loi n°2017-203 du 21 février 2017 - art. 7
 
 	**Cite**:
 
-	  - Code des postes et des communications électroni... - art. L34-5 (M)
+	  - Code des postes et des communications électroniques - art. L34-5
 
 
 ###### Article L222-16-1
@@ -6220,15 +6188,9 @@ L'amende est prononcée dans les conditions prévues au chapitre II du titre II 
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Liens**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 6 (V)
-	  - Code monétaire et financier - art. L533-12-7 (V)
-	  - Code monétaire et financier - art. L541-9-1 (V)
-
-	**Créé par**:
-
-	  - Loi n°2016-1691 du 9 décembre 2016 - art. 75
+	  - DEPLACE: Loi n°2017-203 du 21 février 2017 - art. 7
 
 	**Cité par**:
 
@@ -6248,15 +6210,15 @@ L'amende est prononcée dans les conditions prévues au chapitre II du titre II 
 
 **Nota:**
 
-LOI n°2016-1691 du 9 décembre 2016, article 77-II : L'exécution des contrats en cours au 1er juillet 2016 relatifs à toute
-opération mentionnée au premier alinéa de l'article L. 222-16-2 du code de la consommation est poursuivie jusqu'au 30 juin
-2017 au plus tard.
+Conformément à l'article 77-II de la loi n° 2016-1691 du 9 décembre 2016, l'exécution des contrats en cours au 1er juillet
+2016 relatifs à toute opération mentionnée au premier alinéa du présent article est poursuivie jusqu'au 30 juin 2017 au plus
+tard.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2016-1691 du 9 décembre 2016 - art. 77 (V)
+	  - DEPLACE: Loi n°2017-203 du 21 février 2017 - art. 7
 
 	**Cite**:
 
@@ -6283,9 +6245,9 @@ prévoyance et d'unions régies par le même code.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - DEPLACE: Loi n°2017-203 du 21 février 2017 - art. 7
 
 	**Cité par**:
 
@@ -6294,6 +6256,8 @@ prévoyance et d'unions régies par le même code.
 
 
 ##### Section 5 : Dispositions d'ordre public
+
+##### Section 6 : Dispositions d'ordre public
 
 ###### Article L222-18
 
@@ -6507,7 +6471,7 @@ d'électricité ou de gaz naturel, ainsi qu'aux contrats souscrits par un non-pr
 ou inférieure à 36 kilovoltampères ou pour une consommation de gaz naturel inférieure à 30 000 kilowattheures par an. 
 
 Les dispositions de l'article L. 224-2, de l'article L. 224-3 à l'exception des 13° et 16°, des articles L. 224-4 et L.
-224-6, de l'article L. 224-7 à l'exception du 2°, des articles L. 224-8 à L. 224-13 et L. 224-16 sont applicables aux
+224-6, de l'article L. 224-7 à l'exception du 2°, des articles L. 224-8 à L. 224-12 et L. 224-16 sont applicables aux
 contrats souscrits dans les conditions mentionnées à l'article L. 332-2 du code de l'énergie pour la fourniture d'électricité
 et à l'article L. 442-2 du même code pour la fourniture de gaz naturel.
 
@@ -6517,23 +6481,21 @@ et à l'article L. 442-2 du même code pour la fourniture de gaz naturel.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-86 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 7
 
 	**Cite**:
 
-	  - Code de la consommation - art. L224-16 (VD)
-	  - Code de la consommation - art. L224-2 (VD)
-	  - Code de la consommation - art. L224-4 (VD)
-	  - Code de la consommation - art. L224-6 (VD)
-	  - Code de la consommation - art. L224-8 (VD)
-	  - Code de l'énergie - art. L332-2 (V)
-	  - Code de l'énergie - art. L442-2 (V)
+	  - Code de la consommation - art. L224-12
+	  - Code de la consommation - art. L224-16
+	  - Code de la consommation - art. L224-2
+	  - Code de la consommation - art. L224-3
+	  - Code de la consommation - art. L224-4
+	  - Code de la consommation - art. L224-6
+	  - Code de la consommation - art. L224-8
+	  - Code de l'énergie - art. L332-2
+	  - Code de l'énergie - art. L442-2
 
 
 ###### Article L224-2
@@ -8368,9 +8330,10 @@ aurait versée d'avance sur le prix.
 
 Par dérogation aux dispositions du premier alinéa de l'article L. 133-3 du code de commerce, le délai de forclusion
 applicable aux contrats de transports de déménagement conclus entre un professionnel et un consommateur est fixé à dix jours
-à compter de la réception des objets transportés. Les protestations motivées émises par lettre recommandée dans ce délai
-produisent leurs effets même en l'absence de réserves formulées à la livraison. Les réserves émises par le destinataire à la
-livraison et non contestées par le transporteur dispensent de la protestation motivée prévue au présent article.
+calendaires révolus à compter de la réception des objets transportés. Les protestations motivées émises par lettre
+recommandée dans ce délai produisent leurs effets même en l'absence de réserves formulées à la livraison. Les réserves émises
+par le destinataire à la livraison et non contestées par le transporteur dispensent de la protestation motivée prévue au
+présent article.
 
 Lorsque la procédure à suivre pour émettre des réserves n'a pas été communiquée au consommateur dans les conditions fixées
 par arrêté ministériel, le délai prévu au premier alinéa est porté à trois mois.
@@ -8381,17 +8344,13 @@ par arrêté ministériel, le délai prévu au premier alinéa est porté à tro
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Loi n°2017-203 du 21 février 2017 - art. 7
 
 	**Cite**:
 
-	  - Code de commerce - art. L133-3 (M)
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-95 (Ab)
+	  - Code de commerce - art. L133-3
 
 
 ###### Article L224-64
@@ -9528,9 +9487,13 @@ Conseil d'Etat.
 
 ###### Article L224-99
 
-Le consommateur dispose d'un délai de vingt-quatre heures à compter de la signature du contrat pour exercer son droit de
-rétractation, sans avoir à justifier de motifs ni à payer de pénalités. L'exécution des obligations contractuelles incombant
-aux parties est suspendue jusqu'à l'expiration de ce délai de rétractation.
+Le consommateur dispose d'un délai de quarante-huit heures à compter de la signature du contrat pour exercer son droit de
+rétractation, sans avoir à justifier de motifs ni à payer de pénalités. 
+
+L'exercice du droit de rétractation met fin aux obligations des parties. Le consommateur doit alors rembourser au
+professionnel le prix perçu et, en contrepartie, ce dernier doit lui restituer le ou les objets achetés. A défaut de
+restituer le ou les objets achetés, le professionnel verse au consommateur une somme équivalente au double du prix de vente
+perçu pour le bien ou les objets achetés. 
 
 Ce délai de rétractation ne s'applique pas aux opérations d'or investissement.
 
@@ -9540,9 +9503,9 @@ Ce délai de rétractation ne s'applique pas aux opérations d'or investissement
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Loi n°2017-203 du 21 février 2017 - art. 8
 
 	**Cité par**:
 
@@ -9551,10 +9514,6 @@ Ce délai de rétractation ne s'applique pas aux opérations d'or investissement
 	  - Code de la consommation - art. L242-37 (VD)
 	  - Code de la consommation - art. R224-7 (V)
 	  - Code général des impôts, CGI. - art. 536 (V)
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-102, alinéas 1 et 2 (Ab)
 
 
 ##### Section 10 : Contrats dans les domaines bancaire, financier et des assurances
@@ -10318,9 +10277,9 @@ dispositions du 2° de l'article L. 221-5 est puni d'une peine d'emprisonnement 
 
 ###### Article L242-7
 
-Le fait d'exiger ou d'obtenir du client, en infraction aux dispositions de l'article L. 221-10 une contrepartie, un
-engagement ou d'effectuer des prestations de services avant l'expiration du délai de sept jours à compter de la conclusion du
-contrat hors établissement est puni d'une peine d'emprisonnement de deux ans et d'une amende de 150 000 euros.
+Le fait d'exiger ou d'obtenir du client, en infraction aux dispositions de l'article L. 221-10, un paiement ou une
+contrepartie avant l'expiration du délai de sept jours à compter de la conclusion du contrat hors établissement est puni
+d'une peine d'emprisonnement de deux ans et d'une amende de 150 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -10328,17 +10287,13 @@ contrat hors établissement est puni d'une peine d'emprisonnement de deux ans et
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-23, alinéa 1 contrepartie (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 7
 
 	**Cite**:
 
-	  - Code de la consommation - art. L221-10 (VD)
+	  - Code de la consommation - art. L221-10
 
 	**Cité par**:
 
@@ -10788,7 +10743,7 @@ Lorsque le vendeur ou le prestataire de services n'a pas remboursé le consommat
 
 ###### Article L242-23
 
-Tout manquement aux dispositions des articles L. 224-59 et L. 224-62 est passible d'une amende administrative dont le montant
+Tout manquement aux dispositions des articles L. 224-59 à L. 224-62 est passible d'une amende administrative dont le montant
 ne peut excéder 3 000 euros pour une personne physique et 15 000 euros pour une personne morale. 
 
 Cette amende est prononcée dans les conditions prévues au chapitre II du titre II du livre V.
@@ -10799,18 +10754,14 @@ Cette amende est prononcée dans les conditions prévues au chapitre II du titre
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-98-1 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 7
 
 	**Cite**:
 
-	  - Code de la consommation - art. L224-59 (VD)
-	  - Code de la consommation - art. L224-62 (VD)
+	  - Code de la consommation - art. L224-59
+	  - Code de la consommation - art. L224-62
 
 
 ##### Sous-section 5 : Transports et automobile
@@ -11391,25 +11342,23 @@ chapitre III du titre II du livre II de la deuxième partie du code général de
 
 ###### Article L251-1
 
-L'article L. 224-66 n'est pas applicable en Guadeloupe, en Guyane, en Martinique et à La Réunion.
-
-Pour l'application de l'article L. 412-6 à Saint-Barthélemy et à Saint-Pierre-et-Miquelon, les mots : " à l'article 38 du
+Pour l'application de l'article L. 412-6 à Saint-Barthélemy et à Saint-Pierre-et-Miquelon, les mots : "à l'article 38 du
 règlement UE n° 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013 portant organisation commune des marchés
 dans le secteur des produits de pêche et de l'aquaculture, modifiant les règlements n° 1184/2006 et n° 1224/2009 du Conseil
-et abrogeant le règlement n° 104/2000 du Conseil " sont remplacés par les mots : " par les règles applicables en métropole en
+et abrogeant le règlement n° 104/2000 du Conseil" sont remplacés par les mots : "par les règles applicables en métropole en
 vertu de l'article 38 du règlement UE n° 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013 portant
 organisation commune des marchés dans le secteur des produits de pêche et de l'aquaculture, modifiant les règlements n°
-1184/2006 et n° 1224/2009 du Conseil et abrogeant le règlement n° 104/2000 du Conseil ".
+1184/2006 et n° 1224/2009 du Conseil et abrogeant le règlement n° 104/2000 du Conseil".
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+
 	**Modifié par**:
 
-	  - Loi n°2016-816 du 20 juin 2016 - art. 96
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L123-6 partiel (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 7
 
 	**Cite**:
 
@@ -11426,7 +11375,7 @@ organisation commune des marchés dans le secteur des produits de pêche et de l
 
 Pour l'application des dispositions du présent titre, sont considérés comme : 
 
-1° Prêteur, toute personne qui consent ou s'engage à consentir un crédit mentionné à l'article L. 312-1 dans le cadre de
+1° Prêteur, toute personne qui consent ou s'engage à consentir un crédit mentionné au présent titre dans le cadre de
 l'exercice de ses activités commerciales ou professionnelles ; 
 
 2° Emprunteur ou consommateur, toute personne physique qui est en relation avec un prêteur, ou un intermédiaire de crédit,
@@ -11451,7 +11400,7 @@ l'emprunteur en règle le coût par paiements échelonnés pendant toute la dur�
 rémunérations de toute nature, directs ou indirects, supportés par l'emprunteur et connus du prêteur à la date d'émission de
 l'offre de crédit ou de l'avenant au contrat de crédit, ou dont le montant peut être déterminé à ces mêmes dates, et qui
 constituent une condition pour obtenir le crédit ou pour l'obtenir aux conditions annoncées. Ce coût ne comprend pas les
-frais liés à l'acquisition des immeubles mentionnés au 1° de l'article L. 313-1 tels que les taxes y afférentes, ni les frais
+frais liés à l'acquisition des immeubles mentionnés au 1° de l'article L. 313-1 tels que les taxes y afférentes ou les frais
 d'acte notarié, ni les frais à la charge de l'emprunteur en cas de non-respect de l'une de ses obligations prévues dans le
 contrat de crédit. 
 
@@ -11492,7 +11441,17 @@ présent titre ;
 16° Crédit relais, un crédit d'une durée limitée destiné à faire l'avance partielle ou totale, et temporaire du produit de la
 vente d'un bien immobilier pour en acquérir un autre avant la vente du premier bien.
 
+**Nota:**
+
+Conformément à l'article 9 de la loi n° 2017-203 du 21 février 2017, les prêteurs disposent d'un délai de trois mois à
+compter de la promulgation de ladite loi pour se mettre en conformité avec le 7° du présent article dont le même 7°, dans sa
+rédaction antérieure à la même loi, leur demeure applicable jusqu'à cette mise en conformité.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
 	**Cité par**:
 
@@ -11505,7 +11464,7 @@ vente d'un bien immobilier pour en acquérir un autre avant la vente du premier 
 	  - Code de la consommation - art. L312-93 (VD)
 	  - Code de la consommation - art. L312-94 (VD)
 	  - Code de la consommation - art. L313-1 (VD)
-	  - Code de la consommation - art. L321-1 (VD)
+	  - Code de la consommation - art. L321-1 (V)
 	  - Code de la consommation - art. L322-3 (VD)
 	  - Code de la consommation - art. L341-20 (VD)
 	  - Code de la consommation - art. L351-1 (VD)
@@ -11515,16 +11474,11 @@ vente d'un bien immobilier pour en acquérir un autre avant la vente du premier 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 1
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L311-1 (Ab)
-	  - Code de la consommation - art. L312-1 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cite**:
 
-	  - Code de la consommation - art. L314-1 (VD)
+	  - Code de la consommation - art. L314-1
 
 
 #### Chapitre II : Crédit à la consommation
@@ -11533,11 +11487,15 @@ vente d'un bien immobilier pour en acquérir un autre avant la vente du premier 
 
 ###### Article L312-1
 
-Les dispositions du présent chapitre s'appliquent à toute opération de crédit mentionnée au 4° de l'article L. 311-1, qu'elle
+Les dispositions du présent chapitre s'appliquent à toute opération de crédit mentionnée au 6° de l'article L. 311-1, qu'elle
 soit conclue à titre onéreux ou à titre gratuit et, le cas échéant, à son cautionnement, dès lors que le montant total du
-crédit est supérieur à 200 euros et inférieur à 75 000 euros.
+crédit est égal ou supérieur à 200 euros et inférieur ou égal à 75 000 euros.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
 	**Cité par**:
 
@@ -11552,18 +11510,9 @@ crédit est supérieur à 200 euros et inférieur à 75 000 euros.
 	  - Code de la consommation - art. L322-4 (VD)
 	  - Code de la consommation - art. L351-3 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Créé par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L311-2, alinéa 1 (Ab)
-	  - Code de la consommation - art. L311-3, 2° (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 
 ###### Article L312-2
@@ -12197,8 +12146,8 @@ une durée minimale de quinze jours à compter de cette remise ou de cet envoi.
 
 ###### Article L312-19
 
-L'emprunteur peut se rétracter sans motifs dans un délai de quatorze jours à compter du jour de l'acceptation de l'offre de
-contrat de crédit comprenant les informations prévues à l'article L. 312-28.
+L'emprunteur peut se rétracter sans motifs dans un délai de quatorze jours calendaires révolus à compter du jour de
+l'acceptation de l'offre de contrat de crédit comprenant les informations prévues à l'article L. 312-28.
 
 **Liens relatifs à cet article**
 
@@ -12206,17 +12155,13 @@ contrat de crédit comprenant les informations prévues à l'article L. 312-28.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L311-12, alinéa 1, 1ère phrase (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cité par**:
 
-	  - Code de la consommation - art. L312-20 (VD)
+	  - Code de la consommation - art. L312-20 (V)
 	  - Code de la consommation - art. L312-21 (VD)
 	  - Code de la consommation - art. L312-47 (VD)
 	  - Code de la consommation - art. L312-52 (VD)
@@ -12224,21 +12169,13 @@ contrat de crédit comprenant les informations prévues à l'article L. 312-28.
 
 	**Cite**:
 
-	  - Code de la consommation - art. L312-28 (VD)
+	  - Code de la consommation - art. L312-28
 
 
 ###### Article L312-20
 
-Conformément au règlement n° 1182/71/ CEE du Conseil du 3 juin 1971 portant détermination des règles applicables aux délais,
-aux dates et aux termes : 
-
-1° Le jour de l'acceptation de l'offre n'est pas compté dans le délai mentionné à l'article L. 312-19 ; 
-
-2° Le délai commence à courir au début de la première heure du premier jour et prend fin à l'expiration de la dernière heure
-du dernier jour du délai ; 
-
-3° Si ce délai expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier jour ouvrable
-suivant.
+Le délai mentionné à l'article L. 312-19 court à compter du jour de l'acceptation de l'offre de contrat de crédit comprenant
+les informations prévues à l'article L. 312-28.
 
 **Liens relatifs à cet article**
 
@@ -12246,13 +12183,14 @@ suivant.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cite**:
 
-	  - Code de la consommation - art. L312-19 (VD)
+	  - Code de la consommation - art. L312-19 (V)
+	  - Code de la consommation - art. L312-28
 
 	**Cité par**:
 
@@ -12937,7 +12875,7 @@ conclue dans les termes d'un contrat de crédit distinct, conforme aux dispositi
 
 ###### Article L312-44
 
-Sont soumis aux dispositions de la présente section les contrats de crédit affecté mentionnés au 9° de l'article L. 311-1.
+Sont soumis aux dispositions de la présente section les contrats de crédit affecté mentionnés au 11° de l'article L. 311-1.
 
 **Liens relatifs à cet article**
 
@@ -12945,17 +12883,13 @@ Sont soumis aux dispositions de la présente section les contrats de crédit aff
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cite**:
 
-	  - Code de la consommation - art. L311-1 (VD)
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L311-30 (Ab)
+	  - Code de la consommation - art. L311-1
 
 	**Cité par**:
 
@@ -13133,8 +13067,8 @@ récépissé valant reçu et comportant la reproduction intégrale des dispositi
 
 ###### Article L312-51
 
-En cas de vente ou de démarchage à domicile, le délai de rétractation est de quatorze jours quelle que soit la date de
-livraison ou de fourniture du bien ou de la prestation de services.
+En cas de vente ou de démarchage à domicile, le délai de rétractation est de quatorze jours calendaires révolus quelle que
+soit la date de livraison ou de fourniture du bien ou de la prestation de services.
 
 Aucun paiement comptant ne peut intervenir avant l'expiration de ce délai.
 
@@ -13144,13 +13078,9 @@ Aucun paiement comptant ne peut intervenir avant l'expiration de ce délai.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L311-41 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 
 ###### Article L312-52
@@ -13360,10 +13290,8 @@ terme : " crédit renouvelable ", à l'exclusion de tout autre.
 
 ###### Article L312-59
 
-Dans toute publicité, outre les informations mentionnées à l'article L. 312-6, des informations sur le coût du crédit
-renouvelable sont fournies à l'aide d'un exemple représentatif. 
-
-Le contenu et les modalités de présentation de cet exemple sont précisés par décret.
+Pour l'application de l'article L. 312-6, le contenu et les modalités de présentation de l'exemple représentatif pour le
+crédit renouvelable sont précisés par décret.
 
 **Liens relatifs à cet article**
 
@@ -13371,17 +13299,13 @@ Le contenu et les modalités de présentation de cet exemple sont précisés par
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L311-4, alinéa 8 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cite**:
 
-	  - Code de la consommation - art. L312-6 (VD)
+	  - Code de la consommation - art. L312-6
 
 	**Cité par**:
 
@@ -13763,7 +13687,7 @@ L'emprunteur dispose d'un délai de trente jours après réception de cette info
 écrite adressée au prêteur.
 
 Dans ce cas, son droit à crédit prend fin et le remboursement du crédit déjà utilisé s'effectue de manière échelonnée, sauf
-avis contraire de votre part, aux conditions applicables avant la modification que celui-ci a refusée.
+avis contraire de sa part, aux conditions applicables avant la modification que celui-ci a refusée.
 
 Les dispositions du présent article sont reproduites dans le contrat.
 
@@ -13773,17 +13697,13 @@ Les dispositions du présent article sont reproduites dans le contrat.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L351-3 (VD)
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. R311-5, I, 2°, e, alinéa 2 révision (Ab)
 
 
 ###### Article L312-73
@@ -13924,13 +13844,13 @@ Les caractéristiques de ce bordereau ainsi que les mentions devant y figurer so
 ###### Article L312-78
 
 En cas de refus des nouvelles conditions de taux ou de remboursement proposées lors de la reconduction du contrat,
-l'emprunteur aux conditions précédant les modifications proposées le montant du crédit déjà utilisé, sans pouvoir, toutefois,
-procéder à une nouvelle utilisation de l'ouverture de crédit.
+l'emprunteur rembourse aux conditions précédant les modifications proposées le montant du crédit déjà utilisé, sans pouvoir,
+toutefois, procéder à une nouvelle utilisation de l'ouverture de crédit.
 
 **Nota:**
 
-<font color="#000000" size="1">Au lieu de " l'emprunteur aux conditions ", il convient de lire " l'emprunteur rembourse aux
-conditions ".</font>
+<font color="#000000" size="1">
+</font>
 
 **Liens relatifs à cet article**
 
@@ -13938,13 +13858,9 @@ conditions ".</font>
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L311-16, alinéa 8 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cité par**:
 
@@ -14007,7 +13923,7 @@ fractions de crédit utilisées.
 
 ###### Article L312-81
 
-A défaut pour l'emprunteur de retourner du document mentionné à l'article L. 312-80, signé et daté, au plus tard vingt jours
+A défaut pour l'emprunteur de retourner le document mentionné à l'article L. 312-80, signé et daté, au plus tard vingt jours
 avant la date d'échéance du contrat, le prêteur suspend à cette date le droit d'utilisation du crédit par l'emprunteur. 
 
 La suspension ne peut être levée qu'à la demande de l'emprunteur et après vérification de la solvabilité de ce dernier dans
@@ -14015,7 +13931,8 @@ les conditions fixées à l'article L. 312-16.
 
 **Nota:**
 
-<font color="#000000" size="1">Au lieu de " du document ", il convient de lire " le document ".</font>
+<font size="1" color="#000000">
+</font>
 
 **Liens relatifs à cet article**
 
@@ -14023,18 +13940,14 @@ les conditions fixées à l'article L. 312-16.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L311-16, alinéa 9 suspension (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cite**:
 
-	  - Code de la consommation - art. L312-16 (VD)
-	  - Code de la consommation - art. L312-80 (VD)
+	  - Code de la consommation - art. L312-16
+	  - Code de la consommation - art. L312-80
 
 	**Cité par**:
 
@@ -14932,7 +14845,7 @@ Les conditions de la fourniture du service de conseil sont précisées par décr
 
 Le conseil est qualifié d'indépendant dès lors qu'il est rendu à partir d'un nombre suffisamment important de contrats de
 crédit disponibles sur le marché et que sa fourniture ne donne lieu à aucune rémunération autre que celle versée, le cas
-échéant, par le consommateur. Le service de conseil indépendant ne peut en aucun cas donner lieu à une rémunération, sous
+échéant, par l'emprunteur. Le service de conseil indépendant ne peut en aucun cas donner lieu à une rémunération, sous
 quelque forme que ce soit, de la part d'un prêteur ou d'un intermédiaire de crédit. 
 
 Le prêteur ou l'intermédiaire de crédit qui fournit un service de conseil indépendant peut se prévaloir de l'appellation de
@@ -14948,12 +14861,12 @@ Les conditions de la fourniture du service de conseil indépendant sont précis�
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cité par**:
 
 	  - Code de commerce - art. L526-5 (V)
-	  - Code de la consommation - art. L313-15 (VD)
+	  - Code de la consommation - art. L313-15 (V)
 	  - Code de la consommation - art. L314-23 (VD)
 	  - Code de la consommation - art. L341-30 (VD)
 	  - Code de la consommation - art. R313-11 (V)
@@ -14962,7 +14875,7 @@ Les conditions de la fourniture du service de conseil indépendant sont précis�
 ###### Article L313-15
 
 Seul le conseil qualifié d'indépendant au sens de l'article L. 313-14 peut donner lieu à rémunération. Cette rémunération
-émane uniquement du consommateur.
+émane uniquement de l'emprunteur.
 
 **Liens relatifs à cet article**
 
@@ -14972,11 +14885,11 @@ Seul le conseil qualifié d'indépendant au sens de l'article L. 313-14 peut don
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cite**:
 
-	  - Code de la consommation - art. L313-14 (VD)
+	  - Code de la consommation - art. L313-14 (V)
 
 
 ##### Sous-section 3 : Evaluation de solvabilité 
@@ -15307,22 +15220,19 @@ issue du I dudit article de ladite loi, s'applique aux offres formulées à comp
 
 ###### Article L313-26
 
-Le modèle de l'offre mentionnée aux articles L. 313-24 et L. 313-25 est fixé par arrêté du ministre chargé de l'économie.
+Le modèle de l'offre mentionnée aux articles L. 313-24 et L. 313-25 peut, en tant que de besoin, être fixé par arrêté du
+ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L313-11 (VT)
-	  - Code de la consommation - art. L313-16, 2ème phrase, partiel 1 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cite**:
 
-	  - Code de la consommation - art. L313-24 (VD)
+	  - Code de la consommation - art. L313-24
+	  - Code de la consommation - art. L313-25
 
 
 ###### Article L313-27
@@ -15424,33 +15334,28 @@ Jusqu'à la signature par l'emprunteur de l'offre mentionnée à l'article L. 31
 un autre contrat d'assurance dès lors que ce contrat présente un niveau de garantie équivalent au contrat d'assurance de
 groupe qu'il propose. Il en est de même lorsque l'emprunteur fait usage du droit de résiliation mentionné au premier alinéa
 de l'article L. 113-12-2 du code des assurances ou au deuxième alinéa de l'article L. 221-10 du code de la mutualité dans un
-délai de douze mois à compter de la signature de l'offre de prêt mentionnée à l'article L. 313-24. 
+délai de douze mois à compter de la signature de l'offre de prêt mentionnée à l'article L. 313-24 ou qu'il fait usage du
+droit de résiliation annuel mentionné au deuxième alinéa de l'article L. 113-12 du code des assurances ou au premier alinéa
+de l'article L. 221-10 du code de la mutualité. Toute décision de refus doit être motivée.
 
-Au-delà du délai de douze mois mentionné au premier alinéa, le contrat de prêt peut prévoir une faculté de substitution du
-contrat d'assurance en cas d'exercice par l'emprunteur du droit de résiliation d'un contrat d'assurance de groupe ou
-individuel mentionné à l'article L. 113-12 du code des assurances ou au premier alinéa de l'article L. 221-10 du code de la
-mutualité. 
+**Nota:**
 
-Dans ce cas, l'existence d'une faculté de substitution ainsi que ses modalités d'application sont définies dans le contrat de
-prêt. Toute décision de refus doit être motivée.
+Conformément à l'article 10 IV et V de la loi n° 2017-203 du 21 février 2017, ces dispositions sont applicables aux offres de
+prêts émises à compter de la date de publication de ladite loi et, à compter du 1er janvier 2018, aux contrats d'assurance en
+cours d'exécution à cette date.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L312-9, alinéa 5 (Ab)
-	  - Code de la consommation - art. L313-15 (MMN)
+	  - Loi n°2017-203 du 21 février 2017 - art. 10 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L313-24 (VD)
-	  - Code des assurances - art. L113-12 (V)
-	  - Code des assurances - art. L113-12-2 (V)
-	  - Code de la mutualité - art. L221-10 (M)
+	  - Code de la consommation - art. L313-24
+	  - Code des assurances - art. L113-12
+	  - Code des assurances - art. L113-12-2
+	  - Code de la mutualité - art. L221-10
 
 	**Cité par**:
 
@@ -15465,14 +15370,15 @@ Si l'offre mentionnée à l'article L. 313-24 a été émise, le prêteur notifi
 refus et lui adresse, s'il y a lieu, l'offre modifiée mentionnée à l'article L. 313-27, dans un délai de dix jours ouvrés à
 compter de la réception de la demande de substitution. 
 
-Si l'emprunteur fait usage du droit de résiliation du contrat d'assurance dans le délai de douze mois à compter de la
-signature de l'offre de prêt définie à l'article L. 313-24, le prêteur notifie à l'emprunteur sa décision d'acceptation ou de
-refus dans un délai de dix jours ouvrés à compter de la réception d'un autre contrat d'assurance. 
+Si l'emprunteur fait usage du droit de résiliation du contrat d'assurance en application du deuxième alinéa de l'article L.
+113-12 du code des assurances, du premier alinéa de l'article L. 113-12-2 du même code, ou des premier ou deuxième alinéas de
+l'article L. 221-10 du code de la mutualité, le prêteur notifie à l'emprunteur sa décision d'acceptation ou de refus dans un
+délai de dix jours ouvrés à compter de la réception d'un autre contrat d'assurance. 
 
 En cas d'acceptation, le prêteur modifie par voie d'avenant le contrat de crédit conformément à l'article L. 313-39 en y
-mentionnant, notamment, le nouveau taux annuel (1) effectif global calculé, conformément aux articles L. 314-1 à L. 314-4, en
-se fondant sur les informations transmises par l'assureur délégué dans les conditions fixées au deuxième alinéa de l'article
-L. 313-3. 
+mentionnant, notamment, le nouveau taux annuel effectif global calculé, conformément aux articles L. 314-1 à L. 314-4, en se
+fondant sur les informations transmises par l'assureur délégué dans les conditions fixées au deuxième alinéa de l'article L.
+313-28. 
 
 Lorsque l'avenant comporte un ou plusieurs éléments chiffrés sur le coût de l'assurance, ce coût est exprimé selon les
 modalités définies à l'article L. 313-8. 
@@ -15481,28 +15387,26 @@ Le prêteur ne peut exiger de frais supplémentaires de l'emprunteur pour l'émi
 
 **Nota:**
 
-(1) Aux termes de l'ordonnance n° 2016-351 du 25 mars 2016, article  13 II, ces dispositions entrent en vigueur le 1er
-octobre 2016.
+Conformément à l'article 10 IV et V de la loi n° 2017-203 du 21 février 2017, ces dispositions sont applicables aux offres de
+prêts émises à compter de la date de publication de ladite loi et, à compter du 1er janvier 2018, aux contrats d'assurance en
+cours d'exécution à cette date.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L312-9, alinéa 6 (Ab)
-	  - Code de la consommation - art. L313-16 (MMN)
+	  - Loi n°2017-203 du 21 février 2017 - art. 10 (V)
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cite**:
 
-	  - Code de la consommation - art. L313-24 (VD)
-	  - Code de la consommation - art. L313-27 (VD)
-	  - Code de la consommation - art. L313-3 (VD)
-	  - Code de la consommation - art. L313-39 (VD)
-	  - Code de la consommation - art. L313-8 (VD)
-	  - Code de la consommation - art. L314-1 (VD)
+	  - Code de la consommation - art. L313-24
+	  - Code de la consommation - art. L313-27
+	  - Code de la consommation - art. L313-28
+	  - Code de la consommation - art. L313-39
+	  - Code de la consommation - art. L313-8
+	  - Code de la consommation - art. L314-1
+	  - Code des assurances - art. L113-12
 
 	**Cité par**:
 
@@ -15515,26 +15419,29 @@ octobre 2016.
 
 Le prêteur ne peut, en contrepartie de son acceptation en garantie d'un contrat d'assurance autre que le contrat d'assurance
 qu'il propose, y compris en cas d'exercice du droit de résiliation en application du premier alinéa de l'article L. 113-12-2
-du code des assurances ou du deuxième alinéa de l'article L. 221-10 du code de la mutualité ni modifier le taux, qu'il soit
-fixe, variable ou révisable, ou les conditions d'octroi du crédit, prévus dans l'offre mentionnée à l'article L. 313-24, ni
-exiger le paiement de frais supplémentaires, y compris les frais liés aux travaux d'analyse de cet autre contrat d'assurance.
+du code des assurances, du deuxième alinéa de l'article L. 113-12 du même code, ou des premier ou deuxième alinéas de
+l'article L. 221-10 du code de la mutualité ni modifier le taux, qu'il soit fixe, variable ou révisable, ou les conditions
+d'octroi du crédit, prévus dans l'offre mentionnée à l'article L. 313-24, ni exiger le paiement de frais supplémentaires, y
+compris les frais liés aux travaux d'analyse de cet autre contrat d'assurance.
+
+**Nota:**
+
+Conformément à l'article 10 IV et V de la loi n° 2017-203 du 21 février 2017, ces dispositions sont applicables aux offres de
+prêts émises à compter de la date de publication de ladite loi et, à compter du 1er janvier 2018, aux contrats d'assurance en
+cours d'exécution à cette date.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L312-9, alinéa 8 (Ab)
-	  - Code de la consommation - art. L313-17 (MMN)
+	  - Loi n°2017-203 du 21 février 2017 - art. 10 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L313-24 (VD)
-	  - Code des assurances - art. L113-12-2 (V)
-	  - Code de la mutualité - art. L221-10 (M)
+	  - Code de la consommation - art. L313-24
+	  - Code des assurances - art. L113-12
+	  - Code des assurances - art. L113-12-2
+	  - Code de la mutualité - art. L221-10
 
 	**Cité par**:
 
@@ -17053,7 +16960,7 @@ chapitre Ier du titre IV.
 
 Dans le cadre de l'élaboration, de l'octroi et de l'exécution d'un contrat de crédit, de service de conseil ou de services
 accessoires, les prêteurs agissent d'une manière honnête, équitable, transparente et professionnelle, au mieux des droits et
-des intérêts des consommateurs. 
+des intérêts des emprunteurs. 
 
 L'octroi de crédit, de services accessoires ou de services de conseil s'appuie sur les informations relatives à la situation
 de l'emprunteur et sur toute demande spécifique formulée par celui-ci, ainsi que sur les hypothèses raisonnables quant aux
@@ -17067,7 +16974,7 @@ risques que la durée du contrat de crédit fait courir à l'emprunteur.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 4
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cité par**:
 
@@ -17494,7 +17401,7 @@ le taux d'intérêt est fixe, ou la simulation de l'impact d'une variation du ta
 prêts dont le taux d'intérêt est variable. Cette simulation ne constitue pas un engagement du prêteur à l'égard de
 l'emprunteur quant à l'évolution effective des taux d'intérêt pendant le prêt et à son impact sur les mensualités. 
 
-L'offre reproduit les dispositions des articles L. 315-10 à L. 315-15, L. 315-20 et L. 341-41.
+L'offre reproduit les dispositions des articles L. 315-10 à L. 315-15, L. 315-20 et L. 341-55.
 
 **Liens relatifs à cet article**
 
@@ -17502,20 +17409,16 @@ L'offre reproduit les dispositions des articles L. 315-10 à L. 315-15, L. 315-2
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cite**:
 
-	  - Code de la consommation - art. L314-1 (VD)
-	  - Code de la consommation - art. L315-10 (VD)
-	  - Code de la consommation - art. L315-20 (VD)
-	  - Code de la consommation - art. L341-41 (VD)
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L314-5 (Ab)
+	  - Code de la consommation - art. L314-1
+	  - Code de la consommation - art. L315-10
+	  - Code de la consommation - art. L315-20
+	  - Code de la consommation - art. L341-55
 
 	**Cité par**:
 
@@ -17604,8 +17507,8 @@ L'emprunteur doit apporter à l'immeuble hypothéqué tous les soins raisonnable
 
 ###### Article L315-13
 
-En application des dispositions de l'article 1188 du code civil, le débiteur ne peut plus réclamer le bénéfice du terme
-lorsque, par son fait, il a diminué la valeur de la sûreté qu'il avait donnée par le contrat à son créancier.
+Ainsi qu'il est dit à l'article 1305-4 du code civil, le débiteur ne peut réclamer le bénéfice du terme s'il ne fournit pas
+les sûretés promises au créancier ou s'il diminue celles qui garantissent l'obligation.
 
 **Liens relatifs à cet article**
 
@@ -17613,17 +17516,13 @@ lorsque, par son fait, il a diminué la valeur de la sûreté qu'il avait donné
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L314-8, alinéa 2 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cite**:
 
-	  - Code civil - art. 1188 (VD)
+	  - Code civil - art. 1305-4
 
 
 ###### Article L315-14
@@ -17916,7 +17815,7 @@ barème déterminé par décret.
 
 ###### Article L321-1
 
-Les dispositions du présent titre s'appliquent aux intermédiaires au sens du 3° de l'article L. 311-1. 
+Les dispositions du présent titre s'appliquent aux intermédiaires au sens du 5° de l'article L. 311-1. 
 
 Elles ne sont pas applicables : 
 
@@ -17926,8 +17825,8 @@ Elles ne sont pas applicables :
 cadre de leur mission de conciliation instituée par les dispositions du chapitre 1er du titre I du livre VI du code de
 commerce relatives à la prévention des difficultés des entreprises, du mandat ad hoc et de la procédure de conciliation ; 
 
-3° Aux personnes physiques et morales désignées en application des articles L. 621-137 et L. 621-139 du code de commerce qui
-se livrent aux opérations mentionnées à l'article L. 322-1 du présent code ; 
+3° Aux experts nommés par le tribunal, mentionnés à l'article L. 627-3 du code de commerce, qui se livrent aux opérations
+mentionnées à l'article L. 322-1 du présent code ; 
 
 4° Aux personnes physiques mentionnées au deuxième alinéa de l'article au deuxième alinéa de l'article L. 811-2 du code de
 commerce, dans le cadre de la mission qui leur est confiée par une décision de justice.
@@ -17938,27 +17837,22 @@ commerce, dans le cadre de la mission qui leur est confiée par une décision de
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cite**:
 
-	  - Code de commerce - art. L621-137 (Ab)
-	  - Code de commerce - art. L621-139 (T)
-	  - Code de commerce - art. L811-2 (M)
-	  - Code de la consommation - art. L311-1 (VD)
-	  - Code de la consommation - art. L322-1 (VD)
+	  - Code de commerce - art. L627-3
+	  - Code de commerce - art. L811-2
+	  - Code de la consommation - art. L311-1 (V)
+	  - Code de la consommation - art. L322-1
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L222-9 (VD)
 	  - Code de la consommation - art. L352-1 (VD)
 	  - Code de la consommation - art. L352-2 (VD)
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L322-2, alinéas 1 à 5 (Ab)
 
 
 ###### Article L321-2
@@ -18859,7 +18753,7 @@ Le fait pour l'annonceur de diffuser ou de faire diffuser une publicité non con
 ###### Article L341-22
 
 Le fait pour l'annonceur de diffuser ou de faire diffuser une publicité non conforme aux obligations prévues à l'article L.
-313-39, pour un contrat de location-vente et location assortie d'une promesse de vente, est puni d'une amende de 30 000
+313-54, pour un contrat de location-vente et location assortie d'une promesse de vente, est puni d'une amende de 30 000
 euros.
 
 **Liens relatifs à cet article**
@@ -18868,17 +18762,13 @@ euros.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L312-32, alinéa 1, publicité location-vente (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cite**:
 
-	  - Code de la consommation - art. L313-39 (VD)
+	  - Code de la consommation - art. L313-54
 
 
 ###### Article L341-23
@@ -19647,7 +19537,27 @@ la dernière perception, soit d'intérêt, soit de capital.
 	  - Code de la consommation - art. L341-50 (VD)
 
 
+##### Section 4 : Sûretés personnelles 
+
+
+###### Article L341-51-1
+
+Les prescriptions des articles L. 314-15 et L. 314-16 sont prévues à peine de nullité de l'engagement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
+
+	**Cite**:
+
+	  - Code de la consommation - art. L314-15 (V)
+
+
 ##### Section 4 : Règle de conduite et rémunération 
+
+##### Section 5 : Règle de conduite et rémunération
 
 ###### Article L341-52
 
@@ -19898,6 +19808,12 @@ pour une durée de cinq ans au plus ;
 	  - Code monétaire et financier - art. L341-1 (M)
 
 
+##### Section 6 : Prêt viager hypothécaire
+
+##### Sous-section 1 : Sanctions civiles
+
+##### Sous-section 2 : Sanctions pénales
+
 #### Chapitre II : Activité d'intermédiaire
 
 ##### Section 1 : Sanctions civiles
@@ -20080,7 +19996,7 @@ Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles p
 
 ###### Article L343-1
 
-Les formalités définies à l'article L. 333-1 sont prévues à peine de nullité.
+Les formalités définies à l'article L. 331-1 sont prévues à peine de nullité.
 
 **Liens relatifs à cet article**
 
@@ -20088,17 +20004,13 @@ Les formalités définies à l'article L. 333-1 sont prévues à peine de nullit
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Loi n°2017-203 du 21 février 2017 - art. 9
 
 	**Cite**:
 
-	  - Code de la consommation - art. L333-1 (VD)
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L341-2, sanction (Ab)
+	  - Code de la consommation - art. L331-1 (V)
 
 	**Cité par**:
 
@@ -20286,15 +20198,15 @@ justifier, celui qui lui a fourni ces produits et ceux à qui il les a cédés.
 
 ###### Article L412-1
 
-Des décrets en Conseil d'Etat déterminent les règles auxquelles doivent satisfaire les produits et services, notamment en ce
-qui concerne :
+I.-Des décrets en Conseil d'Etat définissent les règles auxquelles doivent satisfaire les marchandises. Ils déterminent
+notamment : 
 
-1° La fabrication, l'importation, la vente, la mise en vente, l'exposition, la détention et la distribution à titre gratuit
-de toutes marchandises ;
+1° Les conditions dans lesquelles l'exportation, l'offre, la vente, la distribution à titre gratuit, la détention,
+l'étiquetage, le conditionnement ou le mode d'utilisation des marchandises sont interdits ou réglementés ; 
 
-2° La fabrication et l'importation des marchandises autres que les produits d'origine animale et les denrées alimentaires en
-contenant, les aliments pour animaux d'origine animale et les aliments pour animaux contenant des produits d'origine
-animale ;
+2° Les conditions dans lesquelles la fabrication et l'importation des marchandises autres que les produits d'origine animale
+et les denrées alimentaires en contenant, les aliments pour animaux d'origine animale et les aliments pour animaux contenant
+des produits d'origine animale sont interdites ou réglementées ; 
 
 3° Les modes de présentation ou les inscriptions de toute nature sur les marchandises elles-mêmes, les emballages, les
 factures, les documents commerciaux ou documents de promotion, en ce qui concerne notamment : le mode de production, la
@@ -20323,13 +20235,26 @@ distribution à titre gratuit, leur mise en vente, leur vente, leur distribution
 à l'alimentation humaine ou animale autres que les produits d'origine animale et les denrées alimentaires en contenant, les
 aliments pour animaux d'origine animale et les aliments pour animaux contenant des produits d'origine animale ;
 
-9° La traçabilité des marchandises ;
+9° Les modalités de traçabilité des marchandises ;
 
 10° Les exigences de précision, de vérification et de prise en compte des éléments significatifs du cycle de vie des produits
 dans l'élaboration des allégations à caractère environnemental ou utilisant les termes de développement durable ou ses
 synonymes, lorsque ces allégations sont présentées sur les produits et denrées destinés à la vente aux consommateurs ou
 accompagnent leur commercialisation sous forme de mentions sur les emballages, les publications, la publicité, la
-télémercatique ou d'insertions sur supports numériques ou électroniques.
+télémercatique ou d'insertions sur supports numériques ou électroniques ;
+
+11° Les conditions d'hygiène et de salubrité que doivent observer les personnes qui participent à la fabrication, à la
+transformation, au transport, à l'entreposage ou à la vente des produits. 
+
+Les 1° à 11° s'appliquent aux prestations de services. 
+
+II.-Les décrets mentionnés au I peuvent ordonner que des produits soient retirés du marché ou rappelés en vue de leur
+modification, de leur remboursement total ou partiel ou de leur échange, et prévoir des obligations relatives à l'information
+des consommateurs. Ils peuvent également ordonner la destruction de ces produits lorsque celle-ci constitue le seul moyen de
+faire cesser un danger. 
+
+Ces décrets précisent les conditions dans lesquelles sont mis à la charge des fabricants, importateurs, distributeurs ou
+prestataires de services les frais afférents aux dispositions à prendre en vertu de la réglementation ainsi édictée.
 
 **Liens relatifs à cet article**
 
@@ -20337,18 +20262,15 @@ télémercatique ou d'insertions sur supports numériques ou électroniques.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L214-1, alinéas 1 à 11 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 11
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L412-2 (VD)
 	  - Code de la consommation - art. L422-1 (V)
+	  - Code de la consommation - art. L422-4 (T)
 	  - Code de la consommation - art. R412-1 (V)
 	  - Code de la consommation - art. R412-18 (V)
 	  - Code de la consommation - art. R412-19 (V)
@@ -20515,7 +20437,9 @@ Les modalités de mise en œuvre du présent article sont fixées par décret.
 	  - Code de la consommation - art. L461-1 (VD)
 
 
-#### Chapitre III : Falsifications et infractions relatives aux produits
+#### Chapitre III : Falsifications et autres infractions relatives aux produits
+
+##### Section 1 : Falsifications
 
 ###### Article L413-1
 
@@ -20542,17 +20466,13 @@ L'infraction est constituée même au cas où la falsification nuisible est conn
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L213-3, I et III, alinéa 2 (Ab)
+	  - DEPLACE: Loi n°2017-203 du 21 février 2017 - art. 11
 
 	**Cité par**:
 
-	  - Code de la consommation - art. L413-3 (VD)
+	  - Code de la consommation - art. L413-3 (V)
 	  - Code de la consommation - art. L451-1 (VD)
 	  - Code de la consommation - art. L451-1-1 (V)
 	  - Code de la consommation - art. L451-2 (VD)
@@ -20583,13 +20503,9 @@ animale, des boissons ou des produits agricoles ou naturels.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L213-4, alinéas 1 à 5 (Ab)
+	  - DEPLACE: Loi n°2017-203 du 21 février 2017 - art. 11
 
 	**Cité par**:
 
@@ -20608,18 +20524,13 @@ corrompus.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L213-3, III, alinéa 3 (Ab)
-	  - Code de la consommation - art. L213-4, alinéa 7 (Ab)
+	  - DEPLACE: Loi n°2017-203 du 21 février 2017 - art. 11
 
 	**Cite**:
 
-	  - Code de la consommation - art. L413-1 (VD)
+	  - Code de la consommation - art. L413-1 (V)
 
 
 ###### Article L413-4
@@ -20633,18 +20544,16 @@ produits, de fausses indications concernant le nom du fabricant, la raison socia
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L217-1, partiel al1 (Ab)
+	  - DEPLACE: Loi n°2017-203 du 21 février 2017 - art. 11
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L451-9 (VD)
 
+
+##### Section 2 : Autres infractions relatives aux produits
 
 ###### Article L413-5
 
@@ -20656,13 +20565,9 @@ Il est interdit à tout professionnel d'exposer ou de mettre en vente des produi
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L217-1, partiel al2 (Ab)
+	  - DEPLACE: Loi n°2017-203 du 21 février 2017 - art. 11
 
 	**Cité par**:
 
@@ -20681,13 +20586,9 @@ dans les marchandises et servant à les identifier de manière physique ou élec
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L217-2, partiel (Ab)
+	  - DEPLACE: Loi n°2017-203 du 21 février 2017 - art. 11
 
 	**Cité par**:
 
@@ -20705,13 +20606,9 @@ marchandises dont les signes d'identification ont été altérés.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L217-3, partiel (Ab)
+	  - DEPLACE: Loi n°2017-203 du 21 février 2017 - art. 11
 
 	**Cité par**:
 
@@ -20737,13 +20634,9 @@ une indication d'origine.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L217-6, partiel (Ab)
+	  - DEPLACE: Loi n°2017-203 du 21 février 2017 - art. 11
 
 	**Cité par**:
 
@@ -20763,13 +20656,9 @@ certificats d'origine mensongers, par une affirmation verbale ou par tout autre 
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L217-7, partiel (Ab)
+	  - DEPLACE: Loi n°2017-203 du 21 février 2017 - art. 11
 
 	**Cité par**:
 
@@ -21019,7 +20908,7 @@ produits ;
 ###### Article L422-1
 
 Les produits et services ne satisfaisant pas à l'obligation générale de sécurité prévue à l'article L. 421-3 sont interdits
-ou réglementés dans les conditions fixées à l'article L. 422-2.
+ou réglementés dans les conditions fixées à l'article L. 412-1.
 
 **Liens relatifs à cet article**
 
@@ -21027,63 +20916,17 @@ ou réglementés dans les conditions fixées à l'article L. 422-2.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L221-2 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 11
 
 	**Cite**:
 
-	  - Code de la consommation - art. L421-3 (VD)
-	  - Code de la consommation - art. L422-2 (VD)
+	  - Code de la consommation - art. L412-1
+	  - Code de la consommation - art. L421-3
 
 
 ###### Article L422-2
-
-Des décrets en Conseil d'Etat :
-
-1° Fixent, en tant que de besoin, par produits ou catégories de produits, par services ou catégories de services, les
-conditions dans lesquelles la fabrication, l'importation, l'exportation, l'offre, la vente, la distribution à titre gratuit,
-la détention, l'étiquetage, le conditionnement, la circulation des produits ou des services ou le mode d'utilisation de ces
-produits ou services sont interdits ou réglementés ;
-
-2° Déterminent les conditions d'hygiène et de salubrité que doivent observer les personnes qui participent à la fabrication,
-à la transformation, au transport, à l'entreposage, à la vente des produits ou qui assurent des prestations de services ;
-
-3° Peuvent ordonner que ces produits ou services soient retirés du marché ou rappelés en vue de leur modification, de leur
-remboursement total ou partiel ou de leur échange, et prévoir des obligations relatives à l'information des consommateurs.
-Ils peuvent également ordonner la destruction de ces produits lorsque celle-ci constitue le seul moyen de faire cesser le
-danger ;
-
-4° Précisent les conditions selon lesquelles seront mis à la charge des fabricants, importateurs, distributeurs ou
-prestataires de services, les frais afférents aux dispositions de sécurité à prendre en vertu de la réglementation ainsi
-édictée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Créé par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L221-3 (Ab)
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L422-1 (VD)
-	  - Code de la consommation - art. R422-1 (V)
-	  - Code monétaire et financier - art. L500-1 (V)
-
-
-###### Article L422-3
 
 Il est interdit de détenir en vue de la vente ou de la distribution à titre gratuit, de mettre en vente, de vendre, de
 distribuer à titre gratuit, les produits dont l'importation est prohibée par des décisions de la Commission européenne prises
@@ -21101,29 +20944,23 @@ animaux en provenance des pays tiers introduits dans la Communauté, ou qui ne s
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2017-203 du 21 février 2017 - art. 11
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L217-1-1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L422-2 (V)
+	  - Loi n°2017-203 du 21 février 2017 - art. 11
 
 	**Cité par**:
 
-	  - Code de la consommation - art. R452-1 (V)
-	  - Code monétaire et financier - art. L500-1 (M)
+	  - Code de la consommation - art. L422-1 (VD)
+	  - Code de la consommation - art. L422-4 (VD)
+	  - Code de la consommation - art. R422-1 (V)
+	  - Code monétaire et financier - art. L500-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L422-3 (T)
 
 
-###### Article L422-4
+###### Article L422-3
 
 Les mesures prises par la Commission européenne en application de l'article 53 du règlement (CE) n° 178/2002 du Parlement
 européen et du Conseil du 28 janvier 2002 établissant les principes généraux et les prescriptions générales de la législation
@@ -21138,34 +20975,18 @@ titre, constituent des mesures d'exécution de l'article L. 412-1.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
 	**Modifié par**:
 
 	  - Loi n°2017-203 du 21 février 2017 - art. 11
 
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2017-203 du 21 février 2017 - art. 11
-
 	**Anciens textes**:
 
-	  - Code de la consommation - art. L221-11 (Ab)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L412-1 (V)
-	  - Code de la consommation - art. L422-2 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la consommation - art. L422-3 (V)
+	  - Code de la consommation - art. L422-4 (T)
 
 	**Cité par**:
 
-	  - Code de la consommation - art. R452-3 (V)
+	  - Code de la consommation - art. R452-1 (V)
+	  - Code monétaire et financier - art. L500-1 (M)
 
 
 #### Chapitre III : Obligations des producteurs et des distributeurs
@@ -22251,6 +22072,28 @@ d'emprisonnement et de 150 000 euros d'amende.
 
 ##### Section 1 : Falsifications
 
+##### Section 2 : Falsifications
+
+###### Article L451-1-1
+
+La violation des interdictions prévues à l'article L. 413-1 est punie d'une peine d'emprisonnement de deux ans et d'une
+amende de 300 000 euros.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-203 du 21 février 2017 - art. 11
+
+	**Cite**:
+
+	  - Code de la consommation - art. L413-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de la consommation - art. L451-1 (T)
+
+
 ###### Article L451-2
 
 La violation des interdictions prévues à l'article L. 413-1 est punie d'une peine d'emprisonnement de sept ans et d'une
@@ -22464,6 +22307,8 @@ de deux ans et d'une amende de 300 000 euros.
 
 
 ##### Section 2 : Infractions relatives aux produits
+
+##### Section 3 : Autres infractions relatives aux produits
 
 ###### Article L451-9
 
@@ -22682,6 +22527,8 @@ et la diffusion du jugement dans les conditions prévues à l'article 131-35 du 
 
 
 ##### Section 3 : Dispositions relatives à certains établissements
+
+##### Section 4 : Dispositions relatives à certains établissements
 
 ###### Article L451-17
 
@@ -23202,8 +23049,8 @@ et la diffusion du jugement dans les conditions prévues à l'article 131-35 du 
 
 ###### Article L454-1
 
-Le délit de tromperie est constitué par la violation de l'interdiction prévue à l'article L. 441-1. Il est puni d'une peine
-d'emprisonnement de deux ans et d'une amende de 300 000 euros.
+La violation de l'interdiction prévue à l'article L. 441-1 est punie d'une peine d'emprisonnement de deux ans et d'une amende
+de 300 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -23211,17 +23058,13 @@ d'emprisonnement de deux ans et d'une amende de 300 000 euros.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L213-1, sanction (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 11
 
 	**Cite**:
 
-	  - Code de la consommation - art. L441-1 (VD)
+	  - Code de la consommation - art. L441-1
 
 	**Cité par**:
 
@@ -23266,8 +23109,8 @@ opérations ;
 
 ###### Article L454-3
 
-L'interdiction prévue à l'article L. 441-1 est punie d'une peine d'emprisonnement de sept ans et d'une amende de 750 000
-euros si le délit ou la tentative de délit : 
+La violation de l'interdiction prévue à l'article L. 441-1 est punie d'une peine d'emprisonnement de sept ans et d'une amende
+de 750 000 euros si le délit ou la tentative de délit : 
 
 1° A eu pour conséquence de rendre l'utilisation de la marchandise dangereuse pour la santé de l'homme ou de l'animal ; 
 
@@ -23279,17 +23122,13 @@ euros si le délit ou la tentative de délit :
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L213-2, II (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 11
 
 	**Cite**:
 
-	  - Code de la consommation - art. L441-1 (VD)
+	  - Code de la consommation - art. L441-1
 
 
 ###### Article L454-4
@@ -23729,7 +23568,7 @@ infractions ou les manquements aux dispositions mentionnées à la présente sec
 Des fonctionnaires de catégorie A de la concurrence, de la consommation et de la répression des fraudes, spécialement
 habilités à cet effet par le ministre de la justice, sur la proposition du ministre chargé de l'économie, peuvent recevoir
 des juges d'instruction des commissions rogatoires pour rechercher et constater les infractions prévues aux livres Ier, II et
-III ainsi qu'à la section 1 du chapitre III du titre Ier du livre IV et à l'article L. 441-1.
+III ainsi qu'aux articles L. 413-1, L. 413-2, L. 441-1 et L. 452-1.
 
 **Liens relatifs à cet article**
 
@@ -23737,25 +23576,22 @@ III ainsi qu'à la section 1 du chapitre III du titre Ier du livre IV et à l'ar
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L141-1, I, alinéa 1 partiel renvoyant au II bis du L. 450-1 du code de commerce (Ab)
-	  - Code de la consommation - art. L215-19 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 12
 
 	**Cite**:
 
-	  - Code de la consommation - art. L441-1 (VD)
+	  - Code de la consommation - art. L413-1
+	  - Code de la consommation - art. L441-1
+	  - Code de la consommation - art. L452-1
 
 
 ##### Sous-section 2 : Informations précontractuelles, pratiques commerciales, contrats et crédit
 
 ###### Article L511-5
 
-Les agents sont habilités à rechercher et à constater les infractions ou les manquements aux dispositions suivantes : 
+Les agents sont habilités à rechercher et à constater les infractions ou les manquements aux dispositions suivantes :
 
 1° Les sections 1,2,5,10 et 11 du chapitre Ier du titre II du livre Ier ; 
 
@@ -23763,7 +23599,7 @@ Les agents sont habilités à rechercher et à constater les infractions ou les 
 
 3° Les chapitres Ier, II et III du titre II du livre II ; 
 
-4° Les sections 1,2,7,8 et 9 du chapitre IV du titre II du livre II ; 
+4° Les sections 1, 2, 4, 7, 8 et 9 du chapitre IV du titre II du livre II ; 
 
 5° Les chapitres II et III du titre Ier du livre III ; 
 
@@ -23771,15 +23607,22 @@ Les agents sont habilités à rechercher et à constater les infractions ou les 
 
 7° Le chapitre V du titre Ier du livre III ; 
 
-8° Le chapitre II du titre II du livre III. 
+8° Le chapitre II du titre II du livre III ;
+
+9° La section 1 du chapitre Ier du titre II du présent livre. 
 
 Ils disposent à cet effet des pouvoirs définis à la section 1, aux sous-sections 1 à 5 de la section 2 ainsi qu'à la section
 3 du chapitre II du présent titre et peuvent mettre en œuvre les mesures prévues à la section 1 du chapitre Ier du titre II. 
 
 Pour la recherche et la constatation des pratiques commerciales trompeuses mentionnées aux articles L. 121-2 à L. 121-4, ils
-disposent en outre des pouvoirs prévus à l'article L. 512-15 ainsi qu'à la sous-section 6 du chapitre II.
+disposent en outre des pouvoirs prévus à l'article L. 512-15 ainsi qu'à la sous-section 6 de la section 2 du chapitre II du
+présent titre.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
 	**Cité par**:
 
@@ -23802,12 +23645,12 @@ disposent en outre des pouvoirs prévus à l'article L. 512-15 ainsi qu'à la so
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-351 du 25 mars 2016 - art. 6
+	  - Loi n°2017-203 du 21 février 2017 - art. 12
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-2 (VD)
-	  - Code de la consommation - art. L512-15 (VD)
+	  - Code de la consommation - art. L121-2
+	  - Code de la consommation - art. L512-15
 
 
 ###### Article L511-6
@@ -23820,9 +23663,11 @@ Les agents sont habilités à rechercher et à constater les infractions ou les 
 
 3° Les chapitres Ier, II, III, IV, V, VI et VII du titre Ier du livre II ;
 
-4° Les sections 3 et 5 du chapitre IV du titre II du livre II ;
+4° Les sections 3 et 5 et la sous-section 3 de la section 6 du chapitre IV du titre II du livre II ;
 
-5° Le chapitre VI du titre Ier du livre VI.
+5° Le chapitre VI du titre Ier du livre VI ;
+
+6° La section 1 du chapitre Ier du titre II du présent livre.
 
 Ils disposent à cet effet des pouvoirs définis à la section 1 et aux sous-sections 1 à 5 de la section 2 du chapitre II du
 présent titre et peuvent mettre en œuvre les mesures prévues à la section 1 du chapitre Ier du titre II.
@@ -23833,19 +23678,15 @@ présent titre et peuvent mettre en œuvre les mesures prévues à la section 1 
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Loi n°2017-203 du 21 février 2017 - art. 12
 
 	**Cité par**:
 
 	  - Arrêté du 10 mai 2017 - art. 10 (VD)
 	  - Code de la consommation - art. L111-7-1 (V)
 	  - Code de la mutualité - art. L221-18 (V)
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L141-1, II (Ab)
 
 
 ###### Article L511-7
@@ -23895,8 +23736,8 @@ prises pour leur application ;
 
 16° De l'article 18-1 A de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis ; 
 
-17° Du titre I de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines
-opérations portant sur les immeubles et les fonds de commerce ; 
+17° Des titres Ier et III de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives
+à certaines opérations portant sur les immeubles et les fonds de commerce ; 
 
 18° De l'article 4 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de
 la loi n° 86-1290 du 23 décembre 1986 ; 
@@ -23904,7 +23745,9 @@ la loi n° 86-1290 du 23 décembre 1986 ;
 19° Du titre II de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique ; 
 
 20° Du règlement (UE) n° 2015/751 du Parlement européen et du Conseil du 29 avril 2015 relatif aux commissions d'interchange
-pour les opérations de paiement liées à une carte. 
+pour les opérations de paiement liées à une carte ; 
+
+21° De la section 1 du chapitre Ier du titre II du présent livre. 
 
 Ils disposent à cet effet des pouvoirs définis à la section 1, aux sous-sections 1 à 5 de la section 2 ainsi qu'à la section
 3 du chapitre II du présent titre et peuvent mettre en œuvre les mesures prévues à la section 1 du chapitre Ier du titre II.
@@ -23913,18 +23756,24 @@ Ils disposent à cet effet des pouvoirs définis à la section 1, aux sous-secti
 
 	**Cite**:
 
+	  - Loi n°65-557 du 10 juillet 1965 - art. 18-1 A
 	  - Loi n°86-1290 du 23 décembre 1986
+	  - Loi n°89-462 du 6 juillet 1989 - art. 4
+	  - Loi n°2004-575 du 21 juin 2004
+	  - Code monétaire et financier - art. L112-6
 	  - Code de la santé publique - art. L1111-3
+	  - Code de la santé publique - art. L1111-3-2
 	  - Code de la sécurité sociale. - art. L165-9
+	  - Code de l'action sociale et des familles - art. L311-4
+	  - Code de l'action sociale et des familles - art. L314-10-1
+	  - Code de l'action sociale et des familles - art. L314-10-2
+	  - Code de l'action sociale et des familles - art. L314-4
+	  - Code de l'action sociale et des familles - art. L342-1
 	  - Code de la construction et de l'habitation. - art. L271-1
 	  - Code de la construction et de l'habitation. - art. L271-2
 	  - Code de la construction et de l'habitation. - art. L271-6
 	  - Code de la route. - art. L213-2
 	  - Code des transports - art. L3142-5
-
-	**Codifié par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
 	**Cité par**:
 
@@ -23943,9 +23792,13 @@ Ils disposent à cet effet des pouvoirs définis à la section 1, aux sous-secti
 	  - Code des transports - art. L5421-13 (VD)
 	  - Code monétaire et financier - art. L361-1 (V)
 
+	**Codifié par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+
 	**Modifié par**:
 
-	  - Loi n°2016-1920 du 29 décembre 2016 - art. 13 (V)
+	  - Loi n°2017-203 du 21 février 2017 - art. 12
 
 
 ###### Article L511-8
@@ -24039,7 +23892,8 @@ effectuées dans les conditions prévues au présent livre.
 
 ###### Article L511-11
 
-Les agents sont habilités à rechercher et constater les infractions aux dispositions du livre IV.
+Les agents sont habilités à rechercher et constater les infractions aux dispositions du livre IV ainsi qu'à l'article L.
+521-1, à la section 2 du chapitre Ier du titre II et à la section 1 du chapitre Ier du titre III du présent livre.
 
 **Liens relatifs à cet article**
 
@@ -24047,15 +23901,13 @@ Les agents sont habilités à rechercher et constater les infractions aux dispos
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Loi n°2017-203 du 21 février 2017 - art. 12
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de la consommation - art. L115-31, alinéa 4 partiel (Ab)
-	  - Code de la consommation - art. L215-1, I, 1° partielart. L. 115-31, alinéa 4 partiel (Ab)
-	  - Code de la consommation - art. L218-7, alinéa 3 (Ab)
+	  - Code de la consommation - art. L521-1
 
 
 ###### Article L511-12
@@ -24272,7 +24124,7 @@ section 2 du chapitre II.
 
 Ils sont également habilités à prendre les mesures consécutives à ces contrôles définies à l'article 17 du même règlement
 (UE) n° 543/2011 du 7 juin 2011 portant modalités d'application du règlement (CE) n° 1234/2007 du Conseil en ce qui concerne
-les secteurs des fruits et légumes et des fruits et légumes.
+les secteurs des fruits et légumes et des fruits et légumes transformés.
 
 **Liens relatifs à cet article**
 
@@ -24280,13 +24132,9 @@ les secteurs des fruits et légumes et des fruits et légumes.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L218-1-4 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 12
 
 	**Cité par**:
 
@@ -24433,7 +24281,8 @@ section 2 de la section 1 du chapitre Ier dans les conditions définies par cell
 ###### Article L511-22
 
 I-Sont habilités à rechercher et à constater, dans l'exercice de leurs fonctions, les infractions aux dispositions du livre
-IV et les infractions et les manquements mentionnés aux articles L. 511-12 et L. 511-13 : 
+IV et les infractions et les manquements mentionnés aux articles L. 511-12 et L. 511-13, à l'article L. 521-1, à la section 2
+du chapitre Ier du titre II et à la section 1 du chapitre Ier du titre III du présent livre : 
 
 1° Les agents des douanes, 
 
@@ -24484,6 +24333,10 @@ mentionnée à l'article L. 1313-1 du code de la santé publique qui disposent �
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+
 	**Cité par**:
 
 	  - Loi du 3 juillet 1934 - art. 2 (VD)
@@ -24502,45 +24355,37 @@ mentionnée à l'article L. 1313-1 du code de la santé publique qui disposent �
 	  - Code de la consommation - art. L521-4 (VD)
 	  - Code de la santé publique - art. L1454-6 (VD)
 	  - Code de la santé publique - art. L5146-1 (V)
-	  - Code de la santé publique - art. L5146-2 (V)
 	  - Code des transports - art. R5113-7 (V)
 	  - Code du travail - art. L4311-6 (V)
 	  - Code forestier (nouveau) - art. L153-5 (V)
 	  - Code forestier (nouveau) - art. L153-6 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Créé par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L115-31, partiel (Ab)
-	  - Code de la consommation - art. L215-1, alinéas 1 à 17 hors 1° partiel (Ab)
-	  - Code de la consommation - art. L218-1-1, partiel autres agents (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 12
 
 	**Cite**:
 
-	  - Code de la consommation - art. L511-12 (VD)
-	  - Code de la consommation - art. L521-1 (VD)
-	  - Code des postes et des communications électroni... - art. L40 (M)
-	  - Code rural et de la pêche maritime - art. L205-1 (M)
-	  - Code de la santé publique - art. L1312-1 (V)
-	  - Code de la santé publique - art. L1313-1 (V)
-	  - Code de la santé publique - art. L1421-2 (V)
-	  - Code de la santé publique - art. L5311-1 (VT)
-	  - Code de la santé publique - art. L5313-1 (V)
-	  - Code de l'environnement - art. L172-1 (V)
+	  - Code de la consommation - art. L511-12
+	  - Code de la consommation - art. L511-13
+	  - Code de la consommation - art. L521-1
+	  - Code des postes et des communications électroniques - art. L40
+	  - Code rural - art. L205-1
+	  - Code de la santé publique - art. L1312-1
+	  - Code de la santé publique - art. L1313-1
+	  - Code de la santé publique - art. L1421-2
+	  - Code de la santé publique - art. L5146-2 (V)
+	  - Code de la santé publique - art. L5311-1
+	  - Code de la santé publique - art. L5313-1
+	  - Code de l'environnement - art. L172-1
 
 
 ###### Article L511-23
 
 Les agents mentionnés aux articles L. 1421-1 et L. 1435-7 du code de la santé publique ayant la qualité de médecin ou de
 pharmacien sont habilités à procéder à la recherche et à la constatation des infractions aux dispositions du chapitre III du
-titre III du livre IV et des textes pris pour son application. 
+titre III du livre IV et des textes pris pour son application ainsi qu'à l'article L. 521-1, à la section 2 du chapitre Ier
+du titre II et à la section 1 du chapitre Ier du titre III du présent livre. 
 
 Ils disposent à cet effet des pouvoirs définis à la section 1 et aux sous-sections 1 à 8 de la section 2 du chapitre II du
 présent titre et peuvent mettre en œuvre les mesures prévues à l'article L. 521-1 ainsi qu'à la section 2 du chapitre Ier du
@@ -24552,19 +24397,15 @@ titre II.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L115-31, alinéa 5 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 12
 
 	**Cite**:
 
-	  - Code de la consommation - art. L521-1 (VD)
-	  - Code de la santé publique - art. L1421-1 (M)
-	  - Code de la santé publique - art. L1435-7 (MMN)
+	  - Code de la consommation - art. L521-1
+	  - Code de la santé publique - art. L1421-1
+	  - Code de la santé publique - art. L1435-7
 
 
 ###### Article L511-24
@@ -25970,59 +25811,6 @@ d'expert.
 	  - Code de procédure pénale - art. 167 (M)
 
 
-###### Article L512-49
-
-En matière de contrôle microbiologique, le propriétaire ou le détenteur du produit est avisé par le procureur de la
-République qu'il peut prendre communication du dossier, qu'un troisième prélèvement susceptible de motiver l'ouverture d'une
-procédure de poursuites sera effectué ultérieurement sur son produit dans le délai d'un mois au maximum et qu'un délai de
-trois jours francs lui est imparti pour présenter ses observations et pour faire connaître s'il réclame l'expertise
-contradictoire et s'il demande, au surplus, que l'expert de son choix participe à l'opération de prélèvement.
-
-Le propriétaire ou le détenteur du produit peut renoncer explicitement à désigner un expert et un suppléant et s'en rapporter
-aux conclusions de l'expert désigné par le juge d'instruction.
-
-Dans le cas où l'expert participe à l'opération de prélèvement, il est invité, par l'agent verbalisateur, à signer le procès-
-verbal et à y faire insérer éventuellement ses observations. L'agent achemine, séance tenante, l'échantillon faisant l'objet
-de ce troisième prélèvement sur le laboratoire compétent qui a déjà examiné les deux premiers échantillons.
-
-Le procureur de la République ou le juge d'instruction commet deux experts à l'expertise de l'échantillon prélevé, exception
-faite du cas où l'intéressé a déclaré s'en rapporter à l'expert unique désigné dans les mêmes conditions.
-
-Le premier de ces experts est choisi parmi les directeurs de laboratoires d'Etat compétents.
-
-Le second expert est l'expert ou son suppléant choisi par l'intéressé dans la discipline concernée sur les listes prévues à
-l'article 157 du code de procédure pénale.
-
-Les deux experts procèdent en commun, dans le laboratoire auquel l'échantillon a été remis, à l'examen de cet échantillon.
-
-Le procureur de la République ou le juge d'instruction prend toutes mesures pour que le prélèvement et l'expertise qui y fait
-suite immédiatement soient effectués par le laboratoire d'Etat et les experts à la date fixée par lui. Le défaut de l'un des
-experts n'empêche pas l'examen de s'accomplir, avec les effets qui s'attachent à la procédure contradictoire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Créé par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Abrogé par**:
-
-	  - Loi n°2017-203 du 21 février 2017 - art. 12
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L215-17 (Ab)
-	  - Code de la consommation - art. R215-23, alinéas 4, 5 et 6 (Ab)
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. 157
-
-
 ##### Sous-section 10 : Dispositions d'application
 
 ###### Article L512-50
@@ -26998,12 +26786,12 @@ Le ministre chargé de la consommation ou le ou les ministres intéressés peuve
 distributeurs des mises en garde et leur demander de mettre les produits qu'ils offrent au public en conformité avec les
 règles de sécurité et de les soumettre ensuite au contrôle, dans un délai déterminé et à leurs frais, d'un organisme
 présentant des garanties d'indépendance, de compétence et d'impartialité figurant sur une liste fixée par arrêté ministériel
-ou, à défaut, désigné par le ou les ministres intéressés. 
+ou, à défaut, désigné par le ou les ministres intéressés.
 
 Lorsque pour un produit déjà commercialisé, il existe des indices suffisants d'un danger ou quand les caractéristiques d'un
-produit ou service nouveau justifient cette précaution, ils peuvent prescrire aux professionnels concernés de soumettre, dans
-un délai déterminé et à leurs frais, les produits qu'ils offrent au public au contrôle d'un organisme présentant des
-garanties d'indépendance, de compétence et d'impartialité désigné par le ou les ministres. 
+produit nouveau justifient cette précaution, ils peuvent prescrire aux professionnels concernés de soumettre, dans un délai
+déterminé et à leurs frais, les produits qu'ils offrent au public au contrôle d'un organisme présentant des garanties
+d'indépendance, de compétence et d'impartialité désigné par le ou les ministres.
 
 Lorsqu'un produit n'a pas été soumis au contrôle prescrit en application du présent article, il est réputé ne pas répondre
 aux exigences de l'article L. 421-3 et le ministre peut faire procéder d'office, en lieu et place des professionnels
@@ -27015,22 +26803,18 @@ mentionnés au premier alinéa et à leurs frais, à la réalisation de ce contr
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Loi n°2017-203 du 21 février 2017 - art. 12
 
 	**Cité par**:
 
 	  - Code de la consommation - art. D521-4 (V)
 	  - Code de la consommation - art. L521-26 (VD)
 
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L221-7 (Ab)
-
 	**Cite**:
 
-	  - Code de la consommation - art. L421-3 (VD)
+	  - Code de la consommation - art. L421-3
 
 
 ##### Sous-section 2 : Mesures spécifiques applicables aux prestations de services
@@ -27173,8 +26957,8 @@ d'indépendance, de compétence et d'impartialité, qu'elle désigne. Le coût d
 
 ###### Article L521-24
 
-Toute mesure prise en application de l'article L. 521-20 peut prévoir l'obligation pour le prestataire de service d'afficher,
-en un endroit visible de l'extérieur du lieu de la prestation, l'intégralité ou un extrait de cette mesure
+Toute mesure prise en application de l'article L. 521-23 peut prévoir l'obligation pour le prestataire de service d'afficher,
+en un endroit visible de l'extérieur du lieu de la prestation, l'intégralité ou un extrait de cette mesure.
 
 **Liens relatifs à cet article**
 
@@ -27182,17 +26966,13 @@ en un endroit visible de l'extérieur du lieu de la prestation, l'intégralité 
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L221-6, alinéa 3 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 12
 
 	**Cite**:
 
-	  - Code de la consommation - art. L521-20 (VD)
+	  - Code de la consommation - art. L521-23 (V)
 
 
 ###### Article L521-25
@@ -28969,10 +28749,8 @@ celle qui fonde les poursuites.
 
 ###### Article L621-6
 
-A l'audience de renvoi, qui doit intervenir au plus tard dans le délai d'un an à compter de la décision d'ajournement, la
-juridiction statue sur la peine et liquide l'astreinte s'il y a lieu. Elle peut, le cas échéant, supprimer cette dernière ou
-en réduire le montant. L'astreinte est recouvrée par le comptable public compétent comme une amende pénale. Elle ne peut
-donner lieu à contrainte judiciaire.
+L'astreinte est recouvrée par le comptable public compétent comme une amende pénale. Elle ne peut donner lieu à contrainte
+judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -28980,13 +28758,9 @@ donner lieu à contrainte judiciaire.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L421-4, 3ème et 4ème phrases (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 13
 
 
 ##### Section 2 : Action en cessation d'agissements illicites
@@ -29891,10 +29665,10 @@ de commerce ou des articles 101 et 102 du traité sur le fonctionnement de l'Uni
 professionnel ne peut être prononcée dans le cadre de l'action mentionnée à l'article L. 623-1 que sur le fondement d'une
 décision prononcée à l'encontre du professionnel par les autorités ou juridictions nationales ou de l'Union européenne
 compétentes, qui constate les manquements et qui n'est plus susceptible de recours pour la partie relative à l'établissement
-des manquements. 
+des manquements.
 
 Dans ces cas, les manquements du professionnel sont réputés établis de manière irréfragable pour l'application des articles
-L. 623-4 à L. 624-6.
+L. 623-4 à L. 623-6.
 
 **Liens relatifs à cet article**
 
@@ -29902,18 +29676,14 @@ L. 623-4 à L. 624-6.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L423-17 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 13
 
 	**Cite**:
 
-	  - Code de la consommation - art. L623-1 (VD)
-	  - Code de la consommation - art. L623-4 (VD)
+	  - Code de la consommation - art. L623-1
+	  - Code de la consommation - art. L623-4
 
 	**Cité par**:
 
@@ -30305,11 +30075,14 @@ Sauf accord du créancier, sont exclues de toute remise, de tout rééchelonneme
 3° Les dettes ayant pour origine des manœuvres frauduleuses commises au préjudice des organismes de protection sociale
 énumérés à l'article L. 114-12 du code de la sécurité sociale ;
 
-4° Les amendes prononcées dans le cadre d'une condamnation pénale.
+4° (abrogé).
 
 L'origine frauduleuse de la dette est établie soit par une décision de justice, soit par une sanction prononcée par un
 organisme de sécurité sociale dans les conditions prévues aux articles L. 114-17 et L. 114-17-1 du code de la sécurité
 sociale.
+
+Les amendes prononcées dans le cadre d'une condamnation pénale sont exclues de toute remise et de tout rééchelonnement ou
+effacement.
 
 **Liens relatifs à cet article**
 
@@ -30317,13 +30090,9 @@ sociale.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L333-1 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 14
 
 	**Cité par**:
 
@@ -30332,9 +30101,9 @@ sociale.
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L114-12 (V)
-	  - Code de la sécurité sociale. - art. L114-17 (M)
-	  - Code de la sécurité sociale. - art. L114-17-1 (V)
+	  - Code de la sécurité sociale. - art. L114-12
+	  - Code de la sécurité sociale. - art. L114-17
+	  - Code de la sécurité sociale. - art. L114-17-1
 
 
 ###### Article L711-5
@@ -30803,8 +30572,9 @@ contraire de la commission ou du juge intervenant au cours de cette période.
 ###### Article L721-3
 
 Les renseignements relatifs au dépôt d'un dossier de surendettement et à la situation du débiteur ne peuvent être communiqués
-aux créanciers, aux établissements de paiement et aux établissements de crédit qui tiennent les comptes de dépôt du débiteur,
-antérieurement à la décision de recevabilité du dossier, sous peine des sanctions prévues à l'article 226-13 du code pénal. 
+aux créanciers, aux établissements de paiement, aux établissements de monnaie électronique et aux établissements de crédit
+qui tiennent les comptes de dépôt du débiteur, antérieurement à la décision de recevabilité du dossier, sous peine des
+sanctions prévues à l'article 226-13 du code pénal.
 
 Ces dispositions ne font toutefois pas obstacle à l'application des règles prévues aux articles L. 751-1 à L. 752-3, dans les
 limites fixées à ces articles.
@@ -30815,18 +30585,14 @@ limites fixées à ces articles.
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L331-11, alinéa 2 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 14
 
 	**Cite**:
 
-	  - Code de la consommation - art. L751-1 (VD)
-	  - Code pénal - art. 226-13 (V)
+	  - Code de la consommation - art. L751-1
+	  - Code pénal - art. 226-13
 
 	**Cité par**:
 
@@ -30868,10 +30634,14 @@ ou du représentant local de la Banque de France. La commission est ensuite info
 
 ###### Article L721-5
 
-La demande du débiteur formée en application des dispositions de l'article L. 721-1 interrompt la prescription et les délais
+La demande du débiteur formée en application du premier alinéa de l'article L. 733-1 interrompt la prescription et les délais
 pour agir.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
 	**Cité par**:
 
@@ -30879,21 +30649,13 @@ pour agir.
 	  - Arrêté du 26 octobre 2010 - art. 11 (V)
 	  - Arrêté du 26 octobre 2010 - art. 7 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Créé par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L331-7, alinéa 9 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 14
 
 	**Cite**:
 
-	  - Code de la consommation - art. L721-1 (VD)
+	  - Code de la consommation - art. L733-1
 
 
 ###### Article L721-6
@@ -33948,35 +33710,31 @@ Dès qu'une commission de surendettement des particuliers est saisie par un déb
 fins d'inscription au fichier. 
 
 La même obligation pèse sur le greffe du juge du tribunal d'instance lorsque, sur recours de l'intéressé contre une décision
-de recevabilité ou d'orientation rendue par la commission, la situation mentionnée à l'article L. 711-1 est reconnue par ce
-juge ou lorsque le débiteur a bénéficié de l'effacement des dettes résultant d'un rétablissement personnel en application des
-dispositions des articles L. 741-3, L. 741-7, L. 741-8 ou L. 742-22.
+de recevabilité rendue par la commission, la situation mentionnée à l'article L. 711-1 est reconnue par ce juge ou lorsque le
+débiteur a bénéficié de l'effacement des dettes résultant d'un rétablissement personnel en application des dispositions des
+articles L. 741-3, L. 741-7, L. 741-8 ou L. 742-22.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
 	**Cité par**:
 
 	  - Arrêté du 26 octobre 2010 - art. 10 (V)
 	  - Code de la consommation - art. L771-2 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Créé par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L333-4, III, alinéa 1 (Ab)
+	  - Loi n°2017-203 du 21 février 2017 - art. 14
 
 	**Cite**:
 
-	  - Code de la consommation - art. L711-1 (VD)
-	  - Code de la consommation - art. L741-3 (VD)
-	  - Code de la consommation - art. L741-7 (VD)
-	  - Code de la consommation - art. L742-22 (VD)
+	  - Code de la consommation - art. L711-1
+	  - Code de la consommation - art. L741-3
+	  - Code de la consommation - art. L741-7
+	  - Code de la consommation - art. L742-22
 
 
 ###### Article L752-3
