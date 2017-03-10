@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2017-02-23
+Version Consolidée au 2017-03-11
 
 # Partie législative nouvelle
 
@@ -6254,8 +6254,6 @@ prévoyance et d'unions régies par le même code.
 	  - Code de la mutualité - art. L221-18 (V)
 	  - Code de la sécurité sociale. - art. L932-15-1 (V)
 
-
-##### Section 5 : Dispositions d'ordre public
 
 ##### Section 6 : Dispositions d'ordre public
 
@@ -19555,8 +19553,6 @@ Les prescriptions des articles L. 314-15 et L. 314-16 sont prévues à peine de 
 	  - Code de la consommation - art. L314-15 (V)
 
 
-##### Section 4 : Règle de conduite et rémunération 
-
 ##### Section 5 : Règle de conduite et rémunération
 
 ###### Article L341-52
@@ -19579,7 +19575,7 @@ dans des conditions contraires à ces dispositions est puni d'une amende de 30 0
 	  - Code de la consommation - art. L354-3 (VD)
 
 
-##### Section 5 : Prêt viager hypothécaire
+##### Section 6 : Prêt viager hypothécaire
 
 ##### Sous-section 1 : Sanctions civiles
 
@@ -19807,12 +19803,6 @@ pour une durée de cinq ans au plus ;
 	  - Code pénal - art. 131-35 (M)
 	  - Code monétaire et financier - art. L341-1 (M)
 
-
-##### Section 6 : Prêt viager hypothécaire
-
-##### Sous-section 1 : Sanctions civiles
-
-##### Sous-section 2 : Sanctions pénales
 
 #### Chapitre II : Activité d'intermédiaire
 
@@ -22070,8 +22060,6 @@ d'emprisonnement et de 150 000 euros d'amende.
 	  - Code monétaire et financier - art. L500-1 (V)
 
 
-##### Section 1 : Falsifications
-
 ##### Section 2 : Falsifications
 
 ###### Article L451-1-1
@@ -22306,8 +22294,6 @@ de deux ans et d'une amende de 300 000 euros.
 	  - Code de la consommation - art. L451-7 (VD)
 
 
-##### Section 2 : Infractions relatives aux produits
-
 ##### Section 3 : Autres infractions relatives aux produits
 
 ###### Article L451-9
@@ -22525,8 +22511,6 @@ et la diffusion du jugement dans les conditions prévues à l'article 131-35 du 
 	  - Code de la consommation - art. L451-9 (VD)
 	  - Code pénal - art. 131-35 (M)
 
-
-##### Section 3 : Dispositions relatives à certains établissements
 
 ##### Section 4 : Dispositions relatives à certains établissements
 
@@ -29667,9 +29651,6 @@ décision prononcée à l'encontre du professionnel par les autorités ou juridi
 compétentes, qui constate les manquements et qui n'est plus susceptible de recours pour la partie relative à l'établissement
 des manquements.
 
-Dans ces cas, les manquements du professionnel sont réputés établis de manière irréfragable pour l'application des articles
-L. 623-4 à L. 623-6.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -29678,12 +29659,11 @@ L. 623-4 à L. 623-6.
 
 	**Modifié par**:
 
-	  - Loi n°2017-203 du 21 février 2017 - art. 13
+	  - Ordonnance n°2017-303 du 9 mars 2017 - art. 9
 
 	**Cite**:
 
 	  - Code de la consommation - art. L623-1
-	  - Code de la consommation - art. L623-4
 
 	**Cité par**:
 
