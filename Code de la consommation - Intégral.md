@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2017-03-11
+Version Consolidée au 2017-04-07
 
 # Partie législative nouvelle
 
@@ -8085,9 +8085,10 @@ informés des numéros les concernant en application de l'article L. 224-52 sont
 
 Tout fournisseur d'un service téléphonique au public, au sens du 7° de l'article L. 32 du code des postes et des
 communications électroniques, propose au consommateur une option gratuite permettant de bloquer les communications à
-destination de certaines tranches de numéros à valeur ajoutée. Ces tranches de numéros sont définies par un arrêté conjoint
-des ministres chargés de la consommation et de l'économie numérique, pris après avis de l'Autorité de régulation des
-communications électroniques et des postes, qui tient compte du plafond de tarification et du format de ces numéros.
+destination des numéros surtaxés de certaines tranches de numéros à valeur ajoutée. Ces tranches de numéros sont définies par
+un arrêté conjoint des ministres chargés de la consommation et de l'économie numérique, pris après avis de l'Autorité de
+régulation des communications électroniques et des postes, qui tient compte du plafond de tarification et du format de ces
+numéros.
 
 **Liens relatifs à cet article**
 
@@ -8095,21 +8096,17 @@ communications électroniques et des postes, qui tient compte du plafond de tari
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
 	**Cité par**:
 
 	  - Loi n°2016-1321 du 7 octobre 2016 - art. 88 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la consommation - art. L121-47 (Ab)
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 88 (V)
 
 	**Cite**:
 
-	  - Code des postes et des communications électroni... - art. L32 (MMN)
+	  - Code des postes et des communications électroniques - art. L32
 
 
 ###### Article L224-55
