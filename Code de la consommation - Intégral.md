@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2017-04-08
+Version Consolidée au 2017-07-01
 
 # Partie législative nouvelle
 
@@ -3291,7 +3291,8 @@ durée de cinq ans au plus.
 
 ###### Article L141-1
 
-Dans les collectivités relevant de l'article 73 de la Constitution, en cas de situation conjoncturelle où le prix de cession
+Dans les collectivités relevant de l'article 73 de la Constitution et dans les collectivités de Saint-Barthélemy, de Saint-
+Martin, de Saint-Pierre-et-Miquelon et des îles Wallis et Futuna, en cas de situation conjoncturelle où le prix de cession
 par leur producteur de produits agricoles périssables ou de produits issus de cycles courts de production est anormalement
 bas par rapport à la moyenne des prix observés lors de la période correspondante de la précédente campagne, l'observatoire
 des prix, des marges et des revenus mentionné au titre Ier A du livre IX du code de commerce peut proposer au représentant de
@@ -3300,25 +3301,23 @@ consommateur.
 
 **Nota:**
 
-
+Conformément à l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017, ces dispositions entrent en vigueur à la date d'entrée
+en vigueur du décret portant dispositions relatives à l'outre-mer du code de la consommation et au plus tard le 1er juillet
+2017.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Constitution du 4 octobre 1958 - art. 73 (V)
+	  - Constitution du 4 octobre 1958 - art. 73
 
 	**Codifié par**:
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L113-3, alinéa 2 (Ab)
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 1
 
 
 ## Livre II : FORMATION ET ÉXECUTION DES CONTRATS
@@ -11331,19 +11330,68 @@ chapitre III du titre II du livre II de la deuxième partie du code général de
 
 ### Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER
 
-#### Chapitre unique :  Dispositions relatives aux départements et régions d'outre-mer et à certaines collectivités
+#### Chapitre Ier : Conditions générales des contrats
 
 ###### Article L251-1
 
-Pour l'application de l'article L. 412-6 à Saint-Barthélemy et à Saint-Pierre-et-Miquelon, les mots : "à l'article 38 du
-règlement UE n° 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013 portant organisation commune des marchés
-dans le secteur des produits de pêche et de l'aquaculture, modifiant les règlements n° 1184/2006 et n° 1224/2009 du Conseil
-et abrogeant le règlement n° 104/2000 du Conseil" sont remplacés par les mots : "par les règles applicables en métropole en
-vertu de l'article 38 du règlement UE n° 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013 portant
-organisation commune des marchés dans le secteur des produits de pêche et de l'aquaculture, modifiant les règlements n°
-1184/2006 et n° 1224/2009 du Conseil et abrogeant le règlement n° 104/2000 du Conseil".
+Sont applicables dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises les dispositions des
+articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du
+même tableau : 
+
+<table>
+    <tbody>
+      <tr>
+        <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+        <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+L. 218-1 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+L. 218-2
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Code de la consommation - art. L218-1 (V)
+	  - Code de la consommation - art. L218-2 (V)
 
 	**Codifié par**:
 
@@ -11351,11 +11399,274 @@ organisation commune des marchés dans le secteur des produits de pêche et de l
 
 	**Modifié par**:
 
-	  - Loi n°2017-203 du 21 février 2017 - art. 7
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 2
+
+
+#### Chapitre II : Règles de formation et d'exécution des contrats
+
+###### Article L252-1
+
+Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues aux articles L. 252-2 et L. 252-3, les
+dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
+colonne de droite du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td valign="middle" align="justify">
+
+L. 222-1 à L. 222-6 
+
+</td>
+          <td align="justify" valign="middle">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify" valign="middle">
+
+L. 222-7 et L. 222-8 
+
+</td>
+          <td valign="middle" align="justify">
+
+Résultant de la loi n° 2017-203 du 21 février 2017 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify" valign="middle">
+
+L. 222-9 à L. 222-16 
+
+</td>
+          <td valign="middle" align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify" valign="middle">
+
+L. 222-16-1 et L. 222-16-2 
+
+</td>
+          <td align="justify" valign="middle">
+
+Résultant de la loi n° 2016-1691 du 9 décembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td valign="middle" align="justify">
+
+L. 222-18 
+
+</td>
+          <td align="justify" valign="middle">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td valign="middle" align="justify">
+
+L. 242-15
+
+</td>
+          <td align="justify" valign="middle">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de la consommation - art. L224-66
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Loi n°2016-1691 du 9 décembre 2016 (V)
+	  - Loi n°2017-203 du 21 février 2017 (V)
+	  - Code de la consommation - art. L222-1 (V)
+	  - Code de la consommation - art. L222-16-1 (V)
+	  - Code de la consommation - art. L222-18 (V)
+	  - Code de la consommation - art. L222-7 (V)
+	  - Code de la consommation - art. L222-9 (V)
+	  - Code de la consommation - art. L242-15 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 2
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L252-2 (VD)
+
+
+###### Article L252-2
+
+En l'absence d'adaptation, les références faites, par des dispositions des articles mentionnés à l'article L. 252-1, à des
+dispositions qui ne sont pas applicables dans les îles Wallis et Futuna, notamment en matière d'assurance et de mutualité,
+sont remplacées par des références aux dispositions ayant le même objet applicables localement.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 2
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L252-1 (VD)
+
+
+###### Article L252-3
+
+Pour l'application de l'article L. 222-10 dans les îles Wallis et Futuna : 
+
+1° Les mots : “ mentionnés à l'article L. 224-69 ” sont remplacés par les mots : “ ou groupe de contrats, conclus à titre
+onéreux, par lequel un professionnel confère à un consommateur, directement ou indirectement, un droit ou un service
+d'utilisation de biens à temps partagé, ou concernant des produits de vacances à long terme, ou de revente ou d'échange de
+tels droits ou services ” ; 
+
+2° Il est ajouté un alinéa ainsi rédigé : 
+
+“ Les dispositions de cet article ne s'appliquent pas non plus aux contrats de souscription ou de cession de parts ou actions
+de sociétés d'attribution d'immeubles en jouissance à temps partagé régis par les dispositions applicables localement
+relatives aux sociétés d'attribution d'immeubles en jouissance à temps partagé. ”
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de la consommation - art. L222-10 (V)
+
+
+#### Chapitre III : Loi applicable aux contrats transfrontaliers
+
+###### Article L253-1
+
+Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à l'article L. 253-2, les dispositions
+de l'article mentionné dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite
+du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td valign="middle" align="justify">
+
+L. 232-4
+
+</td>
+          <td valign="middle" align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Code de la consommation - art. L232-4 (V)
+	  - Code de la consommation - art. L253-2 (VD)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 2
+
+
+###### Article L253-2
+
+Pour son application dans les îles Wallis et Futuna, l'article L. 232-4 est ainsi rédigé : 
+
+“ Art. L. 232-4.-Lorsque les parties ont choisi la loi d'un Etat autre que la France pour régir le contrat, le juge devant
+lequel est invoquée cette loi est tenu d'en écarter l'application au profit des dispositions plus protectrices de la loi de
+la résidence habituelle du consommateur concernant la protection des consommateurs en matière de commercialisation à distance
+de services financiers. ”
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de la consommation - art. L232-4 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L253-1 (VD)
 
 
 ## Livre III : CRÉDIT
@@ -20117,6 +20428,1300 @@ information.
 	  - Code de la consommation - art. L341-6, sanction (Ab)
 
 
+### Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER
+
+#### Chapitre Ier : Opérations de crédit
+
+##### Section 1 : Définitions
+
+###### Article L351-1
+
+Sont applicables dans les îles Wallis et Futuna, les dispositions de l'article mentionné dans la colonne de gauche du tableau
+ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 311-1
+
+</td>
+          <td align="justify">
+
+Résultant de la loi n° 2017-203 du 21 février 2017
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2017-203 du 21 février 2017 (V)
+	  - Code de la consommation - art. L311-1 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+
+###### Article L351-2
+
+Pour l'application des dispositions du présent titre dans les îles  Wallis et Futuna, les références faites à des
+dispositions du code du  travail sont remplacées par les références aux dispositions applicables  localement ayant le même
+effet.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+
+##### Section 2 : Crédit à la consommation
+
+###### Article L351-3
+
+Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à l'article L. 351-4, les dispositions
+des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite
+du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 312-1 
+
+</td>
+          <td align="justify">
+
+Résultant de la loi n° 2017-203 du 21 février 2017 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 312-2 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 312-4 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-351 du 25 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 312-5 à L. 312-18 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 312-19 et L. 312-20 
+
+</td>
+          <td align="justify">
+
+Résultant de la loi n° 2017-203 du 21 février 2017 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 312-21 à L. 312-43 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 312-44 
+
+</td>
+          <td align="justify">
+
+Résultant de la loi n° 2017-203 du 21 février 2017 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 312-45 à L. 312-58 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 312-59 
+
+</td>
+          <td align="justify">
+
+Résultant de la loi n° 2017-203 du 21 février 2017 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 312-60 à L. 312-71 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 312-72 
+
+</td>
+          <td align="justify">
+
+Résultant de la loi n° 2017-203 du 21 février 2017 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 312-73 à L. 312-77 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 312-78 
+
+</td>
+          <td align="justify">
+
+Résultant de la loi n° 2017-203 du 21 février 2017 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 312-79 et L. 312-80 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 312-81 
+
+</td>
+          <td align="justify">
+
+Résultant de la loi n° 2017-203 du 21 février 2017 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 312-82 à L. 312-94
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Ordonnance n°2016-351 du 25 mars 2016 (V)
+	  - Loi n°2017-203 du 21 février 2017 (V)
+	  - Code de la consommation - art. L312-1 (V)
+	  - Code de la consommation - art. L312-19 (V)
+	  - Code de la consommation - art. L312-2 (V)
+	  - Code de la consommation - art. L312-21 (V)
+	  - Code de la consommation - art. L312-4 (V)
+	  - Code de la consommation - art. L312-44 (V)
+	  - Code de la consommation - art. L312-45 (V)
+	  - Code de la consommation - art. L312-5 (V)
+	  - Code de la consommation - art. L312-59 (V)
+	  - Code de la consommation - art. L312-60 (V)
+	  - Code de la consommation - art. L312-72 (V)
+	  - Code de la consommation - art. L312-73 (V)
+	  - Code de la consommation - art. L312-78 (V)
+	  - Code de la consommation - art. L312-79 (V)
+	  - Code de la consommation - art. L312-81 (V)
+	  - Code de la consommation - art. L312-82 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L351-4 (VD)
+
+
+###### Article L351-4
+
+Pour l'application dans les îles Wallis et Futuna de l'article L. 351-3 : 
+
+1° Au 3° de l'article L. 312-4, le montant : “ 200 € ” est remplacé par le montant : “ 24 000 francs CFP ” et le montant : “
+75 000 € ” est remplacé par le montant : “ 8 950 000 francs CFP ” ; 
+
+2° Aux 2° et 3° de l'article L. 312-7, les mots : “ en euros ” sont remplacés par les mots : “ en francs CFP ” ; 
+
+3° A l'article L. 312-20, le premier alinéa est ainsi rédigé : 
+
+“ Pour la détermination des délais relatifs aux offres de crédit : ”.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de la consommation - art. L312-20 (V)
+	  - Code de la consommation - art. L312-4 (V)
+	  - Code de la consommation - art. L312-7 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L351-3 (VD)
+
+
+##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier
+
+##### Sous-section 1 : Dispositions applicables en Polynésie française et en Nouvelle-Calédonie
+
+###### Article L351-5
+
+Sont applicables en Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations prévues à l'article L. 351-6,
+les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
+colonne de droite du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 314-1 à L. 314-4 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-351 du 25 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 314-5 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 314-6 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-351 du 25 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 314-7 à L. 314-9 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 314-22 
+
+</td>
+          <td align="justify">
+
+Résultant de la loi n° 2017-203 du 21 février 2017 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 314-23, à l'exception de son quatrième alinéa et de son dernier alinéa, L. 314-24 et L. 314-25 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-351 du 25 mars 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Ordonnance n°2016-351 du 25 mars 2016 (V)
+	  - Loi n°2017-203 du 21 février 2017 (V)
+	  - Code de la consommation - art. L314-1 (V)
+	  - Code de la consommation - art. L314-22 (V)
+	  - Code de la consommation - art. L314-23 (V)
+	  - Code de la consommation - art. L314-24 (V)
+	  - Code de la consommation - art. L314-5 (V)
+	  - Code de la consommation - art. L314-6 (V)
+	  - Code de la consommation - art. L314-7 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L351-6 (VD)
+
+
+###### Article L351-6
+
+Pour l'application de l'article L. 351-5 : 
+
+1° Sont remplacées par les références aux dispositions applicables localement ayant le même effet, les références au code des
+assurances et à l'attestation de formation établie pour les personnes chargées de fournir à l'emprunteur les explications sur
+les prêts ; 
+
+2° A l'article L. 314-6, les mots : “ 75 000 euros ” sont remplacés par les mots : “ 8 950 000 francs CFP ” ; 
+
+3° Pour l'application de l'article L. 314-24, les mots : “, la fourniture de service de conseil mentionné aux articles L.
+313-13 et L. 313-14 ” sont supprimés ; 
+
+4° Pour l'application de l'article L. 314-25, les mots : “ à L. 312-3 ” sont remplacés par les mots : “ et L. 312-2 ”.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de la consommation - art. L314-24 (V)
+	  - Code de la consommation - art. L314-25 (V)
+	  - Code de la consommation - art. L314-6 (V)
+	  - Code de la consommation - art. L351-5 (VD)
+
+
+##### Sous-section 2 : Dispositions applicables dans les îles Wallis et Futuna
+
+###### Article L351-7
+
+Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à l'article L. 351-8, les dispositions
+des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite
+du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 314-1 à L. 314-4 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-351 du 25 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 314-5 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 314-6 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-351 du 25 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 314-7 à L. 314-10 et L. 314-13 à L. 314-20 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 314-22 
+
+</td>
+          <td align="justify">
+
+Résultant de la loi n° 2017-203 du 21 février 2017 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 314-23, à l'exception de son quatrième et de son dernier alinéa, et L. 314-25 à L. 314-26
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-351 du 25 mars 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Ordonnance n°2016-351 du 25 mars 2016 (V)
+	  - Loi n°2017-203 du 21 février 2017 (V)
+	  - Code de la consommation - art. L314-1 (V)
+	  - Code de la consommation - art. L314-13 (V)
+	  - Code de la consommation - art. L314-22 (V)
+	  - Code de la consommation - art. L314-23 (V)
+	  - Code de la consommation - art. L314-25 (V)
+	  - Code de la consommation - art. L314-5 (V)
+	  - Code de la consommation - art. L314-6 (V)
+	  - Code de la consommation - art. L314-7 (V)
+	  - Code de la consommation - art. L351-8 (VD)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+
+###### Article L351-8
+
+Pour l'application de l'article L. 351-7 dans les îles Wallis et Futuna : 
+
+1° A l'article L. 314-6, les mots : “ 75 000 euros ” sont remplacés par les mots : “ 8 950 000 francs CFP ” ; 
+
+2° A l'article L. 314-14, les mots : “ L. 314-10 à L. 314-13 ” sont remplacés par les mots : “ L. 314-10 et L. 314-13 ” ; 
+
+3° Aux articles L. 314-15 à L. 314-19, les termes : “ ou III ” sont supprimés ; 
+
+4° Les références à l'attestation de formation établie pour les personnes chargées de fournir à l'emprunteur les explications
+sur les prêts sont remplacées par les références aux dispositions applicables localement ayant le même effet.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de la consommation - art. L314-14 (V)
+	  - Code de la consommation - art. L314-15 (V)
+	  - Code de la consommation - art. L314-6 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L351-7 (VD)
+
+
+#### Chapitre II :  Activité d'intermédiaire
+
+###### Article L352-1
+
+Sont applicables dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie, sous réserve des
+adaptations prévues à l'article L. 352-2, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-
+après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 321-1 
+
+</td>
+          <td align="justify">
+
+Résultant de la loi n° 2017-203 du 21 février 2017 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 321-2
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Loi n°2017-203 du 21 février 2017 (V)
+	  - Code de la consommation - art. L321-1 (V)
+	  - Code de la consommation - art. L321-2 (V)
+	  - Code de la consommation - art. L352-2 (VD)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+
+###### Article L352-2
+
+Pour l'application de l'article L. 321-1 en Polynésie française et en Nouvelle-Calédonie, les références au code de commerce
+sont remplacées par les références aux dispositions applicables localement ayant le même effet.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de la consommation - art. L321-1 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L352-1 (VD)
+
+
+###### Article L352-3
+
+Sont applicables en Polynésie française et en Nouvelle-Calédonie, les dispositions des articles mentionnés dans la colonne de
+gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 322-1 et L. 322-4
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Code de la consommation - art. L322-1 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+
+###### Article L352-4
+
+Sont applicables dans les îles Wallis et Futuna, les dispositions des articles mentionnés dans la colonne de gauche du
+tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="justify" valign="middle">
+
+L. 322-1 à L. 322-4
+
+</td>
+          <td align="justify" valign="middle">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Code de la consommation - art. L322-1 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+
+#### Chapitre III :  Cautionnement
+
+###### Article L353-1
+
+Sont applicables dans les îles Wallis et Futuna, les dispositions des articles mentionnés dans la colonne de gauche du
+tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td valign="middle" align="justify">
+
+L. 331-1 à L. 331-3, L. 332-1, L. 333-1 et L. 333-2
+
+</td>
+          <td align="justify" valign="middle">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Code de la consommation - art. L331-1 (V)
+	  - Code de la consommation - art. L332-1 (V)
+	  - Code de la consommation - art. L333-1 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+
+#### Chapitre IV :  Sanctions
+
+###### Article L354-1
+
+Pour l'application du présent chapitre en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna : 
+
+1° Les mots : “ 30 000 euros ” sont remplacés par les mots : “ 3 580 000 francs CFP ” ; 
+
+2° Les mots : “ 150 000 euros ” sont remplacés par les mots : “ 17 900 000 francs CFP ” ; 
+
+3° Les mots : “ 300 000 euros ” sont remplacés par les mots : “ 35 800 000 francs CFP ” ; 
+
+4° Les mots : “ 375 000 euros ” sont remplacés par les mots : “ 44 750 000 francs CFP ”.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L354-2 (VD)
+	  - Code de la consommation - art. L354-3 (VD)
+	  - Code de la consommation - art. L354-4 (VD)
+	  - Code de la consommation - art. L354-6 (VD)
+
+
+##### Section 1 : Sanctions relatives au crédit à la consommation 
+
+###### Article L354-2
+
+Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à l'article L. 354-1, les dispositions
+des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite
+du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 341-1 à L. 341-20
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Code de la consommation - art. L341-1 (V)
+	  - Code de la consommation - art. L354-1 (VD)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+
+##### Section 2 : Sanctions communes au crédit immobilier et au crédit à la consommation
+
+###### Article L354-3
+
+Sont applicables en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna, sous réserve des
+adaptations prévues à l'article L. 354-1, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-
+après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 341-48 à L. 341-51 et L. 341-52
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-351 du 25 mars 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-351 du 25 mars 2016 (V)
+	  - Code de la consommation - art. L341-48 (V)
+	  - Code de la consommation - art. L341-52 (V)
+	  - Code de la consommation - art. L354-1 (VD)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+
+##### Section 3 : Sanctions relatives aux intermédiaires 
+
+##### Sous-section 1 : Dispositions applicables à la Polynésie française et à la Nouvelle-Calédonie
+
+###### Article L354-4
+
+Sont applicables en en Polynésie française et en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles L.
+354-1 et L. 354-5, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur
+rédaction indiquée dans la colonne de droite du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 342-1 et L. 342-4 à L. 342-6
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Code de la consommation - art. L342-1 (V)
+	  - Code de la consommation - art. L342-4 (V)
+	  - Code de la consommation - art. L354-1 (VD)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L354-5 (VD)
+
+
+###### Article L354-5
+
+Pour l'application de l'article L. 354-4, les dispositions de l'article L. 342-6 ne s'appliquent qu'aux dispositions visées
+par les articles L. 342-4 et L. 342-5.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de la consommation - art. L342-4 (V)
+	  - Code de la consommation - art. L342-6 (V)
+	  - Code de la consommation - art. L354-4 (VD)
+
+
+##### Sous-section 2 : Dispositions applicables aux îles Wallis et Futuna
+
+###### Article L354-6
+
+Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à l'article L. 354-1, les dispositions
+des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite
+du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 342-1 à L. 342-6
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Code de la consommation - art. L342-1 (V)
+	  - Code de la consommation - art. L354-1 (VD)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+
+##### Section 4 : Sanctions relatives au cautionnement
+
+###### Article L354-7
+
+Sont applicables dans les îles Wallis et Futuna, les dispositions des articles mentionnés dans la colonne de gauche du
+tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 343-1 à L. 343-6
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Code de la consommation - art. L343-1 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+
+
 ## Livre IV : CONFORMITÉ ET SÉCURITÉ DES PRODUITS ET SERVICES
 
 ### Titre Ier : CONFORMITÉ
@@ -23413,36 +25018,178 @@ provenant des végétaux résineux ;
 
 ### Titre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER
 
-#### Chapitre Ier : Dispositions relatives à Wallis-et-Futuna
+#### Chapitre Ier : Conformité
 
 ###### Article L461-1
 
-L'article L. 425-1 est applicable à Wallis-et-Futuna dans sa rédaction résultant de la loi n° 2016-1428 du 24 octobre 2016
-relative au renforcement de la sécurité de l'usage des drones civils.
+Pour l'application de l'article L. 412-6 à Saint-Barthélemy et à Saint-Pierre-et-Miquelon, les mots : “ à l'article 38 du
+règlement UE n° 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013 portant organisation commune des marchés
+dans le secteur des produits de pêche et de l'aquaculture, modifiant les règlements n° 1184/2006 et n° 1224/2009 du Conseil
+et abrogeant le règlement n° 104/2000 du Conseil ” sont remplacés par les mots : “ par les règles applicables en métropole en
+vertu de l'article 38 du règlement UE n° 1379/2013 du Parlement européen et du Conseil du 11 décembre 2013 portant
+organisation commune des marchés dans le secteur des produits de pêche et de l'aquaculture, modifiant les règlements n°
+1184/2006 et n° 1224/2009 du Conseil et abrogeant le règlement n° 104/2000 du Conseil ”.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2016-1428 du 24 octobre 2016 - art. 6
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de la consommation - art. L412-6 (V)
 
 
-#### Chapitre II : Dispositions relatives aux Terres australes et antarctiques françaises
+#### Chapitre II : Valorisation des produits et services
 
 ###### Article L462-1
 
-L'article L. 425-1 est applicable dans les Terres australes et antarctiques françaises dans sa rédaction résultant de la loi
-n° 2016-1428 du 24 octobre 2016 relative au renforcement de la sécurité de l'usage des drones civils.
+Sont applicables dans les îles Wallis et Futuna, les dispositions des articles mentionnés dans la colonne de gauche du
+tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 431-2, L. 453-1 et L. 453-9
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°2016-1428 du 24 octobre 2016 - art. 6
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Code de la consommation - art. L431-2 (V)
+	  - Code de la consommation - art. L453-1 (V)
+	  - Code de la consommation - art. L453-9 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 4
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L462-2 (VD)
+
+
+###### Article L462-2
+
+Pour l'application de l'article L. 462-1 : 
+
+1° A l'article L. 431-2, les références aux articles L. 641-7 et L. 642-3 du code rural et de la pêche maritime sont
+remplacées par les références aux dispositions applicables localement ayant le même effet ; 
+
+2° A l'article L. 453-1, les mots : “ 300 000 euros ” sont remplacés par les mots : “ 35 800 000 francs CFP ”.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de la consommation - art. L431-2 (V)
+	  - Code de la consommation - art. L453-1 (V)
+	  - Code de la consommation - art. L462-1 (VT)
+	  - Code rural et de la pêche maritime - art. L641-7 (M)
+	  - Code rural et de la pêche maritime - art. L642-3 (M)
+
+
+#### Chapitre III : Sécurité
+
+###### Article L463-1
+
+Sont applicables dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises, les dispositions de
+l'article mentionné dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du
+même tableau : 
+
+<table>
+    <tbody>
+      <tr>
+        <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+        <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+L. 425-1
+
+</td>
+        <td align="justify" valign="middle">
+
+Résultant de la loi n° 2016-1428 du 24 octobre 2016
+
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
+date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
+tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2016-1428 du 24 octobre 2016 (V)
+	  - Code de la consommation - art. L425-1 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 4
 
 
 ## Livre V : POUVOIRS D'ENQUÊTE ET SUITES DONNÉES AUX CONTRÔLES
@@ -27858,6 +29605,151 @@ d'emprisonnement de deux ans et d'une amende de 30 000 euros.
 	  - Code de la consommation - art. L521-23 (VD)
 
 
+### Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER
+
+#### Chapitre unique : Recherche et constatation
+
+
+###### Article L541-1
+
+Sont applicables aux agents assermentés de la Nouvelle-Calédonie mentionnés à l'article 86 de la loi organique n° 99-209 du
+19 mars 1999 relative à la Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles L. 541-2 et L. 541-3, les
+dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
+colonne de droite du même tableau : 
+
+<table>
+    <tbody>
+      <tr>
+        <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+        <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+L. 512-2 à L. 512-17, L. 512-22 à L. 512-33, L. 512-39 à L. 512-50 et L. 531-1 à L. 531-5
+
+</td>
+        <td align="left">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'entrée en vigueur du décret portant dispositions relatives à l'outre-mer du code de la consommation et au plus tard le 1er
+juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 86 (V)
+	  - Ordonnance n°2016-301 du 14 mars 2016
+	  - Code de la consommation - art. L512-2 (V)
+	  - Code de la consommation - art. L512-22 (V)
+	  - Code de la consommation - art. L512-39 (V)
+	  - Code de la consommation - art. L531-1 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 5
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L541-2 (VD)
+
+
+###### Article L541-2
+
+Les dispositions mentionnées à l'article L. 541-1 sont applicables à la Nouvelle-Calédonie sous réserve des adaptations
+suivantes : 
+
+1° A l'article L. 512-2, les mots : “ et les manquements sont constatés ” sont remplacés par les mots : “ sont constatées
+” ; 
+
+2° A l'article L. 512-4, la seconde phrase est supprimée ; 
+
+3° A l'article L. 512-7, les mots : ou du manquement et ou d'un manquement sont supprimés ; 
+
+4° A l'article L. 512-13, les mots : “ ou un manquement ” sont supprimés ; 
+
+5° A l'article L. 512-15, les mots : “ mentionnée à l'article L. 122-1 ” sont supprimés ; 
+
+6° A l'article L. 512-17, au 3e alinéa, les mots : “ ou de police administrative ” sont supprimés ; 
+
+7° A l'article L. 512-29, au 3°, les mots : “ dans les cas prévus aux articles L. 413-1 et L. 413-2 ” sont supprimés et le 5°
+est abrogé.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code de la consommation - art. L512-13 (V)
+	  - Code de la consommation - art. L512-15 (V)
+	  - Code de la consommation - art. L512-17 (V)
+	  - Code de la consommation - art. L512-2 (V)
+	  - Code de la consommation - art. L512-29 (V)
+	  - Code de la consommation - art. L512-4 (V)
+	  - Code de la consommation - art. L512-7 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L541-1 (VD)
+
+
+###### Article L541-3
+
+Pour l'application en Nouvelle-Calédonie : 
+
+1° A l'article L. 512-6, le mot : “ grande ” est remplacé par le mot : “ première ” ; 
+
+2° A l'article L. 512-14, les mots : “ et des établissements et organisme placés sous le contrôle de l'Etat et des
+collectivités territoriales ainsi que dans les entreprises concédées par l'Etat, les régions, les départements et les
+communes ” sont remplacés par les mots : “ de la collectivité, des Provinces et des communes ” ; 
+
+3° Les sanctions pécuniaires encourues en vertu du présent livre sont prononcées en monnaie locale, compte tenu de la contre-
+valeur de l'euro dans cette monnaie.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code de la consommation - art. L512-14 (V)
+	  - Code de la consommation - art. L512-6 (V)
+
+
 ## Livre VI : RÈGLEMENT DES LITIGES
 
 ### Titre Ier : MÉDIATION
@@ -29910,32 +31802,155 @@ morale dans les conditions prévues au chapitre II du titre II du livre V.
 
 ### Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER
 
-#### Chapitre unique :  Dispositions communes
+#### Chapitre Ier : Médiation
 
 ###### Article L651-1
 
-Dans les collectivités relevant de l'article 73 de la Constitution, les associations de défense des consommateurs
-représentatives au niveau local peuvent également agir dans les mêmes conditions que les associations mentionnées à l'article
-L. 623-1.
+Pour l'application des articles L. 614-1 à L. 614-4 à Saint-Barthélemy et à Saint-Pierre-et-Miquelon, les mots : " le
+règlement (UE) n° 524/2013 du Parlement européen et du Conseil du 21 mai 2013 relatif au règlement en ligne des litiges de
+consommation et modifiant le règlement (CE) n° 2006/2004 et la directive 2009/22/ CE " sont remplacés par les mots : " les
+règles en vigueur en métropole en vertu des dispositions du règlement (UE) n° 524/2013 du Parlement européen et du Conseil du
+21 mai 2013 relatif au règlement en ligne des litiges de consommation et modifiant le règlement (CE) n° 2006/2004 et la
+directive 2009/22/ CE ".
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code de la consommation - art. L614-1 (V)
+
+
+###### Article L651-2
+
+Pour l'application de l'article L. 616-2 à Saint-Barthélemy et à Saint-Pierre-et-Miquelon, les mots : “ l'article 14 du
+règlement (UE) n° 524/2013 du Parlement européen et du Conseil du 21 mai 2013 relatif au règlement en ligne des litiges de
+consommation et modifiant le règlement (CE) n° 2006/2004 et la directive 2009/22/ CE ” sont remplacés par les mots : “ les
+règles en vigueur en métropole en vertu des dispositions de l'article 14 du règlement (UE) n° 524/2013 du Parlement européen
+et du Conseil du 21 mai 2013 relatif au règlement en ligne des litiges de consommation et modifiant le règlement (CE) n°
+2006/2004 et la directive 2009/22/ CE ”.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code de la consommation - art. L616-2 (V)
+
+
+#### Chapitre II : Action de groupe
+
+###### Article L652-1
+
+Dans les collectivités relevant de l'article 73 de la Constitution et dans les collectivités de Saint-Barthélemy, de Saint-
+Martin, de Saint-Pierre-et-Miquelon et des îles Wallis et Futuna, les associations de consommateurs représentatives au niveau
+local peuvent également agir, dans les mêmes conditions que les associations mentionnées à l'article L. 623-1.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Constitution du 4 octobre 1958 - art. 73 (V)
-	  - Code de la consommation - art. L623-1 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Code de la consommation - art. L623-1 (V)
 
 	**Créé par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 6
 
-	**Anciens textes**:
 
-	  - Code de la consommation - art. L423-1, alinéa 5 (Ab)
+###### Article L652-2
+
+Sont applicables dans les îles Wallis et Futuna, les dispositions des articles mentionnés dans la colonne de gauche du
+tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="justify" valign="middle">
+
+L. 623-1 à L. 623-9 et L. 623-11 à L. 623-32 
+
+</td>
+          <td valign="middle" align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td valign="middle" align="justify">
+
+L. 623-10
+
+</td>
+          <td valign="middle" align="justify">
+
+Résultant de la loi n° 2016-1547 du 18 novembre 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Loi n°2016-1547 du 18 novembre 2016 (V)
+	  - Code de la consommation - art. L623-1 (V)
+	  - Code de la consommation - art. L623-10 (V)
+	  - Code de la consommation - art. L623-11 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 6
 
 
 ## Livre VII : TRAITEMENT DES SITUATIONS DE SURENDETTEMENT
@@ -33907,6 +35922,1047 @@ de France et les entreprises mentionnées au premier alinéa de l'article L. 751
 	  - Code pénal - art. 226-18 (M)
 
 
+### Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER
+
+#### Chapitre unique : Traitement des situations de surendettement 
+
+
+##### Section 1 : Dispositions relatives aux îles Wallis et Futuna 
+
+###### Article L771-1
+
+Une commission de surendettement des particuliers siège dans les îles Wallis et Futuna.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 7
+
+
+###### Article L771-2
+
+Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à l'article L. 771-3, les dispositions
+des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite
+du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 711-1 à L. 711-3 et L. 711-6 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 711-4 
+
+</td>
+          <td align="justify">
+
+Résultant de la loi n° 2017-203 du 21 février 2017 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 712-1 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 712-2 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
+novembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 712-3 et L. 712-5 à L. 712-9 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 713-1 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 721-1, L. 721-2, L. 721-4 et L. 721-6 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 721-3 et L. 721-5 
+
+</td>
+          <td align="justify">
+
+Résultant de la loi n° 2017-203 du 21 février 2017 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 722-1 à L. 722-3 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 722-5 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2017-86 du 27 janvier
+2017 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 722-6 ET L. 722-7 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 722-9 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
+novembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 722-11 à L. 722-13 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 722-14 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
+novembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 722-15 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 723-1 à L. 723-4 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 724-1 à L. 724-4 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
+novembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 731-1 
+
+</td>
+          <td align="justify">
+
+résultant de la loi n° 2016-1691 du 9 décembre 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18 novembre
+2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 731-2 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 731-3 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
+novembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 732-1 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1691 du 9 décembre
+2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 732-2 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 732-3 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1691 du 9 décembre
+2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 732-4 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016. Article abrogé à compter du 1er janvier 2018 par la loi n° 2016-1691
+du 9 décembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 733-1 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1691 du 9 décembre
+2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 733-2 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
+novembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 733-3 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 733-4 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
+novembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 733-5 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 733-6 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
+novembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 733-7 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
+novembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 733-8 à L. 733-17 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
+novembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 733-18 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 741-1 à L. 741-9 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
+novembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 741-10 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 742-1 et L. 742-2 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
+novembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 742-3 à L. 742-16 et L. 742-18 à L. 742-23 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 742-24 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
+novembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 742-25 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 743-1 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
+novembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 743-2 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 751-1 à L. 751-6 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 752-1 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 752-2 
+
+</td>
+          <td align="justify">
+
+Résultant de la loi n° 2017-203 du 21 février 2017 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 752-3 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
+novembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 761-1 et L. 761-2 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
+novembre 2016 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 762-1 et L. 762-2 
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Loi n°2016-1547 du 18 novembre 2016 (V)
+	  - Loi n°2016-1691 du 9 décembre 2016 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 (V)
+	  - Loi n°2017-203 du 21 février 2017 (V)
+	  - Code de la consommation - art. L711-1 (V)
+	  - Code de la consommation - art. L711-4 (V)
+	  - Code de la consommation - art. L711-6 (V)
+	  - Code de la consommation - art. L712-1 (V)
+	  - Code de la consommation - art. L712-2 (VT)
+	  - Code de la consommation - art. L712-3 (V)
+	  - Code de la consommation - art. L712-5 (V)
+	  - Code de la consommation - art. L713-1 (V)
+	  - Code de la consommation - art. L721-1 (V)
+	  - Code de la consommation - art. L721-3 (V)
+	  - Code de la consommation - art. L721-4 (V)
+	  - Code de la consommation - art. L722-1 (V)
+	  - Code de la consommation - art. L722-11 (V)
+	  - Code de la consommation - art. L722-14 (VT)
+	  - Code de la consommation - art. L722-15 (V)
+	  - Code de la consommation - art. L722-5 (V)
+	  - Code de la consommation - art. L722-6 (V)
+	  - Code de la consommation - art. L722-9 (VT)
+	  - Code de la consommation - art. L723-1 (V)
+	  - Code de la consommation - art. L724-1 (VT)
+	  - Code de la consommation - art. L731-1 (VT)
+	  - Code de la consommation - art. L731-2 (V)
+	  - Code de la consommation - art. L731-3 (VT)
+	  - Code de la consommation - art. L732-1 (VT)
+	  - Code de la consommation - art. L732-2 (V)
+	  - Code de la consommation - art. L732-3 (VT)
+	  - Code de la consommation - art. L732-4 (VT)
+	  - Code de la consommation - art. L733-1 (VT)
+	  - Code de la consommation - art. L733-18 (VT)
+	  - Code de la consommation - art. L733-2 (VT)
+	  - Code de la consommation - art. L733-3 (V)
+	  - Code de la consommation - art. L733-4 (VT)
+	  - Code de la consommation - art. L733-5 (V)
+	  - Code de la consommation - art. L733-6 (VT)
+	  - Code de la consommation - art. L733-7 (VT)
+	  - Code de la consommation - art. L733-8 (VT)
+	  - Code de la consommation - art. L741-1 (VT)
+	  - Code de la consommation - art. L741-10 (VT)
+	  - Code de la consommation - art. L742-1 (VT)
+	  - Code de la consommation - art. L742-18 (V)
+	  - Code de la consommation - art. L742-24 (VT)
+	  - Code de la consommation - art. L742-25 (V)
+	  - Code de la consommation - art. L742-3 (V)
+	  - Code de la consommation - art. L743-1 (VT)
+	  - Code de la consommation - art. L743-2 (V)
+	  - Code de la consommation - art. L751-1 (V)
+	  - Code de la consommation - art. L752-1 (V)
+	  - Code de la consommation - art. L752-2 (VT)
+	  - Code de la consommation - art. L752-3 (VT)
+	  - Code de la consommation - art. L761-1 (VT)
+	  - Code de la consommation - art. L762-1 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 7
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L771-3 (VD)
+
+
+###### Article L771-3
+
+Pour l'application de l'article L. 771-2 : 
+
+1° Ne sont pas applicables : 
+
+a) Le dernier alinéa de l'article L. 711-3 ; 
+
+b) Le 3° et le dernier alinéa de l'article L. 711-4 ; 
+
+c) Le deuxième alinéa de l'article L. 732-3 ; 
+
+d) Le dernier alinéa de l'article L. 742-25 ; 
+
+2° A l'article L. 742-24, la référence à l'article L. 733-7 n'est applicable qu'à compter du 1er janvier 2018 ; 
+
+3° Les mots : “ juge du tribunal d'instance ” sont remplacés dans toutes les occurrences par les mots : “ juge du tribunal de
+première instance ” ; 
+
+4° Les références aux organismes de sécurité sociale ne sont pas applicables ; 
+
+5° Les références au code de l'action sociale et des familles, au code du travail sont remplacées par les références aux
+dispositions applicables localement ayant le même objet.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 7
+
+	**Cite**:
+
+	  - Code de la consommation - art. L711-3 (V)
+	  - Code de la consommation - art. L732-3 (VT)
+	  - Code de la consommation - art. L733-7 (VT)
+	  - Code de la consommation - art. L742-25 (V)
+	  - Code de la consommation - art. L771-2 (VD)
+
+
+##### Section 2 : Dispositions applicables en Polynésie française et en Nouvelle-Calédonie 
+
+
+###### Article L771-4
+
+En Polynésie française et en Nouvelle-Calédonie, les établissements de crédit mentionnés au titre Ier du livre V du code
+monétaire et financier, les établissements de crédit et les sociétés de financement, les établissements de paiement, les
+établissement de monnaie électronique et les organismes mentionnés au 5 de l'article L. 511-6 du même code déclarent à la
+Banque de France les incidents de paiement liés aux crédits accordés aux personnes physiques pour des besoins non
+professionnels. Ces déclarations sont portées, dès leur réception, sur le fichier national des incidents de remboursement des
+crédits aux particuliers prévu à l'article L. 751-1. Elles sont mises à la disposition de l'ensemble des entreprises ayant
+accès au fichier. 
+
+Les frais afférents à ces déclarations ne peuvent être facturés aux personnes physiques concernées. La Banque de France est
+seule habilitée à centraliser ces incidents de paiement. Les informations relatives à ces incidents sont radiées
+immédiatement dès réception de la déclaration de paiement intégral des sommes dues effectuée par l'entreprise à l'origine de
+l'inscription au fichier. Elles ne peuvent en tout état de cause être conservées dans le fichier pendant plus de cinq ans à
+compter de la date d'enregistrement par la Banque de France de l'incident ayant entraîné la déclaration.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 7
+
+	**Cite**:
+
+	  - Code de la consommation - art. L751-1 (V)
+	  - Code monétaire et financier - art. L511-6 (V)
+
+
+###### Article L771-5
+
+Sont applicables en Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations prévues à l'article L. 771-6,
+les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la
+colonne de droite du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+ARTICLES APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="justify">
+
+L. 751-2 à L. 751-5
+
+</td>
+          <td align="justify">
+
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-301 du 14 mars 2016 (V)
+	  - Code de la consommation - art. L751-2 (V)
+	  - Code de la consommation - art. L771-6 (VD)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 7
+
+
+###### Article L771-6
+
+Pour l'application de l'article L. 751-2 en Polynésie française et en Nouvelle-Calédonie, ne sont pas applicables : 
+
+1° La référence au paragraphe 8 de l'article L. 511-6 du code monétaire et financier ; 
+
+2° Le dernier alinéa.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 7
+
+	**Cite**:
+
+	  - Code de la consommation - art. L751-2 (V)
+	  - Code monétaire et financier - art. L511-6 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L771-5 (VD)
+
+
+###### Article L771-7
+
+Dès que la commission de surendettement des particuliers instituée par la Polynésie française ou par la Nouvelle-Calédonie
+est saisie par un débiteur, elle en informe l'Institut d'émission d'outre-mer mentionné à l'article L. 712-4-1 du code
+monétaire et financier. Ce dernier en informe la Banque de France aux fins d'inscription au fichier mentionné à l'article L.
+751-1 du présent code. 
+
+Lorsque, sur recours de l'intéressé contre la décision d'une de ces commissions, une situation de surendettement est reconnue
+par le tribunal de première instance ou lorsque le débiteur a bénéficié de l'effacement des dettes résultant de la procédure
+de rétablissement personnel instituée par les dispositions applicables localement, le greffe du tribunal notifie cette
+décision à l'Institut d'émission d'outre-mer, qui en informe la Banque de France. 
+
+Le fichier recense les mesures du plan conventionnel de redressement instituées par la réglementation de Polynésie française
+ou de Nouvelle-Calédonie pour le traitement des situations de surendettement des particuliers. Ces mesures sont communiquées
+à la Banque de France par l'Institut d'émission d'outre-mer. L'inscription est conservée pendant toute la durée de
+l'exécution du plan conventionnel, sans pouvoir excéder cinq ans. 
+
+Le fichier recense également, le cas échéant, les mesures imposées ou recommandées par ces commissions en cas d'échec de sa
+mission de conciliation. Ces mesures sont communiquées à la Banque de France par l'Institut d'émission d'outre-mer ou par le
+greffe du tribunal de première instance lorsqu'elles sont soumises à l'homologation de ce tribunal. L'inscription est
+conservée pendant toute la durée d'exécution de ces mesures, sans pouvoir excéder cinq ans. 
+
+Lorsque les mesures du plan conventionnel ou celles imposées ou recommandées par une de ces commissions instituées en
+Polynésie française ou en Nouvelle-Calédonie sont exécutées sans incident, les informations relatives aux mentions qui ont
+entraîné leur déclaration sont radiées à l'expiration d'une période de cinq ans à compter de la signature du plan
+conventionnel ou de la date de la décision de la commission qui impose des mesures ou lorsque les mesures recommandées par la
+commission ont acquis force exécutoire. 
+
+Lorsque, pour une même personne, sont prescrits successivement un plan conventionnel et des mesures imposées ou recommandées
+par ces commissions, l'inscription est maintenue pendant la durée globale d'exécution du plan et des mesures sans pouvoir
+excéder cinq ans. 
+
+Pour les personnes ayant bénéficié de la procédure de rétablissement personnel prévues par la législation en vigueur
+localement, les informations relatives aux mentions correspondantes sont radiées à l'expiration d'une période de cinq ans à
+compter de la date d'homologation ou de clôture de la procédure, telle que prévue par la loi de pays en vigueur en Polynésie
+française ou par les dispositions spécifiques applicables en Nouvelle-Calédonie et réglementant le surendettement des
+particuliers.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 7
+
+	**Cite**:
+
+	  - Code de la consommation - art. L751-1 (V)
+	  - Code monétaire et financier - art. L712-4-1 (M)
+
+
+##### Section 3 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin 
+
+
+###### Article L771-8
+
+Les débiteurs domiciliés à Saint-Barthélemy et à Saint-Martin relèvent de la commission de surendettement de Guadeloupe.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 7
+
+
+###### Article L771-9
+
+L'article L. 733-4 ainsi que la dernière phrase du 2° de l'article L. 733-7 ne sont pas applicables à Saint-Barthélemy et à
+Saint-Martin.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 7
+
+	**Cite**:
+
+	  - Code de la consommation - art. L733-4 (VT)
+	  - Code de la consommation - art. L733-7 (VT)
+
+
+##### Section 4 : Dispositions relatives à Saint-Pierre-et-Miquelon 
+
+###### Article L771-10
+
+Une commission de surendettement des particuliers siège à Saint-Pierre-et-Miquelon.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 7
+
+
+###### Article L771-11
+
+L'article L. 733-4 ainsi que la dernière phrase du 2° de l'article L. 733-7 ne sont pas applicables à Saint-Pierre-et-
+Miquelon.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 7
+
+	**Cite**:
+
+	  - Code de la consommation - art. L733-4 (VD)
+	  - Code de la consommation - art. L733-7 (VT)
+
+
+##### Section 5 : Dispositions communes 
+
+###### Article L771-12
+
+Dans les collectivités relevant de l'article 73 de la Constitution, à Saint-Barthélemy, à Saint-Martin, et à Saint-Pierre-et-
+Miquelon, l'Institut d'émission des départements d'outre-mer exerce, en liaison avec la Banque de France, les attributions
+dévolues à celle-ci par le présent livre.
+
+**Nota:**
+
+Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
+date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
+le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Constitution du 4 octobre 1958 - art. 73 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-269 du 2 mars 2017 - art. 7
+
+
 ## Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION
 
 ### Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS
@@ -36605,6 +39661,134 @@ d) Des éléments de liaison au sol qui sont assemblés, soumis à usure mécani
 	**Cite**:
 
 	  - Code de la consommation - art. R224-22
+
+
+##### Section 11 : Accès aux données de consommation d'électricité ou de gaz naturel
+
+###### Article D224-26
+
+Lorsque le consommateur est équipé d'un dispositif de comptage qui peut être relevé à distance et tel que défini aux premiers
+alinéas des articles L. 341-4 et L. 453-7 du code de l'énergie, le fournisseur d'électricité ou de gaz naturel met à sa
+disposition dans un espace sécurisé d'un site internet :
+
+1° Les index mensuels en précisant s'ils sont relevés à distance ou estimés ;
+
+2° La consommation mensuelle et annuelle, le cas échéant par période tarifaire, en kilowattheures pour l'électricité, en m3
+et en kilowattheures avec le coefficient de conversion appliqué pour le gaz naturel ;
+
+3° La puissance électrique maximale soutirée par période mensuelle et annuelle, en kilovoltampères ;
+
+4° Les factures émises ;
+
+5° Le cas échéant, les données mentionnées au 3° de l'article D. 224-27 ;
+
+6° A la demande du consommateur, l'évaluation mentionnée à l'article D. 224-29 ;
+
+7° Une fonctionnalité qui permet la récupération sous forme électronique de tout ou partie des données mentionnées au présent
+article, dans un standard ouvert, aisément réutilisable et exploitable par un système de traitement automatisé ;
+
+8° Une fonctionnalité permettant de demander la suppression des données mentionnées au 3° de l'article D. 224-27
+enregistrées, le cas échéant, par le fournisseur.
+
+Les dispositions du 1° au 4° sont applicables aux données se rapportant aux consommations d'énergie concernant au moins les
+trois dernières années ou la durée écoulée depuis le début du contrat de fourniture lorsque celle-ci est inférieure.
+
+Le fournisseur adresse annuellement au consommateur, à sa demande, les données mentionnées aux 1°, 2° et 3° pour les douze
+derniers mois par lettre postale, sans préjudice des dispositions de l'article D. 224-29.
+
+**Nota:**
+
+Décret n° 2017-976 du 10 mai 2017, Art. 2 : Ces dispositions entrent en vigueur le 1er juillet 2018. Toutefois, elles entrent
+en vigueur le 1er juillet 2017 pour les fournisseurs ayant 150 000 clients ou plus, à l'exception de celles mentionnées aux
+1°, 5°, 6°, 7° et 8° de l'article D. 224-26 et des dispositions de l'article D. 224-27.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-976 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L341-4
+	  - Code de l'énergie - art. L453-7
+
+
+###### Article D224-28
+
+L'espace sécurisé mentionné à l'article D. 224-26 comporte :
+
+1° Une information sur les caractéristiques et l'utilité des données mises à disposition ;
+
+2° Une information sur les fonctionnalités prévues à l'article D. 224-27, assortie d'une mention précisant que leur
+activation implique la transmission des données correspondantes au fournisseur et que le consommateur a la possibilité
+d'accéder à ces données sur un espace sécurisé mis à sa disposition par le gestionnaire de réseau de distribution ;
+
+3° Un lien direct vers :
+
+a) Le site internet du gestionnaire de réseau de distribution ;
+
+b) Le site internet mis en place pour informer les consommateurs d'énergie sur leurs droits en application du premier alinéa
+de l'article L. 122-1 du code de l'énergie ;
+
+c) Le site internet mentionné au 17° de l'article L. 224-3 du présent code.
+
+Lors de la souscription du contrat de fourniture puis une fois par an au moins, le fournisseur informe le consommateur, sur
+un support durable, qu'il peut accéder à ses données de consommation dans l'espace sécurisé mentionné à l'article D. 224-26
+et sur un espace sécurisé mis à sa disposition par le gestionnaire de réseau de distribution.
+
+**Nota:**
+
+Décret n° 2017-976 du 10 mai 2017, Art. 2 : Ces dispositions entrent en vigueur le 1er juillet 2018. Toutefois, elles entrent
+en vigueur le 1er juillet 2017 pour les fournisseurs ayant 150 000 clients ou plus, à l'exception de celles mentionnées aux
+1°, 5°, 6°, 7° et 8° de l'article D. 224-26 et des dispositions de l'article D. 224-27.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-976 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L122-1
+
+
+###### Article D224-29
+
+Le fournisseur d'électricité ou de gaz naturel transmet au consommateur sur un support durable une évaluation du coût de
+l'énergie consommée qui n'a pas encore été facturée, incluant l'abonnement, les taxes et les contributions.
+
+Cette évaluation précise qu'elle :
+
+1° Est fournie au consommateur à titre informatif ;
+
+2° Concerne une consommation d'énergie non encore facturée ;
+
+3° Ne constitue pas une demande de paiement ;
+
+4° Est fondée sur la consommation réelle, estimée ou sur les index auto-relevés transmis par le consommateur.
+
+La transmission a lieu au moins une fois par trimestre à la demande du consommateur ou s'il a opté pour une facture
+électronique, ou deux fois par an dans les autres cas.
+
+Toutefois, l'évaluation n'est pas transmise en cas d'envoi d'une facture dans les conditions prévues au 1° ou si le
+consommateur disposant de l'évaluation sur l'espace sécurisé mentionné à l'article D. 224-26 y a renoncé expressément.
+
+La transmission de l'évaluation ne s'applique pas aux consommateurs de gaz naturel dont la consommation annuelle de référence
+est inférieure à 1 000 kilowattheures par an.
+
+**Nota:**
+
+Décret n° 2017-976 du 10 mai 2017, Art. 2 : Ces dispositions entrent en vigueur le 1er juillet 2018. Toutefois, elles entrent
+en vigueur le 1er juillet 2017 pour les fournisseurs ayant 150 000 clients ou plus, à l'exception de celles mentionnées aux
+1°, 5°, 6°, 7° et 8° de l'article D. 224-26 et des dispositions de l'article D. 224-27.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-976 du 10 mai 2017 - art. 1
 
 
 ### Titre IV : SANCTIONS
