@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-05-25
 
 # Partie législative nouvelle
 
@@ -7742,6 +7742,93 @@ professionnels.
 	  - Code de la consommation - art. L121-85 (Ab)
 
 
+##### Sous-section 4 : Récupération et portabilité des données 
+
+
+###### Article L224-42-1
+
+Le consommateur dispose en toutes circonstances d'un droit de récupération de l'ensemble de ses données.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 48 (V)
+
+
+###### Article L224-42-2
+
+Cette récupération s'exerce conformément aux conditions prévues à l'article 20 du règlement (UE) n° 2016/679 du Parlement
+européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à
+caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/ CE, pour les données ayant un
+caractère personnel, et à la présente sous-section pour les autres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 48 (V)
+
+
+###### Article L224-42-3
+
+Sans préjudice des dispositions protégeant le secret en matière commerciale et industrielle et des droits de propriété
+intellectuelle, tout fournisseur d'un service de communication au public en ligne propose au consommateur une fonctionnalité
+gratuite permettant la récupération : 
+
+1° De tous les fichiers mis en ligne par le consommateur ; 
+
+2° De toutes les données résultant de l'utilisation du compte d'utilisateur du consommateur et consultables en ligne par
+celui-ci, à l'exception de celles ayant fait l'objet d'un enrichissement significatif par le fournisseur en cause. Ces
+données sont récupérées dans un standard ouvert, aisément réutilisable et exploitable par un système de traitement
+automatisé ; 
+
+3° D'autres données associées au compte utilisateur du consommateur et répondant aux conditions suivantes : 
+
+a) Ces données facilitent le changement de fournisseur de service ou permettent d'accéder à d'autres services ; 
+
+b) L'identification des données prend en compte l'importance économique des services concernés, l'intensité de la concurrence
+entre les fournisseurs, l'utilité pour le consommateur, la fréquence et les enjeux financiers de l'usage de ces services. 
+
+La fonctionnalité prévue au premier alinéa permet au consommateur de récupérer, par une requête unique, l'ensemble des
+fichiers ou données concernés. Le fournisseur prend toutes les mesures nécessaires à cette fin, en termes d'interface de
+programmation et de transmission des informations nécessaires au changement de fournisseur. 
+
+Lorsque les données collectées auprès du consommateur ne peuvent pas être récupérées dans un standard ouvert et aisément
+réutilisable, le fournisseur de service de communication au public en ligne en informe le consommateur de façon claire et
+transparente. Le cas échéant, il l'informe des modalités alternatives de récupération de ces données et précise les
+caractéristiques techniques du format du fichier de récupération, notamment son caractère ouvert et interopérable. 
+
+Un décret détermine une liste de types d'enrichissements présumés non significatifs ne pouvant justifier un refus de
+récupération des données concernées en vertu du 2°. En cas de litige, il appartient au professionnel d'apporter la preuve du
+caractère significatif de l'enrichissement allégué. 
+
+Les données mentionnées au 3° sont précisées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 48 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L242-20 (VD)
+
+
+###### Article L224-42-4
+
+La présente sous-section ne s'applique pas aux fournisseurs d'un service de communication au public en ligne dont le nombre
+de comptes d'utilisateurs ayant fait l'objet d'une connexion au cours des six derniers mois est inférieur à un seuil fixé par
+décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 48 (V)
+
+
 ##### Section 4 : Services accessibles par l'intermédiaire des opérateurs de communications électroniques
 
 ##### Sous-section 1 : Services à valeur ajoutée
@@ -10631,9 +10718,9 @@ par le professionnel sont de plein droit majorées de moitié.
 
 ###### Article L242-20
 
-Tout manquement aux dispositions des articles L. 224-27 à L. 224-40 ainsi qu'aux articles L. 224-57 et L. 224-58 est passible
-d'une amende administrative dont le montant ne peut excéder 3 000 euros pour une personne physique et 15 000 euros pour une
-personne morale. 
+Tout manquement aux dispositions des articles L. 224-27 à L. 224-40 ainsi qu'aux articles L. 224-42-3, L. 224-57 et L. 224-58
+est passible d'une amende administrative dont le montant ne peut excéder 3 000 euros pour une personne physique et 15 000
+euros pour une personne morale. 
 
 Cette amende est prononcée dans les conditions prévues au chapitre II du titre II du livre V.
 
@@ -10643,18 +10730,15 @@ Cette amende est prononcée dans les conditions prévues au chapitre II du titre
 
 	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-	**Anciens textes**:
-
-	  - Code de la consommation - art. L121-85-1 (Ab)
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 48 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L224-27 (VD)
-	  - Code de la consommation - art. L224-57 (VD)
+	  - Code de la consommation - art. L224-27
+	  - Code de la consommation - art. L224-42-3
+	  - Code de la consommation - art. L224-57
 
 
 ##### Sous-section 3 : Services accessibles par l'intermédiaire des opérateurs de communications électroniques
@@ -33751,10 +33835,6 @@ janvier 2018. Elles s'appliquent aux dossiers de surendettement déposés à com
 	  - Code de la consommation - art. L771-3 (VD)
 
 
-#### Chapitre III : Mesures imposées ou recommandées
-
-##### Section 1 : Contenu et adoption des mesures imposées ou recommandées
-
 #### Chapitre III : Mesures imposées
 
 ##### Section 1 : Contenu et adoption des mesures imposées
@@ -53374,12 +53454,6 @@ articles L. 721-3, L. 722-4 et L. 722-6.
 	  - Code de la consommation - art. R334-3 (Ab)
 
 
-#### Chapitre III : Mesures imposées ou recommandées
-
-##### Section 1 : Contenu et adoption des mesures imposées ou recommandées
-
-##### Section 2 : Contestation des mesures imposées ou recommandées
-
 #### Chapitre III : Mesures imposées
 
 ##### Section 1 : Contenu et adoption des mesures imposées
@@ -53881,8 +53955,6 @@ secrétariat la transmet, avec le dossier, au greffe du tribunal d'instance.
 
 	  - Code de la consommation - art. R743-1 (V)
 
-
-##### Section 2 : Contestation de la recommandation aux fins de rétablissement personnel sans liquidation judiciaire
 
 ##### Section 2 : Contestation de la décision de la commission imposant un rétablissement personnel sans liquidation judiciaire
 
